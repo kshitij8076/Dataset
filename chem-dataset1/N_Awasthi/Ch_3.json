@@ -1,0 +1,3213 @@
+[
+  {
+    "question_number": 1,
+    "question": "Which one of the following statements is not correct about the three states of matter i.e., solid, liquid and gaseous ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Molecules of a solid possess least energy whereas those of a gas possess highest energy",
+      "(b) The density of solid is highest whereas that of gases is lowest",
+      "(c) Gases and liquids possess definite volumes",
+      "(d) Molecules of a solid possess vibratory motion"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "Which of the following curve does not represent Boyle's law?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P vs V graph, showing a hyperbolic decrease.",
+      "(b) log P vs log (V⁻¹) graph, a straight line with a 45° positive slope from the origin.",
+      "(c) log P vs log (V⁻¹) graph, a straight line with a 135° angle (negative slope).",
+      "(d) PV vs V graph, a horizontal line."
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "A certain sample of gas has a volume of 0.2 litre measured at 1 atm pressure and 0°C. At the same pressure but at 273°C, its volume will be:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.4 litre",
+      "(b) 0.8 litre",
+      "(c) 27.8 litres",
+      "(d) 55.6 litres"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "Among the following curves, which is not according to Charle's law ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) V vs T graph, a straight line with positive slope from origin.",
+      "(b) log P vs log T graph, a straight line with a 45° slope from origin.",
+      "(c) VT vs T² graph, a straight line with positive slope from origin.",
+      "(d) V/T vs V graph, a horizontal line."
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "At what temperature, the sample of neon gas would be heated to double its pressure, if the initial volume of gas is reduced by 15% at 75°C ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 319°C",
+      "(b) 592°C",
+      "(c) 128°C",
+      "(d) 60°C"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "Which is correct curve for Charle's law, when the curve is plotted at 0.821 atm pressure for 10 mole ideal gas?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) V/T (L K⁻¹) vs V(L) graph, with slope θ=45°.",
+      "(b) V²/T (L²K⁻¹) vs V(L) graph, with slope θ=45°.",
+      "(c) V vs T graph, with slope θ=30°.",
+      "(d) log V vs log T graph, with slope θ=135°."
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "At constant volume, for a fixed number of moles of a gas, the pressure of the gas increases with increase in temperature due to:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Increase in the average molecular speed",
+      "(b) Increase rate of collision amongst molecules",
+      "(c) Increase in molecular attraction",
+      "(d) Decrease in mean free path"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "Which in not correct curve for gay-lusacc's law ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) log P vs log T graph with a 45° slope from origin.",
+      "(b) P (atm) vs T(K) graph, a straight line with positive slope from origin.",
+      "(c) P/T vs T graph, a horizontal line.",
+      "(d) P/T vs T graph, a straight line with positive slope from origin."
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "Three flasks of equal volumes contain CH₄, CO₂ and Cl₂ gases respectively. They will contain equal number of molecules if :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) the mass of all the gases is same",
+      "(b) the moles of all the gas is same but temperature is different",
+      "(c) temperature and pressure of all the flasks are same",
+      "(d) temperature, pressure and masses same in the flasks"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "Which is incorrect curve for Boyle's law ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P/V vs 1/V graph, an increasing curve from origin.",
+      "(b) log P vs log V graph, a straight line with 135° angle.",
+      "(c) P/V vs 1/V² graph, a straight line from origin.",
+      "(d) PV² vs V graph, a straight line from origin."
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "\"Equal volumes of all gases at the same temperature and pressure contain equal number of particles.\" This statement is a direct consequence of :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Avogadro's law",
+      "(b) Charle's law",
+      "(c) Ideal gas equation",
+      "(d) Law of partial pressure"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "A 2.24L cylinder of oxygen at 1 atm and 273 K is found to develop a leakage. When the leakage was plugged the pressure dropped to 570 mm of Hg. The number of moles of gas that escaped will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.025",
+      "(b) 0.050",
+      "(c) 0.075",
+      "(d) 0.09"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "Which of the following curve is correct for an ideal gas ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) n, T constant: P vs V showing a hyperbola.",
+      "(b) V, n constant: P vs T showing a vertical line.",
+      "(c) V, T constant: P vs n showing a straight line from the origin.",
+      "(d) P, n constant: V vs T showing a vertical line."
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "In the equation of state of an ideal gas PV = nRT, the value of the universal gas constant is not correct:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 8.314 JK⁻¹mol⁻¹",
+      "(b) 0.0821 atm L mol⁻¹K⁻¹",
+      "(c) 0.8314 b L mol⁻¹K⁻¹",
+      "(d) 2 cal mol⁻¹K⁻¹"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "At 0°C and one atm pressure, a gas occupies 100 cc. If the pressure is increased to one and a half-time and temperature is increased by one-third of absolute temperature, then final volume of the gas will be:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 80 cc",
+      "(b) 88.9 cc",
+      "(c) 66.7 cc",
+      "(d) 100 cc"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "10 gm of a gas at 1 atm and 273 K occupies 5 litres. The temperature at which the volume becomes double for the same mass of gas at the same pressure is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 273 K",
+      "(b) -273°C",
+      "(c) 273°C",
+      "(d) 546°C"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "Which of the following curve does not represent gay lusacc's law?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P(atm) vs t°C graph",
+      "(b) P(atm) vs t°C graph",
+      "(c) P(atm) vs T(K) graph",
+      "(d) log P vs log T graph"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question": "Densities of two gases are in the ratio 1: 2 and their temperatures are in the ratio 2: 1, then the ratio of their respective molar mass at certain pressure is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1:1",
+      "(b) 1:2",
+      "(c) 2:1",
+      "(d) 4:1"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question": "Two separate bulbs contain ideal gases A and B. The density of gas A is twice that of gas B. The molecular mass of A is half that of gas B. The two gases are at the same temperature. The ratio of the pressure of A to that of gas B is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2",
+      "(b) 1/2",
+      "(c) 4",
+      "(d) 1/4"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "Volume of the air that will be expelled from a vessel of 300 cm³ when it is heated from 27°C to 37°C at the same pressure will be:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 310 cm³",
+      "(b) 290 cm³",
+      "(c) 10 cm³",
+      "(d) 37 cm³"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question": "V versus T curves at constant pressure P₁ and P₂ for an ideal gas are shown in fig. Which is correct?",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_1.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P₁ > P₂",
+      "(b) P₁ < P₂",
+      "(c) P₁ = P₂",
+      "(d) All of these"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question": "Two flasks A and B of 500 mL each are respectively filled with O₂ and SO₂ at 300 K and 1 atm. pressure. The flasks will contain:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) The same number of atoms",
+      "(b) The same number of molecules",
+      "(c) More number of moles of molecules in flask A as compared to flask B",
+      "(d) The same amount of gases"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question": "2.8 g of a gas at 1atm and 273K occupies a volume of 2.24 litres, the gas can not be:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) O₂",
+      "(b) CO",
+      "(c) N₂",
+      "(d) C₂H₄"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question": "Five grams each of the following gases at 87°C and 750 mm pressure are taken. Which of them will have the least volume ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) HF",
+      "(b) HCl",
+      "(c) HBr",
+      "(d) HI"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question": "At what pressure a quantity of gas will occupy a volume of 60 mL, if it occupies a volume of 100 mL at a pressure of 720 mm (while temperature is constant) :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 700 mm",
+      "(b) 800 mm",
+      "(c) 100 mm",
+      "(d) 1200 mm"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question": "At 1 atm and 273 K the density of gas, whose molecular weight is 45, is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 44.8 g/L",
+      "(b) 11.4 g/L",
+      "(c) 2 g/L",
+      "(d) 3 g/L"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question": "A small bubble rises from the bottom of a lake, where the temperature and pressure are 8°C and 6.0 atm, to the water's surface, where the temperature is 25°C and pressure is 1.0 atm. Calculate the final volume of the bubble if its initial volume was 2 mL.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 14 mL",
+      "(b) 12.72 mL",
+      "(c) 11.31 mL",
+      "(d) 15 mL"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question": "Argon is an inert gas used in light bulbs to retard the vaporization of the filament. A certain light-bulb containing argon at 1.25 atm and 18°C is heated to 85°C at constant volume. Calculate its final pressure.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.53 atm",
+      "(b) 1.25 atm",
+      "(c) 1.35 atm",
+      "(d) 2 atm"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question": "Calculate the volume of O₂ at 1 atm and 273 K required for the complete combustion of 2.64 L of acetylene (C₂H₂) at 1 atm and 273 K. 2C₂H₂(g) + 5O₂(g) → 4CO₂(g) + 2H₂O(l)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 3.6 L",
+      "(b) 1.056 L",
+      "(c) 6.6 L",
+      "(d) 10 L"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question": "The density of O₂(g) is maximum at:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) STP",
+      "(b) 273 K and 2 atm",
+      "(c) 546 K and 1 atm",
+      "(d) 546 K and 2 atm"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question": "At 27°C a sample of ammonia gas exerts a pressure of 5.3 atm. What is the pressure when the volume of the gas is reduced to one-tenth of the original value at the same temperature?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.53 atm",
+      "(b) 5.3 atm",
+      "(c) 53 atm",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question": "A certain amount of gas at 25°C and at a pressure of 0.80 atm is contained in a glass vessel. Suppose that the vessel can withstand a pressure of 2.0 atm. How high can you raise the temperature of the gas without bursting the vessel?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 745°C",
+      "(b) 472°C",
+      "(c) 500°C",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question": "Which one of these graphs for an ideal gas, the arrow indication is incorrectly marked ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P vs T graph, arrow shows decreasing volume",
+      "(b) P vs T(°C) graph, arrow shows decreasing pressure",
+      "(c) P vs V graph, arrow shows increasing temperature",
+      "(d) P vs 1/V graph, arrow shows decreasing pressure"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question": "The pressure of sodium vapour in a 1.0 L container is 10 torr at 1000°C. How many atoms are in the container?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 9.7 x 10¹⁷",
+      "(b) 7.6 x 10¹⁹",
+      "(c) 4.2 x 10¹⁷",
+      "(d) 9.7 x 10¹⁹"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question": "An ideal gaseous mixture of ethane (C₂H₆) and ethene (C₂H₄) occupies 28 litre at 1 atm and 273 K. The mixture reacts completely with 128 gm O₂ to produce CO₂ and H₂O. Mole fraction at C₂H₄ in the mixture is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.6",
+      "(b) 0.4",
+      "(c) 0.5",
+      "(d) 0.8"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question": "A certain hydrate has the formula MgSO₄.xH₂O. A quantity of 54.2 g of the compound is heated in an oven to drive off the water. If the steam generated exerts a pressure of 24.8 atm in a 2.0 L container at 120°C, calculate x.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2",
+      "(b) 5",
+      "(c) 6",
+      "(d) 7"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question": "Air entering the lungs ends up in tiny sacs called alveoli. It is from the alveoli that oxygen diffuses into the blood. The average radius of the alveoli is 0.0050 cm and the air inside contains 14 per cent oxygen. Assuming that the pressure in the alveoli is 1.0 atm and the temperature is 37°C, calculate the number of oxygen molecules in one of the alveoli.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 6 x 10¹³",
+      "(b) 10²⁴",
+      "(c) 1.7 x 10²²",
+      "(d) 1.7 x 10⁹"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question": "Nitrogen forms several gaseous oxides. One of them has a density of 1.33 g/L measured at 764 mmHg and 150°C. Write the formula of the compound.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) NO",
+      "(b) N₂O",
+      "(c) NO₂",
+      "(d) N₂O₅"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question": "Starting out on a trip into the mountains, you inflate the tires on your automobile to a recommended pressure of 3.21 × 10⁵ Pa on a day when the temperature is -5.0°C. You drive to the beach, where the temperature is 28.0°C. Assume that the volume of the tire has increased by 3%. What is the final pressure in the tyres?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 350 Pa",
+      "(b) 3500 Pa",
+      "(c) 3.5 x 10⁵ Pa",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question": "A compressed cylinder of gas contains 1.50 × 10³ g of N₂ gas at a pressure of 2.0 × 10⁷ Pa and a temperature of 17.1°C. What volume of gas has been released into the atmosphere if the final pressure in the cylinder is 1.80 × 10⁵ Pa? Assume ideal behaviour and that the gas temperature is unchanged.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1260 L",
+      "(b) 126 L",
+      "(c) 12600 L",
+      "(d) 45 L"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question": "A high-altitude balloon is filled with 1.41 × 10⁴ L of hydrogen at a temperature of 21°C and a pressure of 745 torr. What is the volume of the balloon at a height of 20 km, where the temperature is -48°C and the pressure is 63.1 torr?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.274 × 10⁵ L",
+      "(b) 1.66 x 10⁵ L",
+      "(c) 1.66 × 10⁴ L",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 42,
+    "question": "The atmospheric pressure on Mars is 0.61 kPa. What is the pressure in mm Hg?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.63",
+      "(b) 4.6",
+      "(c) 6.3",
+      "(d) 3.2"
+    ]
+  },
+  {
+    "question_number": 43,
+    "question": "The density of liquid gallium at 30°C is 6.095 g/mL. Because of its wide liquid range (30 to 2400°C), gallium could be used as a barometer fluid at high temperature. What height (in cm) of gallium will be supported on a day when the mercury barometer reads 740 torr? (The density of mercury is 13.6 g/mL.).",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 322",
+      "(b) 285",
+      "(c) 165",
+      "(d) 210"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question": "A weather balloon is inflated with helium. The balloon has a volume of 100 m³ and it must be inflated to a pressure of 0.10 atm. If 50 L gas cylinders of helium at a pressure of 100 atm are used, how many cylinders are needed? Assume that the temperature is constant.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2",
+      "(b) 3",
+      "(c) 4",
+      "(d) 1"
+    ]
+  },
+  {
+    "question_number": 45,
+    "question": "A balloon contains 14.0 L of air at 760 torr. What will be the volume of the balloon when it is taken to a depth of 10 ft. in a swimming pool? Assume that the temperature of the air and water are equal. (density: Hg = 13.6 g/mL.)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 11.0",
+      "(b) 11.3",
+      "(c) 10",
+      "(d) 10.8"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question": "A 0.50 L container is occupied by nitrogen at a pressure of 800 torr and a temperature of 0°C. The container can only withstand a pressure of 3.0 atm. What is the highest temperature (°C) to which the container may be heated?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 505",
+      "(b) 450",
+      "(c) 625",
+      "(d) 560"
+    ]
+  },
+  {
+    "question_number": 47,
+    "question": "Equal volumes of oxygen gas and a second gas weigh 1.00 and 2.375 grams respectively under the same experimental conditions. Which of the following is the unknown gas?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) NO",
+      "(b) SO₂",
+      "(c) CS₂",
+      "(d) CO"
+    ]
+  },
+  {
+    "question_number": 48,
+    "question": "A high altitude balloon contains 6.81 g of helium in 1.16 × 10⁴ L at -23°C. Assuming ideal gas behaviour, how many grams of helium would have to be added to increase the pressure to 4.0 x 10⁻³ atm?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.27",
+      "(b) 1.58",
+      "(c) 2.68",
+      "(d) 2.13"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question": "A 4.40 g piece of solid CO₂ (dry ice) is allowed to sublime in a balloon. The final volume of the balloon is 1.00 L at 300 K. What is the pressure (atm) of the gas?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.122",
+      "(b) 2.46",
+      "(c) 122",
+      "(d) 24.6"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question": "For a closed (not rigid) container containing n = 10 moles of an ideal gas fitted with movable, frictionless, weightless piston operating such that pressure of gas remains constant at 0.821 atm, which graph represents correct variation of log V vs log T where V is in litre and T in kelvin.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) A straight line with slope 45° passing through the origin.",
+      "(b) A straight line with slope 30° passing through the origin.",
+      "(c) A straight line with slope 45° and a y-intercept of 1.",
+      "(d) A straight line with slope 45° starting from a positive y-intercept."
+    ]
+  },
+  {
+    "question_number": 51,
+    "question": "The intercept on y-axis and slope of curve plotted between P/T vs. T for an ideal gas having 10 moles in a closed rigid container of volume 8.21 L. (P = Pressure in atm and T = Temp. in K, log₁₀ 2 = 0.30) are respectively:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.01, 0",
+      "(b) 0.1, 0",
+      "(c) 0.1, 1",
+      "(d) 10, 1"
+    ]
+  },
+  {
+    "question_number": 52,
+    "question": "A He atom at 300 K is released from the surface of the earth to travel upwards, assuming that it undergoes no collision with other molecules, how high will it be before coming to the rest?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 9.53 m",
+      "(b) 95.3 m",
+      "(c) 953 m",
+      "(d) 9.53 x 10⁴ m"
+    ]
+  },
+  {
+    "question_number": 53,
+    "question": "The density of gas A is twice that to B at the same temperature the molecular weight of gas B is twice that of A. The ratio of pressure of gas A and B will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1:6",
+      "(b) 1:1",
+      "(c) 4:1",
+      "(d) 1:4"
+    ]
+  },
+  {
+    "question_number": 54,
+    "question": "Two inflated ballons I and II (thin skin) having volume 600 mL and 1500 mL at 300 K are taken as shown in diagram. If maximum volume of inner and outer balloons are 800 mL and 1800 mL respectively then find the balloon which will burst first on gradual heating.",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_2.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) inner balloon",
+      "(b) outer balloon",
+      "(c) both simultaneously",
+      "(d) unpredictable"
+    ]
+  },
+  {
+    "question_number": 55,
+    "question": "An open flask containing air is heated from 300 K to 500 K. What percentage of air will be escaped to the atmosphere, if pressure is keeping constant?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 80",
+      "(b) 40",
+      "(c) 60",
+      "(d) 20"
+    ]
+  },
+  {
+    "question_number": 56,
+    "question": "The value of universal gas constant R depends on :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) temperature of gas",
+      "(b) volume of gas",
+      "(c) number of moles of gas",
+      "(d) units of volume and pressure"
+    ]
+  },
+  {
+    "question_number": 57,
+    "question": "A manometer attached to a flask contains with ammonia gas have no difference in mercury level initially as shown in diagram. After sparking into the flask, ammonia is partially dissociated as 2NH₃(g) ⇌ N₂(g) + 3H₂(g) now it have difference of 6 cm in mercury level in two columns, what is partial pressure of H₂(g) at equilibrium? (P_atm = 76 cm Hg)",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_3.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 9 cm Hg",
+      "(b) 18 cm Hg",
+      "(c) 27 cm Hg",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 58,
+    "question": "An ideal gas is collected by downward displacement of water. Select the correct expression for P_gas according to the diagram [d_Hg = 13.6g/cm³]:",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_4.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P_gas = P_atmp - aq. Tension + h/13.6",
+      "(b) P_gas = P_atm - hdg",
+      "(c) P_gas = P_atmp - aq. Tension + h/13.6",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 59,
+    "question": "A bubble of gas released at the bottom of a lake increases to four times its original volume when it reaches the surface. Assuming that atmospheric pressure is equivalent to the pressure exerted by a column of water 10 m high, what is the depth of the lake?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 20 m",
+      "(b) 10 m",
+      "(c) 30 m",
+      "(d) 40 m"
+    ]
+  },
+  {
+    "question_number": 60,
+    "question": "Calculate the number of moles of gas present in the container of volume 10 L at 300 K. If the manometer containing glycerin shows 5 m difference in level as shown diagram. (Given: d_glycerin = 2.72 g/mL; d_mercury = 13.6 g/mL, P_atm = 1 atm)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.94 mole",
+      "(b) 0.49 mole",
+      "(c) 0.64 mole",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 61,
+    "question": "A rigid vessel of volume 0.50 m³ containing H₂ at 20.5°C and a pressure of 611 x 10³ Pa is connected to a second rigid vessel of volume 0.75 m³ containing Ar at 31.2°C at a pressure of 433 × 10³ Pa. A valve separating the two vessels is opened and both are cooled to a temperature of 14.5°C. What is the final pressure in the vessels?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2 x 10⁵ Pa",
+      "(b) 3.22 x 10⁵ Pa",
+      "(c) 4840 Pa",
+      "(d) 4.84 x 10⁵ Pa"
+    ]
+  },
+  {
+    "question_number": 62,
+    "question": "Two glass bulbs A and B at same temperature are connected by a very small tube having a stop-cock. Bulb A has a volume of 100 cm³ and contained the gas while bulb B was empty. On opening the stop-cock, the pressure fell down to 20%. The volume of the bulb B is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 100 cm³",
+      "(b) 200 cm³",
+      "(c) 250 cm³",
+      "(d) 400 cm³"
+    ]
+  },
+  {
+    "question_number": 63,
+    "question": "A mixture of C₂H₂ and C₃H₈ occupied a certain volume at 80 mm Hg. The mixture was completely burnt to CO₂ and H₂O(l). When the pressure of CO₂ was found to be 230 mm Hg at the same temperature and volume, the mole fraction of C₃H₈ in the mixture is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.125",
+      "(b) 0.875",
+      "(c) 0.6",
+      "(d) 0.8"
+    ]
+  },
+  {
+    "question_number": 64,
+    "question": "The total pressure of a mixture of oxygen and hydrogen is 1.0 atm. The mixture is ignited and the water is removed. The remaining gas is pure hydrogen and exerts a pressure of 0.40 atm when measured at the same values of T and V as the original mixture. What was the composition of the original mixture in mole per cent?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) x_O₂ = 0.2; x_H₂ = 0.8",
+      "(b) x_O₂ = 0.4; x_H₂ = 0.6",
+      "(c) x_O₂ = 0.6; x_H₂ = 0.4",
+      "(d) x_O₂ = 0.8; x_H₂ = 0.2"
+    ]
+  },
+  {
+    "question_number": 65,
+    "question": "Two closed vessel A and B of equal volume of 8.21 L are connected by a narrow tube of negligible volume with open valve. The left hand side container is found to contain 3 mole CO₂ and 2 mole of He at 400 K, what is the partial pressure of He in vessel B at 500 K?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2.4 atm",
+      "(b) 8 atm",
+      "(c) 12 atm",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 66,
+    "question": "At STP, a container has 1 mole of He, 2 mole Ne, 3 mole O₂ and 4 mole N₂. Without changing total pressure if 2 mole of O₂ is removed, the partial pressure of O₂ will be decreased by :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 26%",
+      "(b) 40%",
+      "(c) 58.33%",
+      "(d) 66.66%"
+    ]
+  },
+  {
+    "question_number": 67,
+    "question": "A 821 mL N₂(g) was collected over liquid water at 300 K and 1 atm. If vapour pressure of H₂O is 30 torr then moles of N₂(g) in moist gas mixture is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.39",
+      "(b) 0.032",
+      "(c) 0.96",
+      "(d) 0.0013"
+    ]
+  },
+  {
+    "question_number": 68,
+    "question": "Let p and pₛ be the partial pressure of H₂O(g) and vapour pressure of H₂O(l) respectively. Then the % relative humidity is given by:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ((pₛ + p)/pₛ) × 100",
+      "(b) (p/pₛ) × 100",
+      "(c) (pₛ/p) × 100",
+      "(d) (p + pₛ) × 100"
+    ]
+  },
+  {
+    "question_number": 69,
+    "question": "The vapour pressure of water at 80°C is 355 mm of Hg. 1 L vessel contains O₂ at 80°C, saturated with water the total pressure being 760 mm of Hg. The contents of the vessel were pumped into 0.3 L vessel at the same temperature. What is the partial pressure of O₂?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1350 Hg",
+      "(b) 2178.3 Hg",
+      "(c) 121.5 Hg",
+      "(d) 355 Hg"
+    ]
+  },
+  {
+    "question_number": 70,
+    "question": "Which of the following gas mixture is not applicable for Dalton's law of partial pressure?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) SO₂ and Cl₂",
+      "(b) CO₂ and N₂",
+      "(c) CO and CO₂",
+      "(d) CO and N₂"
+    ]
+  },
+  {
+    "question_number": 71,
+    "question": "Equal masses of methane and oxygen are mixed in an empty container at 25°C. The fraction of the total pressure exerted by oxygen is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2/3",
+      "(b) (1/3) × (273/298)",
+      "(c) 1/3",
+      "(d) 1/2"
+    ]
+  },
+  {
+    "question_number": 72,
+    "question": "A box of 1 L capacity is divided into two equal compartments by a thin partition which are filled with 2g H₂ and 16 g CH₄ respectively. The pressure in each compartment is recorded as P atm. The total pressure when partition is removed will be:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P",
+      "(b) 2P",
+      "(c) P/2",
+      "(d) P/4"
+    ]
+  },
+  {
+    "question_number": 73,
+    "question": "If 10⁻⁴ dm³ of water is introduced into a 1.0 dm³ flask at 300 K, how many moles of water are in the vapour phase when equilibrium is established? (Given: Vapour pressure of H₂O at 300 K is 3170 Pa; R = 8.314 JK⁻¹ mol⁻¹)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.27 x 10⁻³ mole",
+      "(b) 5.56 x 10⁻³ mole",
+      "(c) 1.53 × 10⁻² mole",
+      "(d) 4.46 x 10⁻² mole"
+    ]
+  },
+  {
+    "question_number": 74,
+    "question": "At room temperature Dalton's law of partial pressure is not applicable to :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) H₂ and N₂ mixture",
+      "(b) H₂ and Cl₂ mixture",
+      "(c) H₂ and CO₂ mixture",
+      "(d) none"
+    ]
+  },
+  {
+    "question_number": 75,
+    "question": "56 g of nitrogen and 96 g of oxygen are mixed isothermally and at a total pressure of 10 atm. The partial pressures of oxygen and nitrogen (in atm) are respectively:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 4, 6",
+      "(b) 5, 5",
+      "(c) 2, 8",
+      "(d) 6, 4"
+    ]
+  },
+  {
+    "question_number": 76,
+    "question": "The closed containers of the same capacity and at the same temperature are filled with 44 g of H₂ in one and 44 g of CO₂ in the other. If the pressure of carbon dioxide in the second container is 1 atm. That of hydrogen in the first container would be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1 atm",
+      "(b) 10 atm",
+      "(c) 22 atm",
+      "(d) 44 atm"
+    ]
+  },
+  {
+    "question_number": 77,
+    "question": "A jar contains a gas and a few drops of water. The pressure in the jar is 830 mm of Hg. The temperature of the jar is reduced by 1%. The vapour pressure of water at two temperatures are 30 and 25 mm of Hg. Calculate the new pressure in jar.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 792 mm of Hg",
+      "(b) 817 mm of Hg",
+      "(c) 800 mm of Hg",
+      "(d) 840 mm of Hg"
+    ]
+  },
+  {
+    "question_number": 78,
+    "question": "O₂ and SO₂ gases are filled in ratio of 1:3 by moles in a closed container of 3 L at temperature of 27°C. The partial pressure of O₂ is 0.60 atm, the concentration of SO₂ would be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.36",
+      "(b) 0.036",
+      "(c) 3.6",
+      "(d) 36"
+    ]
+  },
+  {
+    "question_number": 79,
+    "question": "A gaseous mixture contains three gases A, B and C with a total number of moles of 10 and total pressure of 10 atm. The partial pressure of A and B are 3 atm and 1 atm respectively and if C has molecular weight of 2 g/mol. Then, the weight of C present in the mixture will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 8 g",
+      "(b) 12 g",
+      "(c) 3 g",
+      "(d) 6 g"
+    ]
+  },
+  {
+    "question_number": 80,
+    "question": "A rigid container containing 5 mole H₂ gas at same pressure and temperature. The gas has been allowed to escape by simple process from the container due to which pressure of the gas becomes half of its initial pressure and temperature become (2/3)rd of its initial. The mass of gas remaining is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 7.5 g",
+      "(b) 1.5 g",
+      "(c) 2.5 g",
+      "(d) 3.5 g"
+    ]
+  },
+  {
+    "question_number": 81,
+    "question": "Pressure of 1 g ideal gas X at 300 K is 2 atm. When 2 g of another gas Y is introduced in the same vessel at same temperature, the pressure become 3 atm then correct relationship between molar mass of X and Y is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) M_Y = 2 M_X",
+      "(b) M_Y = 4 M_X",
+      "(c) M_X = 4 M_Y",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 82,
+    "question": "Dry ice is solid carbon dioxide. A 0.050 g sample of dry ice is placed in an evacuated 4.6 L vessel at 30°C. Calculate the pressure inside the vessel after all the dry ice has been converted to CO₂ gas.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 6.14 atm",
+      "(b) 0.614 atm",
+      "(c) 0.0614 atm",
+      "(d) 6.14 x 10⁻³ atm"
+    ]
+  },
+  {
+    "question_number": 83,
+    "question": "A mixture of helium and neon gases is collected over water at 28.0°C and 745 mmHg. If the partial pressure of helium is 368 mmHg, what is the partial pressure of neon? (Vapour pressure of water at 28°C = 28.3 mmHg)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 348.7 mmHg",
+      "(b) 377 mmHg",
+      "(c) 384.7 mmHg",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 84,
+    "question": "Consider the following apparatus. Calculate the partial pressure of helium after the opening valve. The temperature remains constant at 16°C. [Apparatus shows a 1.2 L flask of He at 0.63 atm connected by a valve to a 3.4 L flask of Ne at 2.8 atm]",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_5.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.164 atm",
+      "(b) 1.64 atm",
+      "(c) 0.328 atm",
+      "(d) 1 atm"
+    ]
+  },
+  {
+    "question_number": 85,
+    "question": "Oxygen gas generated by the decomposition of potassium chlorate is collected over water. The volume of oxygen collected at 24°C and atmospheric pressure of 760 mmHg is 128 mL. Calculate the mass of oxygen gas obtained. The pressure of the water vapour at 24°C is 22.4 mm Hg.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.36 g",
+      "(b) 1.52 g",
+      "(c) 0.163 g",
+      "(d) 1.63 g"
+    ]
+  },
+  {
+    "question_number": 86,
+    "question": "The quantity PV/k_B*T represents the (k_B : Boltzmann constant)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) number of particles of the gas",
+      "(b) mass of the gas",
+      "(c) number of moles of the gas",
+      "(d) translation energy of the gas"
+    ]
+  },
+  {
+    "question_number": 87,
+    "question": "Which of the following statements about kinetic energy (K.E.) is true?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) All objects moving with the same velocity have the same K.E.",
+      "(b) The K.E. of a body will quadruple if its velocity doubles",
+      "(c) As the velocity of a body increases, its K.E. decreases",
+      "(d) The K.E. of a body is independent of its mass"
+    ]
+  },
+  {
+    "question_number": 88,
+    "question": "The Ne atom has 10 times the mass of H₂. Which of the following statements is true?\nI. At 25°C they both have the same kinetic energy.\nII. Ten moles of H₂ would have the same volume as 1 mole of Ne at same temp. and pr.\nIII. One mole of Ne exerts the same pressure as one mole of H₂ at STP.\nIV. A H₂ molecule travels 10 times faster than Ne atom at same temperature.\nV. At STP, one litre of Ne has 10 times the density of 1 litre of H₂.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) II, IV, V",
+      "(b) I, III, V",
+      "(c) I, II, III",
+      "(d) I, II"
+    ]
+  },
+  {
+    "question_number": 89,
+    "question": "Which of the following is NOT a postulate of the kinetic molecular theory of gases?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) The molecules possess a volume that is negligibly small compared to the container",
+      "(b) The pressure and volume of a gas are inversely related",
+      "(c) Gases consist of discrete particles that are in constant chaotic motion",
+      "(d) The average kinetic energy of the molecules is directly proportional to the temperature"
+    ]
+  },
+  {
+    "question_number": 90,
+    "question": "Which one of the following relationships when graphed does not give a straight line for helium gas?\nI. K.E. and T at constant pressure and volume\nII. P v/s V at constant temperature for a constant mass\nIII. V v/s 1/T at constant pressure for a constant mass",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) II",
+      "(b) II and III",
+      "(c) III",
+      "(d) I"
+    ]
+  },
+  {
+    "question_number": 91,
+    "question": "Consider three one-litre flasks labeled A, B and C filled with the gases NO, NO₂, and N₂O, respectively, each at 1 atm and 273 K. In which flask do the molecules have the highest average kinetic energy?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Flask C",
+      "(b) All are the same",
+      "(c) Flask A",
+      "(d) None"
+    ]
+  },
+  {
+    "question_number": 92,
+    "question": "Which of the following statements is false?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) The product of pressure and volume of fixed amount of a gas is independent of temperature.",
+      "(b) Molecules of different gases have the same kinetic energy at a given temperature.",
+      "(c) The gas equation is not valid at high pressure and low temperature constant.",
+      "(d) The gas constant per molecule is known as Boltzmann's constant."
+    ]
+  },
+  {
+    "question_number": 93,
+    "question": "Which is not correct in terms of kinetic theory of gases?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Gaseous particles are considered as point mass.",
+      "(b) The molecules are in random motion.",
+      "(c) When molecules collide, they lose energy.",
+      "(d) When the gas is heated, the molecules moves faster."
+    ]
+  },
+  {
+    "question_number": 94,
+    "question": "Two flasks A and B have equal volumes. A is maintained at 300 K and B at 600 K, while A contains H₂ gas, B has an equal mass of CO₂ gas. Find the ratio of total K.E. of gases in flask A to that of B.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1:2",
+      "(b) 11:1",
+      "(c) 33:2",
+      "(d) 55:7"
+    ]
+  },
+  {
+    "question_number": 95,
+    "question": "Kinetic energy and pressure of a gas of unit are related as:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P = 2/3 E",
+      "(b) P = 3/2 E",
+      "(c) P = E/2",
+      "(d) P = 2E"
+    ]
+  },
+  {
+    "question_number": 96,
+    "question": "Two flask A and B of equal volumes maintained at temperature 300 K and 700 K contain equal mass of He(g) and N₂(g) respectively. What is the ratio of translational kinetic energy of gas in flask A to that of flask B?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1:3",
+      "(b) 3:1",
+      "(c) 3:49",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 97,
+    "question": "Which occurs when a substance X is converted from liquid to vapour phase at the standard boiling point?.\nI. Potential energy of the system decreases\nII. The distance between molecules increases\nIII. The average kinetic energy of the molecules in both phases are equal",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) I only",
+      "(b) II only",
+      "(c) III only",
+      "(d) II and III only"
+    ]
+  },
+  {
+    "question_number": 98,
+    "question": "A mixture of Ne and Ar at 250 K has a total K.E. = 3 kJ in a closed vessel, the total mass of Ne and Ar is 30 g. Find mass % of Ne in gaseous mixture at 250 K.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 61.63",
+      "(b) 38.37",
+      "(c) 50%",
+      "(d) 28.3"
+    ]
+  },
+  {
+    "question_number": 99,
+    "question": "In two vessels of 1 litre each at the same temperature 1g of H₂ and 1g of CH₄ are taken, for these:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) V_rms values will be same",
+      "(b) Kinetic energy per mol will be same",
+      "(c) Total kinetic energy will same",
+      "(d) Pressure will be same"
+    ]
+  },
+  {
+    "question_number": 100,
+    "question": "Four particles have speed 2,3,4 and 5 cm/s respectively. Their rms speed is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 3.5 cm/s",
+      "(b) (27/2) cm/s",
+      "(c) √54 cm/s",
+      "(d) (√54/2) cm/s"
+    ]
+  },
+  {
+    "question_number": 101,
+    "question": "A gaseous mixture contains 4 molecules with a velocity of 6 cm sec⁻¹, 5 molecules with a velocity of 2 cm sec⁻¹ and 10 molecules with a velocity of 3 cm sec⁻¹. What is the RMS velocity of the gas:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2.5 cm sec⁻¹",
+      "(b) 1.9 cm sec⁻¹",
+      "(c) 3.6 cm sec⁻¹",
+      "(d) 4.6 cm sec⁻¹"
+    ]
+  },
+  {
+    "question_number": 102,
+    "question": "The ratio between the root mean square velocity of H₂ at 50 K and that of O₂ at 800 K is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 4",
+      "(b) 2",
+      "(c) 1",
+      "(d) 1/4"
+    ]
+  },
+  {
+    "question_number": 103,
+    "question": "If C₁, C₂, C₃...represent the speeds of n₁, n₂, n₃...molecules respectively, then the root mean square speed will be:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) √[(n₁C₁² + n₂C₂² + n₃C₃² + ...)/(n₁ + n₂ + n₃ + ...)]",
+      "(b) (n₁ + n₂ + n₃ + ...)² / (n₁C₁² + n₂C₂² + n₃C₃² + ...)",
+      "(c) √[(n₁C₁ + n₂C₂ + n₃C₃)/(n₁ + n₂ + n₃)]",
+      "(d) √[(n₁C₁ + n₂C₂ + n₃C₃ + ...)² / (n₁ + n₂ + n₃ + ...)]"
+    ]
+  },
+  {
+    "question_number": 104,
+    "question": "The root mean square velocity of hydrogen is √5 times than that of nitrogen. If T is the temperature of the gas, then :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) T_H₂ = T_N₂",
+      "(b) T_H₂ > T_N₂",
+      "(c) T_H₂ < T_N₂",
+      "(d) T_H₂ = √7 T_N₂"
+    ]
+  },
+  {
+    "question_number": 105,
+    "question": "At a definite temperature (T), the distribution of velocities is given by the curve. The curve that indicates that the velocities corresponding to points A, B and C are :",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_6.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) most probable, average and root mean square",
+      "(b) average, root mean square and most probable",
+      "(c) root mean square, average and most probable",
+      "(d) most probable, root mean square and average"
+    ]
+  },
+  {
+    "question_number": 106,
+    "question": "The most probable speed of 8 g of H₂ is 200 ms⁻¹. The average kinetic energy (neglect rotational and vibrational energy) of H₂ gas is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 480 J",
+      "(b) 240 J",
+      "(c) 120 J",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 107,
+    "question": "At what temperature will average speed of the molecules of the second member of the series C_nH_2n be the same of Cl₂ at 627°C?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 259.4 K",
+      "(b) 400 K",
+      "(c) 532.4 K",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 108,
+    "question": "If U_RMS of a gas is 30 R^(1/2) ms⁻¹ at 27°C then the molar mass of gas is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.02 kg/mol",
+      "(b) 0.001 kg/mol",
+      "(c) 0.003 kg/mol",
+      "(d) 1 kg/mol"
+    ]
+  },
+  {
+    "question_number": 109,
+    "question": "6 x 10²² gas molecules each of mass 10⁻²⁴ kg are taken in a vessel of 10 litre. What is the pressure exerted by gas molecules? The root mean square speed of gas molecules is 100 m/s.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 20 Pa",
+      "(b) 2 x 10⁴ Pa",
+      "(c) 2 x 10⁵ Pa",
+      "(d) 2 x 10⁷ Pa"
+    ]
+  },
+  {
+    "question_number": 110,
+    "question": "At what temperature will most probable speed of the molecules of the second member of homologous series C_nH_2n-2 be the same as that of SO₂ at 527°C.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 500°C",
+      "(b) 727°C",
+      "(c) 227°C",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 111,
+    "question": "The root mean square speed of 8 g of He is 300 ms⁻¹. Total kinetic energy of He gas is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 120 J",
+      "(b) 240 J",
+      "(c) 360 J",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 112,
+    "question": "If T₁, T₂ and T₃ are the temperature at which the U_RMS, U_average, U_MP of oxygen gas are all equal to 1500 m/s then the correct statement is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) T₁ > T₂ > T₃",
+      "(b) T₁ < T₂ < T₃",
+      "(c) T₁ = T₂ = T₃",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 113,
+    "question": "The density of a gas filled electric lamp is 0.75 kg/m³. After the lamp has been switched on, the pressure in it increases from 4 x 10⁴ Pa to 9 x 10⁴ Pa. What is increases in U_RMS ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 100",
+      "(b) 200",
+      "(c) 300",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 114,
+    "question": "The root mean square velocity of an ideal gas at constant pressure varies with density (d) as :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) d²",
+      "(b) d",
+      "(c) √d",
+      "(d) 1/√d"
+    ]
+  },
+  {
+    "question_number": 115,
+    "question": "The ratio among most probable velocity, mean velocity and root mean square velocity is given by",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1:2:3",
+      "(b) 1:√2:√3",
+      "(c) √2:√3:√8/π",
+      "(d) √2:√8/π:√3"
+    ]
+  },
+  {
+    "question_number": 116,
+    "question": "The average speed at temperature T°C of CH₄(g) is √(28/88) x 10³ ms⁻¹. What is the value of T ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 240.55°C",
+      "(b) -32.45°C",
+      "(c) 3000°C",
+      "(d) -24.055°C"
+    ]
+  },
+  {
+    "question_number": 117,
+    "question": "At what temperature most probable speed of O₂ molecules have the same value of root mean square speed of O₂ molecules at 300 K?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 150 K",
+      "(b) 600 K",
+      "(c) 750 K",
+      "(d) 900 K"
+    ]
+  },
+  {
+    "question_number": 118,
+    "question": "The rms speed of N₂ molecules in a gas is u. If the temperature is doubled and the nitrogen molecules dissociate into nitrogen atoms, the rms speed becomes:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) u/2",
+      "(b) 2u",
+      "(c) 4u",
+      "(d) 14u"
+    ]
+  },
+  {
+    "question_number": 119,
+    "question": "The rate of diffusion of a gas is proportional to:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P/√d",
+      "(b) P/d",
+      "(c) √(P/d)",
+      "(d) √P/d"
+    ]
+  },
+  {
+    "question_number": 120,
+    "question": "At constant volume and temperature conditions, the rates of diffusion r_A and r_B of gases A and B having densities ρ_A and ρ_B are related by the expression :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) r_A = r_B(ρ_A/ρ_B)²",
+      "(b) r_A = r_B(ρ_B/ρ_A)¹/²",
+      "(c) r_A = (r_B.ρ_B/ρ_A)¹/²",
+      "(d) r_A = r_B(ρ_A/ρ_B)¹/²"
+    ]
+  },
+  {
+    "question_number": 121,
+    "question": "What is the ratio of diffusion rate of oxygen to hydrogen?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1:4",
+      "(b) 4:1",
+      "(c) 1:8",
+      "(d) 8:1"
+    ]
+  },
+  {
+    "question_number": 122,
+    "question": "The molecular weight of a gas which diffuses through a porous plug at 1/6th of the speed of hydrogen under identical conditions is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 27",
+      "(b) 72",
+      "(c) 36",
+      "(d) 48"
+    ]
+  },
+  {
+    "question_number": 123,
+    "question": "X mL of H₂ gas effuses through a hole in a container in 5 seconds. The time taken for the effusion of the same volume of the gas specified below under identical condition is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 10 sec: He",
+      "(b) 20 sec: O₂",
+      "(c) 25 sec: CO",
+      "(d) 55 sec: CO₂"
+    ]
+  },
+  {
+    "question_number": 124,
+    "question": "At identical temperature and pressure, the rate of diffusion of hydrogen gas is 3√3 times that of a hydrocarbon having molecular formula C_nH_2n-2. What is the value of n?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1",
+      "(b) 4",
+      "(c) 3",
+      "(d) 8"
+    ]
+  },
+  {
+    "question_number": 125,
+    "question": "Calculate relative rate of effusion of O₂ to CH₄ through a container containing O₂ and CH₄ in 3:2 mass ratio.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 3√2 / 4",
+      "(b) 3 / (4√2)",
+      "(c) 3 / (2√2)",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 126,
+    "question": "Calculate relative rate of effusion of SO₂ to CH₄, if the mixture obtained by effusing out a mixture with molar ratio (n_SO₂ / n_CH₄) = 8/1 for three effusing steps.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2:1",
+      "(b) 1:4",
+      "(c) 1:2",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 127,
+    "question": "A gaseous mixture containing He, CH₄ and SO₂ was allowed to effuse through a fine hole then find what molar ratio of gases coming out initially? If mixture contain He, CH₄ and SO₂ in 1:2:3 mole ratio.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2:2:3",
+      "(b) 6:6:1",
+      "(c) √2:√2:3",
+      "(d) 4:4:3"
+    ]
+  },
+  {
+    "question_number": 128,
+    "question": "80 mL of O₂ takes 2 minute to pass through the hole. What volume of SO₂ will pass through the hole in 3 minute?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 120/√2",
+      "(b) 120 × √2",
+      "(c) 12/√2",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 129,
+    "question": "When two cotton plugs, one moistened with ammonia and the other with hydrochloric acid, are simultaneously inserted into opposite ends of a glass tube 87.0 cm long, a white ring of NH₄Cl forms where gaseous NH₃ and gaseous HCl first come into contact. NH₃(g) + HCl(g) → NH₄Cl(s). At what distance from the ammonia-moistened plug does this occur?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 51.7 cm from NH₃ end",
+      "(b) 51.7 cm from HCl end",
+      "(c) 43.5 at mid point",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 130,
+    "question": "Dimethyl ether decomposes as CH₃OCH₃(g) → CH₄(g) + CO(g) + H₂(g). When CH₃OCH₃ decomposes to 20% extent at certain fixed conditions, what is the ratio of diffusion of pure CH₃OCH₃ with methane?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.59 : 1",
+      "(b) 1.18 : 1",
+      "(c) 2.36 : 1",
+      "(d) 1.77 : 1"
+    ]
+  },
+  {
+    "question_number": 131,
+    "question": "4 gm of sulphur dioxide gas diffuses from a container in 8 min. Mass of helium gas diffusing from the same container over the same time interval is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.5 gm",
+      "(b) 1 gm",
+      "(c) 2 gm",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 132,
+    "question": "Under identical conditions of pressure and temperature, 4 L of gaseous mixture (H₂ and CH₄) effuses through a hole in 5 min whereas 4 L of a gas X of molecular mass 36 takes to 10 min to effuse through the same hole. The mole ratio of H₂ : CH₄ in the mixture is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1:2",
+      "(b) 2:1",
+      "(c) 2:3",
+      "(d) 1:1"
+    ]
+  },
+  {
+    "question_number": 133,
+    "question": "A balloon weighing 50 kg is filled with 685 kg of helium at 1 atm pressure and 25°C. What will be its pay load if it displaced 5108 kg of air?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 4373 kg",
+      "(b) 4423 kg",
+      "(c) 5793 kg",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 134,
+    "question": "According to the law of equipartition of energy, the energy associated with each degree of freedom is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (1/3)K_B T",
+      "(b) (1/2)K_B T",
+      "(c) K_B T",
+      "(d) (3/2)K_B T"
+    ]
+  },
+  {
+    "question_number": 135,
+    "question": "Calculate γ (ratio of C_p and C_v) for triatomic linear gas at high temperature. Assume that the contribution of vibrational degree of freedom is 75% :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.222",
+      "(b) 1.121",
+      "(c) 1.18",
+      "(d) 1.33"
+    ]
+  },
+  {
+    "question_number": 136,
+    "question": "If one mole each of a monoatomic and diatomic gases are mixed at low temperature then C_p/C_v ratio for the mixture is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.40",
+      "(b) 1.428",
+      "(c) 1.5",
+      "(d) 1.33"
+    ]
+  },
+  {
+    "question_number": 137,
+    "question": "If one mole of a mono-atomic gas (γ = 5/3) is mixed with one mole of a diatomic gas (γ = 7/5), the value of γ for the mixture is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.4",
+      "(b) 1.5",
+      "(c) 1.53",
+      "(d) 3.07"
+    ]
+  },
+  {
+    "question_number": 138,
+    "question": "Select the correct statement:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) internal energy of a real gas at a given temperature increases as the volume increases",
+      "(b) internal energy of an ideal gas at given temperature increase as the volume increases",
+      "(c) internal energy of an ideal gas molecules is not a function of temperature",
+      "(d) the internal energy of a real gas at a constant temperature is independent of change in volume"
+    ]
+  },
+  {
+    "question_number": 139,
+    "question": "Which gas shows real behaviour?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 16 g O₂ at STP occupies 11.2 L",
+      "(b) 1 g H₂ in 0.5 L flask exerts pressure of 24.63 atm at 300 K",
+      "(c) 1 mole NH₃ at 300 K and 1 atm occupies volume 22.4 L",
+      "(d) 5.6 L of CO₂ at STP is equal to 11 g"
+    ]
+  },
+  {
+    "question_number": 140,
+    "question": "Consider a real gas placed in a container. If the intermolecular attractions are supposed to disappear suddenly which of the following would happen?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) The pressure decreases",
+      "(b) The pressure increases",
+      "(c) The pressure remains unchanged",
+      "(d) The gas collapses"
+    ]
+  },
+  {
+    "question_number": 141,
+    "question": "The pressure of real gases is less than the pressure of an ideal gas because of :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Increase in number of collisions",
+      "(b) Finite size of molecule",
+      "(c) Increase in KE of molecules",
+      "(d) Intermolecular forces of attraction"
+    ]
+  },
+  {
+    "question_number": 142,
+    "question": "A gas behaves like an ideal gas at:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) high pressure and low temperature",
+      "(b) low pressure and high temperature",
+      "(c) high pressure and high temperature",
+      "(d) low pressure and low temperature"
+    ]
+  },
+  {
+    "question_number": 143,
+    "question": "If temperature and volume are same, the pressure of a gas obeying Vander Waals equation is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Smaller than that of an ideal gas",
+      "(b) Larger than that of an ideal gas",
+      "(c) Same as that of an ideal gas",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 144,
+    "question": "1 mole of each of X₁, X₂, X₃ with vander Waals constants a (in atm L³ mol⁻²) 1.0, 3.8, 2.1 respectively is kept separately in three different vessels of equal volume at identical temperature. Their pressures are observed to P₁, P₂, and P₃ respectively. On the basis of this data alone, select the correct option (neglect the effect of 'b'):",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) P₁ < P₂ < P₃",
+      "(b) P₂ < P₁ < P₃",
+      "(c) P₂ < P₃ < P₁",
+      "(d) P₁ = P₂ = P₃"
+    ]
+  },
+  {
+    "question_number": 145,
+    "question": "A gas obeys the equation of state P(V - b) = RT (The parameter b is a constant). The slope for an isochore will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Negative",
+      "(b) Zero",
+      "(c) R/(V - b)",
+      "(d) R/P"
+    ]
+  },
+  {
+    "question_number": 146,
+    "question": "van der Waals constant b of helium is 24 mL mol⁻¹. Find molecular diameter of helium.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.335 × 10⁻¹⁰ cm",
+      "(b) 1.335 × 10⁻⁸ cm",
+      "(c) 2.67 x 10⁻⁸ cm",
+      "(d) 4.34 × 10⁻⁸ cm"
+    ]
+  },
+  {
+    "question_number": 147,
+    "question": "Which of the following can be most readily liquefied? (Given: value of 'a' for NH₃ = 4.17, CO₂ = 3.59, SO₂ = 6.71, Cl₂ = 6.49)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) NH₃",
+      "(b) Cl₂",
+      "(c) SO₂",
+      "(d) CO₂"
+    ]
+  },
+  {
+    "question_number": 148,
+    "question": "For which of the following gases should the correction for the molecular volume be largest : CO, CO₂, NH₃ or SF₆?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) CO",
+      "(b) CO₂",
+      "(c) NH₃",
+      "(d) SF₆"
+    ]
+  },
+  {
+    "question_number": 149,
+    "question": "Under which of the following sets of conditions is a real gas expected to deviate from ideal behaviour?\n(I) High pressure, small volume\n(II) High temperature, low pressure\n(III) Low temperature, high pressure",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) only I",
+      "(b) only II",
+      "(c) only III",
+      "(d) I and III both"
+    ]
+  },
+  {
+    "question_number": 150,
+    "question": "For a certain gas which deviates a little from ideal behaviour. A plot between P/ρ vs P was found to be non-linear, the intercept on y-axis will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) RT/M",
+      "(b) M/RT",
+      "(c) MZ/RT",
+      "(d) R/TM"
+    ]
+  },
+  {
+    "question_number": 151,
+    "question": "At low pressure, the van der Waals equation become:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) PV_M = RT",
+      "(b) P(V_M - b) = RT",
+      "(c) (P + a/V_M²)V_M = RT",
+      "(d) P = RT/V_M + a/V_M²"
+    ]
+  },
+  {
+    "question_number": 152,
+    "question": "At low pressure, if RT = 2√aP, then the volume occupied by a real gas is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2RT/P",
+      "(b) 2P/RT",
+      "(c) RT/2P",
+      "(d) 2RT/P"
+    ]
+  },
+  {
+    "question_number": 153,
+    "question": "For a gas deviation from ideal behaviour is maximum at :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0°C and 1.0 atm",
+      "(b) 100°C and 2.0 atm",
+      "(c) -13°C and 1.0 atm",
+      "(d) -13°C and 2.0 atm"
+    ]
+  },
+  {
+    "question_number": 154,
+    "question": "At low pressures, van der Waals' equation is written as (P + a/V²)V = RT. The compressibility factor is then equal to:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (1 - a/RTV)",
+      "(b) (1 - RTV/a)",
+      "(c) (1 + a/RTV)",
+      "(d) (1 + RTV/a)"
+    ]
+  },
+  {
+    "question_number": 155,
+    "question": "The compressibility factor for a real gas at high pressure is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1",
+      "(b) 1 + Pb/RT",
+      "(c) 1 - Pb/RT",
+      "(d) 1 + RT/Pb"
+    ]
+  },
+  {
+    "question_number": 156,
+    "question": "The compressibility of a gas is greater than unity at 1 atm and 273 K. Therefore :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) V_m > 22.4 L",
+      "(b) V_m < 22.4 L",
+      "(c) V_m = 22.4 L",
+      "(d) V_m = 44.8 L"
+    ]
+  },
+  {
+    "question_number": 157,
+    "question": "At 273 K temp. and 9 atm pressure, the compressibility for a gas is 0.9. The volume of 1 milli-moles of gas at this temperature and pressure is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2.24 litre",
+      "(b) 0.020 mL",
+      "(c) 2.24 mL",
+      "(d) 22.4 mL"
+    ]
+  },
+  {
+    "question_number": 158,
+    "question": "The compressibility factor for nitrogen at 330 K and 800 atm is 1.90 and at 570 K and 200 atm is 1.10. A certain mass of N₂ occupies a volume of 1 dm³ at 330 K and 800 atm. Calculate volume occupied by same quantity of N₂ gas at 570 K and 200 atm :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1 L",
+      "(b) 2 L",
+      "(c) 3 L",
+      "(d) 4 L"
+    ]
+  },
+  {
+    "question_number": 159,
+    "question": "Consider the equation Z = PV/RT. Which of the following statements is correct?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) When Z > 1, real gases are easier to compress than the ideal gas",
+      "(b) When Z = 1, real gases get compressed easily",
+      "(c) When Z > 1, real gases are difficult to compress",
+      "(d) When Z = 1, real gases are difficult to compress"
+    ]
+  },
+  {
+    "question_number": 160,
+    "question": "What is the compressibility factor (Z) for 0.02 mole of a van der Waals' gas at pressure of 0.1 atm. Assume the size of gas molecules is negligible. Given: RT = 20 L atm mol⁻¹ and a = 1000 atm L² mol⁻²",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2",
+      "(b) 1",
+      "(c) 0.02",
+      "(d) 0.5"
+    ]
+  },
+  {
+    "question_number": 161,
+    "question": "Consider the following statements. If the van der Walls' parameters of two gases are given as:\nGas A: a=6.5, b=0.055\nGas B: a=2, b=0.01\n1. Critical volume of A < Critical volume of B\n2. Critical pressure A > Critical pressure of B\n3. Critical temperature of A > Critical temperature of B\nWhich of the above statements is incorrect?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1 alone",
+      "(b) 1 and 2",
+      "(c) 1, 2 and 3",
+      "(d) 2 and 3"
+    ]
+  },
+  {
+    "question_number": 162,
+    "question": "The van der Waals parameters for gases W, X, Y and Z are given in the table. Which one of these gases has the highest critical temperature?\nGas | a (atm L² mol⁻²) | b (L mol⁻¹)\n--|---|---\nW | 4.0 | 0.027\nX | 8.0 | 0.030\nY | 6.0 | 0.032\nZ | 12.0 | 0.027",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) W",
+      "(b) X",
+      "(c) Y",
+      "(d) Z"
+    ]
+  },
+  {
+    "question_number": 163,
+    "question": "Pressure remaining the same, the volume of a given mass of an ideal gas increases for every degree centigrade rise in temperature by definite fraction of its volume at:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0°C",
+      "(b) Its critical temperature",
+      "(c) Absolute zero",
+      "(d) Its Boyle temperature"
+    ]
+  },
+  {
+    "question_number": 164,
+    "question": "The critical temperature of a substance is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) The temperature above which the substance undergoes decomposition",
+      "(b) The temperature above which a substance can exist only in gaseous state",
+      "(c) Boiling point of the substance",
+      "(d) All are wrong"
+    ]
+  },
+  {
+    "question_number": 165,
+    "question": "The excluded volume of a gas will be larger, if T_c/P_c is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) small",
+      "(b) large",
+      "(c) equal to 1",
+      "(d) less than unity"
+    ]
+  },
+  {
+    "question_number": 166,
+    "question": "Select incorrect statement :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) we can condense vapour simply by applying pressure",
+      "(b) to liquefy a gas one must lower the temperature below T_c and also apply pressure",
+      "(c) at T_c, there is no distinction between liquid and vapour state hence density of the liquid is nearly equal to density of the vapour",
+      "(d) However great the pressure applied, a gas cannot be liquified below it's critical temp."
+    ]
+  },
+  {
+    "question_number": 167,
+    "question": "The correct order of temperature of a real gas is :\n(I) Boyle's temperature\n(II) Critical temperature\n(III) Inversion temperature",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) III > I > II",
+      "(b) I > II > III",
+      "(c) II > I > III",
+      "(d) I > III > II"
+    ]
+  },
+  {
+    "question_number": 168,
+    "question": "The temperature at which the second virial coefficient of real gas is zero is called :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Critical temperature",
+      "(b) Triple point",
+      "(c) Boiling point",
+      "(d) Boyle's temperature"
+    ]
+  },
+  {
+    "question_number": 169,
+    "question": "The van der Waals' equation for one mole may be expressed as V_m³ - (b + RT/P)V_m² + (a/P)V_m - ab/P = 0",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": []
+  },
+  {
+    "question_number": 170,
+    "question": "For a gas obeying the van der Waals' equation, at the critical temperature",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) both (∂P/∂V)_T and (∂²P/∂V²)_T are zero",
+      "(b) both (∂P/∂V)_T and (∂²P/∂V²)_T are not zero",
+      "(c) (∂P/∂V)_T is zero but (∂²P/∂V²)_T is non-zero",
+      "(d) (∂P/∂V)_T is non-zero but (∂²P/∂V²)_T is zero"
+    ]
+  },
+  {
+    "question_number": 171,
+    "question": "However great the pressure, a gas cannot be liquified above its :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Boyle temperature",
+      "(b) Inversion temperature",
+      "(c) Critical temperature",
+      "(d) Room temperature"
+    ]
+  },
+  {
+    "question_number": 172,
+    "question": "The temperature at which real gases obey the ideal gas laws over a wide range of low pressure is called:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Critical temperature",
+      "(b) Inversion temperature",
+      "(c) Boyle temperature",
+      "(d) Reduced temperature"
+    ]
+  },
+  {
+    "question_number": 173,
+    "question": "Inversion temperature T_i = 2a/Rb is defined as the temperature above which if gas is expanded adiabatically it gets warm up but if temperature of gas is lower than T_i then it will cool down. What will happen to a gas if it is adiabatically expanded at 600 K if its Boyle's temperature is 290 K?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Heating",
+      "(b) Cooling",
+      "(c) Constant",
+      "(d) None"
+    ]
+  },
+  {
+    "question_number": 174,
+    "question": "The van der Waals' equation of law of corresponding states for 1 mole of gas is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (P_r + 3/V_r²)(3V_r - 1) = 8T_r",
+      "(b) (P_r - 3/V_r²)(3V_r - 1) = 8T_r",
+      "(c) (P_r + 3/V_r²)(3V_r + 1) = 8πT_r",
+      "(d) (P_r + 3/V_r²)(3V_r + 1) = 8"
+    ]
+  },
+  {
+    "question_number": 175,
+    "question": "Calculate the volume occupied by 16 gram O₂ at 300 K and 8.31 MPa if P_c V_c / RT_c = 3/8 and P_r V_r / T_r = 2.21 (Given: R = 8.314 MPa/K-mol)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 125.31 mL",
+      "(b) 124.31 mL",
+      "(c) 248.62 mL",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "Consider the composite system, which is held at 300 K, shown in the following figure. Assuming ideal gas behavior, calculate the total pressure if the barriers separating the compartments are removed. Assume that the volume of the barriers is negligible. (Given : R = 0.082 atm L/mol. K) [Diagram shows three compartments: He (2L, 1.50 atm), Ne (4L, 2.50 atm), Xe (1L, 1 atm)]",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_7.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1 atm",
+      "(b) 2 atm",
+      "(c) 2.3 atm",
+      "(d) 3.2 atm"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "11 moles N₂ and 12 moles of H₂ mixture reacted in 20 litre vessel at 800 K. After equilibrium was reached, 6 mole of H₂ was present. 3.58 litre of liquid water is injected in equilibrium mixture and resultant gaseous mixture suddenly cooled to 300K. What is the final pressure of gaseous mixture? Neglect vapour pressure of liquid solution. Assume (i) all NH₃ dissolved in water (ii) no change in volume of liquid (iii) no reaction of N₂ and H₂ at 300 K",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_8.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 18.47 atm",
+      "(b) 60 atm",
+      "(c) 22.5 atm",
+      "(d) 45 atm"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "Two vessels connected by a valve of negligible volume. One container (I) has 2.8 g of N₂ at temperature T₁ (K). The other container (II) is completely evacuated. The container (I) is heated to T₂ (K) while container (II) is maintained at T₂/3 (K). volume of vessel (I) is half that of vessel (II). If the valve is opened then what is the weight ratio of N₂ in both vessel (W₁/W₂)?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1:2",
+      "(b) 1:3",
+      "(c) 1:6",
+      "(d) 3:1"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "A mixture of NH₃(g) and N₂H₄(g) is placed in a sealed container at 300 K. The total pressure is 0.5 atm. The container is heated to 1200 K at which time both substances decompose completely according to the equations: 2NH₃(g) → N₂(g) + 3H₂(g) and N₂H₄(g) → N₂(g) + 2H₂(g). After decomposition is complete, the total pressure at 1200 K is found to be 4.5 atm. Find the mole% of N₂H₄ in the original mixture :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 20%",
+      "(b) 25%",
+      "(c) 50%",
+      "(d) 75%"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "Correct expression for density of an ideal gas mixture of two gases 1 and 2, where m₁ and m₂ are masses and n₁ and n₂ are moles and M₁ and M₂ are molar masses.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) d = (m₁ + m₂)/(M₁ + M₂)",
+      "(b) d = (m₁ + m₂)P / ((n₁ + n₂)RT)",
+      "(c) d = ((n₁ + n₂)/(m₁ + m₂)) * (P/RT)",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "Two closed vessel A and B of equal volume containing air at pressure P₁ and temperature T₁ are connected to each other through a narrow open tube. If the temperature of one is now maintained at T₁ and other at T₂ (where T₁ > T₂) then what will be the final pressure?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) T₁ / (2P₁T₂)",
+      "(b) 2P₁T₂ / (T₁ + T₂)",
+      "(c) 2P₁T₁ / (T₁ - T₂)",
+      "(d) 2P₁ / (T₁ + T₂)"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "A balloon containing 1 mole air at 1 atm initially is filled further with air till pressure increases to 4 atm. The initial diameter of the balloon is 1 m and the pressure at each stage is proportion to diameter of the balloon. How many no. of moles of air added to change the pressure from 1 atm to 4 atm.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 80",
+      "(b) 257",
+      "(c) 255",
+      "(d) 256"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "If Pd vs. P (where P denotes pressure in atm and d denotes density in gm/L) is plotted for He gas (assume ideal) at a particular temperature. If (d/dP)(Pd) | at P=8.21 atm = 5, then the temperature will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 160 K",
+      "(b) 320 K",
+      "(c) 80 K",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "What is the density of wet air with 75% relative humidity at 1 atm and 300 K? Given: vapour pressure of H₂O is 30 torr and average molar mass of air is 29 g mol⁻¹.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.614 g/L",
+      "(b) 0.96 g/L",
+      "(c) 1.06 g/L",
+      "(d) 1.164 g/L"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "7 moles of a tetra-atomic non-linear gas 'A' at 10 atm and T K are mixed with 6 moles of another gas B at T/3 K and 5 atm in a closed, rigid vessel without energy transfer with surroundings. If final temperature of mixture was 5T/6 K, then gas B is? (Assuming all modes of energy are active)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) monoatomic",
+      "(b) diatomic",
+      "(c) triatomic",
+      "(d) tetra atomic"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "Three closed rigid vessels, A, B and C without energy transfer with surroundings, which initially contain three different gases at different temperatures are connected by tube of negligible volume. The vessel A contain 2 mole Ne gas, at 300 K, vessel 'B' contain 2 mole SO₂ gas at 400 K and vessel 'C' contain 3 mole CO₂ gas at temperature 500 K. What is the final pressure (in atm) attained by gases when all valves of connecting three vessels are opened and additional 15.6 kcal heat supplied to vessel through valve. The volume of A, B and C vessel is 2, 2 and 3 litre respectively. [Diagram shows 3 connected vessels containing Ne, SO₂, CO₂] Given: R = 2 calorie/mol-K; C_v(Ne) = 3/2 R, C_v(CO) = 5/2 R and C_v(SO₂) = 3R.",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_9.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 73.89 atm",
+      "(b) 67.31 atm",
+      "(c) 80 atm",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "Gas molecules each of mass 10⁻²⁶ kg are taken in a container of volume 1 dm³. The root mean square speed of gas molecules is 1 km sec⁻¹. What is the temperature of gas molecules. (Given: N_A = 6 × 10²³; R = 8 J/mol. K)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 298 K",
+      "(b) 25 K",
+      "(c) 250 K",
+      "(d) 2500 K"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "A balloon of diameter 21 meter weight 100 kg. Calculate its pay-load, if it is filled with He at 1.0 atm and 27°C. Density of air is 1.2 kg m⁻³. (Given : R = 0.082 L atm K⁻¹mol⁻¹)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 4952.42 kg",
+      "(b) 4932.42 kg",
+      "(c) 493.242 kg",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "A given volume of ozonised oxygen (containing 60% oxygen by volume) required 220 sec to effuse which an equal volume of oxygen took 200 sec only under the conditions. If density of O₂ is 1.6 g/L then find density of O₃.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.936 g/L",
+      "(b) 2.16 g/L",
+      "(c) 3.28 g/L",
+      "(d) 2.24 g/L"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "If 250 mL of N₂ over water at 30°C and a total pressure of 740 torr is mixed with 300 mL of Ne over water at 25°C and a total pressure of 780 torr, what will be the total pressure if the mixture is in a 500 mL vessel over water at 35°C. (Given: Vapour pressure (Aqueous tension) of H₂O at 25°C, 30°C and 35°C are 23.8, 31.8 and 42.2 torr respectively. Assume volume of H₂O(l) is negligible in final vessel)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 760 torr",
+      "(b) 828.4 torr",
+      "(c) 807.6 torr",
+      "(d) 870.6 torr"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "A bulb of constant volume is attached to a manometer tube open at other end as shown in figure. The manometer is filled with a liquid of density (1/3)rd that of mercury. Initially h was 228 cm. Through a small hole in the bulb gas leaked assuming pressure decreases as dp/dt = -kP. If value of h is 114 cm after 14 minutes. What is the value of k (in hour⁻¹)? [Use: ln(4/3) = 0.28 and density of Hg = 13.6 g/mL.].",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_10.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.6",
+      "(b) 1.2",
+      "(c) 2.4",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "A mixture of nitrogen and water vapours is admitted to a flask at 760 torr which contains a sufficient solid drying agent after long time the pressure reached a steady value of 722 torr. If the experiment is done at 27°C and drying agent increases in weight by 0.9 gm, what is the volume of the flask? Neglect any possible vapour pressure of drying agent and volume occupied by drying agent.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 443.34 L",
+      "(b) 246.3 L",
+      "(c) 12.315 L",
+      "(d) 24.63 L"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question": "At room temperature following reaction goes to completion: 2AB(g) + B₂(g) → 2AB₂(g). AB₂ is solid with negligible vapour pressure below 0°C. At 300 K, the AB in the smaller flask (8.21 L) exerts a pressure of 3 atm and the larger flask (8.21 L) exerts a pressure of 1 atm at 400 K when they are separated out by a close valve. The gases are mixed by opening the stop cock and after the end of the reaction the flask are cooled to 250 K. What is the pressure?",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_11.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.156 atm",
+      "(b) 0.3125 atm",
+      "(c) 0.625 atm",
+      "(d) 3.2 atm"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question": "A vessel of uniform cross-section of length 500 cm as shown in figure is divided in two parts by a weightless and frictionless piston one part contains 5 moles of He(g) and other part 2 moles of H₂(g) and 4 mole of O₂(g) added at the same temperature and pressure, in which reaction takes place finally vessel cooled to 300 K and 1 atm. What is the length of He compartment? (Assume volume of piston and vol. of H₂O(l) formed are negligible)",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_12.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 187.5",
+      "(b) 300 atm",
+      "(c) 312.5 cm",
+      "(d) none of these"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "For a real gas (mol. mass = 60) if density at critical point is 0.80 g/cm³ and its T_c = (4 x 10⁵)/821 K, then van der Waals' constant a (in atm L² mol⁻²) is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.3375",
+      "(b) 3.375",
+      "(c) 1.68",
+      "(d) 0.025"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question": "The van der Waals' constant 'b' of a gas is 4π × 10⁻⁴ L/mol. How near can the centres of the two molecules approach each other? [Use: N_A = 6 × 10²³]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 10⁻⁷ m",
+      "(b) 10⁻¹⁰ m",
+      "(c) 5 × 10⁻¹¹ m",
+      "(d) 5 x 10⁻⁹ m"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question": "The density of vapour of a substance (X) at 1 atm pressure and 500 K is 0.8 kg/m³. The vapour effuses through a small hole at a rate of 4/5 times slower than oxygen under the same condition. What is the compressibility factor (Z) of the vapour?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.974",
+      "(b) 1.35",
+      "(c) 1.52",
+      "(d) 1.22"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question": "Vander Waal's gas equation can be reduced to virial equation and virial equation (in terms of volume) is Z = A + B/V_m + C/V_m² + ...... where A = first virial coefficient, B = second virial coefficient, C = third virial coefficient. The third virial coefficient of Hg(g) is 625 (cm²/mol)². What volume is available for movement of 10 moles He(g) atoms present in 50 L vessel?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 49.75 L",
+      "(b) 49.25 L",
+      "(c) 25 L",
+      "(d) 50 L"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question": "If the slope of 'Z' (compressibility factor) v/s 'P' curve is constant (slope = π/492.6 atm⁻¹) at a particular temperature (300 K) and very high pressure, then calculate diameter of the molecules. (Given : N_A = 6.0 x 10²³, R = 0.0821 atm. lit mol⁻¹ K⁻¹)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 7.5 Å",
+      "(b) 5 Å",
+      "(c) 2.5 Å",
+      "(d) 1.25 Å"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question": "A graph is plotted between P (atm) vs t°C for 10 mol of an ideal gas as follows: [graph shows a line passing through (0, 27.3) and extending to negative t°C]. then slope of curve and volume of container (L) respectively, is:",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_13.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.1, 8.21",
+      "(b) 8.21, 0.1",
+      "(c) 27.3, 8.21",
+      "(d) 8.21, 27.3"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question": "For two samples A and B of ideal gas following curve is plotted between n vs V (volume of container) at 16.42 atm pressure as follows, then temperature of A and B respectively are: [graph shows two lines A and B from origin, with slopes 60° and 30° respectively]",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_14.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 200/√3 K, 200√3 K",
+      "(b) 200°C, (200√3)°C",
+      "(c) 200√3 K, 200/√3 K",
+      "(d) 200K, 200/√3 K"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question": "At a constant pressure, what should be the percentage increase in the temperature in kelvin for a 10% increase in volume:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 10%",
+      "(b) 20%",
+      "(c) 5%",
+      "(d) 50%"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question": "6 litre H₂O is placed in a closed room of volume 827 L at the temperature of 300 K. If vapour pressure of liquid water is 22.8 mm of Hg at 300 K and its density is 1 g/cm³: [Given : R = 0.0821 atm. L mol⁻¹ K⁻¹, Assuming volume of liquid water to be constant ]. Match the columns.",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (P) Mass of H₂O in gaseous form (in gm), (Q) Moles of H₂O in gaseous state (in moles), (R) Approximate mass of water left in liquid state (in kg), (S) Total number of moles of all atoms in vapour form",
+      "Column-II: (1) 6, (2) 18, (3) 3, (4) 1"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question": "Match the items of columns I and II. Column-I: (P) Z for ideal gas behaviour, (Q) Z for real gas at low pressure, (R) Z for real gas at high pressure, (S) Z for critical state. Column-II: (1) 3/8, (2) 1 - a/(RTV), (3) 1 + Pb/RT, (4) 1.",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Codes: (a) P-1, Q-2, R-4, S-3 (b) P-4, Q-3, R-2, S-1 (c) P-2, Q-1, R-4, S-3 (d) P-1, Q-2, R-3, S-4"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question": "Match List-I (Conditions for real gas) with List-II. List-I: (P) If force of attraction among gas particles are negligible, (Q) At 1 atm and 273 K, (R) If the volume of gas particles is negligible, (S) At low pressure and high temperature. List-II: (1) PVm = RT, (2) PVm = RT - a/Vm, (3) (P + a/V²m)(Vm - b) = RT, (4) PVm = RT + Pb.",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Codes: (a) P-4, Q-1, R-3, S-2 (b) P-4, Q-3, R-2, S-1 (c) P-2, Q-1, R-4, S-3 (d) P-1, Q-2, R-3, S-4"
+    ]
+  },
+  {
+    "question_number": "P1-1",
+    "question": "PASSAGE 1: van der Waals' equation for calculating the pressure of a nonideal gas is (P + an²/V²)(V - nb) = nRT. van der Waals' suggested that the pressure exerted by an ideal gas, P_ideal, is related to the experimentally measured pressure, P_real by the equation P_ideal = P_real + an²/V². Constant 'a' is a measure of intermolecular interaction between gaseous molecules. Another correction concerns the volume occupied by the gas molecules. In the ideal gas equation, V represents the volume of the container. However, each molecule does occupy a finite, although small, intrinsic volume, so the effective volume of the gas becomes (V - nb). Having taken into account the corrections for pressure and volume, we can rewrite the ideal gas equation as follows: (P + an²/V²)(V - nb) = nRT.\n\nAt relatively high pressures, the van der Waals' equation of state reduces to",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) PV = RT - a/V",
+      "(b) PV = aRT/V²",
+      "(c) P = RT - a/V²",
+      "(d) PV = RT + Pb"
+    ]
+  },
+  {
+    "question_number": "P1-2",
+    "question": "PASSAGE 1: van der Waals' equation for calculating the pressure of a nonideal gas is (P + an²/V²)(V - nb) = nRT. van der Waals' suggested that the pressure exerted by an ideal gas, P_ideal, is related to the experimentally measured pressure, P_real by the equation P_ideal = P_real + an²/V². Constant 'a' is a measure of intermolecular interaction between gaseous molecules. Another correction concerns the volume occupied by the gas molecules. In the ideal gas equation, V represents the volume of the container. However, each molecule does occupy a finite, although small, intrinsic volume, so the effective volume of the gas becomes (V - nb). Having taken into account the corrections for pressure and volume, we can rewrite the ideal gas equation as follows: (P + an²/V²)(V - nb) = nRT.\n\nFor non-zero value of force of attraction between gas molecules for large volume, gas equation will be:",
+    "year": null,
+    
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) PV = nRT - n²a/V",
+      "(b) PV = nRT + nbP",
+      "(c) P = nRT/(V-b)",
+      "(d) PV = nRT"
+    ]
+  },
+  {
+    "question_number": "P1-3",
+    "question": "PASSAGE 1: van der Waals' equation for calculating the pressure of a nonideal gas is (P + an²/V²)(V - nb) = nRT. van der Waals' suggested that the pressure exerted by an ideal gas, P_ideal, is related to the experimentally measured pressure, P_real by the equation P_ideal = P_real + an²/V². Constant 'a' is a measure of intermolecular interaction between gaseous molecules. Another correction concerns the volume occupied by the gas molecules. In the ideal gas equation, V represents the volume of the container. However, each molecule does occupy a finite, although small, intrinsic volume, so the effective volume of the gas becomes (V - nb). Having taken into account the corrections for pressure and volume, we can rewrite the ideal gas equation as follows: (P + an²/V²)(V - nb) = nRT.\n\nThe van der Waals' constant 'a' for CO₂ gas is greater than that of H₂ gas. Its mean that the",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) strength of van der Waals' force of CO₂ gas is less than that of H₂ gas",
+      "(b) strength of van der Waals force of CO₂ gas is equal to that of H₂ gas",
+      "(c) CO₂ gas can be more easily liquified",
+      "(d) H₂ gas can be more easily liquified"
+    ]
+  },
+  {
+    "question_number": "P1-4",
+    "question": "PASSAGE 1: van der Waals' equation for calculating the pressure of a nonideal gas is (P + an²/V²)(V - nb) = nRT. van der Waals' suggested that the pressure exerted by an ideal gas, P_ideal, is related to the experimentally measured pressure, P_real by the equation P_ideal = P_real + an²/V². Constant 'a' is a measure of intermolecular interaction between gaseous molecules. Another correction concerns the volume occupied by the gas molecules. In the ideal gas equation, V represents the volume of the container. However, each molecule does occupy a finite, although small, intrinsic volume, so the effective volume of the gas becomes (V - nb). Having taken into account the corrections for pressure and volume, we can rewrite the ideal gas equation as follows: (P + an²/V²)(V - nb) = nRT.\n\nUsing van der Waals' equation, find the constant 'a' (in atm L² mol⁻²) when two moles of a gas confined in 4 L flask exerts a pressure of 11.0 atmospheres at a temperature of 300 K. The value of b is 0.05 L mol⁻¹. (R = 0.082 atm L/K mol)",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 2.62",
+      "(b) 2.64",
+      "(c) 6.24",
+      "(d) 6.46"
+    ]
+  },
+  {
+    "question_number": "P2-1",
+    "question": "PASSAGE 2: Collision cross-section is an area of an imaginary sphere of radius σ around the molecule within which the centre of another molecule cannot penetrate. The volume swept by a single molecule in unit time is V = (πσ²)ū where ū is the average speed. If N* is the number of molecules per unit volume, then the number of molecules within the volume V is N = VN* = (πσ²ū)N*. Hence, the number of collision made by a single molecule in unit time will be Z = N = (πσ²ū)N*. The average velocity along their centres is √2ū. Number of collision made by a single molecule with other molecules per unit time is given by Z₁ = √2πσ²ūN*. The total number of bimolecular collisions Z₁₁ per unit volume per unit time is given by Z₁₁ = (1/√2)πσ²ūN*². If the collision involve two unlike molecules then the number of collisions Z₁₂ per unit volume per unit time is given as Z₁₂ = πσ₁₂²√(8kT/πμ) N₁N₂. The mean free path is the average distance travelled by a molecule between two successive collisions. λ = ū/Z₁ = 1/(√2πσ²N*).\n\nFor a given gas the mean free path at a particular pressure is",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_15.png",
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) Independent of temperature",
+      "(b) Decreases with rise in temperature",
+      "(c) Increases with rise in temperature",
+      "(d) Directly proportional to T²"
+    ]
+  },
+  {
+    "question_number": "P2-2",
+    "question": "PASSAGE 2: (As above) Three ideal gas samples in separate equal volume containers are taken and following data is given: Gas A (1 atm, 1600K, 0.16nm, 20 mol.wt), Gas B (2 atm, 200K, 0.16nm, 40 mol.wt), Gas C (4 atm, 400K, 0.04nm, 80 mol.wt). \n\nCalculate ratio of collision frequencies (Z₁₁) (A:B:C) of following for the three gases.",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_15.png",
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 1:2:4",
+      "(b) 4:2:1",
+      "(c) 1:4:16",
+      "(d) 16:4:1"
+    ]
+  },
+  {
+    "question_number": "P2-3",
+    "question": "PASSAGE 2: (As above) Three ideal gas samples in separate equal volume containers are taken and following data is given: Gas A (1 atm, 1600K, 0.16nm, 20 mol.wt), Gas B (2 atm, 200K, 0.16nm, 40 mol.wt), Gas C (4 atm, 400K, 0.04nm, 80 mol.wt). \n\nCalculate number of collision by one molecule per sec (Z₁).",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_15.png",
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 4:1:4",
+      "(b) 1:4:4",
+      "(c) 4:3:2",
+      "(d) 1:2:4"
+    ]
+  },
+  {
+    "question_number": "P3-1",
+    "question": "PASSAGE 3: A manometer contains a liquid of density 5.44 g/cm³ is attached to a flask containing gas 'A' as follows. Patm = 1 atm. The liquid in the arm connected to the flask is 38cm lower than the open arm. \n\nIf the same liquid is used in Barometer to measure the atmospheric pressure, then what will be the length of the liquid column, which exerts pressure equal to 1 atm? (density of Hg = 13.6 g/cm³)",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 190 cm",
+      "(b) 76 cm",
+      "(c) 30.4 cm",
+      "(d) 266 cm"
+    ]
+  },
+  {
+    "question_number": "P3-2",
+    "question": "PASSAGE 3: A manometer contains a liquid of density 5.44 g/cm³ is attached to a flask containing gas 'A' as follows. Patm = 1 atm. The liquid in the arm connected to the flask is 38cm lower than the open arm. \n\nThe initial pressure of gas A in the flask is:",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 1.5 atm",
+      "(b) 1 atm",
+      "(c) 1.3 atm",
+      "(d) 1.2 atm"
+    ]
+  },
+  {
+    "question_number": "P3-3",
+    "question": "PASSAGE 3: A manometer contains a liquid of density 5.44 g/cm³ is attached to a flask containing gas 'A' as follows. Patm = 1 atm. The liquid in the arm connected to the flask is 38cm lower than the open arm. \n\nIf gas A undergoes 30% trimerisation [3A(g) ⇌ A₃(g)] then the difference in height of the liquid level in two columns is:",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 38 cm",
+      "(b) 7.6 cm",
+      "(c) 3.04 cm",
+      "(d) 15.1 cm"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "Which of the following curves represent(s) Boyle's law?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) P vs V graph showing a hyperbolic curve.",
+      "(b) 1/P vs V graph showing a straight line with a positive slope.",
+      "(c) PV vs V graph showing a horizontal line.",
+      "(d) P vs 1/V graph showing a straight line with a positive slope passing through the origin."
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "If a gas expands at constant temperature:",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) the pressure decreases",
+      "(b) the kinetic energy of the molecules remains the same",
+      "(c) the K.E. of the molecules decrease",
+      "(d) the number of molecules of the gas increase"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "Which of the following statements are correct?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) It is not possible to compress a gas at a temperature below T_C",
+      "(b) At a temperature below T_C, the molecules are close enough for the attractive forces to act, and condensation occurs",
+      "(c) No condensation takes place above T_C",
+      "(d) Due to higher kinetic energy of the gas molecules above T_C, it is considered as super critical fluid."
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "What conclusion would you draw from the following graphs for an ideal gas? (Graphs of P vs T and V vs T are shown, both extrapolating to 0 K or -273.15°C)",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_16.png",
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) As the temperature is reduced, the volume as well as the pressure increase",
+      "(b) As the temperature is reduced, the volume becomes zero and the pressure reaches infinity",
+      "(c) As the temperature is reduced, the pressure decrease",
+      "(d) A point is reached where, theoretically, the volume become zero"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "At Boyle temperature:",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) the effects of the repulsive and attractive intermolecular forces just offset each other",
+      "(b) the repulsive intermolecular forces are greater than the attractive intermolecular forces",
+      "(c) the repulsive intermolecular forces are less than the attractive intermolecular forces",
+      "(d) b - a/RT > 0"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "Indicate the correct statement for equal volumes of N₂(g) and CO₂(g) at 25°C and 1 atm.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) The average translational K.E. per molecule is the same for N₂ and CO₂",
+      "(b) The rms speed remains same for both N₂ and CO₂",
+      "(c) The density of N₂ is less than that of CO₂",
+      "(d) The total translational K.E. of both N₂ and CO₂ is the same"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "Which of the following is correct for critical temperature?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) It is the highest temperature at which liquid and vapour can coexist",
+      "(b) Beyond this temperature, there is no distinction between the two phases and a gas cannot be liquefied by compression.",
+      "(c) At this temperature, the gas and the liquid phases have different critical densities",
+      "(d) All are correct"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "Consider the following statement regarding Maxwell's distribution of velocities. The correct statement(s) is/are:",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) As temperature increases, the peak (maxima) of a curve is shifted towards right side",
+      "(b) As temperature increases, the most probable velocity of molecules increases but fraction of molecules of maximum velocity decreases",
+      "(c) The area under the curve at all the temperatures is the same because it represents the number of gaseous molecules",
+      "(d) The fractions of molecules having different velocities are different at a given temperature"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "If a gas expands at a constant pressure by providing heat :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) the temperature increases",
+      "(b) the kinetic energy of the gaseous molecules remains same",
+      "(c) the kinetic energy of gaseous molecules decreases",
+      "(d) the number of molecules of the gas decreases"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "Select incorrect statement(s) :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) the product of pressure and volume of fixed amount of a gas is independent of temperature",
+      "(b) the value of universal gas constant depends upon temperature, volume and number of gaseous molecules",
+      "(c) the gas constant also know as Boltzmann's constant",
+      "(d) the average kinetic energy of molecules depends only on temperature"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "Following represents the Maxwell distribution curve for an ideal gas at two temperature T₁ and T₂. Which of the following option(s) are true?",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_17.png",
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Total area under the two curves is independent of moles of gas",
+      "(b) U_mps decreases as temperature decreases",
+      "(c) T₁ > T₂ and hence higher the temperature, sharper the curve",
+      "(d) The fraction of molecules having speed = U_mps decreases as temperature increases"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "Two container each containing liquid water are connected as shown in diagram. Given that vapour pressure of H₂O(l) at 300 K and 350 K are 22 torr and 40 torr. Select write statement(s) :",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_18.png",
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) The final pressure in each container if valve is opened while keeping the containers at the given temperature is 22 torr",
+      "(b) The final pressure in each container if valve is opened while keeping the containers at the given temperature is 40 torr",
+      "(c) Mass of H₂O(l) is decreased in vessel X",
+      "(d) Mass of H₂O(l) is decreased in vessel Y"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "Select the correct statement(s) :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) At Boyle's temperature a real gas behaves like an ideal gas at low pressure",
+      "(b) Above critical conditions, a real gas behave like an ideal gas",
+      "(c) For hydrogen gas 'b' domainates over 'a' at all temperature",
+      "(d) At high pressure van der Waals' constant 'b' domainates over 'a'"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "Select the correct statement :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) The value of compressibility factor 'Z' for H₂ gas is greater than one at room temperature and pressure",
+      "(b) The real gas behaves as an ideal gas at Boyle's temperature.",
+      "(c) For a real gas following van der Waals' equation of state, the expression of critical temperature is 8a/27R.b",
+      "(d) At low pressure, the compressibility factor 'Z' = 1 + P.b/RT for a van der Waals' gas."
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "A open ended mercury manometer is used to measure the pressure exerted by a trapped gas as shown in the figure. Initially manometer shows no difference in mercury level in both columns as shown in diagram. P=76 cm. After sparking 'A' dissociates according to following reaction A(g) → B(g) + 3C(g). If pressure of Gas 'A' decreases to 0.9 atm. Then (Assume temperature to be constant and is 300 K)",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_19.png",
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) total pressure increased to 1.3 atm",
+      "(b) total pressure increased by 0.3 atm",
+      "(c) total pressure increased by 22.3 cm of Hg",
+      "(d) difference in mercury level is 228 mm."
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "Select incorrect statements for real gas:",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Gases have only attraction forces in low pressure region",
+      "(b) Volume of gas particles is not negligible in low pressure",
+      "(c) Gases behaves as an ideal gas at low pressure",
+      "(d) In high pressure region attractive forces dominates"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "Select correct statements:",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) A real gas can be liquified at critical temperature",
+      "(b) Critical pressure is the maximum pressure at which substance present in its liquid state at T_c",
+      "(c) Ideal gas can be liquified below T_c",
+      "(d) Critical volume is the molar volume of substance in gaseous state at T_c and P_c"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question": "Which is/are correct for real gases?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Lt (P→∞) (PV_m) = constant at constant high temperature",
+      "(b) Lt (V_m→0) (PV_m) = constant at constant low temperature",
+      "(c) Lt (P→0) (PV_m/RT) = 1 at high temperature",
+      "(d) Lt (V→∞) (PV_m/RT) = R"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question": "Select incorrect statement(s)",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) At very low pressure real gases show minimum deviation from ideal behaviour.",
+      "(b) The compressibility factor for an ideal gas is zero.",
+      "(c) At Boyle temperature real gas behave as ideal gas in high pressure region.",
+      "(d) Real gas show maximum deviation at high pressure and low temperature."
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "If an ideal gas is heated at constant pressure:",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) The volume increases",
+      "(b) The mass of gas remains same",
+      "(c) The kinetic energy of the molecules increases",
+      "(d) Attraction forces between gas particles increases"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "MATCH THE COLUMN. Column-II: (P) a/Rb, (Q) 8a/27Rb, (R) 2a/Rb, (S) a/27b²",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "(A) Boyle's temperature",
+      "(B) Inversion temperature",
+      "(C) Critical temperature",
+      "(D) Critical pressure"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "MATCH THE COLUMN. Column-II: (P) (3/2)RT, (Q) √(8P/πd), (R) √(3P/d), (S) √(2RT/M)",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "(A) Root mean square velocity",
+      "(B) Most probable velocity",
+      "(C) Average velocity",
+      "(D) K.E. of gas mol⁻¹"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "MATCH THE COLUMN. Column-II: (P) (P + a/V²)(V - b) = RT, (Q) PV = RT - a/V, (R) PV = RT + Pb, (S) PV = RT",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "(A) If force of attraction among the gas molecules be negligible",
+      "(B) If the volume of the gas molecules be negligible",
+      "(C) At STP",
+      "(D) At low pressure and at high temperature"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "Match gases under specified conditions listed in Column I with their properties/laws in Column II. Column-II: (P) Compressibility factor ≠ 1, (Q) Attractive forces are dominant, (R) PV = nRT, (S) P(V - nb) = nRT",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "(A) Hydrogen gas (P = 200 atm, T = 273K)",
+      "(B) Hydrogen gas (P ~ 0, T = 273 K)",
+      "(C) CO₂ (P = 1 atm, T = 273 K)",
+      "(D) Real gas with very large molar volume"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "MATCH THE COLUMN. Match the relationship in Column I with the corresponding graph in Column II for an ideal gas.",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "(A) 1/V² vs. P at constant T and n.",
+      "(B) V vs. 1/T for ideal gas at constant P and n.",
+      "(C) PT vs. T² for ideal gas at constant T and n.",
+      "(D) V vs. 1/P² for ideal gas at constant T and n."
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "Match the correct column from list-1 to list-2 on the basis of following Andrews isotherm of Real gas.",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) Substance exist in both liquid and gas state, (B) Only liquid state exist, (C) Substance exist in gas state only, (D) Real gas is called super critical fluid",
+      "Column-II: (P) At AB part, (Q) At BD part, (R) At DE part, (S) At point C, (T) At GF curve"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "Match the speed at different points of the Maxwell distribution curve.",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) Speed at point 'A', (B) Speed at point 'B', (C) Speed at point 'C', (D) The speed possessed by maximum fraction of the gas particles",
+      "Column-II: (P) √(8RT/πM), (Q) √(3RT/M), (R) U_rms, (S) √(2RT/M)"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "STATEMENT-1: The heat absorbed during the isothermal expansion of an ideal gas against vacuum is zero. STATEMENT-2: The volume occupied by the molecules of an ideal gas is zero.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "STATEMENT-1: A lighter gas diffuses more rapidly than a heavier gas. STATEMENT-2: At a given temperature, the rate of diffusion of a gas is inversely proportional to the density.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "STATEMENT-1: The value of the van der Waals' constant 'a' is larger for ammonia than for nitrogen. STATEMENT-2: Hydrogen bonding is present in ammonia.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "STATEMENT-1: Helium shows only positive deviation from ideal behaviour at room temperature. STATEMENT-2: Helium is an inert gas.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "STATEMENT-1: CH₄, CO₂ has value of Z (compressibility factor) less than one at 0°C. STATEMENT-2: Z < 1 is due to the attractive forces dominate among the molecules.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "STATEMENT-1: The Joule-Thomson coefficient for an ideal gas is zero. STATEMENT-2: There are no intermolecular attractive forces in an ideal gas.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "STATEMENT-1: The average translational kinetic energy per molecule of the gas per degree of freedom is 1/2 KT. STATEMENT-2: For every molecule there are three rotational degree of freedom.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "STATEMENT-1: On increasing the temperature, the height of the peak of the Maxwell distribution curve decreases. STATEMENT-2: The fraction of molecules is very less at the higher velocities.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "STATEMENT-1: The gases He and H₂ are very different in their behaviour at any temperature and pressure but their compressibility factors are nearly the same at the critical point. STATEMENT-2: They have nearly the same critical constant.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "STATEMENT-1: Most probable velocity is the velocity possessed by maximum fraction of molecules at the same temperature. STATEMENT-2: On collision, more and more molecules acquire higher velocity at the same temperature.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "STATEMENT-1: Plot of P vs 1/V (volume) is a straight line for an ideal gas. STATEMENT-2: Pressure is directly proportional to volume for an ideal gas.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "STATEMENT-1: 1 mol of H₂ and O₂ each occupy 22.7 L of volume at 0°C and 1 bar pressure, considering ideal behaviour. STATEMENT-2: Molar volume for all ideal gases at the same temperature and pressure are equal.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "STATEMENT-1: Reacting gases react to form a new gas having pressure equal to the sum of their partial pressure. STATEMENT-2: Pressure exerted by a mixture of non-reacting gases present in a container is equal to the sum of their partial pressures.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "STATEMENT-1: 1/4th of the initial mole of the air is expelled, if air present in an open vessel is heated from 27°C to 127°C. STATEMENT-2: Rate of diffusion of a gas is inversely proportional to the square root of its molecular mass.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "STATEMENT-1: Compressibility factor for hydrogen varies with pressure with positive slope at all pressures at 0°C. STATEMENT-2: Even at low pressures, Repulsive forces dominate hydrogen gas at 0°C.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "STATEMENT-1: Wet air is heavier than dry air. STATEMENT-2: The density of dry air is less than the density of water at 1 atm and 273K.",
+    "year": null,
+    "question_type": "Assertion-Reason Type",
+    "options": [
+      "(A) If both the statement are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statement are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "Collapsible balloon is inflated to a volume of 10L at a pressure of 1 atm. When the balloon is immersed to the bottom of a lake, its volume reduce to 1.25 L. Assuming atmospheric pressure to be equivalent to 10m column of water and no change in temperature. If the depth of the lake is x x 10³ cm, what is the value of x ?",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 2,
+    "question": "A gaseous mixture containing equal moles of H₂, O₂ and He is subjected to series of effusion steps. The composition (by moles) of effused mixture after 4 effusion steps is x:1:y respectively. Then find the value of (x/y).",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 3,
+    "question": "One mole of a gas changed from its initial state (15L, 2 atm) to final state (4L, 10 atm) reversibly. If this change can be represented by a straight line in P-V curve maximum temperature (approximate), the gas attained is x x 10² K. Then find the value of x.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 4,
+    "question": "Two moles of an ideal gas undergoes the following process. Given that (∂P/∂T)_V is x × 10⁻ʸ, then calculate the value of (x+y). [Graph of P vs t(°C) is shown with points (27,3) and (127,4)]",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_20.png",
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 5,
+    "question": "If 1 mole of a diatomic gas present in 10 L vessel at certain temperature exert a pressure of 0.96 atm. Under similar conditions an ideal gas exerted 1.0 atm pressure. If volume of gas molecule is negligible. Then find the value of van der Waals' constant 'a' (in atm L²/mol²).",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 6,
+    "question": "The graph of compressibility factor (Z) vs. P for one mole of a real gas is shown in following diagram. The graph is plotted at constant temperature 273 K. If the slope of graph at very high pressure (dZ/dP) is 1/2.8 atm⁻¹, then calculate volume of one mole of real gas molecules (in L/mol). Given: N_A = 6x10²³ and R = 22.4/273 L atm K⁻¹mol⁻¹.",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_21.png",
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 7,
+    "question": "Under the identical conditions of temperature, the density of a gas X is two times to that of gas Y while molecular mass of gas Y is three times that of X. Calculate the ratio of pressure of X and Y.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 8,
+    "question": "The time taken for a certain volume of a certain gas to diffuse through a small hole was 2 min. Under similar conditions an equal volume of oxygen took 5.65 min to pass. What is the molecular mass of gas (in amu) ?",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 9,
+    "question": "If excess F₂(g) reacts at 150°C and 1.0 atm pressure with Br₂(g) to give a compound BrF_n, if 423 mL of Br₂(g) at the same temperature and pressure produced 4.2 g of BrF_n, what is n ? [Atomic mass Br = 80, F = 19]",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 10,
+    "question": "Initially bulb \"A\" contained oxygen gas at 27°C and 950 mm of Hg and bulb \"B\" contained neon gas at 27°C and 900mm of Hg. These bulbs are connected by a narrow tube of negligible volume equipped with a stopcock and gases were allowed to mix-up freely. Then obtain pressure in the combined system was found to be 910 mm of Hg. If volume of bulb B was measured to be 10L Then find the mass of oxygen gas present initially in bulb 'A'.",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_22.png",
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 11,
+    "question": "Air is trapped in a horizontal glass tube by 40 cm mercury column as shown below : [diagram shows air trapped, 36cm length, by mercury column, 40cm length, at 1 atm]. If the tube is held vertical keeping the open end up, length of air column shrink to 19 cm. What is the length (in cm) by which the mercury column shifts down?",
+    "year": null,
+    "images":"Img3/N_Awasthi_PC3_23.png",
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 12,
+    "question": "A flask containing air at 107°C and 722 mm of Hg is cooled to 100 K and 760 mm of Hg. If density in the initial condition 1 g/cm³, then what is the final density (g/cm³)?",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 13,
+    "question": "If an ideal gas at 100 K is heated to 109 K in a rigid container, the pressure increases by X%. What is the value of X?",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 14,
+    "question": "The vander Waal's constants for a gas are a = 3.6 atm L² mol⁻², b = 0.6L mol⁻¹. If R = 0.08L atm K⁻¹ mol⁻¹. If the Boyle's temperature (K) is T_B of this gas, then what is the value of T_B/15?",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 15,
+    "question": "A flask has 10 gas particles out of which four particles are moving at 7 ms⁻¹ and the remaining are moving at the same speed of 'X' ms⁻¹. If the r.m.s. of the gas is 5 ms⁻¹, what is the value of X ?",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  }
+
+]
