@@ -1,0 +1,280 @@
+[
+  {
+    "question_number": 28.1,
+    "Questions": "Derive the formula for the equivalent resistance Req of resistors R1, R2, and R3 (a) in series and (b) in parallel, as shown in Fig. 28-1(a) and (b).",
+    "year": null,
+    "question_type": "Derivation",
+    "solution": "In series: Vab = IR1 + IR2 + IR3; since current I is same, Req = R1 + R2 + R3. In parallel: I = V/R1 + V/R2 + V/R3 => 1/Req = 1/R1 + 1/R2 + 1/R3."
+  },
+  {
+    "question_number": 28.2,
+    "Questions": "A battery (internal resistance 1 Ω) is connected in series with two resistors. Compute (a) the current in the circuit, (b) the p.d. across each resistor, and (c) the terminal p.d. of the battery.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_40.png",
+    "solution": "Req = 18 Ω; I = V/R = 1.0 A; V_12Ω = 12 V, V_5Ω = 5 V; terminal p.d. = 18 V - 1Ω·1A = 17 V."
+  },
+  {
+    "question_number": 28.3,
+    "Questions": "A 120-V house circuit has bulbs rated at 40.0 W, 60.0 W, and 75.0 W. Find the equivalent resistance.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "R = V²/P; 360 Ω, 240 Ω, 192 Ω respectively. 1/Req = 1/360 + 1/240 + 1/192; Req = 82.3 Ω."
+  },
+  {
+    "question_number": 28.4,
+    "Questions": "What resistance must be placed in parallel with 12 Ω to get a combined resistance of 4 Ω?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Using 1/Req = 1/R1 + 1/R2, we solve for R2 = 6 Ω."
+  },
+  {
+    "question_number": 28.5,
+    "Questions": "Several 40-Ω resistors are connected to get 15 A from 120 V source. How many are needed?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Req = V/I = 8 Ω; 1/Req = n/40 ⇒ n = 5."
+  },
+  {
+    "question_number": 28.6,
+    "Questions": "For each circuit shown in Fig. 28-3, determine the current I through the battery.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_41.png",
+    "solution": "28.6(a): Req = 7.5 Ω; I = 30/7.5 = 4.0 A. 28.6(b): Req = 14.8 Ω; I = 20/14.8 = 1.4 A. 28.6(c): Req = 8.5 Ω; I = 17/8.5 = 2.0 A."
+  },
+  {
+    "question_number": 28.7,
+    "Questions": "Find the current in each resistor and current from battery (Fig. 28-4).",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_42.png",
+    "solution": "All resistors have 40 V; I_2Ω = 20 A, I_5Ω = 8 A, I_8Ω = 5 A. I_total = 33 A."
+  },
+  {
+    "question_number": 28.8,
+    "Questions": "In Fig. 28-5, find (a) total current, (b) current through 15-Ω resistor, (c) terminal voltage.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_43.png",
+    "solution": "R_parallel = 5 Ω; Req = 6 Ω; I = 4 A; I_15Ω = 1.3 A; V_terminal = 21.2 V."
+  },
+  {
+    "question_number": 28.9,
+    "Questions": "Find the equivalent resistance between a and b (Fig. 28-6(a)).",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_44.png",
+    "solution": "R1 = 2.73 Ω; R2 = 2.6 Ω; Req = 11.6 Ω."
+  },
+  {
+    "question_number": 28.10,
+    "Questions": "(a) Voltage from a to b? (b) Current through 12-Ω resistor (I = 5.0 A, Fig. 28-6(a))?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) V = IR = 58 V; (b) V_drop = 13 V ⇒ I_12 = 13/12 = 1.1 A."
+  },
+  {
+    "question_number": 28.11,
+    "Questions": "Find I1 and I2 in terms of I, R1, and R2.",
+    "year": null,
+    "question_type": "Derivation",
+    "images" : "images_1/Schaums_ch16_to_46_45.png",
+    "solution": "I1 = R2/(R1 + R2)·I, I2 = R1/(R1 + R2)·I"
+  },
+  {
+    "question_number": 28.12,
+    "Questions": "Find potential difference between P and Q (Fig. 28-8). Which is at higher potential?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_46.png",
+    "solution": "I_P = 4.0 A, I_Q = 3.0 A. ΔV = 34 V; P is higher potential."
+  },
+  {
+    "question_number": 28.13,
+    "Questions": "Find I1, I2, I3, and current in 12-Ω resistor (Fig. 28-9).",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_47.png",
+    "solution": "Req = 9.0 Ω; I1 = 3.0 A; I2 = 1.0 A; I3 = 2.0 A; I_12Ω = 0.17 A."
+  },
+  {
+    "question_number": 28.14,
+    "Questions": "A galvanometer (400 Ω) deflects full scale at 0.2 A. What shunt resistor to make it a 3.0 A ammeter?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_48.png",
+    "solution": "V = IR ⇒ R_shunt = 0.027 Ω."
+  },
+  {
+    "question_number": 28.15,
+    "Questions": "Voltmeter full-scale at 5.0 V. Galvanometer deflects full-scale at 20.00 mV, 80 Ω. Find R_series.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "V = IR ⇒ R_series = 19.92 kΩ."
+  },
+  {
+    "question_number": 28.16,
+    "Questions": "In Fig. 28-11, find I1, I2, I3, and charge on capacitor.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_49.png",
+    "solution": "Req = 12 Ω; I1 = 1.25 A; I3 = 1.3 A; V_ab = -0.25 V ⇒ Q = 0.5 μC."
+  },
+  {
+    "question_number": 28.17,
+    "Questions": "Find ammeter and voltmeter reading in Fig. 28-12. Assume ideal meters.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_50.png",
+    "solution": "Req = 16 Ω; I = 0.5 A; V_ab = -2.5 V ⇒ voltmeter reads 2.5 V, ammeter reads 0.5 A."
+  },
+  {
+    "question_number": 28.18,
+    "Questions": "Compute the equivalent resistance of 4.0 Ω and 8.0 Ω (a) in series and (b) in parallel.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 12 Ω; (b) 2.7 Ω"
+  },
+  {
+    "question_number": 28.19,
+    "Questions": "Compute the equivalent resistance of (a) 3.0 Ω, 6.0 Ω, and 9.0 Ω in parallel; (b) 3.0 Ω, 4.0 Ω, 7.0 Ω, 10.0 Ω, and 12.0 Ω in parallel; (c) three 33-Ω heating elements in parallel; (d) twenty 100-Ω lamps in parallel.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 1.6 Ω; (b) 1.1 Ω; (c) 11 Ω; (d) 5.0 Ω"
+  },
+  {
+    "question_number": 28.20,
+    "Questions": "What resistance must be placed in parallel with 20 Ω to make the combined resistance 15 Ω?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 60 Ω"
+  },
+  {
+    "question_number": 28.21,
+    "Questions": "How many 160-Ω resistors (in parallel) are required to carry 5.0 A on a 100-V line?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 8"
+  },
+  {
+    "question_number": 28.22,
+    "Questions": "Three resistors, of 8.0 Ω, 12 Ω, and 24 Ω, are in parallel, and a current of 20 A is drawn by the combination. Determine (a) the potential difference across the combination and (b) the current through each resistance.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 80 V; (b) 10 A, 6.7 A, 3.3 A"
+  },
+  {
+    "question_number": 28.23,
+    "Questions": "By use of one or more of the three resistors 3.0 Ω, 5.0 Ω, and 6.0 Ω, a total of 18 resistances can be obtained. What are they?",
+    "year": null,
+    "question_type": "Exploratory Problem",
+    "solution": "Ans. 0.70 Ω, 1.4 Ω, 1.9 Ω, 2.0 Ω, 2.4 Ω, 2.7 Ω, 3.0 Ω, 3.2 Ω, 3.4 Ω, 5.0 Ω, 5.7 Ω, 6.0 Ω, 7.0 Ω, 7.9 Ω, 8.0 Ω, 9.0 Ω, 11 Ω, 12 Ω, 14 Ω"
+  },
+  {
+    "question_number": 28.24,
+    "Questions": "Two resistors, of 4.0 Ω and 12.0 Ω, are connected in parallel across a 22-V battery having internal resistance 1.0 Ω. Compute (a) the battery current, (b) the current in the 4.0-Ω resistor, (c) the terminal voltage of the battery, (d) the current in the 12.0-Ω resistor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 5.5 A; (b) 4.1 A; (c) 17 V; (d) 1.4 A"
+  },
+  {
+    "question_number": 28.25,
+    "Questions": "Three resistors, of 40 Ω, 60 Ω, and 120 Ω, are connected in parallel, and this parallel group is connected in series with 15 Ω in series with 25 Ω. The whole system is then connected to a 120-V source. Determine (a) the current in the 25 Ω, (b) the potential drop across the parallel group, (c) the potential drop across the 25 Ω, (d) the current in the 60 Ω, (e) the current in the 40 Ω.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 2.0 A; (b) 40 V; (c) 50 V; (d) 0.67 A; (e) 1.0 A"
+  },
+  {
+    "question_number": 28.26,
+    "Questions": "What shunt resistance should be connected in parallel with an ammeter having a resistance of 0.040 Ω so that 25 percent of the total current will pass through the ammeter?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.013 Ω"
+  },
+  {
+    "question_number": 28.27,
+    "Questions": "A 36-Ω galvanometer is shunted by a resistor of 4.0 Ω. What part of the total current will pass through the instrument?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1/10"
+  },
+  {
+    "question_number": 28.28,
+    "Questions": "A relay of resistance 6.0 Ω operates with a minimum current of 0.030 A. It is required that the relay operate when the current in the line attains 0.240 A. What resistance should be used to shunt the relay?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.86 Ω"
+  },
+  {
+    "question_number": 28.29,
+    "Questions": "Show that if two resistors are connected in parallel, the rates at which they produce thermal energy vary inversely as their resistances.",
+    "year": null,
+    "question_type": "Conceptual",
+    "solution": "Using power formula P = I²R, in parallel the voltage is same, so P = V²/R ⇒ power is inversely proportional to resistance."
+  },
+  {
+    "question_number": 28.30,
+    "Questions": "For the circuit shown in Fig. 28-13, find the current through each resistor and the potential drop across each resistor.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_51.png",
+    "solution": "Refer to Fig. 28-13. Use Ohm’s law and series-parallel rules to compute I and V for each resistor. Example answers: For 20 Ω, 3.0 A and 60 V; for 75 Ω, 2.4 A and 180 V; for 300 Ω, 0.6 A and 180 V."
+  },
+  {
+    "question_number": 28.31,
+    "Questions": "For the circuit shown in Fig. 28-14, find (a) its equivalent resistance; (b) the current drawn from the power source; (c) the potential differences across ab, cd, and de; (d) the current in each resistor.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_52.png",
+    "solution": "Ans. (a) 15 Ω; (b) 20 A; (c) V_ab = 80 V, V_cd = 120 V, V_de = 100 V; (d) I_4 = 20 A, I_0 = 12 A, I_5 = 8 A, I_9 = 11.1 A, I_18 = 5.6 A, I_30 = 3.3 A"
+  },
+  {
+    "question_number": 28.32,
+    "Questions": "It is known that the potential difference across the 6.0-Ω resistance in Fig. 28-15 is 48 V. Determine (a) the entering current I, (b) the potential difference across the 8.0-Ω resistance, (c) the potential difference across the 10-Ω resistance, (d) the potential difference from a to b. (Hint: The wire connecting c and d can be shrunk to zero length without altering the currents or potentials.)",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_53.png",
+    "solution": "Ans. (a) 12 A; (b) 96 V; (c) 60 V; (d) 204 V"
+  },
+  {
+    "question_number": 28.33,
+    "Questions": "In the circuit shown in Fig. 28-16, 23.9 calories of thermal energy are produced each second in the 4.0-Ω resistor. Assuming the ammeter and two voltmeters to be ideal, what will be their readings?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_54.png",
+    "solution": "Ans. 5.8 A, 8.0 V, 58 V"
+  },
+  {
+    "question_number": 28.34,
+    "Questions": "For the circuit shown in Fig. 28-17, find (a) the equivalent resistance; (b) the currents through the 5.0-Ω, 7.0-Ω, and 3.0-Ω resistors; (c) the total power output of the battery.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_55.png",
+    "solution": "Ans. (a) 10 Ω; (b) 12 A, 6.0 A, 2.0 A; (c) 1.3 kW"
+  },
+  {
+    "question_number": 28.35,
+    "Questions": "In the circuit shown in Fig. 28-18, the ideal ammeter registers 2.0 A. (a) Assuming XY to be a resistance, find its value. (b) Assuming XY to be a battery (with 2.0-Ω internal resistance) that is being charged, find its emf. (c) Under the conditions of part (b), what is the potential change from point Y to point X?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_56.png",
+    "solution": "Ans. (a) 5.0 Ω; (b) 60 V; (c) –10 V"
+  },
+  {
+    "question_number": 28.36,
+    "Questions": "The Wheatstone bridge shown in Fig. 28-19 is being used to measure resistance X. At balance, the current through the galvanometer G is zero and resistances L, M, and N are 3.0 Ω, 2.0 Ω, and 10 Ω, respectively. Find the value of X.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_57.png",
+    "solution": "Ans. 15 Ω"
+  },
+  {
+    "question_number": 28.37,
+    "Questions": "The slidewire Wheatstone bridge shown in Fig. 28-20 is balanced when the uniform slide wire AB is divided as shown. Find the value of the resistance X.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_58.png",
+    "solution": "Ans. 2 Ω"
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "question_number": 18.1,
+    "Questions": "(a) How much heat is required to raise the temperature of 250 mL of water from 20.0°C to 35.0°C? (b) How much heat is lost by the water as it cools back down to 20.0°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) ΔQ = mcΔT = 3.75 x 10³ cal = 15.7 kJ\n(b) ΔQ = mcΔT = −3.75 x 10³ cal = −15.7 kJ"
+  },
+  {
+    "question_number": 18.2,
+    "Questions": "How much heat does 25 g of aluminum give off as it cools from 100°C to 20°C? For aluminum, c = 880 J/kg°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ΔQ = mcΔT = −1.8 kJ = −0.42 kcal"
+  },
+  {
+    "question_number": 18.3,
+    "Questions": "A certain amount of heat is added to a mass of aluminum (c = 0.21 cal/g°C), and its temperature is raised 57°C. Suppose that the same amount of heat is added to the same mass of copper (c = 0.093 cal/g°C). How much does the temperature of the copper rise?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ΔT_cu = (0.21/0.093)(57°C) = 1.3 × 10²°C"
+  },
+  {
+    "question_number": 18.4,
+    "Questions": "Two identical metal plates (mass = m, specific heat = c) have different temperatures; one is at 20°C, and the other is at 90°C. They are placed in good thermal contact. What is their final temperature?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The final temperature is 55°C."
+  },
+  {
+    "question_number": 18.5,
+    "Questions": "A thermos bottle contains 250 g of coffee at 90°C. To this is added 20 g of milk at 5°C. After equilibrium is established, what is the temperature of the liquid? Assume no heat loss to the thermos bottle.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Tf = 84°C"
+  },
+  {
+    "question_number": 18.6,
+    "Questions": "A thermos bottle contains 150 g of water at 4°C. Into this is placed 90 g of metal at 100°C. After equilibrium is established, the temperature of the water and metal is 21°C. What is the specific heat of the metal?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "c_metal = 0.36 cal/g°C"
+  },
+  {
+    "question_number": 18.7,
+    "Questions": "A 200-g copper calorimeter can contains 150 g of oil at 20°C. To the oil is added 80 g of aluminum at 300°C. What will be the temperature of the system after equilibrium is established? c_cu = 0.093 cal/g°C, c_Al = 0.21 cal/g°C, c_oil = 0.37 cal/g°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Tf = 72°C"
+  },
+  {
+    "question_number": 18.8,
+    "Questions": "Exactly 3.0 g of carbon was burned to CO₂ in a copper calorimeter. The mass of the calorimeter is 1500 g, and there is 2000 g of water in the calorimeter. The initial temperature was 20°C, and the final temperature is 31°C. Calculate the heat given off per gram of carbon. c_cu = 0.093 cal/g°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Heat per gram of carbon = 7.8 kcal/g"
+  },
+  {
+    "question_number": 18.9,
+    "Questions": "Determine the temperature Tf that results when 150 g of ice at 0°C is mixed with 300 g of water at 50°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Tf = 6.7°C"
+  },
+  {
+    "question_number": 18.10,
+    "Questions": "How much heat is given when 20 g of steam at 100°C is condensed and cooled to 20°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ΔQ = −12.4 kcal"
+  },
+  {
+    "question_number": 18.11,
+    "Questions": "A 20-g piece of aluminum (c = 0.21 cal/g°C) at 90°C is dropped into a cavity in a large block of ice at 0°C. How much ice does the aluminum melt?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.7 g of ice is melted."
+  },
+  {
+    "question_number": 18.12,
+    "Questions": "In a calorimeter can (which behaves thermally as if it were equivalent to 40 g of water) are 200 g of water and 50 g of ice, all at exactly 0°C. Into this is poured 30 g of water at 90°C. What will be the final condition of the system?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Final temperature Tf > 0°C"
+  },
+  {
+    "question_number": 18.13,
+    "Questions": "A thermometer in a 10 m × 8.0 m × 4.0 m room reads 22°C and a humidistat reads the R.H. to be 35 percent. What mass of water vapor is in the room? Saturated air at 22°C contains 19.33 g H₂O/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Total mass of water = 2.2 kg"
+  },
+  {
+    "question_number": 18.14,
+    "Questions": "On a certain day when the temperature is 28°C, moisture forms on the outside of a glass of cold drink if the glass is at a temperature of 16°C or lower. What is the R.H. on that day? Saturated air at 28°C contains 26.93 g/m³ of water, while, at 16°C, it contains 13.50 g/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "R.H. = 50%"
+  },
+  {
+    "question_number": 18.15,
+    "Questions": "Outside air at 5°C and 20 percent relative humidity is introduced into a heating and air conditioning plant where it is heated to 20°C and its relative humidity is increased to a comfortable 50 percent. How many grams of water must be evaporated into a cubic meter of outside air to accomplish this? Saturated air at 5°C contains 6.8 g/m³ of water, and at 20°C it contains 17.3 g/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Mass of water = 7.8 g"
+  },
+  {
+    "question_number": 18.16,
+    "Questions": "A thermometer in a 10 m × 8.0 m × 4.0 m room reads 22°C and a humidistat reads the R.H. to be 35 percent. What mass of water vapor is in the room? Saturated air at 22°C contains 19.33 g H₂O/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Mass of water = 2.2 kg"
+  },
+  {
+    "question_number": 18.17,
+    "Questions": "On a certain day when the temperature is 28°C, moisture forms on the outside of a glass of cold drink if the glass is at a temperature of 16°C or lower. What is the R.H. on that day? Saturated air at 28°C contains 26.93 g/m³ of water, while, at 16°C, it contains 13.50 g/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "R.H. = 50%"
+  },
+  {
+    "question_number": 18.18,
+    "Questions": "Outside air at 5°C and 20 percent relative humidity is introduced into a heating and air conditioning plant where it is heated to 20°C and its relative humidity is increased to a comfortable 50 percent. How many grams of water must be evaporated into a cubic meter of outside air to accomplish this? Saturated air at 5°C contains 6.8 g/m³ of water, and at 20°C it contains 17.3 g/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Mass of water = 7.8 g"
+  },
+  {
+    "question_number": 18.19,
+    "Questions": "How many calories are required to heat each of the following from 15°C to 65°C? (a) 3.0 g of aluminum, (b) 5.0 g of pyrex glass, (c) 20 g of platinum. The specific heats, in cal/g°C, for aluminum, pyrex, and platinum are 0.21, 0.20, and 0.032, respectively.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 32 cal; (b) 50 cal; (c) 32 cal"
+  },
+  {
+    "question_number": 18.20,
+    "Questions": "When 5.0 g of a certain type of coal is burned, it raises the temperature of 1000 mL of water from 10°C to 47°C. Calculate the thermal energy produced per gram of coal. Neglect the small heat capacity of the coal.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 7.4 kcal/g"
+  },
+  {
+    "question_number": 18.21,
+    "Questions": "Furnace oil has a heat of combustion of 44 MJ/kg. Assuming that 70 percent of the heat is useful, how many kilograms of oil are required to raise the temperature of 2000 kg of water from 20°C to 99°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 22 kg"
+  },
+  {
+    "question_number": 18.22,
+    "Questions": "What will be the final temperature if 50 g of water at exactly 0°C is added to 250 g of water at 90°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 75°C"
+  },
+  {
+    "question_number": 18.23,
+    "Questions": "A 50-g piece of metal at 95°C is dropped into 250 g of water at 17.0°C and warms it to 19.4°C. What is the specific heat of the metal?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.16 cal/g°C"
+  },
+  {
+    "question_number": 18.24,
+    "Questions": "How long does it take a 2.50-W heater to boil away 400 g of liquid helium at its boiling point (4.2 K)? For helium, L_f = 50 cal/g.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 56 min"
+  },
+  {
+    "question_number": 18.25,
+    "Questions": "A 55-g copper calorimeter (c = 0.093 cal/g°C) contains 250 g of water at 18.0°C. When 75 g of an alloy at 100°C is dropped into the calorimeter, the resulting temperature is 20.4°C. What is the specific heat of the alloy?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.10 cal/g°C"
+  },
+  {
+    "question_number": 18.26,
+    "Questions": "Determine the temperature that results when 1.0 kg of ice at exactly 0°C is mixed with 9.0 kg of water at 50°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 37°C"
+  },
+  {
+    "question_number": 18.27,
+    "Questions": "How much heat is required to change 10 g of ice at exactly 0°C to steam at 100°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 7.2 kcal"
+  },
+  {
+    "question_number": 18.28,
+    "Questions": "Ten kilograms of steam at 100°C is condensed in 500 kg of water at 40.0°C. What is the resulting temperature?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 51.8°C"
+  },
+  {
+    "question_number": 18.29,
+    "Questions": "The heat of combustion of ethane gas is 373 kcal/mole. Assuming that 60.0 percent of the heat is useful, how many liters of ethane are required to raise the temperature of 2000 g of water from 20°C to 100°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 80 cal/g"
+  },
+  {
+    "question_number": 18.30,
+    "Questions": "Calculate the heat of fusion of ice from the following data for ice at 0°C added to water: Mass of calorimeter = 60 g; Mass of calorimeter plus water = 460 g; Mass of calorimeter plus water and ice = 618 g; Initial temperature of water = 38.0°C; Final temperature of mixture = 5.0°C; Specific heat of calorimeter = 0.10 cal/g°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 80 cal/g"
+  },
+  {
+    "question_number": 18.31,
+    "Questions": "Determine the result when 100 g of steam at 100°C is passed into 200 g of water and 20 g of ice at exactly 0°C in a calorimeter which behaves thermally as if it were equivalent to 30 g of water.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 49 g of steam condensed, final temperature 100°C"
+  },
+  {
+    "question_number": 18.32,
+    "Questions": "Determine the result when 10 g of steam at 100°C is passed into 400 g of water and 100 g of ice at exactly 0°C in a calorimeter which behaves thermally as if it were equivalent to 50 g of water.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 80 g of ice melted, final temperature 0°C"
+  },
+  {
+    "question_number": 18.33,
+    "Questions": "Suppose a person who eats 2500 Cal of food each day loses the heat equivalent of the food through evaporation of water from the body. How much water must evaporate each day? At body temperature, L_f for water is about 600 cal/g.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 4.17 kg"
+  },
+  {
+    "question_number": 18.34,
+    "Questions": "How long will it take a 500-W heater to raise the temperature of 400 g of water from 15.0°C to 98.0°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 278 s"
+  },
+  {
+    "question_number": 18.35,
+    "Questions": "A 0.250-hp drill causes a dull 50.0-g steel bit to heat up rather than to deepen a hole in a block of hard wood. Assuming that 75.0 percent of the friction-loss energy causes heating of the bit, by what amount will its temperature change in 20.0 s? For steel, c = 450 J/kg°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 124°C"
+  },
+  {
+    "question_number": 18.36,
+    "Questions": "On a certain day the temperature is 20°C and the dew point is 5.0°C. What is the relative humidity? Saturated air at 20°C and 5.0°C contains 17.12 and 6.80 g/m³ of water, respectively.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 40%"
+  },
+  {
+    "question_number": 18.37,
+    "Questions": "How much water vapor exists in a 105-m³ room on a day when the relative humidity in the room is 32 percent and the room temperature is 20°C? Saturated air at 20°C contains 17.12 g/m³ of water.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.58 kg"
+  },
+  {
+    "question_number": 18.38,
+    "Questions": "Air at 30°C and 90 percent relative humidity is drawn into an air conditioning unit and cooled to 20°C. The relative humidity is simultaneously reduced to 50 percent. How many grams of water are removed from a cubic meter of air at 30°C by the air conditioner? Saturated air contains 30.4 g/m³ and 17.1 g/m³ of water at 30°C and 20°C, respectively.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 19 g"
+  }
+]

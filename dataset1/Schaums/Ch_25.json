@@ -1,0 +1,373 @@
+[
+  {
+    "question_number": 25.1,
+    "Questions": "In Fig. 25-2, the potential difference between the metal plates is 40 V. (a) Which plate is at the higher potential? (b) How much work must be done to carry a +3.0 C charge from B to A? From A to B? (c) How do we know that the electric field is in the direction indicated? (d) If the plate separation is 5.0 mm, what is the magnitude of E?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_27.png",
+    "solution": "E = 8.0 kV/m"
+  },
+  {
+    "question_number": 25.2,
+    "Questions": "How much work is required to carry an electron from the positive terminal of a 12-V battery to the negative terminal?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.9 × 10⁻¹⁸ J"
+  },
+  {
+    "question_number": 25.3,
+    "Questions": "How much electrical potential energy does a proton lose as it falls through a potential drop of 5 kV?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "−8 × 10⁻¹⁶ J"
+  },
+  {
+    "question_number": 25.4,
+    "Questions": "An electron starts from rest and falls through a potential rise of 80 V. What is its final speed?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.3 × 10⁶ m/s"
+  },
+  {
+    "question_number": 25.5,
+    "Questions": "(a) What is the absolute potential at r = 10 cm and r = 50 cm for a charge of 2.0 µC? (b) How much work is required to carry a 0.05 µC charge from r = 50 cm to r = 10 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Work = 7.2 mJ"
+  },
+  {
+    "question_number": 25.6,
+    "Questions": "Suppose in Problem 25.5(a), that a proton is released at r = 10 cm. How fast will it be moving as it passes a point at r = 50 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.3 × 10⁶ m/s"
+  },
+  {
+    "question_number": 25.7,
+    "Questions": "In Fig. 25-2, let E = 2.0 kV/m and d = 5.0 mm. A proton is shot from plate B toward plate A with a speed of 100 km/s. What will be its speed just before it strikes plate A?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "90 km/s"
+  },
+  {
+    "question_number": 25.8,
+    "Questions": "A tin nucleus has a charge +50e. (a) Find the absolute potential V at a radius of 1.0 × 10⁻¹² m from the nucleus. (b) If a proton is released from this point, how fast will it be moving when it is 1.0 m from the nucleus?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 72 kV; (b) 3.7 × 10⁶ m/s"
+  },
+  {
+    "question_number": 25.9,
+    "Questions": "The following point charges are placed on the x-axis: +2.0 µC at x = 20 cm, –3.0 µC at x = 30 cm, –4.0 µC at x = 40 cm. Find the absolute potential on the axis at x = 0.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "−90 kV"
+  },
+  {
+    "question_number": 25.10,
+    "Questions": "Two point charges, +q and –q, are separated by a distance d. Where, besides at infinity, is the absolute potential zero?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Everywhere on the perpendicular bisector of the line joining the two charges"
+  },
+  {
+    "question_number": 25.11,
+    "Questions": "Four point charges are placed at the four corners of a square that is 30 cm on each side. Find the potential at the center of the square if (a) the four charges are each +2.0 µC and (b) two of the four charges are +2.0 µC and two are –2.0 µC.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 3.4 × 10⁵ V; (b) 0"
+  },
+  {
+    "question_number": 25.12,
+    "Questions": "In Fig. 25-3, the charge at A is +200 pC, while the charge at B is –100 pC. (a) Find the absolute potentials at points C and D. (b) How much work must be done to transfer a charge of +500 µC from point C to point D?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_28.png",
+    "solution": "5.1 mJ"
+  },
+  {
+    "question_number": 25.13,
+    "Questions": "Find the electrical potential energy of three point charges placed as follows on the x-axis: +2.0 µC at x = 0, +3.0 µC at x = 20 cm, and +6.0 µC at x = 50 cm. Take the PEₑ to be zero when the charges are far separated.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.0 J"
+  },
+  {
+    "question_number": 25.14,
+    "Questions": "Two protons are held at rest, 5.0 × 10⁻¹² m apart. When released, they fly apart. How fast will each be moving when they are far from each other?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.7 × 10⁵ m/s"
+  },
+  {
+    "question_number": 25.15,
+    "Questions": "In Fig. 25-4 two large metal plates connected to a 120-V battery. Assume the plates to be in vacuum. (a) Find E between the plates, (b) the force experienced by an electron between the plates, (c) the PE lost by an electron as it moves from plate B to plate A, and (d) the speed of the electron released from plate B just before striking plate A.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_29.png",
+    "solution": "E = 6.0 kV/m, F = −9.6 × 10⁻¹⁶ N, PE lost = −1.9 × 10⁻¹⁷ J, v = 6.5 × 10⁶ m/s"
+  },
+  {
+    "question_number": 25.16,
+    "Questions": "As shown in Fig. 25-5, a charged particle remains stationary between two horizontal charged plates. The plate separation is 2.0 cm, and m = 4.0 × 10⁻¹³ kg and q = 2.4 × 10⁻¹⁸ C for the particle. Find the potential difference between the plates.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_30.png",
+    "solution": "33 kV"
+  },
+  {
+    "question_number": 25.17,
+    "Questions": "An alpha particle (q = 2e, m = 6.7 × 10⁻²⁷ kg) falls from rest through a potential drop of 3.0 × 10⁶ V (3.0 MV). (a) What is its KE in electron volts? (b) What is its speed?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 6.0 MeV; (b) 1.7 × 10⁷ m/s"
+  },
+  {
+    "question_number": 25.18,
+    "Questions": "What is the speed of a 400 eV (a) electron, (b) proton, and (c) alpha particle?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 1.186 × 10⁷ m/s; (b) 2.77 × 10⁵ m/s; (c) 1.38 × 10⁵ m/s"
+  },
+  {
+    "question_number": 25.19,
+    "Questions": "A capacitor has a capacitance of 8.0 µF with air between its plates. Determine its capacitance when a dielectric with dielectric constant 6.0 is placed between its plates.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "48 µF"
+  },
+  {
+    "question_number": 25.20,
+    "Questions": "What is the charge on a 300 pF capacitor when it is charged to a voltage of 1.0 kV?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.30 µC"
+  },
+  {
+    "question_number": 25.21,
+    "Questions": "A metal sphere mounted on an insulating rod carries a charge of 6.0 nC when its potential is 200 V higher than its surroundings. What is the capacitance of the capacitor formed by the sphere and its surroundings?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "30 pF"
+  },
+  {
+    "question_number": 25.22,
+    "Questions": "A 1.2 μF capacitor is charged to 3.0 kV. Compute the energy stored in the capacitor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.4 J"
+  },
+  {
+    "question_number": 25.23,
+    "Questions": "The series combination of two capacitors shown in Fig. 25-6 is connected across 1000 V. Compute (a) the equivalent capacitance C_eq of the combination, (b) the magnitudes of the charges on the capacitors, (c) the potential differences across the capacitors, and (d) the energy stored in the capacitors.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_31.png",
+    "solution": "C_eq = 2.0 pF; charges = 2.0 nC; V1 = 0.67 kV, V2 = 0.33 kV; energy = 1.0 μJ"
+  },
+  {
+    "question_number": 25.24,
+    "Questions": "The parallel capacitor combination shown in Fig. 25-7 is connected across a 120 V source. Determine the equivalent capacitance C_eq, the charge on each capacitor, and the charge on the combination.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_32.png",
+    "solution": "C_eq = 8.0 pF; q1 = 0.24 nC, q2 = 0.72 nC, q_total = 0.96 nC"
+  },
+  {
+    "question_number": 25.25,
+    "Questions": "A certain parallel-plate capacitor consists of two plates, each with area 200 cm², separated by a 0.40-cm air gap. (a) Compute its capacitance. (b) If the capacitor is connected across a 500 V source, find the charge on it, the energy stored in it, and the value of E between the plates. (c) If a liquid with K = 2.60 is poured between the plates so as to fill the air gap, how much additional charge will flow onto the capacitor from the 500 V source?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "C = 44 pF; q = 22 nC; energy = 5.5 μJ; E = 1.3 × 10⁵ V/m; additional charge = 35 nC"
+  },
+  {
+    "question_number": 25.26,
+    "Questions": "Two capacitors, 3.0 μF and 4.0 μF, are individually charged across a 6.0-V battery. After being disconnected from the battery, they are connected together with a negative plate of one attached to the positive plate of the other. What is the final charge on each capacitor?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_33.png",
+    "solution": "q₃′ = 2.6 μC, q₄′ = 3.4 μC"
+  },
+  {
+    "question_number": 25.27,
+    "Questions": "Two metal plates are attached to the two terminals of a 1.50-V battery. How much work is required to carry a +5.0-μC charge (a) from the negative to the positive plate, (b) from the positive to the negative plate?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 7.5 μJ; (b) –7.5 μJ"
+  },
+  {
+    "question_number": 25.28,
+    "Questions": "The plates described in Problem 25.27 are in vacuum. An electron is released at the negative plate and falls freely to the positive plate. How fast is it going just before it strikes the plate?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "7.3 × 10⁵ m/s"
+  },
+  {
+    "question_number": 25.29,
+    "Questions": "A proton is accelerated from rest through a potential difference of 1.0 MV. What is its final speed?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.4 × 10⁷ m/s"
+  },
+  {
+    "question_number": 25.30,
+    "Questions": "An electron gun shoots electrons at a metal plate that is 4.0 mm away in vacuum. The plate is 5.0 V lower in potential than the gun. How fast must the electrons be moving as they leave the gun if they are to reach the plate?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.3 × 10⁶ m/s"
+  },
+  {
+    "question_number": 25.31,
+    "Questions": "The potential difference between two large parallel metal plates is 120 V. The plate separation is 3.0 mm. Find the electric field between the plates.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "40 kV/m toward negative plate"
+  },
+  {
+    "question_number": 25.32,
+    "Questions": "An electron is shot with speed 5.0 × 10⁶ m/s parallel to a uniform electric field of strength 3.0 kV/m. How far will the electron go before it stops?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "2.4 cm"
+  },
+  {
+    "question_number": 25.33,
+    "Questions": "A potential difference of 24 kV maintains a downward-directed electric field between two horizontal parallel plates separated by 1.8 cm. Find the charge on an oil droplet of mass 2.2 × 10⁻¹³ kg that remains stationary in the field.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.6 × 10⁻¹⁸ C = 10e"
+  },
+  {
+    "question_number": 25.34,
+    "Questions": "Determine the absolute potential in air at a distance of 3.0 cm from a point charge of 500 μC.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "15 kV"
+  },
+  {
+    "question_number": 25.35,
+    "Questions": "Compute the magnitude of the electric field and the absolute potential at a distance of 1.0 nm from a helium nucleus of charge +2e. What is the potential energy (relative to infinity) of a proton at this position?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "2.9 × 10⁹ N/C, 2.9 V, 4.6 × 10⁻¹⁹ J"
+  },
+  {
+    "question_number": 25.36,
+    "Questions": "A charge of 0.20 μC is 30 cm from a point charge of 3.0 μC in vacuum. What work is required to bring the 0.20-μC charge 18 cm closer to the 3.0-μC charge?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.027 J"
+  },
+  {
+    "question_number": 25.37,
+    "Questions": "A point charge of +2.0 μC is placed at the origin of coordinates. A second, of –3.0 μC, is placed on the x-axis at x = 100 cm. At what point (or points) on the x-axis will the absolute potential be zero?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "x = 40 cm and x = –0.20 m"
+  },
+  {
+    "question_number": 25.38,
+    "Questions": "In Problem 25.37, what is the difference in potential between the following two points on the x-axis: point A at x = 0.1 m and point B at x = 0.9 m? Which point is at the higher potential?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.0 × 10⁴ V, point A"
+  },
+  {
+    "question_number": 25.39,
+    "Questions": "An electron is moving in the +x-direction with a speed of 5.0 × 10⁶ m/s. There is an electric field of 3.0 kV/m in the +x-direction. What will be the electron’s speed after it has moved 1.00 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "3.8 × 10⁶ m/s"
+  },
+  {
+    "question_number": 25.40,
+    "Questions": "An electron has a speed of 6.0 × 10⁵ m/s as it passes point A on its way to point B. Its speed at B is 12 × 10⁵ m/s. What is the potential difference between A and B, and which is at the higher potential?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "3.1 V, B"
+  },
+  {
+    "question_number": 25.41,
+    "Questions": "A capacitor with air between its plates has capacitance 3.0 μF. What is its capacitance when wax of dielectric constant 2.8 is placed between the plates?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "8.4 μF"
+  },
+  {
+    "question_number": 25.42,
+    "Questions": "Determine the charge on each plate of a 0.050-μF capacitor when the potential difference between the plates is 200 V.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "10 μC"
+  },
+  {
+    "question_number": 25.43,
+    "Questions": "A capacitor is charged with 9.6 nC and has a 120 V potential difference between its terminals. Compute its capacitance and the energy stored in it.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "80 pF, 0.58 μJ"
+  },
+  {
+    "question_number": 25.44,
+    "Questions": "Compute the energy stored in a 60-pF capacitor (a) when it is charged to a potential difference of 2.0 kV and (b) when the charge on each plate is 30 nC.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 1.2 mJ; (b) 7.5 μJ"
+  },
+  {
+    "question_number": 25.45,
+    "Questions": "Three capacitors, each of capacitance 120 pF, are each charged to 0.50 kV and then connected in series. Determine (a) the potential difference between the end plates, (b) the charge on each capacitor, and (c) the energy stored in the system.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 1.5 kV; (b) 60 nC; (c) 45 μJ"
+  },
+  {
+    "question_number": 25.46,
+    "Questions": "Three capacitors (2.00 μF, 5.00 μF, and 7.00 μF) are connected in series. What is their equivalent capacitance?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.19 μF"
+  },
+  {
+    "question_number": 25.47,
+    "Questions": "Three capacitors (2.00 μF, 5.00 μF, and 7.00 μF) are connected in parallel. What is their equivalent capacitance?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "14.00 μF"
+  },
+  {
+    "question_number": 25.48,
+    "Questions": "The capacitor combination in Problem 25.46 is connected in series with the combination in Problem 25.47. What is the capacitance of this new combination?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.09 μF"
+  },
+  {
+    "question_number": 25.49,
+    "Questions": "Two capacitors (0.30 and 0.50 μF) are connected in parallel. (a) What is their equivalent capacitance? A charge of 200 μC is now placed on the parallel combination. (b) What is the potential difference across it? (c) What are the charges on the capacitors?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.80 μF; (b) 0.25 kV; (c) 75 μC, 0.13 mC"
+  },
+  {
+    "question_number": 25.50,
+    "Questions": "A 2.0-μF capacitor is charged to 50 V and then connected in parallel (positive plate to positive plate) with a 4.0-μF capacitor charged to 100 V. (a) What are the final charges on the capacitors? (b) What is the potential difference across each?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.17 mC, 0.33 mC; (b) 63 V"
+  },
+  {
+    "question_number": 25.51,
+    "Questions": "Repeat Problem 25.50 if the positive plate of one capacitor is connected to the negative plate of the other.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.10 mC, 0.20 mC; (b) 50 V"
+  },
+  {
+    "question_number": 25.52,
+    "Questions": "Calculate the capacitance of a capacitor consisting of two parallel plates separated by a layer of paraffin wax 0.50 cm thick, the area of each plate being 80 cm². The dielectric constant for the wax is 2.0. (b) If the capacitor is connected to a 100-V source, calculate the charge on the capacitor and the energy stored in the capacitor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 28 pF; (b) 2.8 nC, 0.14 μJ"
+  }
+]

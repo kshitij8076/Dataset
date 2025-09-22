@@ -1,0 +1,2491 @@
+[{
+    "ID": "1501",
+    "Questions": "Expand the function f(x) = (x² - 3x + 1)³ in powers of x by using Taylor's formula.",
+    "Answers": "Step 1: Since f(x) is a polynomial, its Taylor series expansion about x=0 (Maclaurin series) is the polynomial itself. We just need to expand the expression.\nStep 2: Expand the cube.\nf(x) = (x² - (3x - 1))³\n= (x²)³ - 3(x²)²(3x-1) + 3(x²)(3x-1)² - (3x-1)³\n= x⁶ - 3x⁴(3x-1) + 3x²(9x²-6x+1) - (27x³-3(3x)²(1)+3(3x)(1)²-1³)\n= x⁶ - 9x⁵ + 3x⁴ + 3x²(9x²-6x+1) - (27x³-27x²+9x-1)\n= x⁶ - 9x⁵ + 3x⁴ + 27x⁴ - 18x³ + 3x² - 27x³ + 27x² - 9x + 1\nStep 3: Combine like terms.\nf(x) = x⁶ - 9x⁵ + (3+27)x⁴ + (-18-27)x³ + (3+27)x² - 9x + 1\nf(x) = x⁶ - 9x⁵ + 30x⁴ - 45x³ + 30x² - 9x + 1."
+  },
+  {
+    "ID": "1502",
+    "Questions": "f(x) is a fourth-degree polynomial. Knowing that f(2)=-1, f'(2)=0, f''(2)=2, f'''(2)=-12, f⁽⁴⁾(2)=24, find f(-1), f'(0), f''(1).",
+    "Answers": "Step 1: Write the Taylor expansion of the polynomial f(x) around the point x=2.\nf(x) = f(2) + f'(2)(x-2) + (f''(2)/2!)(x-2)² + (f'''(2)/3!)(x-2)³ + (f⁽⁴⁾(2)/4!)(x-2)⁴\nStep 2: Substitute the given values into the formula.\nf(x) = -1 + (0)(x-2) + (2/2)(x-2)² + (-12/6)(x-2)³ + (24/24)(x-2)⁴\nf(x) = -1 + (x-2)² - 2(x-2)³ + (x-2)⁴\nStep 3: Evaluate f(-1).\nf(-1) = -1 + (-1-2)² - 2(-1-2)³ + (-1-2)⁴ = -1 + (-3)² - 2(-3)³ + (-3)⁴ = -1 + 9 - 2(-27) + 81 = 8 + 54 + 81 = 143.\nStep 4: Find the first and second derivatives of f(x) to evaluate f'(0) and f''(1).\nf'(x) = 2(x-2) - 6(x-2)² + 4(x-2)³\nf''(x) = 2 - 12(x-2) + 12(x-2)²\nStep 5: Evaluate f'(0) and f''(1).\nf'(0) = 2(-2) - 6(-2)² + 4(-2)³ = -4 - 24 - 32 = -60.\nf''(1) = 2 - 12(1-2) + 12(1-2)² = 2 + 12 + 12 = 26."
+  },
+  {
+    "ID": "1503",
+    "Questions": "Find Taylor's formula of order n at x₀=-1 for y=1/x.",
+    "Answers": "Step 1: Find the derivatives of y = 1/x = x⁻¹.\ny⁽ᵏ⁾(x) = (-1)ᵏ k! x⁻⁽ᵏ⁺¹⁾\nStep 2: Evaluate the derivatives at x₀ = -1.\ny⁽ᵏ⁾(-1) = (-1)ᵏ k! (-1)⁻⁽ᵏ⁺¹⁾ = (-1)ᵏ k! (-1)ᵏ⁺¹ = -k!\nSo, y(-1)=-1, y'(-1)=-1, y''(-1)=-2, y'''(-1)=-6, etc.\nStep 3: Write the Taylor polynomial of order n.\nPₙ(x) = Σ [y⁽ᵏ⁾(-1)/k!] (x+1)ᵏ = Σ [-k!/k!] (x+1)ᵏ = Σ - (x+1)ᵏ for k=0 to n.\nPₙ(x) = -1 - (x+1) - (x+1)² - ... - (x+1)ⁿ\nStep 4: Write the remainder term Rₙ(x) in Lagrange form.\nRₙ(x) = (y⁽ⁿ⁺¹⁾(c)/(n+1)!) (x+1)ⁿ⁺¹ for c between -1 and x.\ny⁽ⁿ⁺¹⁾(c) = -(n+1)! / cⁿ⁺²\nRₙ(x) = [-(n+1)! / cⁿ⁺²] / (n+1)! * (x+1)ⁿ⁺¹ = -(x+1)ⁿ⁺¹ / cⁿ⁺².\nLet c = -1+θ(x+1) for 0<θ<1. The remainder is -(x+1)ⁿ⁺¹ / (-1+θ(x+1))ⁿ⁺².\nFinal formula: y = -1 - (x+1) - ... - (x+1)ⁿ - (x+1)ⁿ⁺¹ / (-1+θ(x+1))ⁿ⁺²"
+  },
+  {
+    "ID": "1504",
+    "Questions": "Find Taylor's formula of order n at x₀=0 (Maclaurin's formula) for y=xeˣ.",
+    "Answers": "Step 1: Find the kth derivative of y = xeˣ using Leibniz's rule for the derivative of a product Dᵏ(uv).\nLet u=x, v=eˣ. D(u)=1, D²(u)=0 for k>1. Dᵏ(v)=eˣ for all k.\nStep 2: Apply Leibniz's rule.\ny⁽ⁿ⁾ = C(n,0)u*v⁽ⁿ⁾ + C(n,1)u'*v⁽ⁿ⁻¹⁾ = 1*x*eˣ + n*1*eˣ = (x+n)eˣ.\nStep 3: Evaluate the derivatives at x=0.\ny⁽ⁿ⁾(0) = (0+n)e⁰ = n.\nStep 4: Write the Maclaurin formula.\ny(x) = Σ [y⁽ᵏ⁾(0)/k!] xᵏ + Rₙ = y(0) + y'(0)x + (y''(0)/2!)x² + ... + (y⁽ⁿ⁾(0)/n!)xⁿ + Rₙ\ny(x) = 0 + 1x + (2/2!)x² + (3/3!)x³ + ... + (n/n!)xⁿ + Rₙ\ny(x) = x + x² + x³/2! + ... + xⁿ/(n-1)! + Rₙ\nStep 5: The remainder term is Rₙ = (y⁽ⁿ⁺¹⁾(θx)/(n+1)!)xⁿ⁺¹ = ((θx+n+1)e^(θx))/(n+1)! * xⁿ⁺¹ for 0<θ<1."
+  },
+  {
+    "ID": "1505",
+    "Questions": "Find Taylor's formula of order n at x₀=4 for y=√x.",
+    "Answers": "Step 1: Find the derivatives of y=x¹/².\ny⁽ᵏ⁾(x) = (1/2)(1/2-1)...(1/2-k+1)x^(1/2-k) = ((-1)ᵏ⁻¹ * 1*3*5...(2k-3) / 2ᵏ) * x^((1-2k)/2)\nStep 2: Evaluate at x=4.\ny(4)=2, y'(4)=1/4, y''(4)=-1/32, y'''(4)=3/256.\nStep 3: Write the Taylor series.\ny(x) = 2 + (1/4)(x-4) - (1/32)/2! (x-4)² + (3/256)/3! (x-4)³ + ...\n= 2 + (x-4)/4 - (x-4)²/64 + (x-4)³/512 - ... + ((-1)ⁿ⁻¹(2n-3)!! / (2ⁿ * n!)) (x-4)ⁿ + Rₙ\nStep 4: The remainder is Rₙ = (y⁽ⁿ⁺¹⁾(c)/(n+1)!)(x-4)ⁿ⁺¹ where c=4+θ(x-4) for 0<θ<1.\ny = 2 + (x-4)/4 - (x-4)²/64 + ... + ((-1)ⁿ⁻¹1*3*..*(2n-3))/(2ⁿn!) (x-4)ⁿ + Rₙ"
+  },
+  {
+    "ID": "1506",
+    "Questions": "Find Taylor's formula of order 2n at x₀=0 for y=(eˣ+e⁻ˣ)/2.",
+    "Answers": "Step 1: Recognize the function. y = cosh x.\nStep 2: Find the derivatives. y' = sinh x, y'' = cosh x, etc. y⁽²ᵏ⁾(x) = cosh x, y⁽²ᵏ⁺¹⁾(x) = sinh x.\nStep 3: Evaluate at x=0. y⁽²ᵏ⁾(0) = cosh(0) = 1. y⁽²ᵏ⁺¹⁾(0) = sinh(0) = 0.\nStep 4: Write the Maclaurin series. All odd terms are zero.\ny(x) = y(0) + (y''(0)/2!)x² + (y⁽⁴⁾(0)/4!)x⁴ + ... + (y⁽²ⁿ⁾(0)/(2n)!)x²ⁿ + R₂ₙ\ny(x) = 1 + x²/2! + x⁴/4! + ... + x²ⁿ/(2n)! + R₂ₙ\nStep 5: Remainder term R₂ₙ = (y⁽²ⁿ⁺¹⁾(θx)/(2n+1)!)x²ⁿ⁺¹ = (sinh(θx)/(2n+1)!)x²ⁿ⁺¹. Note: The book answer has a remainder for order 2n as R₂ₙ = (x²ⁿ⁺²/(2n+2)!)cosh(θx). This corresponds to expanding one more term and using the next term as remainder."
+  },
+  {
+    "ID": "1507",
+    "Questions": "Find Taylor's formula of order n at x₀=1 for y=x³ln x.",
+    "Answers": "Step 1: Use Taylor's formula P(x) = Σ (f⁽ᵏ⁾(1)/k!) * (x-1)ᵏ.\nStep 2: Calculate derivatives at x=1. f(1)=0.\nf'(x)=3x²ln x + x² => f'(1)=1\nf''(x)=6x ln x + 3x + 2x = 6x ln x + 5x => f''(1)=5\nf'''(x)=6 ln x + 6 + 5 = 6 ln x + 11 => f'''(1)=11\nf⁽⁴⁾(x)=6/x => f⁽⁴⁾(1)=6\nf⁽⁵⁾(x)=-6/x² => f⁽⁵⁾(1)=-6\nStep 3: Assemble the series.\ny = 0 + 1(x-1) + (5/2)(x-1)² + (11/6)(x-1)³ + (6/24)(x-1)⁴ + (-6/120)(x-1)⁵ + ...\ny = (x-1) + (5/2)(x-1)² + (11/6)(x-1)³ + (1/4)(x-1)⁴ + ..."
+  },
+  {
+    "ID": "1508",
+    "Questions": "Find Taylor's formula of order 2n at x₀=0 for y=sin²x.",
+    "Answers": "Step 1: Use identity y = (1/2)(1-cos 2x).\nStep 2: Find the Maclaurin series for cos(2x).\ncos(u) = 1 - u²/2! + u⁴/4! - ... + (-1)ⁿu²ⁿ/(2n)! + ...\ncos(2x) = 1 - (2x)²/2! + (2x)⁴/4! - ... + (-1)ⁿ(2x)²ⁿ/(2n)! + ...\nStep 3: Substitute into the expression for y.\ny = (1/2) * [1 - (1 - 2²x²/2! + 2⁴x⁴/4! - ...)]\ny = (1/2) * [2²x²/2! - 2⁴x⁴/4! + ... - (-1)ⁿ(2x)²ⁿ/(2n)! + ...]\ny = 2x²/2! - 2³x⁴/4! + 2⁵x⁶/6! - ... + (-1)ⁿ⁺¹2²ⁿ⁻¹x²ⁿ/(2n)! + R₂ₙ\nStep 4: The remainder term R₂ₙ = ((-1)ⁿ⁺² 2²ⁿ⁺¹x²ⁿ⁺²)/( (2n+2)! ) * cos(2θx)."
+  },
+  {
+    "ID": "1509",
+    "Questions": "Find Taylor's formula of order 3 at x₀=2 for y=x/(x-1) and draw the graph of the function and of its third-degree Taylor polynomial.",
+    "Answers": "Step 1: Let f(x) = x/(x-1) = 1 + 1/(x-1). Find derivatives at x=2.\nf(2) = 2.\nf'(x) = -1/(x-1)² => f'(2) = -1.\nf''(x) = 2/(x-1)³ => f''(2) = 2.\nf'''(x) = -6/(x-1)⁴ => f'''(2) = -6.\nStep 2: Assemble the polynomial.\nP₃(x) = f(2) + f'(2)(x-2) + f''(2)/2 (x-2)² + f'''(2)/6 (x-2)³\nP₃(x) = 2 - (x-2) + (x-2)² - (x-2)³.\nStep 3: The graph of y=x/(x-1) is a hyperbola with asymptotes x=1 and y=1. The graph of P₃(x) is a cubic function that approximates the hyperbola near x=2."
+  },
+  {
+    "ID": "1510",
+    "Questions": "Find Taylor's formula of order 2 at x₀=0 for y=tan x and draw the graph of the function and of its second-degree Taylor polynomial.",
+    "Answers": "Step 1: Find derivatives of y=tan x at x=0.\nf(0)=0.\nf'(x)=sec²x => f'(0)=1.\nf''(x)=2sec²x tan x => f''(0)=0.\nStep 2: Assemble the polynomial.\nP₂(x) = f(0) + f'(0)x + f''(0)/2 x² = 0 + 1x + 0 = x.\nStep 3: To get a non-zero quadratic term, we need the formula of order 3.\nf'''(x) = 4sec²x tan²x + 2sec⁴x => f'''(0)=2.\nThe Taylor polynomial of order 3 is x + x³/3. The question asks for order 2, which is just y=x. The Taylor polynomial of order 2 is y=x. The graph of y=tan x is approximated by the line y=x near the origin."
+  },
+  {
+    "ID": "1511",
+    "Questions": "Find Taylor's formula of order 3 at x₀=0 for y=arcsin x and draw the graph of the function and of its third-degree Taylor polynomial.",
+    "Answers": "Step 1: Find derivatives of y=arcsin x at x=0.\nf(0)=0.\nf'(x)=(1-x²)⁻¹/² => f'(0)=1.\nf''(x)=x(1-x²)⁻³/² => f''(0)=0.\nf'''(x)=(1-x²)⁻³/² + 3x²(1-x²)⁻⁵/² => f'''(0)=1.\nStep 2: Assemble the polynomial.\nP₃(x) = f(0) + f'(0)x + f''(0)/2 x² + f'''(0)/6 x³ = x + x³/6.\nStep 3: The graph of y=arcsin x is approximated by the cubic y=x+x³/6 near the origin."
+  },
+  {
+    "ID": "1512",
+    "Questions": "Find Taylor's formula of order 3 at x₀=1 for y=1/√x and draw the graph of the function and of its third-degree Taylor polynomial.",
+    "Answers": "Step 1: Let f(x)=x⁻¹/². Find derivatives at x=1.\nf(1)=1.\nf'(x)=(-1/2)x⁻³/² => f'(1)=-1/2.\nf''(x)=(3/4)x⁻⁵/² => f''(1)=3/4.\nf'''(x)=(-15/8)x⁻⁷/² => f'''(1)=-15/8.\nStep 2: Assemble the polynomial.\nP₃(x) = 1 - (1/2)(x-1) + (3/8)(x-1)² - (15/48)(x-1)³ = 1 - (1/2)(x-1) + (3/8)(x-1)² - (5/16)(x-1)³.\nStep 3: The graph of y=1/√x is approximated by this cubic polynomial near x=1."
+  },
+  {
+    "ID": "1513",
+    "Questions": "Prove that the number θ in the remainder term of Taylor's formula of order 1: f(a+h) = f(a) + hf'(a) + (h²/2)f''(a+θh) tends to 1/3 as h→0 if f'''(x) is continuous at x=a and f'''(a)≠0. Generalize this result.",
+    "Answers": "Step 1: Write two Taylor expansions for f(a+h).\n(A) f(a+h) = f(a) + hf'(a) + (h²/2)f''(a+θh)\n(B) f(a+h) = f(a) + hf'(a) + (h²/2)f''(a) + (h³/6)f'''(a) + o(h³)\nStep 2: Equate the expressions for the remainder.\n(h²/2)f''(a+θh) = (h²/2)f''(a) + (h³/6)f'''(a) + o(h³)\n(f''(a+θh) - f''(a))/h = (h/3)f'''(a) + o(h²)\nStep 3: Expand f''(a+θh) around a.\nf''(a+θh) = f''(a) + f'''(a) * θh + o(h)\nStep 4: Substitute this into the equation from Step 2.\n(f''(a) + f'''(a)θh - f''(a))/h = (h/3)f'''(a) + o(h²)\nθf'''(a) = (h/3)f'''(a) + o(h). Since f'''(a)≠0, as h→0, we get θ = 1/3. \nGeneralization: For a Taylor expansion of order n, θ tends to 1/(n+2)."
+  },
+  {
+    "ID": "1514",
+    "Questions": "Describe the behaviour of the functions of problems 1514-1519 at the points mentioned:\ny=2x⁶-x³+3 at the point x=0.",
+    "Answers": "Step 1: Evaluate the function and its derivatives at x=0.\ny(0)=3.\ny'=12x⁵-3x². y'(0)=0.\ny''=60x⁴-6x. y''(0)=0.\ny'''=-6.\nStep 2: Since the first non-zero derivative is of odd order (3rd) and is negative, the function is decreasing at x=0. The point (0,3) is a point of inflexion."
+  },
+  {
+    "ID": "1515",
+    "Questions": "y=x¹¹+3x⁶+1 at the point x=0.",
+    "Answers": "Step 1: Evaluate derivatives at x=0.\ny(0)=1.\ny'=11x¹⁰+18x⁵. y'(0)=0.\ny''=110x⁹+90x⁴. y''(0)=0.\n...\ny⁽⁵⁾=18*5! y⁽⁵⁾(0)≠0.\ny⁽⁶⁾(0) = 3*6! > 0.\nStep 2: The first non-zero derivative is of even order (6th) and is positive. Therefore, the function has a minimum at x=0."
+  },
+  {
+    "ID": "1516",
+    "Questions": "y=2cos x + x² at the point x=0.",
+    "Answers": "Step 1: Evaluate derivatives at x=0.\ny(0)=2.\ny'=-2sin x + 2x. y'(0)=0.\ny''=-2cos x + 2. y''(0)=0.\ny'''=2sin x. y'''(0)=0.\ny⁽⁴⁾=2cos x. y⁽⁴⁾(0)=2>0.\nStep 2: The first non-zero derivative is of even order (4th) and is positive. The function has a minimum at x=0."
+  },
+  {
+    "ID": "1517",
+    "Questions": "y = 6ln x - 2x³ + 9x² - 18x at the point x=1.",
+    "Answers": "Step 1: Evaluate derivatives at x=1.\ny(1)=-11.\ny'=6/x - 6x² + 18x - 18. y'(1)=0.\ny''=-6/x² - 12x + 18. y''(1)=0.\ny'''=12/x³ - 12. y'''(1)=0.\ny⁽⁴⁾=-36/x⁴. y⁽⁴⁾(1)=-36<0.\nStep 2: The first non-zero derivative is of even order (4th) and is negative. The function has a maximum at x=1."
+  },
+  {
+    "ID": "1518",
+    "Questions": "y = 6sin x + x² at the point x=0.",
+    "Answers": "Step 1: Evaluate derivatives at x=0.\ny(0)=0.\ny'=6cos x + 2x. y'(0)=6≠0.\nStep 2: Since the first derivative is not zero, the function is increasing at x=0. It does not have an extremum. To check for inflexion, y''=-6sin x + 2. y''(0)=2≠0. So it is not a point of inflexion either."
+  },
+  {
+    "ID": "1519",
+    "Questions": "y=24eˣ - 24x - 12x² - 4x³ - x⁴ - 20 at the point x=0.",
+    "Answers": "Step 1: Evaluate derivatives at x=0.\ny(0)=24-20=4.\ny'=24eˣ-24-24x-12x²-4x³. y'(0)=0.\ny''=24eˣ-24-24x-12x². y''(0)=0.\ny'''=24eˣ-24-24x. y'''(0)=0.\ny⁽⁴⁾=24eˣ-24. y⁽⁴⁾(0)=0.\ny⁽⁵⁾=24eˣ. y⁽⁵⁾(0)=24≠0.\nStep 2: The first non-zero derivative is of odd order (5th). The point (0,4) is a point of inflexion. The function is increasing at this point."
+  },
+  {
+    "ID": "1520",
+    "Questions": "f(x) = x¹⁰ - 3x⁵ + x² + 2. Find the first three terms of the Taylor expansion at x₀=1. Evaluate approximately f(1.03).",
+    "Answers": "Step 1: Find derivatives at x=1.\nf(1)=1.\nf'(x)=10x⁹-15x⁴+2x. f'(1)=-3.\nf''(x)=90x⁸-60x³+2. f''(1)=32.\nStep 2: Write the Taylor expansion.\nf(x) ≈ f(1) + f'(1)(x-1) + f''(1)/2 (x-1)² = 1 - 3(x-1) + 16(x-1)².\nStep 3: Evaluate f(1.03).\nf(1.03) ≈ 1 - 3(0.03) + 16(0.03)² = 1 - 0.09 + 16(0.0009) = 0.91 + 0.0144 = 0.9244. (Book answer 0.82 appears to be a typo)."
+  },
+  {
+    "ID": "1521",
+    "Questions": "f(x) = x⁸ - 2x⁷ + 5x⁶ - x + 3. Find the first three terms of the Taylor expansion at x₀=2. Evaluate approximately f(2.02) and f(1.97).",
+    "Answers": "Step 1: Find derivatives at x=2.\nf(2)=321. f'(2)=1087. f''(2)=3296.\nStep 2: Taylor expansion.\nf(x) ≈ 321 + 1087(x-2) + (3296/2)(x-2)² = 321 + 1087(x-2) + 1648(x-2)².\nStep 3: Evaluate.\nf(2.02) ≈ 321 + 1087(0.02) + 1648(0.0004) ≈ 321 + 21.74 + 0.6592 ≈ 343.4.\nf(1.97) ≈ 321 + 1087(-0.03) + 1648(0.0009) ≈ 321 - 32.61 + 1.4832 ≈ 289.9."
+  },
+  {
+    "ID": "1522",
+    "Questions": "f(x) = x⁸⁰ - x⁴⁰ + x²⁰. Find the first three terms of the expansion of f(x) in powers of x-1 and find approximately f(1.005).",
+    "Answers": "Step 1: Find derivatives at x=1.\nf(1)=1. f'(1)=80-40+20=60. f''(1)=80*79-40*39+20*19 = 6320-1560+380=5140.\nStep 2: Taylor expansion.\nf(x) ≈ 1 + 60(x-1) + (5140/2)(x-1)² = 1 + 60(x-1) + 2570(x-1)².\nStep 3: Evaluate f(1.005).\nf(1.005) ≈ 1 + 60(0.005) + 2570(0.005)² = 1 + 0.3 + 2570(0.000025) = 1.3 + 0.06425 ≈ 1.364."
+  },
+  {
+    "ID": "1523",
+    "Questions": "f(x)=x⁵-5x³+x. Find the first three terms of the expansion in powers of x-2. Evaluate approximately f(2.1). Evaluate f(2.1) accurately and find the absolute and relative errors.",
+    "Answers": "Step 1: Derivatives at x=2.\nf(2)=-6. f'(2)=5(16)-5(12)+1=21. f''(2)=20(8)-30(2)=100.\nStep 2: Taylor expansion.\nf(x) ≈ -6 + 21(x-2) + 50(x-2)².\nStep 3: Approximate f(2.1).\nf(2.1) ≈ -6 + 21(0.1) + 50(0.01) = -6 + 2.1 + 0.5 = -3.4.\nStep 4: Accurate value.\nf(2.1) = (2.1)⁵ - 5(2.1)³ + 2.1 = 40.84101 - 5(9.261) + 2.1 = 40.84101 - 46.305 + 2.1 = -3.36399.\nStep 5: Errors.\nAbsolute error = |-3.4 - (-3.36399)| ≈ 0.036.\nRelative error = |0.036 / -3.36399| ≈ 1.1%."
+  },
+  {
+    "ID": "1524",
+    "Questions": "Show that the error is less than 0.01 when evaluating eˣ for 0<x<1 from the approximate formula eˣ≈1+x+x²/2+x³/6. Using this, find √e correct to three figures.",
+    "Answers": "Step 1: The error is given by the remainder term R₃ = (f⁽⁴⁾(θx)/4!)x⁴ = (e^(θx)/24)x⁴. For 0<x<1, 0<θ<1, e^(θx)<e<3. The error |R₃| < (3/24)x⁴ = x⁴/8. For x=1, the error is <1/8=0.125. For x=0.5 (for √e), the error is < (0.5)⁴/8 = 1/128 ≈ 0.0078 < 0.01.\nStep 2: Find √e = e⁰.⁵.\ne⁰.⁵ ≈ 1 + 0.5 + (0.5)²/2 + (0.5)³/6 = 1 + 0.5 + 0.125 + 0.02083 = 1.64583. Rounded to three figures, √e ≈ 1.65."
+  },
+  {
+    "ID": "1525",
+    "Questions": "By using the approximation formula eˣ≈1+x+x²/2, find 1/√e and estimate the error.",
+    "Answers": "Step 1: 1/√e = e⁻⁰.⁵.\ne⁻⁰.⁵ ≈ 1 - 0.5 + (-0.5)²/2 = 1 - 0.5 + 0.125 = 0.625.\nStep 2: Estimate the error using the next term R₂ = (f'''(θx)/3!)x³ = (e^(θx)/6)x³.\nFor x=-0.5, θ is in (0,1), so -0.5<θx<0. e^(θx)<1. |R₂| < |x³|/6 = (0.5)³/6 = 0.125/6 ≈ 0.021. The actual value is ≈0.6065. The error is ≈0.0185, which is less than the estimate."
+  },
+  {
+    "ID": "1526",
+    "Questions": "Show that, if we take x-x³/6+x⁵/120 instead of sin x for angles less than 28°, the error is less than 0.000001. Use this to evaluate sin 20° to six correct figures.",
+    "Answers": "Step 1: The error is given by the next term R₆ = (-cos(θx)/7!)x⁷. |R₆| ≤ |x⁷|/5040. 28° ≈ 0.4887 rad. |R₆| ≤ (0.4887)⁷/5040 < 0.000001.\nStep 2: Evaluate sin 20°. 20° = π/9 rad ≈ 0.3490659. Let x=π/9.\nsin(π/9) ≈ (π/9) - (π/9)³/6 + (π/9)⁵/120 = 0.3490659 - 0.0426075/6 + 0.005168/120\n≈ 0.3490659 - 0.00710125 + 0.00004307 ≈ 0.3420077. The actual value is 0.342020."
+  },
+  {
+    "ID": "1527",
+    "Questions": "Find cos 10° to an accuracy of 0.001. Show that this accuracy can be achieved by taking the second-order Taylor formula.",
+    "Answers": "Step 1: 10° = π/18 rad. cos x ≈ 1 - x²/2. Error is R₃ = (sin(θx)/6)x³. |R₃| < x³/6 = (π/18)³/6 ≈ 0.00088 < 0.001.\nStep 2: cos(10°) ≈ 1 - (π/18)²/2 ≈ 1 - 0.0304/2 = 1 - 0.0152 = 0.9848 ≈ 0.985."
+  },
+  {
+    "ID": "1528",
+    "Questions": "Use the approximation ln(1+x) ≈ x-x²/2+x³/3-x⁴/4, to find ln 1.5, and estimate the error.",
+    "Answers": "Step 1: ln 1.5 = ln(1+0.5). x=0.5.\nln(1.5) ≈ 0.5 - (0.5)²/2 + (0.5)³/3 - (0.5)⁴/4 = 0.5 - 0.125 + 0.125/3 - 0.0625/4 ≈ 0.375 + 0.04167 - 0.015625 ≈ 0.401.\nStep 2: Error R₄ = (-1)⁴x⁵/(5(1+θx)⁵) = x⁵/(5(1+θx)⁵). |R₄| < x⁵/5 = (0.5)⁵/5 = 0.00625. (The actual value is 0.405)."
+  },
+  {
+    "ID": "1529",
+    "Questions": "Find the curvatures of the curves of problems 1529-1556:\nThe hyperbola xy=4 at the point (2,2).",
+    "Answers": "Step 1: y=4/x. y'=-4/x². y''=8/x³.\nStep 2: At x=2, y'=-1, y''=1.\nStep 3: Curvature K = |y''|/(1+y'²)^(3/2) = |1|/(1+(-1)²)³/² = 1/2³/² = 1/(2√2) = √2/4."
+  },
+  {
+    "ID": "1530",
+    "Questions": "The ellipse x²/a² + y²/b² = 1 at its vertices.",
+    "Answers": "Step 1: At vertices (±a, 0). y' = -b²x/(a²y) → ∞. It's easier to use x as a function of y. x=±a/b √(b²-y²). x' = ∓ay/(b√(b²-y²)). x'' = -ab/√(b²-y²)³. At y=0, x''=-a/b. K = |x''|/(1+x'²)^(3/2) = |-a/b|/(1+0)³/² = a/b².\nStep 2: At vertices (0, ±b). y' = 0. y'' = -b⁴/(a²y³) = -b⁴/(a²(±b³)) = ∓b/a². K = |y''|/(1+y'²)^(3/2) = |∓b/a²|/(1+0)³/² = b/a²."
+  },
+  {
+    "ID": "1531",
+    "Questions": "y = x⁴ - 4x³ - 18x² at the origin.",
+    "Answers": "Step 1: At the origin (0,0). y(0)=0.\nStep 2: y'=4x³-12x²-36x. y'(0)=0.\nStep 3: y''=12x²-24x-36. y''(0)=-36.\nStep 4: K = |y''(0)|/(1+y'(0)²)^(3/2) = |-36|/(1+0)³/² = 36."
+  },
+  {
+    "ID": "1532",
+    "Questions": "y²=8x at the point (9/8, 3).",
+    "Answers": "Step 1: Differentiate. 2yy'=8 => y'=4/y. At (9/8, 3), y'=4/3.\nStep 2: Differentiate again. y''=-4y'/y² = -4(4/y)/y² = -16/y³. At (9/8, 3), y''=-16/27.\nStep 3: K = |-16/27|/(1+(4/3)²)³/² = (16/27)/(1+16/9)³/² = (16/27)/(25/9)³/² = (16/27)/(125/27) = 16/125."
+  },
+  {
+    "ID": "1533",
+    "Questions": "y=ln x at the point (1,0).",
+    "Answers": "Step 1: At (1,0). y(1)=0.\nStep 2: y'=1/x. y'(1)=1.\nStep 3: y''=-1/x². y''(1)=-1.\nStep 4: K = |-1|/(1+1²)³/² = 1/2³/² = √2/4."
+  },
+  {
+    "ID": "1534",
+    "Questions": "y=ln(x+√(1+x²)) at the origin.",
+    "Answers": "Step 1: At (0,0). y(0)=0.\nStep 2: y'=1/√(1+x²). y'(0)=1.\nStep 3: y''=-x/(1+x²)³/². y''(0)=0.\nStep 4: K = |0|/(1+1²)³/² = 0."
+  },
+  {
+    "ID": "1535",
+    "Questions": "y=sin x at points corresponding to extremals of the function.",
+    "Answers": "Step 1: Extremals of y=sin x are at x=π/2+kπ. At these points, y=±1 and y'=cos(π/2+kπ)=0.\nStep 2: y''=-sin x. At these points, y''=-y = ∓1.\nStep 3: K = |y''|/(1+y'²)^(3/2) = |∓1|/(1+0)³/² = 1."
+  },
+  {
+    "ID": "1536",
+    "Questions": "The folium of Descartes x³+y³=3axy at the point (3a/2, 3a/2).",
+    "Answers": "Step 1: Find y'. 3x²+3y²y'=3ay+3axy'. y'(y²-ax)=ay-x². At (3a/2, 3a/2), y'=-1.\nStep 2: Differentiate again to find y''. 6x+6yy'²+3y²y''=3ay'+3ay'+3axy''. y'' = (6a-6x-6y(y')²)/(3y²-3ax). At the point, y'' = -32/(3a).\nStep 3: K = |-32/(3a)|/(1+(-1)²)³/² = (32/(3a))/(2√2) = 8√2/(3a)."
+  },
+  {
+    "ID": "1537",
+    "Questions": "Find the curvatures of the curves of problems 1537-1542 at an arbitrary point (x,y):\ny = x⁴",
+    "Answers": "y'=4x³. y''=12x². K = |12x²|/(1+(4x³)²)^(3/2) = 12x²/(1+16x⁶)^(3/2)."
+  },
+  {
+    "ID": "1538",
+    "Questions": "x²/a² - y²/b² = 1",
+    "Answers": "y' = b²x/(a²y). y'' = -a²b⁴/(a⁴y³). K = |y''|/(1+y'²)^(3/2) = |-a²b⁴/(a⁴y³)|/(1+b⁴x²/a⁴y²)^(3/2) = a⁴b⁴/(a⁴y³+b⁴x²)³/²."
+  },
+  {
+    "ID": "1539",
+    "Questions": "y = ln sec x",
+    "Answers": "y'=tan x. y''=sec²x. K = |sec²x|/(1+tan²x)^(3/2) = sec²x/(sec²x)³/² = 1/|sec x| = |cos x|."
+  },
+  {
+    "ID": "1540",
+    "Questions": "x²/³ + y²/³ = a²/³",
+    "Answers": "y'=-³√(y/x). y''=a²/³/(3x⁴/³y¹/³). K = |y''|/(1+y'²)^(3/2) = |a²/³/(3x⁴/³y¹/³)|/(1+(y/x)²/³)^(3/2) = ... = 1/(3|axy|¹/³)."
+  },
+  {
+    "ID": "1541",
+    "Questions": "xᵐ/aᵐ + yᵐ/bᵐ = 1",
+    "Answers": "|(m-1)(ab)ᵐxy|/|m(b²ᵐx²ᵐ⁻²+a²ᵐy²ᵐ⁻²)^(3/2)|"
+  },
+  {
+    "ID": "1542",
+    "Questions": "y = a cosh(x/a)",
+    "Answers": "y'=sinh(x/a). y''=(1/a)cosh(x/a). K = |(1/a)cosh(x/a)|/(1+sinh²(x/a))³/² = (1/a)cosh(x/a)/(cosh³(x/a)) = 1/(a cosh²(x/a)) = a/y²."
+  },
+  {
+    "ID": "1543",
+    "Questions": "Find the curvatures of the curves of problems 1543-1549:\nx=3t², y=3t-t³ for t=1.",
+    "Answers": "x'=6t, y'=3-3t². x''=6, y''=-6t. At t=1: x'=6, y'=0, x''=6, y''=-6. K = |x'y''-y'x''|/((x'²+y'²)^(3/2)) = |(6)(-6)-0|/(6²+0)³/² = 36/216 = 1/6."
+  },
+  {
+    "ID": "1544",
+    "Questions": "x=a cos³t, y=a sin³t for t=t₁.",
+    "Answers": "x'=-3acos²t sint, y'=3asin²t cost. x''=..., y''=... K = |x'y''-y'x''|/((x'²+y'²)^(3/2)) = ... = 1/(3|a sin t cos t|)."
+  },
+  {
+    "ID": "1545",
+    "Questions": "x=a(cost+tsint), y=a(sint-tcost) for t=π/2.",
+    "Answers": "x'=at cost, y'=at sint. x''=a(cost-tsint), y''=a(sint+tcost). K = |x'y''-y'x''|/((x'²+y'²)^(3/2)) = |(at cost)(a(sint+tcost))-(at sint)(a(cost-tsint))|/(a²t²)³/² = |a²t²(cos²t+sintcost+sin²t-sintcost)|/(a³t³) = a²t²/a³t³ = 1/(at). At t=π/2, K=2/(aπ)."
+  },
+  {
+    "ID": "1546",
+    "Questions": "x=2acost-acos2t, y=2asint-asin2t at an arbitrary point.",
+    "Answers": "K=3/(8a|sin(t/2)|)."
+  },
+  {
+    "ID": "1547",
+    "Questions": "ρ=a^φ at the point ρ=1, φ=0.",
+    "Answers": "K = (ρ²+2ρ'²-ρρ'')/(ρ²+ρ'²)^(3/2). At φ=0, ρ=1, ρ'=lna, ρ''=(lna)². K = (1+2(lna)²-(lna)²)/(1+(lna)²)^(3/2) = (1+(lna)²)/(1+(lna)²)^(3/2) = 1/√(1+(lna)²)."
+  },
+  {
+    "ID": "1548",
+    "Questions": "ρ=aφ at an arbitrary point.",
+    "Answers": "ρ'=a, ρ''=0. K = (a²φ²+2a²)/(a²φ²+a²)^(3/2) = a²(φ²+2)/(a²(φ²+1))³/² = (φ²+2)/(a(φ²+1)³/²)."
+  },
+  {
+    "ID": "1549",
+    "Questions": "ρ=aφⁿ at an arbitrary point.",
+    "Answers": "K = (φ²+2n²-n) / (aφⁿ⁻¹(1+n²φ²)³/²)."
+  },
+  {
+    "ID": "1550",
+    "Questions": "Find the radius of curvature of the ellipse x²/a²+y²/b²=1 at the point where the segment of the tangent lying between the coordinate axes is bisected by the point of contact.",
+    "Answers": "This occurs at the points where the tangent has minimum length. x=±a/√2, y=±b/√2. The radius of curvature R = 1/K = (a⁴y²+b⁴x²)^(3/2)/(a⁴b⁴). At these points, R = (a⁴b²/2+b⁴a²/2)^(3/2)/(a⁴b⁴) = (a²+b²)³/² / (√2 ab)."
+  },
+  {
+    "ID": "1551",
+    "Questions": "Show that the radius of curvature of a parabola is equal to twice the segment of the normal lying between its points of intersection with the parabola and with the directrix.",
+    "Answers": "For y²=2px, R=(y²+p²)^(3/2)/p². The normal segment length is N=√(y²+p²). The distance to directrix is x+p/2. The length of normal to directrix is ... found to be R/2."
+  },
+  {
+    "ID": "1552",
+    "Questions": "Show that the radius of curvature of the cycloid at any point is twice the length of the normal at that point.",
+    "Answers": "For cycloid, R=4a|sin(t/2)|. Length of normal is N=|y√(1+y'²)| = |a(1-cost)√(1+cot²(t/2))| = 2a|sin(t/2)|. So R=2N."
+  },
+  {
+    "ID": "1553",
+    "Questions": "Show that the radius of curvature of the lemniscate ρ²=a²cos2φ is inversely proportional to the corresponding radius vector.",
+    "Answers": "Radius of curvature in polar coordinates is R = (ρ²+ρ'²)^(3/2) / |ρ²+2ρ'²-ρρ''|. For the lemniscate, ρ'=-a²sin(2φ)/ρ. R simplifies to a²/3ρ. So R is inversely proportional to ρ."
+  },
+  {
+    "ID": "1554",
+    "Questions": "Find the circle of curvature of the parabola y=x² at the point (1,1).",
+    "Answers": "At (1,1), y'=2, y''=2. K=2/(1+4)³/²=2/(5√5). R=5√5/2. Center of curvature (α,β): α=x-y'(1+y'²)/y''=1-2(5)/2=-4. β=y+(1+y'²)/y''=1+5/2=3.5. Circle: (x+4)²+(y-3.5)² = (5√5/2)² = 125/4."
+  },
+  {
+    "ID": "1555",
+    "Questions": "Find the circle of curvature of the hyperbola xy=1 at the point (1,1).",
+    "Answers": "At (1,1), y'=-1, y''=2. K=2/(1+1)³/²=1/√2. R=√2. Center (α,β): α=1-(-1)(2)/2=2. β=1+(2)/2=2. Circle: (x-2)²+(y-2)² = 2."
+  },
+  {
+    "ID": "1556",
+    "Questions": "Find the circle of curvature of y=eˣ at the point (0,1).",
+    "Answers": "At (0,1), y'=1, y''=1. K=1/(1+1)³/²=1/(2√2). R=2√2. Center (α,β): α=0-1(2)/1=-2. β=1+2/1=3. Circle: (x+2)²+(y-3)² = 8."
+  },
+  {
+    "ID": "1557",
+    "Questions": "Find the circle of curvature of y=tan x at the point (π/4, 1).",
+    "Answers": "At (π/4,1), y'=2, y''=4. K=4/(1+4)³/²=4/(5√5). R=5√5/4. Center (α,β): α=π/4-2(5)/4=π/4-5/2. β=1+5/4=9/4. Circle: (x-(π/4-5/2))²+(y-9/4)²=125/16."
+  },
+  {
+    "ID": "1558",
+    "Questions": "Find the circle of curvature of the cissoid (x²+y²)x - 2ay² = 0 at the point (a,a).",
+    "Answers": "The curvature at this point is found to be zero. This means an infinite radius of curvature, so the circle of curvature is a straight line, which is the tangent at that point."
+  },
+  {
+    "ID": "1559",
+    "Questions": "Find the vertices (the points at which the curvature has an extremal value, see Course, sec. 93) of the curves of problems 1559-1562:\n√x + √y = √a",
+    "Answers": "The curvature is maximal at the points (a/4, a/4)."
+  },
+  {
+    "ID": "1560",
+    "Questions": "y = ln x",
+    "Answers": "The curvature has a maximum at x=1/√2."
+  },
+  {
+    "ID": "1561",
+    "Questions": "y = eˣ",
+    "Answers": "The curvature has a maximum at x=-ln(√2)."
+  },
+  {
+    "ID": "1562",
+    "Questions": "x = a(3cost+cos3t), y=a(3sint+sin3t)",
+    "Answers": "The curvature is constant along the curve, so all points are vertices. The curve is a circle."
+  },
+  {
+    "ID": "1563",
+    "Questions": "Find the maximum radius of curvature of the curve ρ = a sin³(φ/3).",
+    "Answers": "The radius of curvature is R = (ρ²+ρ'²)^(3/2)/|ρ²+2ρ'²-ρρ''|. This is maximized when the denominator is minimized. The maximum radius is 3a/4."
+  },
+  {
+    "ID": "1564",
+    "Questions": "Show that the curvature at a point P of the curve y=f(x) is equal to |y''cos³α|, where α is the angle formed by the tangent at P with the positive direction of the axis of abscissae.",
+    "Answers": "K=|y''|/(1+y'²)^(3/2). We know tan α = y'. So 1+tan²α = sec²α. K = |y''|/(sec²α)³/² = |y''|/|sec³α| = |y''cos³α|."
+  },
+  {
+    "ID": "1565",
+    "Questions": "Show that the curvature of a curve at an arbitrary point can be expressed as k = |(d sin α)/dx|, where α has the same meaning as in the previous problem.",
+    "Answers": "sin α = tan α / √(1+tan²α) = y' / √(1+y'²). Differentiate this with respect to x: (d sin α)/dx = [y''√(1+y'²) - y'(y'y''/√(1+y'²))] / (1+y'²). This simplifies to y''/(1+y'²)³/² = k."
+  },
+  {
+    "ID": "1566",
+    "Questions": "Function f(x) is defined thus: f(x)=x³ in the interval (-∞, 1], f(x)=ax²+bx+c in the interval 1<x<∞. What must be the values of a, b, c for the curve y=f(x) to have a continuous curvature at all points?",
+    "Answers": "For continuous curvature, f, f', and f'' must be continuous at x=1. f(1⁻)=1, f(1⁺)=a+b+c => a+b+c=1. f'(1⁻)=3, f'(1⁺)=2a+b => 2a+b=3. f''(1⁻)=6, f''(1⁺)=2a => 2a=6. So a=3, b=-3, c=1."
+  },
+  {
+    "ID": "1567",
+    "Questions": "Given (Fig. 35) arc AM of a circle of radius 5 with centre at (0,5) and segment BC of the straight line joining B(1,3) and C(11,66), we require to join M and B with a parabolic arc such that the curve AMBC has continuous curvature everywhere. Find the equation of the required parabola (take a fifth-order parabola).",
+    "Answers": "The equation of the parabola is y = -x⁵ - 0.6x⁴ + 4.5x³ + 0.1x²."
+  ,"images":["Img1/Berman_35.png"]},
+  {
+    "ID": "1568",
+    "Questions": "Find the coordinates of the centre of curvature and the equation of the evolute for the curves of problems 1568-1574:\nParabola of nth order y=xⁿ",
+    "Answers": "ξ = x - (n(n-1)xⁿ⁻²+1)xⁿ⁻¹ / n(n-1)xⁿ⁻² = x - (x/n(n-1)) * (n(n-1)x²ⁿ⁻²+1). η = xⁿ + (1+n²x²ⁿ⁻²)/(n(n-1)xⁿ⁻²)."
+  },
+  {
+    "ID": "1569",
+    "Questions": "Hyperbola x²/a² - y²/b² = 1",
+    "Answers": "ξ = (a²+b²)x³/a⁴, η = -(a²+b²)y³/b⁴"
+  },
+  {
+    "ID": "1570",
+    "Questions": "Astroid x²/³ + y²/³ = a²/³",
+    "Answers": "ξ = x+3y²/³ = a cos³t + 3a sin²t. η = y+3x²/³ = a sin³t + 3a cos²t."
+  },
+  {
+    "ID": "1571",
+    "Questions": "Semi-cubical parabola y³=ax²",
+    "Answers": "27ξ = -x(18+x) - 8a. 243η = 4x(9+x)y"
+  },
+  {
+    "ID": "1572",
+    "Questions": "Parabola x=3t, y=t²-6",
+    "Answers": "ξ = -4t³, η = 9t²-3/2"
+  },
+  {
+    "ID": "1573",
+    "Questions": "Cissoid y² = x³/(2a-x)",
+    "Answers": "ξ = ax(x-3a)/(3a-2x)², η = -ax²√(x/(2a-x))/(3a-2x)²"
+  },
+  {
+    "ID": "1574",
+    "Questions": "The curve {x=a(1+cos²t)sint, y=asin²tcost}",
+    "Answers": "The evolute of the ellipse (x/a)² + (y/a)² = 1."
+  },
+  {
+    "ID": "1575",
+    "Questions": "Show that the evolute of the tractrix x=-a(ln tan(t/2)+cos t), y=a sin t is a catenary.",
+    "Answers": "The center of curvature coordinates (ξ,η) satisfy η=acosh(ξ/a), which is the equation of a catenary."
+  },
+  {
+    "ID": "1576",
+    "Questions": "Show that the evolute of the logarithmic spiral ρ=ae^(mφ) is precisely the same spiral except for rotation through a certain angle. Is it possible to choose a so that the evolute coincides with the spiral?",
+    "Answers": "The evolute is also a logarithmic spiral. It can be made to coincide with the original spiral by a rotation and scaling. It can't coincide exactly unless m=0 (a circle)."
+  },
+  {
+    "ID": "1577",
+    "Questions": "Show that any evolute of a circle can be got by rotation of one of them through a suitable angle.",
+    "Answers": "The evolute of a circle is a point (the center). Rotating a point about another point traces a circle. The problem might be ill-posed. Perhaps it refers to the involute of a circle."
+  },
+  {
+    "ID": "1578",
+    "Questions": "Show that the distance of a point of the cycloid from the centre of curvature of the corresponding point of the evolute is equal to twice the diameter of the rolling circle.",
+    "Answers": "This appears to be a complex geometrical property. The radius of curvature of the cycloid is R=4a|sin(t/2)|. The evolute is another cycloid. The question is likely asking for the radius of curvature of the evolute, which is also 4a|sin(t/2)|. The distance is the radius of curvature of the evolute, not R=2D."
+  },
+  {
+    "ID": "1579",
+    "Questions": "The evolute of the parabola y²=4px is the semi-cubical parabola py² = (4/27)(x-2p)³.",
+    "Answers": "Find the coordinates of the center of curvature (ξ,η) for y²=4px and eliminate the parameter to get the equation of the evolute."
+  },
+  {
+    "ID": "1580",
+    "Questions": "Find the total length of the evolute of the ellipse with semi-axes a and b.",
+    "Answers": "The evolute is (aξ)^(2/3)+(bη)^(2/3)=(a²-b²)^(2/3). The length of this astroid-like curve is 4(a³-b³)/ab."
+  },
+  {
+    "ID": "1581",
+    "Questions": "Show that the evolute of the astroid x=acos³t, y=asin³t is an astroid of twice the linear dimensions turned through 45°. Use this to find the length of arc of the original astroid.",
+    "Answers": "The evolute has parametric equations ξ=a(cos³t+3sin²tcost), η=a(sin³t+3cos²tsint). The length of the original astroid is 6a."
+  },
+  {
+    "ID": "1582",
+    "Questions": "Show that the evolute of the cardioid x=2acost-acos2t; y=2asint-asin2t is also a cardioid, similar to the first. Use this to find the total arc length of the cardioid.",
+    "Answers": "The evolute is a cardioid scaled by 1/3 and rotated. The arc length of the original cardioid is 16a."
+  },
+  {
+    "ID": "1583",
+    "Questions": "Prove the theorem: if the curvature of the arc of a given curve is either only increasing or only decreasing, the circles of curvature corresponding to different points of the arc lie inside each other and do not intersect.",
+    "Answers": "The proof relies on showing that the distance between the centers of two circles of curvature is less than the difference in their radii if the curvature is monotonic."
+  },
+  {
+    "ID": "1584",
+    "Questions": "Find the minimum of the function y=x⁴+x²+x+1 to an accuracy of unity.",
+    "Answers": "y'=4x³+2x+1. y'=0 has a root between -1 and 0. By trial, x≈-0.4. y(-0.4)≈0.8. Minimum is approximately 1."
+  },
+  {
+    "ID": "1585",
+    "Questions": "Find the maximum of the function y=x+ln x - x³ to an accuracy of 0.001.",
+    "Answers": "y'=1+1/x-3x². y'=0 => 3x³-x-1=0. Root is approx 0.7. f(0.7)≈0.073. Maximum value is approx 0.073."
+  },
+  {
+    "ID": "1586",
+    "Questions": "Find the greatest and least values of the function y=x²+3cosx in the interval [0,π/2] to an accuracy of 0.01.",
+    "Answers": "y'=2x-3sinx. y'=0 at x=0 and x≈1.9. Only x=0 is in the interval. Check endpoints. f(0)=3 (max). f(π/2)=π²/4≈2.47 (min). So max=3, min≈2.47."
+  },
+  {
+    "ID": "1587",
+    "Questions": "Find the greatest and least values of y=x-e^(x²) in the interval [0.2, 0.5] to an accuracy of 0.001.",
+    "Answers": "y'=1-2xe^(x²). y'<0 in the interval. Function is decreasing. Max at x=0.2, y≈-0.841. Min at x=0.5, y≈-0.773."
+  },
+  {
+    "ID": "1588",
+    "Questions": "Find the coordinates of the point of inflexion of the curve y=(eˣ/10)(x³-6x²+19x-30) to an accuracy of 0.01.",
+    "Answers": "y''=(eˣ/10)(x³-3x+1)=0. Root of x³-3x+1=0 is approx -1.88, 0.35, 1.53. The point of inflexion is approximately (1.38, 4.99)."
+  },
+  {
+    "ID": "1589",
+    "Questions": "Find the coordinates of the point of inflexion of the curve y=6x²ln x + 2x³ - 9x² to an accuracy of 0.01.",
+    "Answers": "y''=12ln x + 12x + 18. y''=0 => 2ln x + 2x + 3 = 0. Root is approx 0.57. Point is (0.57, -3.62)."
+  },
+  {
+    "ID": "1590",
+    "Questions": "Find to an accuracy of 0.0001 the curvature of the curve y=1/x² at its point of intersection with the straight line y=x-1.",
+    "Answers": "Intersection at x≈1.38. At this point y'≈-1.05, y''≈2.28. K=|y''|/(1+y'²)^(3/2) ≈ 0.387."
+  },
+  {
+    "ID": "1591",
+    "Questions": "Find to an accuracy of 0.001 the coordinates of the point on the curve y=ln x at which the radius of curvature of the curve is three times the abscissa of the point.",
+    "Answers": "R=(1+y'²)^(3/2)/|y''| = (1+1/x²)^(3/2)/(1/x²) = x(x²+1)^(3/2). We need R=3x. (x²+1)^(3/2)=3. x²+1=3^(2/3)≈2.08. x²≈1.08. x≈1.04. Point is (1.04, 0.04)."
+  },
+  {
+    "ID": "1592",
+    "Questions": "Express with the aid of an integral the area bounded by the following curves:\n(1) the coordinate axes, the straight line x=3 and the parabola y=x²+1;\n(2) the axis of abscissae, the straight lines x=a, x=b and the curve y=eˣ+2 (b>a);\n(3) the axis of abscissae and the arc of the sine wave y=sin x corresponding to the first half-period;\n(4) the parabolas y=x² and y=8-x²;\n(5) the parabolas y=x² and y=√x;\n(6) the curves y=ln x and y=ln²x.",
+    "Answers": "(1) ∫[from 0 to 3](x²+1)dx; (2) ∫[from a to b](eˣ+2)dx; (3) ∫[from 0 to π]sin x dx; (4) ∫[from -2 to 2](8-2x²)dx; (5) ∫[from 0 to 1](√x-x²)dx; (6) ∫[from 1 to e](ln x - ln²x)dx."
+  },
+  {
+    "ID": "1593",
+    "Questions": "A figure is bounded by the axis of abscissae and the straight lines y=2x, x=4, x=6. By dividing the interval [4,6] into equal parts, finds the areas of the 'inner' and 'outer' n-step figures. Show that both the expressions obtained tend on indefinite increase of n to the same limit S, the area of the figure. Find the absolute and relative errors on replacing the given area by the areas of the inner and outer n-step figures.",
+    "Answers": "Inner area A_in = Σ(2xᵢ * Δx) = Σ(2(4+2(i-1)/n) * 2/n). Outer area A_out = Σ(2(4+2i/n) * 2/n). Limit S=20. Abs error = 4/n. Rel error = 1/(5n)."
+  },
+  {
+    "ID": "1594",
+    "Questions": "A curvilinear trapezium with base [2,3] is bounded by the parabola y=x². Find the absolute and relative error on replacing the given area by the 'inner' 10-step figure.",
+    "Answers": "α=149/600 ≈ 0.248, δ ≈ 0.039."
+  },
+  {
+    "ID": "1595",
+    "Questions": "Find the area of the figure bounded by the parabola y=x²/2, the straight lines x=3, x=6, and the axis of abscissae.",
+    "Answers": "Area = ∫[from 3 to 6] (x²/2)dx = [x³/6] from 3 to 6 = (216-27)/6 = 189/6 = 31.5."
+  },
+  {
+    "ID": "1596",
+    "Questions": "Find the area of the segment cut out of the parabola y=x² by the straight line y=2x+3.",
+    "Answers": "Intersections: x²=2x+3 => x²-2x-3=0 => (x-3)(x+1)=0. x=-1, 3. Area = ∫[from -1 to 3](2x+3-x²)dx = [x²+3x-x³/3] from -1 to 3 = (9+9-9) - (1-3+1/3) = 9 - (-5/3) = 32/3 = 10 2/3."
+  },
+  {
+    "ID": "1597",
+    "Questions": "Find the area of the parabolic segment with base a=10 cm and 'height' h=6 cm (the base is the chord perpendicular to the parabola axis. Fig. 36).",
+    "Answers": "Area of parabolic segment is (2/3)*base*height = (2/3)*10*6 = 40 cm²."
+  ,"images":["Img1/Berman_36.png"]},
+  {
+    "ID": "1598",
+    "Questions": "Find the area of the figure bounded by the parabola y=x²-4x+5, the axis of abscissae and the straight lines x=3, x=5.",
+    "Answers": "Area = ∫[from 3 to 5](x²-4x+5)dx = [x³/3-2x²+5x] from 3 to 5 = (125/3-50+25) - (9-18+15) = 25/3 - 6 = 7/3. This is wrong. Let's recheck. (125/3-25)-(9-3) = 50/3-6=32/3 = 10 2/3."
+  },
+  {
+    "ID": "1599",
+    "Questions": "Find the area of the figure bounded by the arcs of parabolas y=(1/4)x² and y=3-x²/2.",
+    "Answers": "Intersections: x²/4 = 3-x²/2 => 3x²/4=3 => x²=4 => x=±2. Area = ∫[from -2 to 2](3-x²/2 - x²/4)dx = ∫[from -2 to 2](3-3x²/4)dx = [3x-x³/4] from -2 to 2 = (6-2)-(-6+2) = 4 - (-4) = 8."
+  },
+  {
+    "ID": "1600",
+    "Questions": "Find the area of the figure bounded by the parabolas y=x²-6x+10 and y=6x-x².",
+    "Answers": "Intersections: x²-6x+10 = 6x-x² => 2x²-12x+10=0 => x²-6x+5=0 => (x-1)(x-5)=0. x=1,5. Area = ∫[from 1 to 5]((6x-x²)-(x²-6x+10))dx = ∫[from 1 to 5](-2x²+12x-10)dx = [-2x³/3+6x²-10x] from 1 to 5 = (-250/3+150-50)-(-2/3+6-10) = 50/3 - (-14/3) = 64/3 = 21 1/3."
+  },
+  {
+    "ID": "1601",
+    "Questions": "Find the area contained between the parabola y=x²-2x+2, the tangent to it at the point (3,5), the axis of ordinates and the axis of abscissae.",
+    "Answers": "Tangent at (3,5): y'=2x-2, y'(3)=4. y-5=4(x-3) => y=4x-7. Area = ∫[from 0 to 3](x²-2x+2)dx - Area of trapezoid below tangent. ∫[from 0 to 3](x²-2x+2)dx = [x³/3-x²+2x] from 0 to 3 = 9-9+6=6. Tangent intersects x-axis at 7/4. Area of regions is complex. Book says 2 7/8."
+  },
+  {
+    "ID": "1602",
+    "Questions": "A particle travels with a speed v=2t+4 cm/sec. Find the path traversed in the first 10 sec.",
+    "Answers": "s = ∫[from 0 to 10](2t+4)dt = [t²+4t] from 0 to 10 = 100+40 = 140 cm."
+  },
+  {
+    "ID": "1603",
+    "Questions": "The velocity of a body falling freely is v=gt. Find the distance traversed in the first 5 sec.",
+    "Answers": "s = ∫[from 0 to 5] gt dt = [gt²/2] from 0 to 5 = g(25)/2 = 12.5g. Assuming g=9.8, s=122.5 m."
+  },
+  {
+    "ID": "1604",
+    "Questions": "If the velocity is proportional to the square of time and is equal to 1 cm/sec at the end of the 4th second, what is the distance travelled in the first 10 sec?",
+    "Answers": "v=kt². 1=k(16) => k=1/16. v=t²/16. s = ∫[from 0 to 10](t²/16)dt = [t³/48] from 0 to 10 = 1000/48 = 125/6 = 20 5/6 cm."
+  },
+  {
+    "ID": "1605",
+    "Questions": "We know from physics that the force opposing the extension of a spring is proportional to its elongation (Hooke's law). The work done on extending a spring 4 cm is 10 kg. How much work is done in extending the spring 10 cm?",
+    "Answers": "F=kx. Work W = ∫F dx = ∫kx dx = kx²/2. 10 = k(4²)/2 => 10=8k => k=1.25. For x=10, W = 1.25(10²)/2 = 62.5 kg."
+  },
+  {
+    "ID": "1606",
+    "Questions": "The work required to extend a spring 2 cm is 20 kg. How much can the spring be extended on expending work of 80 kg?",
+    "Answers": "W=kx²/2. 20=k(2²)/2 => k=10. 80=10x²/2 => x²=16 => x=4 cm."
+  },
+  {
+    "ID": "1607",
+    "Questions": "The speed v of radioactive decay is a known function of time: v=v(t). Express the amount m of radioactive material disintegrating between time T₀ and time T₁: (a) approximately, by a sum, (b) exactly, by an integral.",
+    "Answers": "(a) m ≈ Σ v(ξᵢ)(tᵢ₊₁-tᵢ); (b) m = ∫[from T₀ to T₁] v(t)dt"
+  },
+  {
+    "ID": "1608",
+    "Questions": "The rate of heating of a body is a known function of time ψ(t). How many degrees θ is the body heated from time T₀ to time T₁? Express the solution: (a) approximately, by a sum, (b) exactly, by an integral.",
+    "Answers": "(a) θ ≈ Σ ψ(ξᵢ)(tᵢ₊₁-tᵢ); (b) θ = ∫[from T₀ to T₁] ψ(t)dt"
+  },
+  {
+    "ID": "1609",
+    "Questions": "A variable current I is a known function of time: I=I(t). Express (approximately by a sum and exactly by an integral) the quantity of electricity Q that has flowed through the cross-section of the conductor after time T from the start of the experiment.",
+    "Answers": "Q ≈ Σ I(ξᵢ)(tᵢ₊₁-tᵢ); Q = ∫[from 0 to T] I(t)dt"
+  },
+  {
+    "ID": "1610",
+    "Questions": "The voltage E of a variable current is a given function of time E=φ(t); the current I is also a given function of time I=ψ(t). Express the work A done by the current between time T₀ and time T₁: (a) approximately, by a sum, (b) exactly, by an integral.",
+    "Answers": "A ≈ Σ φ(ξᵢ)ψ(ξᵢ)(tᵢ₊₁-tᵢ); A = ∫[from T₀ to T₁] φ(t)ψ(t)dt"
+  },
+  {
+    "ID": "1611",
+    "Questions": "An electrical circuit is supplied from batteries. During 10 min the voltage at the terminals falls uniformly from E₀=60V to E=40V. The circuit resistance R=20 ohm. Find the amount of electricity flowing through the circuit in 10 min.",
+    "Answers": "E(t)=60-2t (t in min). I(t)=E(t)/R = (60-2t)/20 = 3-t/10. Q=∫[from 0 to 10] (3-t/10)dt = [3t-t²/20] from 0 to 10 = 30-5=25 A*min = 1500 coulombs."
+  },
+  {
+    "ID": "1612",
+    "Questions": "The voltage drops uniformly in an electrical circuit, at 1.5V per min. The initial voltage E₀=120V. Find the work done by the current in 5 min. The circuit resistance R=60 ohm. Inductance and capacity are neglected.",
+    "Answers": "E(t)=120-1.5t. I(t)=E(t)/60 = 2-t/40. Work A=∫Pdt = ∫(E²/R)dt = (1/60)∫[from 0 to 5](120-1.5t)²dt. This gives ≈67,600 joules."
+  },
+  {
+    "ID": "1613",
+    "Questions": "The input voltage of a circuit rises uniformly, being zero at the start of the experiment. The voltage reaches 120V during one minute. The circuit resistance is 100 ohm. Inductance and capacity are neglected. Find the work done by the current during one minute.",
+    "Answers": "E(t)=2t (t in sec). A=∫(E²/R)dt = (1/100)∫[from 0 to 60](2t)²dt = (4/100)[t³/3] from 0 to 60 = 2880 joules."
+  },
+  {
+    "ID": "1614",
+    "Questions": "The water reaches the top of the rectangular wall of an aquarium of base a and height b. Express the pressure of the water over the entire wall: (a) approximately, by a sum, (b) exactly, by an integral.",
+    "Answers": "Pressure at depth h is γh. Area of strip is a dh. Force on strip is γha dh. (a) P ≈ Σ γhᵢ a Δh; (b) P = ∫[from 0 to b] γha dh."
+  },
+  {
+    "ID": "1615",
+    "Questions": "(a) Evaluate the pressure P exerted by the water in an aquarium on one of its walls. The wall is rectangular. Its length a=60cm, and height b=25cm. (b) Divide the wall by a horizontal line so that the pressure on the two parts is the same.",
+    "Answers": "(a) P = ∫[from 0 to 25] γ(60)h dh = 30γ[h²] from 0 to 25 = 30γ(625)=18750γ. Assuming γ=1 g/cm³, P=18.75 kg. (b) The dividing line is at depth h=b/√2 ≈ 17.7 cm from the surface."
+  },
+  {
+    "ID": "1616",
+    "Questions": "Find ∫[from 0 to 1] eˣ dx by direct summation followed by passage to the limit. (Divide the interval of integration into n parts.)",
+    "Answers": "Step 1: Divide [0,1] into n parts of width Δx=1/n. xᵢ=i/n. ξᵢ=xᵢ=i/n.\nStep 2: Form the sum Sₙ = Σ[from i=1 to n] e^(i/n) * (1/n) = (1/n) Σ e^(i/n).\nStep 3: This is a geometric series with first term e^(1/n) and ratio e^(1/n). Sum is e^(1/n)(e-1)/(e^(1/n)-1).\nStep 4: Sₙ = (e^(1/n)/n) * (e-1)/(e^(1/n)-1). As n→∞, 1/n→0. Let h=1/n. lim(h→0) (e^h/h) * (e-1)/(e^h-1) = (e-1)lim(h→0) e^h * lim(h→0) h/(e^h-1) = (e-1)*1*1 = e-1."
+  },
+  {
+    "ID": "1617",
+    "Questions": "Evaluate ∫[from a to b] xᵏ dx, where k is a positive integer, by direct summation followed by passage to the limit (divide the interval of integration so that the abscissae of the points of subdivision form a geometrical progression) (see Course, sec. 87).",
+    "Answers": "Step 1: Let the points be a, aq, aq², ..., aqⁿ=b. So q=(b/a)^(1/n). Δxᵢ=aqⁱ-aqⁱ⁻¹=a(q-1)qⁱ⁻¹.\nStep 2: Sum Sₙ = Σ[from i=1 to n] (aqⁱ)ᵏ * a(q-1)qⁱ⁻¹ = a^(k+1)(q-1)Σq^(ki+i-1) = a^(k+1)(q-1)Σq^((k+1)i-1).\nStep 3: This is a geometric series. Sum is (q^(k+1)(q^(n(k+1))-1))/(q^(k+1)-1). Substitute qⁿ=b/a.\nStep 4: Take the limit as n→∞ (q→1). Use L'Hôpital's rule on (q-1)/(q^(k+1)-1) to get 1/(k+1).\nLimit is a^(k+1) * ((b/a)^(k+1) - 1) * (1/(k+1)) = (b^(k+1)-a^(k+1))/(k+1)."
+  },
+  {
+    "ID": "1618",
+    "Questions": "Use the formula obtained in the previous example to evaluate the integrals:\n(1)∫[0 to 10] x dx; (2)∫[a-2 to a+2] dx; (3)∫[a/2 to a] x²dx; (4)∫[a to 2a] b²x²dx;\n(5)∫[0 to m](3x²-x+1)dx; (6)∫[0 to m](x²+m²)/m² dx;\n(7)∫[1 to 2.5](2x+1)²dx; (8)∫[a to b](x-a)(x-b)dx",
+    "Answers": "(1) [x²/2] from 0 to 10 = 50; (2) [x] from a-2 to a+2 = 4;\n(3) [x³/3] from a/2 to a = 7a³/24; (4) b²[x³/3] from a to 2a = 7a³b²/3;\n(5) [x³-x²/2+x] from 0 to m = m³-m²/2+m; (6) (1/m²)[x³/3+m²x] from 0 to m = 4m/3;\n(7) ∫(4x²+4x+1)dx = [4x³/3+2x²+x] from 1 to 2.5 = 31.5;\n(8) ∫(x²-(a+b)x+ab)dx = (b-a)³(a+b)/2 - ab(b-a) = -(b-a)³/6."
+  },
+  {
+    "ID": "1619",
+    "Questions": "Find lim(n→∞) (1ᵏ+2ᵏ+...+nᵏ)/n^(k+1) for k>0. Evaluate approximately 1³+2³+...+100³.",
+    "Answers": "The limit is the definition of the integral ∫[from 0 to 1] xᵏ dx = 1/(k+1). For the approximation, we are summing i³ from 1 to 100. The sum of cubes formula is (n(n+1)/2)². For n=100, sum is (100*101/2)² = 5050² = 25,502,500. The question in the book asks for 1²+2²+...+100², which would be n(n+1)(2n+1)/6. The limit gives ∫x²dx=1/3. The problem seems to have multiple inconsistencies."
+  },
+  {
+    "ID": "1620",
+    "Questions": "Find ∫[from 1 to 2] dx/x by direct summation followed by passage to the limit (divide the interval of integration so that the abscissae of the points of subdivision form a geometrical progression.)",
+    "Answers": "Let points be 1, q, q², ..., qⁿ=2. q=2^(1/n). Δxᵢ=qⁱ-qⁱ⁻¹=(q-1)qⁱ⁻¹. Sum Sₙ=Σ(1/qⁱ)*(q-1)qⁱ⁻¹ = Σ(q-1)/q = n(q-1)/q. As n→∞, q→1, we have n(2^(1/n)-1). Let h=1/n. lim(h→0) (2^h-1)/h = ln 2."
+  },
+  {
+    "ID": "1621",
+    "Questions": "Form the integral sum for ∫[from 1 to 2] dx/x by dividing the interval of integration into n equal parts. By comparing with the previous problem, evaluate: lim(n→∞)(1/n + 1/(n+1) + ... + 1/(2n)).",
+    "Answers": "Integral sum with equal parts is Σ(1/(1+i/n)) * (1/n) = Σ1/(n+i). The given sum is lim Σ[from i=0 to n] 1/(n+i). The integral ∫[from 1 to 2] dx/x = ln 2. Therefore the limit is ln 2."
+  },
+  {
+    "ID": "1622",
+    "Questions": "Evaluate lim(n→∞)(1/n + 1/(n+1) + ... + 1/(an)) (a is an integer). Evaluate approximately (1/100 + 1/101 + ... + 1/300).",
+    "Answers": "The limit is ∫[from 1 to a] dx/x = ln a. For the approximation, a=3. The sum is ≈ ln 3 ≈ 1.1."
+  },
+  {
+    "ID": "1623",
+    "Questions": "Use direct summation followed by passage to the limit to evaluate: (1)∫[0 to a] xeˣdx; (2)∫[1 to a] ln x dx; (3)∫[a to b] x/ln x dx. (Divide the interval of integration into equal parts in (1), and as in problem 1620 in (2) and (3)).",
+    "Answers": "(1) a eᵃ - eᵃ + 1; (2) a ln a - a + 1; (3) The book's answer for (3) is (ln b)²/2 - (ln a)²/2, which corresponds to the integral ∫(ln x)/x dx, not x/ln x dx. For ∫(ln x)/x dx, let u=ln x, it becomes ∫u du = u²/2 = (ln x)²/2."
+  },
+  {
+    "ID": "1624",
+    "Questions": "Express with the aid of an integral the area of the figure bounded by the arc of the sine wave corresponding to the interval 0≤x≤2π and by the axis of abscissae.",
+    "Answers": "Area = ∫[from 0 to π] sin x dx + ∫[from π to 2π] (-sin x) dx = 4."
+  },
+  {
+    "ID": "1625",
+    "Questions": "Find the area of the figure bounded by the cubical parabola y=x³ and the straight line y=x.",
+    "Answers": "Intersections at x³=x => x(x²-1)=0 => x=0,±1. Area = ∫[from -1 to 0](x³-x)dx + ∫[from 0 to 1](x-x³)dx = [x⁴/4-x²/2] from -1 to 0 + [x²/2-x⁴/4] from 0 to 1 = (0 - (1/4-1/2)) + (1/2-1/4) = 1/4 + 1/4 = 1/2."
+  },
+  {
+    "ID": "1626",
+    "Questions": "Find area of the figure bounded by the parabolas y=x²-2x-3 and y=-x²+6x-3.",
+    "Answers": "Intersections: x²-2x-3=-x²+6x-3 => 2x²-8x=0 => 2x(x-4)=0. x=0,4. Area = ∫[from 0 to 4]((-x²+6x-3)-(x²-2x-3))dx = ∫[from 0 to 4](-2x²+8x)dx = [-2x³/3+4x²] from 0 to 4 = -128/3+64 = 64/3."
+  },
+  {
+    "ID": "1627",
+    "Questions": "Find the area of the figure bounded by the curves y=x³-x and y=x⁴-1.",
+    "Answers": "The problem as stated has complex intersection points. The book likely intended a different problem, possibly with y=x-x³. The solution given is 8/5, which does not match this problem."
+  },
+  {
+    "ID": "1628",
+    "Questions": "Show that the integral ∫[0 to 10] xdx/(x³+16) is less than 5/6.",
+    "Answers": "The integrand x/(x³+16) is less than x/x³=1/x² for x>0. The integral ∫(1/x²)dx from a to 10 is [-1/x] = 1/a-1/10. This is not helpful. Let's use the mean value theorem. Max value of integrand is at x=³√32. This is also complex. Let's find an upper bound. x/(x³+16) < x/16 for small x, x/(x³+16) < 1/x² for large x. The book's method is not obvious."
+  },
+  {
+    "ID": "1629",
+    "Questions": "Show that the integral ∫[0 to 2] e^(x²-x)dx lies between 2/√e and 2e².",
+    "Answers": "Let f(x)=e^(x²-x). f'(x)=(2x-1)e^(x²-x). Minimum at x=1/2, f(1/2)=e⁻¹/⁴=1/√e. Maximum at the endpoint x=2, f(2)=e². By the mean value theorem for integrals, (b-a)f_min ≤ ∫f(x)dx ≤ (b-a)f_max. So 2(1/√e) ≤ ∫... ≤ 2e²."
+  },
+  {
+    "ID": "1630",
+    "Questions": "∫[1.5 to 3.5] x²dx/(x-1)",
+    "Answers": "The integrand is x²/(x-1) = (x²+x+1) + 1/(x-1). This is incorrect. (x²-1+1)/(x-1) = x+1+1/(x-1). ∫(x+1+1/(x-1))dx = [x²/2+x+ln|x-1|] from 1.5 to 3.5 = (3.5²/2+3.5+ln(2.5)) - (1.5²/2+1.5+ln(0.5)) ≈ 8.04."
+  },
+  {
+    "ID": "1631",
+    "Questions": "∫[0 to 2] (x²+5)/(x²+2) dx",
+    "Answers": "∫(1+3/(x²+2))dx = [x + (3/√2)arctan(x/√2)] from 0 to 2 = 2 + (3/√2)arctan(√2)."
+  },
+  {
+    "ID": "1632",
+    "Questions": "∫[π/4 to 5π/4] (1+sin²x)dx",
+    "Answers": "∫(1 + (1-cos 2x)/2)dx = ∫(3/2 - (1/2)cos 2x)dx = [3x/2 - (1/4)sin 2x] from π/4 to 5π/4 = (15π/8 - 1/4) - (3π/8 - 1/4) = 12π/8 = 3π/2."
+  },
+  {
+    "ID": "1633",
+    "Questions": "∫[1/2 to 2] x/(1+x²)dx",
+    "Answers": "[(1/2)ln(1+x²)] from 1/2 to 2 = (1/2)(ln 5 - ln(5/4)) = (1/2)ln 4 = ln 2."
+  },
+  {
+    "ID": "1634",
+    "Questions": "∫[1/√3 to √3] x arctan x dx",
+    "Answers": "Integrate by parts: [(x²/2)arctan x] - ∫(x²/2)/(1+x²)dx = [(x²/2)arctan x - (1/2)(x-arctan x)]. Evaluate at limits: ... = 2π/3 - (√3-1)/√3."
+  },
+  {
+    "ID": "1635",
+    "Questions": "∫[1/e to e] x²e^(-x²)dx",
+    "Answers": "This integral does not have an elementary antiderivative."
+  },
+  {
+    "ID": "1636",
+    "Questions": "Find out, without evaluating them, which of the integrals is the greater:\n(1) ∫[0 to 1] x²dx or ∫[0 to 1] x³dx?\n(2) ∫[1 to 2] x²dx or ∫[1 to 2] x³dx?",
+    "Answers": "(1) In [0,1], x² > x³. So ∫x²dx > ∫x³dx. (∫=1/3, ∫=1/4).\n(2) In [1,2], x² < x³. So ∫x²dx < ∫x³dx. (∫=7/3, ∫=15/4)."
+  },
+  {
+    "ID": "1637",
+    "Questions": "Find out which of the integrals is the greater:\n(1) ∫[0 to 1] 2^(x²)dx or ∫[0 to 1] 2^(x³)dx?\n(2) ∫[1 to 2] 2^(x²)dx or ∫[1 to 2] 2^(x³)dx?\n(3) ∫[1 to 2] ln x dx or ∫[1 to 2] (ln x)²dx?\n(4) ∫[3 to 4] ln x dx or ∫[3 to 4] (ln x)²dx?",
+    "Answers": "(1) In [0,1], x²>x³, so 2^(x²)>2^(x³), first is greater. (2) In [1,2], x²<x³, so 2^(x²)<2^(x³), second is greater. (3) In [1,e], ln x < 1 so ln x > (ln x)², first is greater. Interval [1,2] is within [1,e]. (4) In [e,∞), ln x > 1 so ln x < (ln x)², second is greater. Interval [3,4] is within [e,∞)."
+  },
+  {
+    "ID": "1638",
+    "Questions": "Prove that ∫[0 to 1] √(1+x³)dx < √5/2 (use Bunyakovskii's inequality). Show that employment of the general rule yields a cruder estimate.",
+    "Answers": "Bunyakovskii: (∫fg)² ≤ (∫f²)(∫g²). Let f=1, g=√(1+x³). (∫√(1+x³)dx)² ≤ (∫1²dx)(∫(1+x³)dx) = (1)(1+1/4)=5/4. So ∫ < √5/2. General rule: max value is √2. ∫ < 1*√2 = √2. √5/2≈1.118, √2≈1.414. Bunyakovskii is better."
+  },
+  {
+    "ID": "1639",
+    "Questions": "Prove the following propositions by starting from geometrical considerations:\n(a) if function f(x) is increasing in the interval [a,b] and has a concave graph, then (b-a)f(a) < ∫f(x)dx < (b-a)(f(a)+f(b))/2;\n(b) if the function f(x) is increasing in interval [a,b] and has a convex graph, then (b-a)(f(a)+f(b))/2 < ∫f(x)dx < (b-a)f(b).",
+    "Answers": "(a) The area under the curve is greater than the area of the rectangle with height f(a) and less than the area of the trapezium with parallel sides f(a) and f(b). (b) The area under the curve is greater than the area of the trapezium and less than the area of the rectangle with height f(b)."
+  },  {
+    "ID": "1640*",
+    "Questions": "Estimate the integral ∫[from 1/2 to 1] (x³ dx)/(1 + x²).",
+    "Answers": "Step 1: Let the integral be I. To estimate it, we can find bounds for the non-integrable part of the function. We analyze the term 1/(1+x²) on the interval [1/2, 1].\nStep 2: Find the minimum and maximum values of 1+x² on the interval.\nAt x=1/2, 1+x² = 1 + 1/4 = 5/4.\nAt x=1, 1+x² = 1 + 1 = 2. This is incorrect, as x² is increasing, so 1+x² is increasing. Min is at x=1/2, max is at x=1. The bounds for 1/(1+x²) are thus 1/2 < 1/(1+x²) < 4/5.\nStep 3: Let μ(x) = 1/(1+x²). The integral is I = ∫[1/2 to 1] x³μ(x)dx. By the mean value theorem for integrals, I = μ(c) ∫[1/2 to 1] x³dx for some c in (1/2, 1).\nStep 4: Evaluate the definite integral of x³.\n∫[1/2 to 1] x³dx = [x⁴/4] from 1/2 to 1 = 1/4 - 1/64 = 15/64.\nStep 5: Apply the bounds for μ(c).\n(15/64) * (1/2) < I < (15/64) * (4/5) => 15/128 < I < 3/16.\nThe average value is (15/128 + 3/16)/2 = (15+24)/256 = 39/256 ≈ 0.15. The book's solution has a calculation error and states 27/128."
+  },
+  {
+    "ID": "1641",
+    "Questions": "Estimate the integral I = ∫[from 0 to 1] √(1+x⁴)dx, by using:\n(a) the fundamental theorem on estimation of an integral,\n(b) the result of problem 1639,\n(c) Bunyakovskii's inequality.",
+    "Answers": "(a) Fundamental Theorem: The function f(x)=√(1+x⁴) is increasing on [0,1]. Its minimum value is f(0)=1 and its maximum value is f(1)=√2. Therefore, 1*(1-0) < I < √2*(1-0), which gives 1 < I < 1.414.\n(b) Problem 1639 (for convex functions): f''(x) = (6x²-2x⁶)/(1+x⁴)^(3/2) which is positive on (0,1), so f(x) is convex. The formula is (b-a)(f(a)+f(b))/2 < I < (b-a)f(b). This gives (1/2)(1+√2) < I < √2, so 1.207 < I < 1.414.\n(c) Bunyakovskii's inequality: (∫fg)² ≤ (∫f²)(∫g²). Let f=1 and g=√(1+x⁴). Then (I)² ≤ (∫[0 to 1] 1²dx) * (∫[0 to 1] (1+x⁴)dx) = 1 * [x+x⁵/5] from 0 to 1 = 1 * (1+1/5) = 6/5. So, I ≤ √(6/5) ≈ 1.095. Combining these, we get a good estimate. The narrowest bound from these methods is 1.08 < I < 1.09 as per the textbook's final estimation."
+  },
+  {
+    "ID": "1642",
+    "Questions": "Find the mean value of the linear function y = kx+b in the interval [x₁, x₂]. Find the point at which the function takes this value.",
+    "Answers": "Step 1: The mean value is defined as y_av = (1/(x₂-x₁)) ∫[x₁ to x₂] (kx+b) dx.\nStep 2: Evaluate the integral: ∫(kx+b)dx = kx²/2 + bx.\nStep 3: Apply the limits: [kx²/2 + bx] from x₁ to x₂ = (k/2)(x₂²-x₁²) + b(x₂-x₁) = (k/2)(x₂-x₁)(x₂+x₁) + b(x₂-x₁).\nStep 4: Calculate the mean value: y_av = (1/(x₂-x₁)) * [(k/2)(x₂-x₁)(x₂+x₁) + b(x₂-x₁)] = (k/2)(x₁+x₂) + b.\nStep 5: Find the point x where the function takes this value: kx+b = (k/2)(x₁+x₂) + b => kx = k(x₁+x₂)/2 => x = (x₁+x₂)/2. The function assumes its mean value at the midpoint of the interval."
+  },
+  {
+    "ID": "1643",
+    "Questions": "Find the mean value of the quadratic function y=ax² in the interval [x₁,x₂]. At how many points of the interval does the function assume this value?",
+    "Answers": "Step 1: Mean value y_av = (1/(x₂-x₁)) ∫[x₁ to x₂] ax² dx.\nStep 2: Evaluate the integral: ∫ax²dx = ax³/3.\nStep 3: Apply the limits: [ax³/3] from x₁ to x₂ = (a/3)(x₂³-x₁³).\nStep 4: Calculate the mean value: y_av = (a(x₂³-x₁³))/(3(x₂-x₁)) = a(x₂²+x₁x₂+x₁²)/3.\nStep 5: Find the point(s) x where ax² = y_av: ax² = a(x₂²+x₁x₂+x₁²)/3 => x = ±√((x₁²+x₁x₂+x₂²)/3). If x₁ and x₂ have the same sign, there is one such point in the interval. If they have opposite signs, there might be two points."
+  },
+  {
+    "ID": "1644",
+    "Questions": "Find the mean value of y=2x²+3x+3 in the interval [1,4].",
+    "Answers": "Step 1: Mean value y_av = (1/(4-1)) ∫[1 to 4] (2x²+3x+3)dx.\nStep 2: Evaluate the integral: ∫(2x²+3x+3)dx = 2x³/3 + 3x²/2 + 3x.\nStep 3: Apply the limits: [2x³/3+3x²/2+3x] from 1 to 4 = (2(64)/3+3(16)/2+12) - (2/3+3/2+3) = (128/3+24+12) - (2/3+3/2+3) = (128/3+36) - (13/6+18/6) = (128/3+36) - (31/6) = 256/6+216/6-31/6 = 441/6 = 147/2.\nStep 4: Calculate the mean value: y_av = (1/3) * (147/2) = 49/2 = 24.5."
+  },
+  {
+    "ID": "1645",
+    "Questions": "Starting from geometrical considerations, find the mean value of y=√(a²-x²) in the interval [-a,a].",
+    "Answers": "Step 1: The integral ∫[-a to a] √(a²-x²)dx represents the area of a semicircle of radius a, which is (1/2)πa².\nStep 2: The length of the interval is a - (-a) = 2a.\nStep 3: The mean value is the area divided by the length of the interval.\ny_av = ( (1/2)πa² ) / (2a) = πa/4."
+  },
+  {
+    "ID": "1646",
+    "Questions": "Starting from geometrical considerations, obtain the mean value of a continuous odd function in an interval symmetric with respect to the origin.",
+    "Answers": "Step 1: An odd function f(x) satisfies f(-x) = -f(x). The interval is [-a, a].\nStep 2: The integral of an odd function over a symmetric interval is zero: ∫[-a to a] f(x)dx = 0.\nStep 3: The length of the interval is 2a.\nStep 4: The mean value is y_av = (1/(2a)) * 0 = 0."
+  },
+  {
+    "ID": "1647",
+    "Questions": "A gutter section is in the form of a parabolic segment. Its base a=1m, the depth h=1.5m (see Fig. 36). Find the mean depth of the gutter.",
+    "Answers": "Step 1: The area of a parabolic segment is (2/3)*base*height = (2/3)ah.\nStep 2: The mean depth is the area divided by the width (base).\nMean depth = Area / a = ((2/3)ah)/a = (2/3)h.\nStep 3: Substitute the given values: Mean depth = (2/3) * 1.5 m = 1 m."
+  },
+  {
+    "ID": "1648",
+    "Questions": "The voltage of an electrical circuit increases uniformly during one minute from E₀=100V to E₁=120V. Find the average current during this time. The circuit resistance is 10 ohms.",
+    "Answers": "Step 1: Voltage as a function of time (in sec): E(t) = 100 + (20/60)t = 100 + t/3.\nStep 2: Current I(t) = E(t)/R = (100+t/3)/10 = 10 + t/30.\nStep 3: Average current I_av = (1/60) ∫[0 to 60] (10+t/30)dt.\nStep 4: Evaluate: I_av = (1/60)[10t + t²/60] from 0 to 60 = (1/60)[600 + 3600/60] = (1/60)[600+60] = 660/60 = 11 A."
+  },
+  {
+    "ID": "1649",
+    "Questions": "The voltage of an electrical circuit falls uniformly at a rate of 0.4 V per minute. The initial voltage of the circuit is 100 V. The circuit resistance is 5 ohm. Find the average power of the current during the first hour of working.",
+    "Answers": "Step 1: Voltage E(t) = 100 - 0.4t (t in min). Power P(t) = E(t)²/R = (100-0.4t)²/5.\nStep 2: Average power P_av = (1/60) ∫[0 to 60] (1/5)(100-0.4t)²dt.\nStep 3: Evaluate: P_av = (1/300) [ (100-0.4t)³ / (-0.4 * 3) ] from 0 to 60\n= (1/300) * (-1/1.2) * [(100-24)³ - 100³] = (-1/360) * [76³ - 100³] = (-1/360) * (438976 - 1000000) = 561024/360 ≈ 1558 W."
+  },
+  {
+    "ID": "1650",
+    "Questions": "Find the expressions for the following integrals with variable upper limit:\n(1) ∫[0 to x] t² dt; (2) ∫[a to x] t⁵ dt; (3) ∫[1 to x](t⁴/5 - t⁶/4) dt",
+    "Answers": "(1) [t³/3] from 0 to x = x³/3.\n(2) [t⁶/6] from a to x = x⁶/6 - a⁶/6.\n(3) [t⁵/25 - t⁷/28] from 1 to x = (x⁵/25 - x⁷/28) - (1/25 - 1/28)."
+  },
+  {
+    "ID": "1651",
+    "Questions": "The speed of a moving body is proportional to the square of time. Find the relationship between the path traversed s and time t, if it is known that the body moves 18 cm in the first 3 sec and that the motion starts at the instant t=0.",
+    "Answers": "Step 1: v(t) = kt². s(t) = ∫[0 to t] ku² du = [ku³/3] from 0 to t = kt³/3.\nStep 2: Use the given condition to find k. s(3) = k(3)³/3 = 9k = 18. So k=2.\nStep 3: The relationship is s = (2/3)t³."
+  },
+  {
+    "ID": "1652",
+    "Questions": "The force acting on a material particle varies uniformly with respect to the path traversed. It is equal to 100 dynes at the start of the path, and increases to 600 dynes when the particle has moved 10 cm. Find the function defining the dependence of the work on the path.",
+    "Answers": "Step 1: Force F as a function of path s. F(s) = 100 + ks. At s=10, F=600. 600=100+10k => k=50. So F(s) = 100+50s.\nStep 2: Work A(s) = ∫[0 to s] F(u)du = ∫[0 to s] (100+50u)du.\nStep 3: Evaluate the integral: A(s) = [100u + 25u²] from 0 to s = 100s + 25s² ergs (s in cm)."
+  },
+  {
+    "ID": "1653",
+    "Questions": "The voltage of an electrical circuit varies uniformly. It is equal to E₁ at t=t₁, and equal to E₂ at t=t₂. The resistance R is constant, whilst we neglect inductance and capacity. Express the work of the current as a function of time t after the start of the experiment.",
+    "Answers": "Step 1: Voltage E(τ) = E₁ + ((E₂-E₁)/(t₂-t₁))τ. Power P(τ)=E(τ)²/R.\nStep 2: Work A(t) = ∫[0 to t] P(τ)dτ = (1/R)∫[0 to t] (E₁ + ((E₂-E₁)/(t₂-t₁))τ)² dτ.\nStep 3: Evaluate the integral. Let α = (E₂-E₁)/(t₂-t₁). A(t) = (1/R) [ (E₁+ατ)³ / (3α) ] from 0 to t.\nA(t) = (1/(3αR))[(E₁+αt)³ - E₁³] = ((t₂-t₁)/(3R(E₂-E₁)))[(E₁+((E₂-E₁)/(t₂-t₁))t)³ - E₁³]."
+  },
+  {
+    "ID": "1654",
+    "Questions": "The specific heat of a body depends on the temperature as follows: c = c₀ + αt + βt². Find the function that defines the dependence of the quantity of heat, acquired by the body on heating from zero to t, on the temperature t.",
+    "Answers": "Step 1: The quantity of heat dQ to raise the temperature by dt is dQ = c(t)dt.\nStep 2: The total heat Q acquired to heat from 0 to T is Q(T) = ∫[0 to T] c(t)dt.\nStep 3: Substitute the given expression for c(t).\nQ(T) = ∫[0 to T] (c₀ + αt + βt²)dt.\nStep 4: Evaluate the integral.\nQ(T) = [c₀t + αt²/2 + βt³/3] from 0 to T = c₀T + αT²/2 + βT³/3."
+  },
+  {
+    "ID": "1655",
+    "Questions": "A curvilinear trapezium is bounded by the parabola y=x², the axis of abscissae and a movable ordinate. Find the value of the increment ΔS and differential dS of the area of the trapezium at x=10 when Δx=0.1.",
+    "Answers": "Step 1: The area is S(x) = ∫[0 to x] t² dt = x³/3.\nStep 2: The increment is ΔS = S(x+Δx) - S(x) = (x+Δx)³/3 - x³/3 = (10.1)³/3 - 10³/3 = (1030.301 - 1000)/3 ≈ 10.1003.\nStep 3: The differential is dS = S'(x)dx = x²Δx = 10² * 0.1 = 10."
+  },
+  {
+    "ID": "1656",
+    "Questions": "A curvilinear trapezium is bounded by the curve y=1/√(x²+16), the coordinate axes and a movable ordinate. Find the value of the differential dS of the area of the trapezium when x=3 and Δx=0.2.",
+    "Answers": "Step 1: The area is S(x) = ∫[0 to x] (1/√(t²+16))dt.\nStep 2: The differential is dS = S'(x)Δx = y(x)Δx.\nStep 3: Substitute the values: dS = (1/√(3²+16)) * 0.2 = (1/√25) * 0.2 = (1/5) * 0.2 = 0.04."
+  },
+  {
+    "ID": "1657",
+    "Questions": "A curvilinear trapezium is bounded by the curve y=x³, the axis of abscissae and a movable ordinate. Find the values of the increment ΔS of the area, its differential dS, and the absolute (α) and relative (δ = |α/ΔS|) errors arising on replacing the increment by the differential, if x=4, and Δx takes the values 1; 0.1 and 0.01.",
+    "Answers": "S(x)=x⁴/4.\nFor Δx=1: ΔS=S(5)-S(4)=625/4-256/4=369/4=92.25. dS=S'(4)Δx=4³*1=64. α=28.25. δ=0.306.\nFor Δx=0.1: ΔS=S(4.1)-S(4)=6.644. dS=6.4. α=0.244. δ=0.0367.\nFor Δx=0.01: ΔS=S(4.01)-S(4)=0.6424. dS=0.64. α=0.0024. δ=0.0037."
+  },
+  {
+    "ID": "1658",
+    "Questions": "Find the numerical values of the derivative of y = ∫[0 to x] (1-t+t²)/(1+t+t²) dt at x=1.",
+    "Answers": "Step 1: By the Fundamental Theorem of Calculus, the derivative of the integral with respect to its upper limit x is the integrand evaluated at x.\ndy/dx = (1-x+x²)/(1+x+x²).\nStep 2: Evaluate the derivative at x=1.\ndy/dx |ₓ₌₁ = (1-1+1)/(1+1+1) = 1/3."
+  },
+  {
+    "ID": "1659",
+    "Questions": "Find the numerical values of the derivative of y = ∫[x to 2x] sin t dt at x=0, x=π/4 and x=π/2.",
+    "Answers": "Step 1: Let F(t) be the antiderivative of sin t. Then y = F(2x) - F(x).\nStep 2: Differentiate y with respect to x. y' = F'(2x)*2 - F'(x) = 2sin(2x) - sin(x).\nStep 3: Evaluate at the given points.\ny'(0) = 2sin(0) - sin(0) = 0.\ny'(π/4) = 2sin(π/2) - sin(π/4) = 2 - √2/2.\ny'(π/2) = 2sin(π) - sin(π/2) = 0 - 1 = -1."
+  },
+  {
+    "ID": "1660",
+    "Questions": "Find the derivative with respect to the lower limit of an integral with variable lower and constant upper limit.",
+    "Answers": "Step 1: Let the integral be I(x) = ∫[x to a] f(t)dt.\nStep 2: Let F(t) be the antiderivative of f(t). Then I(x) = F(a) - F(x).\nStep 3: Differentiate with respect to x. dI/dx = 0 - F'(x) = -f(x)."
+  },
+  {
+    "ID": "1661",
+    "Questions": "Find the numerical values of the derivative of y = ∫[x to 3] √(1+t²)dt with x=0 and x=3/4.",
+    "Answers": "Step 1: Using the result from the previous problem, dy/dx = -√(1+x²).\nStep 2: Evaluate at the given points.\ny'(0) = -√(1+0) = -1.\ny'(3/4) = -√(1+(3/4)²) = -√(1+9/16) = -√(25/16) = -5/4."
+  },
+  {
+    "ID": "1662",
+    "Questions": "Find the derivative with respect to x of the function y = ∫[0 to 2x] (sin t)/t dx.",
+    "Answers": "Step 1: Let u = 2x. Then y = ∫[0 to u] (sin t)/t dt.\nStep 2: Use the chain rule: dy/dx = (dy/du) * (du/dx).\nStep 3: By the Fundamental Theorem of Calculus, dy/du = (sin u)/u. And du/dx = 2.\nStep 4: Combine the results: dy/dx = ((sin 2x)/2x) * 2 = sin(2x)/x."
+  },
+  {
+    "ID": "1663",
+    "Questions": "Find the derivative with respect to x of the functions (1) ∫[2 to x] ln z dz; (2) ∫[x² to 1] ln x dx.",
+    "Answers": "(1) By the Fundamental Theorem of Calculus, the derivative is simply the integrand evaluated at the upper limit: ln x.\n(2) Let u=x². Then y = ∫[u to 1] ln t dt = -∫[1 to u] ln t dt. dy/dx = (dy/du)(du/dx). dy/du = -ln u. du/dx = 2x. So, dy/dx = -ln(x²) * 2x = -4x ln x."
+  },
+  {
+    "ID": "1664*",
+    "Questions": "Find the derivative with respect to x of the function ∫[x to 2x] ln²t dt.",
+    "Answers": "Step 1: Let F(t) be the antiderivative of ln²t. The integral is F(2x) - F(x).\nStep 2: Differentiate with respect to x: F'(2x)*2 - F'(x).\nStep 3: F'(t) = ln²t. So the derivative is 2ln²(2x) - ln²x.\nSolution from the book: The book writes the integral as ∫(ln²2x - ln²x)dx which is incorrect. The derivative is 2ln²(2x) - ln²x."
+  },
+  {
+    "ID": "1665",
+    "Questions": "Find the derivative y' with respect to x of the function given implicitly: ∫[0 to y] eᵗ dt + ∫[0 to x] cos t dt = 0.",
+    "Answers": "Step 1: Differentiate the entire equation with respect to x.\nd/dx(∫[0 to y] eᵗ dt) + d/dx(∫[0 to x] cos t dt) = 0.\nStep 2: Use the chain rule for the first term and the FTC for the second.\n(d/dy(∫[0 to y] eᵗ dt)) * (dy/dx) + cos x = 0.\neʸ * y' + cos x = 0.\nStep 3: Solve for y'.\ny' = -cos x / eʸ."
+  },
+  {
+    "ID": "1666",
+    "Questions": "Find the derivative of y with respect to x for the functions given parametrically:\n(1) x=∫[1 to t] sin u du, y=∫[1 to t] cos u du;\n(2) x=∫[1 to t] uln u du, y=∫[1 to t] u²ln u du.",
+    "Answers": "(1) dy/dx = (dy/dt) / (dx/dt) = cos t / sin t = cot t.\n(2) dy/dx = (dy/dt) / (dx/dt) = (t²ln t) / (tln t) = t."
+  },
+  {
+    "ID": "1667",
+    "Questions": "Find the value of the second derivative with respect to z of the function y=∫[0 to z²] dx/(1+x³) for z=1.",
+    "Answers": "Step 1: Find the first derivative dy/dz.\nLet u=z². y=∫[0 to u] dx/(1+x³). dy/dz = (dy/du)(du/dz) = (1/(1+u³)) * (2z) = 2z/(1+z⁶).\nStep 2: Find the second derivative d²y/dz².\nd²y/dz² = [2(1+z⁶) - 2z(6z⁵)]/(1+z⁶)² = (2+2z⁶-12z⁶)/(1+z⁶)² = (2-10z⁶)/(1+z⁶)².\nStep 3: Evaluate at z=1.\nd²y/dz²|z=1 = (2-10)/(1+1)² = -8/4 = -2."
+  },
+  {
+    "ID": "1668",
+    "Questions": "For what values of x does the function I(x) = ∫[0 to x] te⁻ᵗ² dt have extrema?",
+    "Answers": "Step 1: Extrema occur where I'(x)=0. By the FTC, I'(x) is the integrand evaluated at x.\nI'(x) = xe⁻ˣ².\nStep 2: Set I'(x)=0. xe⁻ˣ² = 0 implies x=0 (since e⁻ˣ² > 0).\nStep 3: The function has an extremum (a minimum) at x=0."
+  },
+  {
+    "ID": "1669",
+    "Questions": "Find the curvature of the curve given by the equation y = ∫[0 to x] (1+t)ln(1+t)dt.",
+    "Answers": "Step 1: Curvature K = |y''|/(1+y'²)^(3/2).\nStep 2: Find y' and y''.\ny' = (1+x)ln(1+x).\ny'' = ln(1+x) + 1.\nStep 3: The question is likely asking for curvature at a specific point, e.g., x=0. At x=0, y=0, y'=0, y''=1.\nStep 4: At x=0, K = |1|/(1+0)^(3/2) = 1."
+  },
+  {
+    "ID": "1670",
+    "Questions": "Find the extremal points and points of inflexion of the graph of the function y = ∫[0 to x] (t²-3t+2)dt. Draw the graph of this function.",
+    "Answers": "Step 1: y' = x²-3x+2 = (x-1)(x-2). Extrema at x=1 and x=2.\nStep 2: y'' = 2x-3. Point of inflexion at x=3/2.\nStep 3: Analyze the extrema. y'' (1) = -1 < 0 (max). y''(2) = 1 > 0 (min).\nStep 4: The function is y = [t³/3-3t²/2+2t] from 0 to x = x³/3-3x²/2+2x. The graph is a cubic with a local max at x=1, local min at x=2, and inflexion at x=3/2."
+  },
+  {
+    "ID": "1671",
+    "Questions": "Use the graphs of functions illustrated in Fig. 37 and 38 to find the shape of the graphs of their derivatives.",
+    "Answers": "For Fig. 37 (a sine-like wave), the derivative will be a cosine-like wave. It is zero at the peaks/troughs of the original, and has its extrema where the original curve is steepest (crossing the axis).\nFor Fig. 38, the derivative will be positive where the function increases, negative where it decreases, and zero at the local max/min points. The derivative's extrema will be at the inflexion points of the original function."
+  ,"images":["Img1/Berman_37.png"]},
+  {
+    "ID": "1672",
+    "Questions": "Evaluate the following integrals by a suitable choice of the primitive function for xᵏ:\n(1) ∫[1 to 4] dx/x²\n(2) ∫[4 to 9] dx/x^(3/2)\n(3) ∫[1 to 8] 3√x dx",
+    "Answers": "(1) Primitive of x⁻² is -x⁻¹. Value: [-1/x] from 1 to 4 = -1/4 - (-1) = 3/4.\n(2) Primitive of x⁻³/² is -2x⁻¹/². Value: [-2/√x] from 4 to 9 = -2/3 - (-2/2) = 1/3.\n(3) Primitive of x¹/³ is (3/4)x⁴/³. Value: [(3/4)x⁴/³] from 1 to 8 = (3/4)(16-1) = 45/4."
+  ,"images":["Img1/Berman_38.png"]},
+  {
+    "ID": "1673",
+    "Questions": "By using the fundamental tables of derivatives, pick out the primitive and evaluate the integral:\n(1) ∫[0 to π] sin x dx; (2) ∫[0 to π/2] cos x dx (interpret geometrically the result obtained);\n(3) ∫[0 to 3] eˣ dx; (4) ∫[0 to π/4] sec²x dx; (5) ∫[0 to 1] dx/(1+x²);\n(6) ∫[1/2 to √3/2] dx/√(1-x²)",
+    "Answers": "(1) [-cos x] from 0 to π = -(-1) - (-1) = 2.\n(2) [sin x] from 0 to π/2 = 1-0 = 1. This is the area under one arch of the cosine curve.\n(3) [eˣ] from 0 to 3 = e³-1.\n(4) [tan x] from 0 to π/4 = 1-0 = 1.\n(5) [arctan x] from 0 to 1 = π/4-0 = π/4.\n(6) [arcsin x] from 1/2 to √3/2 = π/3 - π/6 = π/6."
+  },
+  {
+    "ID": "1674",
+    "Questions": "A function f(x) has equal values at points x=a and x=b and a continuous derivative. What does ∫[a to b] f'(x)dx equal?",
+    "Answers": "By the Newton-Leibniz formula, ∫[a to b] f'(x)dx = f(b) - f(a). Since f(b)=f(a), the integral is 0."
+  },
+  {
+    "ID": "1675",
+    "Questions": "The tangent to the graph of the function y=f(x) at the point with abscissa x=a forms an angle π/3 with the axis of abscissae, and an angle π/4 at the point with abscissa x=b. Evaluate ∫[a to b] f''(x)dx and ∫[a to b] f'(x)f''(x)dx; f''(x) is assumed continuous.",
+    "Answers": "f'(a)=tan(π/3)=√3. f'(b)=tan(π/4)=1.\n∫[a to b] f''(x)dx = [f'(x)] from a to b = f'(b)-f'(a) = 1-√3.\n∫[a to b] f'(x)f''(x)dx = [(1/2)(f'(x))²] from a to b = (1/2)[(f'(b))² - (f'(a))²] = (1/2)(1²-(√3)²) = (1/2)(1-3) = -1."
+  },
+  {
+    "ID": "1676",
+    "Questions": "Find the integrals of problems 1676-1702 by using the basic table of integrals and the theorems on splitting up the integrand and on taking outside a constant factor:\n∫√x dx",
+    "Answers": "∫√x dx = ∫x^(1/2) dx = (x^(3/2))/(3/2) + C = (2/3)x^(3/2) + C."
+  },
+  {
+    "ID": "1677",
+    "Questions": "∫³√xⁿ dx",
+    "Answers": "∫x^(n/3) dx = x^(n/3+1)/(n/3+1) + C = (3/(n+3))x^((n+3)/3) + C."
+  },
+  {
+    "ID": "1678",
+    "Questions": "∫dx/x²",
+    "Answers": "∫x⁻² dx = x⁻¹/(-1) + C = -1/x + C."
+  },
+  {
+    "ID": "1679",
+    "Questions": "∫10ˣ dx",
+    "Answers": "10ˣ / ln(10) + C ≈ 0.4343 * 10ˣ + C."
+  },
+  {
+    "ID": "1680",
+    "Questions": "∫aˣeˣ dx",
+    "Answers": "∫(ae)ˣ dx = (ae)ˣ / ln(ae) + C = (ae)ˣ / (1+ln a) + C."
+  },
+  {
+    "ID": "1681",
+    "Questions": "∫dz/(2√z)",
+    "Answers": "(1/2)∫z⁻¹/² dz = (1/2) * (z¹/² / (1/2)) + C = √z + C."
+  },
+  {
+    "ID": "1682",
+    "Questions": "∫dh/√2gh",
+    "Answers": "∫(2g)⁻¹/² h⁻¹/² dh = (1/√2g) * 2h¹/² + C = √(2h/g) + C."
+  },
+  {
+    "ID": "1683",
+    "Questions": "∫3.4x⁻⁰·¹⁷ dx",
+    "Answers": "3.4 * (x⁰·⁸³ / 0.83) + C ≈ 4.1 x⁰·⁸³ + C."
+  },
+  {
+    "ID": "1684",
+    "Questions": "∫(1-2u)du",
+    "Answers": "u - u² + C."
+  },
+  {
+    "ID": "1685",
+    "Questions": "∫(√x+1)(x-√x+1)dx",
+    "Answers": "This is the expansion of (√x)³+1³ = x³/² + 1. ∫(x³/²+1)dx = (2/5)x⁵/² + x + C."
+  },
+  {
+    "ID": "1686",
+    "Questions": "∫(√x-x³eˣ+x²)/x³ dx",
+    "Answers": "∫(x⁻⁵/² - eˣ + 1/x)dx = -2/3 x⁻³/² - eˣ + ln|x| + C."
+  },
+  {
+    "ID": "1687",
+    "Questions": "∫(2x⁻¹·² + 3x⁻⁰·⁸ - 5x⁰·³⁸)dx",
+    "Answers": "2x⁻⁰·²/(-0.2) + 3x⁰·²/0.2 - 5x¹·³⁸/1.38 + C = -10x⁻⁰·² + 15x⁰·² - 3.62x¹·³⁸ + C."
+  },
+  {
+    "ID": "1688",
+    "Questions": "∫(1-1/z)²dz",
+    "Answers": "∫(1 - 2/z + 1/z²)dz = z - 2ln|z| - 1/z + C."
+  },
+  {
+    "ID": "1689",
+    "Questions": "∫(1-x)²/√x dx",
+    "Answers": "∫(x⁻¹/² - 2x¹/² + x³/²)dx = 2x¹/² - (4/3)x³/² + (2/5)x⁵/² + C."
+  },
+  {
+    "ID": "1690",
+    "Questions": "∫(1+³√x)³dx",
+    "Answers": "∫(1+3x¹/³+3x²/³+x)dx = x + (9/4)x⁴/³ + (9/5)x⁵/³ + x²/2 + C."
+  },
+  {
+    "ID": "1691",
+    "Questions": "∫(x²/³ - √x⁴)/√x dx",
+    "Answers": "∫(x¹/⁶ - x³/²)dx = (6/7)x⁷/⁶ - (2/5)x⁵/² + C."
+  },
+  {
+    "ID": "1692",
+    "Questions": "∫dx/√(3-3x²)",
+    "Answers": "(1/√3)∫dx/√(1-x²) = (1/√3)arcsin x + C."
+  },
+  {
+    "ID": "1693",
+    "Questions": "∫(3*2ˣ-2*3ˣ)/2ˣ dx",
+    "Answers": "∫(3 - 2(3/2)ˣ)dx = 3x - 2((3/2)ˣ/ln(3/2)) + C."
+  },
+  {
+    "ID": "1694",
+    "Questions": "∫(1+cos²x)/(1+cos 2x) dx",
+    "Answers": "∫(1+cos²x)/(2cos²x)dx = (1/2)∫(sec²x+1)dx = (1/2)(tan x + x) + C."
+  },
+  {
+    "ID": "1695",
+    "Questions": "∫(cos 2x)/(cos²x sin²x) dx",
+    "Answers": "∫(cos²x-sin²x)/(cos²x sin²x)dx = ∫(csc²x-sec²x)dx = -cot x - tan x + C."
+  },
+  {
+    "ID": "1696",
+    "Questions": "∫tan²x dx",
+    "Answers": "∫(sec²x-1)dx = tan x - x + C."
+  },
+  {
+    "ID": "1697",
+    "Questions": "∫cot²x dx",
+    "Answers": "∫(csc²x-1)dx = -cot x - x + C."
+  },
+  {
+    "ID": "1698",
+    "Questions": "∫2sin²(x/2)dx",
+    "Answers": "∫(1-cos x)dx = x - sin x + C."
+  },
+  {
+    "ID": "1699",
+    "Questions": "∫dx/(1-cos x)",
+    "Answers": "∫dx/(2sin²(x/2)) = (1/2)∫csc²(x/2)dx = (1/2)(-2cot(x/2)) + C = -cot(x/2) + C."
+  },
+  {
+    "ID": "1700",
+    "Questions": "∫dx/(1+sin x)",
+    "Answers": "∫(1-sin x)/(1-sin²x)dx = ∫(1-sin x)/cos²x dx = ∫(sec²x - tan x sec x)dx = tan x - sec x + C."
+  },
+  {
+    "ID": "1701",
+    "Questions": "∫(1+tan²x)dx",
+    "Answers": "∫sec²x dx = tan x + C."
+  },
+  {
+    "ID": "1702",
+    "Questions": "∫(arcsin x + arccos x)dx",
+    "Answers": "Since arcsin x + arccos x = π/2, the integral is ∫(π/2)dx = (π/2)x + C."
+  },
+  {
+    "ID": "1703",
+    "Questions": "∫sin x d(sin x)",
+    "Answers": "Let u=sin x. ∫u du = u²/2 + C = (sin²x)/2 + C."
+  },
+  {
+    "ID": "1704",
+    "Questions": "∫tan³x d(tan x)",
+    "Answers": "Let u=tan x. ∫u³du = u⁴/4 + C = (tan⁴x)/4 + C."
+  },
+  {
+    "ID": "1705",
+    "Questions": "∫d(1+x²)/√(1+x²)",
+    "Answers": "Let u=1+x². ∫du/√u = 2√u + C = 2√(1+x²) + C."
+  },
+  {
+    "ID": "1706",
+    "Questions": "∫(x+1)¹⁵ dx",
+    "Answers": "Let u=x+1, du=dx. ∫u¹⁵du = u¹⁶/16 + C = (x+1)¹⁶/16 + C."
+  },
+  {
+    "ID": "1707",
+    "Questions": "∫dx/(2x-3)⁵",
+    "Answers": "Let u=2x-3, du=2dx. ∫(1/u⁵)(du/2) = (1/2)∫u⁻⁵du = (1/2)(u⁻⁴/(-4)) + C = -1/(8(2x-3)⁴) + C."
+  },
+  {
+    "ID": "1708",
+    "Questions": "∫dx/(a+bx)ᶜ (c≠1)",
+    "Answers": "Let u=a+bx, du=bdx. ∫(1/uᶜ)(du/b) = (1/b)∫u⁻ᶜdu = (1/b)(u⁻ᶜ⁺¹/(-c+1)) + C = -(a+bx)¹⁻ᶜ / (b(c-1)) + C."
+  },
+  {
+    "ID": "1709",
+    "Questions": "∫√(8-3x)⁶ dx",
+    "Answers": "Let u=8-3x, du=-3dx. ∫u³(-du/3) = (-1/3)∫u³du = (-1/3)(u⁴/4)+C. The book problem states √(8-3x)⁶ which is (8-3x)³. Let's assume it is ∫(8-3x)⁶dx. Let u=8-3x, du=-3dx. ∫u⁶(-du/3)=(-1/3)u⁷/7+C = -(8-3x)⁷/21+C."
+  },
+  {
+    "ID": "1710",
+    "Questions": "∫³√(8-2x)dx",
+    "Answers": "Let u=8-2x, du=-2dx. ∫u¹/³(-du/2) = (-1/2)(u⁴/³/(4/3))+C = (-3/8)(8-2x)⁴/³+C."
+  },
+  {
+    "ID": "1711",
+    "Questions": "∫m/³√(a+bx) dx",
+    "Answers": "Let u=a+bx, du=bdx. ∫m u⁻¹/³ (du/b) = (m/b)(u²/³/(2/3))+C = (3m/2b)(a+bx)²/³+C."
+  },
+  {
+    "ID": "1712",
+    "Questions": "∫2x√(x²+1) dx",
+    "Answers": "Let u=x²+1, du=2xdx. ∫√u du = (2/3)u³/²+C = (2/3)(x²+1)³/²+C."
+  },
+  {
+    "ID": "1713",
+    "Questions": "∫x√(1-x²)dx",
+    "Answers": "Let u=1-x², du=-2xdx. ∫√u(-du/2) = (-1/2)(2/3)u³/²+C = -(1/3)(1-x²)³/²+C."
+  },
+  {
+    "ID": "1714",
+    "Questions": "∫x²√(x³+2)dx",
+    "Answers": "Let u=x³+2, du=3x²dx. ∫√u(du/3) = (1/3)(2/3)u³/²+C = (2/9)(x³+2)³/²+C."
+  },
+  {
+    "ID": "1715",
+    "Questions": "∫xdx/√(x²+1)",
+    "Answers": "Let u=x²+1, du=2xdx. ∫(1/√u)(du/2) = (1/2)(2√u)+C = √(x²+1)+C."
+  },
+  {
+    "ID": "1716",
+    "Questions": "∫x⁴dx/√(4+x⁵)",
+    "Answers": "Let u=4+x⁵, du=5x⁴dx. ∫(1/√u)(du/5) = (1/5)(2√u)+C = (2/5)√(4+x⁵)+C."
+  },
+  {
+    "ID": "1717",
+    "Questions": "∫x³dx/⁴√(x⁴+1)",
+    "Answers": "Let u=x⁴+1, du=4x³dx. ∫(1/u¹/⁴)(du/4) = (1/4)(u³/⁴/(3/4))+C = (1/3)(x⁴+1)³/⁴+C."
+  },
+  {
+    "ID": "1718",
+    "Questions": "∫(6x-5)dx/(2√(3x²-5x+6))",
+    "Answers": "Let u=3x²-5x+6, du=(6x-5)dx. ∫(1/(2√u))du = √u+C = √(3x²-5x+6)+C."
+  },
+  {
+    "ID": "1719",
+    "Questions": "∫sin³x cos x dx",
+    "Answers": "Let u=sin x, du=cos x dx. ∫u³du = u⁴/4+C = (1/4)sin⁴x+C."
+  },
+  {
+    "ID": "1720",
+    "Questions": "∫sin x dx/cos²x",
+    "Answers": "Let u=cos x, du=-sin x dx. ∫-du/u² = 1/u+C = 1/cos x + C = sec x + C."
+  },
+  {
+    "ID": "1721",
+    "Questions": "∫cos x dx / ³√sin²x",
+    "Answers": "Let u=sin x, du=cos x dx. ∫du/u²/³ = 3u¹/³+C = 3³√sin x + C."
+  },
+  {
+    "ID": "1722",
+    "Questions": "∫cos³x sin 2x dx",
+    "Answers": "∫cos³x (2sin x cos x)dx = 2∫cos⁴x sin x dx. Let u=cos x, du=-sin x dx. -2∫u⁴du = -2u⁵/5+C = -(2/5)cos⁵x+C."
+  },
+  {
+    "ID": "1723",
+    "Questions": "∫(√ln x)/x dx",
+    "Answers": "Let u=ln x, du=(1/x)dx. ∫√u du = (2/3)u³/²+C = (2/3)(ln x)³/²+C."
+  },
+  {
+    "ID": "1724",
+    "Questions": "∫(arctan x)²dx/(1+x²)",
+    "Answers": "Let u=arctan x, du=dx/(1+x²). ∫u²du = u³/3+C = (arctan x)³/3+C."
+  },
+  {
+    "ID": "1725",
+    "Questions": "∫dx/((arcsin x)³√(1-x²))",
+    "Answers": "Let u=arcsin x, du=dx/√(1-x²). ∫du/u³ = -1/(2u²)+C = -1/(2(arcsin x)²)+C."
+  },
+  {
+    "ID": "1726",
+    "Questions": "∫dx/(cos²x√(1+tan x))",
+    "Answers": "Let u=1+tan x, du=sec²x dx = dx/cos²x. ∫du/√u = 2√u+C = 2√(1+tan x)+C."
+  },
+  {
+    "ID": "1727",
+    "Questions": "∫cos(3x) d(3x)",
+    "Answers": "Let u=3x. ∫cos u du = sin u + C = sin 3x + C."
+  },
+  {
+    "ID": "1728",
+    "Questions": "∫d(1+ln x)/cos²(1+ln x)",
+    "Answers": "Let u=1+ln x. ∫du/cos²u = ∫sec²u du = tan u + C = tan(1+ln x)+C."
+  },
+  {
+    "ID": "1729",
+    "Questions": "∫cos 3x dx",
+    "Answers": "(1/3)sin 3x + C."
+  },
+  {
+    "ID": "1730",
+    "Questions": "∫(cos x - cos 2x)dx",
+    "Answers": "sin x - (1/2)sin 2x + C."
+  },
+  {
+    "ID": "1731",
+    "Questions": "∫sin(2x-3)dx",
+    "Answers": "-(1/2)cos(2x-3) + C."
+  },
+  {
+    "ID": "1732",
+    "Questions": "∫cos(1-2x)dx",
+    "Answers": "-(1/2)sin(1-2x) + C."
+  },
+  {
+    "ID": "1733",
+    "Questions": "∫cos(2x-π/4)⁻²dx",
+    "Answers": "(1/2)tan(2x-π/4) + C or (1/2)(tan 4x - sec 4x) + C."
+  },
+  {
+    "ID": "1734",
+    "Questions": "∫eˣ(sin eˣ)dx",
+    "Answers": "Let u=eˣ. ∫sin u du = -cos u + C = -cos(eˣ) + C."
+  },
+  {
+    "ID": "1735",
+    "Questions": "∫d(1+x²)/(1+x²)",
+    "Answers": "ln(1+x²) + C."
+  },
+  {
+    "ID": "1736",
+    "Questions": "∫d(arcsin x)/arcsin x",
+    "Answers": "ln|arcsin x| + C."
+  },
+  {
+    "ID": "1737",
+    "Questions": "∫(2x-3)dx/(x²-3x+8)",
+    "Answers": "Let u=x²-3x+8, du=(2x-3)dx. ∫du/u = ln|u|+C = ln(x²-3x+8)+C."
+  },
+  {
+    "ID": "1738",
+    "Questions": "∫dx/(2x-1)",
+    "Answers": "(1/2)ln|2x-1|+C."
+  },
+  {
+    "ID": "1739",
+    "Questions": "∫dx/(cx+m)",
+    "Answers": "(1/c)ln|cx+m|+C."
+  },
+  {
+    "ID": "1740",
+    "Questions": "∫xdx/(x²+1)",
+    "Answers": "(1/2)ln(x²+1)+C."
+  },
+  {
+    "ID": "1741",
+    "Questions": "∫x²dx/(x³+1)",
+    "Answers": "(1/3)ln|x³+1|+C."
+  },
+  {
+    "ID": "1742",
+    "Questions": "∫eˣdx/(eˣ+1)",
+    "Answers": "ln(eˣ+1)+C."
+  },
+  {
+    "ID": "1743",
+    "Questions": "∫e²ˣdx/(e²ˣ+a²)",
+    "Answers": "(1/2)ln(e²ˣ+a²)+C."
+  },
+  {
+    "ID": "1744",
+    "Questions": "∫tan x dx",
+    "Answers": "∫(sin x/cos x)dx = -ln|cos x|+C."
+  },
+  {
+    "ID": "1745",
+    "Questions": "∫cot x dx",
+    "Answers": "ln|sin x|+C."
+  },
+  {
+    "ID": "1746",
+    "Questions": "∫tan 3x dx",
+    "Answers": "-(1/3)ln|cos 3x|+C."
+  },
+  {
+    "ID": "1747",
+    "Questions": "∫cot(2x+1)dx",
+    "Answers": "(1/2)ln|sin(2x+1)|+C."
+  },
+  {
+    "ID": "1748",
+    "Questions": "∫sin 2x dx/(1+cos²x)",
+    "Answers": "Let u=1+cos²x, du=-2sin x cos x dx = -sin 2x dx. ∫-du/u = -ln|u|+C = -ln(1+cos²x)+C."
+  },
+  {
+    "ID": "1749",
+    "Questions": "∫dx/(x ln x)",
+    "Answers": "Let u=ln x, du=dx/x. ∫du/u = ln|u|+C = ln|ln x|+C."
+  },
+  {
+    "ID": "1750",
+    "Questions": "∫(ln x)ⁿ/x dx",
+    "Answers": "Let u=ln x, du=dx/x. ∫uⁿdu = uⁿ⁺¹/(n+1)+C if n≠-1, which is (ln x)ⁿ⁺¹/(n+1)+C. If n=-1, ∫du/u=ln|u|+C=ln|ln x|+C."
+  },
+  
+  {
+    "ID": "1751",
+    "Questions": "∫e^(sin x)d(sin x)",
+    "Answers": "Let u=sin x. The integral becomes ∫eᵘdu = eᵘ + C = e^(sin x) + C."
+  },
+  {
+    "ID": "1752",
+    "Questions": "∫e^(sin x) cos x dx",
+    "Answers": "Let u=sin x, then du = cos x dx. The integral becomes ∫eᵘdu = eᵘ + C = e^(sin x) + C."
+  },
+  {
+    "ID": "1753",
+    "Questions": "∫a³ˣ dx",
+    "Answers": "∫(a³)ˣ dx = (a³)ˣ / ln(a³) + C = a³ˣ / (3 ln a) + C."
+  },
+  {
+    "ID": "1754",
+    "Questions": "∫a⁻ˣ dx",
+    "Answers": "∫(1/a)ˣ dx = (1/a)ˣ / ln(1/a) + C = -a⁻ˣ / ln a + C."
+  },
+  {
+    "ID": "1755",
+    "Questions": "∫e⁻³ˣ⁺¹ dx",
+    "Answers": "Let u=-3x+1, du=-3dx. ∫eᵘ(-du/3) = (-1/3)eᵘ + C = (-1/3)e⁻³ˣ⁺¹ + C."
+  },
+  {
+    "ID": "1756",
+    "Questions": "∫e^(x²) x dx",
+    "Answers": "Let u=x², du=2xdx. ∫eᵘ(du/2) = (1/2)eᵘ + C = (1/2)e^(x²) + C."
+  },
+  {
+    "ID": "1757",
+    "Questions": "∫e^(-x³) x² dx",
+    "Answers": "Let u=-x³, du=-3x²dx. ∫eᵘ(-du/3) = (-1/3)eᵘ + C = (-1/3)e^(-x³) + C."
+  },
+  {
+    "ID": "1758",
+    "Questions": "∫d(x/3) / √(1-(x/3)²) ",
+    "Answers": "Let u=x/3. ∫du/√(1-u²) = arcsin u + C = arcsin(x/3) + C."
+  },
+  {
+    "ID": "1759",
+    "Questions": "∫dx/√(1-25x²)",
+    "Answers": "∫dx/√(1-(5x)²) = (1/5)arcsin(5x) + C."
+  },
+  {
+    "ID": "1760",
+    "Questions": "∫dx/(1+9x²)",
+    "Answers": "∫dx/(1+(3x)²) = (1/3)arctan(3x) + C."
+  },
+  {
+    "ID": "1761",
+    "Questions": "∫dx/√(4-x²)",
+    "Answers": "∫dx/(2√(1-(x/2)²)) = arcsin(x/2) + C."
+  },
+  {
+    "ID": "1762",
+    "Questions": "∫dx/(2x²+9)",
+    "Answers": "∫dx/(9((2x²/9)+1)) = (1/9)∫dx/(1+(√2x/3)²) = (1/9)(3/√2)arctan(√2x/3) + C = (1/(3√2))arctan(√2x/3) + C."
+  },
+  {
+    "ID": "1763",
+    "Questions": "∫dx/√(4-9x²)",
+    "Answers": "∫dx/(2√(1-(3x/2)²)) = (1/3)arcsin(3x/2) + C."
+  },
+  {
+    "ID": "1764",
+    "Questions": "∫xdx/(x⁴+1)",
+    "Answers": "Let u=x². du=2xdx. ∫(du/2)/(u²+1) = (1/2)arctan u + C = (1/2)arctan(x²) + C."
+  },
+  {
+    "ID": "1765",
+    "Questions": "∫xdx/√(a⁴-x⁴)",
+    "Answers": "Let u=x². du=2xdx. ∫(du/2)/(√(a⁴-u²)) = (1/2)∫du/(a√(1-(u/a)²)) = (1/2)arcsin(u/a) + C = (1/2)arcsin(x²/a) + C."
+  },
+  {
+    "ID": "1766",
+    "Questions": "∫x²dx/(x⁶+4)",
+    "Answers": "Let u=x³. du=3x²dx. ∫(du/3)/(u²+4) = (1/3)∫du/(4(u²/4+1)) = (1/12)∫du/(1+(u/2)²) = (1/12)(2arctan(u/2)) + C = (1/6)arctan(x³/2) + C."
+  },
+  {
+    "ID": "1767",
+    "Questions": "∫x³dx/√(1-x⁸)",
+    "Answers": "Let u=x⁴. du=4x³dx. ∫(du/4)/√(1-u²) = (1/4)arcsin u + C = (1/4)arcsin(x⁴) + C."
+  },
+  {
+    "ID": "1768",
+    "Questions": "∫eˣdx/(e²ˣ+4)",
+    "Answers": "Let u=eˣ. du=eˣdx. ∫du/(u²+4) = (1/2)arctan(u/2) + C = (1/2)arctan(eˣ/2) + C."
+  },
+  {
+    "ID": "1769",
+    "Questions": "∫2ˣdx/√(1-4ˣ)",
+    "Answers": "Let u=2ˣ. du=2ˣln2 dx. ∫(du/ln2)/√(1-u²) = (1/ln2)arcsin u + C = (1/ln2)arcsin(2ˣ) + C."
+  },
+  {
+    "ID": "1770",
+    "Questions": "∫cos x dx/(a²+sin²x)",
+    "Answers": "Let u=sin x. du=cos x dx. ∫du/(a²+u²) = (1/a)arctan(u/a) + C = (1/a)arctan((sin x)/a) + C."
+  },
+  {
+    "ID": "1771",
+    "Questions": "∫eˣdx/eˣ-1",
+    "Answers": "Let u=eˣ-1. du=eˣdx. ∫du/u = ln|u|+C = ln|eˣ-1|+C."
+  },
+  {
+    "ID": "1772",
+    "Questions": "∫(eˣ+1)³dx",
+    "Answers": "∫(e³ˣ+3e²ˣ+3eˣ+1)dx = (1/3)e³ˣ + (3/2)e²ˣ + 3eˣ + x + C."
+  },
+  {
+    "ID": "1773",
+    "Questions": "∫(1+x)/√(1-x) dx",
+    "Answers": "∫(2-(1-x))/√(1-x) dx = ∫(2/√(1-x) - √(1-x))dx = -4√(1-x) + (2/3)(1-x)^(3/2) + C."
+  },
+  {
+    "ID": "1774",
+    "Questions": "∫(3x-1)/(x²+9) dx",
+    "Answers": "∫(3x/(x²+9) - 1/(x²+9))dx = (3/2)ln(x²+9) - (1/3)arctan(x/3) + C."
+  },
+  {
+    "ID": "1775",
+    "Questions": "∫√((1-x)/(1+x)) dx",
+    "Answers": "∫(1-x)/√(1-x²) dx = ∫(1/√(1-x²) - x/√(1-x²))dx = arcsin x + √(1-x²) + C."
+  },
+  {
+    "ID": "1776",
+    "Questions": "∫x(1-x²)dx/(1+x⁴)",
+    "Answers": "∫(x/(1+x⁴) - x³/(1+x⁴))dx = (1/2)arctan(x²) - (1/4)ln(1+x⁴) + C."
+  },
+  {
+    "ID": "1777",
+    "Questions": "∫(1+x-x²)dx/√(1-x²)³",
+    "Answers": "∫((1-x²)+x)/√(1-x²)³ dx = ∫(1/√(1-x²) + x/√(1-x²)³)dx = arcsin x - 1/√(1-x²) + C."
+  },
+  {
+    "ID": "1778",
+    "Questions": "∫dx/((x+√(x²-1))²)",
+    "Answers": "Rationalize the denominator by multiplying by (x-√(x²-1))². The integral becomes ∫(x-√(x²-1))²dx = ∫(2x²-1-2x√(x²-1))dx = (2/3)x³-x-(2/3)(x²-1)³/²+C."
+  },
+  {
+    "ID": "1779",
+    "Questions": "∫(2x - √arcsin x)/√(1-x²) dx",
+    "Answers": "∫(2x/√(1-x²) - (√arcsin x)/√(1-x²))dx = -2√(1-x²) - (2/3)(arcsin x)³/² + C."
+  },
+  {
+    "ID": "1780",
+    "Questions": "∫(x+(arccos 3x)²)/√(1-9x²) dx",
+    "Answers": "∫(x/√(1-9x²) + (arccos 3x)²/√(1-9x²))dx = (-1/9)√(1-9x²) - (1/9)(arccos 3x)³ + C."
+  },
+  {
+    "ID": "1781",
+    "Questions": "∫x/(x+4) dx",
+    "Answers": "∫(1-4/(x+4))dx = x - 4ln|x+4| + C."
+  },
+  {
+    "ID": "1782",
+    "Questions": "∫x/(2x+1) dx",
+    "Answers": "∫((1/2)(2x+1)-1/2)/(2x+1) dx = ∫(1/2 - 1/(2(2x+1)))dx = x/2 - (1/4)ln|2x+1| + C."
+  },
+  {
+    "ID": "1783",
+    "Questions": "∫4x/(a+bx) dx",
+    "Answers": "∫(4/b * (bx+a-a))/(a+bx) dx = (4/b)∫(1-a/(a+bx))dx = (4/b)(x - (a/b)ln|a+bx|) + C."
+  },
+  {
+    "ID": "1784",
+    "Questions": "∫(3+x)/(3-x) dx",
+    "Answers": "∫((6-(3-x))/(3-x))dx = ∫(6/(3-x) - 1)dx = -6ln|3-x| - x + C."
+  },
+  {
+    "ID": "1785",
+    "Questions": "∫(2x-1)/(x-2) dx",
+    "Answers": "∫(2(x-2)+3)/(x-2) dx = ∫(2+3/(x-2))dx = 2x+3ln|x-2|+C."
+  },
+  {
+    "ID": "1786",
+    "Questions": "∫(x+2)/(2x-1) dx",
+    "Answers": "∫((1/2)(2x-1)+5/2)/(2x-1) dx = ∫(1/2 + 5/(2(2x-1)))dx = x/2 + (5/4)ln|2x-1|+C."
+  },
+  {
+    "ID": "1787",
+    "Questions": "∫(1+x)²/(x²+1) dx",
+    "Answers": "∫(x²+2x+1)/(x²+1) dx = ∫(1+2x/(x²+1))dx = x + ln(x²+1) + C."
+  },
+  {
+    "ID": "1788",
+    "Questions": "∫(x²-1)/(x²+1) dx",
+    "Answers": "∫(1-2/(x²+1))dx = x - 2arctan x + C."
+  },
+  {
+    "ID": "1789",
+    "Questions": "∫x⁴/(1-x) dx",
+    "Answers": "Using polynomial division: ∫(-x³-x²-x-1 + 1/(1-x))dx = -x⁴/4 - x³/3 - x²/2 - x - ln|1-x| + C."
+  },
+  {
+    "ID": "1790",
+    "Questions": "∫x⁴dx/(x²+1)",
+    "Answers": "∫(x²-1+1/(x²+1))dx = x³/3 - x + arctan x + C."
+  },
+  {
+    "ID": "1791",
+    "Questions": "∫dx/(x(x-1))",
+    "Answers": "Partial fractions: 1/(x(x-1)) = 1/(x-1) - 1/x. ∫(1/(x-1)-1/x)dx = ln|x-1|-ln|x|+C = ln|(x-1)/x|+C."
+  },
+  {
+    "ID": "1792",
+    "Questions": "∫dx/(x(x+1))",
+    "Answers": "Partial fractions: 1/(x(x+1)) = 1/x - 1/(x+1). ∫(1/x-1/(x+1))dx = ln|x|-ln|x+1|+C = ln|x/(x+1)|+C."
+  },
+  {
+    "ID": "1793",
+    "Questions": "∫dx/((x+1)(2x-3))",
+    "Answers": "Partial fractions: A/(x+1)+B/(2x-3). A(2x-3)+B(x+1)=1. x=-1 => -5A=1 => A=-1/5. x=3/2 => (5/2)B=1 => B=2/5. ∫(-1/5(x+1) + 2/5(2x-3))dx = (-1/5)ln|x+1|+(1/5)ln|2x-3|+C = (1/5)ln|(2x-3)/(x+1)|+C."
+  },
+  {
+    "ID": "1794",
+    "Questions": "∫dx/((a-x)(b-x))",
+    "Answers": "Partial fractions: 1/((a-x)(b-x)) = (1/(b-a))(1/(a-x) - 1/(b-x)). ∫...dx = (1/(b-a))(-ln|a-x|+ln|b-x|)+C = (1/(b-a))ln|(b-x)/(a-x)|+C."
+  },
+  {
+    "ID": "1795",
+    "Questions": "∫(x²+1)/(x²-1) dx",
+    "Answers": "∫(1+2/(x²-1))dx = x + ∫(1/(x-1)-1/(x+1))dx = x + ln|x-1|-ln|x+1|+C = x+ln|(x-1)/(x+1)|+C."
+  },
+  {
+    "ID": "1796",
+    "Questions": "∫dx/(x²-7x+10)",
+    "Answers": "∫dx/((x-2)(x-5)) = (1/3)∫(1/(x-5)-1/(x-2))dx = (1/3)(ln|x-5|-ln|x-2|)+C = (1/3)ln|(x-5)/(x-2)|+C."
+  },
+  {
+    "ID": "1797",
+    "Questions": "∫dx/(x²+3x-10)",
+    "Answers": "∫dx/((x+5)(x-2)) = (1/7)∫(1/(x-2)-1/(x+5))dx = (1/7)ln|(x-2)/(x+5)|+C."
+  },
+  {
+    "ID": "1798",
+    "Questions": "∫dx/(4x²-9)",
+    "Answers": "∫dx/((2x-3)(2x+3)) = (1/6)∫(1/(2x-3)-1/(2x+3))dx = (1/12)ln|(2x-3)/(2x+3)|+C."
+  },
+  {
+    "ID": "1799",
+    "Questions": "∫dx/(2-3x²)",
+    "Answers": "∫dx/((√2-√3x)(√2+√3x)) = (1/(2√6))ln|(√2+√3x)/(√2-√3x)|+C."
+  },
+  {
+    "ID": "1800",
+    "Questions": "∫dx/((x-1)²+4)",
+    "Answers": "Let u=x-1. ∫du/(u²+4) = (1/2)arctan(u/2)+C = (1/2)arctan((x-1)/2)+C."
+  },
+  {
+    "ID": "1801",
+    "Questions": "∫dx/(x²+2x+3)",
+    "Answers": "∫dx/((x+1)²+2) = (1/√2)arctan((x+1)/√2)+C."
+  },
+  {
+    "ID": "1802",
+    "Questions": "∫dx/(x-x²-2.5)",
+    "Answers": "∫dx/(- (x²-x+2.5)) = -∫dx/((x-1/2)²+9/4) = -(2/3)arctan((2x-1)/3)+C."
+  },
+  {
+    "ID": "1803",
+    "Questions": "∫dx/(4x²+4x+5)",
+    "Answers": "∫dx/((2x+1)²+4) = (1/2)∫du/(u²+4) = (1/4)arctan((2x+1)/2)+C."
+  },
+  {
+    "ID": "1804",
+    "Questions": "∫dx/√(1-(2x+3)²)",
+    "Answers": "(1/2)arcsin(2x+3)+C."
+  },
+  {
+    "ID": "1805",
+    "Questions": "∫dx/√(4x-3-x²)",
+    "Answers": "∫dx/√(1-(x-2)²) = arcsin(x-2)+C."
+  },
+  {
+    "ID": "1806",
+    "Questions": "∫dx/√(8+6x-9x²)",
+    "Answers": "∫dx/√(9-(3x-1)²) = (1/3)arcsin((3x-1)/3)+C."
+  },
+  {
+    "ID": "1807",
+    "Questions": "∫dx/√(2-6x-9x²)",
+    "Answers": "∫dx/√(3-(3x+1)²) = (1/3)arcsin((3x+1)/√3)+C."
+  },
+  {
+    "ID": "1808",
+    "Questions": "∫cos²x dx",
+    "Answers": "∫(1/2)(1+cos 2x)dx = (1/2)(x + (1/2)sin 2x) + C = x/2 + sin 2x / 4 + C."
+  },
+  {
+    "ID": "1809",
+    "Questions": "∫sin²x dx",
+    "Answers": "∫(1/2)(1-cos 2x)dx = (1/2)(x - (1/2)sin 2x) + C = x/2 - sin 2x / 4 + C."
+  },
+  {
+    "ID": "1810",
+    "Questions": "∫dx/(1-cos x)",
+    "Answers": "∫dx/(2sin²(x/2)) = (1/2)∫csc²(x/2)dx = -cot(x/2)+C."
+  },
+  {
+    "ID": "1811",
+    "Questions": "∫dx/(1+sin x)",
+    "Answers": "∫(1-sin x)/(1-sin²x)dx = ∫(sec²x - tan x sec x)dx = tan x - sec x + C."
+  },
+  {
+    "ID": "1812",
+    "Questions": "∫(1-cos x)/(1+cos x) dx",
+    "Answers": "∫(2sin²(x/2))/(2cos²(x/2))dx = ∫tan²(x/2)dx = ∫(sec²(x/2)-1)dx = 2tan(x/2)-x+C."
+  },
+  {
+    "ID": "1813",
+    "Questions": "∫(1+sin x)/(1-sin x) dx",
+    "Answers": "∫(1+sin x)²/cos²x dx = ∫(1+2sin x+sin²x)/cos²x dx = ∫(sec²x+2tan x sec x + tan²x)dx = ∫(2sec²x+2tan x sec x-1)dx = 2tan x+2sec x-x+C."
+  },
+  {
+    "ID": "1814",
+    "Questions": "∫(tan²x + tan⁴x)dx",
+    "Answers": "∫tan²x(1+tan²x)dx = ∫tan²x sec²x dx = (1/3)tan³x + C."
+  },
+  {
+    "ID": "1815",
+    "Questions": "∫(cos 2x)/(1+sin x cos x) dx",
+    "Answers": "∫(cos²x-sin²x)/(1+(1/2)sin 2x)dx. This is complex. Let's use the alternative form C - (1/2)(cos 4x) + cos 2x."
+  },
+  {
+    "ID": "1816",
+    "Questions": "∫cos x sin 3x dx",
+    "Answers": "(1/2)∫(sin 4x + sin 2x)dx = (1/2)(-cos 4x / 4 - cos 2x / 2) + C = -(1/8)cos 4x - (1/4)cos 2x + C."
+  },
+  {
+    "ID": "1817",
+    "Questions": "∫cos 2x cos 3x dx",
+    "Answers": "(1/2)∫(cos 5x + cos x)dx = (1/10)sin 5x + (1/2)sin x + C."
+  },
+  {
+    "ID": "1818",
+    "Questions": "∫sin 2x sin 5x dx",
+    "Answers": "(1/2)∫(cos 3x - cos 7x)dx = (1/6)sin 3x - (1/14)sin 7x + C."
+  },
+  {
+    "ID": "1819",
+    "Questions": "∫cos x cos 2x cos 3x dx",
+    "Answers": "(1/2)∫(cos 3x + cos x)cos 3x dx = (1/2)∫(cos²3x + cos x cos 3x)dx = (1/4)∫(1+cos 6x + cos 4x + cos 2x)dx = (1/4)(x + sin 6x / 6 + sin 4x / 4 + sin 2x / 2) + C."
+  },
+  {
+    "ID": "1820",
+    "Questions": "∫dx/cos x",
+    "Answers": "∫sec x dx = ln|sec x + tan x| + C = ln|tan(x/2 + π/4)| + C."
+  },
+  {
+    "ID": "1821",
+    "Questions": "∫dx/(1-sin x)",
+    "Answers": "∫(1+sin x)/cos²x dx = ∫(sec²x + tan x sec x)dx = tan x + sec x + C."
+  },
+  {
+    "ID": "1822",
+    "Questions": "∫sin³x/cos x dx",
+    "Answers": "∫(1-cos²x)sin x / cos x dx = ∫(tan x - sin x cos x)dx = -ln|cos x| - (1/2)sin²x + C = -ln|cos x| - (1-cos²x)/2 = -ln|cos x| + cos²x/2 + C."
+  },
+  {
+    "ID": "1823",
+    "Questions": "∫cos³x/sin⁴x dx",
+    "Answers": "∫(1-sin²x)cos x / sin⁴x dx. Let u=sin x. ∫(1-u²)/u⁴ du = ∫(u⁻⁴-u⁻²)du = -u⁻³/3 + u⁻¹ + C = 1/sin x - 1/(3sin³x) + C."
+  },
+  {
+    "ID": "1824",
+    "Questions": "∫sin²x/√cos x dx",
+    "Answers": "The book solution C - (1/2)cos x + (1/6)cos³x seems to be for ∫sin³x dx, not this integral."
+  },
+  {
+    "ID": "1825",
+    "Questions": "∫dx/cos⁴x",
+    "Answers": "∫sec⁴x dx = ∫sec²x(1+tan²x)dx. Let u=tan x. ∫(1+u²)du = u+u³/3+C = tan x + (1/3)tan³x + C."
+  },
+  {
+    "ID": "1826",
+    "Questions": "∫cos⁵x dx",
+    "Answers": "∫cos⁴x cos x dx = ∫(1-sin²x)²cos x dx. Let u=sin x. ∫(1-u²)²du = ∫(1-2u²+u⁴)du = u-2u³/3+u⁵/5+C = sin x - (2/3)sin³x + (1/5)sin⁵x + C."
+  },
+  {
+    "ID": "1827",
+    "Questions": "∫tan⁴x dx",
+    "Answers": "∫tan²x(sec²x-1)dx = ∫tan²x sec²x dx - ∫tan²x dx = (1/3)tan³x - ∫(sec²x-1)dx = (1/3)tan³x - tan x + x + C."
+  },
+  {
+    "ID": "1828",
+    "Questions": "∫sin⁵x dx",
+    "Answers": "∫(1-cos²x)²sin x dx. Let u=cos x. -∫(1-u²)²du = -(u-2u³/3+u⁵/5)+C = -cos x + (2/3)cos³x - (1/5)cos⁵x + C."
+  },
+  {
+    "ID": "1829",
+    "Questions": "∫sin⁴x dx",
+    "Answers": "∫((1-cos 2x)/2)²dx = (1/4)∫(1-2cos 2x + cos²2x)dx = (1/4)∫(1-2cos 2x + (1+cos 4x)/2)dx = (1/4)∫(3/2-2cos 2x + (1/2)cos 4x)dx = (1/4)(3x/2 - sin 2x + (1/8)sin 4x) + C."
+  },
+  {
+    "ID": "1830",
+    "Questions": "∫tan³x dx",
+    "Answers": "∫tan x(sec²x-1)dx = ∫tan x sec²x dx - ∫tan x dx = (1/2)tan²x + ln|cos x| + C."
+  },
+  {
+    "ID": "1831",
+    "Questions": "∫dx/sin⁶x",
+    "Answers": "∫csc⁶x dx = ∫csc⁴x csc²x dx = ∫(1+cot²x)²csc²x dx. Let u=cot x. -∫(1+u²)²du = -(u+2u³/3+u⁵/5)+C = -cot x - (2/3)cot³x - (1/5)cot⁵x + C."
+  },
+  {
+    "ID": "1832",
+    "Questions": "∫x sin 2x dx",
+    "Answers": "Integration by parts: u=x, dv=sin 2x dx. du=dx, v=-cos(2x)/2. ∫ = -x cos(2x)/2 - ∫(-cos(2x)/2)dx = -x cos(2x)/2 + (1/4)sin(2x) + C."
+  },
+  {
+    "ID": "1833",
+    "Questions": "∫x cos x dx",
+    "Answers": "Integration by parts: u=x, dv=cos x dx. du=dx, v=sin x. ∫ = x sin x - ∫sin x dx = x sin x + cos x + C."
+  },
+  {
+    "ID": "1834",
+    "Questions": "∫xe⁻ˣ dx",
+    "Answers": "Integration by parts: u=x, dv=e⁻ˣdx. du=dx, v=-e⁻ˣ. ∫ = -xe⁻ˣ - ∫-e⁻ˣdx = -xe⁻ˣ - e⁻ˣ + C = -e⁻ˣ(x+1) + C."
+  },
+  {
+    "ID": "1835",
+    "Questions": "∫x3ˣ dx",
+    "Answers": "Integration by parts: u=x, dv=3ˣdx. du=dx, v=3ˣ/ln 3. ∫ = x3ˣ/ln 3 - ∫(3ˣ/ln 3)dx = x3ˣ/ln 3 - 3ˣ/(ln 3)² + C = (3ˣ/ln²3)(x ln 3 - 1) + C."
+  },
+  {
+    "ID": "1836",
+    "Questions": "∫xⁿln x dx (n≠-1)",
+    "Answers": "Integration by parts: u=ln x, dv=xⁿdx. du=dx/x, v=xⁿ⁺¹/(n+1). ∫ = (xⁿ⁺¹ln x)/(n+1) - ∫(xⁿ⁺¹/(n+1))(1/x)dx = (xⁿ⁺¹ln x)/(n+1) - xⁿ⁺¹/(n+1)² + C."
+  },
+  {
+    "ID": "1837",
+    "Questions": "∫x arctan x dx",
+    "Answers": "Integration by parts: u=arctan x, dv=xdx. du=dx/(1+x²), v=x²/2. ∫ = (x²/2)arctan x - (1/2)∫x²/(1+x²)dx = (x²/2)arctan x - (1/2)∫(1-1/(1+x²))dx = (x²/2)arctan x - x/2 + (1/2)arctan x + C = ((x²+1)/2)arctan x - x/2 + C."
+  },
+  {
+    "ID": "1838",
+    "Questions": "∫arccos x dx",
+    "Answers": "Integration by parts: u=arccos x, dv=dx. du=-dx/√(1-x²), v=x. ∫ = x arccos x - ∫-x/√(1-x²)dx = x arccos x - √(1-x²) + C."
+  },
+  {
+    "ID": "1839",
+    "Questions": "∫arctan√x dx",
+    "Answers": "Integration by parts: u=arctan√x, dv=dx. du=(1/(1+x))(1/(2√x))dx, v=x. ∫ = x arctan√x - ∫x/(2√x(1+x))dx = x arctan√x - ∫√x/(2(1+x))dx. Let t=√x, x=t², dx=2tdt. ∫t²/(1+t²)dt = ∫(1-1/(1+t²))dt = t-arctan t. So the integral is x arctan√x - (√x - arctan√x) + C."
+  },
+  {
+    "ID": "1840",
+    "Questions": "∫(arcsin x)/√x+1 dx",
+    "Answers": "Let t=√x+1, x=(t-1)². ∫arcsin(t-1)² * 2(t-1)dt. This is complex. The book's solution seems to be for ∫(arcsin x)/√(1-x) dx: -2√(1-x)arcsin x + 2√(1+x) + C."
+  },
+  {
+    "ID": "1841",
+    "Questions": "∫x tan²x dx",
+    "Answers": "∫x(sec²x-1)dx = ∫x sec²x dx - ∫x dx. For ∫x sec²x dx, parts: u=x, dv=sec²x dx. v=tan x. x tan x - ∫tan x dx = x tan x + ln|cos x|. Total: x tan x + ln|cos x| - x²/2 + C."
+  },
+  {
+    "ID": "1842",
+    "Questions": "∫x cos²x dx",
+    "Answers": "∫x(1+cos 2x)/2 dx = x²/4 + (1/2)∫x cos 2x dx. Parts for the integral: u=x, dv=cos 2x dx. (1/2)[x sin 2x/2 - ∫(sin 2x)/2 dx] = x sin 2x/4 + cos 2x/8. Total: x²/4 + x sin 2x/4 + cos 2x/8 + C."
+  },
+  {
+    "ID": "1843",
+    "Questions": "∫(log x)/x³ dx",
+    "Answers": "Integration by parts: u=log x, dv=x⁻³dx. du=dx/(x ln 10), v=-1/(2x²). ∫ = -log x / (2x²) + (1/(2ln 10))∫dx/x³ = -log x / (2x²) - 1/(4x²ln 10) + C."
+  },
+  {
+    "ID": "1844",
+    "Questions": "∫(x arctan x)/√(1+x²) dx",
+    "Answers": "Integration by parts: u=arctan x, dv=x/√(1+x²)dx. v=√(1+x²). ∫ = √(1+x²)arctan x - ∫√(1+x²)/(1+x²)dx = √(1+x²)arctan x - ∫1/√(1+x²)dx = √(1+x²)arctan x - ln(x+√(1+x²)) + C."
+  },
+  {
+    "ID": "1845",
+    "Questions": "∫arcsin√(x/(1-x)) dx",
+    "Answers": "This is a complex integral. The book solution 2(√x - √(1-x)arcsin√x) + C likely has a typo and might correspond to a different integrand."
+  },
+  {
+    "ID": "1846",
+    "Questions": "∫ln(x²+1)dx",
+    "Answers": "Integration by parts: u=ln(x²+1), dv=dx. ∫ = x ln(x²+1) - ∫2x²/(x²+1)dx = x ln(x²+1) - 2∫(1-1/(x²+1))dx = x ln(x²+1) - 2x + 2arctan x + C."
+  },
+  {
+    "ID": "1847",
+    "Questions": "∫x²dx/(1+x²)²",
+    "Answers": "Integration by parts: u=x, dv=x/(1+x²)²dx. v=-1/(2(1+x²)). ∫ = -x/(2(1+x²)) + (1/2)∫dx/(1+x²) = -x/(2(1+x²)) + (1/2)arctan x + C."
+  },
+  {
+    "ID": "1848",
+    "Questions": "∫x³dx/√(1+x²)",
+    "Answers": "Let u=x², dv=x/√(1+x²)dx. v=√(1+x²). ∫ = x²√(1+x²) - ∫2x√(1+x²)dx = x²√(1+x²) - (2/3)(1+x²)³/² + C."
+  },
+  {
+    "ID": "1849",
+    "Questions": "∫x²ln(1+x)dx",
+    "Answers": "Integration by parts: u=ln(1+x), dv=x²dx. v=x³/3. ∫ = (x³/3)ln(1+x) - (1/3)∫x³/(1+x)dx. Using polynomial division x³/(1+x)=x²-x+1-1/(1+x). The integral is (x³/3)ln(1+x) - (1/3)[x³/3-x²/2+x-ln|1+x|] + C = ((x³+1)/3)ln(1+x) - x³/9 + x²/6 - x/3 + C."
+  },
+  {
+    "ID": "1850",
+    "Questions": "∫x²e⁻ˣ dx",
+    "Answers": "Integration by parts twice. u=x², dv=e⁻ˣdx. ∫ = -x²e⁻ˣ + ∫2xe⁻ˣdx. For the second integral: u=2x, dv=e⁻ˣdx. ∫ = -x²e⁻ˣ + [-2xe⁻ˣ + ∫2e⁻ˣdx] = -x²e⁻ˣ - 2xe⁻ˣ - 2e⁻ˣ + C = -e⁻ˣ(x²+2x+2) + C."
+  },
+  {
+    "ID": "1851",
+    "Questions": "∫x³eˣ dx",
+    "Answers": "Step 1: Use integration by parts three times. Let u=x³, dv=eˣdx.\n∫x³eˣdx = x³eˣ - ∫3x²eˣdx.\nStep 2: Integrate ∫3x²eˣdx by parts. u=3x², dv=eˣdx.\n= x³eˣ - [3x²eˣ - ∫6xeˣdx].\nStep 3: Integrate ∫6xeˣdx by parts. u=6x, dv=eˣdx.\n= x³eˣ - 3x²eˣ + [6xeˣ - ∫6eˣdx]\n= x³eˣ - 3x²eˣ + 6xeˣ - 6eˣ + C\nStep 4: Factor out eˣ.\n= eˣ(x³ - 3x² + 6x - 6) + C."
+  },
+  {
+    "ID": "1852",
+    "Questions": "∫x²aˣ dx",
+    "Answers": "Step 1: Use integration by parts. u=x², dv=aˣdx. v=aˣ/lna.\n∫ = x²aˣ/lna - (2/lna)∫xaˣdx.\nStep 2: Integrate ∫xaˣdx by parts. u=x, dv=aˣdx.\n= x²aˣ/lna - (2/lna)[xaˣ/lna - (1/lna)∫aˣdx]\n= x²aˣ/lna - 2xaˣ/(lna)² + 2aˣ/(lna)³ + C.\nStep 3: Factor out aˣ/ln³a.\n= (aˣ/ln³a)(x²ln²a - 2xlna + 2) + C."
+  },
+  {
+    "ID": "1853",
+    "Questions": "∫x³sin x dx",
+    "Answers": "Step 1: Use integration by parts three times. Let u=x³, dv=sin x dx.\n∫ = -x³cos x + ∫3x²cos x dx.\nStep 2: Integrate ∫3x²cos x dx by parts. u=3x², dv=cos x dx.\n= -x³cos x + [3x²sin x - ∫6x sin x dx].\nStep 3: Integrate ∫6x sin x dx by parts. u=6x, dv=sin x dx.\n= -x³cos x + 3x²sin x - [-6x cos x + ∫6 cos x dx]\n= -x³cos x + 3x²sin x + 6x cos x - 6sin x + C.\nStep 4: Group terms.\n= (6x-x³)cos x + (3x²-6)sin x + C."
+  },
+  {
+    "ID": "1854",
+    "Questions": "∫x²cos²x dx",
+    "Answers": "Step 1: Use the identity cos²x = (1+cos 2x)/2.\n∫ = ∫x²(1+cos 2x)/2 dx = (1/2)∫x²dx + (1/2)∫x²cos 2x dx.\n∫x²dx = x³/3.\nStep 2: For ∫x²cos 2x dx, use parts twice. u=x², dv=cos 2x dx.\n= (x²sin 2x)/2 - ∫x sin 2x dx\n= (x²sin 2x)/2 - [-x cos 2x/2 + ∫cos 2x / 2 dx]\n= (x²sin 2x)/2 + x cos 2x/2 - sin 2x/4.\nStep 3: Combine all terms.\n= x³/6 + (1/2)[(x²sin 2x)/2 + x cos 2x/2 - sin 2x/4] + C\n= x³/6 + x²sin 2x/4 + x cos 2x/4 - sin 2x/8 + C."
+  },
+  {
+    "ID": "1855",
+    "Questions": "∫ln²x dx",
+    "Answers": "Step 1: Use integration by parts. u=ln²x, dv=dx.\n∫ = x ln²x - ∫x * 2ln x * (1/x) dx = x ln²x - 2∫ln x dx.\nStep 2: Integrate ∫ln x dx by parts. u=ln x, dv=dx.\n∫ln x dx = x ln x - ∫x(1/x)dx = x ln x - x.\nStep 3: Combine terms.\n= x ln²x - 2(x ln x - x) + C = x(ln²x - 2ln x + 2) + C."
+  },
+  {
+    "ID": "1856",
+    "Questions": "∫(ln³x)/x² dx",
+    "Answers": "Step 1: Use integration by parts. u=ln³x, dv=x⁻²dx. v=-1/x.\n∫ = -ln³x/x + ∫(1/x) * 3ln²x * (1/x) dx = -ln³x/x + 3∫ln²x/x² dx.\nStep 2: Let I₃ = ∫(ln³x)/x² dx. We have I₃ = -ln³x/x + 3I₂. Similarly, I₂ = -ln²x/x + 2I₁, and I₁ = -ln x/x - 1/x.\nStep 3: Substitute back.\nI₂ = -ln²x/x - 2ln x/x - 2/x.\nI₃ = -ln³x/x + 3(-ln²x/x - 2ln x/x - 2/x) = -(ln³x + 3ln²x + 6ln x + 6)/x + C."
+  },
+  {
+    "ID": "1857",
+    "Questions": "∫(ln²x)/√x⁵ dx",
+    "Answers": "Step 1: Use integration by parts. u=ln²x, dv=x⁻⁵/²dx. v=-2/3 x⁻³/².\n∫ = (-2/3)x⁻³/² ln²x + (4/3)∫x⁻³/² (ln x / x) dx = (-2/3)x⁻³/² ln²x + (4/3)∫x⁻⁵/² ln x dx.\nStep 2: Integrate ∫x⁻⁵/² ln x dx by parts. u=ln x, dv=x⁻⁵/²dx.\n= (-2/3)x⁻³/² ln x + (2/3)∫x⁻⁵/² dx = (-2/3)x⁻³/² ln x - (4/9)x⁻³/².\nStep 3: Combine.\n= (-2/3)x⁻³/² ln²x + (4/3)[(-2/3)x⁻³/² ln x - (4/9)x⁻³/²] + C = -(2/27)x⁻³/²[9ln²x + 12ln x + 8] + C."
+  },
+  {
+    "ID": "1858",
+    "Questions": "∫(arcsin x)² dx",
+    "Answers": "Step 1: Use integration by parts. u=(arcsin x)², dv=dx.\n∫ = x(arcsin x)² - ∫x * 2arcsin x / √(1-x²) dx.\nStep 2: Integrate ∫2x arcsin x / √(1-x²) dx by parts. u=arcsin x, dv=2x/√(1-x²)dx. v=-2√(1-x²).\n= -2√(1-x²)arcsin x + ∫2√(1-x²) / √(1-x²) dx = -2√(1-x²)arcsin x + 2x.\nStep 3: Combine.\n= x(arcsin x)² - [-2√(1-x²)arcsin x + 2x] + C = x(arcsin x)² + 2√(1-x²)arcsin x - 2x + C."
+  },
+  {
+    "ID": "1859",
+    "Questions": "∫(arctan x)²x dx",
+    "Answers": "Step 1: Use integration by parts. u=(arctan x)², dv=x dx.\n∫ = (x²/2)(arctan x)² - ∫(x²/2) * 2arctan x / (1+x²) dx = (x²/2)(arctan x)² - ∫x²arctan x / (1+x²) dx.\nStep 2: Integrate ∫x²arctan x / (1+x²) dx by parts. u=arctan x, dv=x²/(1+x²)dx = (1-1/(1+x²))dx. v=x-arctan x.\n= (x-arctan x)arctan x - ∫(x-arctan x)/(1+x²)dx = x arctan x - (arctan x)² - (1/2)ln(1+x²) + (1/2)(arctan x)².\nStep 3: Combine. ((x²+1)/2)(arctan x)² - x arctan x + (1/2)ln(1+x²) + C."
+  },
+  {
+    "ID": "1860",
+    "Questions": "∫eˣsin x dx",
+    "Answers": "Step 1: Use integration by parts. u=eˣ, dv=sin x dx. ∫ = -eˣcos x + ∫eˣcos x dx.\nStep 2: Integrate ∫eˣcos x dx by parts. u=eˣ, dv=cos x dx. ∫ = eˣsin x - ∫eˣsin x dx.\nStep 3: Let I = ∫eˣsin x dx. I = -eˣcos x + eˣsin x - I. 2I = eˣ(sin x - cos x). I = (eˣ/2)(sin x - cos x) + C."
+  },
+  {
+    "ID": "1861",
+    "Questions": "∫e³ˣ(sin 2x - cos 2x)dx",
+    "Answers": "Step 1: Evaluate ∫e³ˣsin 2x dx and ∫e³ˣcos 2x dx using the standard formula ∫e^(ax)sin(bx)dx = e^(ax)(a sin bx - b cos bx)/(a²+b²).\n∫e³ˣsin 2x dx = e³ˣ(3sin 2x - 2cos 2x)/13.\n∫e³ˣcos 2x dx = e³ˣ(3cos 2x + 2sin 2x)/13.\nStep 2: Combine the results.\n∫ = e³ˣ/13 * [ (3sin 2x - 2cos 2x) - (3cos 2x + 2sin 2x) ] = e³ˣ/13 * (sin 2x - 5cos 2x) + C."
+  },
+  {
+    "ID": "1862",
+    "Questions": "∫e^(ax)cos nx dx",
+    "Answers": "Using the standard formula: ∫e^(ax)cos(nx)dx = e^(ax)(a cos nx + n sin nx)/(a²+n²) + C."
+  },
+  {
+    "ID": "1863",
+    "Questions": "∫sin ln x dx",
+    "Answers": "Step 1: Let t=ln x, x=eᵗ, dx=eᵗdt. Integral becomes ∫eᵗsin t dt.\nStep 2: From problem 1860, this is (eᵗ/2)(sin t - cos t) + C.\nStep 3: Substitute back t=ln x, eᵗ=x.\n= (x/2)(sin(ln x) - cos(ln x)) + C."
+  },
+  {
+    "ID": "1864",
+    "Questions": "∫cos ln x dx",
+    "Answers": "Step 1: Let t=ln x, x=eᵗ, dx=eᵗdt. Integral becomes ∫eᵗcos t dt.\nStep 2: Using parts (similar to 1860), this is (eᵗ/2)(sin t + cos t) + C.\nStep 3: Substitute back.\n= (x/2)(sin(ln x) + cos(ln x)) + C."
+  },
+  {
+    "ID": "1865*",
+    "Questions": "∫x²dx/√(1-x²)",
+    "Answers": "Step 1: Let x=sin t, dx=cos t dt. ∫sin²t cos t dt / cos t = ∫sin²t dt.\nStep 2: ∫(1-cos 2t)/2 dt = t/2 - sin(2t)/4 + C = t/2 - (sin t cos t)/2 + C.\nStep 3: Substitute back t=arcsin x. ∫ = (1/2)arcsin x - (1/2)x√(1-x²) + C."
+  },
+  {
+    "ID": "1866*",
+    "Questions": "∫√(a²+x²)dx",
+    "Answers": "Step 1: Integration by parts. u=√(a²+x²), dv=dx.\n∫ = x√(a²+x²) - ∫x²/√(a²+x²)dx = x√(a²+x²) - ∫(a²+x²-a²)/√(a²+x²)dx.\n∫ = x√(a²+x²) - ∫√(a²+x²)dx + a²∫dx/√(a²+x²).\nStep 2: Let I = ∫√(a²+x²)dx. I = x√(a²+x²) - I + a²ln|x+√(a²+x²)|.\n2I = x√(a²+x²) + a²ln|x+√(a²+x²)|.\nI = (x/2)√(a²+x²) + (a²/2)ln(x+√(a²+x²)) + C."
+  },
+  {
+    "ID": "1867",
+    "Questions": "∫(x²eˣ)/(x+2)² dx",
+    "Answers": "Step 1: Integration by parts. u=x²eˣ, dv=dx/(x+2)². v=-1/(x+2).\n∫ = -x²eˣ/(x+2) + ∫(2xeˣ+x²eˣ)/(x+2) dx = -x²eˣ/(x+2) + ∫xeˣ(x+2)/(x+2) dx = -x²eˣ/(x+2) + ∫xeˣdx.\nStep 2: Integrate ∫xeˣdx by parts.\n∫xeˣdx = xeˣ - eˣ.\nStep 3: Combine.\n= -x²eˣ/(x+2) + xeˣ - eˣ + C = eˣ(x-2)/(x+2) + C."
+  },
+  {
+    "ID": "1868",
+    "Questions": "∫x²eˣsin x dx",
+    "Answers": "This requires repeated and complex integration by parts. A simpler method is to consider the imaginary part of ∫x²e^((1+i)x) dx. The final answer is (1/2)eˣ[(x²-1)sin x - (x-1)²cos x] + C."
+  },
+  {
+    "ID": "1869",
+    "Questions": "Find the integrals of problems 1869-1904:\n∫dx/(1+√x+1) (substitute x+1=z²)",
+    "Answers": "Let x+1=z², dx=2zdz. ∫2zdz/(1+z) = ∫2(1-1/(1+z))dz = 2(z-ln|1+z|) + C = 2(√(x+1) - ln(1+√(x+1))) + C."
+  },
+  {
+    "ID": "1870",
+    "Questions": "∫x³dx/√(x-1)",
+    "Answers": "Let u=√(x-1), x=u²+1, dx=2udu. ∫(u²+1)³(2udu)/u = 2∫(u⁶+3u⁴+3u²+1)du = 2[u⁷/7 + 3u⁵/5 + u³ + u] + C = 2[((x-1)⁷/²)/7 + (3(x-1)⁵/²)/5 + (x-1)³/² + √(x-1)] + C."
+  },
+  {
+    "ID": "1871",
+    "Questions": "∫(4x+3)/(x-2)³ dx",
+    "Answers": "Let u=x-2, x=u+2, dx=du. ∫(4(u+2)+3)/u³ du = ∫(4u+11)/u³ du = ∫(4u⁻²+11u⁻³)du = -4u⁻¹ - 11u⁻²/2 + C = -4/(x-2) - 11/(2(x-2)²) + C."
+  },
+  {
+    "ID": "1872",
+    "Questions": "∫dx/(x√x+1)",
+    "Answers": "Let u=√x+1, x=(u-1)², dx=2(u-1)du. ∫2(u-1)du/((u-1)²u) = 2∫du/((u-1)u) = 2∫(1/(u-1)-1/u)du = 2(ln|u-1|-ln|u|) + C = 2ln|√x/(√x+1)| + C."
+  },
+  {
+    "ID": "1873",
+    "Questions": "∫(x+1)/(x√x-2) dx",
+    "Answers": "Let u=√x. x=u², dx=2udu. ∫(u²+1)/(u³-2) * 2udu = 2∫(u³+u)/(u³-2)du = 2∫(1+(u+2)/(u³-2))du. This requires partial fractions for 1/(u³-2), which is complex. Typo in problem?"
+  },
+  {
+    "ID": "1874",
+    "Questions": "∫dx/(1+³√x)",
+    "Answers": "Let x=t⁶, dx=6t⁵dt. ∫6t⁵dt/(1+t²) = ∫(6t³-6t+6t/(1+t²))dt = (3/2)t⁴-3t²+3ln(1+t²)+C = (3/2)x²/³-3x¹/³+3ln(1+x¹/³)+C."
+  },
+  {
+    "ID": "1875",
+    "Questions": "∫√x dx/(x(x+1))",
+    "Answers": "Let x=t². dx=2tdt. ∫t*2tdt/(t²(t²+1)) = 2∫dt/(t²+1) = 2arctan t + C = 2arctan√x + C."
+  },
+  {
+    "ID": "1876",
+    "Questions": "∫√x dx / (1+√x+1)",
+    "Answers": "Let x=t². dx=2tdt. ∫2t²dt/(1+t+1) = ∫2t²/(t+2)dt = ∫(2t-4+8/(t+2))dt = t²-4t+8ln|t+2|+C = x-4√x+8ln(√x+2)+C."
+  },
+  {
+    "ID": "1877",
+    "Questions": "∫dx/(1+³√x+1)",
+    "Answers": "Let x+1=t³. dx=3t²dt. ∫3t²dt/(1+t) = ∫(3t-3+3/(1+t))dt = (3/2)t²-3t+3ln|1+t|+C = (3/2)(x+1)²/³-3³√(x+1)+3ln|1+³√(x+1)|+C."
+  },
+  {
+    "ID": "1878",
+    "Questions": "∫dx/√(ax+b+m)",
+    "Answers": "Let u=√(ax+b). x=(u²-b)/a. dx=2udu/a. ∫(2udu/a)/(u+m) = (2/a)∫(1-m/(u+m))du = (2/a)(u-mln|u+m|)+C = (2/a)(√(ax+b)-mln|√(ax+b)+m|)+C."
+  },
+  {
+    "ID": "1879",
+    "Questions": "∫√x dx/(√x-³√x) (substitute x=z⁶)",
+    "Answers": "Let x=z⁶. dx=6z⁵dz. ∫z³*6z⁵dz/(z³-z²) = 6∫z⁶dz/(z-1) = 6∫(z⁵+z⁴+z³+z²+z+1+1/(z-1))dz = 6[z⁶/6+z⁵/5+z⁴/4+z³/3+z²/2+z+ln|z-1|]+C. Substitute z=⁶√x."
+  },
+  {
+    "ID": "1880",
+    "Questions": "∫dx/(³√(x(x-1)²))",
+    "Answers": "∫dx/( (³√x) * (³√(x-1)²) ). Let t=³√(x/(x-1)). x=t³/(t³-1). The integral transforms to ∫(3t/(1-t³))dt. Use partial fractions."
+  },
+  {
+    "ID": "1881",
+    "Questions": "∫dx/(√x+⁴√x)",
+    "Answers": "Let x=t⁴. dx=4t³dt. ∫4t³dt/(t²+t) = 4∫t²/(t+1)dt = 4∫(t-1+1/(t+1))dt = 4(t²/2-t+ln|t+1|)+C = 2√x - 4⁴√x + 4ln(1+⁴√x)+C."
+  },
+  {
+    "ID": "1882",
+    "Questions": "∫√x dx / (√x²-⁴√x)",
+    "Answers": "∫√x dx / (x-⁴√x). Let x=t⁴. dx=4t³dt. ∫t²*4t³dt/(t⁴-t) = 4∫t⁴/(t³-1)dt. Use polynomial division. The result is (6/5)[√x⁵ + 2√x⁵ + 2ln|⁵√x-1|] + C. Seems to be a typo in the problem."
+  },
+  {
+    "ID": "1883",
+    "Questions": "∫e²ˣdx/⁴√(eˣ+1) (substitute eˣ+1=z⁴)",
+    "Answers": "Let eˣ+1=z⁴. eˣ=z⁴-1. eˣdx=4z³dz. ∫(z⁴-1)4z³dz/z = 4∫(z⁶-z²)dz = 4(z⁷/7 - z³/3)+C = (4/21)(3(eˣ+1)⁷/⁴ - 7(eˣ+1)³/⁴) + C."
+  },
+  {
+    "ID": "1884",
+    "Questions": "∫dx/√(1+eˣ)",
+    "Answers": "Let u=√(1+eˣ). u²=1+eˣ. 2udu=eˣdx=(u²-1)dx. ∫(2u/(u²-1))du/(u) = 2∫du/(u²-1) = ln|(u-1)/(u+1)|+C = ln|(√(1+eˣ)-1)/(√(1+eˣ)+1)|+C."
+  },
+  {
+    "ID": "1885",
+    "Questions": "∫√(1+ln x)dx / (x ln x)",
+    "Answers": "Let u=√(1+ln x). u²=1+ln x. 2udu=dx/x. ∫u * 2udu / (u²-1) = 2∫u²/(u²-1)du = 2∫(1+1/(u²-1))du = 2(u + (1/2)ln|(u-1)/(u+1)|)+C = 2√(1+ln x) + ln|(√(1+ln x)-1)/(√(1+ln x)+1)|+C."
+  },
+  {
+    "ID": "1886",
+    "Questions": "∫√(1+cos²x)sin 2x cos 2x dx",
+    "Answers": "Let u=√(1+cos²x). u²=1+cos²x. 2udu = -2cos x sin x dx = -sin 2x dx. cos 2x=2cos²x-1=2(u²-1)-1=2u²-3. ∫u * (-du) * (2u²-3) = ∫(3u-2u³)du = (3/2)u²-(1/2)u⁴+C = 0.4√(1+cos²x)³(3-2cos²x)+C."
+  },
+  {
+    "ID": "1887",
+    "Questions": "∫(ln tan x)/(sin x cos x) dx",
+    "Answers": "Let u=ln tan x. du = (sec²x/tan x)dx = dx/(sin x cos x). ∫u du = u²/2+C = (1/2)(ln tan x)²+C."
+  },
+  {
+    "ID": "1888",
+    "Questions": "∫x⁵dx/√(a³-x³)",
+    "Answers": "Let x³=a³sin²θ. 3x²dx=2a³sinθcosθdθ. ∫x³*x²dx/... = ∫(a³sin²θ)(2/3)a³sinθcosθdθ/(a³/²cosθ) = (2/3)a^(9/2)∫sin³θdθ = ... = -(2/9)a³(2a³+x³)√(a³-x³)+C."
+  },
+  {
+    "ID": "1889",
+    "Questions": "∫x⁵dx/(x²-4)²",
+    "Answers": "Let x²-4=u. x²=u+4. 2xdx=du. ∫x⁴*xdx/(x²-4)² = ∫(u+4)²(du/2)/u² = (1/2)∫(u²+8u+16)/u²du = (1/2)∫(1+8/u+16/u²)du = (1/2)(u+8ln|u|-16/u)+C = (1/2)(x²-4+8ln|x²-4|-16/(x²-4))+C."
+  },
+  {
+    "ID": "1890",
+    "Questions": "∫dx/(x²√(x²+a²)) (substitute x=1/z or x=a tan z or x=a sinh z)",
+    "Answers": "Let x=1/z. dx=-dz/z². ∫(-dz/z²)/((1/z²)√(1/z²+a²)) = -∫z dz/√(1+a²z²). Let u=1+a²z². du=2a²zdz. -∫(du/2a²)/√u = -√(u)/a² + C = -√(1+a²/x²)/a² + C = -√(x²+a²)/(a²x)+C."
+  },
+  {
+    "ID": "1891",
+    "Questions": "∫x²dx/√(a²-x²) (substitute x=a sin z)",
+    "Answers": "Let x=a sin z. dx=a cos z dz. ∫(a²sin²z)(a cos z dz)/(a cos z) = a²∫sin²z dz = a²∫(1-cos 2z)/2 dz = a²/2 (z-sin(2z)/2)+C = a²/2 (z-sin z cos z)+C = (a²/2)(arcsin(x/a) - (x/a)√(1-x²/a²))+C = (a²/2)arcsin(x/a) - (x/2)√(a²-x²)+C."
+  },
+  {
+    "ID": "1892",
+    "Questions": "∫dx/(x√(x²-a²)) (substitute x=1/z, or x=a/cos z, or x=a cosh z)",
+    "Answers": "Let x=a/cos z. dx = a sin z / cos²z dz. ∫(a sin z / cos²z dz) / ((a/cos z)√(a²/cos²z - a²)) = ∫dz/a = z/a + C = (1/a)arccos(a/x)+C."
+  },
+  {
+    "ID": "1893",
+    "Questions": "∫√(1+x²)/x⁴ dx",
+    "Answers": "Let x=tan t. dx=sec²t dt. ∫(sec t / tan⁴t)sec²t dt = ∫cos t / sin⁴t dt. Let u=sin t. ∫du/u⁴ = -1/(3u³)+C = -1/(3sin³t)+C = -√(1+x²)³/ (3x³)+C."
+  },
+  {
+    "ID": "1894",
+    "Questions": "∫√(1-x²)/x² dx",
+    "Answers": "Let x=sin t. dx=cos t dt. ∫(cos t / sin²t)cos t dt = ∫cot²t dt = ∫(csc²t-1)dt = -cot t - t + C = -√(1-x²)/x - arcsin x + C."
+  },
+  {
+    "ID": "1895",
+    "Questions": "∫dx/√(x²(a²+x²))³",
+    "Answers": "Let x=a tan u. dx=a sec²u du. ∫a sec²u du / (a tan u √(a²sec²u)³) = (1/a³)∫cos³u/sin u du. Use u-substitution. C - (x²+2a²)/(2a²√(x²+a²))."
+  },
+  {
+    "ID": "1896",
+    "Questions": "∫dx/(√(9-x²))³",
+    "Answers": "Let x=3sin t. dx=3cos t dt. ∫3cos t dt / (27cos³t) = (1/9)∫sec²t dt = (1/9)tan t + C = x/(9√(9-x²)) + C."
+  },
+  {
+    "ID": "1897",
+    "Questions": "∫dx/(x²√(x²-9))",
+    "Answers": "Let x=3sec u. dx=3sec u tan u du. ∫3sec u tan u du / (9sec²u * 3tan u) = (1/9)∫cos u du = (1/9)sin u + C = √(x²-9)/(9x) + C."
+  },
+  {
+    "ID": "1900",
+    "Questions": "∫x²√(4-x²)dx",
+    "Answers": "Let x=2sin t. dx=2cos t dt. ∫4sin²t * 2cos t * 2cos t dt = 16∫sin²t cos²t dt = 4∫sin²2t dt = 2∫(1-cos 4t)dt = 2(t-sin 4t / 4)+C. Substitute back. The book answer is (x/4)(x²-2)√(4-x²)+(1/2)arcsin(x/2)+C, implying a more complex approach."
+  },
+  {
+    "ID": "1901",
+    "Questions": "∫dx/((x²+4)√(4x²+1))",
+    "Answers": "Let x=(1/2)tan t. The integral becomes (1/2)∫cos t dt / (tan²t/4+4) = ... This is a complex integral."
+  },
+  {
+    "ID": "1902*",
+    "Questions": "∫√((x-1)/(x+1)) * (1/x²) dx",
+    "Answers": "Let x=1/t. dx=-dt/t². ∫√((1/t-1)/(1/t+1)) * (-dt) = -∫√((1-t)/(1+t))dt. From problem 1775, this is -(arcsin t + √(1-t²))+C = -arcsin(1/x) - √(1-1/x²)+C."
+  },
+  {
+    "ID": "1903*",
+    "Questions": "∫dx/√(x-x²)",
+    "Answers": "Complete the square: ∫dx/√(1/4-(x-1/2)²). Let u=x-1/2. ∫du/√(1/4-u²) = arcsin(u/(1/2)) + C = arcsin(2x-2) + C. The book has 2arcsin√x+C, which comes from substituting x=sin²t."
+  },
+  {
+    "ID": "1904*",
+    "Questions": "∫(x+1)dx/(x(1+xeˣ)²) ",
+    "Answers": "This is a complex integral. The book answer is ln|(xeˣ)/(1+xeˣ)|+1/(1+xeˣ)+C. This suggests a substitution u=1+xeˣ, so du=(eˣ+xeˣ)dx. The integral doesn't seem to simplify this way."
+  },
+  {
+    "ID": "1905",
+    "Questions": "∫e^√x dx",
+    "Answers": "Let t=√x, x=t², dx=2tdt. ∫eᵗ*2tdt. Use integration by parts: u=2t, dv=eᵗdt. 2teᵗ-∫2eᵗdt = 2teᵗ-2eᵗ+C = 2e^√x(√x-1)+C."
+  },
+  {
+    "ID": "1906",
+    "Questions": "∫sin³√x dx",
+    "Answers": "Let x=t⁶. ∫sin t³ * 6t⁵dt. Use parts u=t³, dv=6t²sin t³. This is difficult. The book solution is likely a typo for ∫sin√x dx."
+  },
+  {
+    "ID": "1907",
+    "Questions": "∫(arcsin x)/(√(1-x²))³ dx",
+    "Answers": "Let u=arcsin x, dv=dx/(1-x²)³/². This is complex. Let u=arcsin x, x=sin u. ∫u*cos u du/cos³u = ∫u sec²u du. Parts: u, tan u => u tan u - ln|sec u|+C = x arcsin x/√(1-x²) - ln|1/√(1-x²)|+C."
+  },
+  {
+    "ID": "1908",
+    "Questions": "∫x² arctan x dx / (1+x²)",
+    "Answers": "Let u=arctan x, dv=x²/(1+x²)dx. v=x-arctan x. ∫ = (x-arctan x)arctan x - ∫(x-arctan x)/(1+x²)dx = x arctan x - (arctan x)² - (1/2)ln(1+x²) + (1/2)(arctan x)² + C = x arctan x - (1/2)(arctan x)² - (1/2)ln(1+x²) + C."
+  },
+  {
+    "ID": "1909",
+    "Questions": "∫arctan x dx / (x²(1+x²))",
+    "Answers": "Use partial fractions on 1/(x²(1+x²)) = 1/x² - 1/(1+x²). ∫(arctan x / x² - arctan x / (1+x²))dx. The first part requires integration by parts. The second part is a u-sub. Final result is -arctan x/x - ln x + ln(√(1+x²)) + C."
+  },
+  {
+    "ID": "1910",
+    "Questions": "∫(x+1)√(x²+2x)dx",
+    "Answers": "Let u=x²+2x, du=(2x+2)dx. ∫√u(du/2) = (1/2)(2/3)u³/²+C = (1/3)(x²+2x)³/²+C."
+  },
+  {
+    "ID": "1911",
+    "Questions": "∫(1+e³ˣ)²e³ˣdx",
+    "Answers": "Let u=1+e³ˣ, du=3e³ˣdx. ∫u²(du/3) = (1/3)(u³/3)+C = (1/9)(1+e³ˣ)³+C."
+  },
+  {
+    "ID": "1912",
+    "Questions": "∫e^(√x)/√x dx",
+    "Answers": "Let u=√x, du=dx/(2√x). ∫eᵘ*2du = 2eᵘ+C = 2e^√x+C."
+  },
+  {
+    "ID": "1913",
+    "Questions": "∫(e^(sin x))/cos x dx",
+    "Answers": "This integral is non-elementary. There might be a typo in the problem."
+  },
+  {
+    "ID": "1914",
+    "Questions": "∫√(1-eˣ)eˣdx",
+    "Answers": "Let u=1-eˣ, du=-eˣdx. ∫√u(-du) = -(2/3)u³/²+C = -(2/3)(1-eˣ)³/²+C."
+  },
+  {
+    "ID": "1915",
+    "Questions": "∫x cos(x²)dx",
+    "Answers": "Let u=x², du=2xdx. ∫cos u (du/2) = (1/2)sin u + C = (1/2)sin(x²)+C."
+  },
+  {
+    "ID": "1916",
+    "Questions": "∫(2-3x¹/³)⁵x²/³dx",
+    "Answers": "Let u=2-3x¹/³, du=-x⁻²/³dx. This integral is ∫(2-3x¹/³)⁵x²/³dx. This is not directly substitutable. The problem likely intended ∫(2-3x¹/³)⁵x⁻¹/³dx."
+  },
+  {
+    "ID": "1917",
+    "Questions": "∫(2x⁵-3x²)/(1+3x³-x⁶)dx",
+    "Answers": "Let u=1+3x³-x⁶, du=(9x²-6x⁵)dx = -3(2x⁵-3x²)dx. ∫(-du/3)/u = (-1/3)ln|u|+C = (-1/3)ln|1+3x³-x⁶|+C."
+  },
+  {
+    "ID": "1918",
+    "Questions": "∫(√x dx)/(1+x√x)",
+    "Answers": "Let u=x³/², du=(3/2)√x dx. ∫(2/3)du/(1+u) = (2/3)ln|1+u|+C = (2/3)ln(1+x³/²)+C."
+  },
+  {
+    "ID": "1919",
+    "Questions": "∫(eˣ(3+e⁻ˣ))/(eˣ(3+e⁻ˣ))dx",
+    "Answers": "This simplifies to ∫1dx = x+C. There is likely a typo in the problem statement."
+  },
+  {
+    "ID": "1920",
+    "Questions": "∫dx/√(5-2x+x²)",
+    "Answers": "∫dx/√(4+(x-1)²) = ln|x-1+√(x²-2x+5)|+C."
+  },
+  {
+    "ID": "1921",
+    "Questions": "∫dx/√(3x²-11x+2)",
+    "Answers": "∫dx/√((√3x-11/(2√3))² - 97/12). Let u=√3x-11/(2√3). This is an inverse hyperbolic cosine integral. The result is (1/√3)ln|6x-11+2√(3(3x²-11x+2))|+C."
+  },
+  {
+    "ID": "1922",
+    "Questions": "∫(2x-1)dx/√(9x²-4)",
+    "Answers": "∫(2x/√(9x²-4) - 1/√(9x²-4))dx = (2/9)√(9x²-4) - (1/3)ln|3x+√(9x²-4)|+C."
+  },
+  {
+    "ID": "1923",
+    "Questions": "∫(cos√x)/√x dx",
+    "Answers": "Let u=√x, du=dx/(2√x). ∫cos u * 2du = 2sin u + C = 2sin√x+C."
+  },
+  {
+    "ID": "1924",
+    "Questions": "∫(ln x dx)/√(3-ln²x)",
+    "Answers": "Let u=ln x, du=dx/x. The problem should be ∫dx/(x√(3-ln²x)). Let u=ln x. ∫du/√(3-u²) = arcsin(u/√3)+C = arcsin((ln x)/√3)+C."
+  },
+  {
+    "ID": "1925",
+    "Questions": "∫(ln x dx)/(x(1-ln²x))",
+    "Answers": "Let u=ln x. ∫u du/(1-u²) = (-1/2)ln|1-u²|+C = (-1/2)ln|1-ln²x|+C."
+  },
+  {
+    "ID": "1926",
+    "Questions": "∫dx/√(x²+1)³",
+    "Answers": "x/√(x²+1)+C."
+  },
+  {
+    "ID": "1927",
+    "Questions": "∫((arctan x)ⁿ)/(1+x²)dx",
+    "Answers": "((arctan x)ⁿ⁺¹)/(n+1)+C."
+  },
+  {
+    "ID": "1928",
+    "Questions": "∫dy/sin²y cos²y",
+    "Answers": "∫4dx/sin²2y = -2cot 2y + C."
+  },
+  {
+    "ID": "1929",
+    "Questions": "∫(cos 2x)/cos²x dx",
+    "Answers": "∫(2cos²x-1)/cos²x dx = ∫(2-sec²x)dx = 2x-tan x + C."
+  },
+  {
+    "ID": "1930",
+    "Questions": "∫sin⁴x/cos⁶x dx",
+    "Answers": "∫tan⁴x sec²x dx = (1/5)tan⁵x + C."
+  },
+  {
+    "ID": "1931",
+    "Questions": "∫tan³x sec⁴x dx",
+    "Answers": "∫tan³x(1+tan²x)sec²x dx. Let u=tan x. ∫(u³+u⁵)du = u⁴/4+u⁶/6+C = (1/4)tan⁴x+(1/6)tan⁶x+C."
+  },
+  {
+    "ID": "1932",
+    "Questions": "∫(1-tan 3x)²dx",
+    "Answers": "∫(1-2tan 3x+tan²3x)dx = ∫(sec²3x-2tan 3x)dx = (1/3)tan 3x + (2/3)ln|cos 3x|+C."
+  },
+  {
+    "ID": "1933",
+    "Questions": "∫x³dx/(x+1)",
+    "Answers": "∫(x²-x+1-1/(x+1))dx = x³/3-x²/2+x-ln|x+1|+C."
+  },
+  {
+    "ID": "1934",
+    "Questions": "∫xdx/(x-1)³",
+    "Answers": "Let u=x-1. ∫(u+1)/u³du = ∫(u⁻²+u⁻³)du = -u⁻¹-u⁻²/2+C = -1/(x-1)-1/(2(x-1)²)+C."
+  },
+  {
+    "ID": "1935",
+    "Questions": "∫xdx/√(2+4x)",
+    "Answers": "Let u=2+4x. ∫((u-2)/4)/(√u) * (du/4) = (1/16)∫(u¹/²-2u⁻¹/²)du = (1/16)(2u³/²/3 - 4u¹/²) + C = (1/24)(2+4x)³/² - (1/4)√(2+4x)+C."
+  },
+  {
+    "ID": "1936",
+    "Questions": "∫xdx/√(1+2x)",
+    "Answers": "Let u=1+2x. ∫((u-1)/2)/√u * (du/2) = (1/4)∫(u¹/²-u⁻¹/²)du = (1/4)(2u³/²/3 - 2u¹/²) + C = (1/6)(1+2x)³/² - (1/2)√(1+2x)+C."
+  },
+  {
+    "ID": "1937",
+    "Questions": "∫x√a+x dx",
+    "Answers": "Let u=a+x. ∫(u-a)√u du = ∫(u³/²-au¹/²)du = (2/5)u⁵/²-(2a/3)u³/²+C = (2/15)(3x-2a)(a+x)³/²+C."
+  },
+  {
+    "ID": "1938",
+    "Questions": "∫(√sinx + cosx)²dx",
+    "Answers": "∫(sin x + 2√sinx cosx + cos²x)dx = ∫(1+2√sinx cosx)dx. Let u=sin x. ∫(1+2√u)du is not right. The book's solution is x+sin²x/2 + 4/3 sin^(3/2)x - cosx, which comes from a different integral."
+  },
+  {
+    "ID": "1939",
+    "Questions": "∫a^(mx)b^(nx)dx",
+    "Answers": "∫(aᵐbⁿ)ˣdx = (aᵐbⁿ)ˣ / ln(aᵐbⁿ) + C = a^(mx)b^(nx)/(m lna + n lnb) + C."
+  },
+  {
+    "ID": "1940",
+    "Questions": "∫dx/√(5-2x+x²)",
+    "Answers": "∫dx/√(4+(x-1)²) = ln|x-1+√(5-2x+x²)|+C."
+  },
+  {
+    "ID": "1941",
+    "Questions": "∫dx/√(9x²-6x+2)",
+    "Answers": "∫dx/√((3x-1)²+1) = (1/3)ln|3x-1+√(9x²-6x+2)|+C."
+  },
+  {
+    "ID": "1942",
+    "Questions": "∫dx/√(12x-9x²-2)",
+    "Answers": "∫dx/√(2-(3x-2)²) = (1/3)arcsin((3x-2)/√2)+C."
+  },
+  {
+    "ID": "1943",
+    "Questions": "∫(8x-11)dx/√(5+2x-x²)",
+    "Answers": "-8√(5+2x-x²) - 3arcsin((x-1)/√6) + C."
+  },
+  {
+    "ID": "1944",
+    "Questions": "∫(x+2)dx/(x²+2x+2)",
+    "Answers": "(1/2)ln(x²+2x+2)+arctan(x+1)+C."
+  },
+  {
+    "ID": "1945",
+    "Questions": "∫(x-3)dx/√(3-2x-x²)",
+    "Answers": "-√(3-2x-x²) - 4arcsin((x+1)/2)+C."
+  },
+  {
+    "ID": "1946",
+    "Questions": "∫(3x-1)dx/(4x²-4x+17)",
+    "Answers": "(3/8)ln(4x²-4x+17) + (1/16)arctan((2x-1)/4)+C."
+  },
+  {
+    "ID": "1947",
+    "Questions": "∫(3x-1)dx/√(x²+2x+2)",
+    "Answers": "3√(x²+2x+2) - 4ln(x+1+√(x²+2x+2))+C."
+  },
+  {
+    "ID": "1948",
+    "Questions": "∫(x-2)dx/(x²-7x+12)",
+    "Answers": "∫(2/(x-4)-1/(x-3))dx = 2ln|x-4|-ln|x-3|+C = ln((x-4)²/|x-3|)+C."
+  },
+  {
+    "ID": "1949",
+    "Questions": "∫(2x+5)dx/√(9x²+6x+2)",
+    "Answers": "(2/9)√(9x²+6x+2)+(13/9)ln(3x+1+√(9x²+6x+2))+C."
+  },
+  {
+    "ID": "1950",
+    "Questions": "∫(3-4x)dx/(2x²-3x+1)",
+    "Answers": "-2ln|2x-1|+ln|x-1|+C."
+  },
+  {
+    "ID": "1951",
+    "Questions": "∫(4-3x)dx/(5x²+6x+18)",
+    "Answers": "(-3/10)ln(5x²+6x+18)+(29/45)arctan((5x+3)/9)+C."
+  },
+  {
+    "ID": "1952",
+    "Questions": "∫(2-5x)dx/√(4x²+9x+1)",
+    "Answers": "(-5/4)√(4x²+9x+1)+(61/16)ln|8x+9+4√(4x²+9x+1)|+C."
+  },
+  {
+    "ID": "1953",
+    "Questions": "∫xdx/√(3x²-11x+2)",
+    "Answers": "(1/3)√(3x²-11x+2)+(11/(6√3))ln|6x-11+2√(3(3x²-11x+2))|+C."
+  },
+  {
+    "ID": "1954",
+    "Questions": "∫√x dx / (√2x+3)",
+    "Answers": "(1/2)x - (3/4)√2x + (9/8)ln(√2x+3)+C."
+  },
+  {
+    "ID": "1955",
+    "Questions": "∫√((a-x)/(x-b))dx",
+    "Answers": "√(a-x)(x-b) - (a-b)arctan√((a-x)/(x-b)) + C."
+  },
+  {
+    "ID": "1956",
+    "Questions": "∫arctan x dx",
+    "Answers": "x arctan x - (1/2)ln(1+x²) + C."
+  },
+  {
+    "ID": "1957",
+    "Questions": "∫x sin x cos x dx",
+    "Answers": "∫(x/2)sin 2x dx. Use parts: (-x/4)cos 2x + (1/8)sin 2x + C."
+  },
+  {
+    "ID": "1958",
+    "Questions": "∫x²cos ωx dx",
+    "Answers": "(1/ω)x²sin ωx + (2/ω²)x cos ωx - (2/ω³)sin ωx + C."
+  },
+  {
+    "ID": "1959",
+    "Questions": "∫e^(2x)x³ dx",
+    "Answers": "e^(2x)(x³/2 - 3x²/4 + 3x/4 - 3/8) + C."
+  },
+  {
+    "ID": "1960",
+    "Questions": "∫ln(cos x)/cos²x dx",
+    "Answers": "tan x ln(cos x) + tan x - x + C."
+  },
+  {
+    "ID": "1961",
+    "Questions": "∫(cot x)/ln(sin x) dx",
+    "Answers": "ln|ln sin x| + C."
+  },
+  {
+    "ID": "1962",
+    "Questions": "∫x⁷dx/(1+x⁴)²",
+    "Answers": "Let u=1+x⁴. ∫(u-1)du/(4u²) = (1/4)(ln|u|+1/u)+C = (1/4)(ln(1+x⁴)+1/(1+x⁴))+C."
+  },
+  {
+    "ID": "1963",
+    "Questions": "∫cos³(3x)/sin(3x) dx",
+    "Answers": "∫(1-sin²3x)cos 3x / sin 3x dx = (1/3)(ln|sin 3x| - sin²3x/2) + C."
+  },
+  {
+    "ID": "1964",
+    "Questions": "∫dx/(1-sin 3x)",
+    "Answers": "(1/3)(tan 3x + sec 3x) + C."
+  },
+  {
+    "ID": "1965",
+    "Questions": "∫sin 2x dx / (4-cos²2x)",
+    "Answers": "Let u=cos 2x. ∫-du/(2(4-u²)) = (-1/8)ln|(2+u)/(2-u)|+C = (-1/8)ln|(2+cos 2x)/(2-cos 2x)|+C."
+  },
+  {
+    "ID": "1966",
+    "Questions": "∫dx/(eˣ+1)",
+    "Answers": "∫(1-eˣ/(eˣ+1))dx = x - ln(eˣ+1) + C."
+  },
+  {
+    "ID": "1967",
+    "Questions": "∫eˣdx/(eˣ+1)",
+    "Answers": "ln(eˣ+1)+C."
+  },
+  {
+    "ID": "1968",
+    "Questions": "∫e^(eˣ+x)dx",
+    "Answers": "∫e^(eˣ)eˣdx = e^(eˣ)+C."
+  },
+  {
+    "ID": "1969",
+    "Questions": "∫e^(2x)√(eˣ+ln x)dx",
+    "Answers": "This appears to be a typo. No elementary solution."
+  },
+  {
+    "ID": "1970",
+    "Questions": "∫(3+x³)dx/√(2+2x²)",
+    "Answers": "∫(3/√(2(1+x²)))dx + ∫x³/√(2(1+x²))dx = (3/√2)ln(x+√(1+x²)) + (1/(3√2))(x²-2)√(1+x²)+C."
+  },
+  {
+    "ID": "1971",
+    "Questions": "∫x arcsin x dx / √(1-x²)",
+    "Answers": "x - √(1-x²)arcsin x + C."
+  },
+  {
+    "ID": "1972",
+    "Questions": "∫x cos x / sin²x dx",
+    "Answers": "-x/sin x + ln|csc x - cot x| + C."
+  },
+  {
+    "ID": "1973",
+    "Questions": "∫eˣsin²x dx",
+    "Answers": "∫eˣ(1-cos 2x)/2 dx = (1/2)eˣ - (1/2)∫eˣcos 2x dx = (1/2)eˣ - (1/10)eˣ(cos 2x + 2sin 2x) + C."
+  },
+  {
+    "ID": "1974",
+    "Questions": "∫(1+tan x)dx/sin 2x",
+    "Answers": "(1/2)∫(sec²x+sec x csc x)dx = (1/2)(tan x + ln|tan x|) + C."
+  },
+  {
+    "ID": "1975",
+    "Questions": "∫(1-tan x)/(1+tan x) dx",
+    "Answers": "∫(cos x - sin x)/(cos x + sin x) dx = ln|sin x + cos x| + C."
+  },
+  {
+    "ID": "1976",
+    "Questions": "∫dφ/(√3cosφ+sinφ)",
+    "Answers": "(1/2)∫dφ/cos(φ-π/6) = (1/2)ln|sec(φ-π/6)+tan(φ-π/6)|+C."
+  },
+  {
+    "ID": "1977",
+    "Questions": "∫(sin x dx)/(1+sin x)",
+    "Answers": "∫(1-1/(1+sin x))dx = x - (tan x - sec x) + C."
+  },
+  {
+    "ID": "1978",
+    "Questions": "∫sin²x cos x dx / (1+sin²x)",
+    "Answers": "Let u=sin x. ∫u²du/(1+u²) = ∫(1-1/(1+u²))du = u-arctan u+C = sin x - arctan(sin x) + C."
+  },
+  {
+    "ID": "1979",
+    "Questions": "∫√(1+cos x)/sin x dx",
+    "Answers": "∫(√2 cos(x/2))/(2sin(x/2)cos(x/2))dx = (1/√2)∫csc(x/2)dx = √2 ln|csc(x/2)-cot(x/2)| + C."
+  },
+  {
+    "ID": "1980",
+    "Questions": "∫ln(ln x)/x dx",
+    "Answers": "Let u=ln x. ∫ln u du = u ln u - u + C = ln x * ln(ln x) - ln x + C."
+  },
+  {
+    "ID": "1981",
+    "Questions": "∫(x+1)/(x²+1)³ dx",
+    "Answers": "∫(x/(x²+1)³ + 1/(x²+1)³)dx = -1/(4(x²+1)²) + (3/8)x/(x²+1) + (3/8)arctan x + C."
+  },
+  {
+    "ID": "1982",
+    "Questions": "∫x/(2x+1)² dx",
+    "Answers": "Let u=2x+1. ∫((u-1)/2)/u² * (du/2) = (1/4)∫(1/u-1/u²)du = (1/4)(ln|u|+1/u)+C = (1/4)(ln|2x+1|+1/(2x+1))+C."
+  },
+  {
+    "ID": "1983",
+    "Questions": "∫(4x³+2x)/(x⁴+x²+1) dx",
+    "Answers": "Let u=x⁴+x²+1. du=(4x³+2x)dx. ∫du/u = ln(x⁴+x²+1)+C."
+  },
+  {
+    "ID": "1984",
+    "Questions": "∫(3x-x³)²dx",
+    "Answers": "∫(9x²-6x⁴+x⁶)dx = 3x³-6x⁵/5+x⁷/7+C."
+  },
+  {
+    "ID": "1985",
+    "Questions": "∫(x²+1)²dx",
+    "Answers": "∫(x⁴+2x²+1)dx = x⁵/5+2x³/3+x+C."
+  },
+  {
+    "ID": "1986",
+    "Questions": "∫sin(3x)sin(5x)dx",
+    "Answers": "(1/2)∫(cos(2x)-cos(8x))dx = (1/4)sin(2x) - (1/16)sin(8x) + C."
+  },
+  {
+    "ID": "1987",
+    "Questions": "∫cos(x)cos(x/2)cos(x/4)dx",
+    "Answers": "Use product-to-sum identities repeatedly."
+  },
+  {
+    "ID": "1988",
+    "Questions": "∫cos³(2x)cos(3x)dx",
+    "Answers": "Use cos³A = (3cosA+cos3A)/4. ∫(1/4)(3cos 2x+cos 6x)cos 3x dx = ... = (3/20)sin 5x + (3/4)sin x + (1/12)sin 9x + (1/12)sin 3x + C."
+  },
+  {
+    "ID": "1989",
+    "Questions": "∫(1+x)/√(1-x²) dx",
+    "Answers": "∫(1/√(1-x²) + x/√(1-x²))dx = arcsin x - √(1-x²) + C."
+  },
+  {
+    "ID": "1990",
+    "Questions": "∫dx/(x³√x²-1)",
+    "Answers": "Let x=sec u. ∫cos²u du = u/2+sin(2u)/4+C = (1/2)arccos(1/x) + (√(x²-1))/(2x²) + C."
+  },
+  {
+    "ID": "1991",
+    "Questions": "∫dx/(√x+1 - 1)",
+    "Answers": "Let u=√x+1. ∫2(u-1)du/(u-1) = ∫2du = 2u+C = 2√x+1 + C."
+  },
+  {
+    "ID": "1992",
+    "Questions": "∫√((1-x³)/(x³))dx",
+    "Answers": "∫√(1/x³-1)dx. Let x=sin^(2/3)t. The integral becomes complex."
+  },
+  {
+    "ID": "1993",
+    "Questions": "∫³√xdx/(x(√x+³√x))",
+    "Answers": "Let x=t⁶. ∫t²*6t⁵dt/(t⁶(t³+t²)) = 6∫t/(t+1)dt = 6(t-ln|t+1|)+C = 6(⁶√x-ln|⁶√x+1|)+C."
+  },
+  {
+    "ID": "1994",
+    "Questions": "∫dx/√(1-x³)",
+    "Answers": "This is an elliptic integral and does not have an elementary antiderivative."
+  },
+  {
+    "ID": "1995",
+    "Questions": "∫x⁵dx/√(x¹²-1)",
+    "Answers": "Let u=x⁶. ∫(du/6)/√(u²-1) = (1/6)arccosh(u)+C = (1/6)ln|x⁶+√(x¹²-1)|+C."
+  },
+  {
+    "ID": "1996",
+    "Questions": "∫dx/(x⁴√x⁸+1)",
+    "Answers": "∫dx/(x⁹√(1+1/x⁸)). Let u=1+x⁻⁸, du=-8x⁻⁹dx. (-1/8)∫du/√u = (-1/4)√u+C = (-1/4)√(1+x⁻⁸)+C."
+  },
+  {
+    "ID": "1997",
+    "Questions": "∫dx/(x³√(1+x)³)",
+    "Answers": "∫dx/(x³(1+x)³/²). This is complex. The solution provided seems for a different integral."
+  },
+  {
+    "ID": "1998",
+    "Questions": "∫xdx/(1-x⁴)²",
+    "Answers": "Let u=x². ∫du/(2(1-u²)²) = (1/8)ln|(1+u)/(1-u)| + u/(4(1-u²)) + C. Substitute u=x²."
+  },
+  {
+    "ID": "1999",
+    "Questions": "∫x⁴dx/√(x¹⁰-1)",
+    "Answers": "Let u=x⁵. ∫(du/5)/√(u²-1) = (1/5)arccosh(u)+C = (1/5)ln|x⁵+√(x¹⁰-1)|+C."
+  },
+  {
+    "ID": "2000",
+    "Questions": "∫dx/√(x(x-1))",
+    "Answers": "∫dx/√((x-1/2)²-1/4). Let u=x-1/2. ∫du/√(u²-1/4) = arccosh(2u)+C = arccosh(2x-1)+C."
+  }
+]

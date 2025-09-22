@@ -1,0 +1,221 @@
+[
+    {
+        "question_number": "45.1",
+        "Questions": "The radius of a carbon nucleus is about 3 × 10^-15 m and its mass is 12 u. Find the average density of the nuclear material. How many times denser than water is this?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "ρ = m / V = (12 u)(1.66 × 10^-27 kg/u) / (4/3π(3 × 10^-15 m)^3) = 1.8 × 10^17 kg/m^3. ρwater = 1000 kg/m^3. Hence, the density is about 2 × 10^14 times denser than water."
+    },
+    {
+        "question_number": "45.2",
+        "Questions": "In a mass spectrograph, the masses of ions are determined from their deflections in a magnetic field. Suppose that singly charged ions of chlorine are shot perpendicularly into a magnetic field B = 0.15 T with a speed of 5.0 × 10^4 m/s. What would be the radii of the circular paths described by the two isotopes in the magnetic field?",
+        "year": null,
+        "question_type": "Problem",
+        "images" : "images_1/Schaums_ch16_to_46_133.png",
+        "solution": "m1 = (34.97 u)(1.66 × 10^-27 kg/u) = 5.81 × 10^-26 kg, m2 = (36.97 u)(1.66 × 10^-27 kg/u) = 6.14 × 10^-26 kg. r = mv / qB. Substituting for both m1 and m2, we get r1 = 0.17 m and r2 = 0.18 m."
+    },
+    {
+        "question_number": "45.3",
+        "Questions": "How many protons, neutrons, and electrons are there in (a) 3He, (b) 12C, and (c) 206Pb?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": {
+            "a": "The atomic number of He is 2; therefore the nucleus must contain 2 protons. The mass number of this isotope is 3, so the sum of the protons and neutrons must equal 3; therefore there is 1 neutron. The number of electrons in the atom is the same as the atomic number, 2.",
+            "b": "The atomic number of carbon is 6; hence the nucleus must contain 6 protons. The number of electrons is the same as the atomic number, 6. The number of neutrons is equal to 12 – 6 = 6.",
+            "c": "The atomic number of lead is 82; hence there are 82 protons in the nucleus and 82 electrons in the atom. The number of neutrons is 206 – 82 = 124."
+        }
+    },
+    {
+        "question_number": "45.4",
+        "Questions": "What is the binding energy of 12C?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Mass of 12C atom = 12.000 u. Mass of six 1H atoms = 6 × 1.0078 u = 6.0468 u. Mass of six neutrons = 6 × 1.0087 u = 6.0522 u. Total mass of component particles = 12.0990 u. Loss in mass on forming 12C = 0.0990 u. Binding energy = (931 × 0.0990) MeV = 92 MeV."
+    },
+    {
+        "question_number": "45.5",
+        "Questions": "Cobalt-60 (60Co) is often used as a radiation source in medicine. It has a half-life of 5.25 years. How long after a new sample is delivered will its activity have decreased (a) to about one-eighth its original value? (b) to about one-third its original value? Give your answers to two significant figures.",
+        "year": null,
+        "question_type": "Problem",
+        "images" : "images_1/Schaums_ch16_to_46_134.png",
+        "solution": {
+            "a": "In each half-life, half the remaining sample decays. Because (1/2)^3 ≈ 1/8, we need three half-lives, or 16 years, for the sample to decay to one-eighth its original strength.",
+            "b": "Using the fact that the material present decreased by one-half during each 5.25 years, we can plot the graph shown in Fig. 45-2. From it, we see that the sample decays to 0.33 its original value after a time of about 8.3 years."
+        }
+    },
+    {
+        "question_number": "45.6",
+        "Questions": "Solve Problem 45.5(b) by using the exponential function.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The decay curve is expressed by the equation N / N0 = e^(-λt), where λ = 0.693/t1/2. Substituting N/N0 = 0.333, we find t = 8.3 years."
+    },
+    {
+        "question_number": "45.7",
+        "Questions": "For the situation described in Problem 45.5, what is N / N0 after 20 years?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "N / N0 = e^(-λt) = e^(-0.132/year)(20 years) = e^-2.64, which gives N / N0 = 0.071."
+    },
+    {
+        "question_number": "45.8",
+        "Questions": "Potassium found in nature contains two isotopes. One isotope constitutes 93.4 percent of the whole and has an atomic mass of 38.975 u; the other 6.6 percent has a mass of 40.974 u. Compute the atomic mass of potassium as found in nature.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Atomic mass = (0.934)(38.975 u) + (0.066)(40.974 u) = 39.1 u."
+    },
+    {
+        "question_number": "45.9",
+        "Questions": "The half-life of radium is 1.62 × 10^3 years. How many radium atoms decay in 1.00 s in a 1.00 g sample of radium? The atomic weight of radium is 226 kg/kmol.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The decay constant is λ = 0.693/t1/2 = 0.693/(1620 y) = 4.3 × 10^-7 s^-1. Then ΔN / Δt = λN = (4.3 × 10^-7 s^-1)(1.36 × 10^25 atoms) = 5.8 × 10^18 atoms."
+    },
+    {
+        "question_number": "45.10",
+        "Questions": "Technetium-99 (99Tc) has an excited state that decays by emission of a gamma ray. The half-life of the excited state is 360 min. What is the activity, in curies, of 1.00 mg of this excited isotope?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The activity of a sample is λN. In this case, λ = 0.693/360 min = 1.93 × 10^-3 min^-1. We know that 1.00 mg of Tc contains 6.02 × 10^22 atoms, so the activity is λN = (1.93 × 10^-3 min^-1)(1.00 × 10^-6 kg)(6.02 × 10^26 atoms) = 1.95 × 10^14 Bq."
+    },
+    {
+        "question_number": "45.11",
+        "Questions": "How much energy must a bombarding proton possess to cause the reaction 7Li(p, n) 7Be? Give your answer to three significant figures.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Using mass-energy equivalence and momentum conservation, the minimum KE of the proton required is 1.89 MeV."
+    },
+    {
+    "question_number": 45.13,
+    "Questions": "Uranium-238 (U) is radioactive and decays by emitting the following particles in succession before reaching a stable form: a, ß, ß, a, a, a, 0, 3, 3, 3, and a (ß stands for 'beta particle,' e~). What is the final stable nucleus?",
+    "year": null,
+    "question_type": "Theory",
+    "solution": "The original nucleus emitted 8 alpha particles and 6 beta particles. When an alpha particle is emitted, Z decreases by 2, since the alpha particle carries away a charge of +2e. A beta particle carries away a charge of -e, and so as a result, the charge on the nucleus must increase to (Z + 1)e. Hence the final nucleus will be 206Pb."
+  },
+  {
+    "question_number": 45.14,
+    "Questions": "The half-life of uranium-238 is about 4.5 x 10^9 years, and its end product is lead-206. We notice that the oldest uranium-bearing rocks on Earth contain about a 50:50 mixture of U-238 and Pb-206. About what is the age of these rocks?",
+    "year": null,
+    "question_type": "Theory",
+    "solution": "Apparently about half the U-238 has decayed to Pb-206 during the existence of the rock. Hence the rock must have been formed about 4.5 billion years ago."
+  },
+  {
+    "question_number": 45.15,
+    "Questions": "A 5.6-MeV alpha particle is shot directly at a uranium atom (Z = 92). About how close will it get to the center of the uranium nucleus?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "At such high energies, the effects of the atomic electrons can be ignored. We also assume the uranium atom to be so massive that it does not move appreciably. Then the original KE of the alpha particle will be changed into electrostatic potential energy. Using the formula for potential energy (V = k * q1 * q2 / r), equating the KE and potential energy, we find that r = 4.7 x 10^-14 m."
+  },
+  {
+    "question_number": 45.16,
+    "Questions": "Neon-23 beta-decays in the following way: 23Ne -> 23Na + 0e+ + 0v. What is the minimum and maximum kinetic energy that the beta particle can have?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The energy carried away by the antineutrino can range from zero to the maximum energy available from the reaction. The mass loss is 0.0047 u, which corresponds to an energy of 4.4 MeV. Hence the energy of the beta particle can range from zero to 4.4 MeV."
+  },
+  {
+    "question_number": 45.17,
+    "Questions": "A nucleus MP, the parent nucleus, decays to a daughter nucleus D by positron decay: MP -> D + 0e+ + 0v. What are the subscript and superscript for D? Prove that the mass loss in the reaction is M_P - M_D = 2m_e, where M_P and M_D are the atomic masses of the parent and daughter.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "To balance the subscripts and superscripts, we must have the same charge for D. The mass loss is calculated by subtracting the atomic mass of the parent and daughter nuclei, giving M_P - M_D = 2m_e."
+  },
+  {
+    "question_number": 45.18,
+    "Questions": "How many protons, neutrons, and electrons does an atom of 235U possess?",
+    "year": null,
+    "question_type": "Theory",
+    "solution": "Ans. 92, 143, 92"
+  },
+  {
+    "question_number": 45.19,
+    "Questions": "By how much does the mass of a heavy nucleus change as it emits a 4.8-MeV gamma ray?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 5.2 x 10^-3 u = 8.6 x 10^-30 kg"
+  },
+  {
+    "question_number": 45.20,
+    "Questions": "Find the binding energy of 107Ag, which has an atomic mass of 106.905 u. Give your answer to three significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 915 eV"
+  },
+  {
+    "question_number": 45.21,
+    "Questions": "The binding energy per nucleon for elements near iron in the periodic table is about 8.90 MeV per nucleon. What is the atomic mass, including electrons, of 56Fe?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 55.9 u"
+  },
+  {
+    "question_number": 45.22,
+    "Questions": "What mass of 60Co has an activity of 1.0 Ci? The half-life of cobalt-60 is 5.25 years.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 8.8 x 10^-7 kg"
+  },
+  {
+    "question_number": 45.23,
+    "Questions": "An experiment is done to determine the half-life of a radioactive substance that emits one beta particle for each decay process. Measurements show that an average of 8.4 beta particles are emitted each second by 25 mg of the substance. The atomic mass of the substance is 230. Find the half-life of the substance.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.7 x 10^9 years"
+  },
+  {
+    "question_number": 45.24,
+    "Questions": "The half-life of carbon-14 is 5.7 x 10^3 years. What fraction of a sample of 14C will remain unchanged after a period of five half-lives?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.031"
+  },
+  {
+    "question_number": 45.25,
+    "Questions": "Cesium-124 has a half-life of 31 s. What fraction of a cesium-124 sample will remain after 0.10 h?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.00032"
+  },
+  {
+    "question_number": 45.26,
+    "Questions": "A certain isotope has a half-life of 7.0 h. How many seconds does it take for 10 percent of the sample to decay?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 3.8 x 10^3 s"
+  },
+  {
+    "question_number": 45.27,
+    "Questions": "By natural radioactivity 238U emits an α-particle. The heavy residual nucleus is called UX. UX, in turn emits a beta particle. The resultant nucleus is called UX-. Determine the atomic number and mass number for (a) UX1 and (b) UX2.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 90, 234; (b) 91, 234"
+  },
+  {
+    "question_number": 45.28,
+    "Questions": "Upon decaying, 239Np emits a beta particle. The residual heavy nucleus is also radioactive, and gives rise to 235U by the radioactive process. What small particle is emitted simultaneously with the formation of 235U?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. alpha particle"
+  },
+  {
+    "question_number": 45.29,
+    "Questions": "Complete the following equations. (See Appendix H for a table of the elements.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 1H + 3Li -> 2He + ?; (b) 10B -> 3He + 1n?; (c) 16Cd -> 9e- + ?; (d) 238U -> 234U + alpha; (e) 105Ag -> ?"
+  },
+  {
+    "question_number": 45.31,
+    "Questions": "How much energy is released during reactions (a) 1H + 3Li -> 2He and (b) 3H + 1H -> 4He + 1n?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 17.4 MeV; (b) 17.6 MeV"
+  },
+  {
+    "question_number": 45.32,
+    "Questions": "In the 14N(n, p)14C reaction, the proton is ejected with an energy of 0.600 MeV. Very slow neutrons are used. Calculate the mass of the 14C atom.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 14.003 u"
+  }
+]

@@ -1,0 +1,571 @@
+[
+  {
+    "question_number": 1,
+    "question": "Find the maximum wavelength of electromagnetic radiation, which can create a hole-electron pair in germanium. Given that forbidden energy gap in germanium is 0.72 eV.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 2,
+    "question": "A semiconductor object has acceptor energy levels 54 meV (millielectron volt) above the valence band. Find the maximum wavelength of the radiation, which can create a hole?",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 3,
+    "question": "Suppose a pure Si crystal has 5 × 10^28 atoms/m³ at room temperature. It is doped by 1 ppm concentration of pentavalent As. Calculate the number of electrons and holes. Given n_i = 1.5×10^16/m³.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 4,
+    "question": "Pure Si at 300K has equal electron (n_e) and hole (n_h) concentration of 1.5 × 10^16 m⁻³. Doping by indium increases n_h to 4.5 × 10^22 m⁻³. Calculate n_e in the doped silicon.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 5,
+    "question": "A semiconductor is known to have an electron concentration of 8 x 10^13 cm³ and a hole concentration of 5 × 10^12 cm³. (a) Is the semiconductor n-type or p-type? (b) What is the resistivity of the sample, if the electron mobility is 23,000 cm² V⁻¹s⁻¹ and hole mobility is 100 cm² V⁻¹s⁻¹? Take charge on electron, e = 1.6×10⁻¹⁹ C.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 6,
+    "question": "In figure, a battery of emf 2 V is used. The length of the block is 0.1 m and the area is 1 × 10⁻⁴ m². If the block is of intrinsic silicon at 300 K, find the electron and hole currents. What will be magnitude of the total current? What will be magnitude of the total current if germanium is used instead of silicon? Given for silicon, n_i = 1.5×10¹⁶/m³, μ_e = 0.135m²/Vs, μ_h = 0.048m²/Vs and for germanium, n_i = 2.4×10¹⁹/m³, μ_e = 0.39m²/Vs, and μ_h = 0.19 m²/Vs.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_1.png"]
+  },
+  {
+    "question_number": 7,
+    "question": "Suppose that the energy liberated in the combination of a hole-electron pair is converted into electromagnetic radiation. If the maximum wavelength of the radiation emitted is 630 mm, what is the width of forbidden energy gap?",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 8,
+    "question": "A doped semiconductor has impurity levels 40 meV (millielectron volt) below the conduction band. (a) Is the material n-type or p-type? (b) In a thermal collision, an amount of energy kT is given to the extra electron loosely bound to the impurity ion and this electron is just able to jump into the conduction band. Calculate the temperature T. Given, Boltzmann's constant, k = 8.62×10⁻⁵ eV K⁻¹.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 9,
+    "question": "Energy of the photon of sodium light of wavelength 5,890 Å equals the energy gap between valence and conduction band of a semiconductor. Find the minimum energy E required to create a hole-electron pair. Given, Boltzmann's constant, k = 1.38×10⁻²³ JK⁻¹.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 10,
+    "question": "Determine the number density of donor atoms which have to be added to an intrinsic germanium semiconductor to produce an n-type semiconductor of conductivity 5 Ω⁻¹ cm⁻¹. Given that the mobility of electrons in n-type Ge is 3,900cm² V⁻¹s⁻¹. Neglect the contribution of holes to conductivity. Take charge on electron, e = 1.6×10⁻¹⁹ C.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 11,
+    "question": "In the following diagrams, indicate which of the diodes are forward biased and which are reverse biased. (Diagrams (i), (ii), (iii), (iv) are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_2.png"]
+  },
+  {
+    "question_number": 12,
+    "question": "In the following circuits, if the input waveform is as shown in the figure, what will be the output waveform, (i) across R in Fig. (a) and (ii) across the diode in Fig. (b)? Assume that the diode is ideal. (Input waveform and circuit diagrams (a) and (b) are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_3.png"]
+  },
+  {
+    "question_number": 13,
+    "question": "In the n-p-n transistor circuit shown in figure, what is the base to collector voltage? What are the biasings (forward or reverse) of the emitter-base and the base-collector junctions? (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_4.png"]
+  },
+  {
+    "question_number": 14,
+    "question": "The following table provides a set of values of V and I obtained for a given diode. (Table: Forward biasing: V=2.0V, I=60mA; V=2.4V, I=80mA. Reverse biasing: V=0V, I=0μA; V=-2V, I=-0.25μA). Assuming the characteristics to be linear over the range, calculate the forward and reverse bias resistance of the given diode.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 15,
+    "question": "A battery of 2 V may be connected across the points A and B, as shown in figure. Find the current drawn from the battery if the positive terminal is connected to (i) the point A and (ii) the point B. Assume that the resistance of each diode is zero in forward bias and infinity in reverse bias. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_5.png"]
+  },
+  {
+    "question_number": 16,
+    "question": "Determine the currents through the resistances of the circuits shown in figure. (Four circuit diagrams (a), (b), (c), (d) are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_6.png"]
+  },
+  {
+    "question_number": 17,
+    "question": "The output of a Zener diode is 5 V with an input voltage of 9 V. If I_L and I_Z are 40 mA and 10 mA respectively, find: (i) resistance R of the current limiting resistor, (ii) power dissipated in the resistor, (iii) power dissipated in the diode. (iv) If the load is disconnected, how much power must the diode be able to dissipate?",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 18,
+    "question": "A 10 V Zener diode along with a series resistance is connected across a 40 V supply. Calculate the minimum value of the resistance R required, if the maximum Zener current is 50 mA. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_7.png"]
+  },
+  {
+    "question_number": 19,
+    "question": "In an n-type silicon, which of the following statement is true?",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [
+      "(a) Electrons are majority carriers and trivalent atoms are the dopants.",
+      "(b) Electrons are minority carriers and pentavalent atoms are the dopants.",
+      "(c) Holes are minority carriers and pentavalent atoms are the dopants.",
+      "(d) Holes are majority carriers and trivalent atoms are the dopants."
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "Which of the statements given in previous problem is true for p-type semiconductors.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [
+      "Implied from Q19 (a) Electrons are majority carriers and trivalent atoms are the dopants.",
+      "Implied from Q19 (b) Electrons are minority carriers and pentavalent atoms are the dopants.",
+      "Implied from Q19 (c) Holes are minority carriers and pentavalent atoms are the dopants.",
+      "Implied from Q19 (d) Holes are majority carriers and trivalent atoms are the dopants."
+    ]
+  },
+  {
+    "question_number": 21,
+    "question": "Carbon, silicon and germanium have four valence electrons each. These are characterized by valence and conduction bands separated by energy band gap respectively equal to (E_g)_C, (E_g)_Si and (E_g)_Ge. Which of the following statements is true?",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [
+      "(a) (E_g)_Si < (E_g)_Ge < (E_g)_C",
+      "(b) (E_g)_C < (E_g)_Ge < (E_g)_Si",
+      "(c) (E_g)_C > (E_g)_Si > (E_g)_Ge",
+      "(d) (E_g)_C = (E_g)_Si = (E_g)_Ge"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question": "In an unbiased p-n junction, holes diffuse from the p-region to n-region because",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [
+      "(a) free electrons in the n-region attract them.",
+      "(b) they move across the junction by the potential difference.",
+      "(c) hole concentration in p-region is more as compared to n-region.",
+      "(d) all the above."
+    ]
+  },
+  {
+    "question_number": 23,
+    "question": "When a forward bias is applied to a p-n junction, it:",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [
+      "(a) raises the potential barrier",
+      "(b) reduces the majority carrier current to zero",
+      "(c) lowers the potential barrier",
+      "(d) none of the above"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question": "The volt-ampere characteristic of a silicon diode is shown in figure. Determine the resistance of the diode at (i) I_D = 20 mA and (ii) V_D = -10 V. (Graph is shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_8.png"]
+  },
+  {
+    "question_number": 25,
+    "question": "The silicon diode shown in figure is rated for a maximum current of 10 mA. Calculate the minimum value of resistor R. Assume the forward voltage drop across the diode to be 0.7 V. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_9.png"]
+  },
+  {
+    "question_number": 26,
+    "question": "Find the current through the circuit and the potential difference across the diode shown in figure. The drift current for the diode is 20 μA. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_10.png"]
+  },
+  {
+    "question_number": 27,
+    "question": "Assuming that the resistances of the meters are negligible, what will be the readings of the ammeters A_1 and A_2 in the circuit shown in figure? (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_11.png"]
+  },
+  {
+    "question_number": 28,
+    "question": "From the output characteristics shown in figure, calculate the value amplification factor of the transistor when V_CE is 2 V. (Graph is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_12.png"]
+  },
+  {
+    "question_number": 29,
+    "question": "A certain n-p-n transistor has the common emitter output characteristics as shown in figure. (a) Find the emitter current at V_CC = 10 V and I_B = 60 μA (b) Find β at this point. (Graph is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_13.png"]
+  },
+  {
+    "question_number": 30,
+    "question": "Figure shows the output characteristic of an n-p-n transistor in CE configuration. For this transistor, determine: (i) the dynamic output resistance, (ii) the d.c. current gain and (iii) the a.c. current gain. (Graph is shown in the text, Illustration number might be 8.17).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_14.png"]
+  },
+  {
+    "question_number": 31,
+    "question": "The input resistance of a transistor is 1000 Ω. On changing, its base current by 10 μA, the collector current increases by 2 mA. If a load resistance of 5 kΩ is used in the circuit, calculate (i) the current gain (ii) voltage gain of the amplifier.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 32,
+    "question": "For a CE-transistor amplifier, the audio signal voltage across the collector resistance of 2 kΩ is 2V. Suppose the current amplification factor of the transistor is 100. Find the input signal voltage and base current, if the base resistance is 1 kΩ.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 33,
+    "question": "Two amplifiers are connected one after the other in series (cascaded). The first amplifier has a voltage gain of 10 and the second has a voltage gain of 20. If the input signal is 0.01 volt, calculate the output a.c. signal. (Block diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_15.png"]
+  },
+  {
+    "question_number": 34,
+    "question": "In figure the transistor is just saturated with an input d.c. voltage V_i. If the gain is 100, calculate V_i. Neglect the base-emitter resistance and potential difference. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_16.png"]
+  },
+  {
+    "question_number": 35,
+    "question": "For a CE-transistor amplifier, the audio signal voltage across the collector resistance of 2.0 kΩ is 2.0 V. Suppose the current amplification factor of the transistor is 100, what should be the value of R_B in series with V_BB supply of 2.0 V if the d.c. base current has to be 10 times the signal current? Also calculate the d.c. drop across the collector resistance. Take V_BE = 0.6 V.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 36,
+    "question": "In a silicon transistor, the base current is changed by 20 μA. This results in a change of 0.02 V in base to emitter voltage and a change of 2 mA in the collector current. (a) Find the input resistance β_ac and transconductance of the transistor. (b) This transistor is used as a CE amplifier with the load resistance 5 kΩ. What is the voltage gain of the amplifier?",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 37,
+    "question": "An n-p-n transistor is connected in common-emitter configuration in which collector supply is 8 V and the voltage drop across the load resistance of 800 Ω connected in the collector circuit is 0.8 V. If current amplification factor is 25, determine collector emitter voltage and base current. If the internal resistance of the transistor is 200 Ω, calculate the voltage gain and power gain. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 38,
+    "question": "All India Radio broadcasts at 710 kcps, whereas BBC broadcasts at 1,380 kcps on the same medium wave band. For changing over from All India Radio to BBC, then capacitance of the variable capacitor has to be decreased. Give reasons in support of your answer.",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 39,
+    "question": "For transistor action, which of the following statements are correct.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [
+      "(a) Base, emitter and collector regions should have similar size and doping concentrations.",
+      "(b) The base region must be very thin and lightly doped.",
+      "(c) The emitter junction is forward biased and collector junction is reverse biased.",
+      "(d) Both the emitter junction as well as the collector junction are forward biased."
+    ]
+  },
+  {
+    "question_number": 40,
+    "question": "For a transistor amplifier, the voltage gain",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [
+      "(a) remains constant for all frequencies.",
+      "(b) is high at high and low frequencies and constant in the middle frequency range.",
+      "(c) is low at high and low frequencies and constant at mid frequencies.",
+      "(d) none of the above"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question": "In a common emitter transistor circuit, if the collector-emitter voltage changes by 0.2 V, the collector current changes by 0.004 mA. What is the output resistance of the circuits.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 42,
+    "question": "A transistor has a current gain of 30. If the collector resistance is 6 kΩ, input resistance is 1 kΩ, calculate its voltage gain.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 43,
+    "question": "A change of 0.2 mA in the base current causes a change of 5 mA in the collector current for a common emitter amplifier. (i) Find the a.c. current gain of the transistor. (ii) If the input resistance is 2 kΩ and its voltage gain is 75, calculate the load resistance used in the circuit.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 44,
+    "question": "The power gain for CB amplifier is 800, and the voltage amplification factor is 840. Find the collector current when the base current is 1.2 mA.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 45,
+    "question": "In a common-emitter transistor amplifier, an increase of 50 μA in the base current causes an increase of 1.0 mA in the collector current. Calculate gain β. What will be the change in emitter current? Also calculate current gain α.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_17.png"]
+  },
+  {
+    "question_number": 46,
+    "question": "The potential difference across the collector of a transistor, used in common emitter mode is 1.5 V, with the collector resistance of 3 kΩ. Find (i) the emitter and (ii) the base current, if the d.c. gain of the transistor is 50.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 47,
+    "question": "The current gain for common emitter amplifier is 59. If the emitter current is 6.0 mA, find (i) base current (ii) collector current.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 48,
+    "question": "In the circuit shown in figure, the base current I_B = 5.0 μA, base resistor R_B = 1.0 MΩ, collector resistance R_C = 1.1 kΩ, the collector current I_C = 5.0 mA and the d.c. voltage in the collector circuit V_CC = 6.0 V. (i) Can this circuit be used in an amplifier? (ii) What happen if the resistance R_C is 400 Ω and I_C, I_B and R_B remain same as above? (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 49,
+    "question": "Perform binary addition on the following sets of numbers: (a) 110010 and 111101 (b) 101010 and 010101",
+    "year": null,
+    "question_type": "Illustration",
+    "options": []
+  },
+  {
+    "question_number": 50,
+    "question": "In figure below, circuit symbol of a logic gate and two input waveforms 'A' and 'B' are shown. (a) Name the logic gate. (b) Write its truth table. (c) Give the output waveform. (Gate symbol and waveforms are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_18.png"]
+  },
+  {
+    "question_number": 51,
+    "question": "In figure below, circuit symbol of a logic gate and two input waveforms 'A' and 'B' are shown. (a) Name the logic gate. (b) Write its truth table. (c) Give the output waveform. (Gate symbol and waveforms are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_19.png"]
+  },
+  {
+    "question_number": 52,
+    "question": "Given the symbol, and the truth table of each of the two logic gates, obtained by using the two circuits, shown below. (Two circuit diagrams (a) and (b) for realizing logic gates are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_20.png"]
+  },
+  {
+    "question_number": 53,
+    "question": "In the figure below, circuit of a logic gate and input waveform is shown. (a) Name the logic gate, (b) write its truth table and (c) give the output waveform. (Gate symbol and waveform A are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_21.png"]
+  },
+  {
+    "question_number": 54,
+    "question": "Sketch the output waveform obtained from NAND gate for the inputs A and B as shown in figure. (Input waveforms A and B are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_22.png"]
+  },
+  {
+    "question_number": 55,
+    "question": "Sketch the output waveform obtained from NOR gate for the inputs A and B as shown in figure. (Input waveforms A and B are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_23.png"]
+  },
+  {
+    "question_number": 56,
+    "question": "Give the symbol, and the truth table of each of the two logic gates, obtained by using the two gate combinations, shown in figure. (Two gate combination diagrams (a) and (b) are shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_24.png"]
+  },
+  {
+    "question_number": 57,
+    "question": "The given figure represents a combination of gates, write the truth table for this. (Gate combination diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_25.png"]
+  },
+  {
+    "question_number": 58,
+    "question": "The given figure represents a combination of gates, write the truth table. (Gate combination diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_26.png"]
+  },
+  {
+    "question_number": 59,
+    "question": "Express by a truth table, the output y for all possible inputs A and B for the combination of gates shown in figure. Hence, show that it behaves as a NAND gate. (Gate combination diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_27.png"]
+  },
+  {
+    "question_number": 60,
+    "question": "Produce the truth table for the combination of gates shown in figure and hence show that it behaves as XOR gate. (Gate combination diagram is shown in the text).",
+    "year": null,
+    "question_type": "Illustration",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_28.png"]
+  },
+  {
+    "question_number": 61,
+    "question": "The Boolean expressions for the logic circuits are as given below: (a) y = A̅B + AB̅ (b) y = A̅B̅ + AB. Find the output y in each case, if the inputs are A = 0, B = 0; A = 1, B = 0; A = 0, B = 1 and A = 1, B = 1.",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": []
+  },
+  {
+    "question_number": 62,
+    "question": "The following figure shows the input waveforms (A, B) and the output waveform (Y) of a gate. Identify the gate. (Waveforms are shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_29.png"]
+  },
+  {
+    "question_number": 63,
+    "question": "Identify the logic gates marked X, Y in figure. Write down the output at v, when A = 1, B=1 and A = 0 and B = 0. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_30.png"]
+  },
+  {
+    "question_number": 64,
+    "question": "Identify the logic gates marked, X, Y in figure. Write down the output at v, when A = 1, B = 1 and A = 0 and B = 1. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_31.png"]
+  },
+  {
+    "question_number": 65,
+    "question": "Produce the truth table of the combination of four NAND gates arranged as shown in figure. Hence, show that it behaves as XOR gate. (Circuit diagram is shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_32.png"]
+  },
+  {
+    "question_number": 66,
+    "question": "In the given figure, circuit symbol of a logic gate and two input waveforms A and B are shown. Write its truth table and give the output waveform. (Gate symbol and waveforms are shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_33.png"]
+  },
+  {
+    "question_number": 67,
+    "question": "Draw the output waveform for input waveforms A and B shown in figure for OR gate. (Input waveforms are shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_34.png"]
+  },
+  {
+    "question_number": 68,
+    "question": "In the given figure, circuit symbol of a logic gate and two input waveforms A and B are shown. Write its truth table and give the output waveform. (Gate symbol and waveforms are shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_35.png"]
+  },
+  {
+    "question_number": 69,
+    "question": "(i) Sketch the output waveform from an AND gate for the inputs A and B shown in figure. (ii) If the output of the above AND gate is fed to a NOT gate, name the gate of the combination so formed. (Input waveforms are shown in the text).",
+    "year": null,
+    "question_type": "Concept Application Exercise",
+    "options": [],
+    "images" : ["Ch_8_1_images/arihant_36.png"]
+  },
+  {
+    "question_number": 70,
+    "question": "In an intrinsic semiconductor, the energy gap E_g is 1.2 eV. Its hole mobility is much smaller than electron mobility and independent of temperature. What is the ratio between conductivity at 600 K and that at 300 K? Assume that the temperature dependence of intrinsic carrier concentration n_i is given by n_i = n_0 exp(-E_g / (2k_B T)) where n_0 is a constant.",
+    "year": null,
+    "question_type": "Solved Example",
+    "options": []
+  },
+  {
+    "question_number": 71,
+    "question": "In a p-n junction diode, the current I can be expressed as, I = I_0 [exp(eV / (k_B T)) - 1] where I_0 is called the reverse saturation current, V is the voltage across the diode and is positive for forward bias and negative for reverse bias, and I is the current through the diode, k_B is the Boltzmann constant (8.6 × 10⁻⁵ eV/K) and T is the absolute temperature. If for a diode, I_0 = 5 × 10⁻¹² A and T = 300 K, then (a) What will be the forward current at a forward voltage of 0.6 V? (b) What will be the increase in the current if the voltage across the diode is increased to 0.7 V? (c) What is the dynamic resistance? (d) What will be the current if reverse bias voltage changes from 1 V to 2 V?",
+    "year": null,
+    "question_type": "Solved Example",
+    "options": []
+    
+  }
+]

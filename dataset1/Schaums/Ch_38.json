@@ -1,0 +1,187 @@
+[
+  {
+    "question_number": "38.1",
+    "Questions": "An object OO', 4.0 cm high, is 20 cm in front of a thin convex lens of focal length +12 cm. Determine the position and height of its image II' (a) by construction and (b) by computation.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_114.png",
+    "solution": "a) The intersection of two rays is the image of O. The image is real, inverted, enlarged, and at a greater distance from the lens than the object. b) The image is real (since si is positive) and 30 cm behind the lens. Height of image = (1.5)(4.0 cm) = 6.0 cm"
+  },
+  {
+    "question_number": "38.2",
+    "Questions": "An object OO' is 5.0 cm in front of a convex lens of focal length +7.5 cm. Determine the position and magnification of its image II' (a) by construction and (b) by computation.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_115.png",
+    "solution": "a) The image is virtual, erect, and enlarged, as shown. b) The image is virtual (on the same side of the lens as the object), and it is 15 cm in front of the lens. Linear magnification = (15 cm) / (5.0 cm) = 3.0"
+  },
+  {
+    "question_number": "38.3",
+    "Questions": "An object OO', 9.0 cm high, is 27 cm in front of a concave lens of focal length -18 cm. Determine the position and height of its image II' (a) by construction and (b) by computation.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_116.png",
+    "solution": "a) The image is virtual, erect, and smaller. b) The image is virtual and 11 cm in front of the lens. Linear magnification = (10.8 cm) / (27 cm) = 0.40"
+  },
+  {
+    "question_number": "38.4",
+    "Questions": "A converging lens (f = 20 cm) is placed 37 cm in front of a screen. Where should the object be placed if its image is to appear on the screen?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The object should be placed 44 cm from the lens."
+  },
+  {
+    "question_number": "38.5",
+    "Questions": "Compute the position and focal length of the converging lens which will project the image of a lamp, magnified 4 times, upon a screen 10.0 m from the lamp.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The required distance is 8.0 m, and the focal length is 1.6 m."
+  },
+  {
+    "question_number": "38.6",
+    "Questions": "In what two positions will a converging lens of focal length +9.00 cm form images of a luminous object located 40.0 cm from the object?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The two lens positions are 13.7 cm and 26.3 cm from the object."
+  },
+  {
+    "question_number": "38.7",
+    "Questions": "A converging lens with 50 cm focal length forms a real image that is 2.5 times larger than the object. How far is the object from the image?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The required distance is 245 cm."
+  },
+  {
+    "question_number": "38.8",
+    "Questions": "A lens of focal length f projects upon a screen the image of a luminous object magnified M times. Show that the lens distance from the screen is f(M + 1).",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The lens distance from the screen is f(M + 1)."
+  },
+  {
+    "question_number": "38.9",
+    "Questions": "A lens has a convex surface of radius 20 cm and a concave surface of radius 40 cm and is made of glass of refractive index 1.54. Compute the focal length of the lens, and state whether it is a converging or a diverging lens.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "f = +74 cm (converging)"
+  },
+  {
+    "question_number": "38.10",
+    "Questions": "A double convex lens has faces of radii 18 and 20 cm. When an object is 24 cm from the lens, a real image is formed 32 cm from the lens. Determine (a) the focal length of the lens and (b) the refractive index of the lens material.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "a) f = +13.7 cm, b) n = 1.7"
+  },
+  {
+    "question_number": "38.11",
+    "Questions": "A glass lens (n = 1.50) has a focal length of +10 cm in air. Compute its focal length in water (n = 1.33).",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "f = 39 cm"
+  },
+  {
+    "question_number": "38.12",
+    "Questions": "Each face of a double convex lens has a radius of 20.0 cm. The index of refraction of the glass is 1.50. Compute the focal length of this lens (a) in air and (b) when it is immersed in carbon disulfide (n = 1.63).",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "a) f = +20.0 cm, b) f = -125 cm"
+  },
+  {
+    "question_number": "38.13",
+    "Questions": "A converging lens of focal length +9.00 cm forms a real image with magnification -4.0. What is the position of the object?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The object is 4.5 cm from the lens."
+  },
+  {
+    "question_number": "38.14",
+    "Questions": "An achromatic lens is formed from two thin lenses in contact, having powers of +10.0 diopters and -6.0 diopters. Determine the power and focal length of the combination.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Power = +10.0 - 6.0 = +4.0 diopters and focal length = 1 / +4.0 m = +25 cm"
+  },
+  {
+    "question_number": "38.15",
+    "Questions": "Draw diagrams to indicate qualitatively the position, nature, and size of the image formed by a converging lens of focal length f for the following object distances: (a) infinity, (b) greater than 2f, (c) equal to 2f, (d) between 2f and f, (e) equal to f, (f) less than f.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": "38.16",
+    "Questions": "Determine the nature, position, and linear magnification of the image formed by a thin converging lens of focal length +100 cm when the object distance from the lens is (a) 150 cm, (b) 75.0 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) real, inverted, 300 cm beyond lens, 2:1; (b) virtual, erect, 300 cm in front of lens, 4:1"
+  },
+  {
+    "question_number": "38.17",
+    "Questions": "In what two positions of the object will its image be enlarged 8.0 times by a lens of focal length +4.0 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.5 cm from lens (image is real and inverted), 3.5 cm from lens (image is virtual and erect)"
+  },
+  {
+    "question_number": "38.18",
+    "Questions": "What are the nature and focal length of the lens that will form a real image having one-third the dimensions of an object located 9.0 cm from the lens?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "converging, +2.3 cm"
+  },
+  {
+    "question_number": "38.19",
+    "Questions": "Describe fully the image of an object which is 10 cm high and 28 cm from a diverging lens of focal length -7.0 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "virtual, erect, smaller, 5.6 cm in front of lens, 2.0 cm high"
+  },
+  {
+    "question_number": "38.20",
+    "Questions": "Compute the focal length of the lens which will give an erect image 10 cm from the lens when the object distance from the lens is (a) 200 cm, (b) very great.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) f = -11 cm, (b) f = -10 cm"
+  },
+  {
+    "question_number": "38.21",
+    "Questions": "A luminous object and a screen are 12.5 m apart. What are the position and focal length of the lens which will throw upon the screen an image of the object magnified 24 times?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.50 m from object, f = +0.48 m"
+  },
+  {
+    "question_number": "38.22",
+    "Questions": "A plano-concave lens has a spherical surface of radius 12 cm, and its focal length is -22.2 cm. Compute the refractive index of the lens material.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.5"
+  },
+  {
+    "question_number": "38.23",
+    "Questions": "A convexo-concave lens has faces of radii 3.0 and 4.0 cm, respectively, and is made of glass of refractive index 1.6. Determine (a) its focal length and (b) the linear magnification of the image when the object is 28 cm from the lens.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) +20 cm, (b) 2.5:1"
+  },
+  {
+    "question_number": "38.24",
+    "Questions": "A double convex glass lens (n = 1.50) has faces of radius 8 cm. Compute its focal length in air and when immersed in water (n = 1.33).",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "f = +8 cm, +0.3 m"
+  },
+  {
+    "question_number": "38.25",
+    "Questions": "Two thin lenses, of focal lengths +12 and -30 cm, are in contact. Compute the focal length and power of the combination.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "+20 cm, +5.0 diopters"
+  },
+  {
+    "question_number": "38.26",
+    "Questions": "What must be the focal length of a third thin lens, placed in close contact with two thin lenses of 16 cm and -23 cm focal length, to produce a lens with -12 cm focal length?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "-9.8 cm"
+  }
+]

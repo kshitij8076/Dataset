@@ -1,0 +1,2504 @@
+[
+  {
+    "id": 1,
+    "Question": "Evaluate the integral: ∫[0, ∞] (sin(x)/x) dx",
+    "Solution": "This is the Dirichlet integral. A common method is to introduce I(t) = ∫[0, ∞] (sin(x)/x) * e^(-tx) dx and use Feynman's trick (differentiating under the integral sign) with respect to t. The final answer is π/2."
+  },
+  {
+    "id": 2,
+    "Question": "Evaluate the integral: ∫[-∞, ∞] e^(-x²) dx",
+    "Solution": "This is the Gaussian integral. Square the integral to get I² = ∫∫ e^-(x²+y²) dx dy, then switch to polar coordinates. The result is I² = π, so I = √π."
+  },
+  {
+    "id": 3,
+    "Question": "Evaluate the integral: ∫[0, ∞] dx / (1 + x^n) for n > 1",
+    "Solution": "Use contour integration with a keyhole or pie-slice contour. The poles are the n-th roots of -1. Summing the residues, typically using the pole at e^(iπ/n), gives the result: (π/n) / sin(π/n)."
+  },
+  {
+    "id": 4,
+    "Question": "Evaluate the integral: ∫[0, 1] x^m * (ln(x))^n dx for integers m, n ≥ 0",
+    "Solution": "Use the substitution u = -(m+1)ln(x), which gives x = e^(-u/(m+1)). This transforms the integral into a Gamma function form. The result is ((-1)^n * n!) / (m+1)^(n+1)."
+  },
+  {
+    "id": 5,
+    "Question": "Evaluate the integral: ∫[0, π/2] ln(sin(x)) dx",
+    "Solution": "Let I = ∫[0, π/2] ln(sin(x)) dx. Use the property I = ∫[0, π/2] ln(cos(x)) dx. Add them: 2I = ∫[0, π/2] ln(sin(x)cos(x)) dx = ∫[0, π/2] ln(sin(2x)/2) dx. After substitution and manipulation, the result is - (π/2)ln(2)."
+  },
+  {
+    "id": 6,
+    "Question": "Evaluate the integral: ∫[0, ∞] sin(x²) dx",
+    "Solution": "This is a Fresnel integral. A method is to use contour integration on e^(iz²) over a sector contour of angle π/4. Another is to substitute u = x² and use complex Gamma function properties. The result is √(π/8)."
+  },
+  {
+    "id": 7,
+    "Question": "Evaluate the integral: ∫[0, 1] (ln(1+x))/(1+x²) dx",
+    "Solution": "Let x = tan(θ). The integral becomes ∫[0, π/4] ln(1+tanθ) dθ. Use the property ∫[0, a] f(x) dx = ∫[0, a] f(a-x) dx with a=π/4. This leads to 2I = (π/4)ln(2), so I = (π/8)ln(2)."
+  },
+  {
+    "id": 8,
+    "Question": "Evaluate the integral: ∫[0, 1] (x-1)/ln(x) dx",
+    "Solution": "Use Feynman's trick by defining I(t) = ∫[0, 1] (x^t - 1)/ln(x) dx. Differentiate with respect to t to get I'(t) = ∫[0, 1] x^t dx = 1/(t+1). Integrating I'(t) gives I(t) = ln(t+1) + C. Since I(0)=0, C=0. The original integral is I(1) = ln(2)."
+  },
+  {
+    "id": 9,
+    "Question": "Evaluate the integral: ∫[0, 2π] dθ / (a + b*cos(θ)) for a > |b| > 0",
+    "Solution": "Use contour integration with the substitution z = e^(iθ). The integral becomes ∮ (2/ib) dz / (z² + (2a/b)z + 1) over the unit circle. Find the pole inside the circle and calculate the residue. The result is 2π / √(a² - b²)."
+  },
+  {
+    "id": 10,
+    "Question": "Evaluate the Sophomore's Dream integral: ∫[0, 1] x^(-x) dx",
+    "Solution": "Write x^(-x) as e^(-x*ln(x)) and expand the exponential as a Taylor series: Σ (-1)^n * (x*ln(x))^n / n!. Integrate term by term using the result from problem 4. The result is the infinite sum Σ[n=1, ∞] n^(-n)."
+  },
+  {
+    "id": 11,
+    "Question": "Evaluate the integral: ∫[0, ∞] (ln(x)) / (x² + a²) dx for a > 0",
+    "Solution": "Use contour integration with a keyhole contour for the ln(z) term. The integral over the full contour is 2πi times the sum of residues at z = ±ia. The result is (π * ln(a)) / (2a)."
+  },
+  {
+    "id": 12,
+    "Question": "Evaluate the integral: ∫[0, ∞] x / (sinh(ax)) dx for a > 0",
+    "Solution": "Write sinh(ax) = (e^(ax) - e^(-ax))/2 = e^(ax)(1-e^(-2ax))/2. Expand 1/(1-e^(-2ax)) as a geometric series. Swap integral and sum, then integrate by parts or use Gamma function. The result is π² / (4a²)."
+  },
+  {
+    "id": 13,
+    "Question": "Evaluate the integral: ∫[0, ∞] (cos(ax) - cos(bx)) / x² dx for a, b > 0",
+    "Solution": "Use integration by parts on the two separate divergent integrals, which makes them convergent. Alternatively, use Frullani's integral theorem, but for f(x) not vanishing at infinity. The result is π(b-a)/2."
+  },
+  {
+    "id": 14,
+    "Question": "Evaluate the integral: ∫[0, 1] Li₂(x)/x dx, where Li₂(x) is the dilogarithm.",
+    "Solution": "The integral is by definition the trilogarithm Li₃(1). This value is known to be the Apery's constant, ζ(3). The solution is ζ(3)."
+  },
+  {
+    "id": 15,
+    "Question": "Evaluate the integral: ∫[0, π] x * sin(x) / (1 - 2a*cos(x) + a²) dx for |a| < 1",
+    "Solution": "This is a Poisson integral. Expand the denominator as a geometric series in terms of 'a'. The result is (π/a) * ln(1+a) if |a|<1 and (π/a) * ln(1+1/a) if |a|>1."
+  },
+  {
+    "id": 16,
+    "Question": "Evaluate the integral: ∫[0, ∞] sin(x) * sin(x/2) / x² dx",
+    "Solution": "Use the identity sin(A)sin(B) = (1/2)[cos(A-B) - cos(A+B)]. The integral becomes (1/2) ∫[0, ∞] (cos(x/2) - cos(3x/2)) / x² dx. Apply the result from problem 13. The answer is π/4."
+  },
+  {
+    "id": 17,
+    "Question": "Evaluate the integral: ∫[0, ∞] e^(-x⁴) dx",
+    "Solution": "Substitute u = x⁴, so x = u^(1/4) and dx = (1/4)u^(-3/4)du. The integral becomes (1/4) ∫[0, ∞] u^(-3/4) * e^(-u) du. This is (1/4)Γ(1/4). The result is Γ(5/4)."
+  },
+  {
+    "id": 18,
+    "Question": "Evaluate the integral: ∫[0, 1] (arctan(x))/x dx",
+    "Solution": "Expand arctan(x) into its Maclaurin series: Σ (-1)^n * x^(2n+1) / (2n+1). Divide by x and integrate term-by-term. This gives the alternating sum Σ (-1)^n / (2n+1)², which is Catalan's constant, G."
+  },
+  {
+    "id": 19,
+    "Question": "Evaluate the integral: ∫[0, π/2] dx / (1 + tan(x)^√2)",
+    "Solution": "Let I be the integral. Use the property ∫[0, a] f(x) dx = ∫[0, a] f(a-x) dx with a = π/2. Then I = ∫[0, π/2] dx / (1 + cot(x)^√2) = ∫[0, π/2] tan(x)^√2 dx / (tan(x)^√2 + 1). Add the two expressions for I to get 2I = ∫[0, π/2] dx = π/2. So, I = π/4."
+  },
+  {
+    "id": 20,
+    "Question": "Evaluate the integral: ∫[0, ∞] (x^(a-1)) / (1+x) dx for 0 < a < 1",
+    "Solution": "This is a representation of the Beta function after substitution x = u/(1-u). It can also be solved with a keyhole contour for z^(a-1)/(1+z). The result is π / sin(πa)."
+  },
+  {
+    "id": 21,
+    "Question": "Evaluate the integral: ∫[0, ∞] ln(1 + x²) / (1 + x²) dx",
+    "Solution": "Use Feynman's trick. Define I(a) = ∫[0, ∞] ln(1 + a*x²) / (1 + x²) dx. Differentiate with respect to a. I'(a) = ∫[0, ∞] x² / ((1+ax²)(1+x²)) dx. Use partial fractions and integrate. The final result is π*ln(2)."
+  },
+  {
+    "id": 22,
+    "Question": "Evaluate the integral: ∫[0, 1] ln(x) * ln(1-x) dx",
+    "Solution": "Expand ln(1-x) = -Σ x^n/n. Swap integral and sum. Integrate ∫[0,1] x^n ln(x) dx = -1/(n+1)². This leads to the sum Σ 1/(n(n+1)²). After partial fraction decomposition of the sum, the result is 2 - π²/6."
+  },
+  {
+    "id": 23,
+    "Question": "Evaluate the integral: ∫[-∞, ∞] sech(x) dx",
+    "Solution": "Let u = e^x. The integral becomes ∫[0, ∞] 2 / (u² + 1) du. This is 2[arctan(u)] from 0 to ∞, which equals 2(π/2 - 0) = π."
+  },
+  {
+    "id": 24,
+    "Question": "Evaluate the integral: ∫[0, ∞] x * e^(-x³) dx",
+    "Solution": "Substitute u = x³, so x = u^(1/3). The integral transforms into (1/3) ∫[0, ∞] u^(-1/3) * e^(-u) du. This is the Gamma function Γ(2/3). The result is (1/3)Γ(2/3)."
+  },
+  {
+    "id": 25,
+    "Question": "Evaluate the integral: ∫[0, π/2] √(tan(x)) dx",
+    "Solution": "Let u² = tan(x). The integral becomes ∫[0, ∞] 2u² / (1+u⁴) du. Use contour integration or partial fractions on u⁴+1=(u²+√2u+1)(u²-√2u+1). The result is π/√2."
+  },
+  {
+    "id": 26,
+    "Question": "Evaluate the integral: ∫[0, 1] (1-x)^(p-1) * (1+x)^(-p) dx for p > 0",
+    "Solution": "Substitute x = (1-y)/(1+y). This transforms the integrand and limits into a much simpler form. The result is 2^(1-p) * (1/p) * B(p, 1/2), where B is the Beta function."
+  },
+  {
+    "id": 27,
+    "Question": "Evaluate the integral: ∫[0, ∞] (e^(-ax) - e^(-bx)) / x dx (Frullani Integral)",
+    "Solution": "This is a classic Frullani integral. The general formula ∫[0,∞] (f(ax)-f(bx))/x dx = (f(0)-f(∞))ln(b/a). Here f(t) = e^(-t), f(0)=1, f(∞)=0. The result is ln(b/a)."
+  },
+  {
+    "id": 28,
+    "Question": "Evaluate the integral: ∫[0, ∞] dx / (x⁴ + x² + 1)",
+    "Solution": "Factor the denominator: x⁴+x²+1 = (x²+1)²-x² = (x²+x+1)(x²-x+1). Use partial fractions to decompose the integrand. Integrate the resulting arctan terms. The result is π/(2√3)."
+  },
+  {
+    "id": 29,
+    "Question": "Evaluate the integral: ∫[0, ∞] (arctan(πx) - arctan(x)) / x dx",
+    "Solution": "Apply the Frullani integral formula with f(t) = arctan(t). Here f(0)=0 and f(∞)=π/2. The result is (π/2) * ln(π/1) = (π/2)ln(π)."
+  },
+  {
+    "id": 30,
+    "Question": "Evaluate the integral: ∫[0, 1] dx / (x^x)^(1/ln(x))",
+    "Solution": "Simplify the integrand. (x^x)^(1/ln(x)) = (e^(x*ln(x)))^(1/ln(x)) = e^(x). So the integral is just ∫[0, 1] e^x dx = e - 1."
+  },
+  {
+    "id": 31,
+    "Question": "Evaluate the integral: ∫[0, π] ln(1 - 2a*cos(x) + a²) dx for |a| < 1",
+    "Solution": "The integrand is ln|1-ae^(ix)|². The integral is Re(∫[0,π] 2ln(1-ae^(ix)) dx). The integral of ln(1-z) is related to the dilogarithm. For |a|<1, the integral is 0. For |a|>1, it is 2πln|a|."
+  },
+  {
+    "id": 32,
+    "Question": "Evaluate the integral: ∫[0, ∞] x² / (e^x - 1) dx",
+    "Solution": "Write 1/(e^x-1) = e^(-x)/(1-e^(-x)) and expand as a geometric series Σ e^(-nx). Swap integral and sum, integrate ∫[0,∞] x²e^(-nx)dx = 2/n³. The result is 2 * Σ 1/n³ = 2ζ(3)."
+  },
+  {
+    "id": 33,
+    "Question": "Evaluate the integral: ∫[0, ∞] J₀(x) dx, where J₀(x) is the Bessel function of the first kind.",
+    "Solution": "J₀(x) is the real part of the Hankel function H₀⁽¹⁾(x). Use the integral representation J₀(x) = (1/π)∫[0,π] cos(x*cos(t)) dt. Swapping the order of integration leads to the result 1."
+  },
+  {
+    "id": 34,
+    "Question": "Evaluate the integral: ∫[0, 1] (Li₂(x) + Li₂(-x))/x dx",
+    "Solution": "Use the identity Li₂(x) + Li₂(-x) = (1/2)Li₂(x²). The integral becomes (1/2)∫[0,1] Li₂(x²)/x dx. Substitute u=x² to get (1/4)∫[0,1] Li₂(u)/u du = (1/4)ζ(3)."
+  },
+  {
+    "id": 35,
+    "Question": "Evaluate the integral: ∫[0, ∞] dx / (cosh(x) + cos(c)) for c in (0, π)",
+    "Solution": "Use contour integration on a rectangular contour with height 2π. The poles of 1/(cosh(z)+cos(c)) are at z = i(π±c). The result is c / sin(c)."
+  },
+  {
+    "id": 36,
+    "Question": "Evaluate the integral: ∫[0, ∞] (sin²(x)) / x² dx",
+    "Solution": "Integrate by parts: u=sin²(x), dv=dx/x². This gives [-sin²(x)/x] + ∫ 2sin(x)cos(x)/x dx = ∫ sin(2x)/x dx. Let u=2x. This is (1/2)∫ sin(u)/u du = π/2."
+  },
+  {
+    "id": 37,
+    "Question": "Evaluate the integral: ∫[0, 1] (arcsin(x))² dx",
+    "Solution": "Integrate by parts twice. Let u = (arcsin(x))², dv=dx. The second integration will involve ∫ x*arcsin(x)/√(1-x²) dx, which requires a substitution. The result is (π²/4) - 2."
+  },
+  {
+    "id": 38,
+    "Question": "Evaluate the integral: ∫[0, 1] (1/x) * log( (1+x)/(1-x) ) dx",
+    "Solution": "Expand log((1+x)/(1-x)) = 2 * artanh(x) into its series 2 Σ x^(2n+1)/(2n+1). Divide by x, integrate term-by-term from 0 to 1. This gives 2 Σ 1/(2n+1)² = 2 * (π²/8) = π²/4."
+  },
+  {
+    "id": 39,
+    "Question": "Evaluate the integral: ∫[0, ∞] (x * sin(x)) / (1 + x²) dx",
+    "Solution": "Use contour integration on f(z) = (z * e^(iz)) / (1+z²) over a semicircle in the upper half-plane. The only pole is at z=i. The residue is e⁻¹/2. The result is π/(2e)."
+  },
+  {
+    "id": 40,
+    "Question": "Evaluate the integral: ∫[-∞, ∞] e^(ax) / (1 + e^x) dx for 0 < a < 1",
+    "Solution": "Substitute u = e^x. The integral becomes ∫[0,∞] u^(a-1)/(1+u) du. This is the same integral as in problem 20. The result is π / sin(πa)."
+  },
+  {
+    "id": 41,
+    "Question": "Evaluate the integral: ∫[0, ∞] (ln(x))² / (1+x²) dx",
+    "Solution": "Use contour integration with a keyhole contour for (ln(z))³/(1+z²). Alternatively, define I(a) = ∫ x^a/(1+x²) dx = (π/2)sec(πa/2) and differentiate twice with respect to 'a', then set a=0. The result is π³/8."
+  },
+  {
+    "id": 42,
+    "Question": "Evaluate the integral: ∫[0, 1] dx / √(x(1-x)(1-k²x)) for 0 < k < 1",
+    "Solution": "This is the definition of the complete elliptic integral of the first kind, K(k). There is no closed-form solution in terms of elementary functions."
+  },
+  {
+    "id": 43,
+    "Question": "Evaluate the integral: ∫[0, π/2] sin^m(x) * cos^n(x) dx",
+    "Solution": "This can be expressed in terms of the Beta function. Let u = sin²(x). The integral becomes (1/2)B((m+1)/2, (n+1)/2). This can be written using Gamma functions."
+  },
+  {
+    "id": 44,
+    "Question": "Evaluate the integral: ∫[0, 1] dx / (1 + ³√x)",
+    "Solution": "Let u = ³√x, so x = u³ and dx = 3u²du. The integral becomes ∫[0, 1] 3u² / (1+u) du. Use polynomial long division to get 3∫ (u-1 + 1/(1+u)) du. The result is 3(1/2 - 1 + ln(2)) = 3ln(2) - 3/2."
+  },
+  {
+    "id": 45,
+    "Question": "Evaluate the integral: ∫[0, ∞] e^(-x) * ln(x) dx",
+    "Solution": "This is the derivative of the Gamma function Γ(z) = ∫ x^(z-1)e^(-x) dx with respect to z, evaluated at z=1. The result is Γ'(1), which is equal to -γ (the Euler-Mascheroni constant)."
+  },
+  {
+    "id": 46,
+    "Question": "Evaluate the integral: ∫[0, 1] x / ( (x²+1)√(1-x²) ) dx",
+    "Solution": "Let x = sin(θ). The integral becomes ∫[0, π/2] sin(θ) / (sin²(θ)+1) dθ. Let u=cos(θ) to get ∫[0,1] du / (2-u²). Use partial fractions to get (1/(2√2))ln(3+2√2)."
+  },
+  {
+    "id": 47,
+    "Question": "Evaluate the integral: ∫[0, ∞] (cos(x)) / (1 + x²) dx",
+    "Solution": "Use contour integration on e^(iz)/(1+z²) over a semicircle in the UHP. The real part of the residue at z=i gives the result. The result is π/(2e)."
+  },
+  {
+    "id": 48,
+    "Question": "Evaluate the integral: ∫[0, 1] {1/x} dx, where {y} is the fractional part of y.",
+    "Solution": "Split the integral into a sum: Σ[n=1,∞] ∫[1/(n+1), 1/n] (1/x - n) dx. Evaluate the integral to get [ln(n+1)-ln(n)] - n(1/n - 1/(n+1)). The sum telescopes and simplifies to 1 - γ (Euler-Mascheroni constant)."
+  },
+  {
+    "id": 49,
+    "Question": "Evaluate the integral: ∫[0, ∞] dx / (x(ln²(x) + π²))",
+    "Solution": "Substitute u = ln(x), so x = e^u and dx = e^u du. The integral becomes ∫[-∞,∞] e^u du / (e^u(u²+π²)) = ∫[-∞,∞] du / (u²+π²). This evaluates to [ (1/π)arctan(u/π) ] from -∞ to ∞, which is 1."
+  },
+  {
+    "id": 50,
+    "Question": "Evaluate the integral: ∫[0, 2π] e^(cos(θ)) * cos(sin(θ)) dθ",
+    "Solution": "Recognize that e^(cosθ)cos(sinθ) is the real part of e^(cosθ) * e^(i*sinθ) = e^(e^(iθ)). So we need Re(∫[0,2π] e^(e^(iθ)) dθ). Let z = e^(iθ), the integral is Re(∮ e^z / (iz) dz). By Cauchy's Integral Formula, this is 2π * e⁰ = 2π."
+  },
+  {
+    "id": 51,
+    "Question": "Evaluate ∫[0,1] ln(Γ(x)) dx",
+    "Solution": "This is a famous result known as Raabe's integral. It is evaluated using the reflection and multiplication formulas for the Gamma function, often involving ζ'(-1). The value is (1/2)ln(2π)."
+  },
+  {
+    "id": 52,
+    "Question": "Evaluate ∫[0,∞] (x⁴)/(1+x⁸) dx",
+    "Solution": "Use contour integration with a sector of angle π/4. The only pole inside is e^(iπ/8). The result is (π/(4√2)) * (1+√2-1) = π/(4√2)."
+  },
+  {
+    "id": 53,
+    "Question": "Evaluate ∫[0,π] θ² / (1+cos²θ) dθ",
+    "Solution": "This is extremely difficult. It involves advanced techniques like contour integration combined with series expansions, or special functions. The result is π³/√2."
+  },
+  {
+    "id": 54,
+    "Question": "Evaluate ∫[0,∞] dx / (1+x²)cosh(πx/2)",
+    "Solution": "Use contour integration on 1/((1+z²)cosh(πz/2)) over a rectangular contour. Sum the residues at z=i, and z=i(2n-1) for n∈ℤ. This involves a sum related to the digamma function. The result is ln(2)."
+  },
+  {
+    "id": 55,
+    "Question": "Evaluate ∫[0,1] (arctan(x))/(x√(1-x²)) dx",
+    "Solution": "Substitute x=sin(θ). Integral becomes ∫[0,π/2] θ/sin(θ) dθ. This is related to the Clausen function. The result is 2G, where G is Catalan's constant."
+  },
+  {
+    "id": 56,
+    "Question": "Evaluate ∫[0,1] sin(πx)/x * sin(πx)/(1-x) dx",
+    "Solution": "Use the reflection property ∫[0,1] f(x)dx = ∫[0,1] f(1-x)dx. Let I be the integral. Add the two forms and use trigonometric identities. The result is 2 * ∫[0,1] cos²(πx) dx = 1."
+  },
+  {
+    "id": 57,
+    "Question": "Evaluate ∫[0,∞] x⁶ e^(-x²) dx",
+    "Solution": "Substitute u=x², so x=√u. Integral becomes (1/2)∫ u^(5/2)e^(-u) du = (1/2)Γ(7/2). Use Γ(z+1)=zΓ(z) to simplify: (1/2)(5/2)(3/2)(1/2)Γ(1/2) = (15/16)√π."
+  },
+  {
+    "id": 58,
+    "Question": "Evaluate ∫[0,π] x dx / (1+cos²(x))",
+    "Solution": "Use the property ∫[0,a] xf(x)dx = (a/2)∫[0,a] f(x)dx. So I = (π/2)∫[0,π] dx/(1+cos²x). Let u=tan(x), this becomes ∫ dx/(sec²x+1) etc. The result is π²/(2√2)."
+  },
+  {
+    "id": 59,
+    "Question": "Evaluate ∫[0,1] (x⁴(1-x)⁴)/(1+x²) dx",
+    "Solution": "Expand the numerator to get x⁸ - 4x⁷ + 6x⁶ - 4x⁵ + x⁴. Divide by 1+x² using polynomial long division. The result is an easy polynomial to integrate plus ∫ -4/(1+x²) dx. The final answer is 22/7 - π."
+  },
+  {
+    "id": 60,
+    "Question": "Evaluate ∫[0,∞] ln(x) * e^(-x) * sin(x) dx",
+    "Solution": "This requires differentiating an integral representation of a special function. Consider Im(Γ'(1+i)). This involves the digamma function ψ(z). The result is (π/2)γ + (π/4)ln(2) - π³/48."
+  },
+  {
+    "id": 61,
+    "Question": "Evaluate ∫[0,∞] (tanh(x))/x dx",
+    "Solution": "This integral diverges. However, if regularized (e.g., Cauchy Principal Value is not standard here), it is sometimes formally manipulated. It does not converge in the standard Riemann or Lebesgue sense."
+  },
+  {
+    "id": 62,
+    "Question": "Evaluate ∫[0,1] (ln(1-x))/x dx",
+    "Solution": "Expand ln(1-x) = -Σ x^n/n. Swap integral and sum, integrate term-by-term ∫ x^(n-1) dx = 1/n. This gives -Σ 1/n², which is -ζ(2) = -π²/6."
+  },
+  {
+    "id": 63,
+    "Question": "Evaluate ∫[0,π] (sin(nx)/sin(x))² dx",
+    "Solution": "This is related to the Dirichlet kernel D_N(x). The integral of D_N(x) is known. The integral evaluates to nπ."
+  },
+  {
+    "id": 64,
+    "Question": "Evaluate ∫[0,∞] (x^α) / (x²+1)² dx for -1 < α < 3",
+    "Solution": "Use contour integration with a keyhole contour. There is a double pole at z=i. Calculate the residue at this pole. The result is (π(1-α))/(4cos(πα/2))."
+  },
+  {
+    "id": 65,
+    "Question": "Evaluate ∫[0,1] ln(1+x)ln(1-x) dx",
+    "Solution": "A very tricky integral. Use integration by parts and known values of integrals of polylogarithms. The result is ln²(2) - 2ln(2) + 2 - π²/6."
+  },
+  {
+    "id": 66,
+    "Question": "Evaluate ∫[0,1] dx/ (³√(1-x³))",
+    "Solution": "Let x³=u. Integral becomes (1/3)∫ u^(-2/3)(1-u)^(-1/3) du. This is a Beta function: (1/3)B(1/3, 2/3). Using Γ function properties, this is (1/3)Γ(1/3)Γ(2/3)/Γ(1) = (1/3)π/sin(π/3) = 2π/(3√3)."
+  },
+  {
+    "id": 67,
+    "Question": "Evaluate ∫[0,2π] ln|1-2cos(θ)| dθ",
+    "Solution": "Let a=2. Use the result from problem 31 for |a|>1. The integral is 2πln|a| = 2πln(2)."
+  },
+  {
+    "id": 68,
+    "Question": "Evaluate ∫[0,∞] (arctan(x)/x)^(3/2) dx",
+    "Solution": "This is extremely difficult and does not have a known closed form in terms of elementary or common special functions. It serves as an example of an 'unsolvable' problem in the traditional sense."
+  },
+  {
+    "id": 69,
+    "Question": "Evaluate ∫[0,1] (1-x)/(1+x) * (1/ln(x)) dx",
+    "Solution": "Use Feynman's trick. Define I(a) = ∫ (1-x)/(1+x) * x^a/ln(x) dx. Differentiating w.r.t 'a' gives ∫ (1-x)/(1+x) * x^a dx. This can be solved by series expansion. The result is ln(π/4)."
+  },
+  {
+    "id": 70,
+    "Question": "Evaluate ∫[0,π/2] x*cot(x) dx",
+    "Solution": "Integrate by parts: u=x, dv=cot(x)dx. This gives [x*ln(sin(x))] - ∫ ln(sin(x))dx. The first term is 0 at both ends. The second part is problem 5. The result is (π/2)ln(2)."
+  },
+  {
+    "id": 71,
+    "Question": "Evaluate ∫[0,1] x*Li₂(x) dx",
+    "Solution": "Integrate by parts with u=Li₂(x) and dv=x dx. This leads to an integral involving ln(1-x). The final result is 1 - π²/12."
+  },
+  {
+    "id": 72,
+    "Question": "Evaluate ∫[0,∞] e^(-x²)cos(2ax) dx",
+    "Solution": "Complete the square in the exponent of e^(-x²+2iax). Shift the contour of integration (justified by Cauchy's theorem). This relates back to the Gaussian integral. The result is (√π/2)e^(-a²)."
+  },
+  {
+    "id": 73,
+    "Question": "Evaluate ∫[0,1] (ln(x)) / (x²+1) dx",
+    "Solution": "Expand 1/(1+x²) as Σ(-1)^n x^(2n). Swap sum and integral. Use ∫ x^(2n)ln(x) dx = -1/(2n+1)². The result is the sum -Σ (-1)^n / (2n+1)², which is -G (Catalan's constant)."
+  },
+  {
+    "id": 74,
+    "Question": "Evaluate ∫[0,∞] x / (e^x + 1) dx",
+    "Solution": "Write 1/(e^x+1) = e^(-x)/(1+e^(-x)) and expand as Σ (-1)^n e^(-(n+1)x). Swap sum and integral. ∫ x*e^(-(n+1)x) dx = 1/(n+1)². The sum is Σ (-1)^n / (n+1)² = η(2) = (1/2)ζ(2) = π²/12."
+  },
+  {
+    "id": 75,
+    "Question": "Evaluate ∫[0,∞] (sin(x)/x)³ dx",
+    "Solution": "Use Feynman's trick or Fourier transforms. Another method is to use the identity sin³(x) = (3sin(x)-sin(3x))/4. The integral becomes (1/4)∫ (3(sin(x)/x³) - (sin(3x)/x³)) dx which can be integrated by parts. The result is 3π/8."
+  },
+  {
+    "id": 76,
+    "Question": "Evaluate ∫[0,1] (artanh(x))/x dx",
+    "Solution": "Expand artanh(x) = Σ x^(2n+1)/(2n+1). Divide by x and integrate term-by-term. This gives Σ 1/(2n+1)², which equals π²/8."
+  },
+  {
+    "id": 77,
+    "Question": "Evaluate ∫[0,∞] dx / (x⁶+1)",
+    "Solution": "Use contour integration with a semicircular contour. The poles in the UHP are at e^(iπ/6), e^(iπ/2), e^(i5π/6). Sum the residues. The result is 2π/3."
+  },
+  {
+    "id": 78,
+    "Question": "Evaluate ∫[0,1] (1-x²) / (1+x²) * (1/√(1-x⁴)) dx",
+    "Solution": "Substitute x²=sin(θ). The integral becomes (1/2)∫[0,π/2] (1-sinθ)/(1+sinθ) * (1/√(sinθ)) dθ. This is a very challenging integral related to elliptic functions. Result is √(2) * (K(1/√2) - E(1/√2))."
+  },
+  {
+    "id": 79,
+    "Question": "Evaluate ∫[0,∞] (e^(-x) - 1 + x)/x² dx",
+    "Solution": "This is related to the digamma function. Integrate ∫[0,∞] (e^(-xt) - 1 + xt)/t² dt from t=1 to ∞. The result is γ, the Euler-Mascheroni constant."
+  },
+  {
+    "id": 80,
+    "Question": "Evaluate ∫[0,1] (x^a - x^b)/ln(x) dx for a,b > -1",
+    "Solution": "This is a generalization of problem 8. Use Feynman's trick by introducing ∫ (x^a - x^b)x^t/ln(x) dx and differentiating, or recognize ∫[0,1] (x^y)/ln(x) dx is ln(y+1). The result is ln((a+1)/(b+1))."
+  },
+  {
+    "id": 81,
+    "Question": "Evaluate ∫[0,2π] x sin⁷(x) dx",
+    "Solution": "Use the property ∫[0,2π] xf(x)dx = -π∫[0,2π] f(x)dx if f(2π-x)=f(x). Here sin(2π-x)=-sin(x), so sin⁷(2π-x)=-sin⁷(x). The property does not apply. Instead use I = ∫[0,2π] (2π-u)sin⁷(2π-u)du. This gives 2I = 2π∫sin⁷(x)dx = 0 as sin⁷ is odd about π. So I=0."
+  },
+  {
+    "id": 82,
+    "Question": "Evaluate ∫[0,1] (arcsin(x))/x dx",
+    "Solution": "Expand arcsin(x) using its generalized binomial series for (1-x²)^(-1/2). Integrate term-by-term. The result involves the Beta function. The final value is (π/2)ln(2)."
+  },
+  {
+    "id": 83,
+    "Question": "Evaluate ∫[0,∞] x² / sinh²(x) dx",
+    "Solution": "Use integration by parts with u=x² and dv=csch²(x)dx. This reduces the integral to one involving x*coth(x), which can be handled with series expansions. The result is π²/6."
+  },
+  {
+    "id": 84,
+    "Question": "Evaluate ∫[0,∞] (ln(1+x))/(x√(x)) dx",
+    "Solution": "Integrate by parts with u=ln(1+x) and dv=x^(-3/2)dx. This leads to the integral ∫[0,∞] 2/((1+x)√x) dx. Let u=√x to solve this. The result is 2π."
+  },
+  {
+    "id": 85,
+    "Question": "Evaluate ∫[0,∞] (sech(x))³ dx",
+    "Solution": "Use the substitution u=tanh(x). The integral becomes ∫[0,1] (1-u²) du. The result is 1 - 1/3 = 2/3."
+  },
+  {
+    "id": 86,
+    "Question": "Evaluate ∫[-π,π] cos(x)cosh(x) dx",
+    "Solution": "Use integration by parts twice. Let I = ∫ cos(x)cosh(x)dx. This will lead to an equation for I. Evaluating at the bounds gives sinh(π)sin(π) - (-sinh(-π)sin(-π)), which is 0."
+  },
+  {
+    "id": 87,
+    "Question": "Evaluate ∫[0,1] (ln(x))³ dx",
+    "Solution": "Integrate by parts repeatedly or use the result from problem 4 with m=0, n=3. The result is (-1)³ * 3! / (0+1)⁴ = -6."
+  },
+  {
+    "id": 88,
+    "Question": "Evaluate ∫[0,∞] sin(ax)/sinh(πx) dx for a∈ℝ",
+    "Solution": "This is solved using contour integration on a rectangular contour. It is related to the Gudermannian function. The result is (1/2)tanh(a/2)."
+  },
+  {
+    "id": 89,
+    "Question": "Evaluate ∫[0,π] ln(sin(x)) / (1+a²-2acos(x)) dx for |a|<1",
+    "Solution": "This is an extremely advanced integral. The solution involves complex analysis and special functions, and is related to the dilogarithm. The result is (π/a)Li₂(a²)."
+  },
+  {
+    "id": 90,
+    "Question": "Evaluate ∫[0,∞] x⁴ / (x²+a²)² dx",
+    "Solution": "Use contour integration with a double pole at z=ia. Or differentiate ∫ x²/(x²+a²) dx with respect to 'a'. The result is aπ/4."
+  },
+  {
+    "id": 91,
+    "Question": "Evaluate ∫[0,π/2] (x²) / (sin²x) dx",
+    "Solution": "Integrate by parts with u=x², dv=csc²x dx. This gives [-x²cot(x)] + ∫ 2x*cot(x) dx. The first term is 0. The second integral is 2*∫ x*cot(x)dx from problem 70. Result is π*ln(2)."
+  },
+  {
+    "id": 92,
+    "Question": "Evaluate ∫[0,∞] J₁(x)/x dx where J₁ is Bessel function of first kind.",
+    "Solution": "Use the integral representation for J₁(x) and swap order of integration, or use the property ∫ J_(ν+1)(x)dx = ∫ J_(ν-1)(x)dx - 2J_ν(x). The result is 1."
+  },
+  {
+    "id": 93,
+    "Question": "Evaluate ∫[0,1] (ln(1+x²))/(1+x²) dx",
+    "Solution": "Let x=tan(θ). The integral becomes ∫[0,π/4] ln(sec²θ)dθ = -2∫[0,π/4] ln(cosθ)dθ. This is related to Clausen's function. The result is G - (π/4)ln(2), where G is Catalan's constant."
+  },
+  {
+    "id": 94,
+    "Question": "Evaluate ∫[0,1] x⁹⁹ * ln(x) dx",
+    "Solution": "Use integration by parts, or problem 4 with m=99, n=1. The result is (-1)¹ * 1! / (99+1)² = -1/10000."
+  },
+  {
+    "id": 95,
+    "Question": "Evaluate ∫[0,∞] K₀(x) dx where K₀ is modified Bessel function of second kind.",
+    "Solution": "Use an integral representation for K₀(x), such as ∫[0,∞] cos(xt)/√(t²+1) dt. Swap integration order. The result is π/2."
+  },
+  {
+    "id": 96,
+    "Question": "Evaluate ∫[0,∞] (x-sin(x))/x³ dx",
+    "Solution": "Use integration by parts twice to reduce the power of x in the denominator. This will lead to the Dirichlet integral. The result is π/4."
+  },
+  {
+    "id": 97,
+    "Question": "Evaluate ∫[0,π] x*cos(x) dx",
+    "Solution": "Use integration by parts. u=x, dv=cos(x)dx. This gives [x*sin(x)] - ∫sin(x)dx. Evaluating gives [0-0] - [-cos(x)] from 0 to π = cos(π)-cos(0) = -1-1 = -2."
+  },
+  {
+    "id": 98,
+    "Question": "Evaluate ∫[0,1] (x-1)²/ln²(x) dx",
+    "Solution": "Use Feynman's trick on I(a) = ∫(x^a-1)²/ln²(x) dx. Differentiate twice w.r.t 'a'. The result is related to the Frullani integral and gives 2ln(2)-1."
+  },
+  {
+    "id": 99,
+    "Question": "Evaluate ∫[0,∞] (1-e^(-x²))/x² dx",
+    "Solution": "Integrate by parts: u=1-e^(-x²), dv=dx/x². This gives [-(1-e^(-x²))/x] + ∫ -2e^(-x²)dx. The first term is 0 at the boundaries. The second integral is -2 times half the Gaussian integral. Result is √π."
+  },
+  {
+    "id": 100,
+    "Question": "Evaluate ∫[0,π] dx / (a - cos(x))² for a > 1",
+    "Solution": "Differentiate the result of ∫ dx/(a-cos(x)) w.r.t 'a'. The base integral is π/√(a²-1). Differentiating this gives -πa / (a²-1)^(3/2)."
+  },
+  {
+    "id": 101,
+    "Question": "Evaluate ∫[0, ∞] ln(x) / (x²+x+1) dx",
+    "Solution": "Use contour integration with a keyhole contour for ln²(z)/(z²+z+1). The poles are at e^(i2π/3) and e^(i4π/3). The imaginary part of the final result will yield the answer. The result is 0."
+  },
+  {
+    "id": 102,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x))² / x dx",
+    "Solution": "Integrate by parts with u=(Li₂(x))² and dv=dx/x. This relates the integral to ∫ Li₂(x)ln(1-x)/x dx, a known integral in polylogarithm theory. The result is 2ζ(5) - ζ(2)ζ(3)."
+  },
+  {
+    "id": 103,
+    "Question": "Evaluate ∫[0, 2π] cos(nx) / (1-2a*cos(x)+a²) dx for |a|<1",
+    "Solution": "This is the Poisson kernel integral. The denominator is the series Σ a^k cos(kx). Using orthogonality of cosines, the integral picks out the n-th term. The result is (2π * a^n) / (1-a²)."
+  },
+  {
+    "id": 104,
+    "Question": "Evaluate ∫[0, ∞] x³ / (e^x - 1) dx",
+    "Solution": "Follow the method of problem 32. Expand 1/(e^x-1) and integrate term-by-term. The integral ∫ x³e^(-nx)dx is 6/n⁴. The result is 6 * Σ 1/n⁴ = 6ζ(4) = 6(π⁴/90) = π⁴/15."
+  },
+  {
+    "id": 105,
+    "Question": "Evaluate ∫[0, ∞] e^(-ax) J₀(bx) dx for a,b>0",
+    "Solution": "This is the Laplace transform of the Bessel function J₀(bx). The result is a standard transform pair. The result is 1/√(a²+b²)."
+  },
+  {
+    "id": 106,
+    "Question": "Evaluate ∫[0, π/2] ln(tan(x)) dx",
+    "Solution": "Let I = ∫ ln(tan(x))dx. Use the substitution u = π/2 - x. I = ∫ ln(cot(u))du = -∫ ln(tan(u))du = -I. Thus 2I=0, so I=0."
+  },
+  {
+    "id": 107,
+    "Question": "Evaluate the integral: ∫[0, π/4] ln(cos(x)) dx",
+    "Solution": "This integral is related to the Clausen function and Catalan's constant. The result is (G/2) - (π/8)ln(2), where G is Catalan's constant."
+  },
+  {
+    "id": 108,
+    "Question": "Evaluate the double integral: ∫[0, 1] ∫[0, 1] 1/(1-xy) dx dy",
+    "Solution": "Expand the integrand 1/(1-xy) as a geometric series Σ(xy)^n. Swap the sum and integrals, and integrate with respect to x and y. This results in the sum Σ 1/(n+1)², which is ζ(2) = π²/6."
+  },
+  {
+    "id": 109,
+    "Question": "Evaluate Ahmed's integral: ∫[0, 1] arctan(√(x²+2)) / ( (x²+1)√(x²+2) ) dx",
+    "Solution": "This is a notoriously difficult integral. One method involves the substitution x = tan(θ) and then a series of very clever algebraic and trigonometric manipulations. The surprising result is 5π²/96."
+  },
+  {
+    "id": 110,
+    "Question": "Evaluate the integral: ∫[0, ∞] floor(t) * e^(-t) dt",
+    "Solution": "Split the integral into a sum over integer intervals: Σ[n=0, ∞] ∫[n, n+1] n * e^(-t) dt. Evaluating the integral gives n(e^(-n) - e^(-(n+1))). Summing this series gives the result 1/(e-1)."
+  },
+  {
+    "id": 111,
+    "Question": "Evaluate the integral: ∫[0, ∞] (x * sin(ax)) / (x⁴ + b⁴) dx for a,b > 0",
+    "Solution": "Use contour integration with the function f(z) = z*e^(iaz) / (z⁴+b⁴) over a semicircle in the upper half-plane. The poles are at b*e^(iπ/4) and b*e^(i3π/4). The result is (π/2b²) * e^(-ab/√2) * sin(ab/√2)."
+  },
+  {
+    "id": 112,
+    "Question": "Evaluate the integral: ∫[0, 1] ln(x) * ln(1+x) dx",
+    "Solution": "Expand ln(1+x) into its Maclaurin series. Swap the sum and integral, and use the formula for ∫ x^n ln(x) dx. This leads to the alternating sum -Σ (-1)^k / k(k+1)², which evaluates to π²/12 - ln²(2)."
+  },
+  {
+    "id": 113,
+    "Question": "Evaluate the integral: ∫[0, ∞] dx / (cosh(x) + cosh(a)) for a > 0",
+    "Solution": "Let u = e^x. The integral transforms into ∫[1, ∞] 2u / (u²+2ucosh(a)+1) du. This can be solved with partial fractions or by recognizing it's related to an arctan integral. The result is a/sinh(a)."
+  },
+  {
+    "id": 114,
+    "Question": "Evaluate the integral: ∫[0, 1] (Li₂(x) - ζ(2)) / (x-1) dx",
+    "Solution": "This requires advanced properties of polylogarithms. Use the identity for the integral of Li₂(x)/(x-1) and known values of related integrals. The result is 2ζ(3) - ln(2)ζ(2)."
+  },
+  {
+    "id": 115,
+    "Question": "Evaluate the integral: ∫[0, ∞] dx / ( (x²+1)(x²+4) )",
+    "Solution": "Use partial fraction decomposition: 1/((u+1)(u+4)) = (1/3)(1/(u+1) - 1/(u+4)) where u=x². Integrate the resulting arctan terms. The result is π/6."
+  },
+  {
+    "id": 116,
+    "Question": "Evaluate the integral: ∫[0, ∞] (sin(x)/x)⁵ dx",
+    "Solution": "This is very difficult. One of the most direct ways is to use the Fourier transform of (sin(t)/t)^n, which is related to the convolution of n boxcar functions. The result is 115π/384."
+  },
+  {
+    "id": 117,
+    "Question": "Evaluate the integral: ∫[0, 1] (Li₃(x) + Li₃(-x))/x dx",
+    "Solution": "Use the identity Li₃(x)+Li₃(-x) = (1/4)Li₃(x²). The integral becomes (1/4) ∫ Li₃(x²)/x dx. Let u=x² to get (1/8) ∫ Li₃(u)/u du = (1/8)Li₄(1) = (1/8)ζ(4) = π⁴/720."
+  },
+  {
+    "id": 118,
+    "Question": "Evaluate the integral: ∫[0, ∞] dx / √(x(x+1)(x+4))",
+    "Solution": "This is an elliptic integral. The substitution x = 4tan²(θ) can transform it into the form of the complete elliptic integral of the first kind. The result is K(√3/2)."
+  },
+  {
+    "id": 119,
+    "Question": "Evaluate the integral: ∫[0, ∞] (ln(x))⁴ / (1+x²) dx",
+    "Solution": "Define I(a) = ∫ x^a/(1+x²) dx = (π/2)sec(πa/2). Differentiate I(a) four times with respect to 'a' and then set a=0. This involves derivatives of sec(x). The result is 5π⁵/32."
+  },
+  {
+    "id": 120,
+    "Question": "Evaluate the integral: ∫[0, π] x sin(x) / (3+cos²(x)) dx",
+    "Solution": "Use King's property I = ∫ (π-x)sin(x)/(3+cos²(x))dx. Adding gives 2I = π∫ sin(x)/(3+cos²(x))dx. Let u=cos(x). The result is π * [arctan(u/√3)] which evaluates to π²/6."
+  },
+  {
+    "id": 121,
+    "Question": "Evaluate the integral: ∫[0, 1] (ln(x))² / (1-x) dx",
+    "Solution": "Expand 1/(1-x) as Σx^n. Swap sum and integral. Use ∫ x^n(lnx)²dx = 2/(n+1)³. The result is 2 Σ 1/(n+1)³ = 2ζ(3)."
+  },
+  {
+    "id": 122,
+    "Question": "Evaluate the integral: ∫[0, ∞] x⁵ / (e^x - 1) dx",
+    "Solution": "Use the standard method for Bose-Einstein integrals. Expand 1/(e^x-1) and integrate term-by-term. ∫ x⁵e^(-nx)dx = 5!/n⁶. The result is 120 * Σ 1/n⁶ = 120ζ(6) = 120(π⁶/945) = 8π⁶/63."
+  },
+  {
+    "id": 123,
+    "Question": "Evaluate the integral: ∫[0, 1] (x²-1) / ( (x²+1)ln(x) ) dx",
+    "Solution": "Use Feynman's trick. Define I(a) = ∫ (x²-1)x^a/((x²+1)ln(x)) dx. Then I'(a) = ∫ (x^(a+2)-x^a)/(x²+1) dx. This is tough, but can be done with Beta functions. The result is ln(1+√2)."
+  },
+  {
+    "id": 124,
+    "Question": "Evaluate the integral: ∫[0, ∞] e^(-x²) ln(x) dx",
+    "Solution": "This integral is related to the derivative of the Gamma function. Let I(a) = ∫ x^a e^(-x²) dx = (1/2)Γ((a+1)/2). The integral is I'(0). The result is -(γ+2ln(2))√π/4."
+  },
+  {
+    "id": 125,
+    "Question": "Evaluate the integral: ∫[0, ∞] Ai(x) dx, where Ai(x) is the Airy function.",
+    "Solution": "Use the differential equation Ai''(x) = x Ai(x). Integrate it from 0 to ∞. ∫ Ai''(x)dx = [Ai'(x)] = 0 - Ai'(0). Also ∫ xAi(x)dx = ∫ Ai''(x)dx. This shows the integral must be 1/3."
+  },
+  {
+    "id": 126,
+    "Question": "Evaluate the integral: ∫[0, 2π] dθ / (1 - 2a cos(θ) + a²)^s for |a|<1, s>0",
+    "Solution": "This is a generalization involving the Poisson kernel. The integral can be expressed in terms of hypergeometric functions. The result is 2π * F(s, s; 1; a²)/(1-a²)^(2s-1)."
+  },
+  {
+    "id": 127,
+    "Question": "Evaluate the integral: ∫[0, 1] dx / (x⁴+1)",
+    "Solution": "Factor x⁴+1 = (x²+√2x+1)(x²-√2x+1). Use partial fractions, which leads to arctan and log terms. The result is (1/(2√2)) * (π/2 + ln(1+√2))."
+  },
+  {
+    "id": 128,
+    "Question": "Evaluate the integral: ∫[0, ∞] (sech(x))⁴ dx",
+    "Solution": "Use the substitution u=tanh(x), so du=sech²(x)dx. The integral becomes ∫[0, 1] (1-u²)du, as sech²(x) = 1-tanh²(x). The result is [u - u³/3] from 0 to 1, which is 2/3."
+  },
+  {
+    "id": 129,
+    "Question": "Evaluate the integral: ∫[0, ∞] x * K₁(x) dx, where K₁ is a modified Bessel function.",
+    "Solution": "This is a standard result from the theory of Bessel functions. Use an integral representation of K₁(x) and swap the order of integration. The result is π/2."
+  },
+  {
+    "id": 130,
+    "Question": "Evaluate the integral: ∫[0, π/2] dx / (1 + sin²(x))",
+    "Solution": "Divide the numerator and denominator by cos²(x). This gives ∫ sec²(x) / (sec²(x) + tan²(x)) dx = ∫ sec²(x) / (1+2tan²(x)) dx. Let u=tan(x). The result is π/(2√2)."
+  },
+  {
+    "id": 131,
+    "Question": "Evaluate the integral: ∫[0, 1] (ln(x))³ / (1+x) dx",
+    "Solution": "Expand 1/(1+x) as Σ(-1)^n x^n. Swap sum and integral. Use ∫ x^n(lnx)³dx = -6/(n+1)⁴. The result is -6 Σ (-1)^n/(n+1)⁴ = -6 * η(4) = -6 * (7/8)ζ(4) = -7π⁴/120."
+  },
+  {
+    "id": 132,
+    "Question": "Evaluate the integral: ∫[0, ∞] (e^(-x) sin²(x)) / x dx",
+    "Solution": "Use sin²(x) = (1-cos(2x))/2. The integral becomes (1/2) ∫ (e^(-x)/x - e^(-x)cos(2x)/x) dx. This is a combination of exponential integrals. The result is (1/4)ln(5)."
+  },
+  {
+    "id": 133,
+    "Question": "Evaluate the integral: ∫[0, ∞] dx / (x³+1)",
+    "Solution": "Use contour integration with a sector of angle 2π/3. The pole is at e^(iπ/3). Or use partial fractions: 1/(x³+1) = A/(x+1) + (Bx+C)/(x²-x+1). The result is 2π/(3√3)."
+  },
+  {
+    "id": 134,
+    "Question": "Evaluate the integral: ∫[0, π] x² cos(x) dx",
+    "Solution": "Use integration by parts twice. Let u=x², dv=cos(x)dx. The result of the integration is [x²sin(x) + 2xcos(x) - 2sin(x)] evaluated from 0 to π. The final answer is -2π."
+  },
+  {
+    "id": 135,
+    "Question": "Evaluate the integral: ∫[0, 1] (arctan(x) / x) * ln(x) dx",
+    "Solution": "This requires advanced techniques, possibly involving series manipulations of both arctan(x) and integrating by parts. The result is -(π/2)G + (7/8)ζ(3), where G is Catalan's constant."
+  },
+  {
+    "id": 136,
+    "Question": "Evaluate the integral: ∫[0, 1] (1-x) / ((1+x)ln(x)) dx",
+    "Solution": "This is a variant of a known integral. Use parameter differentiation on I(a) = ∫ (1-x)x^a/((1+x)ln(x)) dx. The result is -ln(π/2)."
+  },
+  {
+    "id": 137,
+    "Question": "Evaluate the integral: ∫[0, ∞] x / (e^(πx) - 1) dx",
+    "Solution": "This is a standard Bose-Einstein integral form. Use the series expansion for 1/(e^u-1) and integrate term-by-term. The result is ζ(2)/π² = (π²/6)/π² = 1/6."
+  },
+  {
+    "id": 138,
+    "Question": "Evaluate the integral: ∫[0, 1] arcsin(x) / √(1-x) dx",
+    "Solution": "Use integration by parts with u=arcsin(x) and dv=dx/√(1-x). The second integral becomes ∫ √( (1-x)/(1+x) ) dx. This is solvable with trig substitution. The result is 2π - 4."
+  },
+  {
+    "id": 139,
+    "Question": "Evaluate the integral: ∫[0, ∞] (sin³(x)) / x dx",
+    "Solution": "Use the identity sin³(x) = (3sin(x) - sin(3x))/4. The integral splits into two Dirichlet-type integrals ∫ sin(ax)/x dx. The result is (1/4)(3(π/2) - π/2) = π/4."
+  },
+  {
+    "id": 140,
+    "Question": "Evaluate the integral: ∫[0, π/2] ln(1+cos(x)) dx",
+    "Solution": "Use 1+cos(x) = 2cos²(x/2). The integral becomes ∫ ln(2) + 2ln(cos(x/2)) dx. The second part is related to the integral of ln(cos(u)). The result is (π/2)ln(2) - 2G."
+  },
+  {
+    "id": 141,
+    "Question": "Evaluate the integral: ∫[0, ∞] (arctan(2x) - arctan(x/2)) / x dx",
+    "Solution": "Apply the Frullani integral formula with f(t) = arctan(t). Here f(0)=0 and f(∞)=π/2. The result is (π/2) * ln(2 / (1/2)) = (π/2)ln(4) = πln(2)."
+  },
+  {
+    "id": 142,
+    "Question": "Evaluate the integral: ∫[0, 1] S₂(x)/x dx, where S₂(x) is the Clausen function Cl₂(x).",
+    "Solution": "This is related to higher-order Clausen functions or polylogarithms. The integral evaluates to ζ(3)."
+  },
+  {
+    "id": 143,
+    "Question": "Evaluate the integral: ∫[0, ∞] (x * sin(x)) / (x²+a²)² dx for a>0",
+    "Solution": "Use contour integration on z*e^(iz)/(z²+a²)². There is a double pole at z=ia. The residue calculation is involved. The result is π/(4a) * e^(-a)."
+  },
+  {
+    "id": 144,
+    "Question": "Evaluate the integral: ∫[0, π/4] (cos(x)-sin(x)) / (cos(x)+sin(x)) * ln(cos(x)+sin(x)) dx",
+    "Solution": "Let u = cos(x)+sin(x). Then du = (cos(x)-sin(x))dx. The integral transforms into ∫[1, √2] ln(u)/u du. This evaluates to (1/2)[ln²(u)] from 1 to √2, which is (1/2)ln²(√2) = ln²(2)/8."
+  },
+  {
+    "id": 145,
+    "Question": "Evaluate the integral: ∫[0, ∞] (e^(-x) - e^(-2x)) / x dx",
+    "Solution": "This is a classic Frullani integral. Using the formula (f(0)-f(∞))ln(b/a) with f(t)=e^(-t), a=1, b=2. The result is (1-0)ln(2/1) = ln(2)."
+  },
+  {
+    "id": 146,
+    "Question": "Evaluate the integral: ∫[0, 1] ln(ln(1/x)) dx",
+    "Solution": "Let u = ln(1/x) = -ln(x). Then x = e^(-u) and dx = -e^(-u)du. The integral becomes ∫[∞, 0] ln(u) * (-e^(-u))du = ∫[0, ∞] e^(-u)ln(u)du. This is Γ'(1) = -γ (Euler-Mascheroni constant)."
+  },
+  {
+    "id": 147,
+    "Question": "Evaluate the integral: ∫[0, π/2] dx / (a²sin²(x) + b²cos²(x))",
+    "Solution": "Divide numerator and denominator by cos²(x). This gives ∫ sec²(x) / (a²tan²(x)+b²) dx. Let u=tan(x). The integral is ∫ du/(a²u²+b²), which evaluates to π/(2ab)."
+  },
+  {
+    "id": 148,
+    "Question": "Evaluate the integral: ∫[0, ∞] (cos(x) * ln(x)) dx",
+    "Solution": "This integral does not converge. However, its regularization is related to the derivative of the Gamma function evaluated on the imaginary axis, Re(Γ'(i)). The standard integral is divergent."
+  },
+  {
+    "id": 149,
+    "Question": "Evaluate the integral: ∫[-∞, ∞] dx / ( (x²+1)(x²+2x+2) )",
+    "Solution": "Use contour integration over a semicircle in the upper half-plane. The poles are at z=i and z=-1+i. Sum the residues at these two poles. The result is 2π/5."
+  },
+  {
+    "id": 150,
+    "Question": "Evaluate the integral: ∫[0, 1] (Li₂(x))² dx",
+    "Solution": "This requires repeated integration by parts and knowledge of polylogarithm integrals. The result is -4ζ(3) + 2ln(2)ζ(2) + 2."
+  },
+  {
+    "id": 151,
+    "Question": "Evaluate ∫[0,∞] (x-arctan(x))/x³ dx",
+    "Solution": "Integrate by parts with u=x-arctan(x), dv=dx/x³. The resulting integral is ∫[0,∞] (1-1/(1+x²))/(2x²) dx. This simplifies to ∫ 1/(2(1+x²)) dx, which is π/4."
+  },
+  {
+    "id": 152,
+    "Question": "Evaluate ∫[0,1] dx / (x+√(1-x²))",
+    "Solution": "Substitute x=sin(θ). The integral becomes ∫[0,π/2] cos(θ)/(sin(θ)+cos(θ)) dθ. Use King's property to show this is equal to ∫ cos(θ)/(sin(θ)+cos(θ)) dθ. The sum of the two is ∫ 1 dθ = π/2, so the integral is π/4."
+  },
+  {
+    "id": 153,
+    "Question": "Evaluate ∫[0,∞] cos(x)/cosh(x) dx",
+    "Solution": "Use contour integration with a rectangular contour. This is a classic, difficult integral. The result is π/(2cosh(π/2))."
+  },
+  {
+    "id": 154,
+    "Question": "Evaluate ∫[0,1] ln(1+x)/(1+x) dx",
+    "Solution": "Let u = ln(1+x). Then du = dx/(1+x). The integral becomes ∫[0,ln(2)] u du. The result is (1/2)ln²(2)."
+  },
+  {
+    "id": 155,
+    "Question": "Evaluate ∫[0,∞] (sin(x²)+cos(x²)) dx",
+    "Solution": "These are the Fresnel integrals. ∫ sin(x²)dx = ∫ cos(x²)dx = √(π/8). The sum is 2√(π/8) = √(π/2)."
+  },
+  {
+    "id": 156,
+    "Question": "Evaluate ∫[0,1] (x^a-1)(x^b-1)/(ln(x))² dx",
+    "Solution": "Use Feynman's trick. Differentiate with respect to 'a' and 'b'. Or recognize this as a double Frullani-type integral. The result is ln((a+b+1) / ((a+1)(b+1)))."
+  },
+  {
+    "id": 157,
+    "Question": "Evaluate ∫[0,π] x⁴ dx",
+    "Solution": "This is a basic polynomial integral, included to break pace. The integral is [x⁵/5] from 0 to π. The result is π⁵/5."
+  },
+  {
+    "id": 158,
+    "Question": "Evaluate ∫[0,∞] (ln(1+x³))/(1+x²) dx",
+    "Solution": "This is a very challenging integral. It requires advanced techniques like contour integration combined with special function theory. The result is πln(2) - G, where G is Catalan's constant."
+  },
+  {
+    "id": 159,
+    "Question": "Evaluate ∫[0,∞] (1-cos(x))/x² dx",
+    "Solution": "Integrate by parts with u=1-cos(x), dv=dx/x². The resulting integral is ∫ sin(x)/x dx, which is the Dirichlet integral. The result is π/2."
+  },
+  {
+    "id": 160,
+    "Question": "Evaluate ∫[0,∞] dx/(x(x+1)...(x+n))",
+    "Solution": "Use partial fraction decomposition. The coefficient for the 1/(x+k) term is (-1)^k / (k!(n-k)!). The sum of the logs evaluates to (1/n!) * Σ (-1)^k C(n,k) ln(k+1)."
+  },
+  {
+    "id": 161,
+    "Question": "Evaluate ∫[0,1] {1/x} * {1/(1-x)} dx, where {} is the fractional part.",
+    "Solution": "This is a Putnam competition problem. The integral is symmetric around x=1/2. The result is surprisingly simple: 2γ - 1, where γ is the Euler-Mascheroni constant."
+  },
+  {
+    "id": 162,
+    "Question": "Evaluate ∫[0,∞] sin(x)/x * e^(-x) dx",
+    "Solution": "Consider I(t) = ∫[0,∞] sin(tx)/x * e^(-x) dx. Differentiate wrt 't' to get ∫ cos(tx)e^(-x) dx = 1/(1+t²). Integrate wrt 't' to get I(t) = arctan(t). So I(1) = arctan(1) = π/4."
+  },
+  {
+    "id": 163,
+    "Question": "Evaluate ∫[0,∞] x⁷/(e^x+1) dx",
+    "Solution": "Use the Fermi-Dirac integral formula. Expand 1/(e^x+1) as Σ (-1)^n e^(-(n+1)x). Integrate term-by-term. ∫ x⁷e^(-kx)dx = 7!/k⁸. This gives 7! * η(8) = 5040 * (1-2⁻⁷)ζ(8) = 7π⁸/15."
+  },
+  {
+    "id": 164,
+    "Question": "Evaluate ∫[0,1] ln(x+1/x) * dx/(1+x²)",
+    "Solution": "Let x=tan(θ). The integral becomes ∫[0,π/4] ln(tanθ+cotθ)dθ = ∫ ln(2/sin(2θ))dθ. This breaks into known integrals. The result is (π/2)ln(2)."
+  },
+  {
+    "id": 165,
+    "Question": "Evaluate ∫[0,∞] (sin(ax)/x)³ dx",
+    "Solution": "Use the identity sin³(u) = (3sin(u)-sin(3u))/4. Let u=ax. The integral becomes (1/4) ∫ (3sin(ax)-sin(3ax))/x³ dx, which is solved by parts. The result is 3πa²/8."
+  },
+  {
+    "id": 166,
+    "Question": "Evaluate ∫[0,1] (x-1)/((x+1)ln(x)) dx",
+    "Solution": "This requires Feynman's trick on a modified integrand. The result is ln(2/π)."
+  },
+  {
+    "id": 167,
+    "Question": "Evaluate ∫[0,2π] e^(a*cos(θ)) * cos(a*sin(θ)) dθ for a∈ℝ",
+    "Solution": "The integrand is Re(e^(a*e^(iθ))). Let z=e^(iθ). The integral is Re(∮ e^(az)/(iz) dz). By Cauchy's Integral Formula, this is Re(2π * e⁰) = 2π."
+  },
+  {
+    "id": 168,
+    "Question": "Evaluate ∫[0,∞] x * e^(-x⁶) dx",
+    "Solution": "Substitute u=x². The integral becomes (1/2)∫ e^(-u³) du. Then substitute v=u³. It becomes (1/6)∫ v^(-2/3)e^(-v)dv. This is (1/6)Γ(1/3)."
+  },
+  {
+    "id": 169,
+    "Question": "Evaluate ∫[0,π/2] (sin(x)/x) dx",
+    "Solution": "This is the Sine Integral, Si(π/2). It does not have a closed-form expression in terms of elementary functions. Its approximate value is 1.37."
+  },
+  {
+    "id": 170,
+    "Question": "Evaluate ∫[0,∞] e^(-x) * (ln(x))² dx",
+    "Solution": "This is the second derivative of the Gamma function Γ(z) at z=1. The result is Γ''(1) = γ² + π²/6."
+  },
+  {
+    "id": 171,
+    "Question": "Evaluate ∫[0,1] (dx/x) * ∫[0,x] ln(1-y)/y dy",
+    "Solution": "The inner integral is -Li₂(x). So we need to evaluate -∫[0,1] Li₂(x)/x dx. This is -Li₃(1) = -ζ(3)."
+  },
+  {
+    "id": 172,
+    "Question": "Evaluate ∫[0,∞] x * J₀(x) * J₁(x) dx",
+    "Solution": "This is an orthogonality relation for Bessel functions, but not a standard one. It requires advanced identities. The value is 1/2."
+  },
+  {
+    "id": 173,
+    "Question": "Evaluate ∫[0,1] (arcsinh(x))/x dx",
+    "Solution": "Expand arcsinh(x) into its Maclaurin series. Integrate term by term. This gives a sum related to ζ(2). The result is π²/12."
+  },
+  {
+    "id": 174,
+    "Question": "Evaluate ∫[0,∞] sin(x³)/x dx",
+    "Solution": "Substitute u=x³. The integral becomes (1/3)∫ sin(u)/u du. This is the Dirichlet integral. The result is (1/3)(π/2) = π/6."
+  },
+  {
+    "id": 175,
+    "Question": "Evaluate ∫[0,∞] dx/(x^a(1+x)) for 0<a<1",
+    "Solution": "This is related to the Beta function. Let u=1/(1+x). The integral transforms into ∫[0,1] (1-u)^(a-1) * u^(-a) du = B(a, 1-a). This is Γ(a)Γ(1-a) = π/sin(πa)."
+  },
+  {
+    "id": 176,
+    "Question": "Evaluate ∫[0,∞] (ln(x²+1))/(x²+1) dx",
+    "Solution": "Let x=tan(θ). The integral becomes ∫[0,π/2] ln(sec²θ)dθ = -2∫ln(cosθ)dθ. This is a known integral. The result is πln(2)."
+  },
+  {
+    "id": 177,
+    "Question": "Evaluate ∫[0,1] (Li₂(x))/(1+x) dx",
+    "Solution": "This is a very hard integral involving polylogarithm identities. The result is (1/2)ζ(3) - (π²/6)ln(2)."
+  },
+  {
+    "id": 178,
+    "Question": "Evaluate ∫[0,∞] dx / (e^x + e^(-x) + 1)",
+    "Solution": "The denominator is 2cosh(x)+1. Let u=e^x. The integral becomes ∫[1,∞] du/(u²+u+1). This evaluates to an arctan. The result is π/(3√3)."
+  },
+  {
+    "id": 179,
+    "Question": "Evaluate ∫[0,π] ln(1+b*cos(x)) dx for |b|<1",
+    "Solution": "Use Feynman's trick, differentiating w.r.t. b. The resulting integral is ∫ cos(x)/(1+b*cos(x))dx, which is solvable. The final result is π*ln((1+√(1-b²))/2)."
+  },
+  {
+    "id": 180,
+    "Question": "Evaluate ∫[0,1] (1-x^a)/(1-x) dx for a>0",
+    "Solution": "Expand 1/(1-x) as Σx^n. The integral becomes ∫ Σ(x^n-x^(n+a))dx. This can be expressed using the digamma function ψ. The result is ψ(a+1)+γ."
+  },
+  {
+    "id": 181,
+    "Question": "Evaluate ∫[0,1] (ln(x))²/(1+x²) dx",
+    "Solution": "Expand 1/(1+x²) as Σ(-1)^n x^(2n). Integrate term-by-term. The sum is 2 Σ (-1)^n/(2n+1)³. This is related to the beta function derivative. The result is π³/16."
+  },
+  {
+    "id": 182,
+    "Question": "Evaluate ∫[0,∞] x*e^(-x)sin(x) dx",
+    "Solution": "Consider Im(∫ x e^(-(1-i)x) dx). Use integration by parts. The result is Im(1/(1-i)²) = Im(1/(-2i)) = Im(i/2) = 1/2."
+  },
+  {
+    "id": 183,
+    "Question": "Evaluate ∫[0,π/2] √(sec(x)) dx",
+    "Solution": "This is related to elliptic integrals. Let sin²(x)=u. The integral transforms into a form involving the Beta function and hypergeometric functions. The result is (1/√2) B(1/4, 1/2)."
+  },
+  {
+    "id": 184,
+    "Question": "Evaluate ∫[0,1] (1/ln(x) + 1/(1-x)) dx",
+    "Solution": "This is the integral representation of the Euler-Mascheroni constant, γ. The two singularities at x=0 and x=1 cancel each other out in a specific way. The result is γ."
+  },
+  {
+    "id": 185,
+    "Question": "Evaluate ∫[0,∞] (x - floor(x) - 1/2) * (sin(2πx)/x) dx",
+    "Solution": "This is related to the Fourier series of the sawtooth wave B₁(x) = x-floor(x)-1/2. The integral is related to Parseval's theorem. The result is -1/4."
+  },
+  {
+    "id": 186,
+    "Question": "Evaluate ∫[0,∞] (cos(x)-e^(-x))/x dx",
+    "Solution": "This integral diverges logarithmically at both 0 and ∞. It is ill-defined without regularization. Formally, it can be related to Γ'(1) and ∫cos(x)/x (cosine integral)."
+  },
+  {
+    "id": 187,
+    "Question": "Evaluate ∫[0,1] ln(Γ(x+1)) dx",
+    "Solution": "This is related to Raabe's integral (problem 51). Use ln(Γ(x+1))=ln(xΓ(x))=ln(x)+ln(Γ(x)). Integrate both parts. ∫ln(x)dx = -1. ∫ln(Γ(x))dx = ln(√(2π)). So, -1+ln(√(2π))."
+  },
+  {
+    "id": 188,
+    "Question": "Evaluate ∫[0,∞] (sin(ax)sin(bx))/x² dx for a,b>0",
+    "Solution": "Use trig identity 2sinAsinB = cos(A-B)-cos(A+B). This becomes (1/2)∫ (cos((a-b)x)-cos((a+b)x))/x² dx. Use result from problem 13. The answer is π*min(a,b)/2."
+  },
+  {
+    "id": 189,
+    "Question": "Evaluate ∫[0,π] dθ/(1+sin²(θ))",
+    "Solution": "This is 2 * ∫[0,π/2] dθ/(1+sin²(θ)). Using the result from problem 130, this is 2 * π/(2√2) = π/√2."
+  },
+  {
+    "id": 190,
+    "Question": "Evaluate ∫[0,1] {1/x}^2 dx, where {} is the fractional part.",
+    "Solution": "Split into a sum of integrals Σ[n=1,∞] ∫[1/(n+1), 1/n] (1/x - n)² dx. This is a difficult calculation involving sums of logs and polynomials in n. The result is 2γ - π²/6."
+  },
+  {
+    "id": 191,
+    "Question": "Evaluate ∫[0,1] Li₄(x)/x dx",
+    "Solution": "By definition, this is Li₅(1) = ζ(5). ζ(5) does not have a known closed form in terms of other constants."
+  },
+  {
+    "id": 192,
+    "Question": "Evaluate ∫[-∞,∞] dx/(e^x+x²+1)",
+    "Solution": "This integral has no known closed-form solution. It must be evaluated numerically. It serves as an example of a difficult-to-analyze integral."
+  },
+  {
+    "id": 193,
+    "Question": "Evaluate ∫[0,∞] x^(s-1)/(e^x+1) dx for s>0",
+    "Solution": "This is the Fermi-Dirac integral. Expand 1/(e^x+1) as Σ(-1)^n e^(-(n+1)x) and integrate term-by-term. The result is Γ(s) * η(s) = Γ(s)(1-2^(1-s))ζ(s)."
+  },
+  {
+    "id": 194,
+    "Question": "Evaluate ∫[0,π/2] sin(x)ln(sin(x)) dx",
+    "Solution": "Integrate by parts with u=ln(sin(x)) and dv=sin(x)dx. The second integral is ∫ cos²(x)/sin(x) dx, which is tough. The final result is ln(2)-1."
+  },
+  {
+    "id": 195,
+    "Question": "Evaluate ∫[0,1] (x^a-x^b)/((1-x)ln(x)) dx for a,b>-1",
+    "Solution": "This is a complex Frullani-type integral. Use parameter differentiation. The result is ln(Γ(b+1)/Γ(a+1))."
+  },
+  {
+    "id": 196,
+    "Question": "Evaluate ∫[0,∞] (tanh(πx))/(x(1+x²)) dx",
+    "Solution": "This requires advanced contour integration, often over an infinite strip, summing residues. The result is 2ln(2)."
+  },
+  {
+    "id": 197,
+    "Question": "Evaluate ∫[0,1] dx/(1+x^π)",
+    "Solution": "This does not have a simple closed form. It can be expressed in terms of hypergeometric functions or the Digamma function ψ. It's approximately 0.76."
+  },
+  {
+    "id": 198,
+    "Question": "Evaluate ∫[0,∞] ln(1+x⁴)/(1+x²) dx",
+    "Solution": "Let x=tan(θ). The integral becomes ∫[0,π/2] ln(1+tan⁴θ)dθ. This is very difficult. The final answer is πln(2+√2)."
+  },
+  {
+    "id": 199,
+    "Question": "Evaluate ∫[0,1] ln(x) * √(1-x²) dx",
+    "Solution": "Let x=sin(θ). Integral becomes ∫[0,π/2] ln(sinθ)cos²θ dθ. This can be solved using Beta function identities. The result is (π/4)(ln(2)-1)."
+  },
+  {
+    "id": 200,
+    "Question": "Evaluate ∫[0,π] x*sin(x) / (1-cos(x)) dx",
+    "Solution": "The integrand is singular at x=0 but the limit exists. Use 1-cos(x)=2sin²(x/2) and sin(x)=2sin(x/2)cos(x/2). The integral becomes ∫[0,π] x cot(x/2) dx. Let u=x/2. The result is 2πln(2)."
+  },
+  {
+    "id": 201,
+    "Question": "Evaluate ∫[0,∞] (x²-a²) / (x²+a²) * (sin(x)/x) dx for a>0",
+    "Solution": "Split into ∫ sin(x)/x dx and -2a²∫ sin(x)/(x(x²+a²)) dx. The first is π/2. The second is solved with contour integration. Final result is π(e^(-a) - 1/2)."
+  },
+  {
+    "id": 202,
+    "Question": "Evaluate ∫[0,1] arcsin(x)/x * dx/√(1-x²)",
+    "Solution": "Let u=arcsin(x). Then du = dx/√(1-x²) and x=sin(u). The integral becomes ∫[0,π/2] u/sin(u) * du. This is a classic integral related to Clausen functions. Result is 2G, Catalan's constant."
+  },
+  {
+    "id": 203,
+    "Question": "Evaluate ∫[0,∞] e^(-ax²)cos(bx) dx for a,b>0",
+    "Solution": "Complete the square in the exponent of e^(-ax²+ibx). Shift the contour of integration. The result is (1/2)√(π/a) * e^(-b²/(4a))."
+  },
+  {
+    "id": 204,
+    "Question": "Evaluate ∫[0,∞] (ln(x))²/(x²+1)² dx",
+    "Solution": "Use contour integration or differentiate ∫ ln(x)/(x²+a²) dx with respect to 'a'. The result is (π/8)(2ln(2)-1)."
+  },
+  {
+    "id": 205,
+    "Question": "Evaluate ∫[0,π] ln(a²-2ab*cos(x)+b²) dx for |a|≠|b|",
+    "Solution": "This is a generalization of problem 31. The result is 2πln(max(|a|,|b|))."
+  },
+  {
+    "id": 206,
+    "Question": "Evaluate ∫[0,1] sin(ln(x))/ln(x) dx",
+    "Solution": "Let u=ln(x), so x=e^u. Integral becomes ∫[-∞,0] sin(u)/u * e^u du. This is a Laplace-Feynman integral. Result is arctan(1)=π/4."
+  },
+  {
+    "id": 207,
+    "Question": "Evaluate ∫[0,∞] J₀(x) J₁(x)/x dx",
+    "Solution": "Use properties of Bessel functions, specifically the derivative identity d/dx(J₀(x)²) = -2J₀(x)J₁(x). The integral is ill-defined at x=0 but can be regularized. The value is 1/2."
+  },
+  {
+    "id": 208,
+    "Question": "Evaluate ∫[0,∞] x⁶/(e^x-1) dx",
+    "Solution": "Standard Bose-Einstein integral. Use series expansion and Γ function. Result is Γ(7)ζ(7) = 6!ζ(7) = 720ζ(7)."
+  },
+  {
+    "id": 209,
+    "Question": "Evaluate ∫[0,1] (artanh(x))²/x dx",
+    "Solution": "Expand artanh(x) into its series. Squaring the series and integrating term-by-term is very complex. The result is (1/2)ζ(3)."
+  },
+  {
+    "id": 210,
+    "Question": "Evaluate ∫[0,π] (x/(1+cos²(x))) dx",
+    "Solution": "Use King's property to get 2I = π ∫ dx/(1+cos²(x)). Let u=tan(x). Integral becomes ∫ dx/(sec²x+1). The result is π²/(2√2)."
+  },
+  {
+    "id": 211,
+    "Question": "Evaluate ∫[0,∞] (1-sech(x))/x dx",
+    "Solution": "This integral can be evaluated using Mellin transforms or other advanced techniques. The result is 2ln(2)."
+  },
+  {
+    "id": 212,
+    "Question": "Evaluate ∫[0,1] (x*ln(x))/(1-x²) dx",
+    "Solution": "Expand 1/(1-x²) into Σx^(2n). Swap sum and integral. Use ∫ x^(2n+1)ln(x)dx = -1/(2n+2)². The sum is -Σ 1/(2n+2)² = -(1/4)ζ(2) = -π²/24."
+  },
+  {
+    "id": 213,
+    "Question": "Evaluate ∫[0,1] (dx/x) * (arctan(x))²",
+    "Solution": "Integrate by parts with u=(arctanx)² and dv=dx/x. This leads to a difficult integral involving logs and arctan. The result is Gπ - (7/8)ζ(3)."
+  },
+  {
+    "id": 214,
+    "Question": "Evaluate ∫[0,∞] (sin(x)/sinh(x)) dx",
+    "Solution": "Expand 1/sinh(x) = 2e^(-x)/(1-e^(-2x)) into a series. Swap sum and integral, then integrate Im(∫ e^(-(2n+1)x+ix) dx). The result is π/4."
+  },
+  {
+    "id": 215,
+    "Question": "Evaluate ∫[0,∞] dx / (x¹⁰+1)",
+    "Solution": "Use the general formula ∫ dx/(1+x^n) = (π/n)/sin(π/n). For n=10, this is (π/10)/sin(π/10). sin(π/10) = (√5-1)/4. The result is 2π/(5(√5-1))."
+  },
+  {
+    "id": 216,
+    "Question": "Evaluate ∫[0,π] sin(x)^(√2) dx",
+    "Solution": "This is expressible in terms of the Beta function. The result is B((√2+1)/2, 1/2) = √π * Γ((√2+1)/2) / Γ(√2/2 + 1)."
+  },
+  {
+    "id": 217,
+    "Question": "Evaluate ∫[0,1] (ln(1-x))² / x dx",
+    "Solution": "Expand one ln(1-x) into series, swap sum and integral. This leads to ∫ -ln(1-x)x^(n-1)/n dx. The inner integral is related to the digamma function. The final result is 2ζ(3)."
+  },
+  {
+    "id": 218,
+    "Question": "Evaluate ∫[0,∞] (x*sin(x))/(x⁴+x²+1) dx",
+    "Solution": "Use contour integration on z*e^(iz)/(z⁴+z²+1). Poles in UHP are at e^(iπ/3), e^(i2π/3). Sum the residues. The result is (π/√3)sin(1/2)e^(-√3/2)."
+  },
+  {
+    "id": 219,
+    "Question": "Evaluate ∫[0,∞] e^(-x)cos(x)sin(x)/x dx",
+    "Solution": "Use sin(x)cos(x) = sin(2x)/2. The integral is (1/2)∫ e^(-x)sin(2x)/x dx. From problem 162 with t=2, the result is (1/2)arctan(2)."
+  },
+  {
+    "id": 220,
+    "Question": "Evaluate ∫[0,1] dx / (x³+x²+x+1)",
+    "Solution": "Factor the denominator as (x+1)(x²+1). Use partial fractions. The integral becomes (1/2)∫(1/(x+1) - (x-1)/(x²+1))dx. The result is (1/4)ln(2) + π/8."
+  },
+  {
+    "id": 221,
+    "Question": "Evaluate the double integral ∫[0,∞]∫[0,∞] e^(-(x²+y²)) dx dy",
+    "Solution": "This is the Gaussian integral in 2D. Switch to polar coordinates. ∫[0,2π]∫[0,∞] r*e^(-r²) dr dθ. The inner integral is 1/2. The outer is 2π. Result is π/4."
+  },
+  {
+    "id": 222,
+    "Question": "Evaluate ∫[0,1] (ln(1-x²))/x² dx",
+    "Solution": "Integrate by parts with u=ln(1-x²) and dv=dx/x². The resulting integral is ∫ 2x/((1-x²)x) dx = ∫ 2/(1-x²)dx. The result is -2ln(2)."
+  },
+  {
+    "id": 223,
+    "Question": "Evaluate ∫[0,∞] x*Ai(x) dx",
+    "Solution": "From the Airy DE, Ai''(x)=xAi(x). So ∫ xAi(x)dx = ∫ Ai''(x)dx = [Ai'(x)]. From 0 to ∞, this is 0 - Ai'(0). Result is -Ai'(0) ≈ 0.2588."
+  },
+  {
+    "id": 224,
+    "Question": "Evaluate ∫[0,1] (1-x^n)/(1-x) dx for integer n>0",
+    "Solution": "The integrand is the finite geometric series 1+x+x²+...+x^(n-1). Integrating this gives 1+1/2+1/3+...+1/n = H_n, the n-th harmonic number."
+  },
+  {
+    "id": 225,
+    "Question": "Evaluate ∫[0,∞] (sin(x)/x) * (sin(x/2)/(x/2)) dx",
+    "Solution": "Use Parseval's theorem. The integrand is the product of two sinc functions. The Fourier transform of sinc(at) is a boxcar function. The integral is the inner product of the transforms. Result is π."
+  },
+  {
+    "id": 226,
+    "Question": "Evaluate ∫[0,π] x*ln(sin(x)) dx",
+    "Solution": "Use King's property. 2I = π ∫ ln(sin(x)) dx. Using the result from problem 5, this is π * (-π/2 ln(2)). So I = -π²/4 * ln(2)."
+  },
+  {
+    "id": 227,
+    "Question": "Evaluate ∫[0,∞] x⁵/(e^(πx)+1) dx",
+    "Solution": "From problem 193 with s=6 and a factor of π from scaling. The result is Γ(6)η(6)/π⁶ = 120 * (31/32)ζ(6)/π⁶ = 31/8."
+  },
+  {
+    "id": 228,
+    "Question": "Evaluate ∫[0,∞] (x-ln(1+x))/x² dx",
+    "Solution": "Integrate by parts with u=x-ln(1+x), dv=dx/x². The resulting integral is ∫ 1/(x(1+x)) dx. The final result is ln(2)."
+  },
+  {
+    "id": 229,
+    "Question": "Evaluate ∫[0,1] (ln(x))^(1/2) dx",
+    "Solution": "Let u=-ln(x), so x=e^(-u). Integral becomes ∫[0,∞] √(-u) * e^(-u) du. This is not real. The integral should be ∫(ln(1/x))^(1/2) dx. This gives Γ(3/2) = √π/2."
+  },
+  {
+    "id": 230,
+    "Question": "Evaluate ∫[0,∞] K₀(x)² x dx",
+    "Solution": "This is a standard integral involving products of Bessel functions. It can be solved using recursion relations or specific integral identities. The result is 1/2."
+  },
+  {
+    "id": 231,
+    "Question": "Evaluate ∫[0,π/2] (tan(x))^(√3) dx",
+    "Solution": "Let u=tan(x). Integral becomes ∫[0,∞] u^(√3)/(1+u²)du. This is in form of ∫ x^p/(1+x^q)dx. The result is (π/2)sec(π√3/2)."
+  },
+  {
+    "id": 232,
+    "Question": "Evaluate ∫[0,∞] ln(cosh(x))/cosh²(x) dx",
+    "Solution": "Integrate by parts with u=ln(cosh(x)), dv=sech²(x)dx. This gives [tanh(x)ln(cosh(x))] - ∫ tanh²(x)dx. The result is ln(2)-1/2."
+  },
+  {
+    "id": 233,
+    "Question": "Evaluate ∫[0,1] ln(1-x)/√(x) dx",
+    "Solution": "Expand ln(1-x) in series. Integrate term-by-term ∫ x^(n-1/2)dx = 1/(n+1/2). The sum is -Σ 1/(n(n+1/2)). This evaluates to -4ln(2)."
+  },
+  {
+    "id": 234,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x) * ln(x)) / (1+x²) dx",
+    "Solution": "This is a notoriously difficult integral requiring advanced polylogarithm identities. The evaluation involves splitting the integral and relating parts to values of the Trigamma function at complex arguments, Catalan's constant, and ζ(3). The result is (3π/32)ζ(3) - (π/4)G*ln(2)."
+  },
+  {
+    "id": 235,
+    "Question": "Evaluate the double integral ∫[0, 1]∫[0, 1] (ln(1-xy)) / (xy) dx dy",
+    "Solution": "Expand ln(1-xy) and 1/(xy) into their series representations. This leads to a double summation. After integrating, the resulting series is Σ 1/n³, which is Apery's constant, ζ(3)."
+  },
+  {
+    "id": 236,
+    "Question": "Evaluate ∫[0, ∞] J₀(ax) * J₀(bx) * J₀(cx) * x dx for a,b,c > 0",
+    "Solution": "This is a Nicholson-type integral representing the product of three Bessel functions. The value is non-zero only if a, b, c can form a triangle. If so, the result is 1/(2πA), where A is the area of the triangle with sides a, b, c."
+  },
+  {
+    "id": 237,
+    "Question": "Evaluate ∫[0, 1] ln(Γ(x)) * sin(2πnx) dx for integer n≥1",
+    "Solution": "This is related to the Fourier series of ln(Γ(x)). The evaluation uses the integral representation of the Digamma function and some complex analysis. The result is (γ + ln(2πn))/(2πn)."
+  },
+  {
+    "id": 238,
+    "Question": "Evaluate ∫[0, 1] (Li₃(x) * ln(x)) / (√(x)(1-x)) dx",
+    "Solution": "This integral requires techniques from the study of multiple polylogarithms and their connection to Euler sums. The evaluation is extremely complex, yielding a combination of ζ(5), ζ(4), ζ(3), ln(2), and π. The answer is 32ζ(5) - (4π²/3)ζ(3) - 64/3."
+  },
+  {
+    "id": 239,
+    "Question": "Evaluate the tenth Borwein integral: ∫[0, ∞] Π[k=0, 10] (sin(x/(2k+1)) / (x/(2k+1))) dx",
+    "Solution": "This is a famous pathological case. While the first nine such integrals evaluate to exactly π/2, this tenth one, and all subsequent ones, are slightly less. The value is (π/2) * (1 - 2(4678079247134407381769... × 10⁻⁴³))."
+  },
+  {
+    "id": 240,
+    "Question": "Evaluate ∫[0, 1]∫[0, 1] dx dy / (1 - x(1-y))",
+    "Solution": "This integral arises in contexts like random walks and lattice theory. Expanding the denominator as a geometric series and integrating gives Σ 1/((n+1)(n+2)), which telescopes to 1. A non-obvious result."
+  },
+  {
+    "id": 241,
+    "Question": "Evaluate ∫[0, π] θ² * Cl₂(θ) dθ, where Cl₂(θ) is the Clausen function.",
+    "Solution": "Requires integration by parts and known identities for integrals of Clausen functions. ∫θCl₂(θ)dθ relates to ζ(4). This integral relates to higher zeta values. The result is 4ζ(5) - 2π²ζ(3)."
+  },
+  {
+    "id": 242,
+    "Question": "Evaluate ∫[0, ∞] dx / (1 + x²cosh(x))",
+    "Solution": "No known closed-form solution exists for this integral. It is a benchmark problem in numerical integration, known for its difficulty due to the oscillatory and decaying nature of the integrand. Its value is approximately 1.16624."
+  },
+  {
+    "id": 243,
+    "Question": "Evaluate ∫[0, 1] x^(x^x) dx",
+    "Solution": "This integral has no known closed-form expression in terms of standard mathematical constants or functions. It is far more complex than the Sophomore's Dream and can only be evaluated numerically, approx 0.7834."
+  },
+  {
+    "id": 244,
+    "Question": "Evaluate ∫[0, ∞] (ln(1+x)) / (x⁵+1) dx",
+    "Solution": "Requires advanced contour integration with a keyhole contour around the negative real axis and a sector to handle the x⁵ term. The residues at the 5th roots of -1 must be summed, a Herculean task. The result involves polylogarithms and complex arguments."
+  },
+  {
+    "id": 245,
+    "Question": "Evaluate ∫[0, 1] ( (Li₂(x))³ / x ) dx",
+    "Solution": "This requires repeated integration by parts and knowledge of nested Euler sums (or Multiple Zeta Values). The result is a combination of high-order zeta values, including ζ(7), ζ(5), and products like ζ(2)ζ(5)."
+  },
+  {
+    "id": 246,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x) * (ln(x))² dx",
+    "Solution": "This integral is related to the derivative of the Gamma function at complex arguments. It is the imaginary part of Γ''(1+i). The result is -πγ²/2 + π³/24."
+  },
+  {
+    "id": 247,
+    "Question": "Evaluate ∫[0, 1] K(x) dx, where K(x) is the complete elliptic integral of the first kind.",
+    "Solution": "Expand K(x) = (π/2) Σ [ (2n)! / (2^n n!)² ]² x^(2n) and integrate term by term. The resulting sum is Σ [ (2n)! / (2^n n!)² ]² / (2n+1). This equals 2G, where G is Catalan's constant."
+  },
+  {
+    "id": 248,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x²) - cos(x)) / x² dx",
+    "Solution": "This integral requires splitting it into two parts using a break point, with careful handling of the divergences at zero. It combines the Gaussian integral with results from Fresnel or Dirichlet integrals. The result is -√π."
+  },
+  {
+    "id": 249,
+    "Question": "Evaluate the Hjalmar-Ekstrom integral: ∫[0, 1] sin(πx) * x^(x(1-x)) dx",
+    "Solution": "No known closed form exists. This integral is famous in the realm of numerical analysis for being exceptionally difficult to compute to high precision due to the high-frequency sine term modulated by a bizarrely shaped function."
+  },
+  {
+    "id": 250,
+    "Question": "Evaluate ∫[0, π/2] x * ln(tan(x)) dx",
+    "Solution": "This can be evaluated using integration by parts and relating the subsequent integral to the derivative of the Beta function. The final result is (7/8)ζ(3)."
+  },
+  {
+    "id": 251,
+    "Question": "Evaluate the Vardi's Integral: ∫[π/4, π/2] ln(ln(tan(x))) dx",
+    "Solution": "This highly obscure integral requires advanced complex analysis, including the saddle-point method on related integrals. The result is (π/4)(γ + ln(2π) - ln(π))."
+  },
+  {
+    "id": 252,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x)⁶ dx",
+    "Solution": "Using the Fourier transform method (convolution of 6 boxcar functions) or Plancherel's theorem is the most viable path. The result is 11π/40."
+  },
+  {
+    "id": 253,
+    "Question": "Evaluate ∫[0, ∞] e^(-t) * li(e^t) dt, where li(x) is the logarithmic integral function.",
+    "Solution": "Substitute x=e^t. The integral becomes ∫[1,∞] li(x)/x² dx. Integration by parts where u=li(x) gives [-li(x)/x] - ∫ -1/(x*ln(x)) dx. This diverges; the integral is not convergent."
+  },
+  {
+    "id": 254,
+    "Question": "Evaluate ∫[0, 1] ln(1-x) * ln(1+x) * ln(x) dx",
+    "Solution": "This is a Herculean task requiring expansion into triple series and evaluation of complex Euler sums. The result involves ζ(5), ζ(4), ζ(3), ln(2) and is a benchmark for symbolic computation programs."
+  },
+  {
+    "id": 255,
+    "Question": "Evaluate ∫[1, ∞] ( {x} - 1/2 ) / x³ dx, where {x} is the fractional part.",
+    "Solution": "Write {x}=x-floor(x) and split the integral into a sum over integer ranges. This leads to a series involving ζ'(2), the derivative of the Riemann Zeta function. The result is 1 - (3/2)ζ(3) + (π²/12)(1+γ-ln(2π))."
+  },
+  {
+    "id": 256,
+    "Question": "Evaluate ∫[0, 2π] ln| a*e^(iθ) - b*e^(-iθ) | dθ for |a|>|b|>0",
+    "Solution": "This integral can be evaluated using Jensen's formula from complex analysis. The 'zeros' of the function inside the log determine the value. The result is 2πln|a|."
+  },
+  {
+    "id": 257,
+    "Question": "Evaluate ∫[0, ∞] x² / (cosh(x) - cos(√2 π)) dx",
+    "Solution": "This requires contour integration over a rectangle of height 2πi, carefully avoiding poles on the contour. The sum of residues involves the Polygamma function. The result is (2π²/3)(1 - √2)."
+  },
+  {
+    "id": 258,
+    "Question": "Evaluate ∫[0, ∞] (x*ln(x)) / (sinh(πx)) dx",
+    "Solution": "This can be tackled by differentiating ∫ x^a/sinh(πx) dx with respect to 'a'. The base integral evaluates to sec²(aπ/2)/4. Differentiating and setting a=1 gives the result. The value is (1-ln(2))/(2π)."
+  },
+  {
+    "id": 259,
+    "Question": "Evaluate ∫[0, 1] (1-x) / ( (1+x) ln(x) ) * (1/(1+x²)) dx",
+    "Solution": "This integral has no known simple closed form and is exceptionally difficult. It combines features of several hard integrals and resists standard parameter differentiation and series expansion methods."
+  },
+  {
+    "id": 260,
+    "Question": "Evaluate ∫[0, 1] dx / ³√(x²-x³)",
+    "Solution": "Factor the denominator as ³√(x²(1-x)). Substitute x=sin²(θ). The integral transforms into a representation of the Beta function. The result is 3B(1/3, 2/3) = 2π√3."
+  },
+  {
+    "id": 261,
+    "Question": "Evaluate ∫[0, ∞] (sin(x³) + cos(x³)) dx",
+    "Solution": "Substitute u=x³. The integral becomes (1/3)∫[0,∞] u^(-2/3)(sin(u)+cos(u))du. This can be evaluated using complex Gamma function properties. The result is (1/3)(Γ(1/3)cos(π/6) + Γ(1/3)sin(π/6)) = (√3+1)Γ(1/3)/6."
+  },
+  {
+    "id": 262,
+    "Question": "Evaluate ∫[0, 1] (K(x) - π/2) / x dx, where K(x) is the complete elliptic integral.",
+    "Solution": "Use the series expansion of K(x) and subtract π/2. Then divide by x and integrate term-by-term. This leads to a known summation. The result is 2ln(2) - 2."
+  },
+  {
+    "id": 263,
+    "Question": "Evaluate the Watson's triple integral: ∫[0,π]∫[0,π]∫[0,π] dθdφdψ / (3-cos(θ)-cos(φ)-cos(ψ))",
+    "Solution": "This is a famous integral from solid-state physics related to random walks on a BCC lattice. Its evaluation is extremely advanced, involving Bessel and Gamma functions. The result is (1/4)Γ(1/4)⁴."
+  },
+  {
+    "id": 264,
+    "Question": "Evaluate ∫[0, ∞] (cos(x) - 1/cosh(x)) / x dx",
+    "Solution": "This is a Frullani-type integral but with functions that don't fit the standard template. It can be evaluated using Mellin transforms. The result is ln(π/2)."
+  },
+  {
+    "id": 265,
+    "Question": "Evaluate ∫[0, ∞] x⁹⁹ * e^(-x¹⁰) dx",
+    "Solution": "A relatively simple substitution u=x¹⁰, du=10x⁹dx shows the intimidating powers are a red herring. The integral becomes (1/10)∫ e^(-u) du = 1/10."
+  },
+  {
+    "id": 266,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x) * Li₃(x)) / x dx",
+    "Solution": "This requires integration by parts and knowledge of Multiple Zeta Values. The integral can be transformed into a combination of sums that evaluate to 3ζ(6) - 2ζ(3)²."
+  },
+  {
+    "id": 267,
+    "Question": "Evaluate ∫[0, ∞] x * (sin(x)/x)⁷ dx",
+    "Solution": "This is related to the Fourier transform of sinc⁷(t), which is the convolution of 7 boxcar functions. The calculation is a combinatorial and geometric nightmare. The result is 8281π/46080."
+  },
+  {
+    "id": 268,
+    "Question": "Evaluate ∫[0, π] x * sin(x) / (1-cos(x))^(3/2) dx",
+    "Solution": "Use trig identities to simplify the denominator to (2√2)|sin(x/2)|³. The integral becomes (1/(2√2)) ∫ x*cos(x/2)/sin²(x/2) dx. This is solvable by parts and substitution. The result is 4√2 * ln(2)."
+  },
+  {
+    "id": 269,
+    "Question": "Evaluate ∫[0, 1] ln(x) * (K(x)-π/2) dx, with K(x) the complete elliptic integral.",
+    "Solution": "This requires term-by-term integration of the series for K(x) multiplied by ln(x). It leads to a sum involving the digamma function. The final answer is 2 - 4ln(2)."
+  },
+  {
+    "id": 270,
+    "Question": "Evaluate ∫[0, 1] (dx/x) * (Li₂(x)+Li₂(-x))²",
+    "Solution": "Use the identity Li₂(x)+Li₂(-x) = (1/2)Li₂(x²). The integral becomes (1/4)∫ (Li₂(x²))²/x dx. Let u=x². This gives (1/8)∫ (Li₂(u))²/u du, which evaluates to a combination of ζ(5) and ζ(2)ζ(3)."
+  },
+  {
+    "id": 271,
+    "Question": "Evaluate ∫[0, ∞] sin(πx) / (x³-x) dx",
+    "Solution": "The integrand can be simplified to sin(πx)/(x(x-1)(x+1)). This must be evaluated using the Cauchy Principal Value due to the poles on the real axis. Contour integration with indentations gives the result -π."
+  },
+  {
+    "id": 272,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x) - 1/(1+x)²) / x dx",
+    "Solution": "This integral requires careful splitting and regularization. It can be shown to be equal to 1-γ, where γ is the Euler-Mascheroni constant."
+  },
+  {
+    "id": 273,
+    "Question": "Evaluate ∫[0, ∞] ln(x) * K₀(x) dx, where K₀ is the modified Bessel function.",
+    "Solution": "Differentiate the integral ∫ x^s K₀(x) dx with respect to s, then set s=0. The base integral is Γ((s+1)/2)². Differentiating leads to a result involving γ. The final answer is -(π/2)γ."
+  },
+  {
+    "id": 274,
+    "Question": "Evaluate ∫[0, 1] dx / (x+x⁻¹+1)",
+    "Solution": "Multiply numerator and denominator by x to get ∫ x/(x²+x+1) dx. This is a standard integral solvable by completing the square and substitution. The result is (1/2)ln(3) - π/(6√3)."
+  },
+  {
+    "id": 275,
+    "Question": "Evaluate ∫[-∞, ∞] (sin(x)/x) / (x²+a²) dx for a>0",
+    "Solution": "Use contour integration on e^(iz)/(z(z²+a²)). The pole at z=0 is on the contour and requires special handling (Cauchy Principal Value). The result is (π/a²) * (1-e^(-a))."
+  },
+  {
+    "id": 276,
+    "Question": "Evaluate ∫[0, 1] (arcsin(x))⁴ / x dx",
+    "Solution": "This is extremely difficult. It requires expanding arcsin(x) in a series, taking the fourth power (a combinatorial mess), dividing by x, and integrating term-by-term. The result is a complex sum involving ζ(4) and ln(2)."
+  },
+  {
+    "id": 277,
+    "Question": "Evaluate ∫[0, ∞] (ln(1+x²)) / (cosh(πx)) dx",
+    "Solution": "This can be evaluated using contour integration on a specific rectangular contour. The result is surprisingly simple: 2ln(2) - 1."
+  },
+  {
+    "id": 278,
+    "Question": "Evaluate ∫[0, 1] (ln(x)) / (x²-x-1) dx",
+    "Solution": "The roots of the denominator are related to the golden ratio φ. Use partial fractions. The integral splits into two parts, ∫ ln(x)/(x-φ) dx and ∫ ln(x)/(x+1/φ) dx. The result is 2Li₂(1/φ²) = π²/15."
+  },
+  {
+    "id": 279,
+    "Question": "Evaluate ∫[0, ∞] (J₁(x))⁴ dx, where J₁ is the Bessel function.",
+    "Solution": "This integral from Bessel function theory has a known, but obscure, evaluation. It requires using Parseval's theorem on the Hankel transform of J₁(x)². The result is 1/(3π)."
+  },
+  {
+    "id": 280,
+    "Question": "Evaluate ∫[0, 1] (1/ln(x) + x/(1-x)) dx",
+    "Solution": "This is similar to the integral for γ, but with an extra x. This seemingly small change makes it much harder. The result is γ - 1."
+  },
+  {
+    "id": 281,
+    "Question": "Evaluate ∫[0, 1] dx / √(1-x⁴)",
+    "Solution": "This is related to the lemniscate constant. Substitute x²=sin(θ). The integral becomes (1/2)∫ dθ/√(sinθ), which is related to the Beta function B(1/4,1/2). The result is Γ(1/4)² / (4√π)."
+  },
+  {
+    "id": 282,
+    "Question": "Evaluate ∫[0, ∞] (x - sin(x)*cosh(x)) / (x²sinh(x)) dx",
+    "Solution": "This integral has connections to number theory and special functions. It resists standard methods. The evaluation is (1/2)ln(2π) - 1."
+  },
+  {
+    "id": 283,
+    "Question": "Evaluate ∫[0, π/2] x² / (a²cos²x + b²sin²x) dx for a,b > 0",
+    "Solution": "This integral is exceptionally difficult. It requires Feynman's trick on multiple parameters and leads to complex expressions involving logs and arctans. The result is (π/(2ab)) * ( (π/2) - (ln(a+b)-ln(b)) )."
+  },
+  {
+    "id": 284,
+    "Question": "Evaluate ∫[0, ∞] x² * e^(-x⁴) dx",
+    "Solution": "Let u=x⁴. The integral becomes (1/4)∫ u^(-1/4) e^(-u) du. This is (1/4)Γ(3/4)."
+  },
+  {
+    "id": 285,
+    "Question": "Evaluate ∫[0, 1] (ln(x) * Li₂(x)) / (1+x) dx",
+    "Solution": "A very challenging polylogarithm integral. The solution involves alternating Euler sums and values of the Zeta function. The result is (13/8)ζ(4) - (7/4)ln(2)ζ(3) + ln²(2)ζ(2)."
+  },
+  {
+    "id": 286,
+    "Question": "Evaluate ∫[0, π] x * (sin(x))^(n-2) dx for integer n>2",
+    "Solution": "Use King's property: 2I = π ∫ (sin(x))^(n-2) dx. The remaining integral is a Wallis integral, expressible using Gamma functions. Result: (π²/2) * Γ((n-1)/2) / (Γ(n/2)Γ(1/2))."
+  },
+  {
+    "id": 287,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x) * (e^(ix) - 1) dx",
+    "Solution": "Split into two integrals: ∫ sin(x)cos(x)/x dx and i∫ sin²(x)/x dx. The first is ∫ sin(2x)/(2x)dx = π/4. The second diverges logarithmically. The principal value is needed."
+  },
+  {
+    "id": 288,
+    "Question": "Evaluate ∫[0, 1] ln(1+x+x²) dx",
+    "Solution": "Integrate by parts. The second integral involves ∫ x/(1+x+x²) dx. The result is 2 - 2ln(2) - (π/2√3)."
+  },
+  {
+    "id": 289,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x)-e^(-2x)-e^(-3x)+e^(-4x))/x dx",
+    "Solution": "Group terms and apply the Frullani integral formula twice. (∫(e⁻ˣ-e⁻²ˣ)/x dx) - (∫(e⁻³ˣ-e⁻⁴ˣ)/x dx) = ln(2) - ln(4/3) = ln(3/2)."
+  },
+  {
+    "id": 290,
+    "Question": "Evaluate ∫[0, 1] ( (1-x)⁴¹ / (x ln⁴²(x)) )^(1/42) dx",
+    "Solution": "The integrand simplifies beautifully. It's ((1-x)/ln(x)) * ( (1-x)/ln(x) )^(-1/42) which is just ((1-x)/ln(x)). The integral of this is ln(2)."
+  },
+  {
+    "id": 291,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x))² / (1+x) dx",
+    "Solution": "This integral is at the frontier of polylogarithm research. Its evaluation involves complex sums and multiple polylogarithm values. The answer is a monstrous combination of ζ(5), ζ(4), ζ(3), ln(2)."
+  },
+  {
+    "id": 292,
+    "Question": "Evaluate ∫[0, ∞] dx / (x^π + 1)",
+    "Solution": "Use the general formula for ∫ dx/(1+x^n). The result is (π/π) / sin(π/π), which is 1/sin(1)."
+  },
+  {
+    "id": 293,
+    "Question": "Evaluate the box integral B₂(1,1) = ∫[0,1]∫[0,1] √(x²+y²) dx dy",
+    "Solution": "This integral is surprisingly difficult. It requires switching to polar coordinates over a square domain, which is awkward. The result is (1/3)(√2 + ln(1+√2))."
+  },
+  {
+    "id": 294,
+    "Question": "Evaluate ∫[0, ∞] sin(x) / (e^x - 1) dx",
+    "Solution": "Expand 1/(e^x-1) in series. Swap sum and integral. Evaluate ∫ sin(x)e^(-nx)dx = 1/(n²+1). The result is the sum Σ 1/(n²+1) = (π coth(π) - 1)/2."
+  },
+  {
+    "id": 295,
+    "Question": "Evaluate ∫[0, 1] (ln(x))⁴ / (1+x) dx",
+    "Solution": "Expand 1/(1+x) and integrate term-by-term. This gives the sum 4! * Σ (-1)^n / (n+1)⁵ = 24η(5) = 24(1-2⁻⁴)ζ(5) = (45/2)ζ(5)."
+  },
+  {
+    "id": 296,
+    "Question": "Evaluate ∫[0, 1] E(x) dx where E(x) is the complete elliptic integral of the second kind.",
+    "Solution": "Expand E(x) as a series and integrate term by term. The result is a sum involving Catalan's constant, π, and ln(2). The final value is 1."
+  },
+  {
+    "id": 297,
+    "Question": "Evaluate ∫[0, ∞] (arctan(x))² / (x²+1) dx",
+    "Solution": "Let u = arctan(x). The integral becomes ∫[0, π/2] u² du. The result is (π/2)³/3 = π³/24."
+  },
+  {
+    "id": 298,
+    "Question": "Evaluate ∫[0, ∞] x * e^(-x) / (1-e^(-x))² dx",
+    "Solution": "The integrand is x*csch²(x/2)/4. The integral ∫ x csch²(x) dx is related to the trigamma function. The final result is π²/3."
+  },
+  {
+    "id": 299,
+    "Question": "Evaluate ∫[0, π/2] dx / √(sin³(x)cos(x))",
+    "Solution": "Let u=tan(x). The integral becomes ∫[0,∞] du/u^(3/2). This integral diverges at the lower limit, so the value is infinite."
+  },
+  {
+    "id": 300,
+    "Question": "Evaluate ∫[0, ∞] (J₀(x) - cos(x)) / x dx",
+    "Solution": "This is a Frullani-type integral that requires integral representations of J₀(x) and cos(x). The value can be shown to be ln(2)."
+  },
+  {
+    "id": 301,
+    "Question": "Evaluate ∫[0, ∞] (x - sin(x)) / x³(x²+a²) dx",
+    "Solution": "This requires contour integration with careful handling of the triple pole at z=0. The method involves expanding sin(z) and finding the residue. The result is (π/2a⁴)(a²/2 - 1 + e⁻ᵃ)."
+  },
+  {
+    "id": 302,
+    "Question": "Evaluate ∫[0, 1] (ln(1-x) * ln(x)²) / (1-x) dx",
+    "Solution": "This is related to the derivative of the Beta function. It can be shown to evaluate to -2ζ(4) = -π⁴/45."
+  },
+  {
+    "id": 303,
+    "Question": "Evaluate ∫[0, ∞] dx / (x⁴+4)",
+    "Solution": "Factor x⁴+4 = (x²+2x+2)(x²-2x+2). Use partial fractions. The result is π/8."
+  },
+  {
+    "id": 304,
+    "Question": "Evaluate ∫[0, 1] (ln(x)) / (x³-1) dx",
+    "Solution": "Use partial fractions and series expansion for the (x²+x+1) part. The result involves the trigamma function and ζ(2). The value is (4/9)ζ(2) = 2π²/27."
+  },
+  {
+    "id": 305,
+    "Question": "Evaluate ∫[0, ∞] ln(1 + 1/x²) dx",
+    "Solution": "The integral diverges. However, if regulated or considered as part of a larger expression, it can be manipulated. In its raw form, it's infinite."
+  },
+  {
+    "id": 306,
+    "Question": "Evaluate ∫[0, 1] (1/x) * sin(π*ln(x)) dx",
+    "Solution": "Let u = ln(x). The integral becomes ∫[-∞, 0] sin(πu)du. This integral does not converge due to oscillation at infinity."
+  },
+  {
+    "id": 307,
+    "Question": "Evaluate ∫[0, π/2] x*cot(x)ln(sin(x)) dx",
+    "Solution": "Integration by parts with u=ln(sin(x)) and dv=x*cot(x)dx. This is extremely challenging. The result is (π²/24)ln(2) + (1/4)ζ(3)."
+  },
+  {
+    "id": 308,
+    "Question": "Evaluate ∫[0, 1] x*J₀(x) dx where J₀ is the Bessel function.",
+    "Solution": "Use the identity d/dx(x*J₁(x)) = x*J₀(x). So the integral is [x*J₁(x)] evaluated from 0 to 1. The result is J₁(1)."
+  },
+  {
+    "id": 309,
+    "Question": "Evaluate ∫[0, ∞] (cos(x²)-cos(x)) / x dx",
+    "Solution": "This integral diverges. It can be regularized using properties of the cosine integral Ci(x), but it does not converge in the standard sense."
+  },
+  {
+    "id": 310,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x)-cos(x))/x² dx",
+    "Solution": "This integral does not converge due to the 1/x² singularity at zero. The linear term in the numerator expansion is zero, but the constant term is not."
+  },
+  {
+    "id": 311,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x²))/x * ln(x) dx",
+    "Solution": "Let u=x². Integral becomes (1/4)∫ Li₂(u)/u * ln(u)du. This is (1/4) times an integral that evaluates to -ζ(4). Result: -ζ(4)/4 = -π⁴/360."
+  },
+  {
+    "id": 312,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * (1-e^(-x))^(a-1) * x dx for a>0",
+    "Solution": "This is related to the first derivative of the Beta function. The result is B(2,a) = ψ(a)-ψ(a+1)+1/a."
+  },
+  {
+    "id": 313,
+    "Question": "Evaluate ∫[0, 2π] ln(1-cos(θ)) dθ",
+    "Solution": "The integrand is singular at 0 and 2π but is integrable. Use ln(1-cosθ)=ln(2sin²(θ/2)) = ln(2)+2ln(sin(θ/2)). The result is 2π(ln(2) + 2(-ln(2))) = -2πln(2)."
+  },
+  {
+    "id": 314,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x) * (sin(2x)/2x) * (sin(3x)/3x) dx",
+    "Solution": "Use the Fourier transform/convolution method. This involves finding the area of intersection of three scaled boxcar functions. The calculation is geometric. Result: 23π/144."
+  },
+  {
+    "id": 315,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x) - ζ(2)) / (ln(x)) dx",
+    "Solution": "This is a challenging integral requiring parameter differentiation under the integral sign. The result is γ - ln(2π) + 2."
+  },
+  {
+    "id": 316,
+    "Question": "Evaluate ∫[0, 1] dx / (x+1/x)^(1/2)",
+    "Solution": "Multiply num/den by √x. The integral is ∫ √x / √(x²+1) dx. Let x=sinh(t). Solvable with hyperbolic trig identities. Result: √2 - ln(1+√2)."
+  },
+  {
+    "id": 317,
+    "Question": "Evaluate ∫[0, ∞] x¹⁰⁰ e^(-x) sin(x) dx",
+    "Solution": "Consider Im(∫ x¹⁰⁰ e^(-(1-i)x) dx) = Im(Γ(101)/(1-i)¹⁰¹). (1-i)¹⁰¹ = (√2 e^(-iπ/4))¹⁰¹ simplifies. The result is -100! / (2⁵⁰)."
+  },
+  {
+    "id": 318,
+    "Question": "Evaluate ∫[0, 1] (ln(x))⁵ / (1-x) dx",
+    "Solution": "Standard series expansion method. Expand 1/(1-x), integrate term by term. Gives -5! Σ 1/(n+1)⁶ = -120ζ(6) = -8π⁶/63."
+  },
+  {
+    "id": 319,
+    "Question": "Evaluate ∫[0, ∞] (x*ln(x)) / (x⁴+1) dx",
+    "Solution": "Differentiate ∫ x^a/(x⁴+1) dx wrt 'a' and set a=1. The base integral is (π/4)csc(π(a+1)/4). Differentiation and evaluation gives π²/16."
+  },
+  {
+    "id": 320,
+    "Question": "Evaluate ∫[0, π/2] ln(sin(x))ln(cos(x)) dx",
+    "Solution": "This is a very difficult classic integral. The solution involves using the Fourier series for ln(sin(x)) and Parseval's theorem. Result: (π/2)(ln²(2) - π²/24)."
+  },
+  {
+    "id": 321,
+    "Question": "Evaluate ∫[0, 1] (Li₂(1-x))/x dx",
+    "Solution": "This is a known polylogarithm identity integral. The result is ζ(3)."
+  },
+  {
+    "id": 322,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x²)-e^(-4x²))/x² dx",
+    "Solution": "Integrate by parts or use Frullani's theorem on the integrated form. The result is √π."
+  },
+  {
+    "id": 323,
+    "Question": "Evaluate ∫[0, 1] dx/x * ∫[0, x] dy/y * ∫[0, y] dz/z * ln(1-z)",
+    "Solution": "This is an iterated integral representation. Each integration adds an order to the polylogarithm. This evaluates to -Li₄(1) = -ζ(4) = -π⁴/90."
+  },
+  {
+    "id": 324,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x) / cosh(x) dx",
+    "Solution": "Requires contour integration over a rectangle, summing an infinite series of residues. The result is arctan(sinh(π/2))."
+  },
+  {
+    "id": 325,
+    "Question": "Evaluate ∫[0, 1] {1/x} * x dx where {x} is the fractional part.",
+    "Solution": "Split into a sum Σ[n=1,∞] ∫[1/(n+1), 1/n] (1/x-n)x dx = Σ ∫ (1-nx)dx. The evaluation is straightforward. Result is 1-π²/12."
+  },
+  {
+    "id": 326,
+    "Question": "Evaluate ∫[0, ∞] (ln(x))³ / (x²+1) dx",
+    "Solution": "Differentiate ∫ x^a/(x²+1) dx three times wrt 'a' and set a=0. The base integral is (π/2)sec(πa/2). The result is -π⁴/16."
+  },
+  {
+    "id": 327,
+    "Question": "Evaluate ∫[0, 1] sin(ln(x)) dx",
+    "Solution": "Let u=ln(x), so x=e^u. Integral becomes ∫[-∞,0] sin(u)e^u du. Integrate by parts twice. Result is -1/2."
+  },
+  {
+    "id": 328,
+    "Question": "Evaluate ∫[0, 1] (ln(x)ln(1-x²))/x dx",
+    "Solution": "Let u=x². Integral becomes (1/4) ∫ ln(u/2)ln(1-u)/u du. This is a known polylogarithm integral. Result is -(3/4)ζ(4) = -π⁴/120."
+  },
+  {
+    "id": 329,
+    "Question": "Evaluate ∫[0, 2π] dθ / (1+a*sin(θ))² for |a|<1",
+    "Solution": "Differentiate ∫ dθ/(1+asinθ) with respect to 'a'. The base integral is 2π/√(1-a²). Differentiating gives 2πa/(1-a²)^(3/2)."
+  },
+  {
+    "id": 330,
+    "Question": "Evaluate ∫[0, 1] (1-x) / ( (1+x) ln³(x) ) dx",
+    "Solution": "This integral likely has no simple closed form. It resists standard methods and would require advanced numerical or special function theory to approach."
+  },
+  {
+    "id": 331,
+    "Question": "Evaluate ∫[0, 1] Li₂(x) / (1-x) * ln(x) dx",
+    "Solution": "This is a key integral in particle physics calculations (QED). It is notoriously difficult and evaluates to -ζ(2)²/2 = -π⁴/72."
+  },
+  {
+    "id": 332,
+    "Question": "Evaluate ∫[0, 1] x / (sin(x)) dx",
+    "Solution": "The integrand is non-singular. However, there is no known closed-form expression for this integral. Its value is approximately 1.057 and must be found numerically."
+  },
+  {
+    "id": 333,
+    "Question": "Evaluate ∫[0, ∞] (x - floor(x)) * e^(-x) dx",
+    "Solution": "Split into sum Σ[n=0,∞] ∫[n,n+1] (x-n)e⁻ˣ dx. Integration by parts on each piece leads to a telescoping series. The result is (e-2)/(e-1)."
+  },
+  {
+    "id": 334,
+    "Question": "Evaluate ∫[0, ∞] ln(x) / (x³-1) dx (Principal Value)",
+    "Solution": "Requires contour integration with an indented keyhole contour. The pole at x=1 needs careful handling. The result is 4π²/(27)."
+  },
+  {
+    "id": 335,
+    "Question": "Evaluate ∫[0, 1] dx / (1+x+x²+x³+x⁴)",
+    "Solution": "The denominator is (x⁵-1)/(x-1). Use partial fractions on 1/(x⁵-1) and integrate. The result involves logs and arctans of the 5th roots of unity. It is a complex expression."
+  },
+  {
+    "id": 336,
+    "Question": "Evaluate ∫[0, 2π] e^(e^(ix)) dx",
+    "Solution": "Let z=e^(ix). The integral becomes ∮ e^z / (iz) dz. By Cauchy's Integral Formula, this is (1/i) * 2πi * e⁰ = 2π."
+  },
+  {
+    "id": 337,
+    "Question": "Evaluate ∫[0, 1] (ln(x))⁶ dx",
+    "Solution": "Use the formula from problem 4 or repeated integration by parts. The result is (-1)⁶ * 6! / (1)⁷ = 720."
+  },
+  {
+    "id": 338,
+    "Question": "Evaluate ∫[0, ∞] dx / (x²+1) * (1/(1+e^(2πx)))",
+    "Solution": "This is Glaser's master theorem in QFT. It can be solved by contour integration over an infinite rectangle. The result is (1/4)(γ-ln(2π)+3)."
+  },
+  {
+    "id": 339,
+    "Question": "Evaluate ∫[0, 1] (ln(x))² / (x²+x+1) dx",
+    "Solution": "Expand the denominator using complex roots of unity and integrate term-by-term. The resulting sums involve the trigamma function. The final answer is (16/81)ψ''(1/3) + ... which is a mess."
+  },
+  {
+    "id": 340,
+    "Question": "Evaluate ∫[0, ∞] e^(i(ax²+bx)) dx for a,b > 0",
+    "Solution": "Complete the square in the exponent: ax²+bx = a(x+b/2a)²-b²/4a. Shift the contour of integration (justified by Cauchy's theorem) to evaluate the Fresnel-type integral. Result: (1/2)√(π/a) * e^(i(π/4 - b²/4a))."
+  },
+  {
+    "id": 341,
+    "Question": "Evaluate ∫[0, 1] {1/x} * {1/(1-x)} * {1/(x-1/x)} dx",
+    "Solution": "An example of a 'nightmare integral'. The nested and interacting fractional parts create a fractal-like integrand. There is no known analytical solution; it is a problem for numerical analysis."
+  },
+  {
+    "id": 342,
+    "Question": "Evaluate ∫[0, 1] xⁿ * (1-x)ⁿ dx for integer n≥0",
+    "Solution": "This is the Beta function B(n+1, n+1). In terms of factorials, it is (n!)² / (2n+1)!."
+  },
+  {
+    "id": 343,
+    "Question": "Evaluate ∫[0, ∞] dx / (1+x^a)^b for a,b>0",
+    "Solution": "Substitute u=x^a. The integral transforms into a form of the Beta function. The result is (1/a) * B(1/a, b-1/a) = (1/a) * Γ(1/a)Γ(b-1/a)/Γ(b)."
+  },
+  {
+    "id": 344,
+    "Question": "Evaluate ∫[0, 1] (ln(x)) / (1-x) * (ln(1-x)) dx",
+    "Solution": "This integral is related to the derivative of the beta function B(x,y) with respect to both arguments. The result is ζ(3) - π²/4."
+  },
+  {
+    "id": 345,
+    "Question": "Evaluate ∫[0, ∞] x / (e^x - e^(-x)) dx",
+    "Solution": "The denominator is 2sinh(x). This is ∫ x/(2sinh(x)) dx. This is problem 12 with a=1/2. The result is π²/8."
+  },
+  {
+    "id": 346,
+    "Question": "Evaluate ∫[0, π/2] dx / (1 + sin⁴(x))",
+    "Solution": "This is solvable with tangent half-angle substitution, but leads to a nightmare rational function. Contour integration is better. Result: (π/(2√2)) * (1+K(1/√2))."
+  },
+  {
+    "id": 347,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x) - 1 + x - x²/2) / x³ dx",
+    "Solution": "Integrate by parts three times or use Laplace transforms. The result is -(11/6) + 2ln(2)."
+  },
+  {
+    "id": 348,
+    "Question": "Evaluate ∫[0, 1] (x²⁰⁰ - 1) / (ln(x)) dx",
+    "Solution": "This is a simple Frullani integral in disguise. Let f(a) = ∫ (x^a-1)/ln(x) dx = ln(a+1). The integral is f(200) = ln(201)."
+  },
+  {
+    "id": 349,
+    "Question": "Evaluate ∫[0, ∞] K₀(x)³ x dx",
+    "Solution": "Integrals of products of three Bessel functions are extremely difficult. There is no known simple closed form for this integral."
+  },
+  {
+    "id": 350,
+    "Question": "Evaluate ∫[0, ∞] (ln(x)) / (cosh(x)) dx",
+    "Solution": "Differentiate ∫ sech(x)^a dx wrt 'a' at a=1. The result is π/2 * (ln(π/2)-γ)."
+  },
+  {
+    "id": 351,
+    "Question": "Evaluate ∫[0, π] x² / (1 - cos(x)) dx",
+    "Solution": "The integral diverges. The singularity at x=0 is of order 1/x², which is not integrable."
+  },
+  {
+    "id": 352,
+    "Question": "Evaluate ∫[0, 1] ln(x) * sin(πx) / (1-x) dx",
+    "Solution": "This is a very difficult integral requiring expansion of sin(πx) and using properties of the digamma function. The result is π(ln(2π)-1-γ)."
+  },
+  {
+    "id": 353,
+    "Question": "Evaluate ∫[0, 1] dx / (x^x)",
+    "Solution": "This is the Sophomore's Dream integral, ∫ x^(-x) dx. The solution is the infinite sum Σ n⁻ⁿ for n=1 to ∞. Its value is approx 1.291."
+  },
+  {
+    "id": 354,
+    "Question": "Evaluate ∫[0, 1] (x - ⌊x⌋ - 1/2) dx",
+    "Solution": "This is the integral of the first Bernoulli polynomial B₁(x) over one period. By definition, its integral over a period is 0."
+  },
+  {
+    "id": 355,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x) * (1-cos(x))/x² dx",
+    "Solution": "This requires advanced Fourier analysis or complex integration. It is related to the energy spectrum of certain signals. The result is π/4."
+  },
+  {
+    "id": 356,
+    "Question": "Evaluate ∫[0, 1] (ln(x)³ / (1-x³)) dx",
+    "Solution": "Expand 1/(1-x³) in series and integrate term by term. This leads to a sum involving ζ(4). The result is -(2π⁴/45)."
+  },
+  {
+    "id": 357,
+    "Question": "Evaluate ∫[0, 1] ln(1+√x) dx",
+    "Solution": "Let u=√x. Integral becomes ∫ 2u*ln(1+u) du. Integrate by parts. The result is 1/2."
+  },
+  {
+    "id": 358,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x) - (1+x)⁻¹) dx",
+    "Solution": "The integral diverges. The integrand approaches 1/x² for large x, which is integrable, but diverges near x=0. The two functions do not cancel well enough."
+  },
+  {
+    "id": 359,
+    "Question": "Evaluate ∫[0, π/2] ln(1+tan²(x)) dx",
+    "Solution": "1+tan²(x) = sec²(x). The integral is ∫ ln(sec²(x)) dx = -2∫ ln(cos(x)) dx. Using a known result, this is πln(2)."
+  },
+  {
+    "id": 360,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x)ln²(x))/x dx",
+    "Solution": "Integrate by parts repeatedly. This relates the integral to higher polylogarithms. The result is 2ζ(5) - 2ζ(2)ζ(3)."
+  },
+  {
+    "id": 361,
+    "Question": "Evaluate ∫[0, ∞] dx / (x⁶+x³+1)",
+    "Solution": "Let u=x³. The integral becomes (1/3)∫ du/(u²(u+1)). This diverges due to the 1/u² pole at the origin."
+  },
+  {
+    "id": 362,
+    "Question": "Evaluate ∫[0, 1] ( (1-x)⁷(1+x)⁷ ) / (1+x²) dx",
+    "Solution": "Expand (1-x²)⁷. This gives a large polynomial. Divide by (1+x²) using polynomial long division. The result is a rational number minus a multiple of π."
+  },
+  {
+    "id": 363,
+    "Question": "Evaluate ∫[0, 1] (x/sin(x))² dx",
+    "Solution": "There is no known closed-form for this integral. It must be computed numerically. Its value is approx 1.118."
+  },
+  {
+    "id": 364,
+    "Question": "Evaluate ∫[0, 1] ln(x) * (e^x - 1) dx",
+    "Solution": "Expand e^x-1 = Σ x^n/n!. Swap sum and integral. Integrate ∫ x^n ln(x) dx = -1/(n+1)². Result is -Σ 1/(n!(n+1)²), which has no simpler form."
+  },
+  {
+    "id": 365,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * (ψ(x+1)+γ) dx where ψ is the digamma function.",
+    "Solution": "ψ(x+1)+γ is the harmonic number function H(x). So this is ∫ e⁻ˣ H(x) dx. The result is a known sum involving ln(2)."
+  },
+  {
+    "id": 366,
+    "Question": "Evaluate ∫[0, π] x²/(1+sin(x)) dx",
+    "Solution": "This is a very difficult integral. It can be shown to evaluate to π³ - 4πG, where G is Catalan's constant."
+  },
+  {
+    "id": 367,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x) - x) / (1-x)² dx",
+    "Solution": "This requires careful integration by parts and handling of singularities. The result is 1-γ."
+  },
+  {
+    "id": 368,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x) - 1/(1+x)) dx",
+    "Solution": "The integral diverges. The integrand behaves like -1/x for large x."
+  },
+  {
+    "id": 369,
+    "Question": "Evaluate ∫[0, π/2] (x/sin(x)) dx",
+    "Solution": "This is a classic integral related to the Clausen function. The result is 2G, where G is Catalan's constant."
+  },
+  {
+    "id": 370,
+    "Question": "Evaluate ∫[0, 1] ln(x) / (x²+4) dx",
+    "Solution": "Expand 1/(x²+4) in a series (at 0) or use substitution x=2tanθ. The latter is easier. Result: -(π/8)ln(5) + (1/2)G."
+  },
+  {
+    "id": 371,
+    "Question": "Evaluate ∫[0, 1] dx / (x⁴+x³+x²+x+1)",
+    "Solution": "Denominator is (x⁵-1)/(x-1). The integral is ∫ (x-1)/(x⁵-1) dx. Use partial fractions with 5th roots of unity. The result is a complex sum of logs and arctans."
+  },
+  {
+    "id": 372,
+    "Question": "Evaluate ∫[0, ∞] (1-e^(-x)) / (x(e^x+1)) dx",
+    "Solution": "Expand the denominator and integrate term-by-term. The result is a series that sums to ln(π/2)."
+  },
+  {
+    "id": 373,
+    "Question": "Evaluate ∫[0, ∞] dx / (x⁵+x⁴+x³+x²+x+1)",
+    "Solution": "Denominator is (x⁶-1)/(x-1). Integral is ∫(x-1)/(x⁶-1)dx. Use partial fractions. The result involves logs of roots of unity and π. Final value is π/(3√3)."
+  },
+  {
+    "id": 374,
+    "Question": "Evaluate ∫[0, 1] (ln(1-x))⁴/x dx",
+    "Solution": "Expand ln⁴(1-x) using Stirling numbers of the first kind and integrate term by term. The result is -24ζ(5)."
+  },
+  {
+    "id": 375,
+    "Question": "Evaluate ∫[0, ∞] (J₀(x)² - J₁(x)²) dx",
+    "Solution": "This integral is related to the orthogonality of Bessel functions. Using Lommel's integrals, the value can be shown to be 0."
+  },
+  {
+    "id": 376,
+    "Question": "Evaluate ∫[0, 1] ln(1+x) / (1-x) dx",
+    "Solution": "Expand 1/(1-x) in series. This leads to the sum Σ (-1)ⁿ⁺¹(Hₙ-Hₙ/₂-ln2)/n. The result is (ln²(2) - π²/12)."
+  },
+  {
+    "id": 377,
+    "Question": "Evaluate ∫[0, ∞] (x - ln(cosh(x))) dx",
+    "Solution": "The integral diverges. The integrand grows linearly for large x."
+  },
+  {
+    "id": 378,
+    "Question": "Evaluate ∫[0, ∞] (sech(x))⁵ dx",
+    "Solution": "Let u=tanh(x). Integral becomes ∫ (1-u²)² du. This is ∫(1-2u²+u⁴)du from 0 to 1. The result is 1 - 2/3 + 1/5 = 8/15."
+  },
+  {
+    "id": 379,
+    "Question": "Evaluate ∫[0, 1] (ln(x)ln(1-x))² / x dx",
+    "Solution": "This is an extremely advanced integral related to multiple polylogarithms and Euler sums. The result is a combination of ζ(6), ζ(3)², and ζ(2)ζ(4)."
+  },
+  {
+    "id": 380,
+    "Question": "Evaluate ∫[0, 2π] e^(cos(θ)) * sin(θ - sin(θ)) dθ",
+    "Solution": "This is Im(∫ e^(cosθ)e^(i(θ-sinθ))dθ) = Im(∫ e^(e⁻ⁱᶿ)e^(iθ)dθ). Let z=e^(iθ). The integral is Im(∮ e^(1/z)/z * (-i)dz). The residue at z=0 is -i. Result is -π."
+  },
+  {
+    "id": 381,
+    "Question": "Evaluate ∫[0, 1] (ln(x)) / (1-x^π) dx",
+    "Solution": "Expand the denominator as Σx^(nπ). Integrate term-by-term. The result is Σ 1/((nπ+1)²) which is (1/π²)ψ'(1/π), where ψ' is the trigamma function."
+  },
+  {
+    "id": 382,
+    "Question": "Evaluate ∫[0, ∞] sin(x)/x * ln(x) dx",
+    "Solution": "This is related to the derivative of the Dirichlet integral. The result is -πγ/2."
+  },
+  {
+    "id": 383,
+    "Question": "Evaluate ∫[0, 1] (1-x²) / (1+x²) * dx/ln(x)",
+    "Solution": "Use Feynman's trick. Let I(a)=∫(1-x²)/(1+x²) * x^a/ln(x) dx. Differentiate wrt 'a'. The resulting integral is hard but solvable. The final result is ln( (1+√2)/√2 )."
+  },
+  {
+    "id": 384,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x²) - e^(-x)) / x dx",
+    "Solution": "Split into two divergent integrals ∫(e⁻ˣ²-e⁻ˣ)/x dx from 0 to 1 and 1 to ∞. Can be shown to evaluate to γ/2."
+  },
+  {
+    "id": 385,
+    "Question": "Evaluate ∫[0, 1] (1+x³⁰) / (1+x⁶⁰) dx",
+    "Solution": "Let u=x³⁰. The integral becomes (1/30)∫ u^(-29/30) / (1+u²) du. This is a Beta function form. The result is (π/30)csc(π/60)."
+  },
+  {
+    "id": 386,
+    "Question": "Evaluate ∫[0, π] x³ * sin(x) dx",
+    "Solution": "Integrate by parts three times. The result is [ (-x³+6x)cos(x) + (3x²-6)sin(x) ] from 0 to π. The final answer is π³-6π."
+  },
+  {
+    "id": 387,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x) * (sin(x/3)/(x/3)) * (sin(x/5)/(x/5)) dx",
+    "Solution": "This is the third Borwein integral. The sum of the reciprocals 1+1/3+1/5 < 2, so the value is exactly π/2."
+  },
+  {
+    "id": 388,
+    "Question": "Evaluate ∫[0, 1] Li₂(x) / (x ln(x)) dx",
+    "Solution": "The integral diverges. The integrand behaves like -1/x near x=1 and ln(x)/x near x=0."
+  },
+  {
+    "id": 389,
+    "Question": "Evaluate ∫[0, ∞] x¹⁰ / (e^x - 1) dx",
+    "Solution": "Standard Bose-Einstein integral. Result is Γ(11)ζ(11) = 10! * ζ(11)."
+  },
+  {
+    "id": 390,
+    "Question": "Evaluate ∫[0, 1] dx / (x⁴ - x² - 1)",
+    "Solution": "Roots are related to the golden ratio. Use partial fractions. The result involves logs of φ. The final answer is (1/√5)ln(φ)."
+  },
+  {
+    "id": 391,
+    "Question": "Evaluate ∫[0, 2π] ln(1+sin(x)) dx",
+    "Solution": "This integral must be handled carefully due to the zero at 3π/2. Using symmetry and ln(1+sin(x))=ln(2cos²(x/2-π/4)), it can be shown to be -2πln(2)."
+  },
+  {
+    "id": 392,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * Li₂(e⁻ˣ) dx",
+    "Solution": "Let u=e⁻ˣ. Integral becomes ∫[0,1] Li₂(u)du. Integrate by parts. The result is ζ(2)-1 = π²/6 - 1."
+  },
+  {
+    "id": 393,
+    "Question": "Evaluate ∫[0, 1] ln(1-x) * ln(x+1/x) dx",
+    "Solution": "This integral is extremely difficult. It can be split into ∫ln(1-x)ln(x²+1)dx - ∫ln(1-x)ln(x)dx. The first part is very challenging. The result is a combination of ζ(3), G, ln(2), and π."
+  },
+  {
+    "id": 394,
+    "Question": "Evaluate ∫[0, ∞] (J₁(x)/x)² dx",
+    "Solution": "Using Parseval's theorem for the Hankel Transform, this is related to the integral of the transform of J₁(x)/x. The result is 4/(3π)."
+  },
+  {
+    "id": 395,
+    "Question": "Evaluate ∫[0, ∞] (x - tanh(x)) / x³ dx",
+    "Solution": "Integrate by parts twice. This will lead to an integral of sech²(x)tanh(x). The final result is 7ζ(3)/(2π²)."
+  },
+  {
+    "id": 396,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x))² / x² dx",
+    "Solution": "This integral diverges due to the 1/x² pole at the origin, as Li₂(x) behaves like x."
+  },
+  {
+    "id": 397,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x) - 1)² / x² dx",
+    "Solution": "Expand the numerator. The ∫ (e⁻²ˣ - 2e⁻ˣ + 1)/x² dx form is tricky. An alternative is to use Frullani's integral on the integrated form. The result is 2ln(2)-1."
+  },
+  {
+    "id": 398,
+    "Question": "Evaluate ∫[0, ∞] (x / (e^x-1))² dx",
+    "Solution": "This requires expanding the squared term as a double sum and integrating. It leads to a sum over ζ(3). The result is 2ζ(3)."
+  },
+  {
+    "id": 399,
+    "Question": "Evaluate ∫[0, 1] dx / (1-x)^(2/3) / (1+x)^(1/3)",
+    "Solution": "This is a form of the hypergeometric function ₂F₁(a,b;c;z) at z=-1. The result can be expressed using Gamma functions: Γ(1/3)Γ(1/3) / (2^(1/3)Γ(2/3))."
+  },
+  {
+    "id": 400,
+    "Question": "Evaluate ∫[0, 1] (ln(x)) / (x⁴+1) dx",
+    "Solution": "Expand 1/(x⁴+1) as Σ(-1)ⁿx⁴ⁿ. Integrate term-by-term. The result is the sum -Σ(-1)ⁿ/(4n+1)², which is related to Catalan's constant. The value is -G/4 - π²/48."
+  },
+  {
+    "id": 401,
+    "Question": "Evaluate ∫[0, 1] (ln(1-x) * Li₃(x)) / x dx",
+    "Solution": "This is an integral leading to Multiple Zeta Values. Integration by parts leads to an integral of Li₄(x). The result is a combination of ζ(5) and products of lower-order zeta values: (1/2)ζ(2)ζ(3) - (3/4)ζ(5)."
+  },
+  {
+    "id": 402,
+    "Question": "Evaluate ∫[0, ∞] dx / ( (x²+1)(x²+9)(x²+25)...(x²+(2n-1)²) )",
+    "Solution": "This can be solved using contour integration, but the number of poles makes it tedious. The result is known from combinatorics and properties of the Gamma function: (π/2) / (2n)!."
+  },
+  {
+    "id": 403,
+    "Question": "Evaluate ∫[0, ∞] (K₀(x) * I₀(x) - e^(-2x)/ (2x)) / x dx, where K₀, I₀ are modified Bessel functions.",
+    "Solution": "This is a regularized integral related to the product of Bessel functions. The term being subtracted removes the logarithmic divergence. The result is γ², where γ is the Euler-Mascheroni constant."
+  },
+  {
+    "id": 404,
+    "Question": "Evaluate ∫[0, 1] x^x * (1-x)^(1-x) dx",
+    "Solution": "This integral has no known closed form in terms of elementary or standard special functions. Its evaluation is a challenge for numerical methods, with an approximate value of 0.6966."
+  },
+  {
+    "id": 405,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x))³ / x dx",
+    "Solution": "This is a high-order polylogarithm integral that evaluates to a complex combination of Multiple Zeta Values. The expression involves ζ(7), ζ(5), ζ(3), and ζ(2)."
+  },
+  {
+    "id": 406,
+    "Question": "Evaluate the regularized integral: lim[ε→0⁺] ∫[0, ∞] e^(-εx) * (sin(x)/x - cos(x)) dx",
+    "Solution": "The integral diverges without the regularization factor. The Laplace transform of the integrand can be used. The limit evaluates to -γ, the Euler-Mascheroni constant."
+  },
+  {
+    "id": 407,
+    "Question": "Evaluate ∫[0, ∞] dx / ( (x²+1)(x⁴+1)(x⁸+1) )",
+    "Solution": "This can be tackled by recognizing that (x²-1) times the denominator is x¹⁶-1. This insight allows for a massive simplification using partial fractions. The result is (π/4)(√2-1)."
+  },
+  {
+    "id": 408,
+    "Question": "Evaluate ∫[0, ∞] ln( π / (x*sinh(πx)) ) dx",
+    "Solution": "This integral is related to the functional determinant of the Laplacian on a strip. Its evaluation requires advanced complex analysis. The result is 2ζ'(−1) = -1/6 - ln(A), where A is Glaisher's constant."
+  },
+  {
+    "id": 409,
+    "Question": "Evaluate Apéry's integral: ∫[0,1]∫[0,1] ( -ln(xy) / (1-xy) ) dx dy",
+    "Solution": "This integral was central to Apéry's proof of the irrationality of ζ(3). Expanding the denominator and integrating yields the sum Σ 1/n³, which is 2ζ(3)."
+  },
+  {
+    "id": 410,
+    "Question": "Evaluate ∫[0, π/2] x² * ln(sin(x)) * ln(cos(x)) dx",
+    "Solution": "A research-level integral. Requires Fourier series expansions for the log-trig functions and evaluating triple sums. The result is a horrendous combination of high-order polylogarithms and zeta values."
+  },
+  {
+    "id": 411,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x) - Li₂(1)) * (Li₃(x) - Li₃(1)) / (1-x) dx",
+    "Solution": "This integral is profoundly difficult. It arises in the calculation of higher-loop Feynman diagrams in QFT. The result is a rational linear combination of ζ(6), ζ(3)², and ζ(2)ζ(4)."
+  },
+  {
+    "id": 412,
+    "Question": "Evaluate ∫[0, ∞] (ln(x))² / (x²+1)³ dx",
+    "Solution": "This can be solved by differentiating ∫ dx/(x²+a²)³ with respect to its parameters, or by contour integration with a third-order pole. The result is (π/32)(3-4ln(2))."
+  },
+  {
+    "id": 413,
+    "Question": "Evaluate ∫[0, 1] ( K(√x) / (1-x) ) dx, where K is the complete elliptic integral.",
+    "Solution": "The integral diverges. The numerator approaches π/2 while the denominator goes to zero. A regularization would be needed to assign a finite value."
+  },
+  {
+    "id": 414,
+    "Question": "Evaluate ∫[0, 1] (1/ln(x) + 1/(1-x) - 1/2) dx",
+    "Solution": "This is an integral representation of a constant related to the Stieltjes constants. The value is (ln(2π) / 2) - 1."
+  },
+  {
+    "id": 415,
+    "Question": "Evaluate ∫[0, ∞] e^(-t³) * sin(t³) dt",
+    "Solution": "Let u=t³. The integral becomes (1/3)∫ u^(-2/3)e^(-u)sin(u)du. This is the imaginary part of (1/3)Γ(1/3) evaluated at a complex argument. The result is (1/6)Im(Γ(1/3, 1-i))."
+  },
+  {
+    "id": 416,
+    "Question": "Evaluate ∫[0, 1] dx / (x^π + x^(-π))",
+    "Solution": "Multiply numerator and denominator by x^π. The integral is ∫ x^π/(x^(2π)+1) dx. Let u=x^π. This becomes (1/π)∫ du/(u²+1) = (1/π)arctan(1) = 1/4."
+  },
+  {
+    "id": 417,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * (Ci(x))² dx, where Ci(x) is the Cosine Integral.",
+    "Solution": "This requires advanced techniques involving integral representations of Ci(x) and swapping the order of multiple integrals. The result is (ln²(2) + π²/3)."
+  },
+  {
+    "id": 418,
+    "Question": "Evaluate ∫[0, 1] (artanh(x) * Li₂(x)) / x dx",
+    "Solution": "Expand both functions as series and integrate the product term-by-term. This leads to a complex double summation. The result is (7/8)ζ(4) = 7π⁴/720."
+  },
+  {
+    "id": 419,
+    "Question": "Evaluate ∫[0, ∞] (1 - x/sinh(x)) dx",
+    "Solution": "This integral is related to the work of Ramanujan. It converges and can be evaluated using complex analysis. The value is 1 + γ - ln(2)."
+  },
+  {
+    "id": 420,
+    "Question": "Evaluate ∫[0, 1] ( (ln(1-x))² * ln(x) ) / (1+x) dx",
+    "Solution": "This is a high-level polylogarithm integral. The evaluation requires expanding 1/(1+x) and using identities for integrals of ln²(1-x)xⁿ. The result involves ζ(4), ζ(3)ln(2), and Li₄(1/2)."
+  },
+  {
+    "id": 421,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x)⁷ dx",
+    "Solution": "Using the Fourier transform method (convolution of 7 boxcar functions) is the only practical way. The result involves intricate combinatorial counting. The value is 8281π/46080."
+  },
+  {
+    "id": 422,
+    "Question": "Evaluate ∫[0, 1] ln(1-x) / (1+x²) dx",
+    "Solution": "Let x=tan(θ). The integral becomes ∫[0,π/4] ln(1-tanθ)dθ - ∫[0,π/4] ln(sec²θ)dθ. This is very tricky. The result is (π/8)ln(2) - G, where G is Catalan's constant."
+  },
+  {
+    "id": 423,
+    "Question": "Evaluate ∫[0, ∞] ln(x) * e^(-x) * cos(x) dx",
+    "Solution": "This is the real part of the derivative of the Gamma function evaluated at a complex argument, Re(Γ'(1+i)). The result involves the Digamma function ψ(z) and is not elementary."
+  },
+  {
+    "id": 424,
+    "Question": "Evaluate ∫[0, 2π] ln| e^(ix) - e^(-ix) | dθ",
+    "Solution": "The integrand is ln|2sin(θ)|. This is ∫ ln(2) + ln|sin(θ)| dθ. The second part is 2∫[0,π] ln(sinθ)dθ = 2(-πln2). The result is 2πln(2) - 4πln(2) = -2πln(2)."
+  },
+  {
+    "id": 425,
+    "Question": "Evaluate ∫[0, ∞] x³ * K₁(x) dx, where K₁ is a modified Bessel function.",
+    "Solution": "Using properties of the Mellin transform of Bessel functions, ∫ x^s K_ν(x) dx = 2^(s-1)Γ((s+ν+1)/2)Γ((s-ν+1)/2). Here s=4, ν=1. The result is 2³Γ(3)Γ(2) = 8*2*1=16."
+  },
+  {
+    "id": 426,
+    "Question": "Evaluate ∫[0, 1] (1/x) * sin(π/x) dx",
+    "Solution": "Let u=1/x. The integral becomes ∫[1, ∞] u * sin(πu) * (-1/u²)du = -∫[1,∞] sin(πu)/u du. This is related to the Sine Integral, Si(π). The value is - (π/2 - Si(π))."
+  },
+  {
+    "id": 427,
+    "Question": "Evaluate ∫[0, ∞] (J₀(x) - 1 + x²/4) / x⁴ dx",
+    "Solution": "Expand J₀(x) as a series: 1 - x²/4 + x⁴/64 - ... The numerator starts at the x⁴ term, so the singularity is removable. The integral converges. The value is 1/64."
+  },
+  {
+    "id": 428,
+    "Question": "Evaluate ∫[0, 1] (ln(x)ln(1-x)) / √(x(1-x)) dx",
+    "Solution": "This requires the derivative of the Beta function B(p,q) with respect to p and q at p=q=1/2. The result is 4π( (ln(2))² - π²/12 )."
+  },
+  {
+    "id": 429,
+    "Question": "Evaluate ∫[0, ∞] (x - arctan(x)) / (x²(e^(2πx)-1)) dx",
+    "Solution": "This is Binet's second formula for the log-gamma function. It is a highly non-trivial result from complex analysis. The result is (1/2)ln(2π) - 1/2."
+  },
+  {
+    "id": 430,
+    "Question": "Evaluate ∫[0, 1] ln(1+x)ln(1+x²) / x dx",
+    "Solution": "Expand both logarithms into series and integrate the product of the series term by term. This leads to very complex harmonic sums. The result is a combination of ζ(4), Li₄(1/2), and logs."
+  },
+  {
+    "id": 431,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x)⁸ dx",
+    "Solution": "Requires the Fourier transform of sinc⁸(t), equivalent to the volume of the intersection of 8 unit intervals. The result is a rational multiple of π: 43093π/215040."
+  },
+  {
+    "id": 432,
+    "Question": "Evaluate ∫[0, 1] x^n / (1+x)ⁿ⁺¹ dx for n∈ℕ",
+    "Solution": "This can be solved by a clever substitution or by repeated integration by parts. The result is surprisingly simple: 1/(n * 2ⁿ)."
+  },
+  {
+    "id": 433,
+    "Question": "Evaluate ∫[0, π/2] dx / (1 + tan^α(x)) for α∈ℝ",
+    "Solution": "Use the King property: I = ∫[0,π/2] dx/(1+cot^α(x)) = ∫ tan^α(x)/(1+tan^α(x)) dx. Add the two forms: 2I = ∫[0,π/2] 1 dx = π/2. So I=π/4 for any real α."
+  },
+  {
+    "id": 434,
+    "Question": "Evaluate ∫[0, 1] {1/x} * ln(x) dx, where {} is the fractional part.",
+    "Solution": "Split into a sum of integrals Σ[n=1,∞] ∫[1/(n+1), 1/n] (1/x - n)ln(x) dx. Evaluating and summing the series gives 1 - γ - ζ(2)/2."
+  },
+  {
+    "id": 435,
+    "Question": "Evaluate the 4D Box Integral B₄(1,1,1,1) = ∫[0,1]...∫[0,1] √(x²+y²+z²+w²) dV",
+    "Solution": "This requires advanced techniques for integrating over a hypercube. The result is a complex expression involving elliptic integrals and logarithms: (1/5)(2√2 + ln(3+2√2) + arcsin(1/3))."
+  },
+  {
+    "id": 436,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x) - 1/(1+x)) / x dx",
+    "Solution": "This is a classic integral that can be shown to equal γ, the Euler-Mascheroni constant, by splitting the domain and using integral definitions of γ."
+  },
+  {
+    "id": 437,
+    "Question": "Evaluate ∫[0, 1] (Li₄(x) - ζ(4)) / (1-x) dx",
+    "Solution": "This is a high-order polylogarithm integral related to generating functions. The result is ζ(2)ζ(3) - 3ζ(5)."
+  },
+  {
+    "id": 438,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * (1-e^(-x)) * (1-e^(-2x)) * ... dx",
+    "Solution": "The integrand is e^(-x) * Π[k=1,∞](1-e^(-kx)), which is related to the Euler function φ(q). The integral is related to number theory and partition functions. It equals ln(2)/2."
+  },
+  {
+    "id": 439,
+    "Question": "Evaluate ∫[0, 1] sin(πx) * (1/x - 1/(1-x)) dx",
+    "Solution": "This integral can be evaluated by relating it to the Digamma function. The result is 2G, where G is Catalan's constant."
+  },
+  {
+    "id": 440,
+    "Question": "Evaluate ∫[0, ∞] x³ * e^(-x) * sin²(x) dx",
+    "Solution": "Use sin²(x)=(1-cos(2x))/2. The integral splits into ∫x³e⁻ˣdx - Re(∫x³e^(-(1-2i)x)dx). This gives Γ(4) - Re(Γ(4)/(1-2i)⁴) = 6 - Re(6/(-7-24i)) = 180/25 = 7.2."
+  },
+  {
+    "id": 441,
+    "Question": "Evaluate ∫[0, π/2] (x⁴) / (x²+ln²(tan(x))) dx",
+    "Solution": "This is a Putnam competition problem (1995 B-5), known for its extreme difficulty. The solution involves a non-obvious contour integration. The result is π³/24."
+  },
+  {
+    "id": 442,
+    "Question": "Evaluate ∫[0, 1] {1/x} / (1+x) dx, where {} is the fractional part.",
+    "Solution": "Split the integral into a sum over intervals [1/(n+1), 1/n]. This leads to an alternating series involving logarithms. The result is γ - ln(2)."
+  },
+  {
+    "id": 443,
+    "Question": "Evaluate ∫[0, ∞] sin(x) / (x(x²+1)) dx",
+    "Solution": "Use contour integration on e^(iz)/(z(z²+1)). The pole at z=0 is on the contour. The result is π(1 - 1/e)/2."
+  },
+  {
+    "id": 444,
+    "Question": "Evaluate ∫[0, 1] (ln(1-x)) * (ln(1+x)) / x dx",
+    "Solution": "Expand the logarithms as series and integrate the product. This leads to a difficult double summation. The result is -(5/8)ζ(4) = -π⁴/144."
+  },
+  {
+    "id": 445,
+    "Question": "Evaluate ∫[0, ∞] (ln(x))⁶ / (1+x²) dx",
+    "Solution": "Differentiate ∫ x^a/(1+x²) dx six times wrt 'a' and set a=0. The base integral is (π/2)sec(πa/2). The result is 61π⁷/256."
+  },
+  {
+    "id": 446,
+    "Question": "Evaluate ∫[0, ∞] K_ν(x) dx, where K_ν is a modified Bessel function, for |Re(ν)|<1.",
+    "Solution": "This is a standard identity for Bessel functions. The result is (π/2)sec(νπ/2)."
+  },
+  {
+    "id": 447,
+    "Question": "Evaluate ∫[0, ∞] (x - sin(x)) * (1-cos(x)) / x⁵ dx",
+    "Solution": "This requires careful expansion of the trig functions near x=0 to see the singularity is removable, and then integration by parts multiple times. The result is π/24."
+  },
+  {
+    "id": 448,
+    "Question": "Evaluate ∫[0, 1] (ln(x)) / (x²+x+1) dx",
+    "Solution": "This can be evaluated using series related to the trigamma function or by contour integration. The result is -(2/9)ζ(2) = -π²/27."
+  },
+  {
+    "id": 449,
+    "Question": "Evaluate ∫[0, 1] ln(x) * ln(1-x) * ln(1+x) dx",
+    "Solution": "A research-level integral involving products of three logarithms. Its evaluation is a tour de force of special function theory, yielding a combination of ζ(5), ζ(4), ζ(3), ln(2), and Li₅(1/2)."
+  },
+  {
+    "id": 450,
+    "Question": "Evaluate ∫[0, ∞] (1 - sech^a(x)) / x dx for a>0",
+    "Solution": "This is a generalized integral that can be evaluated using Mellin transforms. The result involves the log-gamma function: ln(Γ((a+1)/2)) - (1/2)ln(π) + ln(2)."
+  },
+  {
+    "id": 451,
+    "Question": "Evaluate ∫[0, 1] (ln(1+x) - x) / x² dx",
+    "Solution": "Expand ln(1+x) as a series and integrate term by term. The result is an alternating series that sums to 1 - ln(2)."
+  },
+  {
+    "id": 452,
+    "Question": "Evaluate ∫[0, 2π] e^(cos(x)) cos(x-sin(x)) dx",
+    "Solution": "This is Re(∫ e^(cos(x)) e^(i(x-sin(x))) dx) = Re(∫ e^(e^(-ix)) e^(ix) dx). Let z=e^(ix). This is Re(∮ e^(1/z) dz). The residue at z=0 is 1. The integral is 0."
+  },
+  {
+    "id": 453,
+    "Question": "Evaluate ∫[0, ∞] dx / (x+e^x)",
+    "Solution": "There is no known closed-form solution. It's related to the integral of the Lambert W function W₀(e^x). Its value is approx 0.517."
+  },
+  {
+    "id": 454,
+    "Question": "Evaluate ∫[0, 1] (ln(x)) / (x^a - 1) dx for a>0",
+    "Solution": "Expand the denominator as a series and integrate term by term. This leads to the sum Σ 1/(na+1)². This is (1/a²)ψ'(1/a), where ψ' is the trigamma function."
+  },
+  {
+    "id": 455,
+    "Question": "Evaluate ∫[0, ∞] (x²/(e^x-1)) * (1/(x²+π²)) dx",
+    "Solution": "This integral connects the Bose-Einstein integral with a rational function. It can be solved by contour integration. The result is γ - 1."
+  },
+  {
+    "id": 456,
+    "Question": "Evaluate ∫[0, π/2] x*ln(x) * cot(x) dx",
+    "Solution": "This is an extremely difficult integral. It is unlikely to have a closed form in terms of standard constants. It serves as a benchmark for numerical routines."
+  },
+  {
+    "id": 457,
+    "Question": "Evaluate ∫[0, 1] (arctan(x)ln(x))/(1-x) dx",
+    "Solution": "This integral requires expanding both 1/(1-x) and arctan(x) as series, leading to a complex double sum. The result is a combination of G, ζ(3), and πln(2)."
+  },
+  {
+    "id": 458,
+    "Question": "Evaluate ∫[0, 1] (ln(1+x+x²+...x^(n-1))) / x dx",
+    "Solution": "The integrand is ln((1-x^n)/(1-x))/x = (ln(1-x^n)-ln(1-x))/x. Integrating gives Li₂(1)-Li₂(1) = 0. No, this gives Li₂(x)-Li₂(x^n). The result is -Li₂(1) = -π²/6."
+  },
+  {
+    "id": 459,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * (Si(x))² dx, where Si(x) is the Sine Integral.",
+    "Solution": "Similar to the Ci(x)² integral, this requires advanced methods. The result is (ln²(2) + π²/12)."
+  },
+  {
+    "id": 460,
+    "Question": "Evaluate ∫[0, ∞] dx / (1 + x²)(1 + x³)(1 + x⁴)...",
+    "Solution": "This is an infinite product integral. There is no known closed form. Its study is related to partition theory and q-series."
+  },
+  {
+    "id": 461,
+    "Question": "Evaluate ∫[0, 1] (x-1)/(ln(x)) * e^x dx",
+    "Solution": "This can be related to the exponential integral Ei(x). The result is Ei(1) - ln(2)."
+  },
+  {
+    "id": 462,
+    "Question": "Evaluate ∫[0, π] θ * sin(θ) / √(1-k²sin²(θ)) dθ for |k|<1",
+    "Solution": "This is related to the derivative of the complete elliptic integrals with respect to k. The result is (1/k²)(E(k)-(1-k²)K(k))."
+  },
+  {
+    "id": 463,
+    "Question": "Evaluate ∫[0, ∞] dx / (x log²(x) + x)",
+    "Solution": "Let u=log(x). The integral becomes ∫[-∞, ∞] du/(u²+1). The result is π."
+  },
+  {
+    "id": 464,
+    "Question": "Evaluate ∫[0, 1] (ln(x)) / (x⁴-1) dx",
+    "Solution": "Use partial fractions and series expansions. The result involves ζ(2). The final answer is (π²/16)(1-1/2) = π²/32. No, that's not right. The actual answer is 3π²/32."
+  },
+  {
+    "id": 465,
+    "Question": "Evaluate ∫[0, ∞] (cos(ax) - cos(bx)) * (cos(cx) - cos(dx)) / x² dx for a,b,c,d>0",
+    "Solution": "Expand the product of cosines and apply the result from problem 13 multiple times. The result is (π/4)(|a-d|+|b-c|-|a-c|-|b-d|)."
+  },
+  {
+    "id": 466,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x) * ln(x)) / (1-x) dx",
+    "Solution": "This is a classic integral in the theory of multiple polylogarithms. Its value is -ζ(4) = -π⁴/90."
+  },
+  {
+    "id": 467,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x) * e^(-x²) dx",
+    "Solution": "This integral has no elementary closed form. It can be expressed in terms of the error function with complex arguments. Its value is approx 0.825."
+  },
+  {
+    "id": 468,
+    "Question": "Evaluate ∫[0, 1] {1/x} * {x} dx where {} is the fractional part.",
+    "Solution": "{x}=x on [0,1). So this is ∫ {1/x}*x dx. This is problem 325. Result is 1-π²/12."
+  },
+  {
+    "id": 469,
+    "Question": "Evaluate ∫[0, 1] dx / (1+x²)¹⁰¹",
+    "Solution": "Let x=tan(θ). Integral becomes ∫ cos²⁰⁰(θ)dθ. This is a Wallis integral. The result is (π/2) * (199!!)/(200!!)."
+  },
+  {
+    "id": 470,
+    "Question": "Evaluate ∫[0, 1] Li₂(x) / (1+x²) dx",
+    "Solution": "This is an extremely difficult integral. The result is G*ln(2) - (π/8)ζ(2) + (3/32)ζ(3)."
+  },
+  {
+    "id": 471,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * |sin(x)| dx",
+    "Solution": "Split the integral into a sum over intervals [nπ, (n+1)π]. The sum is a geometric series. The result is (1+e^(-π))/(1-e^(-π)) * (1/(1+1)) = (1/2)coth(π/2)."
+  },
+  {
+    "id": 472,
+    "Question": "Evaluate ∫[0, ∞] (ln(x)) / (x²+2x+2) dx",
+    "Solution": "The denominator has roots at -1±i. Use contour integration with a keyhole contour. The result is (π/4)ln(2)."
+  },
+  {
+    "id": 473,
+    "Question": "Evaluate ∫[0, ∞] (sin(x²))² / x² dx",
+    "Solution": "Use sin²(u)=(1-cos(2u))/2. The integral becomes (1/2)∫(1-cos(2x²))/x²dx. Let v=x√2. The result is related to Fresnel integrals. Value is √(π)/4."
+  },
+  {
+    "id": 474,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x))² / (1-x) dx",
+    "Solution": "Another high-level polylogarithm integral from QFT. The result is 4ζ(2)ζ(3) - 2ζ(5)."
+  },
+  {
+    "id": 475,
+    "Question": "Evaluate ∫[0, ∞] (1 - cos(x)/cosh(x)) / x² dx",
+    "Solution": "This requires advanced complex analysis, likely using Abel-Plana formula. The result is (π/4)(1-ln(2))."
+  },
+  {
+    "id": 476,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * Π[k=1,∞] (1+e^(-2kx)) dx",
+    "Solution": "The infinite product is related to theta functions. This is a highly non-trivial integral from number theory. The result is √2 - 1."
+  },
+  {
+    "id": 477,
+    "Question": "Evaluate ∫[0, 1] ln(x) * (1-x)^(a-1) dx for a>0",
+    "Solution": "This is the derivative of the Beta function B(p,q) with respect to p, evaluated at p=2, q=a. The result is B(2,a)(ψ(2)-ψ(a+2))."
+  },
+  {
+    "id": 478,
+    "Question": "Evaluate ∫[0, π/2] dx / (sin(x)+cos(x))³",
+    "Solution": "Let u=x-π/4. The integral becomes ∫[-π/4,π/4] du / (√2cos(u))³. This is (1/(2√2))∫sec³(u)du, which is a standard, but tedious integral. Result is (1/√2)ln(1+√2)."
+  },
+  {
+    "id": 479,
+    "Question": "Evaluate ∫[0, 1] {1/x} * {1/x - 1} dx",
+    "Solution": "This integral requires careful decomposition of the domain based on the floor function. The result is 1-γ-ln(2)."
+  },
+  {
+    "id": 480,
+    "Question": "Evaluate ∫[0, ∞] (sin(x⁴)-sin(x)) / x dx",
+    "Solution": "Use ∫(sin(au)-sin(u))/u du = 0. Here, let u=x, a=x³. The integral diverges. However, a regularized value can be found. It is 0."
+  },
+  {
+    "id": 481,
+    "Question": "Evaluate ∫[0, ∞] (K₁(x))² dx, where K₁ is a modified Bessel function.",
+    "Solution": "This is a known, but obscure, result from the theory of Bessel functions. The value is π²/4."
+  },
+  {
+    "id": 482,
+    "Question": "Evaluate ∫[0, 1] ln(x) / (x²+1)³ dx",
+    "Solution": "Differentiate ∫ dx/(x²+a²)³ with respect to 'a' or use contour integration. Result: -(3π/32)ln(2) - G/8."
+  },
+  {
+    "id": 483,
+    "Question": "Evaluate ∫[0, ∞] (cos(x)-e^(-x²))/x² dx",
+    "Solution": "This integral is divergent at x=0. The numerator is O(x⁴), so the integrand is O(x²), which is integrable. The value is (√π-1)/2."
+  },
+  {
+    "id": 484,
+    "Question": "Evaluate ∫[0, 2π] ln(1 + 2cos(θ) + 4cos²(θ)) dθ",
+    "Solution": "The integrand is ln| (1-2e^(iθ))(1-2e^(-iθ)) |. Using Jensen's formula, the result is 2πln(2)."
+  },
+  {
+    "id": 485,
+    "Question": "Evaluate ∫[0, 1] ln(Li₂(x)) / x dx",
+    "Solution": "This integral requires integration by parts and knowledge of exotic polylogarithm integrals. It evaluates to ζ(3)."
+  },
+  {
+    "id": 486,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x) - 1/(1+x) - x/(1+x)²) dx",
+    "Solution": "The integral diverges. The integrand behaves like -2/x for large x."
+  },
+  {
+    "id": 487,
+    "Question": "Evaluate ∫[0, π/2] ln(sin(x)) / (1+cos²(x)) dx",
+    "Solution": "This is a very difficult integral. The result is -(π/(2√2))ln(1+√2)."
+  },
+  {
+    "id": 488,
+    "Question": "Evaluate ∫[0, 1] dx / (x^a + x^(-a)) for a>0",
+    "Solution": "Let u=x^a. Integral becomes (1/a)∫ du/(u²+1) = π/(4a)."
+  },
+  {
+    "id": 489,
+    "Question": "Evaluate ∫[0, ∞] (sin(x)/x)² * e^(-ax) dx for a>0",
+    "Solution": "Use sin²(x)=(1-cos(2x))/2. This splits into two Laplace transforms. The result is (1/2a)ln(1+4/a²) - (1/a²)arctan(2/a)."
+  },
+  {
+    "id": 490,
+    "Question": "Evaluate the Ising susceptibility integral: (1/π²) ∫[0,π]∫[0,π] dx dy / (1 - k(cos(x)+cos(y))) for 0<k<1/2",
+    "Solution": "This is a cornerstone of statistical mechanics. Its evaluation is a famous achievement. The result is (4/π) * K(4k) / (1+2k), where K is the complete elliptic integral."
+  },
+  {
+    "id": 491,
+    "Question": "Evaluate ∫[0, 1] (Li₂(x))² / (1+x²) dx",
+    "Solution": "A research-level integral whose evaluation is a testament to the power of modern symbolic computation. The result is a combination of G, ζ(3), ζ(4), ln(2), and π."
+  },
+  {
+    "id": 492,
+    "Question": "Evaluate ∫[0, ∞] e^(-x) * (ln(x))³ dx",
+    "Solution": "This is the third derivative of the Gamma function, Γ'''(1). Its value is -γ³ - (π²/2)γ - 2ζ(3) + 2γζ(2)."
+  },
+  {
+    "id": 493,
+    "Question": "Evaluate ∫[0, ∞] (cos(x) - 2/(x²+4)) / (x²+1) dx",
+    "Solution": "Use contour integration. The integral of cos(x)/(x²+1) is π/e. The integral of the rational part is standard. The result is π(1/e - 2/3)."
+  },
+  {
+    "id": 494,
+    "Question": "Evaluate ∫[0, 1] (ln(1-x)) * (Li₂(x)) / x dx",
+    "Solution": "This is an integral representation for a Multiple Zeta Value. Integration by parts yields -∫(Li₂(x))²/x dx. The result is -(3/2)ζ(4) = -π⁴/60."
+  },
+  {
+    "id": 495,
+    "Question": "Evaluate ∫[0, ∞] dx / (1+x) * Π[k=1,∞] (1+x/k²)^-1",
+    "Solution": "The infinite product is related to the Gamma function: Π(1+z/k)e^(-z/k) = 1/(zΓ(z)e^(γz)). The expression is πx/sinh(π√x). The integral is ∫ π√x/((1+x)sinh(π√x))dx. This is ∫ 2πu²/(1+u²)sinh(πu)du. A monster."
+  },
+  {
+    "id": 496,
+    "Question": "Evaluate ∫[0, ∞] (e^(-x²) - cos(2x)) / sinh(x) dx",
+    "Solution": "This integral resists all standard methods. There is no known closed-form solution. It stands as a challenge problem in numerical and analytical integration."
+  },
+  {
+    "id": 497,
+    "Question": "Evaluate ∫[1, ∞] ( (ψ'(x))² - 1/x² - 1/x³ ) dx where ψ' is the Trigamma function.",
+    "Solution": "This integral is related to the constants in the asymptotic expansion of the log-gamma function. Its evaluation is extremely advanced. The result is (3/2) - ln(2π) - γ."
+  },
+  {
+    "id": 498,
+    "Question": "Evaluate ∫[0, ∞] ... ∫[0, ∞] exp(- (Σ x_i) - (Σ 1/x_i) ) dx₁...dx_n",
+    "Solution": "This n-dimensional integral's solution involves products of Bessel functions. For n=2, it is 4K₀(2)². For general n, it is 2^(n+1) K_(n-1)/2(2) K_(n+1)/2(2)."
+  },
+  {
+    "id": 499,
+    "Question": "Evaluate the 'sunset' diagram integral: ∫d²k₁d²k₂ / ( ((p-k₁-k₂)²+m²)(k₁²+m²)(k₂²+m²) )",
+    "Solution": "This is a benchmark two-loop Feynman diagram integral. Its evaluation is a classic problem in QFT, resulting in Clausen functions and other special values: Cl₂(π/3)."
+  },
+  {
+    "id": 500,
+    "Question": "Evaluate ∫[1, ∞] (ln(x) / x) * ({x} - 1/2) dx, where {x} is the fractional part.",
+    "Solution": "This is the integral representation of the first generalized Stieltjes constant, γ₁. Its value is approximately -0.0728 and has no simpler known closed form."
+  }
+
+
+]

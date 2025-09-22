@@ -1,0 +1,4961 @@
+[
+  {
+    "id": "test_Architecture_and_Engineering_1",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_2",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_3",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_4",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_5",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_6",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_7",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_8",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_9",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_10",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_11",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_12",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_13",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_14",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_15",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_16",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_17",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_18",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_19",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_20",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_21",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_22",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_23",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_24",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_25",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_26",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_27",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_28",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_29",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_30",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_31",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_32",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_33",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_34",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_35",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_36",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_37",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_38",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_39",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_40",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_41",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_42",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_43",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_44",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_45",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_46",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_47",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_48",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_49",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_50",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_51",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_52",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_53",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_54",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_55",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_56",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_57",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_58",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_59",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_60",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_61",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_62",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_63",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_64",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_65",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_66",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_67",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_68",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_69",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_70",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_71",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_72",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Surveying",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_73",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_74",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_75",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_76",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_77",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_78",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_79",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_80",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_81",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_82",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_83",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_84",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_85",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_86",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_87",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_88",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_89",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_90",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_91",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_92",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_93",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_94",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_95",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_96",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_97",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_98",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_99",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_100",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_101",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_102",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_103",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_104",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astronomy",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_105",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_106",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_107",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_108",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_109",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_110",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_111",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_112",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_113",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_114",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_115",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_116",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_117",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_118",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_119",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_120",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_121",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_122",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_123",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_124",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_125",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_126",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_127",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_128",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_129",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_130",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_131",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_132",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_133",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_134",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_135",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_136",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Statistics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_137",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_138",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_139",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_140",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_141",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_142",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_143",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_144",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_145",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_146",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_147",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_148",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_149",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_150",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_151",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_152",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_153",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_154",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_155",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_156",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_157",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_158",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_159",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_160",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_161",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_162",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_163",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_164",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_165",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_166",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_167",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_168",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_169",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_170",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_171",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_172",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_173",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_174",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_175",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_176",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_177",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_178",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_179",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_180",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_181",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_182",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_183",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_184",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_185",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_186",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_187",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_188",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_189",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_190",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_191",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_192",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_193",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_194",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_195",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_196",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_197",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_198",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_199",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_200",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_201",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_202",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_203",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_204",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_205",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_206",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_207",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_208",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_209",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_210",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_211",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_212",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_213",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_214",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_215",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_216",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_217",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_218",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_219",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_220",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Statistics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_221",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_222",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_223",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_224",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_225",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_226",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_227",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_228",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_229",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_230",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_231",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_232",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_233",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_234",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_235",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_236",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_237",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_238",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_239",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_240",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_241",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_242",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_243",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_244",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_245",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_246",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_247",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_248",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_249",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_250",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_251",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_252",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_253",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_254",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_255",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_256",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_257",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_258",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_259",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_260",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_261",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_262",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_263",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_264",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_265",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_266",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_267",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_268",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_269",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_270",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_271",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_272",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_273",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_274",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_275",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_276",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_277",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_278",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_279",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_280",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_281",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_282",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_283",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_284",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_285",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_286",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_287",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_288",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_289",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_290",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_291",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_292",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_293",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_294",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_295",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_296",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_297",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_298",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_299",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_300",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_301",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_302",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_303",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_304",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_305",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_306",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_307",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_308",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_309",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_310",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_311",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_312",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_313",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_314",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_315",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_316",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_317",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_318",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_319",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_320",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_321",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_322",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_323",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_324",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_325",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_326",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_327",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_328",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_329",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_330",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_331",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_332",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_333",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_334",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_335",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_336",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_337",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_338",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_339",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_340",
+    "inference": {
+      "subject": "EXT",
+      "type": "Open Ended",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_341",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_342",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_343",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_344",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_345",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_346",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_347",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_348",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_349",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_350",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_351",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_352",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_353",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_354",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_355",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_356",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_357",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_358",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_359",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_360",
+    "inference": {
+      "subject": "EXT",
+      "type": "Open Ended",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_361",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_362",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_363",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_364",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_365",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_366",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_367",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_368",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_369",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_370",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_371",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_372",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_373",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_374",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_375",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_376",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_377",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_378",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_379",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_380",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_381",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_382",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_383",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_384",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_385",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_386",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_387",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Surveying",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_388",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_389",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_390",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_391",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_392",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_393",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_394",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_395",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_396",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_397",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_398",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_399",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_400",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_401",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_402",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_403",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_404",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_405",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_406",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_407",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_408",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_409",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_410",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_411",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_412",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_413",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_414",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_415",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_416",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_417",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_418",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_419",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_420",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_421",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_422",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_423",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_424",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_425",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_426",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_427",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_428",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_429",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_430",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_431",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_432",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_433",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_434",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_435",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_436",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_437",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_438",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_439",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_440",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_441",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_442",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_443",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_444",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_445",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_446",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_447",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_448",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_449",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_450",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_451",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_452",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_453",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_454",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_455",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_456",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_457",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_458",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_459",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_460",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_461",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_462",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_463",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_464",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_465",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_466",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_467",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_468",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_469",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_470",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_471",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_472",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_473",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_474",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_475",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_476",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_477",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_478",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_479",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_480",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_481",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_482",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_483",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_484",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_485",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_486",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_487",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_488",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_489",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_490",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_491",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_492",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_493",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_494",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_495",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_496",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_497",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_498",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_499",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_500",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_501",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_502",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_503",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_504",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_505",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_506",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_507",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_508",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_509",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Geodesy",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_510",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_511",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_512",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_513",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_514",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_515",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_516",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_517",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_518",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_519",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_520",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_521",
+    "inference": {
+      "subject": "EXT",
+      "type": "Open Ended",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_522",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_523",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_524",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_525",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_526",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_527",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_528",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_529",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_530",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_531",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_532",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_533",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_534",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_535",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_536",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_537",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_538",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_539",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_540",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_541",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_542",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_543",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_544",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_545",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_546",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_547",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_548",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_549",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_550",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "test_Architecture_and_Engineering_551",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  }
+]

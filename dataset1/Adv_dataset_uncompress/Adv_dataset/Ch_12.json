@@ -1,0 +1,2843 @@
+{
+  "quiz_title": "Optics",
+  "problem_types": [
+    {
+      "type_name": "True / False",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 1,
+          "question_number": 1,
+          "type": "true_false",
+          "question_text": "The intensity of light at a distance r from the axis of a long cylindrical source is inversely proportional to r.",
+          "year": 1981
+        },
+        {
+          "id": 2,
+          "question_number": 2,
+          "type": "true_false",
+          "question_text": "A convex lens of focal length 1 m and a concave lens of focal length 0.25 m are kept 0.75 m apart. A parallel beam of light first passes through the convex lens, then through the concave lens and comes to a focus 0.5 m away from the concave lens.",
+          "year": 1983
+        },
+        {
+          "id": 3,
+          "question_number": 3,
+          "type": "true_false",
+          "question_text": "A beam of white light passing through a hollow prism give no spectrum.",
+          "year": 1983
+        },
+        {
+          "id": 4,
+          "question_number": 4,
+          "type": "true_false",
+          "question_text": "Two slits in a Young's double slit experiment are illuminated by two different sodium lamps emitting light of the same wavelength. No interference pattern will be observed on the screen.",
+          "year": 1984
+        },
+        {
+          "id": 5,
+          "question_number": 5,
+          "type": "true_false",
+          "question_text": "In a Young's double slit experiment performed with a source of white light, only black and white fringes are observed.",
+          "year": 1987
+        },
+        {
+          "id": 6,
+          "question_number": 6,
+          "type": "true_false",
+          "question_text": "A parallel beam of white light fall on a combination of a concave and a convex lens, both of the same material. Their focal lengths are 15 cm and 30 cm respectively for the mean wavelength in white light. On the same side of the lens system, one sees coloured patterns with violet colour nearer to the lens.",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "type_name": "Assertion and Reason",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 7,
+          "question_number": 7,
+          "type": "assertion_reason",
+          "instructions": "Mark your answer as:\n(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion.\n(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion.\n(c) If Assertion is true; Reason is false.\n(d) If Assertion is false; Reason is true.",
+          "assertion": "The formula connecting u, v and f for a spherical mirror is valid only for mirrors whose sizes are very small compared to their radii of curvature.",
+          "reason": "Laws of reflection are strictly valid for plane surfaces, but not for large spherical surfaces.",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "type_name": "Fill in the Blanks",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 8,
+          "question_number": 8,
+          "type": "fill_in_the_blank",
+          "question_text": "A light wave of frequency 5×10¹⁴ Hz enters a medium of refractive index 1.5. In the medium the velocity of the light wave is ____ and its wavelength is ____.",
+          "year": 1983
+        },
+        {
+          "id": 9,
+          "question_number": 9,
+          "type": "fill_in_the_blank",
+          "question_text": "A monochromatic beam of light of wavelength 6000Å in vacuum enters a medium of refractive index 1.5. In the medium its wavelength is ____, and its frequency is ____.",
+          "year": 1985
+        },
+        {
+          "id": 10,
+          "question_number": 10,
+          "type": "fill_in_the_blank",
+          "question_text": "A convex lens A of focal length 20 cm and a a concave lens B of focal length 5 cm are kept along the same axis with a distance d between them. If a parallel beam of light falling on A leaves B as parallel beam, then d is equal to ____ cm.",
+          "year": 1985
+        },
+        {
+          "id": 11,
+          "question_number": 11,
+          "type": "fill_in_the_blank",
+          "question_text": "In Young's double-slit experiment, the two slits act as coherent sources of equal amplitude A and of wavelength λ. In another experiment with the same set-up the two slits are sources of equal amplitude A and wavelength λ, but are incoherent. The ratio of the intensity of light at the mid-point of the screen in the first case to that in the second case is ____.",
+          "year": 1986
+        },
+        {
+          "id": 12,
+          "question_number": 12,
+          "type": "fill_in_the_blank",
+          "question_text": "A thin lens of refractive index 1.5 has a focal length of 15 cm in air. When the lens is placed in a medium of refractive index 4/3, its focal length will become ____ cm.",
+          "year": 1987
+        },
+        {
+          "id": 13,
+          "question_number": 13,
+          "type": "fill_in_the_blank",
+          "question_text": "A thin rod of length f/3 is placed along the optic axis of a concave mirror of focal length f such that its image which is real and elongated, just touches the rod. The magnification is ____.",
+          "year": 1991
+        },
+        {
+          "id": 14,
+          "question_number": 14,
+          "type": "fill_in_the_blank",
+          "question_text": "The resolving power of electron microscope is higher than that of an optical microscope because the wavelength of electrons is ____ than the wavelength of visible light.",
+          "year": 1992
+        },
+        {
+          "id": 15,
+          "question_number": 15,
+          "type": "fill_in_the_blank",
+          "question_text": "A ray of light undergoes deviation of 30° when incident on an equilateral prism of refractive index √2. The angle made by the ray inside the prism with the base of the prism is ____.",
+          "year": 1992
+        },
+        {
+          "id": 16,
+          "question_number": 16,
+          "type": "fill_in_the_blank",
+          "question_text": "If ε₀ and µ₀ are, respectively, the electric permittivity and magnetic permeability of free space, ε and µ the corresponding quantities in a medium, the index of refraction of the medium in terms of the above parameters is ____.",
+          "year": 1992
+        },
+        {
+          "id": 17,
+          "question_number": 17,
+          "type": "fill_in_the_blank",
+          "question_text": "Two thin lenses, when in contact, produce a combination of power + 10 D. When they are 0.25 m apart, the power reduces to + 6 D. The focal length of the lenses are ____ m and ____ m.",
+          "year": 1997
+        },
+        {
+          "id": 18,
+          "question_number": 18,
+          "type": "fill_in_the_blank",
+          "question_text": "A ray of light is incident normally on one of the faces of a prism of apex angle 30° and refractive index √2. The angle of deviation of the ray is ____ degrees.",
+          "year": 1997
+        },
+        {
+          "id": 19,
+          "question_number": 19,
+          "type": "fill_in_the_blank",
+          "question_text": "A slit of width d is placed in front of a lens of focal length 0.5 m and is illuminated normally with light of wavelength 5.89 x 10⁻⁷ m. The first diffraction minima on either side of the central diffraction maximum are separated by 2×10⁻³ m. The width d of the slit is ____ m.",
+          "year": 1997
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 20,
+          "question_number": 20,
+          "type": "multiple_choice",
+          "question_text": "When a ray of light enters a glass slab from air",
+          "options": [
+            "its wavelength decreases",
+            "its wavelength increases",
+            "its frequency increases",
+            "neither its wavelength nor its frequency changes"
+          ],
+          "year": 1980
+        },
+        {
+          "id": 21,
+          "question_number": 21,
+          "type": "multiple_choice",
+          "question_text": "A glass prism of refractive index 1.5 is immersed in water (refractive index 4/3). A light beam incident normally on the face AB is totally reflected to reach the face BC if",
+          "options": [
+            "sin θ > 8/9",
+            "2/3 < sin θ < 8/9",
+            "sin θ < 2/3",
+            "None of these"
+          ],
+          "image_present": true,
+          "year": 1981,
+          "images":["arihant_images_ch12/arihant_ch12_1.png"]
+        },
+        {
+          "id": 22,
+          "question_number": 22,
+          "type": "multiple_choice",
+          "question_text": "In Young's double slit experiment, the separation between the slits is halved and the distance between the slits and the screen is doubled. The fringe width is",
+          "options": [
+            "unchanged",
+            "halved",
+            "doubled",
+            "quadrupled"
+          ],
+          "year": 1981
+        },
+        {
+          "id": 23,
+          "question_number": 23,
+          "type": "multiple_choice",
+          "question_text": "A convex lens of focal length 40 cm is in contact with a concave lens of focal length 25 cm. The power of the combination is",
+          "options": [
+            "-1.5 D",
+            "- 6.5 D",
+            "+ 6.5 D",
+            "+ 6.67 D"
+          ],
+          "year": 1982
+        },
+        {
+          "id": 24,
+          "question_number": 24,
+          "type": "multiple_choice",
+          "question_text": "A ray of light from a denser medium strikes a rarer medium at an angle of incidence i (see figure). The reflected and refracted rays make an angle of 90° with each other. The angles of reflection and refraction are r and r'. The critical angle is",
+          "options": [
+            "sin⁻¹(tan r)",
+            "sin⁻¹(cot i)",
+            "sin⁻¹(tan r')",
+            "tan⁻¹(sin i)"
+          ],
+          "image_present": true,
+          "year": 1983,
+          "images":["arihant_images_ch12/arihant_ch12_2.png"]
+        },
+        {
+          "id": 25,
+          "question_number": 25,
+          "type": "multiple_choice",
+          "question_text": "Two coherent monochromatic light beams of intensities I and 4I are superposed. The maximum and minimum possible intensities in the resulting beam are",
+          "options": [
+            "5I and I",
+            "5I and 3I",
+            "9I and I",
+            "9I and 3I"
+          ],
+          "year": 1988
+        },
+        {
+          "id": 26,
+          "question_number": 26,
+          "type": "multiple_choice",
+          "question_text": "A beam of light consisting of red, green and blue colours is incident on a right-angled prism. The refractive indices of the material of the prism for the above red, green and blue wavelengths are 1.39, 1.44 and 1.47 respectively. The prism will",
+          "options": [
+            "separate the red colour from the green and blue colours",
+            "separate the blue colour from the red and green colours",
+            "separate all the three colours from one another",
+            "not separate even partially any colour from the other two colours."
+          ],
+          "image_present": true,
+          "year": 1989,
+          "images":["arihant_images_ch12/arihant_ch12_3.png"]
+        },
+        {
+          "id": 27,
+          "question_number": 27,
+          "type": "multiple_choice",
+          "question_text": "An astronomical telescope has an angular magnification of magnitude 5 for far objects. The separation between the objective and the eyepiece is 36 cm and the final image is formed at infinity. The focal length fₒ of the objective and the focal length fₑ of the eyepiece are",
+          "options": [
+            "fₒ = 45 cm and fₑ = -9 cm",
+            "fₒ = 50 cm and fₑ = 10 cm",
+            "fₒ = 7.2 cm and fₑ = 5 cm",
+            "fₒ = 30 cm and fₑ = 6 cm"
+          ],
+          "year": 1989
+        },
+        {
+          "id": 28,
+          "question_number": 28,
+          "type": "multiple_choice",
+          "question_text": "A thin prism P₁ with angle 4° and made from glass of refractive index 1.54 is combined with another thin prism P₂ made from glass of refractive index 1.72 to produce dispersion without deviation. The angle of the prism P₂ is",
+          "options": [
+            "5.33°",
+            "4°",
+            "3°",
+            "2.6°"
+          ],
+          "year": 1990
+        },
+        {
+          "id": 29,
+          "question_number": 29,
+          "type": "multiple_choice",
+          "question_text": "Spherical aberration in a thin lens can be reduced by",
+          "options": [
+            "using a monochromatic light",
+            "using a doublet combination",
+            "using a circular annular mark over the lens",
+            "increasing the size of the lens"
+          ],
+          "year": 1994
+        },
+        {
+          "id": 30,
+          "question_number": 30,
+          "type": "multiple_choice",
+          "question_text": "A narrow slit of width 1 mm is illuminated by monochromatic light of wavelength 600 nm. The distance between the first minima on either side of a screen at a distance of 2 m is",
+          "options": [
+            "1.2 cm",
+            "1.2 mm",
+            "2.4 cm",
+            "2.4 mm"
+          ],
+          "year": 1994
+        },
+        {
+          "id": 31,
+          "question_number": 31,
+          "type": "multiple_choice",
+          "question_text": "An isosceles prism of angle 120° has a refractive index 1.44. Two parallel rays of monochromatic light enter the prism parallel to each other in air as shown. The rays emerging from the opposite face",
+          "options": [
+            "are parallel to each other",
+            "are diverging",
+            "make an angle 2[sin⁻¹(0.72) – 30°] with each other",
+            "make an angle 2sin⁻¹(0.72) with each other"
+          ],
+          "image_present": true,
+          "year": 1995,
+          "images":["arihant_images_ch12/arihant_ch12_4.png"]
+        },
+        {
+          "id": 32,
+          "question_number": 32,
+          "type": "multiple_choice",
+          "question_text": "The focal lengths of the objective and the eyepiece of a compound microscope are 2.0 cm and 3.0 cm respectively. The distance between the objective and the eyepiece is 15.0 cm. The final image formed by the eyepiece is at infinity. The two lenses are thin. The distance in cm of the object and the image produced by the objective, measured from the objective lens, are respectively",
+          "options": [
+            "2.4 and 12.0",
+            "2.4 and 15.0",
+            "2.0 and 12.0",
+            "2.0 and 3.0"
+          ],
+          "year": 1995
+        },
+        {
+          "id": 33,
+          "question_number": 33,
+          "type": "multiple_choice",
+          "question_text": "A diminished image of an object is to be obtained on a screen 1.0 m from it. This can be achieved by placing",
+          "options": [
+            "a plane mirror",
+            "a convex mirror of suitable focal length",
+            "a convex lens of focal length less than 0.25 m",
+            "a concave lens of suitable focal length"
+          ],
+          "year": 1995
+        },
+        {
+          "id": 34,
+          "question_number": 34,
+          "type": "multiple_choice",
+          "question_text": "An eye specialist prescribes spectacles having combination of convex lens of focal length 40 cm in contact with a concave lens of focal length 25 cm. The power of this lens combination in diopters is",
+          "options": [
+            "+ 1.5",
+            "- 1.5",
+            "+ 6.67",
+            "- 6.67"
+          ],
+          "year": 1997
+        },
+        {
+          "id": 35,
+          "question_number": 35,
+          "type": "multiple_choice",
+          "question_text": "A real image of a distant object is formed by a plano-convex lens on its principal axis. Spherical aberration",
+          "options": [
+            "is absent",
+            "is smaller if the curved surface of the lens faces the object",
+            "is smaller if the plane surface of the lens faces the object",
+            "is the same whichever side of the lens faces the object"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 36,
+          "question_number": 36,
+          "type": "multiple_choice",
+          "question_text": "A spherical surface of radius of curvature R, separates air (refractive index 1.0) from glass (refractive index 1.5). The centre of curvature is in the glass. A point object P placed in air is found to have a real image Q in the glass. The line PQ cuts the surface at a point O and PO = OQ. The distance PO is equal to",
+          "options": [
+            "5 R",
+            "3 R",
+            "2 R",
+            "1.5 R"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 37,
+          "question_number": 37,
+          "type": "multiple_choice",
+          "question_text": "A parallel monochromatic beam of light is incident normally on a narrow slit. A diffraction pattern is formed on a screen placed perpendicular to the direction of the incident beam. At the first minimum of the diffraction pattern, the phase difference between the rays coming from the two edges of the slit is",
+          "options": [
+            "zero",
+            "π / 2",
+            "π",
+            "2π"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 38,
+          "question_number": 38,
+          "type": "multiple_choice",
+          "question_text": "A concave mirror is placed on a horizontal table with its axis directed vertically upwards. Let O be the pole of the mirror and C its centre of curvature. A point object is placed at C. It has a real image, also located at C. If the mirror is now filled with water, the image will be",
+          "options": [
+            "real and will remain at C",
+            "real and located at a point between C and ∞",
+            "virtual and located at a point between C and O",
+            "real and located at a point between C and O"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 39,
+          "question_number": 39,
+          "type": "multiple_choice",
+          "question_text": "A concave lens of glass, refractive index 1.5 has both surfaces of same radius of curvature R. On immersion in a medium of refractive index 1.75, it will behave as a",
+          "options": [
+            "convergent lens of focal length 3.5 R",
+            "convergent lens of focal length 3.0 R",
+            "divergent lens of focal length 3.5 R",
+            "divergent lens of focal length 3.0 R"
+          ],
+          "year": 1999
+        },
+        {
+          "id": 40,
+          "question_number": 40,
+          "type": "multiple_choice",
+          "question_text": "Yellow light is used in a single slit diffraction experiment with slit width of 0.6 mm. If yellow light is replaced by X-rays, then the observed pattern will reveal",
+          "options": [
+            "that the central maximum is narrower",
+            "more number of fringes",
+            "less number of fringes",
+            "no diffraction pattern"
+          ],
+          "year": 1999
+        },
+        {
+          "id": 41,
+          "question_number": 41,
+          "type": "multiple_choice",
+          "question_text": "A thin slice is cut out of a glass cylinder along a plane parallel to its axis. The slice is placed on a flat plate as shown. The observed interference fringes from this combination shall be",
+          "options": [
+            "straight",
+            "circular",
+            "equally spaced",
+            "having space which increases as we go outwards"
+          ],
+          "image_present": true,
+          "year": 1999,
+          "images":["arihant_images_ch12/arihant_ch12_5.png"]
+        },
+        {
+          "id": 42,
+          "question_number": 42,
+          "type": "multiple_choice",
+          "question_text": "A point source of light S, placed at a distance L in front of the centre of a a plane mirror of width d, hangs vertically on a wall. A man walks in front of the mirror along a line parallel to the mirror at a distance 2L from it as shown. The greatest distance over which he can see the image of the light source in the mirror is",
+          "options": [
+            "d/2",
+            "d",
+            "2d",
+            "3d"
+          ],
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch12/arihant_ch12_6.png"]
+        },
+        {
+          "id": 43,
+          "question_number": 43,
+          "type": "multiple_choice",
+          "question_text": "A rectangular glass slab ABCD of refractive index n₁ is immersed in water of refractive index n₂(n₁ > n₂). A ray of light is incident at the surface AB of the slab as shown. The maximum value of the angle of incidence α_max, such that the ray comes out only from the other surface CD, is given by",
+          "options": [
+            "sin⁻¹[n₁/n₂ cos(sin⁻¹(n₂/n₁))]",
+            "sin⁻¹[n₁ cos(sin⁻¹(1/n₂))]",
+            "sin⁻¹(n₁/n₂)",
+            "sin⁻¹(n₂/n₁)"
+          ],
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch12/arihant_ch12_7.png"]
+        },
+        {
+          "id": 44,
+          "question_number": 44,
+          "type": "multiple_choice",
+          "question_text": "A diverging beam of light from a point source S having divergence angle α falls symmetrically on a glass slab as shown. The angles of incidence of the two extreme rays are equal. If the thickness of the glass slab is t and its refractive index is n, then the divergence angle of the emergent beam is",
+          "options": [
+            "zero",
+            "α",
+            "sin⁻¹(1/n)",
+            "2sin⁻¹(1/n)"
+          ],
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch12/arihant_ch12_8.png"]
+        },
+        {
+          "id": 45,
+          "question_number": 45,
+          "type": "multiple_choice",
+          "question_text": "A hollow double concave lens is made of very thin transparent material. It can be filled with air or either of two liquids L₁ or L₂ having refracting indices n₁ and n₂ respectively (n₂ > n₁ > 1). The lens will diverge a parallel beam of light if it is filled with",
+          "options": [
+            "air and placed in air",
+            "air and immersed in L₁",
+            "L₁ and immersed in L₂",
+            "L₂ and immersed in L₁"
+          ],
+          "year": 2000
+        },
+        {
+          "id": 46,
+          "question_number": 46,
+          "type": "multiple_choice",
+          "question_text": "An astronomical telescope has an angular magnification of magnitude 5 for far objects. The separation between the objective and the eyepiece is 36 cm and the final image is formed at infinity. The focal length fₒ of the objective and the focal length fₑ of the eyepiece are",
+          "options": [
+            "fₒ = 45 cm and fₑ = -9 cm",
+            "fₒ = 50 cm and fₑ = 10 cm",
+            "fₒ = 7.2 cm and fₑ = 5 cm",
+            "fₒ = 30 cm and fₑ = 6 cm"
+          ],
+          "year": 1989
+        },
+        {
+          "id": 47,
+          "question_number": 47,
+          "type": "multiple_choice",
+          "question_text": "In a double slit experiment instead of taking slits of equal widths, one slit is made twice as wide as the other, then in the interference pattern",
+          "options": [
+            "the intensities of both the maxima and the minima increases",
+            "the intensity of the maxima increases and the minima has zero intensity",
+            "the intensity of maxima decreases and that of minima increases",
+            "the intensity of maxima decreases and the minima has zero intensity"
+          ],
+          "year": 2000
+        },
+        {
+          "id": 48,
+          "question_number": 48,
+          "type": "multiple_choice",
+          "question_text": "A ray of light passes through four transparent media with refractive indices μ₁, μ₂, μ₃ and μ₄ as shown in the figure. The surfaces of all media are parallel. If the emergent ray CD is parallel to the incident ray AB, we must have",
+          "options": [
+            "μ₁ = μ₂",
+            "μ₂ = μ₃",
+            "μ₃ = μ₄",
+            "μ₁ = μ₄"
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch12/arihant_ch12_9.png"]
+        },
+        {
+          "id": 49,
+          "question_number": 49,
+          "type": "multiple_choice",
+          "question_text": "A given ray of light suffers minimum deviation in an equilateral prism P. Additional prisms Q and R of identical shape and of the same material as P are now added as shown in the figure. The ray will suffer",
+          "options": [
+            "greater deviation",
+            "no deviation",
+            "same deviation as before",
+            "total internal reflection"
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch12/arihant_ch12_10.png"]
+        },
+        {
+          "id": 50,
+          "question_number": 50,
+          "type": "multiple_choice",
+          "question_text": "Two beams of light having intensities I and 4I interfere to produce a fringe pattern on a screen. The phase difference between the beams is π/2 at point A and π at point B. Then the difference between resultant intensities at A and B is",
+          "options": [
+            "2I",
+            "4I",
+            "5I",
+            "7I"
+          ],
+          "year": 2001
+        },
+        {
+          "id": 51,
+          "question_number": 51,
+          "type": "multiple_choice",
+          "question_text": "In a Young's double slit experiment, 12 fringes are observed to be formed in a certain segment of the screen when light of wavelength 600 nm is used. If the wavelength of light is changed to 400 nm, number of fringes observed in the same segment of the screen is given by",
+          "options": [
+            "12",
+            "18",
+            "24",
+            "30"
+          ],
+          "year": 2001
+        },
+        {
+          "id": 52,
+          "question_number": 52,
+          "type": "multiple_choice",
+          "question_text": "In the ideal double-slit experiment, when a glass-plate (refractive index 1.5) of thickness t is introduced in the path of one of the interfering beams (wavelength λ), the intensity at the position where the central maximum occurred previously remains unchanged. The minimum thickness of the glass-plate is",
+          "options": [
+            "2λ",
+            "2λ/3",
+            "λ/3",
+            "λ"
+          ],
+          "year": 2002
+        },
+        {
+          "id": 53,
+          "question_number": 53,
+          "type": "multiple_choice",
+          "question_text": "Two plane mirrors A and B are aligned parallel to each other, as shown in the figure. A light ray is incident at an angle 30° at a point just inside one end of A. The plane of incidence coincides with the plane of the figure. The maximum number of times the ray undergoes reflections (including the first one) before it emerges out is",
+          "options": [
+            "28",
+            "30",
+            "32",
+            "34"
+          ],
+          "image_present": true,
+          "year": 2002,
+          "images":["arihant_images_ch12/arihant_ch12_11.png"]
+        },
+        {
+          "id": 54,
+          "question_number": 54,
+          "type": "multiple_choice",
+          "question_text": "An observer can see through a pin-hole the top end of a thin rod of height h, placed as shown in the figure. The beaker height is 3h and its radius h. When the beaker is filled with a liquid up to a height 2h, he can see the lower end of the rod. Then the refractive index of the liquid is",
+          "options": [
+            "5/2",
+            "√5/2",
+            "√3/2",
+            "3/2"
+          ],
+          "image_present": true,
+          "year": 2002,
+          "images":["arihant_images_ch12/arihant_ch12_12.png"]
+        },
+        {
+          "id": 55,
+          "question_number": 55,
+          "type": "multiple_choice",
+          "question_text": "Which one of the following spherical lenses does not exhibit dispersion? The radii of curvature of the surfaces of the lenses are as given in the diagrams",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2002
+        },
+        {
+          "id": 56,
+          "question_number": 56,
+          "type": "multiple_choice",
+          "question_text": "A ray of light is incident at the glass-water interface at an angle i, it emerges finally parallel to the surface of water, then the value of μg would be",
+          "options": [
+            "(4/3) sin i",
+            "1/(sin i)",
+            "4/3",
+            "1"
+          ],
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch12/arihant_ch12_13.png"]
+        },
+        {
+          "id": 57,
+          "question_number": 57,
+          "type": "multiple_choice",
+          "question_text": "In the adjacent diagram, CP represents a wavefront and AO and BP, the corresponding two rays. Find the condition of θ for constructive interference at P between the ray BP and reflected ray OP.",
+          "options": [
+            "cosθ = 3λ/2d",
+            "cosθ = λ/4d",
+            "secθ - cosθ = λ/d",
+            "secθ - cosθ = 4λ/d"
+          ],
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch12/arihant_ch12_14.png"]
+        },
+        {
+          "id": 58,
+          "question_number": 58,
+          "type": "multiple_choice",
+          "question_text": "A point object is placed at the centre of a glass sphere of radius 6 cm and refractive index 1.5. The distance of the virtual image from the surface of the sphere is",
+          "options": [
+            "2 cm",
+            "4 cm",
+            "6 cm",
+            "12 cm"
+          ],
+          "year": 2004
+        },
+        {
+          "id": 59,
+          "question_number": 59,
+          "type": "multiple_choice",
+          "question_text": "A ray of light is incident on an equilateral glass prism placed on a horizontal table. For minimum deviation which of the following is true?",
+          "options": [
+            "PQ is horizontal",
+            "QR is horizontal",
+            "RS is horizontal",
+            "Either PQ or RS is horizontal"
+          ],
+          "image_present": true,
+          "year": 2004,
+          "images":["arihant_images_ch12/arihant_ch12_15.png"]
+        },
+        {
+          "id": 60,
+          "question_number": 60,
+          "type": "multiple_choice",
+          "question_text": "In a YDSE bi-chromatic light of wavelengths 400 nm and 560 nm are used. The distance between the slits is 0.1 mm and the distance between the plane of the slits and the screen is 1 m. The minimum distance between two successive regions of complete darkness is",
+          "options": [
+            "4 mm",
+            "5.6 mm",
+            "14 mm",
+            "28 mm"
+          ],
+          "year": 2004
+        },
+        {
+          "id": 61,
+          "question_number": 61,
+          "type": "multiple_choice",
+          "question_text": "White light is incident on the interface of glass and air as shown in the figure. If green light is just totally internally reflected then the emerging ray in air contains.",
+          "options": [
+            "yellow, orange, red",
+            "violet, indigo, blue",
+            "all colours",
+            "all colours except green"
+          ],
+          "image_present": true,
+          "year": 2004,
+          "images":["arihant_images_ch12/arihant_ch12_16.png"]
+        },
+        {
+          "id": 62,
+          "question_number": 62,
+          "type": "multiple_choice",
+          "question_text": "The size of the image of an object, which is at infinity, as formed by a convex lens of focal length 30 cm is 2 cm. If a concave lens of focal length 20 cm is placed between the convex lens and the image at a distance of 26 cm from the convex lens, calculate the new size of the image.",
+          "options": [
+            "1.25 cm",
+            "2.5 cm",
+            "1.05 cm",
+            "2 cm"
+          ],
+          "year": 2003
+        },
+        {
+          "id": 63,
+          "question_number": 63,
+          "type": "multiple_choice",
+          "question_text": "A convex lens is in contact with concave lens. The magnitude of the ratio of their focal length is 3/2. Their equivalent focal length is 30 cm. What are their individual focal lengths?",
+          "options": [
+            "-75, 50",
+            "-10, 15",
+            "75, 50",
+            "-15, 10"
+          ],
+          "year": 2005
+        },
+        {
+          "id": 64,
+          "question_number": 64,
+          "type": "multiple_choice",
+          "question_text": "In Young's double slit experiment intensity at a point is (1/4) of the maximum intensity. Angular position of this point is",
+          "options": [
+            "sin⁻¹(λ/d)",
+            "sin⁻¹(λ/2d)",
+            "sin⁻¹(λ/3d)",
+            "sin⁻¹(λ/4d)"
+          ],
+          "year": 2005
+        },
+        {
+          "id": 65,
+          "question_number": 65,
+          "type": "multiple_choice",
+          "question_text": "A container is filled with water (μ = 1.33) up to a height of 33.25 cm. A concave mirror is placed 15 cm above the water level and the image of an object placed at the bottom is formed 25 cm below the water level. The focal length of the mirror is",
+          "options": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+          ],
+          "image_present": true,
+          "year": 2005,
+          "images":["arihant_images_ch12/arihant_ch12_17.png"]
+        },
+        {
+          "id": 66,
+          "question_number": 66,
+          "type": "multiple_choice",
+          "question_text": "The graph between object distance u and image distance v for a lens is given below. The focal length of the lens is",
+          "options": [
+            "5 ± 0.1",
+            "5 ± 0.05",
+            "0.5 ± 0.1",
+            "0.5 ± 0.05"
+          ],
+          "image_present": true,
+          "year": 2006,
+          "images":["arihant_images_ch12/arihant_ch12_18.png"]
+        },
+        {
+          "id": 67,
+          "question_number": 67,
+          "type": "multiple_choice",
+          "question_text": "A point object is placed at a distance of 20 cm from a thin plano-convex lens of focal length 15 cm. The plane surface of the lens is now silvered. The image created by the system is at",
+          "options": [
+            "60 cm to the left of the system",
+            "60 cm to the right of the system",
+            "12 cm to the left of the system",
+            "12 cm to the right of the system"
+          ],
+          "image_present": true,
+          "year": 2006,
+          "images":["arihant_images_ch12/arihant_ch12_19.png"]
+        },
+        {
+          "id": 68,
+          "question_number": 68,
+          "type": "multiple_choice",
+          "question_text": "A ray of light travelling in water is incident on its surface open to air. The angle of incidence is θ, which is less than the critical angle. Then there will be",
+          "options": [
+            "only a reflected ray and no refracted ray",
+            "only a refracted ray and no reflected ray",
+            "a reflected ray and a refracted ray and the angle between them would be less than 180° - 2θ",
+            "a reflected ray and a refracted ray and the angle between them would be greater than 180° - 2θ"
+          ],
+          "year": 2007
+        },
+        {
+          "id": 69,
+          "question_number": 69,
+          "type": "multiple_choice",
+          "question_text": "Two beams of red and violet colours are made to pass separately through a prism (angle of the prism is 60°). In the position of minimum deviation, the angle of refraction will be",
+          "options": [
+            "30° for both the colours",
+            "greater for the violet colour",
+            "greater for the red colour",
+            "equal but not 30° for both the colours"
+          ],
+          "year": 2008
+        },
+        {
+          "id": 70,
+          "question_number": 70,
+          "type": "multiple_choice",
+          "question_text": "A light beam is travelling from Region I to Region IV (Refer Figure). The refractive index in Regions I, II, III and IV are n₀, n₀/2, n₀/6 and n₀/8 respectively. The angle of incidence θ for which the beam just misses entering Region IV is",
+          "options": [
+            "sin⁻¹(3/4)",
+            "sin⁻¹(1/8)",
+            "sin⁻¹(1/4)",
+            "sin⁻¹(1/3)"
+          ],
+          "image_present": true,
+          "year": 2008,
+          "images":["arihant_images_ch12/arihant_ch12_20.png"]
+        },
+        {
+          "id": 71,
+          "question_number": 71,
+          "type": "multiple_choice",
+          "question_text": "A ball is dropped from a height of 20 m above the surface of water in a lake. The refractive index of water is 4/3. A fish inside the lake, in the line of fall of the ball, is looking at the ball. At an instant, when the ball is 12.8 m above the water surface, the fish sees the speed of ball as",
+          "options": [
+            "9 m/s",
+            "12 m/s",
+            "16 m/s",
+            "21.33 m/s"
+          ],
+          "year": 2009
+        },
+        {
+          "id": 72,
+          "question_number": 72,
+          "type": "multiple_choice",
+          "question_text": "A biconvex lens of focal length 15 cm is in front of a plane mirror. The distance between the lens and the mirror is 10 cm. A small object is kept at a distance of 30 cm from the lens. The final image is",
+          "options": [
+            "virtual and at a distance of 16 cm from the mirror",
+            "real and at a distance of 16 cm from the mirror",
+            "virtual and at a distance of 20 cm from the mirror",
+            "real and at a distance of 20 cm from the mirror"
+          ],
+          "year": 2010
+        },
+        {
+          "id": 73,
+          "question_number": 73,
+          "type": "multiple_choice",
+          "question_text": "A short linear object of length b lies along the axis of a concave mirror of focal length f at a distance u from the pole of the mirror. The size of the image is approximately equal to",
+          "options": [
+            "b( (u-f)/f )¹/²",
+            "b( f/(u-f) )¹/²",
+            "b( (u-f)/f )²",
+            "b( f/(u-f) )²"
+          ],
+          "year": null
+        },
+        {
+          "id": 74,
+          "question_number": 74,
+          "type": "multiple_choice",
+          "question_text": "A bi-convex lens is formed with two thin plano-convex lenses as shown in the figure. Refractive index n of the first lens is 1.5 and that of the second lens is 1.2. Both the curved surfaces are of the same radius of curvature R = 14 cm. For this bi-convex lens, for an object distance of 40 cm, the image distance will be",
+          "options": [
+            "-280.0 cm",
+            "40.0 cm",
+            "21.5 cm",
+            "13.3 cm"
+          ],
+          "image_present": true,
+          "year": 2012,
+          "images":["arihant_images_ch12/arihant_ch12_21.png"]
+        },
+        {
+          "id": 75,
+          "question_number": 75,
+          "type": "multiple_choice",
+          "question_text": "Young's double slit experiment is carried out by using green, red and blue light, one colour at one time. The fringe widths recorded are βG, βR and βB respectively. Then,",
+          "options": [
+            "βG > βB > βR",
+            "βB > βG > βR",
+            "βR > βB > βG",
+            "βR > βG > βB"
+          ],
+          "year": 2012
+        },
+        {
+          "id": 76,
+          "question_number": 76,
+          "type": "multiple_choice",
+          "question_text": "A beam of unpolarised light of intensity I₀ is passed through a polaroid A and then through another polaroid B which is oriented so that its principal plane makes an angle of 45° relative to that of A. The intensity of the emergent light is",
+          "options": [
+            "I₀",
+            "I₀/2",
+            "I₀/4",
+            "I₀/8"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 77,
+          "question_number": 77,
+          "type": "multiple_choice",
+          "question_text": "In the Young's double slit experiment using a monochromatic light of wavelength λ the path difference (in terms of an integer n) corresponding to any point having half the peak intensity is",
+          "options": [
+            "(2n+1)λ/2",
+            "(2n+1)λ/4",
+            "(2n+1)λ/8",
+            "(2n+1)λ/16"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 78,
+          "question_number": 78,
+          "type": "multiple_choice",
+          "question_text": "Two coherent point sources S₁ and S₂ are separated by a small distance d as shown. The fringes obtained on the screen will be",
+          "options": [
+            "points",
+            "straight lines",
+            "semi-circle",
+            "concentric circles"
+          ],
+          "image_present": true,
+          "year": 2013,
+          "images":["arihant_images_ch12/arihant_ch12_22.png"]
+        },
+        {
+          "id": 79,
+          "question_number": 79,
+          "type": "multiple_choice",
+          "question_text": "The graph between angle of deviation (δ) and angle of incidence (i) for a triangular prism is represented by",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2013,
+          "images":["arihant_images_ch12/arihant_ch12_23.png"]
+        },
+        {
+          "id": 80,
+          "question_number": 81,
+          "type": "multiple_choice",
+          "question_text": "The image of an object, formed by a plano-convex lens at a distance of 8 m behind the lens, is real and is one-third the size of the object. The wavelength of light inside the lens is 2/3 times the wavelength in free space. The radius of the curved surface of the lens is",
+          "options": [
+            "1 m",
+            "2 m",
+            "3 m",
+            "6 m"
+          ],
+          "year": 2013
+         
+        },
+        {
+          "id": 81,
+          "question_number": 82,
+          "type": "multiple_choice",
+          "question_text": "A ray of light travelling in the direction 1/2(i + √3j) is incident on a plane mirror. After reflection, it travels along the direction 1/2(i - √3j). The angle of incidence is",
+          "options": [
+            "30°",
+            "45°",
+            "60°",
+            "75°"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 82,
+          "question_number": 83,
+          "type": "multiple_choice",
+          "question_text": "A green light is incident from the water to the air-water interface at the critical angle (θ). Select the correct statement.",
+          "options": [
+            "The entire spectrum of visible light will come out of the water at an angle of 90° to the normal",
+            "The spectrum of visible light whose frequency is less than that of green light will come out of the air medium",
+            "The spectrum of visible light whose frequency is more than that of green light will come out to the air medium",
+            "The entire spectrum of visible light will come out of the water at various angles to the normal"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 83,
+          "question_number": 84,
+          "type": "multiple_choice",
+          "question_text": "A point source S is placed at the bottom of a transparent block of height 10 mm and refractive index 2.72. It is immersed in a lower refractive index liquid as shown in the figure. It is found that the light emerging from the block to the liquid forms a circular bright spot of diameter 11.54 mm on the top of the block. The refractive index of the liquid is",
+          "options": [
+            "1.21",
+            "1.30",
+            "1.36",
+            "1.42"
+          ],
+          "image_present": true,
+          "year": 2014,
+          "images":["arihant_images_ch12/arihant_ch12_24.png"]
+        },
+        {
+          "id": 84,
+          "question_number": 85,
+          "type": "multiple_choice",
+          "question_text": "A thin convex lens made from crown glass (μ = 3/2) has focal length f. When it is measured in two different liquids having refractive indices 4/3 and 5/3, it has the focal lengths f₁ and f₂, respectively. The correct relation between the focal length is",
+          "options": [
+            "f₁ = f₂ < f",
+            "f₁ > f and f₂ becomes negative",
+            "f₂ > f and f₁ becomes negative",
+            "f₁ and f₂ both become negative"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 85,
+          "question_number": 86,
+          "type": "multiple_choice",
+          "question_text": "Two beams, A and B, of plane polarised light with mutually perpendicular planes of polarisation are seen through a polaroid. From the position when the beam A has maximum intensity (and beam B has zero intensity), a rotation of polaroid through 30° makes the two beams appear equally bright. If the initial intensities of the two beams are I_A and I_B respectively, then I_A / I_B equals",
+          "options": [
+            "3",
+            "3/2",
+            "1",
+            "1/3"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 86,
+          "question_number": 87,
+          "type": "multiple_choice",
+          "question_text": "Monochromatic light is incident on a glass prism of angle A. If the refractive index of the material of the prism is μ, a ray incident at an angle θ, on the face AB would get transmitted through the face AC of the prism provided",
+          "options": [
+            "θ < cos⁻¹[μ sin(A + sin⁻¹(1/μ))]",
+            "θ < sin⁻¹[μ sin(A - sin⁻¹(1/μ))]",
+            "θ > cos⁻¹[μ sin(A + sin⁻¹(1/μ))]",
+            "θ > sin⁻¹[μ sin(A - sin⁻¹(1/μ))]"
+          ],
+          "year": 2015
+        },
+        {
+          "id": 87,
+          "question_number": 88,
+          "type": "multiple_choice",
+          "question_text": "Two identical glass rods S₁ and S₂ (refractive index = 1.5) have one convex end of radius of curvature 10 cm. They are placed with the curved surfaces at a distance d as shown in the figure, with their axes (shown by the dashed line) aligned. When a point source of light P is placed inside rod S₁ on its axis at a distance of 50 cm from the curved face, the light rays emanating from it are found to be parallel to the axis inside S₂. The distance d is",
+          "options": [
+            "60 cm",
+            "70 cm",
+            "80 cm",
+            "90 cm"
+          ],
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch12/arihant_ch12_25.png"]
+        },
+        {
+          "id": 88,
+          "question_number": 89,
+          "type": "multiple_choice",
+          "question_text": "In an experiment for determination of refractive index of glass of a prism by i-δ plot, it was found that a ray incident at an angle 35° suffers a deviation of 40° and that it emerges at an angle 79°. In that case, which of the following is closest to the maximum possible value of the refractive index?",
+          "options": [
+            "1.5",
+            "1.6",
+            "1.7",
+            "1.8"
+          ],
+          "year": 2016
+        },
+        {
+          "id": 89,
+          "question_number": 90,
+          "type": "multiple_choice",
+          "question_text": "A parallel beam of light is incident from air at an angle α on the side PQ of a right angled triangular prism of refractive index n=√2. Light undergoes total internal reflection in the prism at the face PR when α has a minimum value of 45°. The angle θ of the prism is",
+          "options": [
+            "15°",
+            "22.5°",
+            "30°",
+            "45°"
+          ],
+          "image_present": true,
+          "year": 2016,
+          "images":["arihant_images_ch12/arihant_ch12_26.png"]
+        },
+        {
+          "id": 90,
+          "question_number": 91,
+          "type": "multiple_choice",
+          "question_text": "A diverging lens with magnitude of focal length 25 cm is placed at a distance of 15 cm from a converging lens of magnitude of focal length 20 cm. A beam of parallel light falls on the diverging lens. The final image formed is",
+          "options": [
+            "virtual and at a distance of 40 cm from convergent lens",
+            "real and at a distance of 40 cm from the divergent lens",
+            "real and at a distance of 6 cm from the convergent lens",
+            "real and at a distance of 40 cm from convergent lens"
+          ],
+          "year": 2017
+        },
+        {
+          "id": 91,
+          "question_number": 92,
+          "type": "multiple_choice",
+          "question_text": "In a Young's double slit experiment, slits are separated by 0.5 mm and the screen is placed 150 cm away. A beam of light consisting of two wavelengths, 650 nm and 520 nm, is used to obtain interference fringes on the screen. The least distance from the common central maximum to the point where the bright fringes due to both the wavelengths coincide, is",
+          "options": [
+            "7.8 mm",
+            "9.75 mm",
+            "15.6 mm",
+            "1.56 mm"
+          ],
+          "year": 2017
+        },
+        {
+          "id": 92,
+          "question_number": 93,
+          "type": "multiple_choice",
+          "question_text": "The angular width of the central maximum in a single slit diffraction pattern is 60°. The width of the slit is 1 µm. The slit is illuminated by monochromatic plane waves. If another slit of same width is made near it, Young's fringes can be observed on a screen placed at a distance 50 cm from the slits. If the observed fringe width is 1 cm, what is slit separation distance? (i.e. distance between the centres of each slit.)",
+          "options": [
+            "100 µm",
+            "25 μm",
+            "50 µm",
+            "75 µm"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 93,
+          "question_number": 94,
+          "type": "multiple_choice",
+          "question_text": "Unpolarised light of intensity I passes through an ideal polariser A. Another identical polariser B is placed behind A. The intensity of light beyond B is found to be I/2. Now, another identical polariser C is placed between A and B. The intensity beyond B is now found to be I/8. The angle between polariser A and C is",
+          "options": [
+            "60°",
+            "0°",
+            "30°",
+            "45°"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 94,
+          "question_number": 95,
+          "type": "multiple_choice",
+          "question_text": "A concave mirror has radius of curvature of 40 cm. It is at the bottom of a glass that has water filled up to 5 cm (see figure). If a small particle is floating on the surface of water, its image as seen, from directly above the glass, is at a distance d from the surface of water. The value of d is close to [Refractive index of water = 1.33]",
+          "options": [
+            "6.7 cm",
+            "13.4 cm",
+            "8.8 cm",
+            "11.7 cm"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_27.png"]
+        },
+        {
+          "id": 95,
+          "question_number": 96,
+          "type": "multiple_choice",
+          "question_text": "A concave mirror for face viewing has focal length of 0.4 m. The distance at which you hold the mirror from your face in order to see your image upright with a magnification of 5 is",
+          "options": [
+            "0.16 m",
+            "1.60 m",
+            "0.32 m",
+            "0.24 m"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 96,
+          "question_number": 97,
+          "type": "multiple_choice",
+          "question_text": "A point source of light, S is placed at a distance L in front of the centre of plane mirror of width d which is hanging vertically on a wall. A man walks in front of the mirror along a line parallel to the mirror, at a distance 2L as shown below. The distance over which the man can see the image of the light source in the mirror is",
+          "options": [
+            "d/2",
+            "d",
+            "3d",
+            "2d"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_28.png"]
+        },
+        {
+          "id": 97,
+          "question_number": 98,
+          "type": "multiple_choice",
+          "question_text": "The plane mirrors (M₁ and M₂) are inclined to each other such that a ray of light incident on mirror M₁ and parallel to the mirror M₂ is reflected from mirror M₂ parallel to the mirror M₁. The angle between the two mirror is",
+          "options": [
+            "45°",
+            "75°",
+            "90°",
+            "60°"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 98,
+          "question_number": 99,
+          "type": "multiple_choice",
+          "question_text": "A transparent cube of side d, made of a material of refractive index μ₂, is immersed in a liquid of refractive index μ₁ (μ₁ < μ₂). A ray is incident on the face AB at an angle θ (shown in the figure). Total internal reflection takes place at point E on the face BC. Then, θ must satisfy",
+          "options": [
+            "θ < sin⁻¹(μ₁/μ₂)",
+            "θ > sin⁻¹(√(μ₂²/μ₁² - 1))",
+            "θ < sin⁻¹(√(μ₂²/μ₁² - 1))",
+            "θ > sin⁻¹(μ₁/μ₂)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_29.png"]
+        },
+        {
+          "id": 99,
+          "question_number": 100,
+          "type": "multiple_choice",
+          "question_text": "A ray of light AO in vacuum is incident on a glass slab at angle 60° and refracted at angle 30° along OB as shown in the figure. The optical path length of light ray from A to B is",
+          "options": [
+            "(2√3/a) + 2b",
+            "2a + (2b/√3)",
+            "2a + 2b",
+            "2a + (2b/√3)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_30.png"]
+        },
+        {
+          "id": 100,
+          "question_number": 101,
+          "type": "multiple_choice",
+          "question_text": "In figure, the optical fibre is l = 2m long and has a diameter of d = 20 µm. If a ray of light is incident on one end of the fibre at angle θ₁ = 40°, the number of reflections it makes before emerging from the other end is close to (refractive index of fibre is 1.31 and sin 40° = 0.64)",
+          "options": [
+            "55000",
+            "66000",
+            "45000",
+            "57000"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_31.png"]
+        },
+        {
+          "id": 101,
+          "question_number": 102,
+          "type": "multiple_choice",
+          "question_text": "One plano-convex and one plano-concave lens of same radius of curvature R but of different materials are joined side by side as shown in the figure. If the refractive index of the material of 1 is μ₁ and that of 2 is μ₂, then the focal length of the combination is",
+          "options": [
+            "R/(μ₁ - μ₂)",
+            "2R/(μ₁ - μ₂)",
+            "R/(2(μ₁ - μ₂))",
+            "R/(μ₁ - μ₂)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_32.png"]
+        },
+        {
+          "id": 102,
+          "question_number": 103,
+          "type": "multiple_choice",
+          "question_text": "A thin convex lens L (refractive index = 1.5) is placed on a plane mirror M. When a pin is placed at A, such that OA = 18 cm, its real inverted image is formed at A itself, as shown in figure. When a liquid of refractive index μ₁ is put between the lens and the mirror, the pin has to be moved to A', such that OA' = 27 cm, to get its inverted real image at A' itself. The value of μ₁ will be",
+          "options": [
+            "√3",
+            "√2",
+            "4/3",
+            "3/2"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_33.png"]
+        },
+        {
+          "id": 103,
+          "question_number": 104,
+          "type": "multiple_choice",
+          "question_text": "A convex lens of focal length 20 cm produces images of the same magnification 2 when an object is kept at two distances x₁ and x₂ (x₁ > x₂) from the lens. The ratio of x₁ and x₂ is",
+          "options": [
+            "5:3",
+            "2:1",
+            "4:3",
+            "3:1"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 104,
+          "question_number": 105,
+          "type": "multiple_choice",
+          "question_text": "What is the position and nature of image formed by lens combination shown in figure? (where, f₁ and f₂ are focal lengths)",
+          "options": [
+            "20/3 cm from point B at right, real",
+            "70 cm from point B at right, real",
+            "40 cm from point B at right, real",
+            "70 cm from point B at left, virtual"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_34.png"]
+        },
+        {
+          "id": 105,
+          "question_number": 106,
+          "type": "multiple_choice",
+          "question_text": "An object is at a distance of 20 m from a convex lens of focal length 0.3 m. The lens forms an image of the object. If the object moves away from the lens at a speed of 5 m/s, the speed and direction of the image will be",
+          "options": [
+            "3.22×10⁻³ m/s towards the lens",
+            "0.92×10⁻³ m/s away from the lens",
+            "2.26×10⁻³ m/s away from the lens",
+            "1.16×10⁻³ m/s towards the lens"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 106,
+          "question_number": 107,
+          "type": "multiple_choice",
+          "question_text": "A plano-convex lens of refractive index μ₁ and focal length f₁ is kept in contact with another plano-concave lens of refractive index μ₂ and focal length f₂. If the radius of curvature of their spherical faces is R each and f₁ = 2f₂, then μ₁ and μ₂ are related as",
+          "options": [
+            "3μ₂ - 2μ₁ = 1",
+            "2μ₂ - μ₁ = 1",
+            "2μ₁ - μ₂ = 1",
+            "μ₁ + μ₂ = 3"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 107,
+          "question_number": 108,
+          "type": "multiple_choice",
+          "question_text": "A convex lens is put 10 cm from a light source and it makes a sharp image on a screen, kept 10 cm from the lens. Now, a glass block (refractive index is 1.5) of 1.5 cm thickness is placed in contact with the light source. To get the sharp image again, the screen is shifted by a distance d. Then, d is",
+          "options": [
+            "0",
+            "1.1 cm away from the lens",
+            "0.55 cm away from the lens",
+            "0.55 cm towards the lens"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 108,
+          "question_number": 109,
+          "type": "multiple_choice",
+          "question_text": "A monochromatic light is incident at a certain angle on an equilateral triangular prism and suffers minimum deviation. If the refractive index of the material of the prism is √3, then the angle of incidence is",
+          "options": [
+            "45°",
+            "90°",
+            "60°",
+            "30°"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 109,
+          "question_number": 110,
+          "type": "multiple_choice",
+          "question_text": "The value of numerical aperture of the objective lens of a microscope is 1.25. If light of wavelength 5000Å is used, the minimum separation between two points, to be seen as distinct, will be",
+          "options": [
+            "0.24 µm",
+            "0.38 µm",
+            "0.12 µm",
+            "0.48 µm"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 110,
+          "question_number": 111,
+          "type": "multiple_choice",
+          "question_text": "Diameter of the objective lens of a telescope is 250 cm. For light of wavelength 600 nm coming from a distant object, the limit of resolution of the telescope is close to",
+          "options": [
+            "3.0 × 10⁻⁷ rad",
+            "2.0 × 10⁻⁷ rad",
+            "1.5 × 10⁻⁷ rad",
+            "4.5 × 10⁻⁷ rad"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 111,
+          "question_number": 112,
+          "type": "multiple_choice",
+          "question_text": "Calculate the limit of resolution of a telescope objective having a diameter of 200 cm, if it has to detect light of wavelength 500 nm coming from a star.",
+          "options": [
+            "610 × 10⁻⁹ rad",
+            "305 × 10⁻⁹ rad",
+            "457.5 × 10⁻⁹ rad",
+            "152.5 × 10⁻⁹ rad"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 112,
+          "question_number": 113,
+          "type": "multiple_choice",
+          "question_text": "A system of three polarisers P₁, P₂, P₃ is set up such that the pass axis of P₃ is crossed with respect to that of P₁. The pass axis of P₂ is inclined at 60° to the pass axis of P₃. When a beam of unpolarised light of intensity I₀ is incident on P₁, the intensity of light transmitted by the three polarisers is I. The ratio (I₀/I) equals (nearly)",
+          "options": [
+            "5.33",
+            "16.00",
+            "10.67",
+            "1.80"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 113,
+          "question_number": 114,
+          "type": "multiple_choice",
+          "question_text": "In a double slit experiment, when a thin film of thickness t having refractive index μ is introduced in front of one of the slits, the maximum at the centre of the fringe pattern shifts by one fringe width. The value of t is (λ is the wavelength of the light used)",
+          "options": [
+            "2λ/(μ - 1)",
+            "λ/(2(μ - 1))",
+            "λ/(μ - 1)",
+            "λ/(2μ - 1)"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 114,
+          "question_number": 115,
+          "type": "multiple_choice",
+          "question_text": "In a Young's double slit experiment, the ratio of the slit's width is 4:1. The ratio of the intensity of maxima to minima, close to the central fringe on the screen, will be",
+          "options": [
+            "4:1",
+            "25:9",
+            "9:1",
+            "(√3 + 1)⁴:16"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 115,
+          "question_number": 116,
+          "type": "multiple_choice",
+          "question_text": "The figure shows a Young's double slit experimental setup. It is observed that when a thin transparent sheet of thickness t and refractive index μ is put in front of one of the slits, the central maximum gets shifted by a distance equal to n fringe widths. If the wavelength of light used is λ, t will be",
+          "options": [
+            "2nDλ / (a(μ - 1))",
+            "2Dλ / (a(μ - 1))",
+            "Dλ / (a(μ - 1))",
+            "nDλ / (a(μ - 1))"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_35.png"]
+        },
+        {
+          "id": 116,
+          "question_number": 117,
+          "type": "multiple_choice",
+          "question_text": "In an interference experiment, the ratio of amplitudes of coherent waves is a₁/a₂ = 1/3. The ratio of maximum and minimum intensities of fringes will be",
+          "options": [
+            "2:1",
+            "18:1",
+            "4:1",
+            "9:1"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 117,
+          "question_number": 118,
+          "type": "multiple_choice",
+          "question_text": "In a double-slit experiment, green light (5303 Å) falls on a double slit having a separation of 19.44 µ-m and a width of 4.05 µ-m. The number of bright fringes between the first and the second diffraction minima is",
+          "options": [
+            "5",
+            "10",
+            "9",
+            "4"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 118,
+          "question_number": 119,
+          "type": "multiple_choice",
+          "question_text": "In a Young's double slit experiment, the path difference at a certain point on the screen between two interfering waves is 1/8th of wavelength. The ratio of the intensity at this point to that at the centre of a bright fringe is close to",
+          "options": [
+            "0.80",
+            "0.74",
+            "0.94",
+            "0.85"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 119,
+          "question_number": 120,
+          "type": "multiple_choice",
+          "question_text": "Consider a Young's double slit experiment as shown in figure. What should be the slit separation d in terms of wavelength λ such that the first minima occurs directly in front of the slit (S₁)?",
+          "options": [
+            "λ / (2(√5 - 2))",
+            "λ / (√5 - 2)",
+            "λ / (2(5 - √2))",
+            "λ / (5 - √2)"
+          ],
+          "image_present": true,
+          "year": 2019
+        },
+        {
+          "id": 120,
+          "question_number": 121,
+          "type": "multiple_choice",
+          "question_text": "In a Young's double slit experiment with slit separation 0.1 mm, one observes a bright fringe at angle 1/40 rad by using light of wavelength λ₁. When the light of the wavelength λ₂ is used a bright fringe is seen at the same angle in the same set up. Given that λ₁ and λ₂ are in visible range (380 nm to 740 nm), their values are",
+          "options": [
+            "380 nm, 525 nm",
+            "400 nm, 500 nm",
+            "380 nm, 500 nm",
+            "625 nm, 500 nm"
+          ],
+          "year": 2019,
+          "images":["arihant_images_ch12/arihant_ch12_36.png"]
+        },
+        {
+          "id": 121,
+          "question_number": 122,
+          "type": "multiple_choice",
+          "question_text": "In a Young's double slit experiment, the slits are placed 0.320 mm apart. Light of wavelength λ = 500n-m is incident on the slits. The total number of bright fringes that are observed in the angular range -30° ≤ θ ≤ 30° is",
+          "options": [
+            "320",
+            "321",
+            "640",
+            "641"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 122,
+          "question_number": 123,
+          "type": "multiple_choice",
+          "question_text": "Two coherent sources produce waves of different intensities which interfere. After interference, the ratio of the maximum intensity to the minimum intensity is 16. The intensity of the waves are in the ratio",
+          "options": [
+            "16:9",
+            "5:3",
+            "25:9",
+            "4:1"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 123,
+          "question_number": 124,
+          "type": "multiple_choice",
+          "question_text": "A convex lens (of focal length 20 cm) and a concave mirror, having their principal axes along the same lines, are kept 80 cm apart from each other. The concave mirror is to the right of the convex lens. When an object is kept at a distance of 30 cm to the left of the convex lens, its image remains at the same position even if the concave mirror is removed. The maximum distance of the object for which this concave mirror, by itself would produce a virtual image would be",
+          "options": [
+            "25 cm",
+            "20 cm",
+            "10 cm",
+            "30 cm"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 124,
+          "question_number": 125,
+          "type": "multiple_choice",
+          "question_text": "An upright object is placed at a distance of 40 cm in front of a convergent lens of focal length 20 cm. A convergent mirror of focal length 10 cm is placed at a distance of 60 cm on the other side of the lens. The position and size of the final image will be",
+          "options": [
+            "20 cm from the convergent mirror, same size as the object",
+            "40 cm from the convergent mirror, same size as the object",
+            "40 cm from the convergent lens, twice the size of the object",
+            "20 cm from the convergent mirror, twice size of the object"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 125,
+          "question_number": 126,
+          "type": "multiple_choice",
+          "question_text": "A light wave is incident normally on a glass slab of refractive index 1.5. If 4% of light gets reflected and the amplitude of the electric field of the incident light is 30 V/m, then the amplitude of the electric field for the wave propagating in the glass medium will be",
+          "options": [
+            "30 V/m",
+            "6 V/m",
+            "10 V/m",
+            "24 V/m"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 126,
+          "question_number": 127,
+          "type": "multiple_choice",
+          "question_text": "The eye can be regarded as a single refracting surface. The radius of curvature of this surface is equal to that of cornea (7.8 mm). This surface separates two media of refractive indices 1 and 1.34. Calculate the distance from the refracting surface at which a parallel beam of light will come to focus.",
+          "options": [
+            "4.0 cm",
+            "2 cm",
+            "3.1 cm",
+            "1 cm"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 127,
+          "question_number": 128,
+          "type": "multiple_choice",
+          "question_text": "Consider a tank made of glass (refractive index is 1.5) with a thick bottom. It is filled with a liquid of refractive index μ. A student finds that, irrespective of what the incident angle i (see figure) is for a beam of light entering the liquid, the light reflected from the liquid glass interface is never completely polarised. For this to happen, the minimum value of μ is",
+          "options": [
+            "3/√5",
+            "5/√3",
+            "4/3",
+            "5/3"
+          ],
+          "image_present": true,
+          "year": 2019
+        },
+        {
+          "id": 128,
+          "question_number": 129,
+          "type": "multiple_choice",
+          "question_text": "In Young's double slit experiment, light of 500 nm is used to produce an interference pattern. When the distance between the slits is 0.05 mm, the angular width (in degree) of the fringes formed on the distance screen is close to",
+          "options": [
+            "0.17°",
+            "0.57°",
+            "1.7°",
+            "0.07°"
+          ],
+          "year": 2020,
+          "images":["arihant_images_ch12/arihant_ch12_37.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 129,
+          "question_number": 130,
+          "type": "multiple_select",
+          "question_text": "In the Young's double slit experiment, the interference pattern is found to have an intensity ratio between the bright and dark fringes as 9. This implies that",
+          "options": [
+            "the intensities at the screen due to the two slits are 5 units and 4 units respectively",
+            "the intensities at the screen due to the two slits are 4 units and 1 unit respectively",
+            "the amplitude ratio is 3",
+            "the amplitude ratio is 2"
+          ],
+          "year": 1982
+        },
+        {
+          "id": 130,
+          "question_number": 131,
+          "type": "multiple_select",
+          "question_text": "White light is used to illuminate the two slits in a Young's double slit experiment. The separation between the slits is b and the screen is at a distance d (>> b) from the slits. At a point on the screen directly in front of one of the slits, certain wavelengths are missing. Some of these missing wavelengths are",
+          "options": [
+            "λ = b²/d",
+            "λ = 2b²/d",
+            "λ = b²/3d",
+            "λ = 2b²/3d"
+          ],
+          "year": 1984
+        },
+        {
+          "id": 131,
+          "question_number": 132,
+          "type": "multiple_select",
+          "question_text": "A converging lens is used to form an image on a screen. When the upper half of the lens is covered by an opaque screen",
+          "options": [
+            "half of the image will disappear",
+            "complete image will be formed",
+            "intensity of the image will increase",
+            "intensity of the image will decrease"
+          ],
+          "year": 1986
+        },
+        {
+          "id": 132,
+          "question_number": 133,
+          "type": "multiple_select",
+          "question_text": "A planet is observed by an astronomical refracting telescope having an objective of focal length 16 m and an eyepiece of focal length 2 cm",
+          "options": [
+            "the distance between the objective and the eyepiece is 16.02 m",
+            "the angular magnification of the planet is -800",
+            "the image of the planet is inverted",
+            "the objective is larger than the eyepiece"
+          ],
+          "year": 1992
+        },
+        {
+          "id": 133,
+          "question_number": 134,
+          "type": "multiple_select",
+          "question_text": "In an interference arrangement similar to Young's double-slit experiment, the slits S₁ and S₂ are illuminated with coherent microwave sources, each of frequency 10⁶ Hz. The sources are synchronized to have zero phase difference. The slits are separated by a distance d = 150.0 m. The intensity I(θ) is measured as a function of θ, where θ is defined as shown. If I₀ is the maximum intensity, then I(θ) for 0 ≤ θ ≤ 90° is given by",
+          "options": [
+            "I(θ) = I₀/2 for θ = 30°",
+            "I(θ) = I₀/4 for θ = 90°",
+            "I(θ) = I₀ for θ = 0°",
+            "I(θ) is constant for all values of θ"
+          ],
+          "image_present": true,
+          "year": 1995,
+          "images":["arihant_images_ch12/arihant_ch12_38.png"]
+        },
+        {
+          "id": 134,
+          "question_number": 135,
+          "type": "multiple_select",
+          "question_text": "Which of the following form(s) a virtual and erect image for all positions of the object?",
+          "options": [
+            "Convex lens",
+            "Concave lens",
+            "Convex mirror",
+            "Concave mirror"
+          ],
+          "year": 1996
+        },
+        {
+          "id": 135,
+          "question_number": 136,
+          "type": "multiple_select",
+          "question_text": "A ray of light travelling in a transparent medium falls on a surface separating the medium from air at an angle of incidence 45°. The ray undergoes total internal reflection. If n is the refractive index of the medium with respect to air, select the possible value(s) of n from the following",
+          "options": [
+            "1.3",
+            "1.4",
+            "1.5",
+            "1.6"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 136,
+          "question_number": 137,
+          "type": "multiple_select",
+          "question_text": "A student performed the experiment of determination of focal length of a concave mirror by u-v method using an optical bench of length 1.5 m. The focal length of the mirror used is 24 cm. The maximum error in the location of the image can be 0.2 cm. The 5 sets of (u, v) values recorded by the student (in cm) are: (42, 56), (48, 48), (60, 40), (66, 33), (78, 39). The data set(s) that cannot come from experiment and is (are) incorrectly recorded, is (are)",
+          "options": [
+            "(42, 56)",
+            "(48, 48)",
+            "(66, 33)",
+            "(78, 39)"
+          ],
+          "year": 2009
+        },
+        {
+          "id": 137,
+          "question_number": 138,
+          "type": "multiple_select",
+          "question_text": "A ray OP of monochromatic light is incident on the face AB of prism ABCD near vertex B at an incident angle of 60° (see figure). If the refractive index of the material of the prism is √3, which of the following is (are) correct?",
+          "options": [
+            "The ray gets totally internally reflected at face CD",
+            "The ray comes out through face AD",
+            "The angle between the incident ray and the emergent ray is 90°",
+            "The angle between the incident ray and the emergent ray is 120°"
+          ],
+          "image_present": true,
+          "year": 2010,
+          "images":["arihant_images_ch12/arihant_ch12_39.png"]
+        },
+        {
+          "id": 138,
+          "question_number": 139,
+          "type": "multiple_select",
+          "question_text": "A transparent thin film of uniform thickness and refractive index n₁ = 1.4 is coated on the convex spherical surface of radius R at one end of a long solid glass cylinder of refractive index n₂ = 1.5, as shown in the figure. Rays of light parallel to the axis of the cylinder traversing through the film from air to glass get focused at distance f₁ from the film, while rays of light traversing from glass to air get focused at distance f₂ from the film. Then",
+          "options": [
+            "|f₁| = 3R",
+            "|f₁| = 2.8R",
+            "|f₂| = 2R",
+            "|f₂| = 1.4R"
+          ],
+          "image_present": true,
+          "year": 2014,
+          "images":["arihant_images_ch12/arihant_ch12_40.png"]
+        },
+        {
+          "id": 139,
+          "question_number": 140,
+          "type": "multiple_select",
+          "question_text": "A plano-convex lens is made of material of refractive index n. When a small object is placed 30 cm away in front of the curved surface of the lens, an image of double the size of the object is produced. Due to reflection from the convex surface of the lens, another faint image is observed at a distance of 10 cm away from the lens. Which of the following statement(s) is (are) true?",
+          "options": [
+            "The refractive index of the lens is 2.5",
+            "The radius of curvature of the convex surface is 45 cm",
+            "The faint image is erect and real",
+            "The focal length of the lens is 20 cm"
+          ],
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "type_name": "Passage Based Questions",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 140,
+          "type": "passage",
+          "passage_title": "Passage 1",
+          "passage_text": "The figure shows a surface XY separating two transparent media, medium-1 and medium-2. The lines ab and cd represent wavefronts of a light wave travelling in medium-1 and incident on XY. The lines ef and gh represent wavefronts of the light wave in medium-2 after refraction.",
+          "image_present": true,
+          "images":["arihant_images_ch12/arihant_ch12_41.png"],
+          "associated_questions": [
+            {
+              "id": 141,
+              "question_number": 141,
+              "type": "multiple_choice",
+              "question_text": "Light travels as a",
+              "options": [
+                "parallel beam in each medium",
+                "convergent beam in each medium",
+                "divergent beam in each medium",
+                "divergent beam in one medium and convergent beam in the other medium"
+              ],
+              "year": 2007
+            },
+            {
+              "id": 142,
+              "question_number": 142,
+              "type": "multiple_choice",
+              "question_text": "The phases of the light wave at c, d, e and f are φ_c, φ_d, φ_e and φ_f respectively. It is given that φ_c ≠ φ_f",
+              "options": [
+                "φ_c cannot be equal to φ_d",
+                "φ_d can be equal to φ_e",
+                "(φ_d - φ_f) is equal to (φ_c - φ_e)",
+                "(φ_c - φ_d) is not equal to (φ_f - φ_e)"
+              ],
+              "year": 2007
+            },
+            {
+              "id": 143,
+              "question_number": 143,
+              "type": "multiple_choice",
+              "question_text": "Speed of light is",
+              "options": [
+                "the same in medium-1 and medium-2",
+                "larger in medium-1 than in medium-2",
+                "larger in medium-2 than in medium-1",
+                "different at b and d"
+              ],
+              "year": 2007
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_name": "Match the Columns",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 144,
+          "question_number": 144,
+          "type": "matching",
+          "question_text": "Some laws/processes are given in Column I. Match these with the physical phenomena given in Column II.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A) Intensity of light received by lens",
+              "(B) Angular magnification",
+              "(C) Length of telescope",
+              "(D) Sharpness of image"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p) radius of aperture (R)",
+              "(q) dispersion of lens",
+              "(r) focal length fₒ, fₑ",
+              "(s) spherical aberration"
+            ]
+          },
+          "year": 2006
+        },
+        {
+          "id": 145,
+          "question_number": 145,
+          "type": "matching",
+          "question_text": "An optical component and an object S placed along its optic axis are given in Column I. The distance between the object and the component can be varied. The properties of images are given in Column II. Match all the properties of images from Column II with the appropriate components given in Column I.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A)",
+              "(B)",
+              "(C)",
+              "(D)"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p) Real image",
+              "(q) Virtual image",
+              "(r) Magnified image",
+              "(s) Image at infinity"
+            ]
+          },
+          "image_present": true,
+          "year": 2008
+        },
+        {
+          "id": 146,
+          "question_number": 146,
+          "type": "matching",
+          "question_text": "Two transparent media of refractive indices μ₁ and μ₃ have a solid lens shaped transparent material of refractive index μ₂ between them as shown in figures in Column II. A ray traversing these media is also shown in the figures. In Column I different relationships between μ₁, μ₂ and μ₃ are given. Match them to the ray diagram shown in Column II.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A) μ₁ < μ₂",
+              "(B) μ₁ > μ₂",
+              "(C) μ₂ = μ₃",
+              "(D) μ₂ > μ₃"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p)",
+              "(q)",
+              "(r)",
+              "(s)",
+              "(t)"
+            ]
+          },
+          "image_present": true,
+          "year": 2010
+        },
+        {
+          "id": 147,
+          "question_number": 147,
+          "type": "matching",
+          "question_text": "Four combinations of two thin lenses are given in Column I. The radius of curvature of all curved surfaces is r and the refractive index of all the lenses is 1.5. Match lens combinations in Column I with their focal length in Column II and select the correct answer using the codes given below the lists.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "A.",
+              "B.",
+              "C.",
+              "D."
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "p. 2r",
+              "q. r/2",
+              "r. -r",
+              "s. r"
+            ]
+          },
+          "image_present": true,
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 148,
+          "question_number": 148,
+          "type": "integer_answer",
+          "question_text": "Image of an object approaching a convex mirror of radius of curvature 20 m along its optical axis is observed to move from 25/3 m to 50/7 m in 30 s. What is the speed of the object in km h⁻¹?",
+          "year": 2010
+        },
+        {
+          "id": 149,
+          "question_number": 149,
+          "type": "integer_answer",
+          "question_text": "The focal length of a thin biconvex lens is 20 cm. When an object is moved from a distance of 25 cm in front of it to 50 cm, the magnification of its image changes from m₂₅ to m₅₀. The ratio m₂₅/m₅₀ is",
+          "year": 2010
+        },
+        {
+          "id": 150,
+          "question_number": 150,
+          "type": "integer_answer",
+          "question_text": "A large glass slab (μ = 5/3) of thickness 8 cm is placed over a point source of light on a plane surface. It is seen that light emerges out of the top surface of the slab from a circular area of radius R cm. What is the value of R?",
+          "year": 2010
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Questions",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 151,
+          "question_number": 151,
+          "type": "descriptive",
+          "question_text": "An observer can see through a small hole on the side of a jar (radius 15 cm) at a point at height of 15 cm from the bottom (see figure). The hole is at a height of 45 cm. When the jar is filled with a liquid up to a height of 30 cm, the same observer can see the edge at the bottom of the jar. If the refractive index of the liquid is N/100, where N is an integer, the value of N is ____.",
+          "image_present": true,
+          "year": null,
+          "images":["arihant_images_ch12/arihant_ch12_42.png"]
+        },
+        {
+          "id": 152,
+          "question_number": 152,
+          "type": "descriptive",
+          "question_text": "A pin is placed 10 cm in front of a convex lens of focal length 20 cm and made of a material of refractive index 1.5. The convex surface of the lens farther away from the pin is silvered and has a radius of curvature of 22 cm. Determine the position of the final image. Is the image real or virtual?",
+          "year": 1978
+        },
+        {
+          "id": 153,
+          "question_number": 153,
+          "type": "descriptive",
+          "question_text": "What is the relation between the refractive indices μ₁ and μ₂? If the behaviour of light rays is as shown in the figure.",
+          "image_present": true,
+          "year": 1979,
+          "images":["arihant_images_ch12/arihant_ch12_43.png"]
+        },
+        {
+          "id": 154,
+          "question_number": 154,
+          "type": "descriptive",
+          "question_text": "A parallel beam of light travelling in water (refractive index = 4/3) is refracted by a spherical air bubble of radius 2 mm situated in water. Assuming the light rays to be paraxial.\n(a) Find the position of the image due to refraction at the first surface and the position of the final image.\n(b) Draw a ray diagram showing the positions of both the images.",
+          "year": 1988
+        },
+        {
+          "id": 155,
+          "question_number": 155,
+          "type": "descriptive",
+          "question_text": "A narrow monochromatic beam of light of intensity I₀ is incident on a glass plate as shown in figure. Another identical glass plate is kept close to the first one and parallel to it. Each glass plate reflects 25 per cent of the light incident on it and transmits the remaining. Find the ratio of the minimum and maximum intensities in the interference pattern formed by the two beams obtained after one reflection at each plate.",
+          "image_present": true,
+          "year": 1990,
+          "images":["arihant_images_ch12/arihant_ch12_44.png"]
+        },
+        {
+          "id": 156,
+          "question_number": 156,
+          "type": "descriptive",
+          "question_text": "Light is incident at an angle α on one planar end of a transparent cylindrical rod of refractive index n. Determine the least value of n so that the light entering the rod does not emerge from the curved surface of the rod irrespective of the value of α.",
+          "image_present": true,
+          "year": 1992,
+          "images":["arihant_images_ch12/arihant_ch12_45.png"]
+        },
+        {
+          "id": 157,
+          "question_number": 157,
+          "type": "descriptive",
+          "question_text": "An image Y is formed of point object X by a lens whose optic axis is AB as shown in figure. Draw a ray diagram to locate the lens and its focus. If the image Y of the object X is formed by a concave mirror (having the same optic axis as AB) instead of lens, draw another ray diagram to locate the mirror and its focus. Write down the steps of construction of the ray diagrams.",
+          "image_present": true,
+          "year": 1994,
+          "images":["arihant_images_ch12/arihant_ch12_46.png"]
+        },
+        {
+          "id": 158,
+          "question_number": 158,
+          "type": "descriptive",
+          "question_text": "A thin plano-convex lens of focal length f is split into two halves. One of the halves is shifted along the optical axis. The separation between object and image planes is 1.8 m. The magnification of the image formed by one of the half lens is 2. Find the focal length of the lens and separation between the halves. Draw the ray diagram for image formation.",
+          "image_present": true,
+          "year": 1996,
+          "images":["arihant_images_ch12/arihant_ch12_47.png"]
+        },
+        {
+          "id": 159,
+          "question_number": 159,
+          "type": "descriptive",
+          "question_text": "A quarter cylinder of radius R and refractive index 1.5 is placed on a table. A point object P is kept at a distance of mR from it. Find the value of m for which a ray from P will emerge parallel to the table as shown in figure.",
+          "image_present": true,
+          "year": 1999,
+          "images":["arihant_images_ch12/arihant_ch12_48.png"]
+        },
+        {
+          "id": 160,
+          "question_number": 160,
+          "type": "descriptive",
+          "question_text": "In a Young's double slit experiment, two wavelengths of 500 nm and 700 nm were used. What is the minimum distance from the central maximum where their maximas coincide again? Take D/d = 10³. Symbols have their usual meanings.",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "type_name": "Fill in the Blanks",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 161,
+          "question_number": 1,
+          "type": "fill_in_the_blank",
+          "question_text": "A slab of material of refractive index 2 shown in figure has a curved surface APB of radius of curvature 10 cm and a plane surface CD. On the left of APB is air and on the right of CD is water with refractive indices as given in the figure. An object O is placed at a distance of 15 cm from the pole P as shown. The distance of the final image of O from P, as viewed from the left is ____.",
+          "image_present": true,
+          "year": 1991
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 162,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "Two thin convex lenses of focal lengths f₁ and f₂ are separated by a horizontal distance d (where d < f₁, d < f₂) and their centres are displaced by a vertical separation Δ as shown in the figure. Taking the origin of coordinates, O, at the centre of the first lens, the x and y-coordinates of the focal point of this lens system, for a parallel beam of rays coming from the left, are given by",
+          "options": [
+            "x = f₁f₂/(f₁+f₂), y = Δ",
+            "x = (f₁(f₂+d))/(f₁+f₂-d), y = Δ/(f₁+f₂)",
+            "x = (f₁f₂ + d(f₁-d))/(f₁+f₂-d), y = Δ(f₁-d)/(f₁+f₂-d)",
+            "x = (f₁f₂ + d(f₁-d))/(f₁+f₂-d), y = 0"
+          ],
+          "image_present": true,
+          "year": 1993,
+          "images":["arihant_images_ch12/arihant_ch12_49.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 163,
+          "question_number": 3,
+          "type": "multiple_select",
+          "question_text": "In a Young's double slit experiment, the separation between the two slits is d and the wavelength of the light is λ. The intensity of light falling on slit 1 is four times the intensity of light falling on slit 2. Choose the correct choice(s).",
+          "options": [
+            "If d = λ, the screen will contain only one maximum",
+            "If λ < d < 2λ, then at least one more maximum (besides the central maximum) will be observed on the screen",
+            "If the intensity of light falling on slit 1 is reduced so that it becomes equal to that of slit 2, the intensities of the observed dark and bright fringes will increase",
+            "If the intensity of light falling on slit 2 is increased so that it becomes equal to that of slit 1, the intensities of the observed dark and bright fringes will increase"
+          ],
+          "year": 2008
+        },
+        {
+          "id": 164,
+          "question_number": 4,
+          "type": "multiple_select",
+          "question_text": "Using the expression 2d sinθ = λ, one calculates the values of d by measuring the corresponding angles θ in the range 0 to 90°. The wavelength λ is exactly known and the error in θ is constant for all values of θ. As θ increases from 0°,",
+          "options": [
+            "the absolute error in d remains constant",
+            "the absolute error in d increases",
+            "the fractional error in d remains constant",
+            "the fractional error in d decreases"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 165,
+          "question_number": 5,
+          "type": "multiple_select",
+          "question_text": "A light source, which emits two wavelengths λ₁ = 400 nm and λ₂ = 600 nm, is used in a Young's double-slit experiment. If recorded fringe widths for λ₁ and λ₂ are β₁ and β₂ and the number of fringes for them within a distance y on one side of the central maximum are m₁ and m₂, respectively, then",
+          "options": [
+            "β₂ > β₁",
+            "m₁ > m₂",
+            "from the central maximum, 3rd maximum of λ₂ overlaps with 5th minimum of λ₁",
+            "the angular separation of fringes of λ₁ is greater than λ₂"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 166,
+          "question_number": 6,
+          "type": "multiple_select",
+          "question_text": "A transparent slab of thickness d has a refractive index n(z) that increases with z. Here, z is the vertical distance inside the slab, measured from the top. The slab is placed between two media with uniform refractive indices n₁ and n₂(> n₁), as shown in the figure. A ray of light is incident with angle θᵢ from medium 1 and emerges in medium 2 with refraction angle θ_f, with a lateral displacement l. Which of the following statement(s) is (are) true?",
+          "options": [
+            "l is dependent on n(z)",
+            "n₁sinθᵢ = (n₂-n₁)sinθ_f",
+            "n₁sinθᵢ = n₂sinθ_f",
+            "l is independent of n₂"
+          ],
+          "image_present": true,
+          "year": 2016,
+          "images":["arihant_images_ch12/arihant_ch12_50.png"]
+        },
+        {
+          "id": 167,
+          "question_number": 7,
+          "type": "multiple_select",
+          "question_text": "For an isosceles prism of angle A and refractive index μ, it is found that the angle of minimum deviation δ_m = A. Which of the following options is/are correct?",
+          "options": [
+            "For the angle of incidence i = A, the ray inside the prism is parallel to the base of the prism",
+            "At minimum deviation, the incident angle i₁ and the refracting angle r₁ at the first refracting surface are related by r₁ = i₁/2",
+            "For this prism, the emergent ray at the second surface will be tangential to the surface when the angle of incidence at the first surface is i₁ = sin⁻¹[sinA √(4cos²(A/2) - 1)] - A/2",
+            "For this prism, the refractive index μ and the angle prism A are related as A = 2cos⁻¹(μ/2)"
+          ],
+          "year": 2017
+        },
+        {
+          "id": 168,
+          "question_number": 8,
+          "type": "multiple_select",
+          "question_text": "Two coherent monochromatic point sources S₁ and S₂ of wavelength λ = 600 nm are placed symmetrically on either side of the centre of the circle as shown. The sources are separated by a distance d = 1.8 mm. This arrangement produces interference fringes visible as alternate bright and dark spots on the circumference of the circle. The angular separation between two consecutive bright spots is Δθ. Which of the following options is/are correct?",
+          "options": [
+            "The angular separation between two consecutive bright spots decreases as we move from P₁ to P₂ along the first quadrant",
+            "A dark spot will be formed at the point P₂",
+            "The total number of fringes produced between P₁ and P₂ in the first quadrant is close to 3000",
+            "At P₂ the order of the fringe will be maximum"
+          ],
+          "image_present": true,
+          "year": 2017,
+          "images":["arihant_images_ch12/arihant_ch12_51.png"]
+        },
+        {
+          "id": 169,
+          "question_number": 9,
+          "type": "multiple_select",
+          "question_text": "A wire is bent in the shape of a right angled triangle and is placed in front of a concave mirror of focal length f as shown in the figure. Which of the figures shown in the four options qualitatively represent(s) the shape of the image of the bent wire? (These figures are not to scale.)",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "type_name": "Passage Based Questions",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 170,
+          "type": "passage",
+          "passage_title": "Passage 1",
+          "passage_text": "Most materials have the refractive index, n > 1. So, when a light ray from air enters a naturally occurring material, then by Snell's law, sinθ₁/sinθ₂ = n₂/n₁, it is understood that the refracted ray bends towards the normal. But it never emerges on the same side of the normal as the incident ray. According to electromagnetism, the refractive index of the medium is given by the relation, n = c/v = ±√(εᵣμᵣ), where c is the speed of electromagnetic waves in vacuum, v its speed in the medium, εᵣ and μᵣ are the relative permittivity and permeability of the medium respectively. In normal materials, both εᵣ and μᵣ are positive, implying positive n for the medium. When both εᵣ and μᵣ are negative, one must choose the negative root of n. Such negative refractive index materials can now be artificially prepared and are called meta-materials. They exhibit significantly different optical behaviour, without violating any physical laws. Since n is negative, it results in a change in the direction of propagation of the refracted light. However, similar to normal materials, the frequency of light remains unchanged upon refraction even in meta-materials.",
+          "associated_questions": [
+            {
+              "id": 171,
+              "question_number": 10,
+              "type": "multiple_choice",
+              "question_text": "Choose the correct statement.",
+              "options": [
+                "The speed of light in the meta-material is v = c|n|",
+                "The speed of light in the meta-material is v = c/|n|",
+                "The speed of light in the meta-material is v = c",
+                "The wavelength of the light in the meta-material (λ_m) is given by λ_m = λ_air|n|, where λ_air is the wavelength of the light in air."
+              ],
+              "year": 2012
+            },
+            {
+              "id": 172,
+              "question_number": 11,
+              "type": "multiple_choice",
+              "question_text": "For light incident from air on a meta-material, the appropriate ray diagram is",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "image_present": true,
+              "year": 2012
+            }
+          ]
+        },
+        {
+          "id": 173,
+          "type": "passage",
+          "passage_title": "Passage 2",
+          "passage_text": "Light guidance in an optical fibre can be understood by considering a structure comprising of thin solid glass cylinder of refractive index n₁ surrounded by a medium of lower refractive index n₂. The light guidance in the structure takes place due to successive total internal reflections at the interface of the media n₁ and n₂ as shown in the figure. All rays with the angle of incidence i less than a particular value i_m are confined in the medium of refractive index n₁. The numerical aperture (NA) of the structure is defined as sin(i_m).",
+          "image_present": true,
+          "images":["arihant_images_ch12/arihant_ch12_52.png"],
+          "associated_questions": [
+            {
+              "id": 174,
+              "question_number": 12,
+              "type": "multiple_select",
+              "question_text": "For two structures namely S₁ with n₁ = √45/4 and n₂ = 3/2, and S₂ with n₁ = 8/5 and n₂ = 7/5 and taking the refractive index of water to be 4/3 and that to air to be 1, the correct options is/are",
+              "options": [
+                "NA of S₁ immersed in water is the same as that of S₂ immersed in a liquid of refractive index 16/(3√15)",
+                "NA of S₁ immersed in liquid of refractive index 6/√15 is the same as that of S₂ immersed in water",
+                "NA of S₁ placed in air is the same as that S₂ immersed in liquid of refractive index 4/√15",
+                "NA of S₁ placed in air is the same as that of S₂ placed in water"
+              ],
+              "year": 2015
+            },
+            {
+              "id": 175,
+              "question_number": 13,
+              "type": "multiple_select",
+              "question_text": "If two structures of same cross-sectional area, but different numerical apertures NA₁ and NA₂(NA₂ < NA₁) are joined longitudinally, the numerical aperture of the combined structure is",
+              "options": [
+                "(NA₁NA₂)/(NA₁+NA₂)",
+                "NA₁ + NA₂",
+                "NA₁",
+                "NA₂"
+              ],
+              "year": 2015
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_name": "Match the Columns",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 176,
+          "question_number": 14,
+          "type": "matching",
+          "question_text": "Column I shows four situations of standard Young's double slit arrangement with the screen placed far away from the slits S₁ and S₂. In each of these cases S₁P₀ = S₂P₀, S₁P₁ - S₂P₁ = λ/4 and S₁P₂ - S₂P₂ = λ/3, where λ is the wavelength of the light used. In the cases B, C and D, a transparent sheet of refractive index μ and thickness t is pasted on slit S₂. The thickness of the sheets are different in different cases. The phase difference between the light waves reaching a point P on the screen from the two slits is denoted by δ(P) and the intensity by I(P). Match each situation given in Column I with the statement(s) in Column II valid for that situation.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A) (No sheet on S₂)",
+              "(B) (μ - 1)t = λ/4",
+              "(C) (μ - 1)t = λ/2",
+              "(D) (μ - 1)t = 3λ/4"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p) δ(P₀) = 0",
+              "(q) δ(P₁) = 0",
+              "(r) I(P₁) = 0",
+              "(s) I(P₀) > I(P₁)",
+              "(t) I(P₂) > I(P₁)"
+            ]
+          },
+          "image_present": true,
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 177,
+          "question_number": 15,
+          "type": "integer_answer",
+          "question_text": "Water (with refractive index = 4/3) in a tank is 18 cm deep. Oil of refractive index 7/4 lies on water making a convex surface of radius of curvature R = 6 cm as shown. Consider oil to act as a thin lens. An object S is placed 24 cm above water surface. The location of its image is at x cm above the bottom of the tank. Then x is.",
+          "image_present": true,
+          "year": 2011,
+          "images":["arihant_images_ch12/arihant_ch12_53.png"]
+        },
+        {
+          "id": 178,
+          "question_number": 16,
+          "type": "integer_answer",
+          "question_text": "Consider a concave mirror and a convex lens (refractive index = 1.5) of focal length 10 cm each, separated by a distance of 50 cm in air (refractive index = 1) as shown in the figure. An object is placed at a distance of 15 cm from the mirror. Its erect image formed by this combination has magnification M₁. When the set-up is kept in a medium of refractive index 7/6, the magnification becomes M₂. The magnitude |M₂/M₁| is",
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch12/arihant_ch12_54.png"]
+        },
+        {
+          "id": 179,
+          "question_number": 17,
+          "type": "integer_answer",
+          "question_text": "A Young's double slit interference arrangement with slits S₁ in air and S₂ is immersed in water (refractive index = 4/3) as shown in the figure. The positions of maxima on the surface of water are given by x² = p²m²λ² – d², where λ is the wavelength of light in air (refractive index = 1), 2d is the separation between the slits and m is an integer. The value of p is",
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch12/arihant_ch12_55.png"]
+        },
+        {
+          "id": 180,
+          "question_number": 18,
+          "type": "integer_answer",
+          "question_text": "A monochromatic beam of light is incident at 60° on one face of an equilateral prism of refractive index n and emerges from the opposite face making an angle θ(n) with the normal (see figure). For n = √3 the value of θ is 60° and dθ/dn = m. The value of m is",
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch12/arihant_ch12_56.png"]
+        },
+        {
+          "id": 181,
+          "question_number": 19,
+          "type": "integer_answer",
+          "question_text": "A monochromatic light is travelling in a medium of refractive index n = 1.6. It enters a stack of glass layers from the bottom side at an angle θ = 30°. The interfaces of the glass layers are parallel to each other. The refractive indices of different glass layers are monotonically decreasing as n_m = n – mΔn, where n_m is the refractive index of the mth slab and Δn = 0.1 (see the figure). The ray is refracted out parallel to the interface between the (m-1)th and mth slabs from the right side of the stack. What is the value of m?",
+          "image_present": true,
+          "year": 2017,
+          "images":["arihant_images_ch12/arihant_ch12_57.png"]
+        },
+        {
+          "id": 182,
+          "question_number": 20,
+          "type": "integer_answer",
+          "question_text": "Sunlight of intensity 1.3 kWm⁻² is incident normally on a thin convex lens of focal length 20 cm. Ignore the energy loss of light due to the lens and assume that the lens aperture size is much smaller than its focal length. The average intensity of light, in kW m⁻², at a distance 22 cm from the lens on the other side is",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Questions",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 183,
+          "question_number": 21,
+          "type": "descriptive",
+          "question_text": "A ray of light is incident at an angle of 60° on one face of a prism which has an angle of 30°. The ray emerging out of the prism makes an angle of 30° with the incident ray. Show that the emergent ray is perpendicular to the face through which it emerges and calculate the refractive index of the material of the lens.",
+          "year": 1978
+        },
+        {
+          "id": 184,
+          "question_number": 22,
+          "type": "descriptive",
+          "question_text": "The radius of curvature of the convex face of a planoconvex lens is 12 cm and its μ = 1.5. \n(a) Find the focal length of the lens. The plane face of the lens is now silvered. \n(b) At what distance from the lens will parallel rays incident on the convex surface converge? \n(c) Sketch the ray diagram to locate the image, when a point object is placed on the axis 20 cm from the lens. \n(d) Calculate the image distance when the object is placed as in (c).",
+          "year": 1979
+        },
+        {
+          "id": 185,
+          "question_number": 23,
+          "type": "descriptive",
+          "question_text": "The convex surface of a thin concavo-convex lens of glass of refractive index 1.5 has a radius of curvature 20 cm. The concave surface has a radius of curvature 60 cm. The convex side is silvered and placed on a horizontal surface. \n(a) Where should a pin be placed on the optic axis such that its image is formed at the same place? \n(b) If the concave part is filled with water of refractive index 4/3, find the distance through which the pin should be moved, so that the image of the pin again coincides with the pin.",
+          "image_present": true,
+          "year": 1981,
+          "images":["arihant_images_ch12/arihant_ch12_58.png"]
+        },
+        {
+          "id": 186,
+          "question_number": 24,
+          "type": "descriptive",
+          "question_text": "Screen S is illuminated by two point sources A and B. Another source C sends a parallel beam of light towards point P on the screen (see figure). Line AP is normal to the screen and the lines AP, BP and CP are in one plane. The distances AP and BP are 3m and 1.5m. The radiant powers of sources A and B are 90 W and 180 W respectively. The beam from C is of intensity 20 W/m². Calculate intensity at P on the screen.",
+          "image_present": true,
+          "year": 1982,
+          "images":["arihant_images_ch12/arihant_ch12_59.png"]
+        },
+        {
+          "id": 187,
+          "question_number": 25,
+          "type": "descriptive",
+          "question_text": "In Young's double slit experiment using monochromatic light the fringe pattern shifts by a certain distance on the screen when a mica sheet of refractive index 1.6 and thickness 1.964 microns is introduced in the path of one of the interfering waves. The mica sheet is then removed and the distance between the slits and the screen is doubled. It is found that the distance between successive maxima (or minima) now is the same as the observed fringe shift upon the introduction of the mica sheet. Calculate the wavelength of the monochromatic light used in the experiment.",
+          "year": 1983
+        },
+        {
+          "id": 188,
+          "question_number": 26,
+          "type": "descriptive",
+          "question_text": "A plano-convex lens has a thickness of 4 cm. When placed on a horizontal table, with the curved surface in contact with it, the apparent depth of the bottom most point of the lens is found to be 3 cm. If the lens is inverted such that the plane face is in contact with the table, the apparent depth of the centre of the plane face is found to be 25/8 cm. Find the focal length of the lens. Assume thickness to be negligible while finding its focal length.",
+          "year": 1984
+        },
+        {
+          "id": 189,
+          "question_number": 27,
+          "type": "descriptive",
+          "question_text": "A beam of light consisting of two wavelengths, 6500Å and 5200 Å is used to obtain interference fringe in a Young's double slit experiment. \n(a) Find the distance of the third bright fringe on the screen from the central maximum for wavelength 6500 Å. \n(b) What is the least distance from the central maximum where the bright fringes due to both the wavelengths coincide? \nThe distance between the slits is 2 mm and the distance between the plane of the slits and the screen is 120 cm.",
+          "year": 1985
+        },
+        {
+          "id": 190,
+          "question_number": 28,
+          "type": "descriptive",
+          "question_text": "Monochromatic light is incident on a plane interface AB between two media of refractive indices n₁ and n₂ (n₂ > n₁) at an angle of incidence θ as shown in the figure. The angle θ is infinitesimally greater than the critical angle for the two media so that total internal reflection takes place. Now if a transparent slab DEFG of uniform thickness and of refractive index n₃ is introduced on the interface (as shown in the figure), show that for any value of n₃ all light will ultimately be reflected back again into medium II. Consider separately the cases : (a) n₃ < n₁ and (b) n₃ > n₁",
+          "image_present": true,
+          "year": 1986,
+          "images":["arihant_images_ch12/arihant_ch12_60.png"]
+        },
+        {
+          "id": 191,
+          "question_number": 29,
+          "type": "descriptive",
+          "question_text": "A right angled prism is to be made by selecting a proper material and the angles A and B (B ≤ A), as shown in figure. It is desired that a ray of light incident on the face AB emerges parallel to the incident direction after two internal reflections. \n(a) What should be the minimum refractive index μ for this to be possible? \n(b) For μ = 5/3, is it possible to achieve this with the angle B equal to 30 degrees?",
+          "image_present": true,
+          "year": 1987,
+          "images":["arihant_images_ch12/arihant_ch12_61.png"]
+        },
+        {
+          "id": 192,
+          "question_number": 30,
+          "type": "descriptive",
+          "question_text": "In a modified Young's double slit experiment, a monochromatic uniform and parallel beam of light of wavelength 6000 Å and intensity (10/π) Wm⁻² is incident normally on two apertures A and B of radii 0.001 m and 0.002 m respectively. A perfectly transparent film of thickness 2000 Å and refractive index 1.5 for the wavelength of 6000Å is placed in front of aperture A (see figure). Calculate the power (in W) received at the focal spot F of the lens. The lens is symmetrically placed with respect to the apertures. Assume that 10% of the power received by each aperture goes in the original direction and is brought to the focal spot.",
+          "image_present": true,
+          "year": 1989,
+          "images":["arihant_images_ch12/arihant_ch12_62.png"]
+        },
+        {
+          "id": 193,
+          "question_number": 31,
+          "type": "descriptive",
+          "question_text": "Two parallel beams of light P and Q (separation d) containing radiations of wavelengths 4000 Å and 5000Å (which are mutually coherent in each wavelength separately) are incident normally on a prism as shown in figure. The refractive index of the prism as a function of wavelength is given by the relation, μ(λ) = 1.20 + b/λ², where λ is in Å and b is positive constant. The value of b is such that the condition for total reflection at the face AC is just satisfied for one wavelength and is not satisfied for the other. \n(a) Find the value of b. \n(b) Find the deviation of the beams transmitted through the face AC. \n(c) A convergent lens is used to bring these transmitted beams into focus. If the intensities of the upper and the lower beams immediately after transmission from the face AC, are 4I and I respectively, find the resultant intensity at the focus.",
+          "image_present": true,
+          "year": 1991,
+          "images":["arihant_images_ch12/arihant_ch12_63.png"]
+        },
+        {
+          "id": 194,
+          "question_number": 32,
+          "type": "descriptive",
+          "question_text": "In given figure, S is a monochromatic point source emitting light of wavelength λ = 500 nm. A thin lens of circular shape and focal length 0.10 m is cut into two identical halves L₁ and L₂ by a plane passing through a diameter. The two halves are placed symmetrically about the central axis SO with a gap of 0.5 mm. The distance along the axis from S to L₁ and L₂ is 0.15 m while that from L₁ and L₂ to O is 1.30 m. The screen at O is normal to SO. \n(a) If the third intensity maximum occurs at the point A on the screen, find the distance OA. \n(b) If the gap between L₁ and L₂ is reduced from its original value of 0.5 mm, will the distance OA increase, decrease, or remain the same.",
+          "image_present": true,
+          "year": 1993,
+          "images":["arihant_images_ch12/arihant_ch12_64.png"]
+        },
+        {
+          "id": 195,
+          "question_number": 33,
+          "type": "descriptive",
+          "question_text": "A ray of light travelling in air is incident at grazing angle (incident angle = 90°) on a long rectangular slab of a transparent medium of thickness t = 1.0 m. The point of incidence is the origin A(0,0). The medium has a variable index of refraction n(y) given by n(y) = [ky³/² + 1]¹/² where k = 1.0 (m)⁻³/². The refractive index of air is 1.0. \n(a) Obtain a relation between the slope of the trajectory of the ray at a point B(x,y) in the medium and the incident angle at that point. \n(b) Obtain an equation for the trajectory y(x) of the ray in the medium. \n(c) Determine the coordinates (x,y) of the point P, where the ray intersects the upper surface of the slab-air boundary. \n(d) Indicate the path of the ray subsequently.",
+          "year": 1995
+        },
+        {
+          "id": 196,
+          "question_number": 34,
+          "type": "descriptive",
+          "question_text": "Angular width of central maximum in the Fraunhofer diffraction pattern of a slit is measured. The slit is illuminated by light of wavelength 6000 Å. When the slit is illuminated by light of another wavelength, the angular width decreases by 30%. Calculate the wavelength of this light. The same decrease in the angular width of central maximum is obtained when the original apparatus is immersed in a liquid. Find refractive index of the liquid.",
+          "year": 1996
+        },
+        {
+          "id": 197,
+          "question_number": 35,
+          "type": "descriptive",
+          "question_text": "A double slit apparatus is immersed in a liquid of refractive index 1.33. It has slit separation of 1 mm and distance between the plane of slits and screen is 1.33 m. The slits are illuminated by a parallel beam of light whose wavelength in air is 6300 Å. \n(a) Calculate the fringe width. \n(b) One of the slits of the apparatus is covered by a thin glass sheet of refractive index 1.53. Find the smallest thickness of the sheet to bring the adjacent minimum on the axis.",
+          "year": 1996
+        },
+        {
+          "id": 198,
+          "question_number": 36,
+          "type": "descriptive",
+          "question_text": "A right angled prism (45°-90°-45°) of refractive index n has a plane of refractive index n₁ (n₁ < n) cemented to its diagonal face. The assembly is in air. The ray is incident on AB. \n(a) Calculate the angle of incidence at AB for which the ray strikes the diagonal face at the critical angle. \n(b) Assuming n = 1.352, calculate the angle of incidence at AB for which the refracted ray passes through the diagonal face undeviated.",
+          "image_present": true,
+          "year": 1996,
+          "images":["arihant_images_ch12/arihant_ch12_65.png"]
+        },
+        {
+          "id": 199,
+          "question_number": 37,
+          "type": "descriptive",
+          "question_text": "In a Young's experiment, the upper slit is covered by a thin glass plate of refractive index 1.4, while the lower slit is covered by another glass plate, having the same thickness as the first one but having refractive index 1.7. Interference pattern is observed using light of wavelength 5400 Å. It is found that the point P on the screen, where the central maximum (n=0) fall before the glass plates were inserted, now has 3/4 the original intensity. It is further observed that what used to be the fifth maximum earlier lies below the point P while the sixth minima lies above P. Calculate the thickness of glass plate. (Absorption of light by glass plate may be neglected).",
+          "year": 1997
+        },
+        {
+          "id": 200,
+          "question_number": 38,
+          "type": "descriptive",
+          "question_text": "In Young's experiment, the source is red light of wavelength 7×10⁻⁷ m. When a thin glass plate of refractive index 1.5 at this wavelength is put in the path of one of the interfering beams, the central bright fringe shifts by 10⁻³ m to the position previously occupied by the 5th bright fringe. Find the thickness of the plate. When the source is now changed to green light of wavelength 5×10⁻⁷ m, the central fringe shifts to a position initially occupied by the 6th bright fringe due to red light. Find the refractive index of glass for green light. Also estimate the change in fringe width due to the change in wavelength.",
+          "year": 1997
+        },
+        {
+          "id": 201,
+          "question_number": 39,
+          "type": "descriptive",
+          "question_text": "A thin equiconvex lens of glass of refractive index μ = 3/2 and of focal length 0.3 m in air is sealed into an opening at one end of a tank filled with water μ = 4/3. On the opposite side of the lens, a mirror is placed inside the tank on the tank wall perpendicular to the lens axis, as shown in figure. The separation between the lens and the mirror is 0.8 m. A small object is placed outside the tank in front of lens. Find the position (relative to the lens) of the image of the object formed by the system.",
+          "image_present": true,
+          "year": 1997,
+          "images":["arihant_images_ch12/arihant_ch12_66.png"]
+        },
+        {
+          "id": 202,
+          "question_number": 40,
+          "type": "descriptive",
+          "question_text": "A prism of refractive index n₁ and another prism of refractive index n₂ are stuck together with a gap as shown in the figure. The angles of the prism are as shown. n₁ and n₂ depend on λ, the wavelength of light according to: n₁ = 1.20 + 10.8×10⁴/λ² and n₂ = 1.45 + 1.80×10⁴/λ² where λ is in nm. \n(a) Calculate the wavelength λ₀ for which rays incident at any angle on the interface BC pass through without bending at that interface. \n(b) For light of wavelength λ₀, find the angle of incidence i on the face AC such that the deviation produced by the combination of prisms is minimum.",
+          "image_present": true,
+          "year": 1998,
+          "images":["arihant_images_ch12/arihant_ch12_67.png"]
+        },
+        {
+          "id": 203,
+          "question_number": 41,
+          "type": "descriptive",
+          "question_text": "A coherent parallel beam of microwaves of wavelength λ = 0.5 mm falls on a Young's double slit apparatus. The separation between the slits is 1.0 mm. The intensity of microwaves is measured on a screen placed parallel to the plane of the slits at a distance of 1.0 m from it as shown in the figure. \n(a) If the incident beam falls normally on the double slit apparatus, find the y-coordinates of all the interference minima on the screen. \n(b) If the incident beam makes an angle of 30° with the x-axis (as in the dotted arrow shown in figure), find the y-coordinates of the first minima on either side of the central maximum.",
+          "image_present": true,
+          "year": 1998,
+          "images":["arihant_images_ch12/arihant_ch12_68.png"]
+        },
+        {
+          "id": 204,
+          "question_number": 42,
+          "type": "descriptive",
+          "question_text": "The x-y plane is the boundary between two transparent media. Medium-1 with z ≥ 0 has a refractive index √2 and medium-2 with z ≤ 0 has a refractive index √3. A ray of light in medium-1 given by vector A = 6√3i + 8√3j - 10k is incident on the plane of separation. Find the unit vector in the direction of the refracted ray in medium-2.",
+          "year": 1999
+        },
+        {
+          "id": 205,
+          "question_number": 43,
+          "type": "descriptive",
+          "question_text": "The Young's double slit experiment is done in a medium of refractive index 4/3. A light of 600 nm wavelength is falling on the slits having 0.45 mm separation. The lower slit S₂ is covered by a thin glass sheet of thickness 10.4 µm and refractive index 1.5. The interference pattern is observed on a screen placed 1.5 m from the slits as shown in the figure. \n(a) Find the location of central maximum (bright fringe with zero path difference) on the y-axis. \n(b) Find the light intensity of point O relative to the maximum fringe intensity. \n(c) Now, if 600 nm light is replaced by white light of range 400 to 700 nm, find the wavelengths of the light that form maxima exactly at point O. (All wavelengths in the problem are for the given medium of refractive index 4/3. Ignore dispersion)",
+          "image_present": true,
+          "year": 1999,
+          "images":["arihant_images_ch12/arihant_ch12_69.png"]
+        },
+        {
+          "id": 206,
+          "question_number": 44,
+          "type": "descriptive",
+          "question_text": "A glass plate of refractive index 1.5 is coated with a thin layer of thickness t and refractive index 1.8. Light of wavelength λ travelling in air is incident normally on the layer. It is partly reflected at the upper and the lower surfaces of the layer and the two reflected rays interfere. Write the condition for their constructive interference. If λ = 648 nm, obtain the least value of t for which the rays interfere constructively.",
+          "year": 2000
+        },
+        {
+          "id": 207,
+          "question_number": 45,
+          "type": "descriptive",
+          "question_text": "A convex lens of focal length 15 cm and a concave mirror of focal length 30 cm are kept with their optic axis PQ and RS parallel but separated in vertical direction by 0.6 cm as shown. The distance between the lens and mirror is 30 cm. An upright object AB of height 1.2 cm is placed on the optic axis PQ of the lens at a distance of 20 cm from the lens. If A'B' is the image after refraction from the lens and the reflection from the mirror, find the distance of A'B' from the pole of the mirror and obtain its magnification. Also locate positions of A' and B' with respect to the optic axis RS.",
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch12/arihant_ch12_70.png"]
+        },
+        {
+          "id": 208,
+          "question_number": 46,
+          "type": "descriptive",
+          "question_text": "The refractive indices of the crown glass for blue and red light are 1.51 and 1.49 respectively and those of the flint glass are 1.77 and 1.73 respectively. An isosceles prism of angle 6° is made of crown glass. A beam of white light is incident at a small angle on this prism. The other flint glass isosceles prism is combined with the crown glass prism such that there is no deviation of the incident light. \n(a) Determine the angle of the flint glass prism. \n(b) Calculate the net dispersion of the combined system.",
+          "year": 2001
+        },
+        {
+          "id": 209,
+          "question_number": 47,
+          "type": "descriptive",
+          "question_text": "A thin biconvex lens of refractive index 3/2 is placed on a horizontal plane mirror as shown in the figure. The space between the lens and the mirror is then filled with water of refractive index 4/3. It is found that when a point object is placed 15 cm above the lens on its principal axis, the object coincides with its own image. On repeating with another liquid, the object and the image again coincide at a distance 25 cm from the lens. Calculate the refractive index of the liquid.",
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch12/arihant_ch12_71.png"]
+        },
+        {
+          "id": 210,
+          "question_number": 48,
+          "type": "descriptive",
+          "question_text": "A vessel ABCD of 10 cm width has two small slits S₁ and S₂ sealed with identical glass plates of equal thickness. The distance between the slits is 0.8 mm. POQ is the line perpendicular to the plane AB and passing through O, the middle point of S₁ and S₂. A monochromatic light source is kept at S, 40 cm below P and 2 m from the vessel, to illuminate the slits as shown in the figure alongside. Calculate the position of the central bright fringe on the other wall CD with respect to the line OQ. Now, a liquid is poured into the vessel and filled upto OQ. The central bright fringe is found to be at Q. Calculate the refractive index of the liquid.",
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch12/arihant_ch12_72.png"]
+        },
+        {
+          "id": 211,
+          "question_number": 49,
+          "type": "descriptive",
+          "question_text": "A point source S emitting light of wavelength 600 nm is placed at a very small height h above a flat reflecting surface AB (see figure). The intensity of the reflected light is 36% of the incident intensity. Interference fringes are observed on a screen placed parallel to the reflecting surface at a very large distance D from it. \n(a) What is the shape of the interference fringes on the screen? \n(b) Calculate the ratio of the minimum to the maximum intensities in the interference fringes formed near the point P (shown in the figure). \n(c) If the intensity at point P corresponds to a maximum, calculate the minimum distance through which the reflecting surface AB should be shifted so that the intensity at P again becomes maximum.",
+          "image_present": true,
+          "year": 2002,
+          "images":["arihant_images_ch12/arihant_ch12_73.png"]
+        },
+        {
+          "id": 212,
+          "question_number": 50,
+          "type": "descriptive",
+          "question_text": "A prism of refracting angle 30° is coated with a thin film of transparent material of refractive index 2.2 on face AC of the prism. A light of wavelength 6600 Å is incident on face AB such that angle of incidence is 60°. Find \n(a) the angle of emergence and \n(b) the minimum value of thickness of the coated film on the face AC for which the light emerging from the face has maximum intensity. (Given refractive index of the material of the prism is √3)",
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch12/arihant_ch12_74.png"]
+        },
+        {
+          "id": 213,
+          "question_number": 51,
+          "type": "descriptive",
+          "question_text": "In the figure, light is incident on a thin lens as shown. The radius of curvature for both the surfaces is R. Determine the focal length of this system.",
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch12/arihant_ch12_75.png"]
+        },
+        {
+          "id": 214,
+          "question_number": 52,
+          "type": "descriptive",
+          "question_text": "An object is approaching a thin convex lens of focal length 0.3 m with a speed of 0.01 m/s. Find the magnitudes of the rates of change of position and lateral magnification of image when the object is at a distance of 0.4 m from the lens.",
+          "year": 2004
+        },
+        {
+          "id": 215,
+          "question_number": 53,
+          "type": "descriptive",
+          "question_text": "Figure shows an irregular block of material of refractive index √2. A ray of light strikes the face AB as shown in the figure. After refraction it is incident on a spherical surface CD of radius of curvature 0.4 m and enters a medium of refractive index 1.514 to meet PQ at E. Find the distance OE upto two places of decimal.",
+          "image_present": true,
+          "year": 2004,
+          "images":["arihant_images_ch12/arihant_ch12_76.png"]
+        },
+        {
+          "id": 216,
+          "question_number": 54,
+          "type": "descriptive",
+          "question_text": "AB and CD are two slabs. The medium between the slabs has refractive index 2. Find the minimum angle of incidence at Q, so that the ray is totally reflected by both the slabs.",
+          "image_present": true,
+          "year": 2005,
+          "images":["arihant_images_ch12/arihant_ch12_77.png"]
+        },
+        {
+          "id": 217,
+          "question_number": 55,
+          "type": "descriptive",
+          "question_text": "A ray of light is incident on a prism ABC of refractive index √3 as shown in figure. \n(a) Find the angle of incidence for which the deviation of light ray by the prism ABC is minimum. \n(b) By what angle the second identical prism must be rotated, so that the final ray suffers net minimum deviation.",
+          "image_present": true,
+          "year": 2005,
+          "images":["arihant_images_ch12/arihant_ch12_78.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 218,
+          "question_number": 1,
+          "type": "multiple_choice",
+          "question_text": "A biconvex lens of focal length f forms a circular image of radius r of sun in focal plane. Then which option is correct?",
+          "options": [
+            "πr² ∝ f",
+            "πr² ∝ f²",
+            "If lower half part is covered by black sheet, then area of the image is equal to πr²/2",
+            "If f is doubled, intensity will increase"
+          ],
+          "year": 2006
+        },
+        {
+          "id": 219,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "In an experiment to determine the focal length (f) of a concave mirror by the u-v method, a student places the object pin A on the principal axis at a distance x from the pole P. The student looks at the pin and its inverted image from a distance keeping his/her eye in line with PA. When the student shifts his/her eye towards left, the image appears to the right of the object pin. Then",
+          "options": [
+            "x < f",
+            "f < x < 2f",
+            "x = 2f",
+            "x > 2f"
+          ],
+          "year": 2007
+        },
+        {
+          "id": 220,
+          "question_number": 3,
+          "type": "multiple_choice",
+          "question_text": "A light ray travelling in glass medium is incident on glass-air interface at an angle of incidence θ. The reflected (R) and transmitted (T) intensities, both as function of θ, are plotted. The correct sketch is",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2011
+        },
+        {
+          "id": 221,
+          "question_number": 4,
+          "type": "multiple_choice",
+          "question_text": "Diameter of a plano-convex lens is 6 cm and thickness at the centre is 3 mm. If speed of light in material of lens is 2 × 10⁸ m/s, the focal length of the lens is",
+          "options": [
+            "15 cm",
+            "20 cm",
+            "30 cm",
+            "10 cm"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 222,
+          "question_number": 5,
+          "type": "multiple_choice",
+          "question_text": "On a hot summer night, the refractive index of air is smallest near the ground and increases with height from the ground. When a light beam is directed horizontally, the Huygens principle leads us to conclude that as it travels, the light beam",
+          "options": [
+            "becomes narrower",
+            "goes horizontally without any deflection",
+            "bends upwards",
+            "bends downwards"
+          ],
+          "year": 2015
+        },
+        {
+          "id": 223,
+          "question_number": 6,
+          "type": "multiple_choice",
+          "question_text": "An object is at a distance of 20 m from a convex lens of focal length 0.3 m. The lens forms an image of the object. If the object moves away from the lens at a speed of 5 m/s, the speed and direction of the image will be",
+          "options": [
+            "3.22 × 10⁻³ m/s towards the lens",
+            "0.92 × 10⁻³ m/s away from the lens",
+            "2.26 × 10⁻³ m/s away from the lens",
+            "1.16 × 10⁻³ m/s towards the lens"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 224,
+          "question_number": 7,
+          "type": "multiple_choice",
+          "question_text": "The box of a pin hole camera of length L, has a hole of radius a. It is assumed that when the hole is illuminated by a parallel beam of light of wavelength λ the spread of the spot (obtained on the opposite wall of the camera) is the sum of its geometrical spread and the spread due to diffraction. The spot would then have its minimum size (say b_min) when",
+          "options": [
+            "a = λ²/L and b_min = √(2λ²²/L)",
+            "a = √λL and b_min = √(2λL)",
+            "a = √λL and b_min = √4λL",
+            "a = λ²/L and b_min = √4λL"
+          ],
+          "year": 2016
+        },
+        {
+          "id": 225,
+          "question_number": 8,
+          "type": "multiple_choice",
+          "question_text": "The variation of refractive index of a crown glass thin prism with wavelength of the incident light is shown. Which of the following graphs is the correct one, if D_m is the angle of minimum deviation ?",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2019
+        },
+        {
+          "id": 226,
+          "question_number": 9,
+          "type": "multiple_choice",
+          "question_text": "An observer looks at a distant tree of height 10 m with a telescope of magnifying power of 20. To observer the tree appears",
+          "options": [
+            "10 times taller",
+            "10 times nearer",
+            "20 times taller",
+            "20 times nearer"
+          ],
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 227,
+          "question_number": 10,
+          "type": "multiple_select",
+          "question_text": "While conducting the Young's double slit experiment, a student replaced the two slits with a large opaque plate in the x-y plane containing two small holes that act as two coherent point sources (S₁, S₂) emitting light of wavelength 600 nm. The student mistakenly placed the screen parallel to the x-z plane (for z > 0) at a distance D = 3m from the mid-point of S₁S₂, as shown schematically in the figure. The distance between the source d = 0.6003 mm. The origin O is at the intersection of the screen and the line joining S₁S₂. Which of the following is (are) true of the intensity pattern on the screen?",
+          "options": [
+            "Semi circular bright and dark bands centered at point O",
+            "The region very close to the point O will be dark",
+            "Straight bright and dark bands parallel to the X-axis",
+            "Hyperbolic bright and dark bands with foci symmetrically placed about O in the x-direction"
+          ],
+          "image_present": true,
+          "year": 2016
+        }
+      ]
+    }
+  ]
+}

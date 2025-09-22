@@ -1,0 +1,270 @@
+[
+  {
+    "problem": "5.1",
+    "images":["images/arihant_ch16_47.png"],
+    "Questions": "Find the torque about axis A in Fig. 5-2 due to each of the forces shown.",
+    "answer": {
+      "torque_10N": "-8.0 N·m",
+      "torque_25N": "+8.5 N·m",
+      "torque_20N": "0 N·m"
+    }
+  },
+  {
+    "problem": "5.2",
+    "images":["images/arihant_ch16_48.png"],
+    "Questions": "A uniform beam of length L weighs 200 N and holds a 450-N object as shown in Fig. 5-3. Find the magnitudes of the forces exerted on the beam by the two supports at its ends. Assume the lengths are exact.",
+    "answer": {
+      "F1": "212 N",
+      "F2": "438 N"
+    }
+  },
+  {
+    "problem": "5.3",
+    "images":["images/arihant_ch16_49.png"],
+    "Questions": "A uniform, 100-N pipe is used as a lever, as shown in Fig. 5-4. Where must the fulcrum (the support point) be placed if a 500-N weight at one end is to balance a 200-N weight at the other end? What is the reaction force exerted by the support on the pipe?",
+    "answer": {
+      "x": "0.69L",
+      "F_R": "800 N"
+    }
+  },
+  {
+    "problem": "5.4",
+    "images":["images/arihant_ch16_50.png"],
+    "Questions": "Where must a 0.80-kN object be hung on a uniform, horizontal, rigid 100-N pole so that a girl pushing up at one end supports one-third as much as a woman pushing up at the other end?",
+    "answer": {
+      "x": "0.22L",
+      "F": "225 N"
+    }
+  },
+  {
+    "problem": "5.5",
+    "images":["images/arihant_ch16_51.png"],
+    "Questions": "A uniform, 0.20-kN board of length L has two objects hanging from it: 300 N at exactly L/3 from one end, and 400 N at exactly 3L/4 from the same end. What single additional force acting on the board will cause the board to be in equilibrium?",
+    "answer": {
+      "F": "900 N",
+      "x": "0.56L from the left end"
+    }
+  },
+  {
+    "problem": "5.6",
+    "images":["images/arihant_ch16_52.png"],
+    "Questions": "The right-angle rule (or square) shown in Fig. 5-7 hangs at rest from a peg as shown. It is made of a uniform metal sheet. One arm is L cm long, while the other is 2L cm long. Find (to two significant figures) the angle θ at which it will hang.",
+    "answer": {
+      "theta": "14°"
+    }
+  },
+  {
+    "problem": "5.7",
+    "images":["images/arihant_ch16_53.png"],
+    "Questions": "Consider the situation shown in Fig. 5-8(a). The uniform 0.60-kN beam is hinged at P. Find the tension in the tie rope and the components of the reaction force exerted by the hinge on the beam.",
+    "answer": {
+      "FT": "2.3 kN",
+      "FRH": "1.8 kN",
+      "FRV": "66 N"
+    }
+  },
+  {
+    "problem": "5.8",
+    "images":["images/arihant_ch16_54.png"],
+    "Questions": "A uniform, 0.40-kN boom is supported as shown in Fig. 5-9(a). Find the tension in the tie rope and the force exerted on the boom by the pin at P.",
+    "answer": {
+      "FT": "2.5 kN",
+      "FRH": "2.5 kN",
+      "FRV": "2.4 kN",
+      "FR": "3.4 kN",
+      "theta": "44°"
+    }
+  },
+  {
+    "problem": "5.9",
+    "images":["images/arihant_ch16_55.png"],
+    "Questions": "As shown in Fig. 5-10, hinges A and B hold a uniform, 400-N door in place. If the upper hinge happens to support the entire weight of the door, find the forces exerted on the door at both hinges. The width of the door is exactly h/2, where h is the distance between the hinges.",
+    "answer": {
+      "F": "100 N",
+      "FRH": "100 N",
+      "FRV": "400 N",
+      "FR": "412 N",
+      "theta": "76.0°"
+    }
+  },
+  {
+    "problem": "5.10",
+    "images":["images/arihant_ch16_56.png"],
+    "Questions": "A ladder leans against a smooth wall, as shown in Fig. 5-11. (a) How large a friction force must exist at the base of the ladder if it is not to slip? (b) What is the necessary coefficient of static friction?",
+    "answer": {
+      "Ff": "67 N",
+      "FN1": "0.20 kN",
+      "FN2": "67.1 N",
+      "mu_s": "0.34"
+    }
+  },
+  {
+    "problem": "5.11",
+    "images":["images/arihant_ch16_57.png"],
+    "Questions": "For the situation shown in Fig. 5-12(a), find FT1, FT2, and FT3. The boom is uniform and weighs 800 N.",
+    "answer": {
+      "FT1": "2.38 kN",
+      "FT2": "3.11 kN",
+      "FT3": "9.84 kN"
+    }
+  },
+  {
+    "problem": "5.12",
+    "images":["images/arihant_ch16_58.png"],
+    "Questions": "As shown in Fig. 5-13, two people sit in a car that weighs 8000 N. The person in front weighs 700 N, while the one in the back weighs 900 N. The car’s center of gravity is a distance 0.400L behind the front wheels. How much force does each front wheel and each back wheel support if the people are seated along the centerline of the car?",
+    "answer": {
+      "front_wheels": "2.09 kN",
+      "back_wheels": "2.71 kN"
+    }
+  },
+  {
+    "problem": "5.13",
+    "Questions": "Two people, at the ends of a uniform beam that weighs 400 N, hold the beam at an angle of 25.0° to the horizontal. How large a vertical force must each person furnish to the beam?",
+    "answer": {
+      "each_force": "200 N"
+    }
+  },
+  {
+    "problem": "5.14",
+    "images":["images/arihant_ch16_59.png"],
+    "Questions": "Repeat Problem 5.13 if a 140-N child sits on the beam at a point one-fourth of the way along the beam from its lower end.",
+    "answer": {
+      "lower_end_force": "235 N",
+      "upper_end_force": "305 N"
+    }
+  },
+  {
+    "problem": "5.15",
+    "images":["images/arihant_ch16_60.png"],
+    "Questions": "As shown in Fig. 5-14, the uniform, 1600-N beam is hinged at one end and held by a tie rope at the other. Determine the tension FT in the rope and the force components at the hinge.",
+    "answer": {
+      "FT": "0.67 kN",
+      "FRH": "0.67 kN",
+      "FRV": "1.6 kN"
+    }
+  },
+  {
+    "problem": "5.16",
+    "Questions": "The uniform beam shown in Fig. 5-15 weighs 500 N and supports a 700-N load. Find the tension in the tie rope and the force of the hinge on the beam.",
+    "answer": {
+      "FT": "2.9 kN",
+      "FR": "2.0 kN at 35° below the horizontal"
+    }
+  },
+  {
+    "problem": "5.17",
+    "images":["images/arihant_ch16_61.png"],
+    "Questions": "The arm shown in Fig. 5-16 supports a 4.0-kg sphere. The mass of the hand and forearm together is 3.0 kg and its weight acts at a point 15 cm from the elbow. Determine the force exerted by the biceps muscle.",
+    "answer": {
+      "Fbiceps": "0.13 kN"
+    }
+  },
+  {
+    "problem": "5.18",
+    "images":["images/arihant_ch16_62.png"],
+    "Questions": "The mobile shown in Fig. 5-17 hangs at equilibrium. It consists of objects held by vertical strings. Object 3 weighs 1.40 N, while each of the identical uniform horizontal bars weighs 0.50 N. Find (a) the weights of objects 1 and 2, and (b) the tension in the upper string.",
+    "answer": {
+      "object_1": "1.5 N",
+      "object_2": "1.4 N",
+      "tension_upper_string": "5.3 N"
+    }
+  },
+  {
+    "problem": "5.19",
+    "Questions": "The hinges of a uniform door weighing 200 N are 2.5 m apart. One hinge is a distance d from the top of the door, while the other is a distance d from the bottom. The door is 1.0 m wide. The weight of the door is supported by the lower hinge. Determine the forces exerted by the hinges on the door.",
+    "answer": {
+      "F_upper_horizontal": "40 N",
+      "F_lower": "0.20 kN at 79° above horizontal"
+    }
+  },
+  {
+    "problem": "5.20",
+    "images":["images/arihant_ch16_63.png"],
+    "Questions": "The uniform bar shown in Fig. 5-18 weighs 40 N and is subjected to the forces shown. Find the magnitude, location, and direction of the force needed to keep the bar in equilibrium.",
+    "answer": {
+      "magnitude": "0.11 kN",
+      "location": "0.68L from right end",
+      "angle": "49°"
+    }
+  },
+  {
+    "problem": "5.21",
+    "images":["images/arihant_ch16_64.png"],
+    "Questions": "The uniform, 120-N board shown in Fig. 5-19 is supported by two ropes as shown. A 0.40-kN weight is suspended one-quarter of the way from the left end. Find FT1, FT2, and the angle θ made by the left rope.",
+    "answer": {
+      "FT1": "0.19 kN",
+      "FT2": "0.37 kN",
+      "theta": "14°"
+    }
+  },
+  {
+    "problem": "5.22",
+    "images":["images/arihant_ch16_65.png"],
+    "Questions": "The foot of a ladder rests against a wall and its top is held by a tie rope, as shown in Fig. 5-20. The ladder weighs 100 N and its center of gravity is 0.40 of its length from the foot. A 150-N child hangs from a rung that is 0.20 of the length from the top. Determine the tension in the tie rope and the components of the force on the foot of the ladder.",
+    "answer": {
+      "FT": "0.12 kN",
+      "FRH": "0.12 kN",
+      "FRV": "0.25 kN"
+    }
+  },
+  {
+    "problem": "5.23",
+    "images":["images/arihant_ch16_66.png"],
+    "Questions": "A truss is made by hinging two uniform, 150-N rafters as shown in Fig. 5-21. They rest on an essentially frictionless floor and are held together by a tie rope. A 500-N load is held at their apex. Find the tension in the tie rope.",
+    "answer": {
+      "FT": "0.28 kN"
+    }
+  },
+  {
+    "problem": "5.24",
+    "images":["images/arihant_ch16_67.png"],
+    "Questions": "A 900-N lawn roller is to be pulled over a 5.0-cm high curb as shown in Fig. 5-22. The radius of the roller is 25 cm. What minimum pulling force is needed if the angle θ made by the handle is (a) 0° and (b) 30°?",
+    "answer": {
+      "theta_0": "0.68 kN",
+      "theta_30": "0.55 kN"
+    }
+  },
+  {
+    "problem": "5.25",
+    "images":["images/arihant_ch16_68.png"],
+    "Questions": "In Fig. 5-23, the uniform beam weighs 500 N. If the tie rope can support 1800 N, what is the maximum value the load FW can have?",
+    "answer": {
+      "FW_max": "0.93 kN"
+    }
+  },
+  {
+    "problem": "5.26",
+    "images":["images/arihant_ch16_69.png"],
+    "Questions": "The beam in Fig. 5-24 has negligible weight. If the system hangs in equilibrium when FW1 = 500 N, what is the value of FW2?",
+    "answer": {
+      "FW2": "0.64 kN"
+    }
+  },
+  {
+    "problem": "5.27",
+    "Questions": "Repeat Problem 5.26, but now find FW1 if FW2 is 500 N. The beam weighs 300 N and is uniform.",
+    "answer": {
+      "FW1": "0.56 kN"
+    }
+  },
+  {
+    "problem": "5.28",
+    "images":["images/arihant_ch16_70.png"],
+    "Questions": "An object is subjected to the forces shown in Fig. 5-25. What single force F applied at a point on the x-axis will balance these forces? (First find its components, and then find the force.) Where on the x-axis should the force be applied?",
+    "answer": {
+      "Fx": "232 N",
+      "Fy": "-338 N",
+      "F": "410 N",
+      "theta": "-55.5°",
+      "x": "2.14 m"
+    }
+  },
+  {
+    "problem": "5.29",
+    "images":["images/arihant_ch16_71.png"],
+    "Questions": "The solid uniform disk of radius b shown in Fig. 5-26 can turn freely on an axle through its center. A hole of diameter D is drilled through the disk; its center is a distance r from the axle. The weight of the material drilled out is FWH. Find the weight FW of an object hung from a string wound on the disk that will hold the disk at equilibrium in the position shown.",
+    "answer": {
+      "FW": "FWH × (r/b) × cos(θ)"
+    }
+  }
+]

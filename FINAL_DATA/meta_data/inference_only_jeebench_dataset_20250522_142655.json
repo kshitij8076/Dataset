@@ -1,0 +1,3233 @@
+[
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 15,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 16,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 17,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 18,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 51,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 52,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 53,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 54,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Complex Analysis",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Waves",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Complex Numbers",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Atomic Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Vector Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 16,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Complex Numbers",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 51,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 52,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 53,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 54,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 16,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 17,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 18,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 51,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 52,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 53,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 54,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 15,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 16,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 18,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 51,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 52,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 53,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 54,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Atomic Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 17,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Complex Numbers",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 51,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 52,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Complex Numbers",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 53,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 54,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 51,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 15,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 16,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 17,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 18,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 19,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 20,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 23,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 25,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 26,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 32,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 35,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 15,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 16,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 17,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 18,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 19,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 20,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 22,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 25,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 29,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 30,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 34,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 35,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Complex Numbers",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 15,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Statistics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 16,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 17,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 21,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 23,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 24,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 25,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Atomic Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 27,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 28,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 29,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 31,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 32,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 33,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 1,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 15,
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 19,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 20,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 21,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 24,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 27,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 29,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  }
+]

@@ -1,0 +1,8138 @@
+[
+  {
+    "id": "OE_MM_maths_en_COMP_2231",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2237",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2240",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2245",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2246",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2250",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2252",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2264",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2267",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2269",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2273",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2278",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2279",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2284",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2285",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2290",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2295",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2297",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2299",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2302",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2307",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2308",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2309",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2310",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2311",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2314",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2316",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2324",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2335",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2337",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2347",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2353",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2354",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2357",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2358",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2360",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2362",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2368",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2373",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2374",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2378",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2385",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2386",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2387",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2389",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2393",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2394",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2395",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2396",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2399",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2400",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2404",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2405",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2406",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2412",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2413",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2417",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2418",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2424",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2428",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2429",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2436",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2437",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2446",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2447",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2455",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2456",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2457",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2465",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2468",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2470",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2471",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2480",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2483",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2484",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2485",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2491",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2495",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2503",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2505",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2511",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2512",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2514",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2515",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2517",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2518",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2519",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2530",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2533",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2535",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2537",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2540",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2541",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2543",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2546",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2550",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2566",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2567",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2573",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2579",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2581",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2585",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2591",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2593",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2594",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2595",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2605",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2716",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2719",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2743",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2769",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2774",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2779",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2806",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2810",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2820",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2826",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2833",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2837",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2868",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2869",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2870",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2871",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2872",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2875",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2876",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2879",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2882",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2886",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2889",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2906",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2923",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2929",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2930",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2932",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2933",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2940",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2959",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_2965",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3050",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3051",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3058",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3060",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3062",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3065",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3066",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3068",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3070",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3071",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_maths_en_COMP_3093",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_800",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_801",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_804",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_805",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_809",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_815",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_818",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_820",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_822",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_824",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_825",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_827",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_829",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_830",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_831",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_832",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_833",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_834",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_838",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_839",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_841",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_843",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_845",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_846",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_848",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_850",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_852",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_854",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_855",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_857",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_858",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_859",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_862",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_864",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_867",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_874",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_875",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_879",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_880",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_882",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_886",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_887",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_889",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_892",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_895",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_896",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_904",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_906",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_913",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_914",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_916",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_920",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_921",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_924",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_925",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_927",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_930",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_931",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_932",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_933",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_934",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_935",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_937",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_951",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_952",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_953",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_958",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_959",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_962",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_990",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_991",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_993",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_995",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_996",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1000",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "X-ray Diffraction/Crystallography",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1001",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1005",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1007",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1008",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1009",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1010",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1011",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1020",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1021",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1022",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1023",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1024",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Atomic Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1027",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1028",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1029",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1030",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1031",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1032",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1033",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1034",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Waves",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1035",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Waves",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1036",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Waves",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1037",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1038",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1039",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1040",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1041",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1042",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1043",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1044",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1046",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1048",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1049",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1056",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1059",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1074",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1075",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1076",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1077",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1078",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1079",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1080",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1081",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1082",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1083",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1084",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1085",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1086",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1087",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1088",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1089",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1090",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1091",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1092",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1093",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1094",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1095",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1096",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1100",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1102",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1103",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1104",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1105",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1106",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1107",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1108",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1109",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1110",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1111",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1112",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1113",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1114",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1119",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1120",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Plasma Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1121",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Plasma Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1122",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1123",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1124",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1125",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1126",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1128",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1129",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1131",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1132",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1133",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1134",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1135",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1136",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1137",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1138",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1139",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1140",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1141",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1143",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1144",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1145",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1146",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1147",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1148",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1149",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1150",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1151",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1152",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1154",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1155",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1158",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1160",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1164",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1165",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1166",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1167",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1168",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1169",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1170",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1171",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1172",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1179",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1180",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1181",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1182",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1183",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1184",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1185",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1189",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1190",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1191",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1193",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1194",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1195",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1196",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1197",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1198",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1199",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1200",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1201",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1202",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1203",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1204",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1206",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1209",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1210",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1211",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1218",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1219",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1220",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1226",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1227",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1228",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1229",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1230",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1231",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1232",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1233",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1234",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1235",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1237",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1238",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1239",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1240",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1241",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1242",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1243",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1244",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1245",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1246",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1247",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1248",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1250",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1251",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1252",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1253",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1254",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1255",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1256",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1257",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1258",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1259",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1260",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1261",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1262",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1263",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1264",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1265",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1266",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1267",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1268",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1269",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1270",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1271",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1272",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1273",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1274",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1275",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1276",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1277",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1278",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1279",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1280",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1281",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1282",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1283",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1284",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1285",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1286",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1287",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1289",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1290",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1291",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1292",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1293",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1294",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1295",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1296",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1297",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1298",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1299",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1300",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1301",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1302",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1303",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1304",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1305",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1306",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1307",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1308",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1309",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1310",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1311",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1312",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1314",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1315",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1316",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1317",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1318",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1319",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1320",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1322",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1326",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1327",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1328",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1329",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1330",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1331",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1332",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1333",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1334",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1335",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1336",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1337",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1351",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1352",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1353",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Atmospheric Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1361",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "General Relativity",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1369",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1370",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1371",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1372",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1373",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1374",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1375",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1377",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1378",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1379",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Biophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1380",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Biophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1381",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Biophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1387",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1388",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1389",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1390",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1391",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1392",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1398",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1399",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1405",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1406",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1407",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1408",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1409",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1410",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1411",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1412",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1414",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1415",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1422",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1424",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1425",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1426",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1433",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1439",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1440",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1444",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1445",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1446",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1448",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1449",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1450",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1451",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1452",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1453",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1454",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1455",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1456",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1457",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1467",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1468",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1469",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1470",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1471",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1472",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1473",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1474",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1479",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1480",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1481",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1495",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1496",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1497",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1498",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1499",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1500",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1501",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1503",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1504",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1505",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1508",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1509",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1510",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1511",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1513",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1515",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1516",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1517",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1518",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1519",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1520",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1521",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1522",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1523",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1525",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1526",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1528",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1529",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1530",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1533",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1535",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Magnetism and Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1537",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1538",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1539",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1540",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1541",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1542",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1543",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1544",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1545",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1549",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1550",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1551",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1552",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1553",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Atmospheric Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1556",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1557",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1558",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1559",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1560",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1561",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1563",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1564",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1567",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1568",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1569",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1570",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1571",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1580",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1582",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1583",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1584",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1585",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1586",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1587",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1588",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_MM_physics_en_COMP_1590",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_802",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_803",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_806",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_807",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_808",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_810",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_811",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_812",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_813",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_814",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_816",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_817",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_819",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_821",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_823",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_826",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_828",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_835",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_836",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_837",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_840",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_842",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_844",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_847",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_849",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_851",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_853",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_856",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_860",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_861",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_863",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_865",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_866",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_868",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_869",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_870",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_871",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_872",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_873",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_876",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_877",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_878",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_881",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_883",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_884",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_885",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_888",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_890",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_891",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_893",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_894",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_897",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_898",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_899",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_900",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_901",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_902",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_903",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_905",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_907",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_908",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_909",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_910",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_911",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_912",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_915",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_917",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_918",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_919",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_922",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_923",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_926",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_928",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_929",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_936",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_939",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_940",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_941",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_942",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_944",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_947",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_949",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_954",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_955",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_956",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_957",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_972",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_973",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_974",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_982",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_984",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_985",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_986",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_987",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_988",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_989",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1006",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1012",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1013",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1014",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1015",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1016",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1017",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1018",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1050",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1051",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1052",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1053",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1054",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1060",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1061",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1062",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1063",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1064",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1065",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1066",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1067",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1068",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1069",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1070",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1071",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1072",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1073",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1097",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1098",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1099",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1101",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1115",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Plasma Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1116",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Plasma Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1117",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Plasma Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1118",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Plasma Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1163",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1173",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1174",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1175",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1176",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1177",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1178",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1213",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1214",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1215",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1216",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1217",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1223",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Atomic Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1224",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Atomic Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1225",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Atomic Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1321",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1324",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1325",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1338",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1339",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1340",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1341",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1342",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1343",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1344",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1345",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1346",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1348",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1349",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1350",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1354",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1355",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1356",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1358",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1359",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "General Relativity",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1360",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1363",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1364",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1365",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1366",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1367",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1368",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1382",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1383",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1384",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1386",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1393",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1394",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1395",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1396",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1400",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1401",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1402",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1416",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1417",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1418",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1419",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1420",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1421",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1427",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1428",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1429",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1430",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1431",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1432",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1434",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1435",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1436",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1437",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1438",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1441",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1442",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1443",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1458",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1460",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1461",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1462",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1464",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1465",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1466",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1475",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1476",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1477",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1478",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1482",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1486",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1488",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Radiation",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1489",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Radiation",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1491",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1492",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Radiation",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1493",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Radiation",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1494",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Radiation",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1502",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1565",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1566",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1572",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1573",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1574",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1576",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1577",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1592",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1594",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1596",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1597",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "OE_TO_physics_en_COMP_1599",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_1735",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_1975",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2039",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2184",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2227",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2270",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2274",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Number Theory",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2348",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2363",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2364",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2367",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2398",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2448",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2449",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2462",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2474",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2488",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2499",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2516",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2526",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2538",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2542",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2547",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2561",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2562",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2563",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Number Theory",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2803",
+    "inference": {
+      "subject": "EXT",
+      "type": "Open Ended",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2804",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2805",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2807",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2809",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2811",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2812",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2813",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Graph Theory",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2814",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2815",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2816",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2873",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2874",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Discrete Mathematics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2877",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2878",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2881",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2883",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2928",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2934",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2935",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2936",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Algebra",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2937",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2938",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2939",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2941",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2942",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2943",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2944",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2945",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_2946",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Geometry",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_3052",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_3054",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_3055",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_3056",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Combinatorics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_3059",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "TP_MM_maths_en_COMP_3072",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Open Ended",
+      "subfield": "EXT",
+      "difficulty": "Level 5"
+    }
+  }
+]

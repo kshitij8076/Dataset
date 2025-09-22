@@ -1,0 +1,253 @@
+[
+    {
+        "question_number": 11.1,
+        "images":["images/arihant_ch16_111.png"],
+        "Questions": "For the motion shown in Fig. 11-3, what are the amplitude, period, and frequency?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The amplitude is the maximum displacement from the equilibrium position and so is 0.75 cm. The period is 0.20 s. The frequency is 5.0 Hz."
+    },
+    {
+        "question_number": 11.2,
+        "Questions": "A spring makes 12 vibrations in 40 s. Find the period and frequency of the vibration.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The period is 3.3 s, and the frequency is 0.30 Hz."
+    },
+    {
+        "question_number": 11.3,
+        "Questions": "When a 400-g mass is hung at the end of a vertical spring, the spring stretches 35 cm. What is the spring constant of the spring, and how much further will it stretch if an additional 400-g mass is hung from it?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The spring constant k = 11 N/m, and the additional stretch will be 0.70 m."
+    },
+    {
+        "question_number": 11.4,
+        "Questions": "A 200-g mass vibrates horizontally without friction at the end of a horizontal spring for which k = 7.0 N/m. The mass is displaced 5.0 cm from equilibrium and released. Find (a) its maximum speed and (b) its speed when it is 3.0 cm from equilibrium. (c) What is its acceleration in each of these cases?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) The speed is maximum when x = 0, v_max = 0.30 m/s. (b) When x = 0.030 m, v = 0.24 m/s. (c) The acceleration is calculated using F = ma and F = kx."
+    },
+    {
+        "question_number": 11.5,
+        "Questions": "A 50-g mass vibrates in SHM at the end of a spring. The amplitude of the motion is 12 cm, and the period is 1.70 s. Find: (a) the frequency, (b) the spring constant, (c) the maximum speed of the mass, (d) the maximum acceleration of the mass, (e) the speed when the displacement is 6.0 cm, and (f) the acceleration when x = 6.0 cm.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) Frequency is 0.588 Hz. (b) Spring constant k = 0.68 N/m. (c) The maximum speed is 0.44 m/s. (d) Maximum acceleration is 1.6 m/s². (e) Speed when x = 0.060 m is 0.38 m/s. (f) Acceleration when x = 0.060 m is -0.82 m/s²."
+    },
+    {
+        "question_number": 11.6,
+        "Questions": "A 50-g mass hangs at the end of a Hookean spring. When 20 g more is added to the end of the spring, it stretches 7.0 cm more. (a) Find the spring constant. (b) If the 20 g is now removed, what will be the period of the motion?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) Spring constant k = 2.8 N/m. (b) Period is 0.84 s."
+    },
+    {
+        "question_number": 11.7,
+        "images":["images/arihant_ch16_112.png"],
+        "Questions": "As shown in Fig. 11-4, a long, light piece of spring steel is clamped at its lower end and a 2.0-kg ball is fastened to its top end. A horizontal force of 8.0 N is required to displace the ball 20 cm to one side as shown. Assume the system to undergo SHM when released. Find (a) the force constant of the spring and (b) the period with which the ball will vibrate back and forth.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) Spring constant k = 40 N/m. (b) Period T = 1.4 s."
+    },
+    {
+        "question_number": 11.8,
+        "Questions": "When a mass m is hung on a spring, the spring stretches 6.0 cm. Determine its period of vibration if it is then pulled down a little and released.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The period of vibration is 0.49 s."
+    },
+    {
+        "question_number": 11.9,
+        "images":["images/arihant_ch16_113.png"],
+        "Questions": "Two identical springs have k = 20 N/m. A 0.30-kg mass is connected to them as shown in Fig. 11-5(a) and (b). Find the period of motion for each system. Ignore friction forces.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) Period is 0.54 s. (b) Period is 0.54 s."
+    },
+    {
+        "question_number": 11.10,
+        "Questions": "In a certain engine, a piston undergoes vertical SHM with amplitude 7.0 cm. A washer rests on top of the piston. As the motor speed is slowly increased, at what frequency will the washer no longer stay in contact with the piston?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The critical period is 0.53 s, which corresponds to the frequency 1.9 Hz."
+    },
+    {
+        "question_number": 11.11,
+        "Questions": "A 20-kg electric motor is mounted on four vertical springs, each having a spring constant of 30 N/m. Find the period with which the motor vibrates vertically.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The period is 0.26 s."
+    },
+    {
+        "question_number": 11.12,
+        "images":["images/arihant_ch16_114.png"],
+        "Questions": "Mercury is poured into a glass U-tube. Normally, the mercury stands at equal heights in the two columns, but, when disturbed, it oscillates back and forth from arm to arm. (See Fig. 11-6.) One centimeter of the mercury column has a mass of 15.0 g. Suppose the column is displaced as shown and released, and it vibrates back and forth without friction. Compute (a) the effective spring constant of the motion and (b) its period of oscillation.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) The effective spring constant is k = 29.4 N/m. (b) The period of motion is T = 1.16 √(M/k) s."
+    },
+    {
+        "question_number": 11.13,
+        "Questions": "Compute the acceleration due to gravity at a place where a simple pendulum 150.3 cm long makes 100.0 cycles in 246.7 s.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "g = 9.749 m/s²."
+    },
+    {
+        "question_number": 11.14,
+        "images":["images/arihant_ch16_115.png"],
+        "Questions": "The 200-g mass shown in Fig. 11-7 is pushed to the left against the spring and compresses the spring 15 cm from its equilibrium position. The system is then released, and the mass shoots to the right. If friction can be ignored, how fast will the mass be moving as it shoots away? Assume the mass of the spring to be very small.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The velocity is 6.7 m/s as it passes through equilibrium."
+    },
+    {
+        "question_number": 11.15,
+        "Questions": "Suppose that, in Fig. 11-7, the 200-g mass initially moves to the left at a speed of 8.0 m/s. It strikes the spring and becomes attached to it. (a) How far does it compress the spring? (b) If the system then oscillates back and forth, what is the amplitude of the oscillation?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) The spring compresses 0.18 m. (b) The amplitude of oscillation is 0.18 m."
+    },
+    {
+        "question_number": 11.16,
+        "images":["images/arihant_ch16_116.png"],
+        "Questions": "In Fig. 11-8, the 2.0-kg mass is released when the spring is unstretched. Neglecting the inertia and friction of the pulley and the mass of the spring and string, find (a) the amplitude of the resulting oscillation and (b) its center of equilibrium point.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) The amplitude of oscillation is 0.13 m. (b) The center of equilibrium is 0.065 m below the highest point."
+    },
+    {
+        "question_number": 11.17,
+        "Questions": "A 3.0-g particle at the end of a spring moves according to the equation y = 0.75 sin 63t where y is in centimeters and t is in seconds. Find the amplitude and frequency of its motion, its position at t = 0.020 s, and the spring constant.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The amplitude is 0.75 cm, the frequency is 10 Hz, and the spring constant is 12 N/m."
+    },
+    {
+        "question_number": 11.18,
+        "Questions": "A pendulum is timed as it swings back and forth. The clock is started when the bob is at the left end of its swing. When the bob returns to the left end for the 90th return, the clock reads 60.0 s. What is the period of vibration? The frequency?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The period is 0.667 s, and the frequency is 1.50 Hz."
+    },
+    {
+        "question_number": 11.19,
+        "Questions": "A 200-g mass at the end of a Hookean spring vibrates up and down in such a way that it is 2.0 cm above the tabletop at its lowest point and 16 cm above at its highest point. Its period is 4.0 s. Determine (a) the amplitude of vibration, (b) the spring constant, (c) the speed and acceleration of the mass when it is 9 cm above the table top, (d) the speed and acceleration of the mass when it is 12 cm above the table top.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 7.0 cm; (b) 0.74 N/m; (c) 0.1 m/s; zero; (d) 0.099 m/s, 0.074 m/s²."
+    },
+    {
+        "question_number": 11.20,
+        "Questions": "A coiled Hookean spring is stretched 10 cm when a 1.5-kg mass is hung from it. Suppose a 4.0-kg mass hangs from the spring and is set into vibration with an amplitude of 12 cm. Find (a) the force constant of the spring, (b) the maximum restoring force acting on the vibrating body, (c) the period of vibration, (d) the maximum speed and the maximum acceleration of the vibrating object, and (e) the speed and acceleration when the displacement is 9 cm.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 0.15 kN/m; (b) 18 N; (c) 1.0 s; (d) 0.73 m/s, 4.4 m/s²; (e) 0.48 m/s, 3.3 m/s²."
+    },
+    {
+        "question_number": 11.21,
+        "Questions": "A 2.5-kg mass undergoes SHM and makes exactly 3 vibrations each second. Compute the acceleration and the restoring force acting on the body when its displacement from the equilibrium position is 5.0 cm.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Acceleration = 18 m/s², restoring force = 44 N."
+    },
+    {
+        "question_number": 11.22,
+        "Questions": "A 300-g mass at the end of a spring oscillates with an amplitude of 7.0 cm and a frequency of 1.80 Hz. (a) Find its maximum speed and maximum acceleration. (b) What is its speed when it is 3.0 cm from its equilibrium position?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 0.79 m/s, 8.9 m/s²; (b) 0.72 m/s."
+    },
+    {
+        "question_number": 11.23,
+        "Questions": "A certain Hookean spring is stretched 20 cm when a given mass is hung from it. What is the frequency of vibration of the mass if pulled down a little and released?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The frequency is 1.1 Hz."
+    },
+    {
+        "question_number": 11.24,
+        "Questions": "A 300-g mass at the end of a spring executes SHM with a period of 2.4 s. Find the period of oscillation of a 13-kg mass attached to the same spring.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The period is 1.6 s."
+    },
+    {
+        "question_number": 11.25,
+        "Questions": "With a 50-g mass at its end, a spring undergoes SHM with a frequency of 0.70 Hz. How much work is done in stretching the spring 15 cm from its unstretched length? How much energy is then stored in the spring?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Work done = 2.3 N·m, energy stored = 2.3 N·m."
+    },
+    {
+        "question_number": 11.26,
+        "Questions": "In a situation similar to that shown in Fig. 11-7, a mass is pressed back against a light spring for which k = 400 N/m. The mass compresses the spring 8.0 cm and is then released. After sliding 55 cm along the flat table from the point of release, the mass comes to rest. How large a friction force opposed its motion?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The friction force is 2.3 N."
+    },
+    {
+        "question_number": 11.27,
+        "Questions": "A 500-g mass is attached to the end of an initially unstretched vertical spring for which k = 30 N/m. The mass is then released, so that it falls and stretches the spring. How far will it fall before stopping? (Hint: The PEg lost by the mass must appear as PE.)",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The distance fallen is 33 cm."
+    },
+    {
+        "question_number": 11.28,
+        "Questions": "A popgun uses a spring for which k = 20 N/cm. When cocked, the spring is compressed 3.0 cm. How high can the gun shoot a 5.0-g projectile?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The maximum height is 18 m."
+    },
+    {
+        "question_number": 11.29,
+        "Questions": "A cubical block vibrates horizontally in SHM with an amplitude of 8.0 cm and a frequency of 1.50 Hz. If a smaller block sitting on it is not to slide, what is the minimum value that the coefficient of static friction between the two blocks can have?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The coefficient of friction is 0."
+    },
+    {
+        "question_number": 11.30,
+        "Questions": "Find the frequency of vibration on Mars for a simple pendulum that is 50 cm long. Objects weigh 0.40 as much on Mars as on the Earth.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The frequency is 0.45 Hz."
+    },
+    {
+        "question_number": 11.31,
+        "Questions": "A “seconds pendulum” beats seconds; that is, it takes 1 s for half a cycle. (a) What is the length of a simple seconds pendulum at a place where g = 9.80 m/s²? (b) What is the length there of a pendulum for which T = 1.00 s?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 99.3 cm; (b) 248 cm."
+    },
+    {
+        "question_number": 11.32,
+        "Questions": "Show that the natural period of vertical oscillation of a mass hung on a Hookean spring is the same as the period of a simple pendulum whose length is equal to the elongation the mass causes when hung on the spring.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "This can be derived using the formula for the period of both systems."
+    },
+    {
+        "question_number": 11.33,
+        "Questions": "A particle that is at the origin of coordinates at exactly t = 0 vibrates about the origin along the j-axis with a frequency of 20 Hz and an amplitude of 30 cm. Give its equation of motion in centimeters.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "y = 3.0 sin(125.6t)"
+    },
+    {
+        "question_number": 11.34,
+        "Questions": "A particle vibrates according to the equation x = 20 cos(16t), where x is in centimeters. Find its amplitude, frequency, and position at exactly t = 0.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Amplitude = 20 cm, Frequency = 2.6 Hz, Position at t = 0: x = 20 cm."
+    },
+    {
+        "question_number": 11.35,
+        "Questions": "A particle oscillates according to the equation y = 5.0 cos(23t), where y is in centimeters. Find its frequency of oscillation and its position at t = 0.15 s.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Frequency = 3.7 Hz, Position at t = 0.15 s: y = -4.8 cm."
+    }
+]

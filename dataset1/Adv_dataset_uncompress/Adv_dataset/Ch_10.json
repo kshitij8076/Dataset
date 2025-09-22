@@ -1,0 +1,1245 @@
+{
+  "section-1": [
+    {
+      "question_number": 1,
+      "question": "The ratio of the velocity of sound in hydrogen gas (γ = 7/5) to that in helium gas (γ = 5/3) at the same temperature is √21/5.",
+      "year": 1983,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "A plane wave of sound travelling in air is incident upon a plane water surface. The angle of incidence is 60°. Assuming Snell’s law to be valid for sound waves, it follows that the sound wave will be refracted into water away from the normal.",
+      "year": 1984,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "A source of sound with frequency 256 Hz is moving with a velocity v towards a wall and an observer is stationary between the source and the wall. When the observer is between the source and the wall he will hear beats.",
+      "year": 1985,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "A cylindrical tube, open at both ends, has a fundamental frequency f in air. The tube is dipped vertically in water so that half of its length is in water. The fundamental frequency of the air column now is",
+      "year": 1981,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) f/2",
+        "(b) 3f/4",
+        "(c) f",
+        "(d) 2f"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "A transverse wave is described by the equation y = y₀ sin(2πft − x/λ). The maximum particle velocity is equal to four times the wave velocity if",
+      "year": 1984,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) λ = πy₀/4",
+        "(b) λ = πy₀/2",
+        "(c) λ = πy₀",
+        "(d) λ = 2πy₀"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "A tube, closed at one end and containing air, produces, when excited, the fundamental note of frequency 512 Hz. If the tube is opened at both ends the fundamental frequency that can be excited is (in Hz)",
+      "year": 1986,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 1024",
+        "(b) 512",
+        "(c) 256",
+        "(d) 128"
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "A wave represented by the equation y = a cos (kx − ωt) is superimposed with another wave to form a stationary wave such that point x = 0 is a node. The equation for the other wave is",
+      "year": 1988,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) a sin (kx + ωt)",
+        "(b) − a cos (kx − ωt)",
+        "(c) a cos (kx + ωt)",
+        "(d) − a sin (kx − ωt)"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "An organ pipe P₁ closed at one end vibrating in its first harmonic and another pipe P₂ open at both ends vibrating in its third harmonic are in resonance with a given tuning fork. The ratio of the length of P₁ and P₂ is",
+      "year": 1988,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 8/3",
+        "(b) 3/8",
+        "(c) 1/6",
+        "(d) 4/3"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "The displacement y of a particle executing periodic motion is given by y = 4 cos²(½ t) sin(1000 t). This expression may be considered to be a result of the superposition of how many independent harmonic motions.",
+      "year": 1992,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) two",
+        "(b) three",
+        "(c) four",
+        "(d) five"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "An object of specific gravity ρ is hung from a thin steel wire. The fundamental frequency for transverse standing waves in the wire is 300 Hz. The object is immersed in water, so that one half of its volume is submerged. The new fundamental frequency (in Hz) is",
+      "year": 1995,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 300 √[(2ρ − 1)/2ρ]",
+        "(b) 300 √[(2ρ − 1)/2]",
+        "(c) 300 √[(2ρ)/(2ρ − 1)]",
+        "(d) 300 √[2ρ/(2ρ − 1)]"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "An open pipe is suddenly closed at one end with the result that the frequency of third harmonic of the closed pipe is found to be higher by 100 Hz than the fundamental frequency of the open pipe. The fundamental frequency of the open pipe is",
+      "year": 1995,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 200 Hz",
+        "(b) 300 Hz",
+        "(c) 240 Hz",
+        "(d) 480 Hz"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "The extension in a string, obeying Hooke’s law, is x. The speed of transverse wave in the stretched string is v. If the extension in the string is increased to 1.5x, the speed of transverse wave will be",
+      "year": 1996,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 1.22 v",
+        "(b) 0.61 v",
+        "(c) 1.50 v",
+        "(d) 0.75 v"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "A travelling wave in a stretched string is described by the equation y = A sin (kx − ωt). The maximum particle velocity is",
+      "year": 1997,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) Aω",
+        "(b) Aω/k",
+        "(c) Aωk",
+        "(d) A/kω"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "A whistle giving out 450 Hz approaches a stationary observer at a speed of 33 m/s. The frequency heard by the observer (in Hz) is (Speed of sound = 330 m/s)",
+      "year": 1997,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 409",
+        "(b) 429",
+        "(c) 517",
+        "(d) 450"
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "The ends of a stretched wire of length L are fixed at x = 0 and x = L. In one experiment the displacement of the wire is y₁ = A sin (πx / L) sin ωt and energy is E₁ and in another experiment its displacement is y₂ = A sin (2πx / L) sin 2ωt and energy is E₂. Then",
+      "year": 2001,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) E₂ = E₁",
+        "(b) E₂ = 2E₁",
+        "(c) E₂ = 4E₁",
+        "(d) E₂ = 16E₁"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "A string of length 0.4 m and mass 10⁻² kg is tightly clamped at its ends. The tension in the string is 1.6 N. Identical wave pulses are produced at one end at equal intervals of time Δt. The minimum value of Δt, which allows constructive interference between successive pulses is",
+      "year": 1998,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 0.05 s",
+        "(b) 0.10 s",
+        "(c) 0.20 s",
+        "(d) 0.40 s"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "The ratio of the speed of sound in nitrogen gas to that in helium gas, at 300 K is",
+      "year": 1999,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) √(2/7)",
+        "(b) √(1/7)",
+        "(c) √(3/5)",
+        "(d) √(6/5)"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Two vibrating strings of the same material but of lengths L and 2L have radii 2r and r respectively. They are stretched under the same tension. Both the strings vibrate in their fundamental modes. The one of length L with frequency v₁ and the other with frequency v₂. The ratio v₁/v₂ is given by",
+      "year": 2000,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 2",
+        "(b) 4",
+        "(c) 8",
+        "(d) 1"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "Two monoatomic ideal gases 1 and 2 of molecular masses m₁ and m₂ respectively are enclosed in separate containers kept at the same temperature. The ratio of the speed of sound in gas 1 to gas 2 is given by",
+      "year": 2000,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) √(m₁ / m₂)",
+        "(b) √(m₂ / m₁)",
+        "(c) m₁ / m₂",
+        "(d) m₂ / m₁"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "A train moves towards a stationary observer with speed 34 m/s. The train sounds a whistle and its frequency registered by the observer is f₁. If the train’s speed is reduced to 17 m/s, the frequency registered is f₂. If the speed of sound is 340 m/s, then the ratio f₁ / f₂ is",
+      "year": 2000,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 18/19",
+        "(b) 1/2",
+        "(c) 2",
+        "(d) 19/18"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "Two pulses in a stretched string, whose centers are initially 8 cm apart, are moving towards each other as shown in the figure. The speed of each pulse is 2 cm/s. After 2 s the total energy of the pulses will be",
+      "year": 2001,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) zero",
+        "(b) purely kinetic",
+        "(c) purely potential",
+        "(d) partly kinetic and partly potential"
+      ],
+      "images":["arihant_images_ch10/arihant_1.png"]
+    },
+    {
+      "question_number": 30,
+      "question": "A siren placed at a railway platform is emitting sound of frequency 5 kHz. A passenger sitting in a moving train A records a frequency of 5.5 kHz, while the train approaches the siren. During his journey in a different train B he records a frequency of 6.0 kHz while approaching the same siren. The ratio of the velocity of train B to that of train A is",
+      "year": 2002,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 242/252",
+        "(b) 2",
+        "(c) 5/6",
+        "(d) 11/6"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "A sonometer wire resonates with a given tuning fork forming standing waves with five antinodes between the two bridges when a mass of 9 kg is suspended from the wire. When this mass is replaced by mass M, the wire resonates with the same tuning fork forming three antinodes for the same positions of the bridges. The value of M is",
+      "year": 2002,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 25 kg",
+        "(b) 5 kg",
+        "(c) 12.5 kg",
+        "(d) 1.25 kg"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "A police car moving at 22 m/s chases a motorcyclist. The police man sounds his horn at 176 Hz, while both of them move towards a stationary siren of frequency 165 Hz. Calculate the speed of the motorcycle, if it is given that the motorcyclist does not observe any beats (speed of sound = 330 m/s).",
+      "year": 2003,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 33 m/s",
+        "(b) 22 m/s",
+        "(c) Zero",
+        "(d) 11 m/s"
+      ],
+      "images":["arihant_images_ch10/arihant_2.png"]
+    },
+    {
+      "question_number": 33,
+      "question": "In the experiment for the determination of the speed of sound in air using the resonance column method, the length of the air column that resonates in the fundamental mode, with a tuning fork is 0.1 m. When this length is changed to 0.35 m, the same tuning fork resonates with the first overtone. Calculate the end correction.",
+      "year": 2003,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 0.012 m",
+        "(b) 0.025 m",
+        "(c) 0.05 m",
+        "(d) 0.024 m"
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "A source of sound of frequency 600 Hz is placed inside water. The speed of sound in water is 1500 m/s and in air it is 300 m/s. The frequency of sound recorded by an observer who is standing in air is",
+      "year": 2004,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 200 Hz",
+        "(b) 300 Hz",
+        "(c) 120 Hz",
+        "(d) 600 Hz"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "A closed organ pipe of length L and an open organ pipe contain gases of densities ρ₁ and ρ₂ respectively. The compressibility of gases are equal in both the pipes. Both the pipes are vibrating in their first overtones with same frequency. The length of the open organ pipe is",
+      "year": 2004,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) L/3",
+        "(b) 4L/3",
+        "(c) 4L/3 × √(ρ₁ / ρ₂)",
+        "(d) 4L/3 × √(ρ₂ / ρ₁)"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "A tuning fork of 512 Hz is used to produce resonance in a resonance tube experiment. The level of water at first resonance is 30.7 cm and at second resonance is 63.2 cm. The error in calculating velocity of sound is",
+      "year": 2005,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 11 cm/s",
+        "(b) 110 cm/s",
+        "(c) 58 cm/s",
+        "(d) 5 cm/s"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "An open pipe is in resonance in 2nd harmonic with frequency f₁. Now one end of the tube is closed and frequency is increased to f₂ such that the resonance again occurs in nᵗʰ harmonic. Choose the correct option.",
+      "year": 2005,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) n = 3, f₂ = (3/4) f₁",
+        "(b) n = 3, f₂ = (5/4) f₁",
+        "(c) n = 5, f₂ = (5/4) f₁",
+        "(d) n = 5, f₂ = (3/4) f₁"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "A massless rod BD is suspended by two identical massless strings AB and CD of equal lengths. A block of mass m is suspended from point P such that BP is equal to x. If the fundamental frequency of the left wire is twice the fundamental frequency of right wire, then the value of x is",
+      "year": 2006,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) l/5",
+        "(b) l/4",
+        "(c) 4l/5",
+        "(d) 3l/4"
+      ],
+      "images":["arihant_images_ch10/arihant_3.png"]
+    },
+    {
+      "question_number": 39,
+      "question": "A transverse sinusoidal wave moves along a string in the positive x-direction at a speed of 10 cm/s. The wavelength of the wave is 0.5 m and its amplitude is 10 cm. At a particular time t, the snap-shot of the wave is shown in figure. The velocity of point P when its displacement is 5 cm is",
+      "year": 2008,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) √3π / 50 m/s",
+        "(b) −√3π / 50 m/s",
+        "(c) 3π / 50 m/s",
+        "(d) −3π / 50 m/s"
+      ],
+      "images":["arihant_images_ch10/arihant_4.png"]
+    },
+    {
+      "question_number": 40,
+      "question": "A vibrating string of certain length l under a tension T resonates with a mode corresponding to the first overtone (third harmonic) of an air column of length 75 cm inside a tube closed at one end. The string also generates 4 beats when excited along with a tuning fork of frequency n. Now when the tension of the string is slightly increased the number of beats reduces to 2 per second. Assuming the velocity of sound in air to be 340 m/s, the frequency n of the tuning fork in Hz is",
+      "year": 2008,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 344",
+        "(b) 336",
+        "(c) 117.3",
+        "(d) 109.3"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "A hollow pipe of length 0.8 m is closed at one end. At its open end a 0.5 m long uniform string is vibrating in its second harmonic and it resonates with the fundamental frequency of the pipe. If the tension in the wire is 50 N and the linear mass density is 4 × 10⁻³ kg/m, the frequency of the pipe is (in Hz)",
+      "year": 2010,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 5",
+        "(b) 10",
+        "(c) 20",
+        "(d) 40"
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "A police car with a siren of frequency 8 kHz is moving with uniform velocity 36 km/h towards a tall building which reflects the sound waves. The speed of sound in air is 320 m/s. The frequency of the siren heard by the car driver is",
+      "year": 2011,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 8.50 kHz",
+        "(b) 8.25 kHz",
+        "(c) 7.75 kHz",
+        "(d) 7.50 kHz"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "A student is performing the experiment of resonance column. The diameter of the column tube is 4 cm. The frequency of the tuning fork is 512 Hz. The air temperature is 38°C in which the speed of sound is 336 m/s. The zero of the meter scale coincides with the top end of the resonance column tube. When the first resonance occurs, the reading of the water level in the column is",
+      "year": 2012,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 14.0 cm",
+        "(b) 15.2 cm",
+        "(c) 16.4 cm",
+        "(d) 17.6 cm"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "A sonometer wire of length 1.5 m is made of steel. The tension in it produces an elastic strain of 1%. What is the fundamental frequency of steel if density and elasticity of steel are 7.7 × 10³ kg/m³ and 2.2 × 10¹¹ N/m² respectively?",
+      "year": 2013,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 188.5 Hz",
+        "(b) 172.8 Hz",
+        "(c) 200.5 Hz",
+        "(d) 770 Hz"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "A pipe of length 85 cm is closed from one end. Find the number of possible natural oscillations of air column in the pipe whose frequencies lie below 1250 Hz. The velocity of sound in air is 340 m/s.",
+      "year": 2014,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 12",
+        "(b) 8",
+        "(c) 6",
+        "(d) 4"
+      ]
+    },
+    {
+      "question_number": 46,
+      "question": "A train is moving on a straight track with speed 20 m/s. It is blowing its whistle at the frequency of 1000 Hz. The percentage change in the frequency heard by a person standing near the track as the train passes him is close to (speed of sound = 320 m/s)",
+      "year": 2015,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 12%",
+        "(b) 6%",
+        "(c) 18%",
+        "(d) 24%"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "A pipe open at both ends has a fundamental frequency f in air. The pipe is dipped vertically in water, so that half of it is in water. The fundamental frequency of the air column is now",
+      "year": 2016,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) f/2",
+        "(b) 3f/4",
+        "(c) 2f",
+        "(d) f"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "An object of mass 20 mg is suspended from a rigid support. A short wave pulse is introduced at its lowest end. It starts moving up the string. The time taken to reach the support is (Take g = 10 m/s²)",
+      "year": 2016,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 2π/2 s",
+        "(b) 2 s",
+        "(c) 2√2 s",
+        "(d) √2 s"
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "An observer is moving with half the speed of light towards a stationary microwave source emitting waves at frequency 10 GHz. What is the frequency of the microwave measured by the observer? (speed of light = 3 × 10⁸ m/s)",
+      "year": 2017,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 12.1 GHz",
+        "(b) 17.3 GHz",
+        "(c) 15.3 GHz",
+        "(d) 10.1 GHz"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "A granite rod of 60 cm length is clamped at its middle point. It is vibrating in the fundamental mode. The density of granite is 2.7 × 10³ kg/m³ and its Young’s modulus is 9 × 10¹⁰ N/m². What is the fundamental frequency of the longitudinal vibrations?",
+      "year": 2018,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 7.5 kHz",
+        "(b) 5 kHz",
+        "(c) 2.5 kHz",
+        "(d) 10 kHz"
+      ]
+    },
+    {
+      "question_number": 51,
+      "question": "A progressive wave travelling along the positive x-direction is represented by y(x, t) = A sin (kx − ωt + φ). Its snapshot at t = 0 is given in the figure. For this wave, the phase φ is",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) −π/2",
+        "(b) π",
+        "(c) 0",
+        "(d) π/2"
+      ],
+      "images":["arihant_images_ch10/arihant_5.png"]
+    },
+    {
+      "question_number": 52,
+      "question": "A submarine A travelling at 18 km/h is being chased along the line of its velocity by another submarine B travelling at 27 km/h. B sends a sonar signal of 500 Hz to detect A and receives a reflected sound of frequency v. The value of v is close to (Speed of sound in water = 1500 m/s)",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 504 Hz",
+        "(b) 507 Hz",
+        "(c) 499 Hz",
+        "(d) 502 Hz"
+      ]
+    },
+    {
+      "question_number": 53,
+      "question": "A string of length 1 m and mass 5 g is fixed at both ends. The tension in the string is 8.0 N. The string is set into vibration using an external vibrator of frequency 100 Hz. The separation between successive nodes on the string is close to",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 16.6 cm",
+        "(b) 33.3 cm",
+        "(c) 10.0 cm",
+        "(d) 20.0 cm"
+      ]
+    },
+    {
+      "question_number": 54,
+      "question": "A heavy ball of mass M is suspended from the ceiling of a car by a light string of mass m(m ≪ M). When the car is at rest, the speed of transverse waves in the string is 60 m/s. When the car has acceleration a, the wave speed increases to 60.5 m/s. The value of a, in terms of gravitational acceleration g is closest to",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) g/20",
+        "(b) g/5",
+        "(c) g/30",
+        "(d) g/10"
+      ]
+    },
+    {
+      "question_number": 55,
+      "question": "A tuning fork of frequency 480 Hz is used in an experiment for measuring speed of sound (v) in air by resonance tube method. Resonance is observed to occur at two successive lengths of the air column l₁ = 30 cm and l₂ = 70 cm. Then, v is equal to",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 332 m/s",
+        "(b) 384 m/s",
+        "(c) 338 m/s",
+        "(d) 379 m/s"
+      ]
+    },
+    {
+      "question_number": 56,
+      "question": "A string 2.0 m long and fixed at its ends is driven by a 240 Hz vibrator. The string vibrates in its third harmonic mode. The speed of the wave and its fundamental frequency is",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 180 m/s, 80 Hz",
+        "(b) 320 m/s, 80 Hz",
+        "(c) 320 m/s, 120 Hz",
+        "(d) 180 m/s, 120 Hz"
+      ]
+    },
+    {
+      "question_number": 57,
+      "question": "A string is clamped at both the ends and it is vibrating in its 4th harmonic. The equation of the stationary wave is Y = 0.3 sin(0.157x) cos(200πt). The length of the string is (All quantities are in SI units)",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 60 m",
+        "(b) 40 m",
+        "(c) 80 m",
+        "(d) 20 m"
+      ]
+    },
+    {
+      "question_number": 58,
+      "question": "A wire of length 2L is made by joining two wires A and B of same length but different radii r and 2r and made of the same material. It is vibrating at a frequency such that the joint of the two wires forms a node. If the number of antinodes in wire A is p and that in B is q, then the ratio p : q is",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 3 : 5",
+        "(b) 4 : 9",
+        "(c) 1 : 2",
+        "(d) 1 : 4"
+      ],
+      "images":["arihant_images_ch10/arihant_6.png"]
+    },
+    {
+      "question_number": 59,
+      "question": "A resonance tube is old and has jagged end. It is still used in the laboratory to determine velocity of sound in air. A tuning fork of frequency 512 Hz produces first resonance when the tube is filled with water to a mark 11 cm below a reference mark. The experiment is repeated with another fork of frequency 256 Hz which produces first resonance when water reaches a mark 27 cm below the reference mark. The velocity of sound in air, obtained in the experiment is close to",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 328 m/s⁻¹",
+        "(b) 341 m/s⁻¹",
+        "(c) 322 m/s⁻¹",
+        "(d) 335 m/s⁻¹"
+      ]
+    },
+    {
+      "question_number": 60,
+      "question": "Equation of travelling wave on a stretched string of linear density 5 g/m is y = 0.03 sin(450t − 9x), where distance and time are measured in SI units. The tension in the string is",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 5 N",
+        "(b) 12.5 N",
+        "(c) 7.5 N",
+        "(d) 10 N"
+      ]
+    },
+    {
+      "question_number": 61,
+      "question": "A closed organ pipe has a fundamental frequency of 1.5 kHz. The number of overtones that can be distinctly heard by a person with this organ pipe will be (Assume that the highest frequency a person can hear is 20,000 Hz)",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 7",
+        "(b) 4",
+        "(c) 5",
+        "(d) 6"
+      ]
+    },
+    {
+      "question_number": 62,
+      "question": "The pressure wave p = 0.10 sin(1000t − 3x) Nm⁻² corresponds to the sound produced by a vibrating blade on a day when atmospheric temperature is 0 °C. On some other day when temperature is T, the speed of sound produced by the same blade and at the same frequency is found to be 336 m/s⁻¹. Approximate value of T is",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 15 °C",
+        "(b) 1 °C",
+        "(c) 12 °C",
+        "(d) 4 °C"
+      ]
+    },
+    {
+      "question_number": 63,
+      "question": "A travelling harmonic wave is represented by the equation y(x, t) = 10⁻³ sin (50t + 2x), where x and y are in metre and t is in second. Which of the following is a correct statement about the wave?",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) The wave is propagating along the negative X-axis with speed 25 m/s",
+        "(b) The wave is propagating along the positive X-axis with speed 25 m/s",
+        "(c) The wave is propagating along the positive X-axis with speed 100 m/s",
+        "(d) The wave is propagating along the negative Z-axis with speed 100 m/s"
+      ]
+    },
+    {
+      "question_number": 64,
+      "question": "Two sources of sound S₁ and S₂ produce sound waves of same frequency 660 Hz. A listener is moving from source S₁ towards S₂ with a constant speed v m/s and he hears 10 beats/sec. The velocity of sound is 330 m/s. Then, it is equal to",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 0.5 m/s",
+        "(b) 1.0 m/s",
+        "(c) 2.5 m/s",
+        "(d) 5.0 m/s"
+      ]
+    },
+    {
+      "question_number": 65,
+      "question": "The correct figure that shows schematically, the wave pattern produced by superposition of two waves of frequencies 9 Hz and 11 Hz is",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) option (a waveform image)",
+        "(b) option (a waveform image)",
+        "(c) option (a waveform image)",
+        "(d) option (a waveform image)"
+      ]
+    },
+    {
+      "question_number": 66,
+      "question": "A source of sound S is moving with a velocity of 50 m/s towards a stationary observer. The observer measures the frequency of the source as 1000 Hz. What will be the apparent frequency of the source when it is moving away from the observer after crossing him? (Take, velocity of sound in air is 350 m/s)",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 807 Hz",
+        "(b) 1143 Hz",
+        "(c) 750 Hz",
+        "(d) 857 Hz"
+      ]
+    },
+    {
+      "question_number": 67,
+      "question": "A stationary source emits sound waves of frequency 500 Hz. Two observers moving along a line passing through the source detect sound to be of frequencies 480 Hz and 530 Hz. Their respective speeds are in m/s⁻¹ (Take, speed of sound = 300 m/s)",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 12, 16",
+        "(b) 12, 18",
+        "(c) 16, 14",
+        "(d) 8, 18"
+      ]
+    },
+    {
+      "question_number": 68,
+      "question": "Two cars A and B are moving away from each other in opposite directions. Both the cars are moving with a speed of 20 m/s⁻¹ with respect to the ground. If an observer in car A detects a frequency 2000 Hz of the sound coming from car B, what is the natural frequency of the sound source in car B? (speed of sound in air = 340 m/s)",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 2060 Hz",
+        "(b) 2250 Hz",
+        "(c) 2300 Hz",
+        "(d) 2150 Hz"
+      ]
+    },
+    {
+      "question_number": 69,
+      "question": "A train moves towards a stationary observer with speed 34 m/s. The train sounds a whistle and its frequency registered by the observer is f₁. If the speed of the train is reduced to 17 m/s, the frequency registered is f₂. If speed of sound is 340 m/s, then the ratio f₁/f₂ is",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 19/18",
+        "(b) 21/20",
+        "(c) 20/19",
+        "(d) 18/17"
+      ]
+    },
+    {
+      "question_number": 70,
+      "question": "A musician produces the sound of second harmonics from open end flute of 50 cm. The other person moves toward the musician with speed 10 km/h from the second end of room. If the speed of sound 330 m/s, the frequency heard by running person will be (Speed of sound is 330 m/s)",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 666 Hz",
+        "(b) 500 Hz",
+        "(c) 753 Hz",
+        "(d) 333 Hz"
+      ]
+    },
+    {
+      "question_number": 71,
+      "question": "A small speaker delivers 2 W of audio output. At what distance from the speaker will one detect 120 dB intensity sound? (Take, reference intensity of sound as 10⁻¹² W/m²)",
+      "year": 2019,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 40 cm",
+        "(b) 20 cm",
+        "(c) 10 cm",
+        "(d) 30 cm"
+      ]
+    },
+    {
+      "question_number": 72,
+      "question": "A uniform thin rope of length 12 m and mass 6 kg hangs vertically from a rigid support and a block of mass 2 kg is attached to its free end. A transverse short wavetrain of wavelength 6 cm is produced at the lower end of the rope. What is the wavelength of the wavetrain (in cm) when it reaches the top of the rope?",
+      "year": 2020,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 3",
+        "(b) 6",
+        "(c) 12",
+        "(d) 9"
+      ]
+    },
+    {
+      "question_number": 73,
+      "question": "A wave equation which gives the displacement along the y-direction is given by : y = 10⁻⁴ sin (60 t + 2 x) where, x and y are in metre and t is time in second. This represents a wave",
+      "year": 1981,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) travelling with a velocity of 30 m/s in the negative x-direction",
+        "(b) of wavelength (π) m",
+        "(c) of frequency (30 / π) Hz",
+        "(d) of amplitude 10⁻⁴ m"
+      ]
+    },
+    {
+      "question_number": 74,
+      "question": "An air column in a pipe, which is closed at one end, will be in resonance with a vibrating tuning fork of frequency 264 Hz, if the length of the column in cm is (Speed of sound in air = 330 m/s)",
+      "year": 1985,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 31.25",
+        "(b) 62.50",
+        "(c) 93.75",
+        "(d) 125"
+      ]
+    },
+    {
+      "question_number": 75,
+      "question": "The displacement of particles in a string stretched in the x-direction is represented by y. Among the following expressions for y, those describing wave motion is (are)",
+      "year": 1985,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) cos kx sin ωt",
+        "(b) k²x² − ω²t²",
+        "(c) cos²(kx + ωt)",
+        "(d) cos (k²x² − ω²t²)"
+      ]
+    },
+    {
+      "question_number": 76,
+      "question": "Velocity of sound in air is 320 m/s. A pipe closed at one end has a length of 1 m. Neglecting end corrections, the air column in the pipe can resonate for sound of frequency",
+      "year": 1989,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 80 Hz",
+        "(b) 240 Hz",
+        "(c) 160 Hz",
+        "(d) 320 Hz"
+      ]
+    },
+    {
+      "question_number": 77,
+      "question": "A wave is represented by the equation : y = A sin (10 π t + 15π x + π / 3) where, x is in metre and t is in second. The expression represents",
+      "year": 1990,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) a wave travelling in the positive x-direction with a velocity 1.5 m/s",
+        "(b) a wave travelling in the negative x-direction with a velocity 1.5 m/s",
+        "(c) a wave travelling in the negative x-direction with a wavelength 0.2 m",
+        "(d) a wave travelling in the positive x-direction with a wavelength 0.2 m"
+      ]
+    },
+    {
+      "question_number": 78,
+      "question": "A wave disturbance in a medium is described by y(x,t) = 0.02cos [50πt + π/2] cos(10 π x), where x and y are in metre and t is in second.",
+      "year": 1995,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) A node occurs at x = 0.15 m",
+        "(b) An antinode occurs at x = 0.3 m",
+        "(c) The speed of wave is 5 m/s",
+        "(d) The wavelength of wave is 0.2 m"
+      ]
+    },
+    {
+      "question_number": 79,
+      "question": "A transverse sinusoidal wave of amplitude a, wavelength λ and frequency f is travelling on a stretched string. The maximum speed of any point on the string is v/10, where v is the speed of propagation of the wave. If a = 10⁻³ m and v = 10 m/s, then λ and f are given by",
+      "year": 1998,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) λ = 2π × 10⁻² m",
+        "(b) λ = 10⁻³ m",
+        "(c) f = 10² / π Hz",
+        "(d) f = 10⁴ Hz"
+      ]
+    },
+    {
+      "question_number": 80,
+      "question": "Y (x,t) = 0.8 / [(4x + 5t)² + 5] represents a moving pulse where x and y are in metre and t is in second. Then,",
+      "year": 1999,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) pulse is moving in positive x-direction",
+        "(b) in 2 s it will travel a distance of 2.5 m",
+        "(c) its maximum displacement is 0.16 m",
+        "(d) it is a symmetric pulse"
+      ]
+    },
+    {
+      "question_number": 81,
+      "question": "Standing waves can be produced",
+      "year": 1999,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) on a string clamped at both ends",
+        "(b) on a string clamped at one end and free at the other",
+        "(c) when incident wave gets reflected from a wall",
+        "(d) when two identical waves with a phase difference of π are moving in the same direction"
+      ]
+    },
+    {
+      "question_number": 82,
+      "question": "In a wave motion y = A sin (kx − ωt), y can phase represent",
+      "year": 1999,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) electric field",
+        "(b) magnetic field",
+        "(c) displacement",
+        "(d) pressure"
+      ]
+    },
+    {
+      "question_number": 83,
+      "question": "As a wave propagates",
+      "year": 1999,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) the wave intensity remains constant for a plane wave",
+        "(b) the wave intensity decreases as the inverse of the distance from the source for a spherical wave",
+        "(c) the wave intensity decreases as the inverse square of the distance from the source for a spherical wave",
+        "(d) total intensity of the spherical wave over the spherical surface centred at the source remains constant at all times"
+      ]
+    },
+    {
+      "question_number": 84,
+      "question": "A horizontal stretched string, fixed at two ends, is vibrating in its fifth harmonic according to the equation, y(x,t) = (0.01m)[sin(6.28 m⁻¹ x)]cos[(628 s⁻¹)t]. Assuming π = 3.14, the correct statement(s) is (are)",
+      "year": 2012,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) the number of nodes is 5",
+        "(b) the length of the string is 0.25 m",
+        "(c) the maximum displacement of the mid-point of the string from its equilibrium position is 0.01 m",
+        "(d) the fundamental frequency is 100 Hz"
+      ]
+    },
+    {
+      "question_number": 85,
+      "question": "One end of a taut string of length 3 m along the X-axis is fixed at x = 0. The speed of the waves in the string is 100 m/s. The other end of the string is vibrating in the y-direction so that stationary waves are set up in the string. The possible waveform(s) of these stationary wave is (are)",
+      "year": 2014,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) y(t) = 4 sin(πx/6) cos(50πt/3)",
+        "(b) y(t) = 4 sin(πx/3) cos(100πt/3)",
+        "(c) y(t) = 4 sin(5πx/6) cos(250πt/3)",
+        "(d) y(t) = 4 sin(5πx/2) cos(250πt)"
+      ]
+    },
+    {
+      "question_number": 86,
+      "question": "In an experiment to measure the speed of sound by a resonating air column, a tuning fork of frequency 500 Hz is used. The length of the air column is varied by changing the level of water in the resonance tube. Two successive resonances are heard at air columns of length 50.7 cm and 83.9 cm. Which of the following statements is (are) true?",
+      "year": 2015,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) The speed of sound determined from this experiment is 332 m/s⁻¹.",
+        "(b) The end correction in this experiment is 0.9 cm.",
+        "(c) The wavelength of the sound wave is 66.4 cm.",
+        "(d) The resonance at 50.7 cm corresponds to the fundamental mode."
+      ]
+    },
+    {
+      "question_number": 87,
+      "question": "A 20 cm long string, having a mass of 1.0 g, is fixed at both the ends. The tension in the string is 0.5 N. The string is set into vibration using an external vibrator of frequency 100 Hz. Find the separation (in cm) between the successive nodes on the string.",
+      "year": 2009,
+      "question_type": "Integer Answer Type Question"
+    },
+    {
+      "question_number": 88,
+      "question": "When two progressive waves y₁ = 4 sin(2x − 6t) and y₂ = 3 sin(2x − 6t − π/2) are superimposed, the amplitude of the resultant wave is",
+      "year": 2010,
+      "question_type": "Integer Answer Type Question"
+    },
+    {
+      "question_number": 89,
+      "question": "Four harmonic waves of equal frequencies and equal intensities I₀ have phase angles 0, π/3, 2π/3 and π. When they are superposed, the intensity of the resulting wave is nI₀. The value of n is",
+      "year": 2015,
+      "question_type": "Integer Answer Type Question"
+    },
+    {
+      "question_number": 90,
+      "question": "A stationary source emits sound of frequency f₀ = 492 Hz. The sound is reflected by a large car approaching the source with a speed of 2 m/s⁻¹. The reflected signal is received by the source and superposed with the original. What will be the beat frequency of the resulting signal in Hz? (Given that the speed of sound in air is 330 m/s⁻¹ and the car reflects the sound at the frequency it has received).",
+      "year": 2017,
+      "question_type": "Integer Answer Type Question"
+    },
+    {
+      "question_number": 91,
+      "question": "Two men are walking along a horizontal straight line in the same direction. The man in front walks at a speed 1.0 m/s⁻¹ and the man behind walks at a speed 2.0 m/s⁻¹. A third man is standing at a height 12 m above the same horizontal line such that all three men are in a vertical plane. The two walking men are blowing identical whistles which emit a sound of frequency 1430 Hz. The speed of sound in air 330 m/s⁻¹. At the instant, when the moving men are 10 m apart, the stationary man is equidistant from them. The frequency of beats in Hz, heard by the stationary man at this instant, is ..............",
+      "year": 2018,
+      "question_type": "Integer Answer Type Question"
+    },
+    {
+      "question_number": 92,
+      "question": "A copper wire is held at the two ends by rigid supports. At 30°C, the wire is just taut, with negligible tension. Find the speed of transverse waves in this wire at 10°C. Given: Young modulus of copper = 1.3 × 10¹¹ N/m². Coefficient of linear expansion of copper = 1.7 × 10⁻⁵ °C⁻¹. Density of copper = 9 × 10³ kg/m³.",
+      "year": 1979,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 93,
+      "question": "A source of sound of frequency 256 Hz is moving rapidly towards a wall with a velocity of 5 m/s. How many beats per second will be heard by the observer on source itself if sound travels at a speed of 330 m/s?",
+      "year": 1981,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 94,
+      "question": "A uniform rope of length 12 m and mass 6 kg hangs vertically from a rigid support. A block of mass 2 kg is attached to the free end of the rope. A transverse pulse of wavelength 0.06 m is produced at the lower end of the rope. What is the wavelength of the pulse when it reaches the top of the rope?",
+      "year": 1984,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 95,
+      "question": "Two tuning forks with natural frequencies of 340 Hz each move relative to a stationary observer. One fork moves away from the observer, while the other moves towards him at the same speed. The observer hears beats of frequency 3 Hz. Find the speed of the tuning fork. Speed of sound = 340 m/s.",
+      "year": 1986,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 96,
+      "question": "A whistle emitting a sound of frequency 440 Hz is tied to a string of 1.5 m length and rotated with an angular velocity of 20 rad/s in the horizontal plane. Calculate the range of frequencies heard by an observer stationed at a large distance from the whistle. (Speed of sound = 330 m/s).",
+      "year": 1996,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 97,
+      "question": "A band playing music at a frequency f is moving towards a wall at a speed vₐ. A motorist is following the band with a speed vₘ. If v is the speed of sound. Obtain an expression for the beat frequency heard by the motorist.",
+      "year": 1997,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 98,
+      "question": "An observer standing on a railway crossing receives frequency of 2.2 kHz and 1.8 kHz when the train approaches and recedes from the observer. Find the velocity of the train. (The speed of the sound in air is 300 m/s.)",
+      "year": 2005,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 99,
+      "question": "A harmonically moving transverse wave on a string has a maximum particle velocity and acceleration of 3 m/s and 90 m/s² respectively. Velocity of the wave is 20 m/s. Find the waveform.",
+      "year": 2005,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    }
+
+  ],
+  "section-2": [
+    {
+      "question_number": 1,
+      "question": "A student performed the experiment to measure the speed of sound in air using resonance air-column method. Two resonances in the air-column were obtained by lowering the water level. The resonance with the shorter air-column is the first resonance and that with the longer air column is the second resonance. Then,",
+      "year": 2009,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) the intensity of the sound heard at the first resonance was more than that at the second resonance.",
+        "(b) the prongs of the tuning fork were kept in a horizontal plane above the resonance tube.",
+        "(c) the amplitude of vibration of the ends of the prongs is typically around 1 cm.",
+        "(d) the length of the air-column at the first resonance was somewhat shorter than 1/4th of the wavelength of the sound in air."
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "A person blows into open-end of a long pipe. As a result, a high-pressure pulse of air travels down the pipe. When this pulse reaches the other end of the pipe,",
+      "year": 2012,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) a high-pressure pulse starts travelling up the pipe, if the other end of the pipe is open.",
+        "(b) a low-pressure pulse starts travelling up the pipe, if the other end of the pipe is open.",
+        "(c) a low-pressure pulse starts travelling up the pipe, if the other end of the pipe is closed.",
+        "(d) a high-pressure pulse starts travelling up the pipe, if the other end of the pipe is closed."
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "A student is performing an experiment using a resonance column and a tuning fork of frequency 244 s⁻¹. He is told that the air in the tube has been replaced by another gas (assume that the column remains filled with the gas). If the minimum height at which resonance occurs is (0.350 ± 0.005) m, the gas in the tube is (Useful information : √1677 R = 640 J¹/² mole⁻¹/², √140RT = 590 J¹/² mole⁻¹/². The molar masses M in grams are given in the options. Take the value of √10/M for each gas as given there.)",
+      "year": 2014,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) Neon (M = 20, √10/20 = 7 / 10)",
+        "(b) Nitrogen (M = 28, √10/28 = 3 / 5)",
+        "(c) Oxygen (M = 32, √10/32 = 9 / 16)",
+        "(d) Argon (M = 36, √10/36 = 17 / 32)"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "Two loudspeakers M and N are located 20m apart and emit sound at frequencies 118 Hz and 121 Hz, respectively. A car is initially at a point P, 1800 m away from the mid-point Q of the line MN and moves towards Q constantly at 60 km/h along the perpendicular bisector of MN. It crosses Q and eventually reaches a point R, 1800 m away from Q. Let ν(t) represent the beat frequency measured by a person sitting in the car at time t. Let νP, νQ and νR be the beat frequencies measured at locations P, Q and R respectively. The speed of sound in air is 330 m/s⁻¹. Which of the following statement(s) is (are) true regarding the sound heard by the person?",
+      "year": 2016,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) The plot below represents schematically the variation of beat frequency with time",
+        "(b) The rate of change in beat frequency is maximum when the car passes through Q",
+        "(c) νP + νR = 2νQ",
+        "(d) The plot below represents schematically the variations of beat frequency with time"
+      ],
+      "images":["arihant_images_ch10/arihant_7.png","arihant_images_ch10/arihant_8.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "A block M hangs vertically at the bottom end of a uniform rope of constant mass per unit length. The top end of the rope is attached to a fixed rigid support at O. A transverse wave pulse (Pulse 1) of wavelength λ₀ is produced at point O on the rope. The pulse takes time Tₐₒ to reach point A. If the wave pulse of wavelength λ₀ is produced at point A (Pulse 2) without disturbing the position of M it takes time Tₒₐ to reach point O. Which of the following options is/are correct?",
+      "year": 2017,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) The time Tₐₒ = Tₒₐ",
+        "(b) The wavelength of Pulse 1 becomes longer when it reaches point A",
+        "(c) The velocity of any pulse along the rope is independent of its frequency and wavelength",
+        "(d) The velocities of the two pulses (Pulse 1 and Pulse 2) are the same at the mid-point of rope"
+      ],
+      "images":["arihant_images_ch10/arihant_9.png"]
+    },
+    {
+      "question_number": 12,
+      "question": "Column I shows four systems, each of the same length L, for producing standing waves. The lowest possible natural frequency of a system is called its fundamental frequency, whose wavelength is denoted as λ_f. Match each system with statements given in Column II describing the nature and wavelength of the standing waves.",
+      "year": 2011,
+      "question_type": "match_the_columns",
+      "column_I": {
+        "A": "Pipe closed at one end",
+        "B": "Pipe open at both ends",
+        "C": "Stretched wire clamped at both ends",
+        "D": "Stretched wire clamped at both ends and at mid-point"
+      },
+      "column_II": {
+        "p": "Longitudinal waves",
+        "q": "Transverse waves",
+        "r": "λ_f = L",
+        "s": "λ_f = 2L",
+        "t": "λ_f = 4L"
+      },
+      "images":["arihant_images_ch10/arihant_10.png","arihant_images_ch10/arihant_11.png","arihant_images_ch10/arihant_12.png","arihant_images_ch10/arihant_13.png"]
+    },
+    {
+      "question_number": 13,
+      "question": "A stationary source is emitting sound at a fixed frequency f₀, which is reflected by two cars approaching the source. The difference between the frequencies of sound reflected from the cars is 1.2% of f₀. What is the difference in the speeds of the cars (in km per hour) to the nearest integer? The cars are moving at constant speeds much smaller than the speed of sound which is 330 m/s.",
+      "year": 2010,
+      "question_type": "Integer Answer Type Question"
+    },
+    {
+      "question_number": 14,
+      "question": "A string 25 cm long and having a mass of 2.5 g is under tension. A pipe closed at one end is 40 cm long. When the string is set vibrating in its first overtone and the air in the pipe in its fundamental frequency, 8 beats/s are heard. It is observed that decreasing the tension in the string decreases the beat frequency. If the speed of sound in air is 320 m/s find the tension in the string.",
+      "year": 1982,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 15,
+      "question": "A sonometer wire under a tension of 64 N vibrating in its fundamental mode is in resonance with a vibrating tuning fork. The vibrating portion of the sonometer wire has a length of 10 cm and mass of the wire is 10 g. The vibrating tuning fork is now moved away from the vibrating wire with a constant speed and an observer standing near the sonometer hears one beat per second. Calculate the speed with which the tuning fork is moved, if the speed of sound in air is 300 m/s.",
+      "year": 1983,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 16,
+      "question": "A steel wire of length 1 m, mass 0.1 kg and uniform cross-sectional area 10⁻⁶ m² is rigidly fixed at both ends. The temperature of the wire is lowered by 20°C. If transverse waves are set-up by plucking the string in the middle, calculate the frequency of the fundamental mode of vibration.\nGiven: Y_steel = 2 × 10¹¹ N/m², α_steel = 1.21 × 10⁻⁵ /°C",
+      "year": 1984,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 17,
+      "question": "The vibrations of a string of length 60 cm fixed at both ends are represented by the equation y = 4 sin(πx / 15) cos(96 π t), where x and y are in cm and t is in second.\n(a) What is the maximum displacement of a point at x = 5 cm?\n(b) Where are the nodes located along the string?\n(c) What is the velocity of the particle at x = 7.5 cm at t = 0.25 s?\n(d) Write down the equations of the component waves whose superposition gives the above wave.",
+      "year": 1985,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 18,
+      "question": "The following equations represent transverse waves:\nz₁ = 4 cos (k x − ω t),\nz₂ = 4 cos (k x + ω t),\nz₃ = 4 cos (k y − ω t)\nIdentify the combination(s) of the waves which will produce\n(a) standing wave(s),\n(b) a wave travelling in the direction making an angle of 45 degrees with the positive X and positive Y-axes.\nIn each case, find the position at which the displacement is always zero.",
+      "year": 1986,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 19,
+      "question": "A train approaching a hill at a speed of 40 km/h sounds a whistle of frequency 580 Hz when it is at a distance of 1 km from a hill. A wind with a speed of 40 km/h is blowing in the direction of motion of the train. Find\n(a) the frequency of the whistle as heard by an observer on the hill,\n(b) the distance from the hill at which the echo from the hill is heard by the driver and its frequency.\n(Velocity of sound in air = 1200 km/h)",
+      "year": 1988,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 20,
+      "question": "A source of sound is moving along a circular path of radius 3 m with an angular velocity of 10 rad/s. A sound detector located far away from the source is executing linear simple harmonic motion along the line BD (see figure) with an amplitude BC = CD = 6 m. The frequency of oscillation of the detector is 5/π per second. The source is at the point A when the detector is at the point B. If the source emits a continuous sound wave of frequency 340 Hz, find the maximum and the minimum frequencies recorded by the detector. (Speed of sound = 340 m/s)",
+      "year": 1990,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": [],
+      "images":["arihant_images_ch10/arihant_14.png"]
+    },
+    {
+      "question_number": 21,
+      "question": "The displacement of the medium in a sound wave is given by the equation y₁ = A cos (αx + b t) where A, α and b are positive constants. The wave is reflected by an obstacle situated at x = 0. The intensity of the reflected wave is 0.64 times that of the incident wave.\n(a) What are the wavelength and frequency of incident wave?\n(b) Write the equation for the reflected wave.\n(c) In the resultant wave formed after reflection, find the maximum and minimum values of the particle speeds in the medium.\n(d) Express the resultant wave as a superposition of a standing wave and a travelling wave. What are the positions of the antinodes of the standing wave? What is the direction of propagation of travelling wave?",
+      "year": 1991,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 22,
+      "question": "Two radio stations broadcast their programmes at the same amplitude A and at slightly different frequencies ω₁ and ω₂ respectively, where ω₁ − ω₂ = 10² Hz. A detector receives the signals from the two stations simultaneously. It can only detect signals of intensity ≥ 2 A².\n(a) Find the time interval between successive maxima of the intensity of the signal received by the detector.\n(b) Find the time for which the detector remains idle in each cycle of the intensity of the signal.",
+      "year": 1993,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 23,
+      "question": "A metallic rod of length 1 m is rigidly clamped at its mid-point. Longitudinal stationary waves are set-up in the rod in such a way that there are two nodes and one antinode. The amplitude of one antinode is 2 × 10⁻⁶ m. Write the equation of motion at a point 2 cm from the mid-point and those of the constituent waves in the rod. (Young’s modulus of the material of the rod = 2 × 10¹¹ N/m²; density = 8000 kg/m³)",
+      "year": 1994,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 24,
+      "question": "The air column in a pipe closed at one end is made to vibrate in its second overtone by tuning fork of frequency 440 Hz. The speed of sound in air is 330 m/s. End corrections may be neglected. Let p₀ denote the mean pressure at any point in the pipe and Δp₀ the maximum amplitude of pressure variation.\n(a) Find the length L of the air column.\n(b) What is the amplitude of pressure variation at the middle of the column?\n(c) What are the maximum and minimum pressures at the open end of the pipe?\n(d) What are the maximum and minimum pressures at the closed end of the pipe?",
+      "year": 1998,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 25,
+      "question": "A long wire PQR is made by joining two wires PQ and QR of equal radii. PQ has length 4.8 m and mass 0.06 kg. QR has length 2.56 m and mass 0.2 kg. The wire PQR is under a tension of 80 N. A sinusoidal wave pulse of amplitude 3.5 cm is sent along the wire PQ from the end P. No power is dissipated during the propagation of the wave pulse. Calculate\n(a) the time taken by the wave pulse to reach the other end R and\n(b) the amplitude of the reflected and transmitted wave pulse after the incident wave pulse crosses the joint Q.",
+      "year": 1999,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 26,
+      "question": "A 3.6 m long pipe resonates with a source of frequency 212.5 Hz when water level is at certain heights in the pipe. Find the heights of water level (from the bottom of the pipe) at which two resonances occur. Neglect end correction. Now the pipe is filled to a height (H = 3.6 m). A small hole is drilled very close to its bottom and water is allowed to leak. Obtain an expression for the rate of fall of water level in the pipe as a function of height H. If the radius of the pipe is 2 cm and the hole is 2 × 10⁻² m² in cross-section, find the time interval between the occurrence of first two resonances. Speed of sound in air is 340 m/s and g = 10 m/s².",
+      "year": 2000,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 27,
+      "question": "A boat is travelling in a river with a speed 10 m/s along the stream flowing with a speed 2 m/s. From this boat a sound transmitter is lowered into the river through a rigid support. The wavelength of the sound emitted from the transmitter inside the water is 14.45 mm. Assume that attenuation of sound in water and air is negligible.\n(a) What will be the frequency detected by a receiver kept inside the river downstream?\n(b) The transmitter and the receiver are now pulled up into air. The air is blowing with a speed 5 m/s in the direction opposite to the river stream. Determine the frequency of the sound detected by the receiver.\n(Temperature of the air and water = 20°C ; Density of river water = 10³ kg/m³ ;\nBulk modulus of the water = 2.088 × 10⁹ Pa ;\nGas constant R = 8.311/mol-K ;\nMean molecular mass of air = 28.8 × 10⁻³ kg/mol ;\nC_p / C_v for air = 1.4)",
+      "year": 2001,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 28,
+      "question": "Two narrow cylindrical pipes A and B have the same length. Pipe A is open at both ends and is filled with a monoatomic gas of molar mass M_A. Pipe B is open at one end and closed at the other end, and is filled with a diatomic gas of molar mass M_B. Both gases are at the same temperature.\n(a) If the frequency to the second harmonic of pipe A is equal to the frequency of the third harmonic of the fundamental mode in pipe B, determine the value of M_A / M_B.\n(b) Now the open end of the pipe B is closed (so that the pipe is closed at both ends). Find the ratio of the fundamental frequency in pipe A to that in pipe B.",
+      "year": 2002,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 29,
+      "question": "A string of mass per unit length μ is clamped at both ends such that one end is at x = 0 and the other is at x = l. When string vibrates in fundamental mode, amplitude of string is 5 mm. Longitudinal stationary waves are set-up in the string. Determine\n(a) the pressure amplitude at antinode and node,\n(b) the maximum and minimum pressure at x = l/4,\n(c) the energy transferred by the string to the surrounding in one second if string vibrates at 500 Hz and string length is 1.5 m. Amplitude at antinode is 5 mm. Speed of wave = 300 m/s. Density of medium is 1.5 kg/m³.",
+      "year": 2003,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    }
+
+  ],
+  "section-3": [
+    {
+      "question_number": 1,
+      "question": "The (x, y) coordinates of the corners of a square plate are (0,0), (L,0), (L,L) and (0,L). The edges of the plate are clamped and transverse standing waves are set-up in it. If u(x, y) denotes the displacement of the plate at the point (x, y) at some instant of time, the possible expression(s) for u is (are) (a = positive constant)",
+      "year": 1998,
+      "question_type": "Objective Question II (One or more correct option)",
+      "options": [
+        "(a) a cos (πx/2L) cos (πy/2L)",
+        "(b) a sin (πx/L) sin (πy/L)",
+        "(c) a sin (πx/L) sin (2πy/L)",
+        "(d) a cos (2πx/L) sin (πy/L)"
+      ]
+    }
+  ]
+}

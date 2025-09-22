@@ -1,0 +1,199 @@
+[
+  {
+    "question_number": 4.1,
+    "Questions": "In Fig. 4-1(a), the tension in the horizontal cord is 30 N as shown. Find the weight of the object.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_33.png"],
+    "solution": "The weight of the object is 25 N, calculated using equilibrium equations and trigonometric decomposition."
+  },
+  {
+    "question_number": 4.2,
+    "Questions": "A rope extends between two poles. A 90-N boy hangs from it as shown in Fig. 4-2(a). Find the tensions in the two parts of the rope.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_34.png"],
+    "solution": "FT1 = 0.35 kN, FT2 = 0.34 kN, using trigonometric resolution and simultaneous equations."
+  },
+  {
+    "question_number": 4.3,
+    "Questions": "A 50-N box is slid straight across the floor at constant speed by a force of 25 N at 40°. (a) How large a friction force impedes motion? (b) What is the normal force? (c) Find μk.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_35.png"],
+    "solution": "(a) 19 N, (b) 34 N, (c) μk = 0.57"
+  },
+  {
+    "question_number": 4.4,
+    "Questions": "Find the tensions in the ropes shown in Fig. 4-4(a) if the supported object weighs 600 N.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_36.png"],
+    "solution": "FT1 = FT2 = 346 N, FT3 = FT4 = 651 N, FT5 = 877 N, using symmetry and vector decomposition."
+  },
+  {
+    "question_number": 4.5,
+    "Questions": "Each of the objects in Fig. 4-5 is in equilibrium. Find the normal force FN in each case.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_37.png"],
+    "solution": "(a) FN = 400 N, (b) FN = 250 N, (c) FN = 200 cos(θ) N"
+  },
+  {
+    "question_number": 4.6,
+    "Questions": "For the situations of Problem 4.5, find the coefficient of kinetic friction if the object is moving with constant speed.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) μk = 0.43, (b) μk = 0.69, (c) μk = tan(θ)"
+  },
+  {
+    "question_number": 4.7,
+    "Questions": "Suppose that in Fig. 4-5(c) the block is at rest and begins to slide when the angle of the incline is 42°. What is the coefficient of static friction?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "μs = tan(42°) = 0.90"
+  },
+  {
+    "question_number": 4.8,
+    "Questions": "Pulled by the 8.0-N block shown in Fig. 4-6(a), the 20-N block slides at constant velocity. Find μk between block and table.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_38.png"],
+    "solution": "μk = 0.40"
+  },
+  {
+    "problem": "4.9",
+    "images":["images/arihant_ch16_39.png"],
+    "Questions": "For the situation shown in Fig. 4-7, find the values of F_T1 and F_T2 if the object's weight is 600 N.",
+    "answer": {
+      "F_T1": "503 N",
+      "F_T2": "783 N"
+    }
+  },
+  {
+    "problem": "4.10",
+    "Questions": "The following coplanar forces pull on a ring: 200 N at 30.0°, 500 N at 80.0°, 300 N at 240°, and an unknown force. Find the magnitude and direction of the unknown force if the ring is to be in equilibrium.",
+    "answer": {
+      "magnitude": "350 N",
+      "direction": "252°"
+    }
+  },
+  {
+    "problem": "4.11",
+    "images":["images/arihant_ch16_40.png"],
+    "Questions": "In Fig. 4-8, the pulleys are frictionless and the system hangs at equilibrium. If F_W3, the weight of the object on the right, is 200 N, what are the values of F_W1 and F_W2?",
+    "answer": {
+      "F_W1": "260 N",
+      "F_W2": "150 N"
+    }
+  },
+  {
+    "problem": "4.12",
+    "Questions": "Suppose F_W1 in Fig. 4-8 is 500 N. Find the values of F_W2 and F_W3 if the system is to hang in equilibrium as shown.",
+    "answer": {
+      "F_W2": "288 N",
+      "F_W3": "384 N"
+    }
+  },
+  {
+    "problem": "4.13",
+    "images":["images/arihant_ch16_41.png"],
+    "Questions": "If in Fig. 4-9 the friction between the block and the incline is negligible, how much must the object on the right weigh if the 200-N block is to remain at rest?",
+    "answer": {
+      "weight": "115 N"
+    }
+  },
+  {
+    "problem": "4.14",
+    "Questions": "The system in Fig. 4-9 remains at rest when F_W = 220 N. What are the magnitude and direction of the friction force on the 200-N block?",
+    "answer": {
+      "magnitude": "105 N",
+      "direction": "down the incline"
+    }
+  },
+  {
+    "problem": "4.15",
+    "images":["images/arihant_ch16_42.png"],
+    "Questions": "Find the normal force acting on the block in each of the equilibrium situations shown in Fig. 4-10.",
+    "answer": {
+      "(a)": "34 N",
+      "(b)": "46 N",
+      "(c)": "91 N"
+    }
+  },
+  {
+    "problem": "4.16",
+    "Questions": "The block shown in Fig. 4-10(a) slides with constant speed under the action of the force shown. (a) How large is the retarding friction force? (b) What is the coefficient of kinetic friction between the block and the floor?",
+    "answer": {
+      "(a)": "12 N",
+      "(b)": "0.34"
+    }
+  },
+  {
+    "problem": "4.17",
+    "Questions": "The block shown in Fig. 4-10(b) slides at a constant speed down the incline. (a) How large is the friction force that opposes its motion? (b) What is the coefficient of sliding (kinetic) friction between the block and the plane?",
+    "answer": {
+      "(a)": "39 N",
+      "(b)": "0.84"
+    }
+  },
+  {
+    "problem": "4.18",
+    "Questions": "The block in Fig. 4-10(c) just begins to slide up the incline when the pushing force shown is increased to 70 N. (a) What is the critical static friction force on it? (b) What is the value of the coefficient of static friction?",
+    "answer": {
+      "(a)": "15 N",
+      "(b)": "0.17"
+    }
+  },
+  {
+    "problem": "4.19",
+    "images":["images/arihant_ch16_43.png"],
+    "Questions": "If F_W = 40 N in the equilibrium situation shown in Fig. 4-11, find F_T1 and F_T2.",
+    "answer": {
+      "F_T1": "58 N",
+      "F_T2": "31 N"
+    }
+  },
+  {
+    "problem": "4.20",
+    "Questions": "Refer to the equilibrium situation shown in Fig. 4-11. The cords are strong enough to withstand a maximum tension of 80 N. What is the largest value of F_W that they can support as shown?",
+    "answer": {
+      "F_W_max": "55 N"
+    }
+  },
+  {
+    "problem": "4.21",
+    "images":["images/arihant_ch16_44.png"],
+    "Questions": "The object in Fig. 4-12 is in equilibrium and has a weight F_W = 80 N. Find F_T1, F_T2, F_T3, and F_T4. Give all answers to two significant figures.",
+    "answer": {
+      "F_T1": "37 N",
+      "F_T2": "88 N",
+      "F_T3": "77 N",
+      "F_T4": "0.14 kN"
+    }
+  },
+  {
+    "problem": "4.22",
+    "images":["images/arihant_ch16_45.png"],
+    "Questions": "The pulleys shown in Fig. 4-13 have negligible weight and friction. What is the value of F_W if the system is at equilibrium?",
+    "answer": {
+      "F_W": "185 N"
+    }
+  },
+  {
+    "problem": "4.23",
+    "images":["images/arihant_ch16_46.png"],
+    "Questions": "In Fig. 4-14, the system is in equilibrium. (a) What is the maximum value that F_W can have if the friction force on the 40-N block cannot exceed 12.0 N? (b) What is the coefficient of static friction between the block and the tabletop?",
+    "answer": {
+      "(a)": "6.9 N",
+      "(b)": "0.30"
+    }
+  },
+  {
+    "problem": "4.24",
+    "Questions": "The system in Fig. 4-14 is just on the verge of slipping. If F_W = 8.0 N, what is the coefficient of static friction between the block and tabletop?",
+    "answer": {
+      "mu_s": "0.35"
+    }
+  }
+]

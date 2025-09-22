@@ -1,0 +1,2045 @@
+[
+  {
+    "id": 1,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 2,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 3,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 4,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 5,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 6,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 7,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 8,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 9,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 10,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 11,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 12,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 13,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 14,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 15,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 16,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 17,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 18,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 19,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 20,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 21,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 22,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 23,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 24,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 25,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 26,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 27,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 28,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 29,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 30,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 31,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 32,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 33,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 34,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 35,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 36,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astronomy",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 37,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 38,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 39,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 40,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 41,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 42,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 43,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 44,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 45,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 46,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 47,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 48,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 49,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 50,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 51,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 52,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 53,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 54,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 55,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 56,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 57,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 58,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 59,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 60,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 61,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 62,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 63,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 64,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 65,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 66,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 67,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 68,
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 69,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 70,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 71,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 72,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 73,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 74,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 75,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 76,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 77,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 78,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 79,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 80,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 81,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 82,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 83,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 84,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 85,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 86,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 87,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 88,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 89,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 90,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 91,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 92,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 93,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 94,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 95,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 96,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 97,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 98,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 99,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 100,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 101,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 102,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 103,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 104,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 105,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 106,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 107,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 108,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 109,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 110,
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 111,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 112,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 113,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 114,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 115,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 116,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 117,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 118,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 119,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 120,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 121,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 122,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 123,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Numerical Analysis",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 124,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 125,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 126,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 127,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 128,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 129,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 130,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 131,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 132,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 133,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 134,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 135,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 136,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 137,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 138,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 139,
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 140,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 141,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 142,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 143,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 144,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 145,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 146,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 147,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 148,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Crystallography is part of Solid State Physics, but closest match is EXT as specific subfield is not listed, however since crystallography is more physics than maths, using 'EXT' for subfield",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 149,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 150,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 151,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 152,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 153,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 154,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "ASTROPHYSICS",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 155,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 156,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 157,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 158,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 159,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 160,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 161,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 162,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 163,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 164,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 165,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 166,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 167,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 168,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 169,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 170,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 171,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 172,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 173,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 174,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 175,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 176,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 177,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 178,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 179,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 180,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 181,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 182,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 183,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 184,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 185,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 186,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 187,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 188,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 189,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 190,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 191,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astronomy",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 192,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 193,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 194,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 195,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 196,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 197,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 198,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Quantum Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 199,
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 200,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 201,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 202,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 203,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Quantum Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 204,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": 205,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 206,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 207,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 208,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 209,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 210,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 211,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 212,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 213,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 214,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 215,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Astronomy",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 216,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 217,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 218,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 5"
+    }
+  },
+  {
+    "id": 219,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Particle Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 220,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 221,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 222,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Astrophysics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 223,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 224,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 225,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 226,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": 227,
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  }
+]

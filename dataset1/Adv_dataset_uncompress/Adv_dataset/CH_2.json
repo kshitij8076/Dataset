@@ -1,0 +1,492 @@
+{
+    "section-1": [
+        {
+            "question_number": 1,
+            "question": "Two balls of different masses are thrown vertically upwards with the same speed. They pass through the point of projection in their downward motion with the same speed (Neglect air resistance)",
+            "year": 1983,
+            "question_type": "true/false"
+        },
+        {
+            "question_number": 2,
+            "question": "A projectile fired from the ground follows a parabolic path. The speed of the projectile is minimum at the top of its path.",
+            "year": 1984,
+            "question_type": "true/false"
+        },
+        {
+            "question_number": 3,
+            "question": "For an observer looking out through the window of a fast moving train, the nearby objects appear to move in the opposite direction to the train, while the distant objects appear to be stationary. Reason: If the observer and the object are moving at velocities v₁ and v₂, respectively with reference to a laboratory frame, the velocity of the object with respect to the observer is v₁ = v₂.",
+            "year": 2008,
+            "question_type": "assertion and reason",
+            "options": [
+                "(a) If Assertion is true, Reason is true: Reason is the correct explanation for Assertion",
+                "(b) If Assertion is true, Reason is true: Reason is not a correct explanation for Assertion",
+                "(c) If Assertion is true, Reason is false",
+                "(d) If Assertion is false, Reason is true"
+            ]
+        },
+        {
+            "question_number": 7,
+            "question": "The trajectory of a projectile in a vertical plane is y = ax - bx², where a, b are constants, and x and y are respectively, the horizontal and vertical distances of the projectile from the point of projection. The maximum height attained is .......... and the angle of projection from the horizontal is ..........",
+            "year": 1997,
+            "question_type": "mcq"
+        },
+        {
+            "question_number": 8,
+            "question": "A particle is moving Eastwards with a velocity of 5 m/s. In 10 s, the velocity changes to 5 m/s Northwards. The average acceleration in this time is ..........",
+            "year": 1982,
+            "question_type": "mcq",
+            "options": [
+                "(a) zero",
+                "(b) 1 m/s² towards North-East",
+                "(c) 1 m/s² towards North-West",
+                "(d) 1 m/s² towards North"
+            ]
+        },
+        {
+            "question_number": 9,
+            "question": "In the arrangement shown in the figure, the ends P and Q of an unstretchable string move downwards with uniform speed U. Pulleys A and B are fixed. Mass M moves upwards with a speed ..........",
+            "year": 1982,
+            "question_type": "mcq",
+            "options": [
+                "(a) 2U cos θ",
+                "(b) U cos θ",
+                "(c) 2U cos θ",
+                "(d) U cos θ"
+            ],
+            "images": ["arihant_images_ch2/arihant_1.png"]
+        },
+        {
+            "question_number": 10,
+            "question": "A river is flowing from West to East at a speed of 5 m/min. A man on the South bank of the river, capable of swimming at 10 m/min in still water, wants to swim across the river in the shortest time. He should swim in a direction ..........",
+            "year": 1983,
+            "question_type": "mcq",
+            "options": [
+                "due North",
+                "30° East of North",
+                "30° West of North",
+                "60° East of North"
+            ]
+        },
+        {
+            "question_number": 11,
+            "question": "A boat which has a speed of 5 km/h in still water crosses a river of width 1 km along the shortest possible path in 15 min. The velocity of the river water in km/h is ..........",
+            "year": 1988,
+            "question_type": "mcq",
+            "options": [
+                "1",
+                "3",
+                "5",
+                "7"
+            ]
+        },
+        {
+            "question_number": 12,
+            "question": "A particle P is sliding down a frictionless hemispherical bowl. It passes the point at t = 0. At this instant of time, the horizontal component of its velocity is v. A bead Q of the same mass as P is ejected from A at t = 0 along the horizontal string AB, with the speed v. Friction between the bead and the string may be neglected. Let tₚ and tQ be the respective times taken by P and Q to reach the point B. Then ..........",
+            "year": 1993,
+            "question_type": "mcq",
+            "options": [
+                "tₚ < tQ",
+                "tₚ = tQ",
+                "tₚ > tQ",
+                "tₚ = length of arc ACB, tQ = length of chord AB"
+            ],
+            "images": ["arihant_images_ch2/arihant_2.png"]
+        },
+        {
+            "question_number": 13,
+            "question": "In 1.0 s, a particle goes from point A to point B, moving in a semicircle (see figure). The magnitude of the average velocity is ..........",
+            "year": 1999,
+            "question_type": "mcq",
+            "options": [
+                "3.14 m/s",
+                "2.0 m/s",
+                "1.0 m/s",
+                "zero"
+            ],
+            "images": ["arihant_images_ch2/arihant_3.png"]
+        },
+        
+        {
+            "question_number": 15,
+            "question": "A particle starts from rest. Its acceleration (a) versus time (t) is as shown in the figure. The maximum speed of the particle will be ..........",
+            "year": 2004,
+            "question_type": "mcq",
+            "options": [
+                "10 m/s",
+                "55 m/s",
+                "550 m/s",
+                "660 m/s"
+            ],
+            "images": ["arihant_images_ch2/arihant_4.png"]
+        },
+        {
+            "question_number": 16,
+            "question": "A small block slides without friction down an inclined plane starting from rest. Let sₙ be the distance travelled from t = n - 1 to t = n. Then ..........",
+            "year": 2004,
+            "question_type": "mcq",
+            "options": [
+                "2n - 1",
+                "2n",
+                "2n + 1",
+                "2n + 1"
+            ]
+        },
+        
+        {
+            "question_number": 18,
+            "question": "A projectile is given an initial velocity of (i + 2j) m/s, where i is along the ground and j is along the vertical. If g = 10 m/s², then the equation of its trajectory is ..........",
+            "year": 2013,
+            "question_type": "mcq",
+            "options": [
+                "(a) y = x - 5x²",
+                "(b) y = 2x - 5x²",
+                "(c) 4y = 2x - 5x²",
+                "(d) 4y = 2x - 25x²"
+            ]
+        },
+        {
+            "question_number": 19,
+            "question": "From a tower of height H, a particle is thrown vertically upwards with a speed u. The time taken by the particle to hit the ground is n times that taken by it to reach the highest point of its path. The relation between H, u and n is ..........",
+            "year": 2014,
+            "question_type": "mcq",
+            "options": [
+                "(a) 2gH = nu²",
+                "(b) gH = (n - 2)u²",
+                "(c) 2gH = nu²",
+                "(d) gH = (n - 2)²u²"
+            ]
+        },
+        
+        {
+            "question_number": 23,
+            "question": "A particle is moving with speed v = b√t along positive x-axis. Calculate the speed of the particle at time t = τ (assume that the particle is at origin at t = 0).",
+            "year": 2019,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 24,
+            "question": "A ball is thrown upward with an initial velocity v₀ from the surface of the earth. The motion of the ball is affected by a drag force equal to mγv² (where, m is mass of the ball, v is its instantaneous velocity and γ is a constant). Time taken by the ball to rise to its maximum height is ..........",
+            "year": 2019,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 25,
+            "question": "The bob of a simple pendulum has mass 2g and a charge of 5.0μC. It is at rest in a uniform horizontal electric field of intensity 2000 V/m. At equilibrium, the angle that the pendulum makes with the vertical is .......... (take g = 10 m/s²)",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) tan⁻¹ 2.0",
+                "(b) tan⁻¹ 0.2",
+                "(c) tan⁻¹ 5.0",
+                "(d) tan⁻¹ 0.5"
+            ]
+        },
+        {
+            "question_number": 26,
+            "question": "A particle moves from the point (20i + 40j) m at t = 0 with an initial velocity (50i + 40j) m/s. It is acted upon by a constant force which produces a constant acceleration (40i + 40j) m/s². What is the distance of the particle from the origin at time 2s?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 5 m",
+                "(b) 10/2 m",
+                "(c) 10/5 m",
+                "(d) 15 m"
+            ]
+        },
+        {
+            "question_number": 27,
+            "question": "In a car race on a straight path, car A takes a time less than car B at the finish and passes the finishing point with a speed ‘v’ more than that of car B. Both the cars start from rest and travel with constant acceleration a₁ and a₂ respectively. Then v is equal to ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 2a₁a₂t / a₁ + a₂",
+                "(b) 2a₁a₂t / (a₁ + a₂)²",
+                "(c) a₁²t / a₁ + a₂",
+                "(d) 2a₁a₂ / (a₁ + a₂)"
+            ]
+        },
+        {
+            "question_number": 28,
+            "question": "The stream of a river is flowing with a speed of 2 km/h. A swimmer can swim at a speed of 4 km/h. What should be the direction of the swimmer with respect to the flow of the river to cross the river straight?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 60°",
+                "(b) 120°",
+                "(c) 90°",
+                "(d) 150°"
+            ]
+        },
+        {
+            "question_number": 29,
+            "question": "Ship A is sailing towards north-east with velocity v = (30i + 50j) km/h, where i points east and j north. Ship B is at a distance of 80 km east and 150 km north of Ship A and is sailing towards west at 10 km/h. A will be at minimum distance from B in ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 4.2 h",
+                "(b) 2.6 h",
+                "(c) 3.2 h",
+                "(d) 2.2 h"
+            ]
+        },
+        {
+            "question_number": 30,
+            "question": "A person standing on an open ground hears the sound of a jet aeroplane, coming from north at an angle 60° with ground level. But he finds the aeroplane right vertically above his position. If his the speed of sound, then the speed of the plane is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) √3 v / 2",
+                "(b) v",
+                "(c) 2v / √3",
+                "(d) v / √3"
+            ]
+        },
+        {
+            "question_number": 31,
+            "question": "A passenger train of length 60 m travels at a speed of 80 km/hr. Another freight train of length 120 m travels at a speed of 30 km/hr. The ratio of times taken by the passenger train to completely cross the freight train when: (i) they are moving in the same direction and (ii) in the opposite direction is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 3 / 2",
+                "(b) 25 / 11",
+                "(c) 11 / 5",
+                "(d) 5 / 2"
+            ]
+        },
+        {
+            "question_number": 33,
+            "question": "A particle starts from the origin at time t = 0 and moves along the positive X-axis. The graph of velocity with respect to time is shown in figure. What is the position of the particle at time t = 5 s?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 6 m",
+                "(b) 3 m",
+                "(c) 10 m",
+                "(d) 9 m"
+            ],
+            "images": ["arihant_images_ch2/arihant_5.png"]
+        },
+    
+        {
+            "question_number": 34,
+            "question": "Two particles are projected from the same point with the same speed u such that they have the same range R, but different maximum heights h₁ and h₂. Which of the following is correct?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "R² = 4h₁h₂",
+                "R² = 16h₁h₂",
+                "R² = h₁h₂"
+            ]
+        },
+        {
+            "question_number": 35,
+            "question": "A shell is fired from a fixed artillery gun with an initial speed u such that it hits the target on the ground at a distance R from it. t₁ and t₂ are the values of the time taken by it to hit the target in two possible ways, the product of t₁ and t₂ ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "R / 4g",
+                "R / g",
+                "R / 2g",
+                "R / g"
+            ]
+        },
+        {
+            "question_number": 36,
+            "question": "If it were launched at an angle θ, with speed v₀, then the trajectory of a projectile for the same trajectory equation can be written as ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "θ₀ = sin⁻¹(1/√5) and v₀ = 5 m/s",
+                "θ₀ = cos⁻¹(1/√5) and v₀ = 3 m/s"
+            ]
+        },
+        {
+            "question_number": 37,
+            "question": "A plane is inclined at an angle θ = 30° with respect to the horizontal. A particle is projected with a speed u = 2 m/s from the base of the plane, making an angle θ = 15° with respect to the plane as shown in the figure. The distance from the base, at which the particle hits the plane is close to ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "26 cm",
+                "20 cm",
+                "18 cm",
+                "14 cm"
+            ],
+            "images": ["arihant_images_ch2/arihant_6.png"]
+        },
+        {
+            "question_number": 38,
+            "question": "The position vector of particle changes with time according to the relation r(t) = (15i + 5j)t + (4 - 20t²)j. What is the magnitude of the acceleration (in m/s²) at t = 1s?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "50",
+                "100",
+                "25",
+                "40"
+            ]
+        },
+        {
+            "question_number": 39,
+            "question": "The position of a particle as a function of time t, is given by x(t) = at + bt² - ct³ where a, b and c are constants. When the particle attains zero acceleration, then its velocity will be ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "a + b² / c",
+                "b² / c",
+                "a + b² / 4c",
+                "a + b² / 2c"
+            ]
+        },
+        {
+            "question_number": 40,
+            "question": "A body is projected at t = 0 with a velocity 10 m/s at an angle of 60° with the horizontal. The radius of curvature of its trajectory at t = 1s is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "10.3 m",
+                "2.8 m",
+                "5.1 m",
+                "2.5 m"
+            ]
+        },
+        {
+            "question_number": 41,
+            "question": "Two guns A and B can fire bullets at speeds 1 km/s and 2 km/s, respectively. From a point on a horizontal ground, they are fired in all possible directions. The ratio of maximum areas covered by the bullets on the ground fired by the two guns is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "1 : 4",
+                "1 : 16",
+                "1 : 8",
+                "1 : 2"
+            ]
+        },
+        {
+            "question_number": 42,
+            "question": "In three dimensional system, the position coordinates of a particle (in motion) are given below. The velocity of particle will be ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) x = acos ωt",
+                "(b) x = 2 ωt",
+                "(c) acos ωt",
+                "(d) 3 ωt"
+            ]
+        },
+        {
+            "question_number": 43,
+            "question": "A particle is moving with a velocity v = k(î + ĵ), where k is a constant. The general equation for its path is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "y = x² + constant",
+                "y² = x + constant",
+                "y = constant",
+                "y² = x² + constant"
+            ]
+        },
+        {
+            "question_number": 44,
+            "question": "The coordinates of a particle moving in a plane are given by x(t) = a cos (pt) and y(t) = b sin (pt) where a, b (< a) and p are positive constants of appropriate dimensions. Then ..........",
+            "year": 1999,
+            "question_type": "mcq",
+            "options": [
+                "The path of the particle is an ellipse",
+                "The velocity and acceleration of the particle are normal to each other at t = π / 2p",
+                "The acceleration of the particle is always directed towards a focus",
+                "The distance travelled by the particle in time interval t = 0 to t = π / 2p is a"
+            ]
+        },
+        {
+            "question_number": 45,
+            "question": "A train is moving along a straight line with a constant acceleration a. A boy standing in the train throws a ball forward with a speed of 10 m/s, at an angle of 60° to the horizontal. The boy has to move forward by 1.15 m inside the train to catch the ball back at the initial height. The acceleration of the train, in m/s², is ..........",
+            "year": 2011,
+            "question_type": "integer answer"
+        }
+
+
+
+    ],
+    "section-2": [
+        {
+            "question_number": 1,
+            "question": "A particle of mass m moves on the x-axis as follows: it starts from rest at t = 0 from the point x = 0 and comes to rest at t = 1 at the point x = 1. No other information is available about its motion at intermediate times (0 < t < 1). If a denotes the instantaneous acceleration of the particle, then ..........",
+            "year": 1993,
+            "question_type": "mcq",
+            "options": [
+                "(a) a cannot remain positive for all t in the interval 0 ≤ t ≤ 1",
+                "(b) a cannot exceed 2 at any point in its path",
+                "(c) |a| must be ≥ 4 at some point or points in its path",
+                "(d) a must change sign during the motion, but no other assertion can be made with the information given"
+            ]
+        },
+        {
+            "question_number": 2,
+            "question": "Particles P and Q of mass 20 g and 40 g respectively are simultaneously projected from points A and B on the ground. The initial velocities of P and Q make 45° and 135° angles respectively with the horizontal as shown in the figure. Each particle has an initial speed of 49 m/s. The separation AB is 245 m. Both particles travel in the same vertical plane and undergo a collision. After the collision, P retraces its path. (a) Determine the position Q where it hits the ground. (b) How much time after the collision does the particle Q take to reach the ground? (Take g = 9.8 m/s²)",
+            "year": 1982,
+            "question_type": "integer answer",
+            "images": ["arihant_images_ch2/arihant_7.png"]
+        },
+        {
+            "question_number": 3,
+            "question": "A body falling freely from a given height H hits an inclined plane in its path at a height h. As a result of this impact, the velocity of the body becomes horizontal. For what value of (h / H), the body will take maximum time to reach the ground?",
+            "year": 1986,
+            "question_type": "mcq"
+        },
+        {
+            "question_number": 4,
+            "question": "Two towers AB and CD are situated a distance d apart as shown in figure. AB is 20 m high and CD is 30 m high from the ground. An object of mass m is thrown from the top of AB horizontally with a velocity of 10 m/s towards CD. Simultaneously, another object of mass 2 m is thrown from the top of CD at an angle of 60° to the horizontal towards AB with the same magnitude of initial velocity as that of the first object. The two objects move in the same vertical plane, collide in mid-air and stick to each other. (a) Calculate the distance d between the towers. (b) Find the position where the objects hit the ground.",
+            "year": 1994,
+            "question_type": "mcq",
+            "images": ["arihant_images_ch2/arihant_8.png"]
+        },
+        {
+            "question_number": 5,
+            "question": "Two guns situated on the top of a hill of height 10 m fire one shot each with the same speed 5/3 m/s at some interval of time. One gun fires horizontally and the other fires upwards at an angle of 60° with the horizontal. The shots collide in air at point P (g = 10 m/s²). Find: (a) the time interval between the firings and (b) the coordinates of the point P. Take the origin of the coordinate system at the foot of the hill right below the muzzle and treat distances in the x-y plane.",
+            "year": 1996,
+            "question_type": "mcq"
+        },
+        {
+            "question_number": 6,
+            "question": "A cart is moving along x-direction with a velocity of 4 m/s. A person on the cart throws a stone with a velocity of 6 m/s relative to himself. In the frame of reference of the cart, the stone is thrown in y-z plane making an angle of 30° with vertical z-axis. At the highest point of its trajectory, the stone hits an object of equal mass hung vertically from the branch of a tree by means of a string of length L.",
+            "year": 1997,
+            "question_type": "mcq",
+            "options": [
+                "The speed of the combined mass immediately after the collision with respect to an observer on the ground.",
+                "The length L of the string such that tension in the string becomes zero when the string becomes horizontal during the subsequent motion of the combined mass."
+            ]
+        },
+        {
+            "question_number": 7,
+            "question": "A large heavy box is sliding without friction down a smooth plane of inclination θ. From a point P on the bottom of the box, a particle is projected inside the box. The initial speed of the particle with respect to the box is u and the direction of projection makes an angle θ with the bottom as shown in the figure. (a) Find the distance along the bottom of the box between the point of projection P and the point Q where the particle lands (Assume that the particle does not hit any other surface of the box. Neglect air resistance). (b) If the horizontal displacement of the particle as seen by an observer on the ground is zero, find the speed of the box with respect to the ground at the instant when the particle was projected.",
+            "year": 1998,
+            "question_type": "integer answer",
+            "images": ["arihant_images_ch2/arihant_9.png"]
+        },
+        {
+            "question_number": 8,
+            "question": "An object A is kept fixed at the point x = 3 m and y = 1.25 m on a plank P raised above the ground. At time t = 0, the plank starts moving along the x-direction with an acceleration 1.5 m/s². At the same instant, a stone is projected from the origin with a velocity as shown. A stationary person on the ground observes the stone hitting the object during its downward motion at an angle of 45° to the horizontal. All the motions are in the x-y plane. Find u and the time after which the stone hits the object. (Take g = 10 m/s²)",
+            "year": 2000,
+            "question_type": "integer answer",
+            "images": ["arihant_images_ch2/arihant_10.png"]
+        },
+        {
+            "question_number": 9,
+            "question": "Airplanes A and B are flying with constant velocity in the same vertical plane at angles 30° and 60° with respect to the horizontal respectively as shown in the figure. The speed of A is 100 m/s. At time t = 0 s, an observer in A finds B at a distance of 500 m. This observer sees B moving with a constant velocity perpendicular to the line of motion of A. If at t = tf, A just escapes being hit by B, tf in seconds is ..........",
+            "year": 2014,
+            "question_type": "integer answer",
+            "images": ["arihant_images_ch2/arihant_11.png"]
+        },
+        {
+            "question_number": 10,
+            "question": "On a frictionless horizontal surface, assumed to be the x-y plane, a small trolley A is moving along a straight line parallel to the x-axis (see figure) with a constant velocity of (√3 − 1) m/s. At a particular instant when the line OA makes an angle of 45° with the x-axis, a ball is thrown along the surface from the origin O. Its velocity makes an angle θ with the x-axis and hits the trolley. (a) The motion of the ball is observed from the frame of the trolley. Calculate the angle θ made by the velocity vector of the ball with the x-axis in this frame. (b) Find the speed of the ball with respect to the surface, if θ = 40°.",
+            "year": 2002,
+            "question_type": "integer answer",
+            "images": ["arihant_images_ch2/arihant_12.png"]
+        }
+
+    ]
+    
+
+
+}

@@ -1,0 +1,1101 @@
+{
+  "quiz_title": "Electromagnetic Induction and Alternating Current",
+  "problem_types": [
+    {
+      "type_name": "True / False",
+      "section": "SECTION 1",
+      "questions": [
+        {
+          "id": 1,
+          "question_number": 1,
+          "type": "true_false",
+          "question_text": "A coil of metal wire is kept stationary in a non-uniform magnetic field. An emf is induced in the coil.",
+          "year": 1986
+        },
+        {
+          "id": 2,
+          "question_number": 2,
+          "type": "true_false",
+          "question_text": "A conducting rod AB moves parallel to the X-axis in a uniform magnetic field pointing in the positive z-direction. The end A of the rod gets positively charged.",
+          "image_present": true,
+          "year": 1987,
+          "images":["arihant_images_ch16/arihant_ch16_1.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Fill in the Blank",
+      "section": "SECTION 1",
+      "questions": [
+        {
+          "id": 3,
+          "question_number": 3,
+          "type": "fill_in_the_blank",
+          "question_text": "A uniformly wound solenoidal coil of self-inductance 1.8 × 10⁻⁴ H and resistance 6 Ω is broken up into two identical coils. These identical coils are then connected in parallel across a 15 V battery of negligible resistance. The time constant for the current in the circuit is ...... s and the steady state current through the battery is … A.",
+          "year": 1989
+        },
+        {
+          "id": 4,
+          "question_number": 4,
+          "type": "fill_in_the_blank",
+          "question_text": "In a straight conducting wire, a constant current is flowing from left to right due to a source of emf. When the source is switched off, the direction of the induced current in the wire will be......",
+          "year": 1993
+        },
+        {
+          "id": 5,
+          "question_number": 5,
+          "type": "fill_in_the_blank",
+          "question_text": "The network shown in figure is part of a complete circuit. If at a certain instant the current (I) is 5A and is decreasing at a rate of 10³ A/s, then V_B - V_A = ....V",
+          "image_present": true,
+          "year": 1997,
+          "images":["arihant_images_ch16/arihant_ch16_2.png"]
+          
+          
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION 1",
+      "questions": [
+        {
+          "id": 6,
+          "question_number": 6,
+          "type": "multiple_choice",
+          "question_text": "A conducting square loop of side L and resistance R moves in its plane with a uniform velocity v perpendicular to one of its sides. A magnetic induction B, constant in time and space, pointing perpendicular to and into the plane of the loop exists everywhere. The current induced in the loop is",
+          "options": [
+            "BLv/R clockwise",
+            "BLv/R anti-clockwise",
+            "2BLv/R anti-clockwise",
+            "zero"
+          ],
+          "image_present": true,
+          "year": 1989,
+          "images":["arihant_images_ch16/arihant_ch16_3.png"]
+        },
+        {
+          "id": 7,
+          "question_number": 7,
+          "type": "multiple_choice",
+          "question_text": "A thin semicircular conducting ring of radius R is falling with its plane vertical in a horizontal magnetic induction B. At the position MNQ the speed of the ring is v and the potential difference developed across the ring is",
+          "options": [
+            "zero",
+            "BvRπ²/2 and M is at higher potential",
+            "πBRv and Q is at higher potential",
+            "2RBv and Q is at higher potential"
+          ],
+          "image_present": true,
+          "year": 1996,
+          "images":["arihant_images_ch16/arihant_ch16_4.png"]
+        },
+        {
+          "id": 8,
+          "question_number": 8,
+          "type": "multiple_choice",
+          "question_text": "A metal rod moves at a constant velocity in a direction perpendicular to its length. A constant uniform magnetic field exists in space in a direction perpendicular to the rod as well as its velocity. Select the correct statement(s) from the following.",
+          "options": [
+            "The entire rod is at the same electric potential.",
+            "There is an electric field in the rod.",
+            "The electric potential is highest at the centre of the rod and decrease towards its ends.",
+            "The electric potential is lowest at the centre of the rod and increases towards its ends."
+          ],
+          "year": 1998
+        },
+        {
+          "id": 9,
+          "question_number": 9,
+          "type": "multiple_choice",
+          "question_text": "A small square loop of wire of side l is placed inside a large square loop of wire of side L (L>>l). The loops are coplanar and their centres coincide. The mutual inductance of the system is proportional to",
+          "options": [
+            "l/L",
+            "l²/L",
+            "L/l",
+            "L²/l"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 10,
+          "question_number": 10,
+          "type": "multiple_choice",
+          "question_text": "A circular loop of radius R, carrying current I, lies in x-y plane with its centre at origin. The total magnetic flux through x-y plane is",
+          "options": [
+            "directly proportional to I.",
+            "directly proportional to R.",
+            "inversely proportional to R.",
+            "zero."
+          ],
+          "year": 1999
+        },
+        {
+          "id": 11,
+          "question_number": 11,
+          "type": "multiple_choice",
+          "question_text": "A coil of inductance 8.4 mH and resistance 6 Ω is connected to a 12 V battery. The current in the coil is 1A at approximately the time",
+          "options": [
+            "500 s",
+            "20 s",
+            "35 ms",
+            "1 ms"
+          ],
+          "year": 1999
+        },
+        {
+          "id": 12,
+          "question_number": 12,
+          "type": "multiple_choice",
+          "question_text": "Two identical circular loops of metal wire are lying on a table without touching each other. Loop A carries a current which increases with time. In response, the loop B",
+          "options": [
+            "remains stationary",
+            "is attracted by the loop A",
+            "is repelled by the loop A",
+            "rotates about its CM, with CM fixed"
+          ],
+          "year": 1999
+        },
+        {
+          "id": 13,
+          "question_number": 13,
+          "type": "multiple_choice",
+          "question_text": "A uniform but time-varying magnetic field B(t) exists in a circular region of radius a and is directed into the plane of the paper as shown. The magnitude of the induced electric field at point P at a distance r from the centre of the circular region",
+          "options": [
+            "is zero",
+            "decreases as 1/r",
+            "increases as r",
+            "decreases as 1/r²"
+          ],
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch16/arihant_ch16_5.png"]
+        },
+        {
+          "id": 14,
+          "question_number": 14,
+          "type": "multiple_choice",
+          "question_text": "A metallic square loop ABCD is moving in its own plane with velocity v in a uniform magnetic field perpendicular to its plane as shown in the figure. Electric field is induced",
+          "options": [
+            "in AD, but not in BC",
+            "in BC, but not in AD",
+            "neither in AD nor in BC",
+            "in both AD and BC"
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch16/arihant_ch16_6.png"]
+        },
+        {
+          "id": 15,
+          "question_number": 15,
+          "type": "multiple_choice",
+          "question_text": "Two circular coils can be arranged in any of the three situations shown in the figure. Their mutual inductance will be",
+          "options": [
+            "maximum in situation (A).",
+            "maximum in situation (B).",
+            "maximum in situation (C).",
+            "the same in all situations."
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch16/arihant_ch16_7.png"]
+        },
+        {
+          "id": 16,
+          "question_number": 16,
+          "type": "multiple_choice",
+          "question_text": "As shown in the figure, P and Q are two coaxial conducting loops separated by some distance. When the switch S is closed, a clockwise current I_p flows in P (as seen by E) and an induced current I_Q1 flows in Q. The switch remains closed for a long time. When S is opened, a current I_Q2 flows in Q. Then the direction I_Q1 and I_Q2 (as seen by E) are",
+          "options": [
+            "respectively clockwise and anti-clockwise",
+            "both clockwise",
+            "both anti-clockwise",
+            "respectively anti-clockwise and clockwise"
+          ],
+          "image_present": true,
+          "year": 2002,
+          "images":["arihant_images_ch16/arihant_ch16_8.png"]
+        },
+        {
+          "id": 17,
+          "question_number": 17,
+          "type": "multiple_choice",
+          "question_text": "A short-circuited coil is placed in a time varying magnetic field. Electrical power is dissipated due to the current induced in the coil. If the number of turns were to be quadrupled (four times) and the wire radius halved, the electrical power dissipated would be",
+          "options": [
+            "halved",
+            "the same",
+            "doubled",
+            "quadrupled"
+          ],
+          "year": 2002
+        },
+        {
+          "id": 18,
+          "question_number": 18,
+          "type": "multiple_choice",
+          "question_text": "When an AC source of emf e = E₀sin(100t) is connected across a circuit, the phase difference between the emf e and the current i in the circuit is observed to be π/4 ahead, as shown in the diagram. If the circuit consists possibly only of R-C or R-L or L-C in series, find the relationship between the two elements.",
+          "options": [
+            "R=1kΩ, C=10µF",
+            "R=1kΩ, C=1µF",
+            "R=1kΩ, L=10H",
+            "R=1kΩ, L=1H"
+          ],
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch16/arihant_ch16_9.png"]
+        },
+        {
+          "id": 19,
+          "question_number": 19,
+          "type": "multiple_choice",
+          "question_text": "The variation of induced emf (e) with time (t) in a coil if a short bar magnet is moved along its axis with a constant velocity is best represented as",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2004
+        },
+        {
+          "id": 20,
+          "question_number": 20,
+          "type": "multiple_choice",
+          "question_text": "An infinitely long cylinder is kept parallel to a uniform magnetic field B directed along positive Z-axis. The direction of induced current as seen from the Z-axis will be",
+          "options": [
+            "clockwise of the +ve Z-axis",
+            "anti-clockwise of the +ve Z-axis",
+            "zero",
+            "along the magnetic field"
+          ],
+          "year": 2005
+        },
+        {
+          "id": 21,
+          "question_number": 21,
+          "type": "multiple_choice",
+          "question_text": "The figure shows certain wire segments joined together to form a coplanar loop. The loop is placed in a perpendicular magnetic field in the direction going into the plane of the figure. The magnitude of the field increases with time. I₁ and I₂ are the currents in the segments ab and cd. Then,",
+          "options": [
+            "I₁ > I₂",
+            "I₁ < I₂",
+            "I₁ is in the direction ba and I₂ is in the direction cd.",
+            "I₁ is in the direction ab and I₂ is in the direction dc."
+          ],
+          "image_present": true,
+          "year": 2009,
+          "images":["arihant_images_ch16/arihant_ch16_10.png"]
+        },
+        {
+          "id": 22,
+          "question_number": 22,
+          "type": "multiple_choice",
+          "question_text": "An AC voltage source of variable angular frequency ω and fixed amplitude V₀ is connected in series with a capacitance C and an electric bulb of resistance R (inductance zero). When ω is increased,",
+          "options": [
+            "the bulb glows dimmer",
+            "the bulb glows brighter",
+            "total impedance of the circuit is unchanged",
+            "total impedance of the circuit increases"
+          ],
+          "year": 2010
+        },
+        {
+          "id": 23,
+          "question_number": 23,
+          "type": "multiple_choice",
+          "question_text": "A circular loop of radius 0.3 cm lies parallel to a much bigger circular loop of radius 20 cm. The centre of the smaller loop is on the axis of the bigger loop. The distance between their centres is 15 cm. If a current of 2.0 A flows through the bigger loop, then the flux linked with smaller loop is",
+          "options": [
+            "9.1 × 10⁻¹¹ Wb",
+            "6 × 10⁻¹¹ Wb",
+            "3.3 × 10⁻¹¹ Wb",
+            "6.6 × 10⁻⁹ Wb"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 24,
+          "question_number": 24,
+          "type": "multiple_choice",
+          "question_text": "In a L-C-R circuit as shown below, both switches are open initially. Now switch S₁ and S₂ are closed. (q is charge on the capacitor and τ = RC is capacitance time constant). Which of the following statement is correct?",
+          "options": [
+            "Work done by the battery is half of the energy dissipated in the resistor",
+            "At t = τ, q = CV/2",
+            "At t = 2τ, q = CV(1-e⁻²)",
+            "At t = τ/2, q = CV(1-e⁻¹)"
+          ],
+          "image_present": true,
+          "year": 2013,
+          "images":["arihant_images_ch16/arihant_ch16_11.png"]
+        },
+        {
+          "id": 25,
+          "question_number": 25,
+          "type": "multiple_choice",
+          "question_text": "The amplitude of a damped oscillator decreases to 0.9 times its original magnitude is 5 s. In another 10 s, it will decrease to α times its original magnitude, where α equals",
+          "options": [
+            "0.7",
+            "0.81",
+            "0.729",
+            "0.6"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 26,
+          "question_number": 26,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown here, the point C is kept connected to point A till the current flowing through the circuit becomes constant. Afterwards, suddenly point C is disconnected from point A and connected to point B at time t = 0. Ratio of the voltage across resistance and the inductor at t = L/R will be equal to",
+          "options": [
+            "e/(1-e)",
+            "1",
+            "-1",
+            "(1-e)/e"
+          ],
+          "image_present": true,
+          "year": 2014,
+          "images":["arihant_images_ch16/arihant_ch16_12.png"]
+        },
+        {
+          "id": 27,
+          "question_number": 27,
+          "type": "multiple_choice",
+          "question_text": "An inductor (L = 0.03 H) and a resistor (R = 0.15 kΩ) are connected in series to a battery of 15V EMF in a circuit shown below. The key K₁ has been kept closed for a long time. Then at t=0, K₁ is opened and key K₂ is closed simultaneously. At t = 1ms, the current in the circuit will be (e⁵ ≈ 150)",
+          "options": [
+            "100 mA",
+            "67 mA",
+            "0.67 mA",
+            "6.7 mA"
+          ],
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch16/arihant_ch16_13.png"]
+        },
+        {
+          "id": 28,
+          "question_number": 28,
+          "type": "multiple_choice",
+          "question_text": "An arc lamp requires a direct current of 10 A at 80 V to function. If it is connected to a 220 V (rms), 50 Hz AC supply, the series inductor needed for it to work is close to",
+          "options": [
+            "80 H",
+            "0.08 H",
+            "0.044 H",
+            "0.065 H"
+          ],
+          "year": 2016
+        },
+        {
+          "id": 29,
+          "question_number": 29,
+          "type": "multiple_choice",
+          "question_text": "In a coil of resistance 100 Ω, a current is induced by changing the magnetic flux through it as shown in the figure. The magnitude of change in flux through the coil is",
+          "options": [
+            "225 Wb",
+            "250 Wb",
+            "275 Wb",
+            "200 Wb"
+          ],
+          "image_present": true,
+          "year": 2017,
+          "images":["arihant_images_ch16/arihant_ch16_14.png"]
+        },
+        {
+          "id": 30,
+          "question_number": 30,
+          "type": "multiple_choice",
+          "question_text": "For an R-L-C circuit driven with voltage of amplitude v_m and frequency ω₀ = 1/√LC, the current exhibits resonance. The quality factor, Q is given by",
+          "options": [
+            "CR/ω₀",
+            "ω₀L/R",
+            "ω₀R/L",
+            "R/(ω₀C)"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 31,
+          "question_number": 31,
+          "type": "multiple_choice",
+          "question_text": "In an AC circuit, the instantaneous emf and current are given by e = 100sin(30t), i = 20sin(30t - π/4). In one cycle of AC, the average power consumed by the circuit and the wattless current are, respectively",
+          "options": [
+            "50, 0",
+            "50, 10",
+            "1000/√2, 10",
+            "50/√2, 0"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 32,
+          "question_number": 32,
+          "type": "multiple_choice",
+          "question_text": "A very long solenoid of radius R is carrying current I(t) = kt*e⁻ᵃᵗ (k>0), as a function of time (t≥0). Counter clockwise current is taken to be positive. A circular conducting coil of radius 2R is placed in the equatorial plane of the solenoid and concentric with the solenoid. The current induced in the outer coil is correctly depicted, as a function of time, by",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2019
+        },
+        {
+          "id": 33,
+          "question_number": 33,
+          "type": "multiple_choice",
+          "question_text": "A 10 m long horizontal wire extends from North-East to South-West. It is falling with a speed of 5.0 ms⁻¹ at right angles to the horizontal component of the earth's magnetic field of 0.3×10⁻⁴ Wb/m². The value of the induced emf in wire is",
+          "options": [
+            "1.5 × 10⁻³ V",
+            "1.1 × 10⁻³ V",
+            "0.3 × 10⁻³ V",
+            "2.5 × 10⁻³ V"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 34,
+          "question_number": 34,
+          "type": "multiple_choice",
+          "question_text": "The self-induced emf of a coil is 25 V. When the current in it is changed at uniform rate from 10 A to 25 A in 1s, the change in the energy of the inductance is",
+          "options": [
+            "437.5 J",
+            "740 J",
+            "637.5 J",
+            "540 J"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 35,
+          "question_number": 35,
+          "type": "multiple_choice",
+          "question_text": "The figure shows a square loop L of side 5 cm which is connected to a network of resistances. The whole setup is moving towards right with a constant speed of 1 cm/s. At some instant, a part of L is in a uniform magnetic field of 1 T, perpendicular to the plane of the loop. If the resistance of L is 1.7 Ω, the current in the loop at that instant will be close to",
+          "options": [
+            "60 µA",
+            "170 µA",
+            "150 µA",
+            "115 µA"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch16/arihant_ch16_15.png"]
+        },
+        {
+          "id": 36,
+          "question_number": 36,
+          "type": "multiple_choice",
+          "question_text": "A transformer consisting of 300 turns in the primary and 150 turns in the secondary gives output power of 2.2 kW. If the current in the secondary coil is 10 A, then the input voltage and current in the primary coil are",
+          "options": [
+            "440 V and 5 A",
+            "220 V and 20 A",
+            "220 V and 10 A",
+            "440 V and 20 A"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 37,
+          "question_number": 37,
+          "type": "multiple_choice",
+          "question_text": "Two coils P and Q are separated by some distance. When a current of 3 A flows through coil P, a magnetic flux of 10⁻³ Wb passes through Q. No current is passed through Q. When no current passes through P and a current of 2 A passes through Q, the flux through P is",
+          "options": [
+            "6.67 × 10⁻³ Wb",
+            "6.67 × 10⁻⁴ Wb",
+            "3.67 × 10⁻³ Wb",
+            "3.67 × 10⁻⁴ Wb"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 38,
+          "question_number": 38,
+          "type": "multiple_choice",
+          "question_text": "The total number of turns and cross-section area in a solenoid is fixed. However, its length L is varied by adjusting the separation between windings. The inductance of solenoid will be proportional to",
+          "options": [
+            "1/L",
+            "L²",
+            "L",
+            "1/L²"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 39,
+          "question_number": 39,
+          "type": "multiple_choice",
+          "question_text": "There are two long coaxial solenoids of same length l. The inner and outer coils have radii r₁ and r₂ and number of turns per unit length n₁ and n₂, respectively. The ratio of mutual inductance to the self-inductance of the inner coil is",
+          "options": [
+            "(n₂/n₁) * (r₁/r₂)",
+            "(n₂/n₁) * (r₂²/r₁²)",
+            "n₂/n₁",
+            "n₁/n₂"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 40,
+          "question_number": 40,
+          "type": "multiple_choice",
+          "question_text": "Consider the L-R circuit shown in the figure. If the switch S is closed at t=0, then the amount of charge that passes through the battery between t=0 and t = L/R is",
+          "options": [
+            "EL/(2.7R²)",
+            "EL/(2.7R²)",
+            "7.3EL/R²",
+            "EL/(7.3R²)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch16/arihant_ch16_16.png"]
+        },
+        {
+          "id": 41,
+          "question_number": 41,
+          "type": "multiple_choice",
+          "question_text": "A coil of self inductance 10 mH and resistance 0.1 Ω is connected through a switch to a battery of internal resistance 0.9 Ω. After the switch is closed, the time taken for the current to attain 80% of the saturation value is [Take, ln 5 = 1.6]",
+          "options": [
+            "0.002 s",
+            "0.324 s",
+            "0.103 s",
+            "0.016 s"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 42,
+          "question_number": 42,
+          "type": "multiple_choice",
+          "question_text": "A 20 H inductor coil is connected to a 10 ohm resistance in series as shown in figure. The time at which rate of dissipation of energy (Joule's heat) across resistance is equal to the rate at which magnetic energy is stored in the inductor, is",
+          "options": [
+            "2/ln(2)",
+            "(1/2)ln(2)",
+            "2ln(2)",
+            "ln(2)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch16/arihant_ch16_17.png"]
+        },
+        {
+          "id": 43,
+          "question_number": 43,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown, the switch S₁ is closed at time t=0 and the switch S₂ is kept open. At some later time (t₀), the switch S₁ is opened and S₂ is closed. The behaviour of the current I as a function of time 't' is given by",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2019
+        },
+        {
+          "id": 44,
+          "question_number": 44,
+          "type": "multiple_choice",
+          "question_text": "A series AC circuit containing an inductor (20 mH), a capacitor (120 µF) and a resistor (60 Ω) is driven by an AC source of 24 V/50 Hz. The energy dissipated in the circuit in 60 s is",
+          "options": [
+            "3.39 × 10³ J",
+            "5.65 × 10² J",
+            "2.26 × 10³ J",
+            "5.17 × 10² J"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 45,
+          "question_number": 45,
+          "type": "multiple_choice",
+          "question_text": "In the figure shown, a circuit contains two identical resistors with resistance R=5Ω and an inductance with L=2mH. An ideal battery of 15 V is connected in the circuit. What will be the current through the battery long after the switch is closed?",
+          "options": [
+            "6 A",
+            "3 A",
+            "5.5 A",
+            "7.5 A"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch16/arihant_ch16_18.png"]
+        },
+        {
+          "id": 46,
+          "question_number": 46,
+          "type": "multiple_choice",
+          "question_text": "A circuit connected to an AC source of emf e = e₀sin(100t) with t in seconds, gives a phase difference of π/4 between the emf e and current i. Which of the following circuits will exhibit this?",
+          "options": [
+            "RC circuit with R = 1kΩ and C = 1µF",
+            "RL circuit with R = 1kΩ and L = 1mH",
+            "RC circuit with R = 1kΩ and C = 10µF",
+            "RL circuit with R = 1kΩ and L = 10mH"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 47,
+          "question_number": 47,
+          "type": "multiple_choice",
+          "question_text": "An alternating voltage V(t) = 220sin(100πt) volt is applied to a purely resistive load of 50 Ω. The time taken for the current to rise from half of the peak value to the peak value is",
+          "options": [
+            "5 ms",
+            "2.2 ms",
+            "7.2 ms",
+            "3.3 ms"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 48,
+          "question_number": 48,
+          "type": "multiple_choice",
+          "question_text": "In the above circuit, C = √3/2 µF, R₂ = 20 Ω, L = √3/10 H and R₁ = 10 Ω. Current in L-R₁ path is I₁ and in C-R₂ path is I₂. The voltage of AC source is given by V = 200√2sin(100t) volts. The phase difference between I₁ and I₂ is",
+          "options": [
+            "30°",
+            "60°",
+            "0°",
+            "90°"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch16/arihant_ch16_19.png"]
+        },
+        {
+          "id": 49,
+          "question_number": 49,
+          "type": "multiple_choice",
+          "question_text": "A solid metal cube of edge length 2 cm is moving in a positive Y-direction at a constant speed of 6 m/s. There is a uniform magnetic field of 0.1 T in the positive Z-direction. The potential difference between the two faces of the cube perpendicular to the X-axis is",
+          "options": [
+            "2 mV",
+            "12 mV",
+            "6 mV",
+            "1 mV"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 50,
+          "question_number": 50,
+          "type": "multiple_choice",
+          "question_text": "A power transmission line feeds input power at 2300 V to a step-down transformer with its primary windings having 4000 turns. The output power is delivered at 230 V by the transformer. If the current in the primary of the transformer is 5A and its efficiency is 90%, the output current would be",
+          "options": [
+            "45 A",
+            "50 A",
+            "25 A",
+            "35 A"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 51,
+          "question_number": 51,
+          "type": "multiple_choice",
+          "question_text": "A conducting circular loop is made of a thin wire has area 3.5×10⁻³ m² and resistance 10 Ω. It is placed perpendicular to a time dependent magnetic field B(t) = (0.4T)sin(50πt). The field is uniform in space. Then the net charge flowing through the loop during t=0s and t=10ms is close to",
+          "options": [
+            "6 mC",
+            "21 mC",
+            "7 mC",
+            "14 mC"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 52,
+          "question_number": 52,
+          "type": "multiple_choice",
+          "question_text": "An elliptical loop having resistance R, of semi-major axis a and semi-minor axis b is placed in a magnetic field as shown in the figure. If the loop is rotated about the X-axis with angular frequency ω, then the average power loss in the loop due to joule's heating is",
+          "options": [
+            "(π²a²b²B²ω²)/(2R)",
+            "zero",
+            "πabBω/R",
+            "π²a²b²B²ω/R"
+          ],
+          "image_present": true,
+          "year": 2020,
+          "images":["arihant_images_ch16/arihant_ch16_20.png"]
+        },
+        {
+          "id": 53,
+          "question_number": 53,
+          "type": "multiple_choice",
+          "question_text": "A 750 Hz, 20 V (rms) source is connected to a resistance of 100 Ω, an inductance of 0.1803 H and a capacitance of 10µF all in series combination. The time in which the resistance (heat capacity 2 J/°C) will get heated by 10°C is close to (Assume no loss of heat to the surroundings)",
+          "options": [
+            "418 s",
+            "245 s",
+            "365 s",
+            "348 s"
+          ],
+          "year": 2020
+        },
+        {
+          "id": 54,
+          "question_number": 57,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, the AC source has ω = 100 rad/s. Considering the inductor and capacitor to be ideal, the correct choice(s) is(are)",
+          "options": [
+            "the current through the circuit, I is approximately 0.3 A",
+            "the current through the circuit, I is approximately 0.3√2 A",
+            "the voltage across 100 Ω resistor = 10√2 V",
+            "the voltage across 50 Ω resistor = 10 V"
+          ],
+          "image_present": true,
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION 1",
+      "questions": [
+        {
+          "id": 55,
+          "question_number": 54,
+          "type": "multiple_select",
+          "question_text": "Two different coils have self-inductances L₁=8 mH and L₂=2 mH. The current in one coil is increased at a constant rate. The current in the second coil is also increased at the same constant rate. At a certain instant of time, the power given to the two coils is the same. At that time, the current, the induced voltage and the energy stored in the first coil are i₁, V₁ and W₁ respectively. Corresponding values for the second coil at the same instant are i₂, V₂ and W₂ respectively. Then",
+          "options": [
+            "i₁/i₂ = 1/4",
+            "i₁/i₂ = 4",
+            "W₁/W₂ = 1/4",
+            "V₁/V₂ = 4"
+          ],
+          "year": 1994
+        },
+        {
+          "id": 56,
+          "question_number": 55,
+          "type": "multiple_select",
+          "question_text": "A field line is shown in the figure. This field cannot represent",
+          "options": [
+            "magnetic field",
+            "electrostatic field",
+            "induced electric field",
+            "gravitational field"
+          ],
+          "image_present": true,
+          "year": 2006,
+          "images":["arihant_images_ch16/arihant_ch16_21.png"]
+        },
+        {
+          "id": 57,
+          "question_number": 56,
+          "type": "multiple_select",
+          "question_text": "A current carrying infinitely long wire is kept along the diameter of a circular wire loop, without touching it. The correct statement(s) is(are)",
+          "options": [
+            "The emf induced in the loop is zero if the current is constant.",
+            "The emf induced in the loop is finite if the current is constant.",
+            "The emf induced in the loop is zero if the current decreases at a steady rate.",
+            "The emf induced in the loop is finite if the current decreases at a steady rate."
+          ],
+          "year": 2012
+        },
+        {
+      "id": 57.1,
+      "question_number": 57,
+      "type": "multiple_select",
+      "question_text": "In the given circuit, the AC source has ω = 100 rad/s. Considering the inductor and capacitor to be ideal, the correct choice(s) is(are)",
+      "options": [
+        "the current through the circuit, I is approximately 0.3 A",
+        "the current through the circuit, I is approximately 0.3√2 A",
+        "the voltage across 100 Ω resistor = 10√2 V",
+        "the voltage across 50 Ω resistor = 10 V"
+      ],
+      "image_present": true,
+      "year": 2012,
+      "images":["arihant_images_ch16/arihant_ch16_22.png"]
+    },
+        {
+          "id": 58,
+          "question_number": 58,
+          "type": "multiple_select",
+          "question_text": "In the figure below, the switches S₁ and S₂ are closed simultaneously at t=0 and a current starts to flow in the circuit. Both the batteries have the same magnitude of the electromotive force (emf) and the polarities are as indicated in the figure. Ignore mutual inductance between the inductors. The current I in the middle wire reaches its maximum magnitude I_max at time t=τ. Which of the following statements is (are) true?",
+          "options": [
+            "I_max = V/R",
+            "I_max = V/(2R)",
+            "τ = (L/R)ln(2)",
+            "τ = (2L/R)ln(2)"
+          ],
+          "image_present": true,
+          "year": 2018,
+          "images":["arihant_images_ch16/arihant_ch16_23.png"]
+        },
+        {
+          "id": 59,
+          "question_number": 60,
+          "type": "multiple_select",
+          "question_text": "After the capacitor gets fully charged, S₁ is opened and S₂ is closed so that the inductor is connected in series with the capacitor. Then,",
+          "context": "Passage: The capacitor of capacitance C can be charged (with the help of a resistance R) by a voltage source V, by closing switch S₁ while keeping switch S₂ open. The capacitor can be connected in series with an inductor L by closing switch S₂ and opening S₁.",
+          "options": [
+            "at t=0, energy stored in the circuit is purely in the form of magnetic energy.",
+            "at any time t > 0, current in the circuit is in the same direction.",
+            "at t > 0, there is no exchange of energy between the inductor and capacitor.",
+            "at any time t > 0, maximum instantaneous current in the circuit may be V√(C/L)."
+          ],
+          "year": 2006
+        },
+        {
+          "id": 60,
+          "question_number": 61,
+          "type": "multiple_select",
+          "question_text": "If the total charge stored in the LC circuit is Q₀, then for t ≥ 0,",
+          "context": "Passage: The capacitor of capacitance C can be charged (with the help of a resistance R) by a voltage source V, by closing switch S₁ while keeping switch S₂ open. The capacitor can be connected in series with an inductor L by closing switch S₂ and opening S₁.",
+          "options": [
+            "the charge on the capacitor is Q = Q₀cos(π/2 + t/√LC)",
+            "the charge on the capacitor is Q = Q₀cos(π/2 - t/√LC)",
+            "the charge on the capacitor is Q = -LC(d²Q/dt²)",
+            "the charge on the capacitor is Q = -(1/LC)(d²Q/dt²)"
+          ],
+          "year": 2006
+        },
+        {
+          "id": 61,
+          "question_number": 1,
+          "type": "multiple_select",
+          "section": "SECTION 3",
+          "question_text": "A conducting loop in the shape of a right angled isosceles triangle of height 10 cm is kept such that the 90° vertex is very close to an infinitely long conducting wire (see the figure). The wire is electrically insulated from the loop. The hypotenuse of the triangle is parallel to the wire. The current in the triangular loop is in counterclockwise direction and increased at a constant rate of 10 A/s. Which of the following statement(s) is (are) true?",
+          "options": [
+            "There is a repulsive force between the wire and the loop.",
+            "If the loop is rotated at a constant angular speed about the wire, an additional emf of (µ₀/π) volt is induced in the wire.",
+            "The magnitude of induced emf in the wire is (µ₀/π) volt.",
+            "The induced current in the wire is in opposite direction to the current along the hypotenuse."
+          ],
+          "image_present": true,
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "type_name": "Passage Based Questions",
+      "section": "SECTION 1",
+      "questions": [
+        {
+          "id": 62,
+          "type": "passage",
+          "passage_title": "Passage",
+          "passage_text": "The capacitor of capacitance C can be charged (with the help of a resistance R) by a voltage source V, by closing switch S₁ while keeping switch S₂ open. The capacitor can be connected in series with an inductor L by closing switch S₂ and opening S₁.",
+          "image_present": true,
+          "images":["arihant_images_ch16/arihant_ch16_24.png"],
+          "associated_questions": [
+            {
+              "id": 63,
+              "question_number": 59,
+              "type": "multiple_choice",
+              "question_text": "Initially, the capacitor was uncharged. Now switch S₁ is closed and S₂ is kept open. If time constant of this circuit is τ, then",
+              "options": [
+                "after time interval τ, charge on the capacitor is CV/2",
+                "after time interval 2τ, charge on the capacitor is CV(1-e⁻²)",
+                "the work done by the voltage source will be half of the heat dissipated when the capacitor is fully charged",
+                "after time interval 2τ, charge on the capacitor is CV(1-e⁻¹)"
+              ],
+              "year": 2006
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type Question",
+      "section": "SECTION 1",
+      "questions": [
+        {
+          "id": 64,
+          "question_number": 62,
+          "type": "integer_answer",
+          "question_text": "A series R-C combination is connected to an AC voltage of angular frequency ω = 500 rad/s. If the impedance of the R-C circuit is R√1.25, the time constant (in millisecond) of the circuit is",
+          "year": 2011
+        },
+        {
+          "id": 65,
+          "question_number": 63,
+          "type": "integer_answer",
+          "question_text": "A circular wire loop of radius R is placed in the x-y plane centred at the origin O. A square loop of side a (a<<R) having two turns is placed with its centre at z=√3R along the axis of the circular wire loop, as shown in figure. The plane of the square loop makes an angle of 45° with respect to the Z-axis. If the mutual inductance between the loops is given by µ₀a²/(2^(p/2)R), then the value of p is",
+          "image_present": true,
+          "year": 2012,
+          "images":["arihant_images_ch16/arihant_ch16_25.png"]
+        },
+        {
+          "id": 66,
+          "question_number": 64,
+          "type": "integer_answer",
+          "question_text": "Two inductors L₁ (inductance 1mH, internal resistance 3Ω) and L₂ (inductance 2mH, internal resistance 4Ω), and a resistor R (resistance 12Ω) are all connected in parallel across a 5V battery. The circuit is switched on at time t=0. The ratio of the maximum to the minimum current (I_max/I_min) drawn from the battery is",
+          "year": 2016
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Type Questions",
+      "section": "SECTION 1",
+      "questions": [
+        {
+          "id": 67,
+          "question_number": 65,
+          "type": "descriptive",
+          "question_text": "A current from A to B is increasing in magnitude. What is the direction of induced current, in the loop as shown in the figure?",
+          "image_present": true,
+          "year": 1979,
+          "images":["arihant_images_ch16/arihant_ch16_26.png"]
+        },
+        {
+          "id": 68,
+          "question_number": 66,
+          "type": "descriptive",
+          "question_text": "Three identical closed coils A, B and C are placed with their planes parallel to one another. Coils A and C carry equal currents as shown in figure. Coils B and C are fixed in position and coil A is moved towards B with uniform motion. Is there any induced current in B? If no, give reasons. If yes, mark the direction of the induced current in the diagram.",
+          "image_present": true,
+          "year": 1982,
+          "images":["arihant_images_ch16/arihant_ch16_27.png"]
+        },
+        {
+          "id": 69,
+          "question_number": 67,
+          "type": "descriptive",
+          "question_text": "A solenoid has an inductance of 10 H and a resistance of 2 Ω. It is connected to a 10 V battery. How long will it take for the magnetic energy to reach 1/4 of its maximum value?",
+          "year": 1996
+        },
+        {
+          "id": 70,
+          "question_number": 68,
+          "type": "descriptive",
+          "question_text": "An inductor of inductance 2.0 mH is connected across a charged capacitor of capacitance 5.0µF and the resulting L-C circuit is set oscillating at its natural frequency. Let Q denote the instantaneous charge on the capacitor and I, the current in the circuit. It is found that the maximum value of Q is 200µC.\n(a) When Q = 100µC, what is the value of |dI/dt|?\n(b) When Q = 200µC, what is the value of I?\n(c) Find the maximum value of I.\n(d) When I is equal to one-half its maximum value, what is the value of |Q|?",
+          "year": 1998
+        },
+        {
+          "id": 71,
+          "question_number": 69,
+          "type": "descriptive",
+          "question_text": "In an L-R series circuit, a sinusoidal voltage V = V₀sinωt is applied. It is given that L=35 mH, R=11Ω, V_rms=220V, ω/2π=50Hz and π=22/7. Find the amplitude of current in the steady state and obtain the phase difference between the current and the voltage. Also plot the variation of current for one cycle on the given graph.",
+          "image_present": true,
+          "year": 2004,
+          "images":["arihant_images_ch16/arihant_ch16_28.png"]
+        },
+        {
+          "id": 72,
+          "question_number": 70,
+          "type": "descriptive",
+          "question_text": "In the circuit shown A and B are two cells of same emf E but different internal resistances r₁ and r₂ (r₁ > r₂). Find the value of R such that the potential difference across the terminals of cell A is zero, a long time after the key K is closed.",
+          "image_present": true,
+          "year": 2004,
+          "images":["arihant_images_ch16/arihant_ch16_29.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Assertion and Reason",
+      "section": "SECTION 2",
+      "questions": [
+        {
+          "id": 73,
+          "question_number": 1,
+          "type": "assertion_reason",
+          "instructions": "Mark your answer as:\n(a) If Assertion is true Reason is true; Reason is the correct explanation for Assertion\n(b) If Assertion is true Reason is true; Reason is not a correct explanation for Assertion\n(c) If Assertion is true; Reason is false\n(d) If Assertion is false; Reason is true",
+          "assertion": "A vertical iron rod has a coil of wire wound over it at the bottom end. An alternating current flows in the coil. There is a conducting ring round the rod as shown in the figure. The ring can float at a certain height above the coil.",
+          "reason": "In the above situation, a current is induced in the ring which interacts with the horizontal component of the magnetic field to produce an average force in the upward direction.",
+          "image_present": true,
+          "year": 2007,
+          "images":["arihant_images_ch16/arihant_ch16_30.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION 2",
+      "questions": [
+        {
+          "id": 74,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "A coil of wire having finite inductance and resistance has a conducting ring placed co-axially within it. The coil is connected to a battery at time t=0 so that a time dependent current I₁(t) starts flowing through the coil. If I₂(t) is the current induced in the ring and B(t) is the magnetic field at the axis of the coil due to I₁(t), then as a function of time (t>0), the product I₂(t)B(t)",
+          "options": [
+            "increases with time",
+            "decreases with time",
+            "does not vary with time",
+            "passes through a maximum"
+          ],
+          "year": 2000
+        },
+        {
+          "id": 75,
+          "question_number": 3,
+          "type": "multiple_choice",
+          "question_text": "A metallic rod of length l is tied to a string of length 2l and made to rotate with angular speed ω on a horizontal table with one end of the string fixed. If there is a vertical magnetic field B in the region, the emf induced across the ends of the rod is",
+          "options": [
+            "(2Bωl²)/2",
+            "(3Bωl²)/2",
+            "(4Bωl²)/2",
+            "(5Bωl²)/2"
+          ],
+          "image_present": true,
+          "year": 2013,
+          "images":["arihant_images_ch16/arihant_ch16_31.png"]
+        },
+        {
+          "id": 76,
+          "question_number": 4,
+          "type": "multiple_choice",
+          "question_text": "An L-C-R circuit is equivalent to a damped pendulum. In an L-C-R circuit, the capacitor is charged to Q₀ and then connected to the L and R as shown. If a student plots graphs of the square of maximum charge (Q_max²) on the capacitor with time (t) for two different values L₁ and L₂ (L₁ > L₂), then which of the following represents this graph correctly? (plots are schematic and not drawn to scale)",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2015
+        },
+        {
+          "id": 77,
+          "question_number": 5,
+          "type": "multiple_choice",
+          "question_text": "A copper wire is wound on a wooden frame, whose shape is that of an equilateral triangle. If the linear dimension of each side of the frame is increased by a factor of 3, keeping the number of turns of the coil per unit length of the frame the same, then the self-inductance of the coil",
+          "options": [
+            "increases by a factor of 3.",
+            "decreases by a factor of 9√3.",
+            "increases by a factor of 27.",
+            "decreases by a factor of 9."
+          ],
+          "year": 2019
+        },
+        {
+          "id": 78,
+          "question_number": 6,
+          "type": "multiple_choice",
+          "question_text": "A thin strip 10 cm long is on an U-shaped wire of negligible resistance and it is connected to a spring of spring constant 0.5 Nm⁻¹. (see figure). The assembly is kept in a uniform magnetic field of 0.1 T. If the strip is pulled from its equilibrium position and released, the number of oscillations it performs before its amplitude decreases by a factor of e is N. If the mass of the strip is 50 grams, its resistance 10 Ω and air drag negligible, N will be close to",
+          "options": [
+            "1000",
+            "50000",
+            "5000",
+            "10000"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch16/arihant_ch16_32.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Match the Columns",
+      "section": "SECTION 3",
+      "questions": [
+        {
+          "id": 79,
+          "question_number": 2,
+          "type": "matching",
+          "question_text": "You are given many resistances, capacitors and inductors. These are connected to a variable DC voltage source (the first two circuits) or an AC voltage source of 50 Hz frequency (the next three circuits) in different ways as shown in Column II. When a current I (steady state for DC or rms for AC) flows through the circuit, the corresponding voltage V₁ and V₂ (indicated in circuits) are related as shown in Column I.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A) I≠0, V₁ is proportional to I",
+              "(B) I≠0, V₂ > V₁",
+              "(C) V₁=0, V₂=V",
+              "(D) I≠0, V₂ is proportional to I"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p) Circuit with 6mH inductor and 3µF capacitor",
+              "(q) Circuit with 6mH inductor and 2Ω resistor",
+              "(r) Circuit with 6mH inductor and 3µF capacitor",
+              "(s) Circuit with 6mH inductor and 2Ω resistor",
+              "(t) Circuit with 6mH inductor and 3µF capacitor"
+            ]
+          },
+          "image_present": true,
+          "year": 2010
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+[
+  {
+    "question_number": 20.1,
+    "Questions": "In a certain process, 8.00 kcal of heat is furnished to the system while the system does 6.00 kJ of work. By how much does the internal energy of the system change during the process?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 27.5 kJ"
+  },
+  {
+    "question_number": 20.2,
+    "Questions": "The specific heat of water is 4184 J/kg·K. By how many joules does the internal energy of 50 g of water change as it is heated from 21°C to 37°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 3.4 x 10³ J"
+  },
+  {
+    "question_number": 20.3,
+    "Questions": "How much does the internal energy of 5.0 g of ice at precisely 0°C increase as it is changed to water at 0°C? Neglect the change in volume.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.7 kJ"
+  },
+  {
+    "question_number": 20.4,
+    "Questions": "A spring (k = 500 N/m) supports a 400-g mass which is immersed in 900 g of water. The specific heat of the mass is 450 J/kg·K. The spring is now stretched 15 cm and, after thermal equilibrium is reached, the mass is released so it vibrates up and down. By how much has the temperature of the water changed when the vibration has stopped?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.0014 K"
+  },
+  {
+    "question_number": 20.5,
+    "Questions": "Find ΔW and ΔU for a 6.0-cm cube of iron as it is heated from 20°C to 300°C at atmospheric pressure. For iron, c = 0.11 cal/g·°C and the volume coefficient of thermal expansion is 3.6 x 10⁻⁵ °C⁻¹. The mass of the cube is 1700 g.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. ΔW = 0.22 J, ΔU = 2.2 x 10⁵ J"
+  },
+  {
+    "question_number": 20.6,
+    "Questions": "A motor supplies 0.4 hp to stir 5 kg of water. Assuming that all the work goes into heating the water by friction losses, how long will it take to increase the temperature of the water 6°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 7 min"
+  },
+  {
+    "question_number": 20.7,
+    "Questions": "In each of the following situations, find the change in internal energy of the system. (a) A system absorbs 500 cal of heat and at the same time does 400 J of work. (b) A system absorbs 30 cal and at the same time 420 J of work is done on it. (c) Twelve hundred calories is removed from a gas held at constant volume. Give your answers in kilojoules.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 1.69 kJ, (b) 1.68 kJ, (c) -5.02 kJ"
+  },
+  {
+    "question_number": 20.8,
+    "Questions": "Find ΔU for a 1-kg sample of a gas undergoing a cyclic process in a piston-cylinder arrangement. Show that the net work output per cycle is equal to the area enclosed by the P-V diagram.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. ΔU = 0"
+  },
+  {
+    "question_number": 20.9,
+    "Questions": "The temperature of 5.00 kg of N₂ gas is raised from 10.0°C to 130.0°C. If this is done at constant pressure, find the increase in internal energy ΔU and the external work ΔW done by the gas.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. ΔU = 443 kJ, ΔW = 180 kJ"
+  },
+  {
+    "question_number": 20.10,
+    "Questions": "One kilogram of steam at 100°C and 101 kPa occupies 1.68 m³. (a) What fraction of the observed heat of vaporization of water is accounted for by the expansion of water into steam? (b) Determine the increase in internal energy of 1.00 kg of water as it is vaporized at 100°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 0.07, (b) 2.07 MJ"
+  },
+  {
+    "question_number": 20.11,
+    "Questions": "For nitrogen gas, cₚ = 740 J/kg·K. Find its specific heat at constant pressure. (The molecular mass of nitrogen gas is 28.0 kg/mol.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. cₚ = 1.04 kJ/kg·K"
+  },
+  {
+    "question_number": 20.12,
+    "Questions": "How much work is done by an ideal gas in expanding isothermally from an initial volume of 3.00 liters to a final volume of 24.0 liters?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 12.6 kJ"
+  },
+  {
+    "question_number": 20.13,
+    "Questions": "The P–V diagram in Fig. 20-1 applies to a gas undergoing a cyclic change in a piston-cylinder arrangement. What is the work done by the gas in (a) portion AB of the cycle? (b) Portion BC? (c) Portion CD? (d) Portion DA?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_4.png",
+    "solution": "Ans. (a) 1.0 J, (b) 0 J, (c) -0.50 J, (d) 0 J"
+  },
+  {
+    "question_number": 20.14,
+    "Questions": "For the thermodynamic cycle shown in Fig. 20-1, find (a) the net work output of the gas during the cycle and (b) the net heat flow into the gas per cycle.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 0.5 J, (b) 0.50 J"
+  },
+  {
+    "question_number": 20.15,
+    "Questions": "Suppose the cycle starts at point A. The gas returns to this point at the end of the cycle, so there is no difference in the gas at its start and end. For one complete cycle, ΔU is therefore zero. We can now find the total energy change ΔQ = ΔU + ΔW for a complete cycle.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_5.png",
+    "solution": "Ans. ΔQ = 0.12 cal"
+  },
+  {
+    "question_number": 20.16,
+    "Questions": "A 2.0 cm thick brass plate (kₜ = 105 W/m·K) is sealed to a glass sheet (kₜ = 0.80 W/m·K), and both have the same area. The exposed face of the brass plate is at 80°C, while the exposed face of the glass is at 20°C. How thick is the glass if the glass–brass interface is at 65°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.46 mm"
+  },
+  {
+    "question_number": 20.17,
+    "Questions": "Compute the maximum possible efficiency of a heat engine operating between the temperature limits of 100°C and 400°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 44.6%"
+  },
+  {
+    "question_number": 20.18,
+    "Questions": "A steam engine operating between a boiler temperature of 220°C and a condenser temperature of 35.0°C delivers 8.00 hp. If its efficiency is 30.0 percent of that for a Carnot engine operating between these temperature limits, how many calories are absorbed each second by the boiler? How many calories are exhausted to the condenser each second by the boiler?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 12.7 kcal/s, 11.3 kcal/s"
+  },
+  {
+    "question_number": 20.19,
+    "Questions": "Three kilomoles (6.00 kg) of hydrogen gas at S.T.P. expands isobarically to precisely twice its volume. (a) What is the final temperature of the gas? (b) What is the expansion work done by the gas? (c) By how much does the internal energy of the gas change? (d) How much heat enters the gas during the expansion? For H₂, cₚ = 10.0 kJ/kg·K.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 546 K, (b) 6.8 MJ, (c) 16.4 MJ, (d) 23.2 MJ"
+  },
+  {
+    "question_number": 20.20,
+    "Questions": "A cylinder of ideal gas is closed by an 8.00 kg movable piston (area = 60.0 cm²) as shown in Fig. 20-3. Atmospheric pressure is 100 kPa. When the gas is heated from 30.0°C to 100.0°C, the piston rises 20.0 cm. The piston is then fastened in place, and the gas is cooled back to 30.0°C. Calling ΔQ₁ the heat added to the gas in the heating process, and ΔQ₂ the heat lost during cooling, find the difference between ΔQ₁ and ΔQ₂.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_6.png",
+    "solution": "Ans. ΔQ₁ = 136 J, ΔQ₂ = 32.5 cal"
+  },
+  {
+    "question_number": 20.21,
+    "Questions": "A 2.0 kg metal block (c = 0.137 cal/g·°C) is heated from 15°C to 90°C. By how much does its internal energy change?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 86 kJ"
+  },
+  {
+    "question_number": 20.22,
+    "Questions": "By how much does the internal energy of 50 g of oil (c = 0.32 cal/g·°C) change as the oil is cooled from 100°C to 25°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. -1.2 kcal"
+  },
+  {
+    "question_number": 20.23,
+    "Questions": "A 70-g metal block moving at 200 cm/s slides across a tabletop a distance of 83 cm before it comes to rest. Assuming 75 percent of the thermal energy developed by friction goes into the block, how much does the temperature of the block rise? For the metal, c = 0.106 cal/g·°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 3.4 × 10⁻³°C"
+  },
+  {
+    "question_number": 20.24,
+    "Questions": "If a certain mass of water falls a distance of 854 m and all the energy is effective in heating the water, what will be the temperature rise of the water?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2.00°C"
+  },
+  {
+    "question_number": 20.25,
+    "Questions": "How many joules of heat per hour are produced in a motor that is 75.0 percent efficient and requires 0.250 hp to run it?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 168 kJ"
+  },
+  {
+    "question_number": 20.26,
+    "Questions": "A 100-g bullet (c = 0.030 cal/g·°C) is initially at 20°C. It is fired straight upward with a speed of 420 m/s, and on returning to the starting point strikes a cake of ice at exactly 0°C. How much ice is melted? Neglect air friction.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 26 g"
+  },
+  {
+    "question_number": 20.27,
+    "Questions": "To determine the specific heat of an oil, an electrical heating coil is placed in a calorimeter with 380 g of the oil at 10°C. The coil consumes energy (and gives off heat) at the rate of 84 W. After 3.0 min, the oil temperature is 40°C. If the water equivalent of the calorimeter and coil is 20 g, what is the specific heat of the oil?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.26 cal/g·°C"
+  },
+  {
+    "question_number": 20.28,
+    "Questions": "How much external work is done by an ideal gas in expanding from a volume of 3.0 liters to a volume of 30.0 liters against a constant pressure of 2.0 atm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 5.5 kJ"
+  },
+  {
+    "question_number": 20.29,
+    "Questions": "As 3.0 liters of ideal gas at 27°C is heated, it expands at a constant pressure of 2.0 atm. How much work is done by the gas as its temperature is changed from 27°C to 227°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.40 kJ"
+  },
+  {
+    "question_number": 20.30,
+    "Questions": "An ideal gas expands adiabatically to three times its original volume. In doing so, the gas does 720 J of work. (a) How much heat flows from the gas? (b) What is the change in internal energy of the gas? (c) Does its temperature rise or fall?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) none, (b) -720 J, (c) it falls"
+  },
+  {
+    "question_number": 20.31,
+    "Questions": "A piston contains 400 cm³ of gas initially at 250 cm³ from 250 cm³ to 780 cm³. It then allowed to cool until constant volume is initially no thermal cycle. Give answers to two significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 4.04 kcal"
+  },
+  {
+    "question_number": 20.32,
+    "Questions": "As an ideal gas is compressed isothermally, the compressing agent does 36 J of work. How much heat flows from the gas during the compression process?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 8.6 cal"
+  },
+  {
+    "question_number": 20.33,
+    "Questions": "The specific heat of air at constant volume is 0.175 cal/g·°C. (a) By how much does the internal energy of 5.0 g of air change as it is heated from 20°C to 400°C? (b) Suppose that 5.0 g of air is adiabatically compressed so as to rise its temperature from 20°C to 400°C. How much work must be done on the air to compress it?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 0.33 kcal, (b) 1.4 kJ"
+  },
+  {
+    "question_number": 20.34,
+    "Questions": "Water is boiled at 100°C and 1.0 atm. Under these conditions, 1.0 g of water occupies 1.0 cm³, and 1.0 g of steam occupies 1670 cm³, and Lₛ = 540 cal/g. Find (a) the external work done when 1.0 g of steam is formed at 100°C and (b) the increase in internal energy.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 0.17 kJ, (b) 0.50 kcal"
+  },
+  {
+    "question_number": 20.35,
+    "Questions": "The temperature of 3.0 kg of krypton gas is raised from -20°C to 80°C. (a) If this is done at constant volume, compute the heat added, the work done, and the change in internal energy. (b) Repeat if the heating process is at constant pressure. For the monatomic gas Kr, cₚ = 0.0357 cal/g·°C and cₚ = 0.0595 cal/g·°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 11 kcal, 0.45 kJ, (b) 18 kcal, 30 kJ"
+  },
+  {
+    "question_number": 20.36,
+    "Questions": "(a) Compute cₚ for the monatomic gas argon, given cₚ = 0.125 cal/g·°C and γ = 1.67. (b) Compute cₚ for the diatomic gas nitric oxide (NO), given cₚ = 0.166 cal/g·°C and γ = 1.40.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 0.0749 cal/g·°C, (b) 0.232 cal/g·°C"
+  },
+  {
+    "question_number": 20.37,
+    "Questions": "Compute the work done in an isothermal compression of 30 liters of ideal gas at 1.0 atm to a volume of 3.0 liters.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 7.0 kJ"
+  },
+  {
+    "question_number": 20.38,
+    "Questions": "Five mole of neon gas at 2.00 atm and 27.0°C is adiabatically compressed to one-third its initial volume. Find the final pressure, final temperature, and external work done on the gas. For neon, γ = 1.67, cₚ = 0.148 cal/g·°C, and M = 20.18 kg/mol.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.27 MPa, 626 K, 20.4 kJ"
+  },
+  {
+    "question_number": 20.39,
+    "Questions": "Determine the work done by the gas in portion AB of the thermodynamic cycle shown in Fig. 20-2. Repeat for portion CA. Give answers to one significant figure.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 20.4 kJ"
+  },
+  {
+    "question_number": 20.40,
+    "Questions": "Find the net work output per cycle using the cycle in Fig. 20-4. Give your answer to two significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_7.png",
+    "solution": "Ans. 2.1 kJ"
+  },
+  {
+    "question_number": 20.41,
+    "Questions": "Four grams of gas, confined to a cylinder, is carried through the cycle shown in Fig. 20-4. At A the temperature of the gas is 400°C. (a) What is its temperature at B? (b) If, in the portion from A to B, 2.20 kcal flows into the gas, what is cₚ for the gas? Give your answers to two significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 2.0 × 10³ K, (b) 0.25 cal/g·°C"
+  },
+  {
+    "question_number": 20.42,
+    "Questions": "Figure 20-4 is the P–V diagram for 25.0 g of an enclosed ideal gas. At A the gas temperature is 200°C. The value of cₚ for the gas is 0.150 cal/g·°C. (a) What is the temperature of the gas at B? (b) Find ΔU for the portion of the cycle from A to B. (c) Find ΔW for this same portion. (d) Find ΔQ for this same portion.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 1.42 × 10³ K, (b) 3.55 kcal = 14.9 kJ, (c) 3.54 kJ, (d) 18.4 kJ"
+  }
+
+
+
+]

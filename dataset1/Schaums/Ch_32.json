@@ -1,0 +1,187 @@
+[
+  {
+    "question_number": 32.1,
+    "Questions": "A solenoid is 40 cm long, has cross-sectional area 8.0 cm², and is wound with 300 turns of wire that carry a current of 1.2 A. The relative permeability of its iron core is 600. Compute (a) B for an interior point and (b) the flux through the solenoid.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) B₀ = (μ₀NI/L) = (4π × 10⁻⁷ T·m/A)(300)(1.2 A) / 0.40 m = 1.13 mT; B = k_M B₀ = 600 × 1.13 × 10⁻³ T = 0.68 T; (b) Φ_M = B_L A = 0.68 T × 8.0 × 10⁻⁴ m² = 54 μWb"
+  },
+  {
+    "question_number": 32.2,
+    "Questions": "The flux through a certain toroid changes from 0.65 mWb to 0.91 mWb when the air core is replaced by another material. What are the relative permeability and the permeability of the material?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "k_M = 0.91 / 0.65 = 1.40; μ = k_M μ₀ = 1.40 × (4π × 10⁻⁷ T·m/A) = 5.6π × 10⁻⁷ T·m/A"
+  },
+  {
+    "question_number": 32.3,
+    "Questions": "The quarter-circle loop shown in Fig. 32-1 has an area of 15 cm². A magnetic field with B = 0.16 T exists in the +x-direction. Find the flux through the loop in each orientation shown.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_85.png",
+    "solution": "(a) Φ = B A = 0.16 T × 15 × 10⁻⁴ m² = 2.4 × 10⁻⁴ Wb; (b) Φ = B cos(20°) × A = 2.3 × 10⁻⁴ Wb; (c) Φ = B sin(20°) × A = 8.2 × 10⁻⁵ Wb"
+  },
+  {
+    "question_number": 32.4,
+    "Questions": "A hemispherical surface of radius R is placed in a magnetic field B as shown in Fig. 32-2. What is the flux through the hemispherical surface?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_86.png",
+    "solution": "Φ_M = B A = B × πR²"
+  },
+  {
+    "question_number": 32.5,
+    "Questions": "A 50-loop circular coil has a radius of 3.0 cm. It is oriented so that the field lines of a magnetic field are normal to the area of the coil. Suppose that the magnetic field is varied so that B increases from 0.10 T to 0.35 T in a time of 2.0 milliseconds. Find the average induced emf in the coil.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ΔΦ = ΔB × A = (0.25 T) × π(0.030 m)² = 7.1 × 10⁻⁴ Wb; emf = N(ΔΦ/Δt) = 50 × (7.1 × 10⁻⁴ Wb / 2.0 × 10⁻³ s) = 18 V"
+  },
+  {
+    "question_number": 32.6,
+    "Questions": "The magnet in Fig. 32-3 induces an emf in the coils as the magnet moves toward the right or the left. Find the directions of the induced currents through the resistors when the magnet is moving (a) toward the right and (b) toward the left.",
+    "year": null,
+    "question_type": "Conceptual",
+    "images" : "images_1/Schaums_ch16_to_46_87.png",
+    "solution": "(a) Left coil: current flows from B to A; Right coil: current flows from C to D. (b) Reverse direction: current flows from A to B and from D to C."
+  },
+  {
+    "question_number": 32.7,
+    "Questions": "In Fig. 32-4(a) there is a magnetic field in the +x-direction, with B = 0.20 T and a loop of wire in the yz-plane. The loop has an area of 5.0 cm² and rotates about line CD as axis. Point A rotates toward positive x-values from the position shown. (a) What is the change in flux through the coil, (b) what is the average induced emf in it, and (c) does the induced current flow from A to C or C to A in the upper part of the coil?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_88.png",
+    "solution": "(a) ΔΦ = B A (cos 50° - 1) = -0.36 × 10⁻⁴ Wb = -36 μWb; (b) emf = ΔΦ/Δt = -0.36 × 10⁻⁴ / 0.20 s = -1.8 × 10⁻⁴ V = -0.18 mV; (c) Current flows from A to C"
+  },
+  {
+    "question_number": 32.8,
+    "Questions": "A coil of 50 loops is pulled in 0.020 s from between the poles of a magnet, where its area intercepts a flux of 3.1 × 10⁻⁴ Wb, to a place where the intercepted flux is 0.10 × 10⁻⁴ Wb. Determine the average emf induced in the coil.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "emf = N ΔΦ/Δt = 50 × (3.1 - 0.10) × 10⁻⁴ Wb / 0.020 s = 0.75 V"
+  },
+  {
+    "question_number": 32.9,
+    "Questions": "A copper bar 30 cm long is perpendicular to a field of 0.80 Wb/m² and moves at right angles to the field with a speed of 0.50 m/s. Determine the emf induced in the bar.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "emf = B L v = 0.80 × 0.30 × 0.50 = 0.12 V"
+  },
+  {
+    "question_number": 32.10,
+    "Questions": "A metal rod makes contact with a partial circuit and completes the circuit. The circuit is perpendicular to a magnetic field B = 0.15 T. If the resistance is 3.0 Ω, how large a force is needed to move the rod as indicated with a constant speed of 2.0 m/s? At what rate is energy dissipated in the resistor?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_89.png",
+    "solution": "emf = BLv = 0.15 × 0.50 × 2.0 = 0.15 V; I = emf / R = 0.15 / 3.0 = 0.050 A; F = ILB = 3.8 mN; Power = I²R = 0.050² × 3.0 = 7.5 mW"
+  },
+  {
+    "question_number": 32.11,
+    "Questions": "A metal bar of length L, mass m, and resistance R slides without friction on a rectangular circuit on an inclined plane in a vertical magnetic field B. Find the terminal velocity of the bar.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_90.png",
+    "solution": "v = (R m g / B² L²) × (sin θ / cos² θ)"
+  },
+  {
+    "question_number": 32.12,
+    "Questions": "The rod shown in Fig. 32-7 rotates about point C as pivot with the constant frequency 5.0 rev/s. Find the potential difference between its two ends, which are 80 cm apart, due to the magnetic field B = 0.30 T directed into the page.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_91.png",
+    "solution": "emf = B A / Δt = 3.0 V"
+  },
+  {
+    "question_number": 32.13,
+    "Questions": "A 5.0 Ω coil, of 100 turns and diameter 6.0 cm, is placed between the poles of a magnet so that the flux is maximum through its area. When the coil is suddenly removed from the field of the magnet, a charge of 1.0 × 10⁻⁴ C flows through a 595-Ω galvanometer connected to the coil. Compute B between the poles of the magnet.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "B = (R Δq) / (N A) = (600 Ω)(1.0 × 10⁻⁴ C) / ((100)(π × 9.0 × 10⁻⁴ m²)) = 0.21 T"
+  },
+  {
+    "question_number": 32.14,
+    "Questions": "A flux of 9.0 × 10⁻⁴ Wb is produced in the iron core of a solenoid. When the core is removed, a flux (in air) of 5.0 × 10⁻⁷ Wb is produced in the same solenoid by the same current. What is the relative permeability of the iron?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.8 × 10³"
+  },
+  {
+    "question_number": 32.15,
+    "Questions": "In Fig. 32-8 there is a +x-directed magnetic field of 0.2 T. Find the magnetic flux through each face of the box shown.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_92.png",
+    "solution": "Zero through bottom and rear and front sides; through top, 1 mWb; through left side, 2 mWb; through right side, 0.8 mWb."
+  },
+  {
+    "question_number": 32.16,
+    "Questions": "A solenoid 60 cm long has 5000 turns on it and is wound on an iron rod of 0.75 cm radius. Find the flux through the solenoid when the current in it is 3.0 A. The relative permeability of the iron is 300.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.7 mWb"
+  },
+  {
+    "question_number": 32.17,
+    "Questions": "A room has its walls aligned accurately with respect to north, south, east, and west. The north wall has an area of 15 m², the east wall has an area of 12 m², and the floor's area is 35 m². At the site the Earth's magnetic field has a value of 0.60 G and is directed 50° below the horizontal and 7.0° east of north. Find the fluxes through the north wall, the east wall, and the floor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.57 mWb, 56 μWb, 1.6 mWb"
+  },
+  {
+    "question_number": 32.18,
+    "Questions": "The flux through the solenoid of Problem 32.16 is reduced to a value of 1.0 mWb in a time of 0.050 s. Find the induced emf in the solenoid.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "67 V"
+  },
+  {
+    "question_number": 32.19,
+    "Questions": "A flat coil with radius 8.0 mm has 50 loops of wire. It is placed in a magnetic field B = 0.30 T in such a way that the maximum flux goes through it. Later, it is rotated in 0.020 s to a position such that no flux goes through it. Find the average emf induced between the terminals of the coil.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.15 V"
+  },
+  {
+    "question_number": 32.20,
+    "Questions": "The square coil shown in Fig. 32-9 is 20 cm on a side and has 15 loops of wire. It is moving to the right at 3.0 m/s. Find the induced emf (magnitude and direction) in it (a) at the instant shown and (b) when the entire coil is in the field region. The magnetic field is 0.40 T into the page.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_93.png",
+    "solution": "(a) 3.6 V counterclockwise; (b) zero"
+  },
+  {
+    "question_number": 32.21,
+    "Questions": "The magnet in Fig. 32-10 rotates as shown on a pivot through its center. At the instant shown, in what direction is the induced current flowing (a) in resistor AB? (b) in resistor CD?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_94.png",
+    "solution": "(a) B to A; (b) C to D"
+  },
+  {
+    "question_number": 32.22,
+    "Questions": "A train is moving directly south with a speed of 10 m/s. If the downward vertical component of the Earth’s magnetic field is 0.54 G, compute the magnitude and direction of the emf induced in a rail car axle 1.2 m long.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.65 mV from west to east"
+  },
+  {
+    "question_number": 32.23,
+    "Questions": "A copper disk of 10 cm radius is rotating at 20 rev/s about its axis and with its plane perpendicular to a uniform field with B = 0.60 T. What is the potential difference between the center and rim of the disk?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.38 V"
+  },
+  {
+    "question_number": 32.24,
+    "Questions": "How much charge will flow through a 200-Ω galvanometer connected to a 400-Ω circular coil of 1000 turns wound on a wooden stick 2.0 cm in diameter, if a magnetic field B = 0.0113 T parallel to the axis of the stick is decreased suddenly to zero?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.9 μC"
+  },
+  {
+    "question_number": 32.25,
+    "Questions": "In Fig. 32-6, described in Problem 32.11, what is the acceleration of the rod when its speed down the incline is v?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "g sin θ − (B²L²v/Rm) cos² θ"
+  }
+]

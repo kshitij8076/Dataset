@@ -1,0 +1,2329 @@
+[
+  {
+    "ID": "4001",
+    "Questions": "(1 + eˣ) yy' = eʸ; y|x=0 = 0.",
+    "Answers": "(1 + y) e⁻ʸ = ln(1 + eˣ) + 1 - x."
+  },
+  {
+    "ID": "4002",
+    "Questions": "y' = 3x²y + x⁵ + x²; y|x=0 = 1.",
+    "Answers": "y = 5/3 e^(x³) - 1/3 (x³ + 2/3)."
+  },
+  {
+    "ID": "4003",
+    "Questions": "Show that the following property is possessed only by the straight lines y = kx and the hyperbolas xy = m: the length of the radius vector of any point of the curve is equal to the length of the tangent drawn at that point.",
+    "Answers": "(Note: The answer for this question is not explicitly available in the provided solutions PDF. The solution for problem 4004 is listed instead)."
+  },
+  {
+    "ID": "4004",
+    "Questions": "Find the curve for which the length of the normal is proportional to the square of the ordinate. The coefficient of proportionality is equal to k.",
+    "Answers": "y = (1/2k)[e^(kx+C) + e^-(kx+C)]."
+  },
+  {
+    "ID": "4005",
+    "Questions": "Find the curve, for which any tangent cuts the axis of ordinates at a point equidistant from the origin and the point of contact.",
+    "Answers": "x² + y² = Cx."
+  },
+  {
+    "ID": "4006",
+    "Questions": "Find the equation of the curve cutting the axis of abscissae at the point x = 1 and having this property: the length of the subnormal at any point of the curve is equal to the arithmetic mean of the coordinates of the point.",
+    "Answers": "(y - x)²(x + 2y) = 1."
+  },
+  {
+    "ID": "4007",
+    "Questions": "Find the curve for which the area of the trapezium, formed by the coordinate axes, the ordinate of any given point of the curve and the tangent at this point, is equal to half the square of the abscissa.",
+    "Answers": "The parabolas y = x + Cx²."
+  },
+  {
+    "ID": "4008",
+    "Questions": "Find the curve, for which the area, included between the axis of abscissae, the curve and two ordinates, one of which is constant whilst the other is variable, is equal to the ratio of the cube of the variable ordinate to the variable abscissa.",
+    "Answers": "(2y² - x²)³ = Cx²."
+  },
+  {
+    "ID": "4009",
+    "Questions": "Find the curve for which the area of the figure, bounded by the axis of abscissae, two ordinates and the arc MM' of the curve, is proportional to arc MM' for any choice of points M, M'.",
+    "Answers": "The catenary."
+  },
+  {
+    "ID": "4010",
+    "Questions": "Find the curve for which the abscissa of the centre of gravity of the curvilinear trapezium, formed by the coordinate axes, the straight line x = a and the curve, is equal to 3a/4 for any a.",
+    "Answers": "y = Cx²."
+  },
+  {
+    "ID": "4011",
+    "Questions": "Find the curve, all the tangents to which pass through a given point (x₀, y₀).",
+    "Answers": "The pencil of straight lines y - y₀ = C(x - x₀). The differential equation is y - y₀ = y'(x - x₀)."
+  },
+  {
+    "ID": "4012",
+    "Questions": "Find the curve through the origin, all the normals to which pass through a given point (x₀, y₀).",
+    "Answers": "The circle with centre at the point (x₀, y₀): x² + y² = 2(xx₀ + yy₀)."
+  },
+  {
+    "ID": "4013",
+    "Questions": "What curve has the following property: the angle formed by the tangent at any point with Ox is twice the angle which the radius vector of the point of contact forms with Ox?",
+    "Answers": "Any circle with centre on Oy and touching Ox."
+  },
+  {
+    "ID": "4014",
+    "Questions": "A force acts on a body, proportional to time. Moreover, the body is subject to the resistance of the medium, proportional to its velocity. Find the law of motion of the body (the path as a function of time).",
+    "Answers": "If S is the path and t is time, we have S = S₀ + Ce⁻ᵏ¹ᵗ - (k₁/2k₂²)t² + (k₁/k₂)t, where S₀ is the initial path and k₁, k₂ are coefficients of proportionality."
+  },
+  {
+    "ID": "4015",
+    "Questions": "A particle falls in a medium, of which the resistance is proportional to the square of the particle velocity. Show that the equation of motion is dv/dt = g - kv², where k is a constant, g is the acceleration due to gravity. Integrate this equation and show that v tends to √(g/k) as t → ∞.",
+    "Answers": "(1) 8/9 rev/sec; (2) after 6 min 18 sec."
+  },
+  {
+    "ID": "4016",
+    "Questions": "The braking action due to friction on a disc rotating in a fluid is proportional to the angular velocity:\n(1) The disc starts to rotate with an angular velocity of 3 revolutions per sec, its angular velocity after 1 min being 2 revolutions per sec. What is its angular velocity 3 min after the start of the rotation?\n(2) The disc starts to revolve with an angular velocity of 5 revolutions per sec, its angular velocity after 2 min being 3 revolutions per sec. At what instant, measured from the start of the rotation, will its angular velocity be 1 revolution per sec?",
+    "Answers": "0.00082 sec."
+  },
+  {
+    "ID": "4017",
+    "Questions": "A bullet enters a board of thickness h = 10 cm with a speed v₀ = 200 m/sec, and leaves after penetrating the board with a speed v₁ = 80 m/sec. If the resistance of the board to the motion of the bullet is proportional to the square of the latter's velocity, find how long it takes the bullet to pass through the board.",
+    "Answers": "v = v₀(1 - (m/M₀)t)^(3k₁/(m) - 1) * e^(-(3f₀/(2m*M₀))t). The force acting is equal to d(mv)/dt. When solving this problem and the next two, it must be borne in mind that mass m is a variable depending on time t; the velocity v is the required function."
+  },
+  {
+    "ID": "4018",
+    "Questions": "A drop of water, of initial mass M₀ g and evaporating uniformly at a rate of m g/sec, moves under the action of inertia with an initial velocity v₀ cm/sec. The resistance of the medium is proportional to the velocity of the drop and to its radius. The initial resistance (at t = 0) is f₀ dynes. Find the velocity of the drop as a function of time.",
+    "Answers": "v = g/(2m - k) * (M₀-mt) * [1 - (m/(M₀-mt))^(m/k) * (M₀)^(m/k-1) * (M₀-mt)^(-k/m-1)]. See hint on the solution of problem 4018."
+  },
+  {
+    "ID": "4019",
+    "Questions": "A drop of water, with an initial mass M₀ g and evaporating uniformly at a rate of m g/sec, falls freely in air. The air resistance is proportional to the speed of the drop (coefficient of proportionality k). Find the speed of the drop as a function of time, as measured from the initial instant, at which the speed of the drop is given as zero. Assume that k ≠ 2m.",
+    "Answers": "v = (g/μ) * (k₁μ₀³ - k₁μ³)t, where μ = M-mt, k₁ = (3k/4πγ)^(1/3). See hint on the solution of problem 4018."
+  },
+  {
+    "ID": "4020",
+    "Questions": "Solve the previous problem for a drop of spherical shape, assuming that the air resistance is proportional to the product of the speed and surface area of the drop. The density of the fluid is γ. (Reduce to quadratures.)",
+    "Answers": "y = (k₀t + (1/k₀))(e^(k₀t) - k₀t), where t=time, y=quantity of second product. If x is the quantity of the second product formed in t units of time, then dx/dt = k₁(m₀-x). Hence we find x=x(t). The speed dy/dt of formation of the second product is proportional to x-y."
+  },
+  {
+    "ID": "4021",
+    "Questions": "The natural growth in the population of a large town is proportional to the present number of inhabitants and the interval of time. Furthermore, the town population increases due to immigration: the rate of growth of the population by this means is proportional to time, measured from the instant when the population was equal to A₀. Find the number of inhabitants as a function of time (assuming that the process is continuous).",
+    "Answers": "2.97 kg salt. The maximum is attained at t = 33 1/3 min. and is equal to 3.68 kg."
+  },
+  {
+    "ID": "4022",
+    "Questions": "A pickle, containing 10 kg of dissolved salt, is placed in a reservoir whose volume is 100 l. Water flows into the reservoir at a rate of 3 l./min, whilst the mixture is pumped at the same rate into a second reservoir whose capacity is also 100 l.; the second reservoir is originally filled with pure water, and the excess fluid pours out. How much salt will the second reservoir contain after an hour? What is the maximum amount of salt in the second reservoir? When is the maximum amount reached? (The salt concentration in each of the reservoirs is kept uniform by mixing.) (See Course, sec. 192).",
+    "Answers": "I = 1 + (I₀ - 1)e⁻ʳᵗ."
+  },
+  {
+    "ID": "4023",
+    "Questions": "The voltage and resistance in a circuit vary uniformly during 1 min, from zero to 120 V, and from zero to 120 ohms, respectively (see problems 3977-3978). The inductance is constant (1 Henry). The initial current is I₀. Find the current as a function of time during the first minute.",
+    "Answers": "p = (p₀/∫e^(kω²x²/I)dx) * ∫e^(kω²x²/I)dx, where k = M/(2p₀IS). An important practical case is that when ω is very large (centrifuge). Instead of working out the integral in the denominator for a given ω (it is not expressed in elementary functions), lim(ω→∞) p is evaluated (see problem 2439). By using the same argument as when deducing the barometric formula (see Course, sec. 122), we obtain the differential equation S dp = ω²x dm, where dm is the mass of element CD. Further, γ=2kp (one of the forms of the Boyle-Marriotte law; the coefficient of proportionality is written as 2k in future for simplicity); dm = γS dx = 2kpS dx. As a result, the equation with separated variables dp/p = 2kω²x dx is obtained. Integration of this gives: p=Ce^(kω²x²), where C is the constant of integration. Further, M = ∫dm = C2kS∫e^(kω²x²)dx, whence C is found. We have: p = (Me^(kω²x²)) / (2kS∫e^(kω²x²)dx), but y₀ = 2kp₀, so k = y₀/(2p₀), M/(IS)=M/(k*2p₀*IS) = M/(2p₀IS) and finally p = p₀e^(kω²x²)/∫e^(kω²x²)dx."
+  },
+  {
+    "ID": "4024",
+    "Questions": "Gas is contained in a narrow horizontal cylindrical tube AB, which is hermetically sealed. The tube revolves uniformly about a vertical axis OO₁ (Fig. 69), passing through one end, with an angular velocity ω. The length of the tube is l cm, its cross-sectional area S cm², the mass of the enclosed gas M g, the pressure p₀ when the tube is at rest (constant throughout the tube). Find the pressure distribution along the tube, i.e. p as a function of x, when the tube is revolving.",
+    "Answers": "(x + y - 1)³ = C(x - y + 3)."
+  ,"images":["Img2/Berman_69.png"]},
+  {
+    "ID": "4025",
+    "Questions": "Use substitution of the variables to reduce the equations of problems 4025-4037 to linear or homogeneous equations: y' = (2y-x-5)/(2x-y+4).",
+    "Answers": "x² - xy + y² + x - y = C."
+  },
+  {
+    "ID": "4026",
+    "Questions": "y' = (2x-y+1)/(x-2y+1).",
+    "Answers": "x - 2y + ln|x+y| = C."
+  },
+  {
+    "ID": "4027",
+    "Questions": "(x+y+1)dx = (2x+2y-1)dy.",
+    "Answers": "e^(-2 arctan((y+2)/(x-1))) = C(y+2)."
+  },
+  {
+    "ID": "4028",
+    "Questions": "y' = 2(y+2)² / (x+y-1)².",
+    "Answers": "y²/x = C."
+  },
+  {
+    "ID": "4029",
+    "Questions": "y' = (y²-x)/(2y(x+1)).",
+    "Answers": "y²e^(1/x) = C."
+  },
+  {
+    "ID": "4030",
+    "Questions": "y' = y³ / (2(xy²-x²)).",
+    "Answers": "(1+y²)dx = xdy."
+  },
+  {
+    "ID": "4031",
+    "Questions": "(1+y²)dx = xdy.",
+    "Answers": "tan ln|Cx|."
+  },
+  {
+    "ID": "4032",
+    "Questions": "(x²y²-1)y' + 2xy³ = 0.",
+    "Answers": "x²y²+1 = Cy."
+  },
+  {
+    "ID": "4033",
+    "Questions": "yy' + x = (1/2)(x²+y²)/x.",
+    "Answers": "Cx = 1 - 1/(x²+y²)."
+  },
+  {
+    "ID": "4034",
+    "Questions": "xy' + 1 = eʸ.",
+    "Answers": "(1+Cx)eʸ = 1."
+  },
+  {
+    "ID": "4035",
+    "Questions": "(x²+y²+1)dy + xydx = 0.",
+    "Answers": "y⁴+2x²y²+2y² = C."
+  },
+  {
+    "ID": "4036",
+    "Questions": "x dx + y dy + x(x dy - y dx) = 0.",
+    "Answers": "x²+y² = C(y-1)²."
+  },
+  {
+    "ID": "4037",
+    "Questions": "(x²+y²+y)dx = xdy.",
+    "Answers": "y = x tan(x+C)."
+  },
+  {
+    "ID": "4038",
+    "Questions": "Solve the Bernoulli equations of problems 4038-4047:\ny' + 2xy = 2x³y³.",
+    "Answers": "1/y² = Ce^(2x²) + x² + 1/2."
+  },
+  {
+    "ID": "4039",
+    "Questions": "y' + y/x + y² = 0.",
+    "Answers": "y = 1/((1+x)[C+ln|1+x|])."
+  },
+  {
+    "ID": "4040",
+    "Questions": "yⁿ⁻¹(ay' + y) = x.",
+    "Answers": "nyⁿ = Ce^(a/x) + nx - a."
+  },
+  {
+    "ID": "4041",
+    "Questions": "x dx = (x²/y - y³)dy.",
+    "Answers": "x² = y²(C-y²)."
+  },
+  {
+    "ID": "4042",
+    "Questions": "xy' + y = y² ln x.",
+    "Answers": "y(1+lnx+Cx) = 1."
+  },
+  {
+    "ID": "4043",
+    "Questions": "y' - y tan x + y² cos x = 0.",
+    "Answers": "y(x+C) = sec x."
+  },
+  {
+    "ID": "4044",
+    "Questions": "y' + 2y/x = 2√y / cos²x.",
+    "Answers": "y = ((C+ln|cosx|)/x + tanx)²."
+  },
+  {
+    "ID": "4045",
+    "Questions": "xy' - 4y - x²√y = 0.",
+    "Answers": "y = x⁴/4 ln²|Cx|."
+  },
+  {
+    "ID": "4046",
+    "Questions": "y dy - (ay²dx)/x² = (bdx)/x².",
+    "Answers": "y² = Ce^(-a/x) - b/a."
+  },
+  {
+    "ID": "4047",
+    "Questions": "y' = (y²φ'(x)-y²φ²(x))/φ(x), where φ(x) is a given function.",
+    "Answers": "y = φ(x)/(x+C)."
+  },
+  {
+    "ID": "4048",
+    "Questions": "Find the curve, such that the segment cut off the axis of ordinates (or of abscissae) by the tangent at any point is: (1) proportional to the square of the ordinate (or abscissa) of the point of contact; (2) proportional to the cube of the ordinate (or abscissa) of the point of contact.",
+    "Answers": "(1) a/x + b/y = 1; (2) a/x² + b/y² = 1."
+  },
+  {
+    "ID": "4049",
+    "Questions": "Find the curves, specified by equations of the form ρ = f(φ), for which the area of the sector, bounded by the curve and the radius vectors of a fixed point (ρ₀, φ₀) and of a variable point (ρ, φ), is proportional to the product of the polar coordinates ρ and φ of the variable point. The coefficient of proportionality is k.",
+    "Answers": "ρ - k/ρ = (ρ₀ - k)φ/φ₀."
+  },
+  {
+    "ID": "4050",
+    "Questions": "Find the general solutions of the equations of problems 4050-4057:\n(2x³ - xy²)dx + (2y³ - x²y)dy = 0.",
+    "Answers": "x⁴ - x²y² + y⁴ = C."
+  },
+  {
+    "ID": "4051",
+    "Questions": "x dy/(x²+y²) = (y/(x²+y²) - 1)dx.",
+    "Answers": "x + arc tan(y/x) = C."
+  },
+  {
+    "ID": "4052",
+    "Questions": "eʸdx + (xeʸ - 2y)dy = 0.",
+    "Answers": "xeʸ - y² = C."
+  },
+  {
+    "ID": "4053",
+    "Questions": "y xʸ⁻¹ dx + xʸ ln x dy = 0.",
+    "Answers": "xʸ = C."
+  },
+  {
+    "ID": "4054",
+    "Questions": "(x dx + y dy)/√(x²+y²) = (y dx - x dy)/x².",
+    "Answers": "√(x²+y²) + y/x = C."
+  },
+  {
+    "ID": "4055",
+    "Questions": "(y + sin x cos²(xy))/cos²(xy) dx + x/cos²(xy) dy + sin y dy = 0.",
+    "Answers": "tan(xy) - cos x - cos y = C."
+  },
+  {
+    "ID": "4056",
+    "Questions": "(1 + x√(x²+y²))dx + (-1 + √(x²+y²))y dy = 0.",
+    "Answers": "(1/3)√(x²+y²)³ + x - (1/2)y² = C."
+  },
+  {
+    "ID": "4057",
+    "Questions": "(1/y sin(x/y) - y/(x²)cos(y/x) + 1)dx + (1/x cos(y/x) - x/y² sin(x/y))dy = 0.",
+    "Answers": "sin(x/y) - cos(y/x) + x - y/x = C. The integrating factor is μ(x) = 1/x²."
+  },
+  {
+    "ID": "4058",
+    "Questions": "Find the integrating factor and general solution of the equations of problems 4058-4062:\n(x² + y)dx - x dy = 0.",
+    "Answers": "x-y/x = C."
+  },
+  {
+    "ID": "4059",
+    "Questions": "y(1+xy)dx - x dy = 0.",
+    "Answers": "x² + 2x/y = C. Seek the integrating factor in the form of the function μ(y)."
+  },
+  {
+    "ID": "4060",
+    "Questions": "(x²+y²+2x)dx + 2y dy = 0.",
+    "Answers": "(x²+y²)eˣ = C."
+  },
+  {
+    "ID": "4061",
+    "Questions": "y/x dx + (y³ - ln x)dy = 0.",
+    "Answers": "y²/2 + ln x/y = C."
+  },
+  {
+    "ID": "4062",
+    "Questions": "(x cos y - y sin y)dy + (x sin y + y cos y)dx = 0.",
+    "Answers": "(x sin y + y cos y - sin y)eˣ = C."
+  },
+  {
+    "ID": "4063",
+    "Questions": "Show that e^(∫P(x)dx) is the integrating factor of the linear equation dy/dx + P(x)y = Q(x).",
+    "Answers": "μ = y⁻ⁿ e^(-(n-1)∫P(x)dx)."
+  },
+  {
+    "ID": "4064",
+    "Questions": "Find the integrating factor of Bernoulli's equation y' + P(x)y = yⁿQ(x).",
+    "Answers": "The expression (Yₓ - Xᵧ)/(X-Y) must be a function of (x+y)."
+  },
+  {
+    "ID": "4065",
+    "Questions": "Find the conditions for which the equation X(x,y)dx + Y(x,y)dy = 0 admits of an integrating factor of the form M = F(x+y).",
+    "Answers": "The expression (Yₓ - Xᵧ)/(xX-yY) must be a function of xy."
+  },
+  {
+    "ID": "4066",
+    "Questions": "Find the conditions for which the equation X(x,y)dx + Y(x,y)dy = 0 admits of an integrating factor of the form M = F(xy).",
+    "Answers": "abx + b²y + a + bc = Ceᵇˣ."
+  },
+  {
+    "ID": "4067",
+    "Questions": "Find the general solutions of the equations of problems 4067-4088: y' = ax+by+c.",
+    "Answers": "y = [Ce^(a/(m-1)x) - c/b]^(1/(1-m))."
+  },
+  {
+    "ID": "4068",
+    "Questions": "ay' + by + cyᵐ = 0.",
+    "Answers": "x²+2xy-y²-4x+8y=C."
+  },
+  {
+    "ID": "4069",
+    "Questions": "y' = (x+y-2)/(y-x-4).",
+    "Answers": "y²+xy-x²/y² = C."
+  },
+  {
+    "ID": "4070",
+    "Questions": "y' = (y²+xy-x²)/y².",
+    "Answers": "x+y = a tan(C + y/a)."
+  },
+  {
+    "ID": "4071",
+    "Questions": "y' = a²/(x+y)².",
+    "Answers": "y³ - 3xy = C."
+  },
+  {
+    "ID": "4072",
+    "Questions": "y'(y²-x) = y.",
+    "Answers": "2x dx/y³ + (y²-3x²)/y⁴ dy = 0."
+  },
+  {
+    "ID": "4073",
+    "Questions": "2x dx/y³ + (y²-3x²)/y⁴ dy = 0.",
+    "Answers": "(2y+xy³)dx + (x+x²y²)dy = 0."
+  },
+  {
+    "ID": "4074",
+    "Questions": "(2y+xy³)dx + (x+x²y²)dy = 0.",
+    "Answers": "y(x²+1/3 y²) = Ce⁻ˣ."
+  },
+  {
+    "ID": "4075",
+    "Questions": "(2xy + x²y + y³/3)dx + (x²+y²)dy = 0.",
+    "Answers": "ln|1+y| - y/(1+y) = C."
+  },
+  {
+    "ID": "4076",
+    "Questions": "y' = (1+y)² / (x(y+1)-x²).",
+    "Answers": "y² - 1 + Cxy = 0."
+  },
+  {
+    "ID": "4077",
+    "Questions": "x dy + y dx + y²(x dy - y dx) = 0.",
+    "Answers": "xy/(x-y) + ln|x/y| = C."
+  },
+  {
+    "ID": "4078",
+    "Questions": "[1/x - y²/(x-y)²]dx + [x²/(x-y)² - 1/y]dy = 0.",
+    "Answers": "3√y = C√(x²-1) + x²-1."
+  },
+  {
+    "ID": "4079",
+    "Questions": "y' = x√y + xy² - 1.",
+    "Answers": "y sin x + y' cos x = 1."
+  },
+  {
+    "ID": "4080",
+    "Questions": "y sin x + y' cos x = 1.",
+    "Answers": "y' - y + y² cos x = 0."
+  },
+  {
+    "ID": "4081",
+    "Questions": "y' - y + y² cos x = 0.",
+    "Answers": "(cos x sin y + tan² x)/(sin x cos y)."
+  },
+  {
+    "ID": "4082",
+    "Questions": "y' = (cos x sin y + tan² x) / (sin x cos y).",
+    "Answers": "xy' cos(y/x) = y cos(y/x) - x."
+  },
+  {
+    "ID": "4083",
+    "Questions": "xy' cos(y/x) = y cos(y/x) - x.",
+    "Answers": "(x cos(y/x) + y sin(y/x))ydx + (x cos(y/x) - y sin(y/x))xdy = 0."
+  },
+  {
+    "ID": "4084",
+    "Questions": "(x cos(y/x) + y sin(y/x))y dx + (x cos(y/x) - y sin(y/x))x dy = 0.",
+    "Answers": "y' = (x/cos y) - tan y."
+  },
+  {
+    "ID": "4085",
+    "Questions": "y' = x/cos y - tan y.",
+    "Answers": "y - y' cos x = y² cos x (1 - sin x)."
+  },
+  {
+    "ID": "4086",
+    "Questions": "y - y' cos x = y² cos x (1 - sin x).",
+    "Answers": "2yy' = e^(x/(x²+y²)) + (x²+y²)/x - 2x."
+  },
+  {
+    "ID": "4087",
+    "Questions": "2yy' = e^(x/(x²+y²)) + (x²+y²)/x - 2x.",
+    "Answers": "(1+e^(y/x))dx + e^(y/x)(1-x/y)dy = 0."
+  },
+  {
+    "ID": "4088",
+    "Questions": "(1+e^(y/x))dx + e^(y/x)(1-x/y)dy = 0.",
+    "Answers": "Find the curve, such that the ratio of the subnormal at any point to the sum of the abscissa and ordinate of the point is equal to the ratio of the ordinate to the abscissa of the point."
+  },
+  {
+    "ID": "4089",
+    "Questions": "Find the curve, such that the ratio of the subnormal at any point to the sum of the abscissa and ordinate of the point is equal to the ratio of the ordinate to the abscissa of the point.",
+    "Answers": "Find the curve with the property, that the segment of the tangent at any point, contained between Ox and the straight line y = ax+b, is bisected by the point contact."
+  },
+  {
+    "ID": "4090",
+    "Questions": "Find the curve with the property, that the segment of the tangent at any point, contained between Ox and the straight line y = ax+b, is bisected by the point contact.",
+    "Answers": "Find the curve for which the ratio between the distance from the normal at any point to the origin, and the distance from the same normal to the point (a,b), is equal to a constant k."
+  },
+  {
+    "ID": "4091",
+    "Questions": "Find the curve for which the ratio between the distance from the normal at any point to the origin, and the distance from the same normal to the point (a, b), is equal to a constant k.",
+    "Answers": "Find the curve for which the distance from the origin to the tangent at any point is equal to the distance from the origin to the normal at that point."
+  },
+  {
+    "ID": "4092",
+    "Questions": "Find the curve for which the distance from the origin to the tangent at any point is equal to the distance from the origin to the normal at that point.",
+    "Answers": "Find the curve with the following property: the ordinate of any point of it is the mean proportional between the abscissa and the sum of abscissa and subnormal drawn to the curve at that point."
+  },
+  {
+    "ID": "4093",
+    "Questions": "Find the curve with the following property: the ordinate of any point of it is the mean proportional between the abscissa and the sum of abscissa and subnormal drawn to the curve at that point.",
+    "Answers": "A voltage is introduced uniformly (from zero to 120 V) during the course of two minutes into an electrical circuit with a resistance R = 3/2 ohms. In addition, inductance is automatically introduced, so that the number of Henries in the circuit is equal to the current expressed in Amperes. Find the current as a function of time during the first two minutes of the experiment."
+  },
+  {
+    "ID": "4094",
+    "Questions": "A voltage is introduced uniformly (from zero to 120 V) during the course of two minutes into an electrical circuit with a resistance R = 3/2 ohms. In addition, inductance is automatically introduced, so that the number of Henries in the circuit is equal to the current expressed in Amperes. Find the current as a function of time during the first two minutes of the experiment.",
+    "Answers": "I = t/2."
+  },
+  {
+    "ID": "4095",
+    "Questions": "Given the differential equation y' = -x/y, (a) draw the tangent field determined by the equation, (b) examine the disposition of a field vector with respect to the radius vector of any given point of the field, (c) examine on the basis of the tangent field the form of the integral curves of the equation, (d) find the integral curves by solving the equation by the usual method (separation of the variables), (e) obtain the family of isoclines of the equation (see Course, sec. 196).",
+    "Answers": "The field vector at any point is perpendicular to the radius vector of the point. The integral curves are a family of concentric circles with centre at the origin. The equation of the family is x² + y² = C. The isoclines are a family of straight lines through the origin."
+  },
+  {
+    "ID": "4096",
+    "Questions": "Write down the differential equations whose isoclines are: (1) rectangular hyperbolas xy = a; (2) parabolas y² = 2px; (3) circles x² + y² = R².",
+    "Answers": "(1) y' = f(xy); (2) y' = f(y²/x); (3) y' = f(x² + y²)."
+  },
+  {
+    "ID": "4097",
+    "Questions": "Find the isoclines of the differential equation of the family of parabolas y = ax². Draw a figure. Interpret the result geometrically.",
+    "Answers": "The straight lines y = Cx. The result can be stated as the following geometric theorem: if a family of parabolas with a common axis and a common vertex is cut by a straight line through the vertex, the tangents to the parabolas at their intersections with the straight line are parallel."
+  },
+  {
+    "ID": "4098",
+    "Questions": "Show that the isoclines of a homogeneous equation (and only of a homogeneous equation) are straight lines through the origin.",
+    "Answers": "(No solution provided in the text for this problem)."
+  },
+  {
+    "ID": "4099",
+    "Questions": "Indicate the linear equations whose isoclines are straight lines.",
+    "Answers": "y' = ay + b + C; y' = ay + bx + C."
+  },
+  {
+    "ID": "4100",
+    "Questions": "Let y₁, y₂, y₃ be the ordinates of any three isoclines of a linear equation, corresponding to the same abscissa. Show that the ratio (y₂-y₁)/(y₃-y₁) retains the same value, whatever this abscissa.",
+    "Answers": "(No solution provided in the text for this problem)."
+  }
+,
+  {
+    "ID": "4101",
+    "Questions": "Given the equation y' = (x^2 + y^2)/10, draw approximately the integral curve through the point M(1, 1) corresponding to the interval 1 <= x <= 5.",
+    "Answers": "No answer provided in the textbook."
+  },
+  {
+    "ID": "4102",
+    "Questions": "Given the equation y' = 1 / (x^2 + y^2), draw approximately the integral curve through the point (0.5, 0.5) corresponding to the interval 0.5 <= x <= 3.5.",
+    "Answers": "No answer provided in the textbook."
+  },
+  {
+    "ID": "4103",
+    "Questions": "Given the equation y' = xy^3 + x^2, use Euler's method to evaluate y for x = 1, if y is the particular solution satisfying the initial condition y|x=0 = 0. Evaluate y to two decimal places.",
+    "Answers": "If Δx = 0.05, y ≈ 0.31."
+  },
+  {
+    "ID": "4104",
+    "Questions": "Given the equation y' = sqrt(xy^2 + 1), use Euler's method to evaluate y for x = 2, if y is the particular solution satisfying the initial condition y|x=0 = 0. Evaluate y to two decimal places.",
+    "Answers": "If Δx = 0.05, y ≈ 1.68."
+  },
+  {
+    "ID": "4105",
+    "Questions": "Given the equation y' = xy/2 and the initial condition y|x=0 = 1, solve the equation exactly, and find the value of y for x = 0.9. Furthermore, find the value with the aid of an approximate method, by dividing the interval [0, 0.9] into 9 parts. Indicate the relative error in the latter result.",
+    "Answers": "The exact solution is y = e^(x^2/4) = f(x); f(0.9) = 1.2244. The approximate solution is f(0.9) = 1.1942. The relative error is ≈ 2.5%."
+  },
+  {
+    "ID": "4106",
+    "Questions": "Given the equation y' = 3x^2 / (x^3 + y + 1) and the initial condition y|x=1 = 0, solve the equation exactly, and, by using any of the approximate methods of integration of equations, find the value of x for y = 1 (compare with the value of x obtained from the strict solution).",
+    "Answers": "With the exact solution, x = (3(e - 1))^(1/3) ≈ 1.727; numerical integration with the interval divided into 4 parts gives x ≈ 1.72."
+  },
+  {
+    "ID": "4107",
+    "Questions": "y' = y^2 + xy + x^2. Find by the method of successive approximations the second approximation for the solution, satisfying the initial condition y|x=0 = 1.",
+    "Answers": "y2 = 1 + x + (3/2)x^2 + (4/3)x^3 + (13/24)x^4 + (1/4)x^5 + (1/18)x^6 + (1/63)x^7."
+  },
+  {
+    "ID": "4108",
+    "Questions": "y' = xy^2 - 1. Find the value at x = 1 of the solution of the equation that satisfies the initial condition y|x=0 = 0. Go as far as the third approximation in the method of successive approximations. Work to two decimal places.",
+    "Answers": "-1.28."
+  },
+  {
+    "ID": "4109",
+    "Questions": "Find the first few terms of the expansions in power series of the solutions of the equations of problems 4109-4116, with the indicated initial conditions: y' = y^3 - x; y|x=0 = 1.",
+    "Answers": "y = 1 + x + x^2 + 2x^3 + (13/4)x^4 + ..."
+  },
+  {
+    "ID": "4110",
+    "Questions": "y' = x^2y^2 - 1; y|x=0 = 1.",
+    "Answers": "y = 1 - x + x^3/3 - x^4/2 + x^5/5 + ..."
+  },
+  {
+    "ID": "4111",
+    "Questions": "y' = x^2 - y^2; y|x=0 = 0.",
+    "Answers": "y = 1/3 * x^3 - 1/(7*9) * x^7 - 1/(11*27) * x^11 - ..."
+  },
+  {
+    "ID": "4112",
+    "Questions": "y' = (1-x^2)/(y) + 1; y|x=0 = 1.",
+    "Answers": "y = 1 + 2x - x^2 + 4/3 * x^3 - 3/2 * x^4 + ..."
+  },
+  {
+    "ID": "4113",
+    "Questions": "y' = 1 + x + y; y|x=0 = 0.",
+    "Answers": "y = (x^2)/2! + (x^3)/3! + ... = e^x - x - 1."
+  },
+  {
+    "ID": "4114",
+    "Questions": "y' = e^y + xy; y|x=0 = 0.",
+    "Answers": "y = C1x^2 + C2x + ..."
+  },
+  {
+    "ID": "4115",
+    "Questions": "y' = sin y - sin x; y|x=0 = 0.",
+    "Answers": "y = -x^3/3 + x^5/15 - x^7/90 + ..."
+  },
+  {
+    "ID": "4116",
+    "Questions": "y' = 1 + x + x^2 - 2y^2; y|x=1 = 1.",
+    "Answers": "y = 1 - (x-1) - (x-1)^2/2! + 2(x-1)^3/3! + ..."
+  },
+  {
+    "ID": "4117",
+    "Questions": "Find the general and singular solutions of the Clairaut and Lagrange equations of problems 4117-4130: y = xy' + y'^2.",
+    "Answers": "y = Cx + C^2; the singular integral is x^2 + 4y = 0."
+  },
+  {
+    "ID": "4118",
+    "Questions": "y = xy' - 3y'^3.",
+    "Answers": "y = Cx - 3C^3; the singular integral is 9y = +- 2x*sqrt(x)."
+  },
+  {
+    "ID": "4119",
+    "Questions": "y = xy' + 1/y'.",
+    "Answers": "y = Cx + 1/C; the singular integral is y^2 = 4x."
+  },
+  {
+    "ID": "4120",
+    "Questions": "y = xy' + sqrt(1+y'^2).",
+    "Answers": "y = Cx + sqrt(1+C^2); the singular integral is x^2+y^2=1."
+  },
+  {
+    "ID": "4121",
+    "Questions": "y = xy' + sin y'.",
+    "Answers": "y = Cx + sin C; the singular solution is y = x(pi-arccos x) + sqrt(1-x^2)."
+  },
+  {
+    "ID": "4122",
+    "Questions": "y = 2xy' + y^2*y'^3.",
+    "Answers": "y^2 = 2Cx + C^3; the singular integral is 27y^4 + 32x^3 = 0."
+  },
+  {
+    "ID": "4123",
+    "Questions": "y = y'^2(x+1).",
+    "Answers": "y = (sqrt(x+1)+C)^2; singular solution y=0."
+  },
+  {
+    "ID": "4124",
+    "Questions": "2yy' = x(y'^2+4).",
+    "Answers": "y = Cx^2+4/C; singular integral y^2-4x^2=0."
+  },
+  {
+    "ID": "4125",
+    "Questions": "y = yy'^2+2xy'.",
+    "Answers": "2Cx=C^2-y^2; no singular integral."
+  },
+  {
+    "ID": "4126",
+    "Questions": "y = x(1+y') + y'^2.",
+    "Answers": "x=Ce^(-p)+2(1-p), y=x(1+p)+p^2; no singular integral."
+  },
+  {
+    "ID": "4127",
+    "Questions": "y = y' + e^(y').",
+    "Answers": "e^x(y-C)=C, singular integral y^2+4e^x=0."
+  },
+  {
+    "ID": "4128",
+    "Questions": "y = y'(x+1)+y'^2.",
+    "Answers": "y=Cx+C+C^2; singular solution y = -1/4(x+1)^2."
+  },
+  {
+    "ID": "4129",
+    "Questions": "y = px + a*sqrt(1-p^3), where p=dy/dx.",
+    "Answers": "y^(2/3) - x^(2/3) = a^(2/3)."
+  },
+  {
+    "ID": "4130",
+    "Questions": "x = y(1/sqrt(p)-1/p), where p=dy/dx.",
+    "Answers": "y-4x=0."
+  },
+  {
+    "ID": "4131",
+    "Questions": "y'^2 - yy' + e^x = 0.",
+    "Answers": "y^2-4e^x=0."
+  },
+  {
+    "ID": "4132",
+    "Questions": "x^2y'^2 - 2(xy-2) - y' + y^2 = 0.",
+    "Answers": "xy=1."
+  },
+  {
+    "ID": "4133",
+    "Questions": "y'(y'-2x) = 2(y-x^2).",
+    "Answers": "2y-x^2=0."
+  },
+  {
+    "ID": "4134",
+    "Questions": "Prove the theorem: if a linear differential equation is of Clairaut's type, the family of its integral curves consists of a pencil of straight lines.",
+    "Answers": "Differentiate the given equation with respect to x. y''[x-f'(y')]=0. Hence y''=0 or x=f'(y'). The first case gives y=Cx+C_1. Substituting in the given equation, we find that C_1=f(C)."
+  },
+  {
+    "ID": "4135",
+    "Questions": "The area of a triangle formed by the tangent to a curve and the coordinate axes is constant. Find the curve.",
+    "Answers": "The equilateral hyperbola 4xy=+-a^2, where a^2 is the area of the triangle; the trivial solution is any straight line of the family y=Cx+-a*sqrt(C)."
+  },
+  {
+    "ID": "4136",
+    "Questions": "Find the curve, the tangents to which cut out segments on the coordinate axes such that the sum of the segments is 2a.",
+    "Answers": "(y-x-2a)^2=8ax."
+  },
+  {
+    "ID": "4137",
+    "Questions": "Find the curve, such that the product of the distances of any tangent from two given points is constant.",
+    "Answers": "Ellipses and hyperbolas."
+  },
+  {
+    "ID": "4138",
+    "Questions": "Find the curve, for which the area of the rectangle, whose sides are the tangent and normal at any given point, is equal to the area of the rectangle, whose sides are equal in length to the abscissa and ordinate of the point.",
+    "Answers": "x = Ce^(p^2/2)(1+p^2), y = Ce^(p^2/2)p^2, or y = p^2 - 1) C*e^(p^2/2)."
+  },
+  {
+    "ID": "4139",
+    "Questions": "Find the curve, for which the sum of the normal and subnormal is proportional to the abscissa.",
+    "Answers": "y^2=Cx^k+x^2/((k+1)^2)."
+  },
+  {
+    "ID": "4140*",
+    "Questions": "Find the curve, for which the segment of the normal lying between the coordinate axes is of constant length a.",
+    "Answers": "y = cos alpha(C + a/2*sin^2(alpha)), x=sin alpha(a-C-a/2*sin^2(alpha))."
+  },
+  {
+    "ID": "4141",
+    "Questions": "The velocity of a material particle at any instant differs from the average velocity (from the initial to the present instant) by an amount, proportional to the kinetic energy of the particle, and inversely proportional to the time, measured from the initial instant. Find the path as a function of time.",
+    "Answers": "s=at^2, where a is some definite constant."
+  },
+  {
+    "ID": "4142",
+    "Questions": "Find the trajectories orthogonal to those given in problems 4142-4147: The ellipses with a common major axis equal to 2a.",
+    "Answers": "x^2+y^2 = 2a^2*ln|Cx|."
+  },
+  {
+    "ID": "4143",
+    "Questions": "The parabolas y^2=4(x-a).",
+    "Answers": "y=Ce^(-x/2)."
+  },
+  {
+    "ID": "4144",
+    "Questions": "The circles x^2+y^2=2ax.",
+    "Answers": "y=C(x^2+y^2)."
+  },
+  {
+    "ID": "4145",
+    "Questions": "The cissoids (2a-x)y^2=x^3.",
+    "Answers": "(x^2+y^2)^2=C(y^2+2x^2)."
+  },
+  {
+    "ID": "4146",
+    "Questions": "The equal parabolas touching a given straight line, the point of contact of each parabola being its vertex.",
+    "Answers": "If the parameter of the parabola is equal to 2p and the straight line is taken as the axis of ordinates, the equation of the trajectory becomes: y=C + 2/3 * sqrt(2x^3/p)."
+  },
+  {
+    "ID": "4147",
+    "Questions": "The circles of equal radius whose centres lie on a given straight line.",
+    "Answers": "Tractrices."
+  },
+  {
+    "ID": "4148",
+    "Questions": "Find the family of trajectories intersecting at an angle alpha=60° the curves x^2 = 2a(y - x*sqrt(3)) (a is a parameter).",
+    "Answers": "On measuring angle alpha in one of the two possible directions, we obtain the equation of the family as xy - sqrt(3)/2 * (x^2+y^2)=C."
+  },
+  {
+    "ID": "4149",
+    "Questions": "Find the isogonal trajectories of the family of parabolas y^2=4ax, the angle of intersection being alpha=45°.",
+    "Answers": "On measuring angle alpha in one of the two possible directions, we obtain the equation of the family as ln(2x^2+xy+y^2) + 6/sqrt(7) * arc tan((x+2y)/(x*sqrt(7))) = C."
+  },
+  {
+    "ID": "4150*",
+    "Questions": "Find the plane sound distribution curves from a fixed acoustic source in the plane, if a wind blows with constant velocity a in a direction parallel to a given straight line passing through the source.",
+    "Answers": "We can assume say that the wind blows along Ox. The sound propagation curves in the xOy plane will be the orthogonal trajectories of the family of circles (x-at)^2+y^2=(v_0*t)^2, where t is the time that has passed since the departure of the sound wave from the source, and v_0 is the velocity of sound in stationary air. For any fixed t, the differential equation of the required orthogonal trajectories is y'=y/(x-at) together with the equation of the family of circles. On eliminating t, we obtain a Lagrange equation. Its general solution is x=C(cos(phi)+b)(tan(phi/2))^b, y=C*sin(phi)*(tan(phi/2))^b, where b = +-a/v_0, phi is a parameter."
+  },
+  {
+    "ID": "4151",
+    "Questions": "Find the involutes of the curves of problems 4151-4154 (see Course, sec. 82): The circle x^2+y^2=R^2.",
+    "Answers": "x = C sin t + R(cos t + t sin t), y = -C cos t + R(sin t - t cos t)."
+  },
+  {
+    "ID": "4152",
+    "Questions": "The catenary y=a cosh(x/a).",
+    "Answers": "x = cosh t + a(t-tanh t), y = C tanh t + a/cosh t."
+  },
+  {
+    "ID": "4153",
+    "Questions": "The involute of the circle x=a(cos t + t sin t), y=a(sin t - t cos t).",
+    "Answers": "x=a(cos(t)+tsin(t)) - cos(t)(at^2/2 + C), y=a(sin(t)+tcos(t)) - sin(t)(at^2/2 + C)."
+  },
+  {
+    "ID": "4154",
+    "Questions": "The semicubical parabola y=3t^2, x=-2t^3.",
+    "Answers": "x=C sin t + 2 tan t, y = tan^2 t - C cos t - 2."
+  },
+  {
+    "ID": "4155",
+    "Questions": "Find the general solutions of the equations of problems 4155-4182: y'' = x + sin x.",
+    "Answers": "y = x^3/6 - sin x + C1x + C2."
+  },
+  {
+    "ID": "4156",
+    "Questions": "y'' = arc tan x.",
+    "Answers": "y = (x^2-1)/2 * arc tan x - x/2 * ln(1+x^2) + C1x + C2."
+  },
+  {
+    "ID": "4157",
+    "Questions": "y'' = ln x.",
+    "Answers": "y = x^2/2 * [ln x - 3/2] + C1x + C2."
+  },
+  {
+    "ID": "4158",
+    "Questions": "xy'' = y'.",
+    "Answers": "y=C1x^2+C2."
+  },
+  {
+    "ID": "4159",
+    "Questions": "y'' = y' + x.",
+    "Answers": "y=C1e^x + C2 - x - x^2/2."
+  },
+  {
+    "ID": "4160",
+    "Questions": "y'' = y'/x + x.",
+    "Answers": "y=1/3 * x^3 + C1x^2 + C2."
+  },
+  {
+    "ID": "4161",
+    "Questions": "(1+x^2)y'' + (y')^2 + 1 = 0.",
+    "Answers": "y=(1+C1^2)ln|x+C1| - C1x + C2."
+  },
+  {
+    "ID": "4162",
+    "Questions": "xy'' = y' ln(y'/x).",
+    "Answers": "y=(C1x-C1^2)e^(x/C1)+C2."
+  },
+  {
+    "ID": "4163",
+    "Questions": "(y'')^2 = y'.",
+    "Answers": "y=1/12 * (x+C1)^3 + C2."
+  },
+  {
+    "ID": "4164",
+    "Questions": "2xy'y'' = (y')^2+1.",
+    "Answers": "y = 2/(3C1) * sqrt((C1x-1)^3) + C2."
+  },
+  {
+    "ID": "4165",
+    "Questions": "y''-2cot(x)y' = sin^3(x).",
+    "Answers": "y = -1/3 * sin^3(x) + C1(x/2 - sin(2x)/4) + C2."
+  },
+  {
+    "ID": "4166",
+    "Questions": "1+(y')^2 = 2yy''.",
+    "Answers": "(x+C2)^2 = 4C1(y-C1)."
+  },
+  {
+    "ID": "4167",
+    "Questions": "(y')^2 + 2yy'' = 0.",
+    "Answers": "y=C1(x+C2)^(2/3)."
+  },
+  {
+    "ID": "4168",
+    "Questions": "a^2y''-y=0.",
+    "Answers": "y=C1e^(x/a) + C2e^(-x/a)."
+  },
+  {
+    "ID": "4169",
+    "Questions": "y'' = 1/(4*sqrt(y)).",
+    "Answers": "x = 4/3(sqrt(y)-2C1)sqrt(sqrt(y)+C1) + C2."
+  },
+  {
+    "ID": "4170",
+    "Questions": "y'' + 2/(1-y) * (y')^2 = 0.",
+    "Answers": "x = C1/(y-1) + C2."
+  },
+  {
+    "ID": "4171",
+    "Questions": "yy'' + (y')^2 = 1.",
+    "Answers": "y^2 = x^2 + C1x + C2."
+  },
+  {
+    "ID": "4172",
+    "Questions": "yy'' = (y')^2.",
+    "Answers": "y=C1e^(C2x)."
+  },
+  {
+    "ID": "4173",
+    "Questions": "2yy'' - 3(y')^2 = 4y^2.",
+    "Answers": "y cos^2(C1 +- x) = C2."
+  },
+  {
+    "ID": "4174",
+    "Questions": "y(1-ln y)y'' + (1+ln y)(y')^2 = 0.",
+    "Answers": "(x+C2)ln y = x+C1."
+  },
+  {
+    "ID": "4175",
+    "Questions": "y'' = 2y*y'.",
+    "Answers": "y = C1 tan(C1x+C2); if it is negative (-C1^2), then y=C1 tan(C1x+C2); if it is negative (-C1^2), then y = -C1 coth(C1x+C2); if C1=0, then y = -1/(x+C2)."
+  },
+  {
+    "ID": "4176",
+    "Questions": "cos y * d^2y/dx^2 + sin y * (dy/dx)^2 = dy/dx.",
+    "Answers": "x=C1+C2*cos(y); ln|tan((y+C2)/2)|."
+  },
+  {
+    "ID": "4177",
+    "Questions": "yy'' - (y')^2 = y^2*y'.",
+    "Answers": "x=C1+cos(C2)ln|tan((y+C2)/2)|."
+  },
+  {
+    "ID": "4178",
+    "Questions": "yy'' - yy'ln y = (y')^2.",
+    "Answers": "y=e^(C1*x+C2*ln|x|+C3)."
+  },
+  {
+    "ID": "4179",
+    "Questions": "y'' = y'(y-2*sqrt(y'-4)).",
+    "Answers": "y=x^3/3+C1x^2+C2x+C3."
+  },
+  {
+    "ID": "4180",
+    "Questions": "(x+a)y''+x(y')^2 = y'.",
+    "Answers": "y=C1x(x+C2)^2+C3."
+  },
+  {
+    "ID": "4181*",
+    "Questions": "y*y'' = (y')^3 + (y')^4.",
+    "Answers": "y=x+C1, y=C."
+  },
+  {
+    "ID": "4182",
+    "Questions": "xy'' - 1/4(y'')^2 - y' = 0.",
+    "Answers": "y=x^2/C1 - C1x^2+C2x+C3."
+  },
+  {
+    "ID": "4183",
+    "Questions": "xyy'' + x(y')^2 = 3yy'.",
+    "Answers": "y^2=C1x^4+C2."
+  },
+  {
+    "ID": "4184",
+    "Questions": "xy'' = y'(e^y - 1).",
+    "Answers": "y=ln|C2*tan(C1x/2)|."
+  },
+  {
+    "ID": "4185",
+    "Questions": "yy'' + (y')^2 = x.",
+    "Answers": "y^2=x^2/2+C1x+C2."
+  },
+  {
+    "ID": "4186",
+    "Questions": "y'' + 1/x * y' - 1/x^2 * y = 0.",
+    "Answers": "y=C1x+C2/x."
+  },
+  {
+    "ID": "4187",
+    "Questions": "x^2*d^2y/dx^2 - x(dy/dx) - y^2 = 0.",
+    "Answers": "y(C1x^2+C2x)=1."
+  },
+  {
+    "ID": "4188",
+    "Questions": "yy'' = y'(2*sqrt(yy') - y').",
+    "Answers": "y=C1e^(C2x) + C3e^(-C2x/2)."
+  },
+  {
+    "ID": "4189",
+    "Questions": "y''(x^2+1)=2xy'; y|x=0=1, y'|x=0=3.",
+    "Answers": "y=x^3+3x+1."
+  },
+  {
+    "ID": "4190",
+    "Questions": "xy''+x(y')^2-y'=0; y|x=2=2, y'|x=2=1.",
+    "Answers": "y=2+ln(x^2/4)."
+  },
+  {
+    "ID": "4191",
+    "Questions": "y''=y'/x+x^2/y'; y|x=2=0, y'|x=2=4.",
+    "Answers": "y=x^2/2-2."
+  },
+  {
+    "ID": "4192",
+    "Questions": "2y''=3y^2; y|x=-2=1, y'|x=-2=-1.",
+    "Answers": "y=4/(x+4)^2."
+  },
+  {
+    "ID": "4193",
+    "Questions": "yy''=(y')^2-(y')^3; y|x=1=1, y'|x=1=-1.",
+    "Answers": "y=1-ln x."
+  },
+  {
+    "ID": "4194",
+    "Questions": "y^3y''=-1; y|x=1=1, y'|x=1=0.",
+    "Answers": "y=sqrt(2x-x^2)."
+  },
+  {
+    "ID": "4195",
+    "Questions": "y^4-y^3y''=1; y|x=0=sqrt(2), y'|x=0=sqrt(2)/2.",
+    "Answers": "y=sqrt(2)sec x."
+  },
+  {
+    "ID": "4196",
+    "Questions": "y''=e^(2y); y|x=0=0, y'|x=0=1.",
+    "Answers": "y=-ln|1-x|."
+  },
+  {
+    "ID": "4197",
+    "Questions": "2(y')^2=y''(y-1); y|x=1=2, y'|x=1=-1.",
+    "Answers": "y=x+1/x."
+  },
+  {
+    "ID": "4198*",
+    "Questions": "x^4y''=(y-xy')^3; y|x=1=1, y'|x=1=1.",
+    "Answers": "y=x."
+  },
+  {
+    "ID": "4199",
+    "Questions": "y''=xy'+y+1; y|x=0=1, y'|x=0=0.",
+    "Answers": "y=1. Make the substitution y=ux."
+  },
+  {
+    "ID": "4200*",
+    "Questions": "What curve has the property that the radius of curvature at any point is proportional to the length of the normal? Take as the coefficient of proportionality k=-1, +1, -2, +2.",
+    "Answers": "The differential equation of the curve is dx = dy/sqrt((C/y)^k-1), where k is a coefficient of proportionality."
+  },
+  {
+    "ID": "4201",
+    "Questions": "Find the curve, for which the projection of the radius of curvature on Oy is constant, equal to a.",
+    "Answers": "A catenary."
+  },
+  {
+    "ID": "4202",
+    "Questions": "Find the curve through the origin such that the area of the triangle MTP (Fig. 70), formed by the tangent at any given point M of the curve, the ordinate MP of M and the axis of abscissae, is proportional to the area OMP of the curvilinear triangle.",
+    "Answers": "y=Cx^(k-1)."
+  ,"images":["Img2/Berman_70.png"]},
+  {
+    "ID": "4203",
+    "Questions": "Find the curve, the length of arc of which, measured from a given point, is proportional to the slope of the tangent at the final point of the arc.",
+    "Answers": "A catenary."
+  },
+  {
+    "ID": "4204",
+    "Questions": "A particle of mass m is thrown vertically upwards with initial velocity v0. The air resistance is equal to kv^2. Thus, if we take the vertical as Oy, we have for the movement upwards: m*d^2y/dt^2 = -mg - kv^2, and during the fall: m*d^2y/dt^2 = -mg + kv^2, where v=dy/dt. Find the velocity of the particle at the instant when it reaches the ground.",
+    "Answers": "v = sqrt(mg*v_0^2/(mg+k*v_0^2))."
+  },
+  {
+    "ID": "4205",
+    "Questions": "A thin, flexible, inextensible cord is suspended from both ends. What is the equilibrium shape of the cord under the action of a load, uniformly distributed along the projection of the cord on the horizontal plane? (The weight of the cord is neglected.) (See Course, sec. 200).",
+    "Answers": "A parabola."
+  },
+  {
+    "ID": "4206",
+    "Questions": "Find the law of rectilinear motion if it is known that the work done by the force is proportional to the time measured from the initial instant of the motion.",
+    "Answers": "s=at^2, where a is some definite constant."
+  },
+  {
+    "ID": "4207*",
+    "Questions": "A light ray from air (refractive index m0) is incident at an angle alpha0 from the vertical on a liquid with variable refractive index. The latter depends linearly on the depth and is constant in a plane parallel to the horizontal; it is equal to m1 on the surface of the liquid, and equal to m2 at a depth h. Find the shape of the light ray in the liquid. (The refractive index of a medium is inversely proportional to the velocity of propagation of the light.) (See Course, sec. 70.)",
+    "Answers": "y = (m_0*sin(alpha_0)/|m_2-m_1|) * (h*ln|m + sqrt(m^2 - m_0^2*sin^2(alpha_0))| + C), where m = ((m_2-m_1)/h)*x + m_1."
+  },
+  {
+    "ID": "4208",
+    "Questions": "Find the general solutions of the equations of problems 4208-4217: y''' = 1/x.",
+    "Answers": "y=x^2/2 * ln(x)+C1x^2+C2x+C3."
+  },
+  {
+    "ID": "4209",
+    "Questions": "y''' = cos 2x.",
+    "Answers": "y=-1/8 * sin(2x)+C1x^2+C2x+C3."
+  },
+  {
+    "ID": "4210",
+    "Questions": "y^(X) = e^ax.",
+    "Answers": "y=e^ax/a^(10) + P_9(x) (P_9(x) is a polynomial of the ninth degree in x with arbitrary coefficients)."
+  },
+  {
+    "ID": "4211",
+    "Questions": "x^2y''' = (y'')^2.",
+    "Answers": "y=C1*x^2/2 + C2*x + C3 - (x+C1)*ln|x+C1|."
+  },
+  {
+    "ID": "4212",
+    "Questions": "xy^(v) = y^(iv).",
+    "Answers": "y=C1*x^5 + C2x^3+C3x^2+C4x+C5."
+  },
+  {
+    "ID": "4213",
+    "Questions": "y''' = (y'')^3.",
+    "Answers": "y=C1x + (x+C2)^2/C1 + C3."
+  },
+  {
+    "ID": "4214",
+    "Questions": "y'y'''=3(y'')^2.",
+    "Answers": "y=C1 + 1/(C2x+C3)."
+  },
+  {
+    "ID": "4215",
+    "Questions": "yy''' - y'y'' = 0.",
+    "Answers": "y=C1e^(C2x)+C3e^(-C2x)."
+  },
+  {
+    "ID": "4216",
+    "Questions": "y'''[1+(y')^2]=3y'(y'')^2.",
+    "Answers": "(x+C2)^2+(y+C3)^2=C1^2."
+  },
+  {
+    "ID": "4217",
+    "Questions": "(y'')^2-y'y''' = (y'/x)^2.",
+    "Answers": "y=C2(x*e^(C1/x) - C1^2*e^(C1/x)) + C3."
+  },
+  {
+    "ID": "4218",
+    "Questions": "A differential equation of the form y'' = f1(x) + f2(y) + f3(y') is encountered when investigating the vibrations of a material system with one degree of freedom. Solve this equation graphically, if:\n(1) f1(x)=0, f2(y)=-sqrt(y), f3(y')=0.5y' and y|x=0=y'|x=0=0;\n(2) f1(x)=-x, f2(y)=0, f3(y')=-0.1y' - 0.1y'^3 and y|x=0=y'|x=0=1.",
+    "Answers": "(2) y=1+x - x^2/2! + 2x^3/3! + 3x^4/4! + 14x^5/5! + ..."
+  },
+  {
+    "ID": "4219",
+    "Questions": "y''=yy'-x^2; y|x=0=1, y'|x=0=1.\n(1) Solve the given equation graphically.\n(2) Find the first few terms of the expansion of the solution in a power series.",
+    "Answers": "(x-1)^2/2! - 2(x-1)^4/4! + 3(x-1)^5/5! + ..."
+  },
+  {
+    "ID": "4220",
+    "Questions": "Find the first six terms of the expansion in a series of the solution of the differential equation y'' = y'/y - 1/x, satisfying the initial conditions y|x=1=1, y'|x=1=0.",
+    "Answers": "y=pi/2*(x-1) + (x-1)^2/2! + (x-1)^3/3! - (x-1)^4/4! - 4(x-1)^5/5! + ..."
+  },
+  {
+    "ID": "4221",
+    "Questions": "Obtain in the form of a power series the particular solution of the equation y''=x*sin(y'), satisfying the initial conditions y|x=1=0, y'|x=1=pi/2. (Take the first six terms.)",
+    "Answers": "y=1+x+x^2+x^3/3! + 2x^4/4! + 3x^5/5! + ... If f(x) ~= 1+x+x^2/3! + 2x^4/4! + 3x^5/5!, an alternating numerical series is obtained with x=-0.5, and the value of the first of the neglected terms is less than 0.001."
+  },
+  {
+    "ID": "4222",
+    "Questions": "Find in the form of a power series the particular solution y=f(x) of the equation y'^2=xyy', satisfying the initial conditions f(0)=1, f'(0)=1. If we confine ourselves to the first five terms, will this be sufficient to evaluate f(-0.5) to an accuracy of 0.001?",
+    "Answers": "y=1+x+x^2/2!+x^3/3!+x^4/4!+4x^5/5!+14x^6/6!+...; the fifth."
+  },
+  {
+    "ID": "4223",
+    "Questions": "Find the first seven terms of the series expansion of the solution of the differential equation yy''+y'+y=0, satisfying the initial conditions y|x=0=1, y'|x=0=0. Of what order of smallness is the difference y-(2-x-e^-x) as x->0?",
+    "Answers": "y=1-x^2/2!+x^3/3!+x^4/4!-4x^5/5!+14x^6/6!+...; the fifth."
+  },
+  {
+    "ID": "4224",
+    "Questions": "Find the first 12 terms of the series expansion of the solution of the differential equation y''+yy'-2=0, satisfying the initial conditions y|x=0=0, y'|x=0=0. Evaluate integral_0^1 y dx to an accuracy of 0.001. Evaluate y'|x=0.5 to an accuracy of 0.00001.",
+    "Answers": "y=x^2-x^5/10+x^8/80-7x^11/4400+...; 0.318; 0.96951."
+  },
+  {
+    "ID": "4225*",
+    "Questions": "An electrical circuit is made up of an inductance L=0.4 Henry in series with an electrolytic bath. The bath contains a litre of water, acidified with a small quantity of sulphuric acid. The water is decomposed by a current, with the result that the concentration, and hence the resistance of the solution in the bath is variable. The voltage is held constant (20V) at the terminals. The amount of substance decomposed by electrolysis is proportional to the current, the time and the electrochemical equivalent of the substance (Faraday's law). The electrochemical equivalent of water is equal to 0.000187 g/coulomb. The resistance of the solution at the start of the experiment is R_0=2 ohm, and the initial current is 10 amp. Find the volume of water in the vessel as a function of time (in the form of a power series).",
+    "Answers": "The differential equation of the problem is L*d^2Q/dt^2 + (dQ/dt)*(V_0-kQ)/k_1 = E, where Q is the quantity of electricity that has flowed through the circuit from the start of the experiment till the instant t. Having expressed Q in terms of V (V is the quantity of water in the vessel at the instant t) and found the coefficients from the conditions of the problem, we arrive at the equation V''+aVV'+b=0, where a=1/k_1L=0.005, b=kE/L=0.00935. Integrating this with the initial conditions: V_0=1000cm^3, V'_0=-kI_0=-0.00187cm^3/sec, we obtain the series V=1000-0.00187t-10^-9 * [2.91t^3 - 3.64t^4 + 3.64t^5 - 3.04t^6 + 2.17t^7 - ...]. The series is alternating and the coefficients, as from the sixth, are decreasing and tend to zero, which is convenient for computations."
+  },
+  {
+    "ID": "4226*",
+    "Questions": "An electrical circuit is made up of an inductance L=0.4 Henry in series with an electrolytic bath, the initial resistance of which is 2 ohm. The bath contains a litre of water in which 10 g of hydrogen chloride are dissolved. The acid is decomposed by a current, with the result that the concentration of the solution varies (cf. the previous problem, where the amount of dissolved substance does not vary, but the volume of the solution varies). The voltage at the terminals of the circuit is 20 V, the electrochemical equivalent k of hydrogen chloride is equal to 0.000381 g/coulomb, the initial current is 10 amp. Find the amount of hydrochloric acid in the solution as a function of time (in the form of a power series).",
+    "Answers": "The differential equation of the problem is L*d^2Q/dt^2 + dQ/dt*(R_0*M_0/(M_0-kQ)) = E. On taking the quantity y of hydrochloric acid not decomposed at the instant t as the required function, we reduce the equation to the form yy''+ay'+by=0, where a=R_0/L=50, b=kE/L=0.0191. Integration of this equation with the initial conditions y_0=M_0=10, y'_0=-kI_0=-0.00381 gives the series y=10 - 0.00381t + 10^-10*t^3*(1.21-1.52t+...)."
+  },
+  {
+    "ID": "4227",
+    "Questions": "The functions x^3 and x^4 satisfy a certain homogeneous linear differential equation of the second order. Show that they form a fundamental system, and form the equation.",
+    "Answers": "x^2y'' - 6xy' + 12y = 0."
+  },
+  {
+    "ID": "4228",
+    "Questions": "The same for the functions e^x and x^2e^x.",
+    "Answers": "xy'' - (2x+1)y' + (x+1)y = 0."
+  },
+  {
+    "ID": "4229",
+    "Questions": "The functions x, x^3, e^x form a fundamental system of solutions of a third order linear homogeneous equation. Form this equation.",
+    "Answers": "(x^3-3x^2+3x)y''' - (x^3-3x+3)y'' - 3x(1-x)y' + 3(1-x)y=0."
+  },
+  {
+    "ID": "4230",
+    "Questions": "The functions x^2 and x^3 form a fundamental system of solutions of a second order linear homogeneous equation. Find the solution of this equation satisfying the initial conditions y|x=1=1, y'|x=1=0.",
+    "Answers": "y=3x^2-2x^3."
+  },
+  {
+    "ID": "4231",
+    "Questions": "The functions cos^2(x) and sin^2(x) satisfy a certain linear homogeneous equation of the second order: (a) prove that they form a fundamental system of solutions; (b) form the equation; (c) show that the functions 1 and cos 2x form another fundamental system for this equation.",
+    "Answers": "sin^2(x)/cos^2(x) != const; (b) y''sin(2x)-2y'cos(2x)=0."
+  },
+  {
+    "ID": "4232*",
+    "Questions": "If y1 is a particular solution of the equation y''+y'P(x)+yQ(x)=0, then y2=C1y1*integral(e^(-integral(P(x)dx))/y1^2) is also a solution. Prove this by three methods: (1) by direct verification, (2) by substituting y=y1z, (3) by using Ostrogradskii's formula (see Course, sec. 202).",
+    "Answers": "(3) By Ostrogradskii's formula: |y1 y2|/|y1' y2'| = Ce^(-integral(P(x)dx)), or, on expanding the determinant (Wronskian): y1y2' - y1'y2 = Ce^(-integral(P(x)dx)). We divide both sides of the equation by y1^2; then d/dx * (y2/y1) = Ce^(-integral(P(x)dx))/y1^2, whence the required relationship follows."
+  },
+  {
+    "ID": "4233",
+    "Questions": "By using the formula of problem 4232, find the general solution of the equation (1-x^2)y''-2xy'+2y=0, knowing its particular solution y1=x.",
+    "Answers": "y = C1x*ln|(1+x)/(1-x)| - 2C1x + C2x."
+  },
+  {
+    "ID": "4234",
+    "Questions": "Solve the equation y''+2/x*y'+y=0, knowing its particular solution y1=sin(x)/x.",
+    "Answers": "y = C1*sin(x)/x + C2*cos(x)/x."
+  },
+  {
+    "ID": "4235",
+    "Questions": "The equation (2x-x^2)y''+(x^2-2)y'+2(1-x)y=0 has a solution y=e^x. Find the solution satisfying the initial conditions y|x=1=0, y'|x=1=1.",
+    "Answers": "y = x^2 - e^(x-1)."
+  },
+  {
+    "ID": "4236*",
+    "Questions": "Find the necessary and sufficient condition for the equation y''+y'P(x)-yQ(x)=0 to have two linearly independent solutions y1 and y2, satisfying the condition y1y2=1.",
+    "Answers": "Q' + 2PQ = 0."
+  },
+  {
+    "ID": "4237*",
+    "Questions": "Find the general solution of the equation (1-x^2)y''-xy'+9y=0, if its particular solution is a third-degree polynomial. It is easy to pick out a particular solution of the equations of problems 4238-4240 (excluding the trivial solution y=0).",
+    "Answers": "y = C1(4x^3-3x) + C2*sqrt(1-x^2)*(4x^2-1). We put by hypothesis: y1=Ax^3+Bx^2+Cx+D. Having substituted y1 in the given equation, we get B=0, D=0, A:C=4/3, or A=4k, C=-3k. Hence the particular solution will be y1=k(4x^3-3x). In accordance with the property of linear equations, we can take k=1, so that y1=4x^3-3x. Knowing one particular solution, a second can be found in the usual way and the general solution obtained."
+  },
+  {
+    "ID": "4238",
+    "Questions": "y'' - (tan x)y' + 2y = 0.",
+    "Answers": "y = C1 sin x + C2[1 - sin x ln|tan(x/2 + pi/4)|]."
+  },
+  {
+    "ID": "4239",
+    "Questions": "y'' - y' + y/x = 0.",
+    "Answers": "y = C1x + C2x * integral(e^x/x^2)dx."
+  },
+  {
+    "ID": "4240",
+    "Questions": "y'' - (2x/(x^2+1))*y' + 2y/(x^2+1) = 0.",
+    "Answers": "y = C1x + C2(x^2-1)."
+  },
+  {
+    "ID": "4241",
+    "Questions": "Find the general solution of the equation x^3y''' - 3x^2y'' + 6xy' - 6y = 0, knowing the particular solutions y1=x and y2=x^2.",
+    "Answers": "y = C1x + C2x^2 + C3x^3."
+  },
+  {
+    "ID": "4242",
+    "Questions": "Find the general solutions of the non-homogeneous equations of problems 4242-4244: x^2y'' - xy' + y = 4x^3.",
+    "Answers": "y = x^3 + x(C1+C2 ln|x|)."
+  },
+  {
+    "ID": "4243",
+    "Questions": "y'' - x/(x-1) * y' + 1/(x-1) * y = x-1.",
+    "Answers": "y=C1e^x+C2x-x^2-1."
+  },
+  {
+    "ID": "4244",
+    "Questions": "(3x+2x^2)y'' - 6(1+x)y' + 6y = 6.",
+    "Answers": "y=C1x^2 + C2(x+1)-x."
+  },
+  {
+    "ID": "4245",
+    "Questions": "The equation (1+x^2)y'' + 2xy' - 2y = 4x^2+2 has the particular solution y=x^2. Find the solution satisfying the conditions y|x=-1=0, y'|x=-1=0.",
+    "Answers": "y=2+3x+x((n*pi)/2 + 2 arc tan x) + x^2."
+  },
+  {
+    "ID": "4246",
+    "Questions": "Find the first six terms of the expansion in a power series of the solution of the differential equation y'' - (1+x^2)y = 0, satisfying the initial conditions y|x=0=-2, y'|x=0=2.",
+    "Answers": "y=-2+2x-x^2+x^3/3-x^4/4+7x^5/60+..."
+  },
+  {
+    "ID": "4247",
+    "Questions": "Find the first nine terms of the expansion in a power series of the solution of the differential equation y'' = x^2y - y', satisfying the initial conditions y|x=0=1, y'|x=0=0.",
+    "Answers": "y=1+x^4/4!-2x^5/5!+2x^6/6!-2x^7/7!+62x^8/8!+..."
+  },
+  {
+    "ID": "4248",
+    "Questions": "Write as a power series the particular solution of the equation y''-xy'+y-1=0; y|x=0=0, y'|x=0=0.",
+    "Answers": "y = x^2/2! + x^4/4! + 3x^6/6! + 5x^8/8! + ... + (2n-1)x^(2n+2)/(2n+2)! + ..."
+  },
+  {
+    "ID": "4249",
+    "Questions": "Write as a power series the general solution of the equation y''=ye^x. (Take the first six terms.)",
+    "Answers": "y = C1(1+x^2/2 + x^3/6 + x^4/12 + x^5/24 + ...) + C2(x + x^2/2 + x^3/6 + x^4/12 + x^5/30 + ...)."
+  },
+  {
+    "ID": "4250",
+    "Questions": "Write as a power series the general solution of the equation y''+xy'-x^2y=0. (Take the first six terms.)",
+    "Answers": "y = C1(1+x^3/6-3x^5/40+...) + C2(x-x^4/12+...)."
+  },
+  {
+    "ID": "4251",
+    "Questions": "Find the general solutions of the equations of problems 4251-4261: y''+y'-2y=0.",
+    "Answers": "y=C1e^x+C2e^(-2x)."
+  },
+  {
+    "ID": "4252",
+    "Questions": "y''-9y=0.",
+    "Answers": "y=C1e^(3x)+C2e^(-3x)."
+  },
+  {
+    "ID": "4253",
+    "Questions": "y''-4y'=0.",
+    "Answers": "y=C1e^(4x)+C2."
+  },
+  {
+    "ID": "4254",
+    "Questions": "y''-2y'-y=0.",
+    "Answers": "y=C1e^((1+sqrt(2))x)+C2e^((1-sqrt(2))x)."
+  },
+  {
+    "ID": "4255",
+    "Questions": "3y''-2y'-8y=0.",
+    "Answers": "y=C1e^(2x)+C2e^(-4/3*x)."
+  },
+  {
+    "ID": "4256",
+    "Questions": "y''+y=0.",
+    "Answers": "y=C1cos(x)+C2sin(x)."
+  },
+  {
+    "ID": "4257",
+    "Questions": "y''+6y'+13y=0.",
+    "Answers": "y=e^(-3x)(C1cos(2x)+C2sin(2x))."
+  },
+  {
+    "ID": "4258",
+    "Questions": "4y''-8y'+5y=0.",
+    "Answers": "y=e^x(C1cos(x/2)+C2sin(x/2))."
+  },
+  {
+    "ID": "4259",
+    "Questions": "y''-2y'+y=0.",
+    "Answers": "y=e^x(C1+C2x)."
+  },
+  {
+    "ID": "4260",
+    "Questions": "4*d^2x/dt^2 - 20*dx/dt + 25x = 0.",
+    "Answers": "x=(C1+C2t)e^(2.5t)."
+  },
+  {
+    "ID": "4261",
+    "Questions": "2y''+y'+2sin^2(15°)*cos^2(15°)*y=0.",
+    "Answers": "y = (C1+C2x)e^(-x/2)."
+  },
+  {
+    "ID": "4262",
+    "Questions": "Find the solutions of the equations of problems 4262-4264 satisfying the stated initial conditions: y''-4y'+3y=0; y|x=0=6, y'|x=0=10.",
+    "Answers": "y=4e^x+2e^(3x)."
+  },
+  {
+    "ID": "4263",
+    "Questions": "y''+4y'+29y=0; y|x=0=0, y'|x=0=15.",
+    "Answers": "y=3e^(-2x)sin(5x)."
+  },
+  {
+    "ID": "4264",
+    "Questions": "4y''+4y'+y=0; y|x=0=2, y'|x=0=0.",
+    "Answers": "y=e^(-x/2)*(2+x)."
+  },
+  {
+    "ID": "4265",
+    "Questions": "Given that y1=e^(mx) is a particular solution of a certain linear homogeneous equation of the second order with constant coefficients, and that the discriminant of the corresponding characteristic equation vanishes, find the particular solution of the equation which, together with its derivative, becomes unity for x=0.",
+    "Answers": "y=[1+(1-m)x]e^(mx)."
+  },
+  {
+    "ID": "4266",
+    "Questions": "Find the integral curve of the equation y''+9y=0, passing through the point M(pi, -1) and touching the straight line y+1=x-pi at this point.",
+    "Answers": "y=cos(3x)-1/3*sin(3x)."
+  },
+  {
+    "ID": "4267",
+    "Questions": "Find the integral curve of the equation y''+ky=0, passing through the point M(x0,y0) and touching the straight line y-y0=a(x-x0) at this point.",
+    "Answers": "If k>0, then y=a/sqrt(k)*sin[sqrt(k)(x-x0)]+y0*cos[sqrt(k)(x-x0)]; if k<0, then y=1/(2*sqrt(k1))*[(y0*sqrt(k1)+a)e^(sqrt(k1)(x-x0)) + (y0*sqrt(k1)-a)e^(-sqrt(k1)(x-x0))], where k1=-k."
+  },
+  {
+    "ID": "4268",
+    "Questions": "Form the general solutions of the non-homogeneous equations of problems 4268-4282, by finding their particular solutions either by inspection (see Course, sec. 205), or by the method of variation of the arbitrary constants (see Course, sec. 203), or by using the general formula (see Course, sec. 206): 2y''+y'-y=2e^x.",
+    "Answers": "y=C1e^(-x)+C2e^(x/2)+e^x."
+  },
+  {
+    "ID": "4269",
+    "Questions": "y''+a^2y=e^x.",
+    "Answers": "y=C1cos(ax)+C2sin(ax) + e^x/(a^2+1)."
+  },
+  {
+    "ID": "4270",
+    "Questions": "y''-7y'+6y=sin x.",
+    "Answers": "y=C1e^(6x)+C2e^x + (5sin(x)+7cos(x))/74."
+  },
+  {
+    "ID": "4271",
+    "Questions": "y''+2y'+5y=-17/2*cos(2x).",
+    "Answers": "y=e^(-x)(C1cos(2x)+C2sin(2x)) - 1/2*cos(2x) - 2sin(2x)."
+  },
+  {
+    "ID": "4272",
+    "Questions": "y''-6y'+9y=2x^2-x+3.",
+    "Answers": "y=(C1+C2x)e^(3x) + 2/9*x^2 + 5/27*x + 11/27."
+  },
+  {
+    "ID": "4273",
+    "Questions": "y''-2y'+2y=2x.",
+    "Answers": "y=e^x(C1cos(x)+C2sin(x)) + x+1."
+  },
+  {
+    "ID": "4274",
+    "Questions": "y''+4y'-5y=1.",
+    "Answers": "y=C1e^x+C2e^(-5x) - 0.2."
+  },
+  {
+    "ID": "4275",
+    "Questions": "y''-3y'+2y=f(x), if f(x) is equal to: (1) 10e^(-x); (2) 3e^(2x); (3) 2sin(x); (4) 2x^3-30; (5) 2e^x*cos(x/2); (6) x-e^(-2x)+1; (7) e^x(3-4x); (8) 3x+5sin(2x); (9) 2e^x-e^(-2x); (10) sin x sin 2x; (11) sinh x.",
+    "Answers": "y=C1e^x+C2e^(2x)+y_bar, where y_bar is equal to: (1) 5/3*e^(-x); (2) 3xe^(2x); (3) 1/5*(sin(x)+3cos(x)); (4) x^3+9x^2+21x-15/2; (5) -8/5*e^x(cos(x/2)+2sin(x/2)); (6) 1/2*x+3/4+1/12*e^(-2x); (7) e^x(2x^2+x); (8) 3/2*x+9/4+1/4(sin(2x)-3cos(2x)); (9) -2xe^x-1/12*e^(-2x); (10) 1/20*cos(x)-3/20*sin(x)+7/260*cos(3x)+9/260*sin(3x); (11) 1/12*e^(-x)-1/2*e^x."
+  },
+  {
+    "ID": "4276",
+    "Questions": "2y''+5y'=f(x), if f(x) is equal to: (1) 5x^2-2x-1; (2) e^x; (3) 29cos(x); (4) cos^2(x); (5) 0.1e^(-2.5x) - 25sin(2.5x); (6) 29x*sin(x); (7) 100xe^(-x)cos(x); (8) 3cosh(5/2*x).",
+    "Answers": "y=C1+C2e^(-5/2*x)+y_bar, where y_bar is equal to: (1) 1/3*x^3-x^2/5+7x/25; (2) 1/7*e^x; (3) 5sin(x)-2cos(x); (4) x/10+sin(2x)/164-5cos(2x)/41; (5) cos(2.5x)+sin(2.5x)-0.02xe^(-2.5x); (6) (-5x-16/29)cos(x)-(12x-185/29)sin(x); (7) e^(-x)[(10x+18)sin(x)-(20x+1)cos(x)]; (8) 3/10(1/5*e^(5/2*x)-x*e^(-5/2*x))."
+  },
+  {
+    "ID": "4277",
+    "Questions": "y''-4y'+4y=f(x), if f(x) equal to: (1) 1; (2) e^(-x); (3) 3e^(2x); (4) 2(sin(2x)+x); (5) sin(x)cos(2x); (6) sin^3(x); (7) 8(x^2+e^(2x)+sin(2x)); (8) sinh(2x); (9) sinh(x)+sin(x); (10) e^x-sinh(x-1).",
+    "Answers": "y=e^(2x)(C1+C2x)+y_bar, where y_bar is equal to: (1) 1/4; (2) 1/9*e^(-x); (3) 3/2*x^2*e^(2x); (4) 1/2*cos(2x)+1/2*x+1/2; (5) -1/169*(-5sin(3x)+6cos(3x))-1/50*(3sin(x)+4cos(x)); (6) 3/100*(3sin(x)+4cos(x))+1/676*(5sin(3x)-12cos(3x)); (7) 2x^2+4x+3+4x^2e^(2x)+cos(2x); (8) 1/4*(x^2e^(2x)-1/8e^(-2x)); (9) 1/2(e^x/9-e^(-x))+(3sin(x)+4cos(x))/25; (10) e^x-1/2*e^(x-1)+1/18*e^(1-x)."
+  },
+  {
+    "ID": "4278",
+    "Questions": "y''+y=f(x), if f(x) is equal to: (1) 2x^3-x+2; (2) -8cos(3x); (3) cos(x); (4) sin(x)-2e^(-x); (5) cos(x)cos(2x); (6) 24sin^4(x); (7) cosh(x).",
+    "Answers": "y=C1cos(x)+C2sin(x)+y_bar, where y_bar is equal to: (1) 2x^3-13x+2; (2) cos(3x); (3) 1/2*x*sin(x); (4) -1/2*x*cos(x)-e^(-x); (5) 1/4*(x*sin(x)+1/8*cos(3x)); (6) 9+4cos(2x)-0.2cos(4x); (7) 0.5cosh(x); (8) 0.5+0.1cosh(2x)."
+  },
+  {
+    "ID": "4279",
+    "Questions": "5y''-6y'+5y=f(x), if f(x) is equal to: (1) 5e^(3/5*x); (2) sin(4/5*x); (3) e^(2x)+2x^3-x+2; (4) e^(3/5*x)cos(x); (5) e^(3/5*x)sin(4/5*x); (6) 13e^x*cosh(x).",
+    "Answers": "y = e^(3/5*x) * (C1*cos(4/5*x)+C2*sin(4/5*x)) + y_bar, where y_bar is equal to: (1) 25/16*e^(3/5*x); (2) 15/219*sin(4/5*x)+40/219*cos(4/5*x); (3) 1/13*e^(2x) + 1/5*(2x^3+36/5*x^2+107/25*x+908/125); (4) -5/9*cos(x)*e^(3/5*x); (5) -x/8*e^(3/5*x)cos(4/5*x); (6) 0.5e^(2x)+1.3."
+  },
+  {
+    "ID": "4280",
+    "Questions": "y''+y+cot^2(x)=0.",
+    "Answers": "y=2+C1cos(x)+C2sin(x)+cos(x)*ln|tan(x/2)|."
+  },
+  {
+    "ID": "4281",
+    "Questions": "y''-2y'+y=e^x/(x^2+1).",
+    "Answers": "y=e^x(C1+C2x - ln(sqrt(x^2+1)) + x*arctan(x))."
+  },
+  {
+    "ID": "4282*",
+    "Questions": "y''-y'=f(x), if f(x) is equal to: (1) e^x/(1+e^x); (2) e^(2x)*sqrt(1-e^(2x)); (3) e^(2x)*cos(e^x).",
+    "Answers": "(1) y = e^x(x+C1) - (e^x+1)ln(e^x+1)+C2; (2) y = 1/2*e^x[arc sin e^x + e^x*sqrt(1-e^(2x))] + 1/3*sqrt((1-e^(2x))^3)+C2; (3) y=C1e^x-cos(e^x)+C2."
+  },
+  {
+    "ID": "4283",
+    "Questions": "Find the particular solutions of the equations of problems 4283-4287, satisfying the stated initial conditions: 4y''+16y'+15y=4e^(-3/2*x); y|x=0=3, y'|x=0=-5.5.",
+    "Answers": "All three results are easily obtained with the aid of the general formulae (see Course, sec. 206)."
+  },
+  {
+    "ID": "4284",
+    "Questions": "y''-2y'+10y=10x^2+18x+6; y|x=0=1, y'|x=0=3.2.",
+    "Answers": "y=(1+x)e^(-x)+2e^(-x)."
+  },
+  {
+    "ID": "4285",
+    "Questions": "y''-y'=2(1-x); y|x=0=1, y'|x=0=1.",
+    "Answers": "y=e^x(0.16cos(3x)+0.28sin(3x))+x^2+2.2x+0.84."
+  },
+  {
+    "ID": "4286",
+    "Questions": "y''-2y'=e^x(x^2+x-3); y|x=0=2, y'|x=0=2.",
+    "Answers": "y=e^x+x^2."
+  },
+  {
+    "ID": "4287",
+    "Questions": "y''+y+sin(2x)=0; y|x=pi=y'|x=pi=1.",
+    "Answers": "y=1/3*sin(2x)-sin(x)-cos(x)."
+  },
+  {
+    "ID": "4288*",
+    "Questions": "Show that the particular solution y_bar of the second order equation with constant coefficients and right-hand side Ae^(px) (p and A are real or complex numbers) has the form y_bar=A/(phi(p)) * e^(px), if p is not a root of the characteristic equation phi(r)=a0r^2+a1r+a2=0; y_bar=Axe^(px)/phi'(p) if p is a simple root of the characteristic equation; y_bar=Ax^2e^(px)/phi''(p) if p is a double root of the characteristic equation.",
+    "Answers": "Differentiate twice the expressions quoted for y; on substituting for y, y' and y'' in the equation an identity is obtained."
+  },
+  {
+    "ID": "4289",
+    "Questions": "Find the general solution of the Euler equations of problems 4289-4292 (see Course, sec. 208): x^2y''-9xy'+21y=0.",
+    "Answers": "y=x^2(C1+C2x^3)."
+  },
+  {
+    "ID": "4290",
+    "Questions": "x^2y''+xy'+y=x.",
+    "Answers": "y=x/2+C1cos(ln|x|)+C2sin(ln|x|)."
+  },
+  {
+    "ID": "4291",
+    "Questions": "y''-y/x^2+y'/x=2/x^2.",
+    "Answers": "y=x ln|x|+C1x+C2x^2+x^3."
+  },
+  {
+    "ID": "4292",
+    "Questions": "x^2y''-2xy'+2y+x-2x^3=0.",
+    "Answers": "y=x ln|x|+C1x+C2x^2+x^3."
+  },
+  {
+    "ID": "4293",
+    "Questions": "If the axis of a turbine shaft is arranged horizontally, and if the centre of gravity of a disc fastened to the shaft does not lie on the axis, the bending y (Fig. 71) of the shaft axis satisfies on rotation the equation: d^2y/dt^2+(alpha/m-omega^2)y=g*cos(omega*t)+omega^2e, where m is the mass of the disc, alpha is a constant number, depending on the type of clamping of the ends A and B, omega is the angular velocity of rotation, and e is the eccentricity of the centre of gravity of the disc. Find the general integral of this equation.",
+    "Answers": "If alpha/m > omega^2, then y = C1cos(kt)+C2sin(kt)+g/(k^2-omega^2)cos(omega*t)+omega^2*e/k^2, where k^2=alpha/m-omega^2. If alpha/m < omega^2, then y=C1e^(kt)+C2e^(-kt)-g/(k^2+omega^2)cos(omega*t)+omega^2*e/(-k^2), where k^2=omega^2-alpha/m."
+  ,"images":["Img2/Berman_71.png"]},
+  {
+    "ID": "4294",
+    "Questions": "A material particle of mass 1 g is repelled along a straight line from a certain centre with a force, proportional to its distance from this centre (coefficient of proportionality 4). The resistance of the medium is proportional to the velocity (coefficient of proportionality 3). At the initial instant the distance from the centre is 1 cm, and the velocity is zero. Find the law of motion.",
+    "Answers": "s=1/5*(4e^(-t)+e^(-4t))."
+  },
+  {
+    "ID": "4295",
+    "Questions": "A particle of mass 1 g moves along a straight line towards a point A under the action of a force of attraction proportional to its distance from point A. At a distance of 1 cm, the force acting is 0.1 dynes. The resistance of the medium is proportional to the velocity and is equal to 0.4 dynes at a velocity of 1 cm/sec. At the instant t=0 the particle is situated 10 cm to the right of point A and its velocity is zero. Find the distance as a function of time and work out this distance for t=3 sec (to an accuracy of 0.01 cm).",
+    "Answers": "s=e^(-0.2t)[10cos(0.245t)+8.16sin(0.245t)]; s|t=3 ≈ 7.07 cm."
+  },
+  {
+    "ID": "4296",
+    "Questions": "A material particle of mass m moves along a straight line from A to B under the action of a constant force F. The resistance of the medium is proportional to the distance of the particle from B and is equal to f (f<F) at the initial instant (at point A). The initial velocity is zero. How long does it take the particle to move from A to B? (AB = a).",
+    "Answers": "t=sqrt(m/f)*arccosh(F/f)."
+  },
+  {
+    "ID": "4297",
+    "Questions": "A body of mass 200 g is suspended from a spring and moved from its position of rest by pulling out the spring 2 cm, after which it is let go (without initial velocity). Find the equation of motion of the body, assuming that the resistance of the medium is proportional to the velocity. If the body moves with a velocity of 1 cm/sec, the medium displays a resistance of 0.1 g; the spring tension when it is extended 2 cm is equal to 10 kg. The weight of the spring is neglected.",
+    "Answers": "s=e^(-0.245t)[2cos(156.6t)+0.00313sin(156.6t)]."
+  },
+  {
+    "ID": "4298*",
+    "Questions": "A small cylindrical block of wood (S=100 cm^2, h=20 cm, gamma=0.5 g/cm^3) is completely submerged in water and let go without initial velocity. Assuming that the friction force is proportional to the height of the submerged part, find what the coefficient of proportionality k must be for precisely half the block to appear above the water surface as a result of its first rise. How long (t1) does the first rise last? What is the equation of motion during the first rise?",
+    "Answers": "k = 33 1/3 g = 33 1/3 dyn/cm; t = 0.38 sec; the height of the submerged part of the block is x = 5[3+cos(8.16t)]. Take g=1000 cm/sec^2 when forming the equation."
+  },
+  {
+    "ID": "4299*",
+    "Questions": "A long thin pipe rotates with constant angular velocity omega about a vertical axis perpendicular to it. A small sphere of mass m is situated inside the pipe at a distance a_0 from the axis at the initial instant. Assuming that the velocity of the sphere relative to the pipe is zero at the initial instant, find the law of relative motion of the sphere.",
+    "Answers": "r = a_0/2*(e^(omega*t)+e^(-omega*t)). The entire situation is as though the tube were stationary, except that a force acts on the sphere equal to m*omega^2*r (r is the distance of the sphere from the axis of rotation)."
+  },
+  {
+    "ID": "4300",
+    "Questions": "Solve the previous problem on the assumption that the sphere is fixed to a point O via a spring. The spring force acting on the sphere is proportional to the spring deformation, and a force of k dynes produces a 1 cm change in length of the spring. The length of the spring in the free state is a_0.",
+    "Answers": "If k > m*omega^2, then r = a_0/(k-m*omega^2)*[k-m*omega^2*cos(t*sqrt(k/m - omega^2))]; if k = m*omega^2, then r = a_0[1+k/(2m)*t^2]; if k < m*omega^2, then r = a_0/(m*omega^2-k)*[m*omega^2*cosh(t*sqrt(omega^2-k/m))-k]."
+  },
+  {
+    "ID": "4301",
+    "Questions": "Find the general solutions of the equations of problems 4301-4311: y''' + 9y' = 0.",
+    "Answers": "y = C1 cos 3x + C2 sin 3x + C3."
+  },
+  {
+    "ID": "4302",
+    "Questions": "y^(iv) - 13y'' + 36y = 0.",
+    "Answers": "y = C1e^(2x) + C2e^(-2x) + C3e^(3x) + C4e^(-3x)."
+  },
+  {
+    "ID": "4303",
+    "Questions": "y^(iv) = 8y'' - 16y.",
+    "Answers": "y = (C1+C2x)e^(2x) + (C3+C4x)e^(-2x)."
+  },
+  {
+    "ID": "4304",
+    "Questions": "y^(iv) = 16y.",
+    "Answers": "y = C1e^(2x) + C2e^(-2x) + C3cos(2x) + C4sin(2x)."
+  },
+  {
+    "ID": "4305",
+    "Questions": "y''' - 13y' - 12y = 0.",
+    "Answers": "y = C1e^(-x) + C2e^(-3x) + C3e^(4x)."
+  },
+  {
+    "ID": "4306",
+    "Questions": "y''' - 3y'' + 3y' - y = 0.",
+    "Answers": "y = C1e^x + C2xe^x + C3x^2e^x."
+  },
+  {
+    "ID": "4307",
+    "Questions": "y^(iv) + 2y''' + y'' = 0.",
+    "Answers": "y = C1 + C2x + C3e^(-x) + C4xe^(-x)."
+  },
+  {
+    "ID": "4308",
+    "Questions": "y^(n) = y^(n-2).",
+    "Answers": "y = C1e^x + C2e^(-x) + C3x^(n-3) + C4x^(n-4) + ... + Cn-1x + Cn."
+  },
+  {
+    "ID": "4309",
+    "Questions": "y^(iv) + y = 0.",
+    "Answers": "y = e^(x/sqrt(2)) * (C1*cos(x/sqrt(2)) + C2*sin(x/sqrt(2))) + e^(-x/sqrt(2)) * (C3*cos(x/sqrt(2)) + C4*sin(x/sqrt(2)))."
+  },
+  {
+    "ID": "4310",
+    "Questions": "64y^(viii) + 48y^(vi) + 12y^(iv) + y'' = 0.",
+    "Answers": "y = (C1+C2x)cos(x/2) + (C3+C4x)sin(x/2) + (C5+C6x)cos(x/(2*sqrt(2))) + (C7+C8x)sin(x/(2*sqrt(2)))."
+  },
+  {
+    "ID": "4311",
+    "Questions": "y^(n) + n/1*y^(n-1) + (n(n-1))/(1*2)*y^(n-2) + ... + n/1*y' + y = 0.",
+    "Answers": "y = e^(-x)(C1+C2x+C3x^2+...+Cnx^(n-1))."
+  },
+  {
+    "ID": "4312",
+    "Questions": "y''' = -y'; y|x=0=2, y'|x=0=0, y''|x=0=-1.",
+    "Answers": "y=1+cosx."
+  },
+  {
+    "ID": "4313",
+    "Questions": "y^(v) = y'; y|x=0=0, y'|x=0=1, y''|x=0=0, y'''|x=0=1, y^(iv)|x=0=2.",
+    "Answers": "y=e^x+cos(x)-2."
+  },
+  {
+    "ID": "4314",
+    "Questions": "Obtain the general solutions of the non-homogeneous equations of problems 4314-4320, by finding their particular solutions, either by inspection (see Course, sec. 205), or by the method of variation of the arbitrary constants (see Course, sec. 203), or by using general formula (see Course, sec. 206): y'''-4y''+5y'-2y = 2x+3.",
+    "Answers": "y=(C1+C2x)e^x+C3e^(2x)-x-4."
+  },
+  {
+    "ID": "4315",
+    "Questions": "y'''-3y'+2y = e^(-x)(4x^2+4x-10).",
+    "Answers": "y=(C1+C2x)e^x+C3e^(-2x)+(x^2+x-1)e^(-x)."
+  },
+  {
+    "ID": "4316",
+    "Questions": "y^(iv)+8y''+16y=cos(ax).",
+    "Answers": "y=(C1+C2x)cos(2x)+(C3+C4x)sin(2x)+cos(ax)/((a^2-4)^2)."
+  },
+  {
+    "ID": "4317",
+    "Questions": "y^(iv)+2a^2y''+a^4y=cos(ax).",
+    "Answers": "y=(C1+C2x)cos(ax)+(C3+C4x)sin(ax)-x^2cos(ax)/(8a^2)."
+  },
+  {
+    "ID": "4318",
+    "Questions": "y^(v)+y'''=x^2-1.",
+    "Answers": "y=1/60*x^5-1/2*x^3+C1x^2+C2x+C3+C4cos(x)+C5sin(x)."
+  },
+  {
+    "ID": "4319",
+    "Questions": "y^(iv)-y=x*e^x+cos(x).",
+    "Answers": "y=C1e^x+C2e^(-x)+C3sin(x)+C4cos(x)+x^2/4*e^x-x/4*sin(x)."
+  },
+  {
+    "ID": "4320",
+    "Questions": "y^(iv)-2y''+y=8(e^x+e^(-x))+4(sin(x)+cos(x)).",
+    "Answers": "y=(C1+C2x)e^x+(C3+C4x)e^(-x)+sin(x)+cos(x)."
+  },
+  {
+    "ID": "4321",
+    "Questions": "y'''+2y''+y'+2e^(-2x)=0; y|x=0=2, y'|x=0=1, y''|x=0=1.",
+    "Answers": "y=4-3e^(-x)+e^(-2x)."
+  },
+  {
+    "ID": "4322",
+    "Questions": "y'''-y'=3(2-x^2); y|x=0=y'|x=0=y''|x=0=1.",
+    "Answers": "y=e^x+x^3."
+  },
+  {
+    "ID": "4323",
+    "Questions": "Solve Euler's equation x^3y'''+xy'-y=0.",
+    "Answers": "y=x(C1+C2ln|x|+C3ln^2|x|)."
+  },
+  {
+    "ID": "4324",
+    "Questions": "dx/dt = y-7x, dy/dt+2x+5y=0.",
+    "Answers": "{x = e^(-t)(C1*cos(t)+C2*sin(t)), y = e^(-t)[(C2+C1)cos(t)-(C2-C1)sin(t)]}."
+  },
+  {
+    "ID": "4325",
+    "Questions": "dx/dt = y, dy/dt = x+e^t+e^(-t).",
+    "Answers": "{x=C1e^t+C2e^(-t)+C3cos(t)+C4sin(t), y=C1e^t+C2e^(-t)-C3cos(t)-C4sin(t)}."
+  },
+  {
+    "ID": "4326",
+    "Questions": "dx/dt=2y-5x+e^t, dy/dt=x-6y+e^(-2t).",
+    "Answers": "{x = C1e^(-4t)+C2e^(-7t)+7/40*e^t+1/5*e^(-2t), y = 1/2*C1e^(-4t)-C2e^(-7t)+1/40*e^t+3/10*e^(-2t)}."
+  },
+  {
+    "ID": "4327",
+    "Questions": "yzy'=x(y'=dy/dx), y^2z'=x(z'=dz/dx).",
+    "Answers": "{x^2+y^2+z^2=C1, y^2-z^2=C2}."
+  },
+  {
+    "ID": "4328",
+    "Questions": "y'=(x+y)/z, z'=(x-y)/y.",
+    "Answers": "{y^2-z^2=C1, yz-x^2=C2}."
+  },
+  {
+    "ID": "4329",
+    "Questions": "xy'=y, xzz'+x^2+y^2=0.",
+    "Answers": "{y=C1x, x^2(1+C1^2)+z^2=C2}."
+  },
+  {
+    "ID": "4330",
+    "Questions": "y'=2xy/(x^2-y^2-z^2), z'=2xz/(x^2-y^2-z^2).",
+    "Answers": "{z=C1y, x^2+y^2+z^2=C2y}."
+  },
+  {
+    "ID": "4331",
+    "Questions": "z=y'(z-y)^2, y=z'(z-y)^2.",
+    "Answers": "{z+y=C1, (x+y-z)^2=C2}."
+  },
+  {
+    "ID": "4332",
+    "Questions": "dx/dt-dy/dt+3x=sin t, dx/dt+dy/dt=x+y+cos t.",
+    "Answers": "{x=C1e^(-t)+C2e^(-3t), y=C1e^(-t)+3C2e^(-3t)+cos(t)}."
+  },
+  {
+    "ID": "4333",
+    "Questions": "d^2y/dt^2=x, d^2x/dt^2=y.",
+    "Answers": "{x=C1e^t+C2e^(-t)+C3cos(t)+C4sin(t), y=C1e^t+C2e^(-t)-C3cos(t)-C4sin(t)}."
+  },
+  {
+    "ID": "4334",
+    "Questions": "d^2x/dt^2+dy/dt+x=e^t, dx/dt+d^2y/dt^2=1.",
+    "Answers": "{x=C1+C2t+C3t^2-1/6*t^3+e^t, y=C4-(C1+2C3)t-1/2*C2t^2-1/3*C3t^3+1/24*t^4-e^t}."
+  },
+  {
+    "ID": "4335",
+    "Questions": "dx/(z-y) = dy/(x-z) = dz/(y-x).",
+    "Answers": "{x+y+z=C1, x^2+y^2+z^2=C2}."
+  },
+  {
+    "ID": "4336",
+    "Questions": "Find the particular solutions of the systems of differential equations of problems 4336-4339, satisfying the stated initial conditions: dy/dx=(y^2-yz)/(x^2-yz), dz/dx=z(x+y)/(x^2-yz); y|x=0=1; z|x=0=-1.",
+    "Answers": "{z=-1/x, y=1}."
+  },
+  {
+    "ID": "4337",
+    "Questions": "dx/dt = 1 - 2x/t, dy/dt = x+y-1+2x/t; x|t=1=1/3; y|t=1=-1/3.",
+    "Answers": "{x=t/3, y=1/3-t}."
+  },
+  {
+    "ID": "4338",
+    "Questions": "dx/dt = z+y-x, dy/dt = z+x-y, dz/dt = x+y+z; x|t=0=1; y|t=0=z|t=0=0.",
+    "Answers": "{x=1/2*e^(-2t)+1/2*e^(2t), y=1/2*e^(-2t)-1/2*e^(2t), z=e^(2t)}."
+  },
+  {
+    "ID": "4339",
+    "Questions": "dx/dt=y+z, dy/dt=z+x, dz/dt=x+y; x|t=0=-1, y|t=0=1; z|t=0=0.",
+    "Answers": "{x=1/3*e^(-t)-4/3*e^(2t), y=1/3*e^(-t)+2/3*e^(2t), z= -2/3*e^(-t)+2/3*e^(2t)}."
+  },
+  {
+    "ID": "4340",
+    "Questions": "Find the pair of curves with the following property: (a) tangents at points with the same abscissae intersect on the axis of ordinates; (b) normals at points with the same absissae intersect on the axis of abscissae; (c) one of the curves passes through the point (1, 1), the other through (1, 2).",
+    "Answers": "The curves y1=(C1*x^2-C2)/2x and y2=-(C1*x^2+C2)/2x. Given the initial conditions, we obtain the hyperbolas y1=3/2*x - 1/(2x), y2=-3/2*x - 1/(2x)."
+  },
+  {
+    "ID": "4341",
+    "Questions": "Given two curves: y=f(x), through the point (0,1), and y=integral from -inf to x of f(x) dx, through the point (0,1/2), such that the tangents to both curves at points with the same abscissae intersect on the axis of abscissae, find y=f(x).",
+    "Answers": "y=e^(2x)."
+  },
+  {
+    "ID": "4342",
+    "Questions": "Find the spatial curve through the point (0, 1, 1) with the following properties: (a) when the point of contact moves along the curve, the trace of the tangent on the yOz plane describes the bisector of the angle between the positive directions of Oy and Oz; (b) the distance of this trace from the origin is equal to the x coordinate of the point of contact.",
+    "Answers": "The plane curve {x=z*ln|z|, y=z*sqrt(2)}."
+  },
+  {
+    "ID": "4343",
+    "Questions": "Two small spheres, each of mass m, are joined by a very light spring (the extension of which is proportional to the extending force). The length of the unextended spring is l0. The spring is extended to a length l1, then at the instant t=0 both spheres, situated one above the other, start to fall (the resistance of the medium is neglected). After T sec the length of the spring is shortened to l0. Find the law of motion of each sphere.",
+    "Answers": "{x=gt^2/2 - l1, y=gt^2/2}."
+  },
+  {
+    "ID": "4344",
+    "Questions": "A horizontal pipe revolves about a vertical axis with angular velocity 2 radians per sec. Two small spheres of mass 300 g and 200 g are situated in the pipe, and joined by a very light spring of length 10 cm, the heavier of the spheres being the further from the axis of rotation. A force of 24000 dynes extends the spring 1 cm, whilst the centre of gravity of the system of spheres is 10 cm from the axis of rotation. The spheres are maintained in position by a certain mechanism. At the instant, which we take as the initial instant, the mechanism is put out of action, and the spheres start to move. Find the law of motion of each sphere relative to the pipe. (Friction is neglected.)",
+    "Answers": "{x=10cosh(2t)-4/49*cos(14t)+200/49, y=10cosh(2t)+6/49*cos(14t)+300/49}. Here x is the path of the heavier sphere, and y that of the lighter."
+  },
+  {
+    "ID": "4345",
+    "Questions": "The rate of growth of a culture of micro-organisms is proportional to the quantity of them and the amount of nutrient (coefficient of proportionality k). The rate of decrease of the nutrient is proportional to the initial quantity of micro-organisms and time (coefficient of proportionality k1). At the start of the experiment there are A0 g of micro-organisms and B0 g of nutrient in the vessel. Find the amount A of micro-organisms and the amount B of nutrient as functions of time.",
+    "Answers": "A=(k*x_2/(2k_1)) * [1-e^(-k_1*t^2)], B=alpha-beta*e^(alpha*k*t). B = B_0*e^(-alpha*k*t)."
+  },
+  {
+    "ID": "4346*",
+    "Questions": "Suppose that bacteria multiply at a rate proportional to the initial amount (coefficient of proportionality a), but that poisons are at work at the same time, destroying them at a rate proportional to the amount of poison and the amount of bacteria (coefficient of proportionality b). Further, suppose that the rate of working of the poisons is proportional to the initial amount of bacteria (coefficient of proportionality c). The number of bacteria increases at fist up to a certain maximum value, then decreases, tending to zero. Show that, for any instant t, the number N of bacteria is given by N = 4M/((e^(kt)+e^(-kt))^2), where M is the greatest number of bacteria and time t is measured from the instant when N=M, k being a constant.",
+    "Answers": "If T is the quantity of poison, then dN/dt = aN - bNT, dT/dt = cN and dN/dt=0 at the instant when N=M."
+  },
+  {
+    "ID": "4347",
+    "Questions": "Two cylinders, the bases of which lie in the same plane, are joined at the bottoms by a capillary tube, and are filled with liquid to different heights (H1 and H2). The volume of liquid flowing through the tube in unit time is proportional to the difference in the heights, i.e. is equal to alpha(h1-h2), where alpha is a coefficient of proportionality. Find the law of variation of the heights of the fluid in the vessels above the capillary tube. The cross-sectional areas of the vessels are S1 and S2.",
+    "Answers": "h1 = (S1H1+S2H2)/(S1+S2) + (S2/(S1+S2))*(H1-H2)e^(-at); h2 = (S1H1+S2H2)/(S1+S2) - (S1/(S1+S2))*(H1-H2)e^(-at)."
+  },
+  {
+    "ID": "4348",
+    "Questions": "One kilogramme of water, the specific heat of which is reckoned constant (1 cal/deg), and the initial temperature of which is theta_0, is heated by an electrical device submerged in the water, the resistance R of which depends linearly on the temperature theta: R = R_0(1+0.004*theta), where R_0 is the resistance at 0 deg C (the law holds for the majority of pure metals). The heat insulation of the vessel is so good that heat transmission may be neglected. Find the temperature theta as a function of time t in the interval 0<=t<=T, if: (1) The voltage E is introduced uniformly from E=0 to E=E1 in the course of T sec. Calculate to an accuracy of 1 deg the number of degrees by which the temperature is raised at the end of the 10th minute, if theta_0 = 0 deg, E1=110V, R_0=10 ohms and T=10 min. (2) The current is alternating and the voltage varies in accordance with the law E = E_0 sin(100*pi*t). Calculate to an accuracy of 1 deg the number of degrees by which the temperature of the water is raised at the end of the 10th minute, if theta_0 = 0 deg, E_0=110V and R=10 ohms.",
+    "Answers": "(1) theta-theta_0 + 0.002(theta^2-theta_0^2) = 0.00008*E_1^2*t^3/(R_0*T^2); by 53 deg; (2) theta-theta_0 + 0.002(theta^2-theta_0^2) = (6*E_0^2/R_0*pi*10^7)*(200pi*t-sin(200pi*t)); by 76 deg."
+  },
+  {
+    "ID": "4349",
+    "Questions": "A litre of water is heated by a spiral with a resistance of 24 ohms. The water gives out heat to the surrounding medium, which has a temperature of 20 deg C (the rate of cooling is proportional to the temperature difference between body and medium). We also know that, if the current is switched off, the water temperature drops from 40 deg to 30 deg in 10 min. The initial water temperature is 20 deg C. To what temperature is the water heated after 10 min, if: (1) The voltage is introduced uniformly from E_0 = 0 to E_1 = 120 V during 10 min? Accuracy: 0.1 deg. (2) The current is alternating, and the voltage variation is given by E = 110 sin(100*pi*t)? Accuracy: 0.1 deg.",
+    "Answers": "(1) 44.5 deg; (2) 46.2 deg."
+  },
+  {
+    "ID": "4350",
+    "Questions": "Given the equation y' = x/y - x^2, form a table of the values of the solution which satisfies the initial condition y|x=1=1, by giving x values from 1 to 1.5 every 0.05. Carry out the working to three decimal places.",
+    "Answers": "x | 1.00 | 1.05 | 1.10 | 1.15 | 1.20 | 1.25 \n y | 1.000 | 1.000 | 0.997 | 0.992 | 0.984 | 0.973 \n x | 1.30 | 1.35 | 1.40 | 1.45 | 1.50 \n y | 0.959 | 0.942 | 0.923 | 0.901 | 0.876"
+  },
+  {
+    "ID": "4351",
+    "Questions": "Calculate the value at x=1 of the particular solution of the differential equation y'=y+x, satisfying the initial condition y|x=0=1. Then calculate the first five approximations y1, y2, y3, y4, y5 (to four decimal places) by the method of successive approximations. Compare the results.",
+    "Answers": "y|x=1 = 3.43656... \n y1 | y2 | y3 | y4 | y5\n 2.5 | 3.16667 | 3.37500 | 3.42500 | 3.43472\n y5 gives a relative error of the order of 0.1%."
+  },
+  {
+    "ID": "4352",
+    "Questions": "We know that integral e^(-x^2)dx cannot be expressed explicitly in terms of elementary functions. Using the fact that the function y=e^(x^2)*integral from 0 to x e^(-t^2)dt is a solution of the equation y'=2xy+1, evaluate integral from 0 to 0.5 e^(-x^2)dx. Use the method of successive approximations taking the first five approximations. Compare the result with the approximate value calculated from Simpson's rule.",
+    "Answers": "0.46128; Simpson's formula with 2n=10 gives the same. All the places are correct."
+  },
+  {
+    "ID": "4353",
+    "Questions": "y = f(x) is a solution of the differential equation y'=y^2-x with the initial condition y|x=0=1. Find by the method of successive approximations the fourth approximation (y4), the number of terms being limited to that required for evaluating y4(0.3) to three decimal places. Then find the first few terms of the expansion of f(x) in a power series; evaluate f(0.3) also to three figures after the point and, assuming f(0.3) to be the more accurate result, estimate the error in the value of y4(0.3).",
+    "Answers": "y_4 = 1+x+x^2/2+x^3/3+7x^4/12+5x^5/12+16x^6/75+...; y_4(0.3) ~= 1.543; f(x) = 1+x+x^2/2+2x^3/3+7x^4/12+11x^5/20+22x^6/45+...; f(0.3) ~= 1.545. The error is less than 0.2%."
+  },
+  {
+    "ID": "4354",
+    "Questions": "y=f(x) is a solution of the differential equation y'' = 1/y - 1/x with the initial conditions y|x=1=1, y'|x=1=0. Find f(1.6) to an accuracy of 0.001.",
+    "Answers": "0.808."
+  },
+  {
+    "ID": "4355*",
+    "Questions": "y=f(x) is a solution of the differential equation y''=y'-y+x with the initial conditions y|x=1=1, y'|x=1=0. Find f(1.21) to an accuracy of 0.000001.",
+    "Answers": "1.001624. The result is obtained most rapidly if the required function is sought directly in the form of a power series."
+  },
+  {
+    "ID": "4356*",
+    "Questions": "y=f(x) is a solution of the differential equation y''=xy'-y+e^x with the initial conditions y|x=0=1, y'|x=0=0. Find f(1/2) to an accuracy of 0.0001.",
+    "Answers": "1.0244. See the hint on the previous problem."
+  },
+  {
+    "ID": "4357",
+    "Questions": "A curve is given by the equation y=f(x). Find the series expansion of f(x), knowing that it satisfies the differential equation y''=xy and the initial conditions y|x=0=0, y'|x=0=1. Evaluate the curvature of the curve at the point with abscissa 1 to an accuracy of 0.0001.",
+    "Answers": "y=z+x^4/4!+2*5/7!*x^7+...+(2*5...(3n-1))/(3n)!*x^(3n+1)+...; k=0.2297."
+  },
+  {
+    "ID": "4358",
+    "Questions": "By using Euler's formulae cos x = (e^(ix)+e^(-ix))/2 and sin x = (e^(ix)-e^(-ix))/(2i), show that the functions sin^n(x) and cos^n(x) can be written as nth order trigonometric polynomials.",
+    "Answers": "sin^(2k) x = C_0^(2k) + ...; sin^(2k+1) x = C_1^(2k+1) ...; cos^(2k) x = C_0^(2k) + ...; cos^(2k+1) x = C_1^(2k+1) ... (Specific expansions in the textbook are complex and long)."
+  },
+  {
+    "ID": "4359",
+    "Questions": "Prove that the relationships hold: integral from 0 to 2pi sin^n(x)cos(mx)dx = integral from 0 to 2pi sin^n(x)sin(mx)dx = integral from 0 to 2pi cos^n(x)cos(mx)dx = integral from 0 to 2pi cos^n(x)sin(mx)dx = 0, if m>n (m and n are integers).",
+    "Answers": "The integrand is a sum of sines and cosines of multiples of x up to (n+m)x. The integral of such functions over a period is zero."
+  },
+  {
+    "ID": "4360",
+    "Questions": "Prove that every nth order trigonometric polynomial consisting of cosines only can be written as P(cos(phi)), where P(x) is an nth degree polynomial in x.",
+    "Answers": "cos(n*x) = cos^n(x) - C(n,2)cos^(n-2)(x)sin^2(x) + C(n,4)cos^(n-4)(x)sin^4(x) ... Since there are only even powers of sin x, cos nx can be expressed rationally in terms of cos x."
+  },
+  {
+    "ID": "4361",
+    "Questions": "Prove with the aid of Euler's formulae (see problem 4358) the relationship cos(phi)+cos(2*phi)+...+cos(n*phi) = sin(n*phi/2)*cos((n+1)*phi/2) / sin(phi/2).",
+    "Answers": "Sum the geometric progression e^(i*phi)+e^(i*2*phi)+...+e^(i*n*phi)."
+  },
+  {
+    "ID": "4362",
+    "Questions": "Prove the relationships:\n(1) cos(phi)+cos(3*phi)+...+cos((2n-1)*phi) = sin(2n*phi)/(2sin(phi));\n(2) sin(phi)+sin(2*phi)+...+sin(n*phi) = sin(n*phi/2)*sin((n+1)*phi/2)/sin(phi/2).",
+    "Answers": "Use the same method as in the previous problem."
+  },
+  {
+    "ID": "4363",
+    "Questions": "Find the zeros of the trigonometric polynomials sin(phi)+sin(2*phi)+...+sin(n*phi) and cos(phi)+cos(2*phi)+...+cos(n*phi) in the interval [0, 2pi].",
+    "Answers": "(1) phi = nu*2pi/n and phi = nu*2pi/(n+1), where nu=0,1,2,...,n; (2) phi = nu*2pi/n, where nu=1,2,...,n-1 for n odd and nu=1,2,...,n."
+  },
+  {
+    "ID": "4364",
+    "Questions": "Show that the trigonometric polynomial sin(phi)+sin(2*phi)/2+...+sin(n*phi)/n has a maximum in the interval [0,pi] at the points pi/(n+1), 3*pi/(n+1), ..., (2q-1)*pi/(n+1) and a minimum at the points 2*pi/(n+1), 2*2*pi/(n+1), ..., (q-1)*2*pi/(n+1), where q=n/2 if n is even, and q=(n+1)/2 if n is odd.",
+    "Answers": "The derivative of the polynomial is (1-cos((n+1)*phi))/(2(1-cos(phi)))."
+  },
+  {
+    "ID": "4365*",
+    "Questions": "Prove that a trigonometric polynomial with no constant term: Phi_n(phi) = a1*cos(phi)+b1*sin(phi)+...+an*cos(n*phi)+bn*sin(n*phi), and not identically zero, cannot retain a constant sign for all phi.",
+    "Answers": "Notice that integral from 0 to 2pi Phi_n(phi) d(phi) = 0."
+  },
+  
+  {
+    "ID": "4366",
+    "Questions": "Show that the function y = x^2 sin(1/x) for x != 0, and y=0 for x=0, is continuous along with its first derivative in the interval [-pi, pi], but does not satisfy the conditions of Dirichlet's theorem. Can it be expanded in a Fourier series in the interval [-pi, pi]?",
+    "Answers": "Yes, since the function satisfies the conditions of the first fundamental theorem (see Course, sec. 212)."
+  },
+  {
+    "ID": "4367",
+    "Questions": "Function f(x) satisfies the condition f(x+pi) = -f(x). Show that all its even Fourier coefficients are zero (a0=a2=b2=a4=b4=...=0).",
+    "Answers": "Show that all its even Fourier coefficients are zero (a0 = a2 = b2 = a4 = b4 = ... = 0)."
+  },
+  {
+    "ID": "4368",
+    "Questions": "Function f(x) satisfies the condition f(x+pi)=f(x). Show that all its odd Fourier coefficients vanish.",
+    "Answers": "Show that all its odd Fourier coefficients vanish."
+  },
+  {
+    "ID": "4369",
+    "Questions": "Function f(x) satisfies the conditions f(-x)=f(x) and f(x+pi)=-f(x). Show that b1=b2=b3=...=0 and a0=a2=a4=...=0.",
+    "Answers": "Show that b1 = b2 = b3 = ... = 0 and a0 = a2 = a4 = ... = 0."
+  },
+  {
+    "ID": "4370",
+    "Questions": "Function f(x) satisfies the conditions f(-x)=-f(x) and f(x+pi)=-f(x). Prove that a0=a1=a2=...=0 and b2=b4=b6=...=0.",
+    "Answers": "Prove that a0 = a1 = a2 = ... = 0 and b2 = b4 = b6 = ... = 0."
+  },
+  {
+    "ID": "4371",
+    "Questions": "Function f(x) satisfies the conditions: (a) f(-x)=f(x) and f(x+pi)=f(x); (b) f(-x)=-f(x) and f(x+pi)=f(x). Which of its Fourier coefficients vanish?",
+    "Answers": "(a) b1 = b2 = b3 = ... = 0 and a1 = a3 = a5 = ... = 0; \n(b) a0 = a1 = a2 = ... = 0 and b1 = b3 = b5 = ... = 0."
+  },
+  {
+    "ID": "4372",
+    "Questions": "Expand in a Fourier series the function equal to -1 in the interval [-pi, 0] and equal to 1 in the interval (0, pi).",
+    "Answers": "4/pi * sum_{n=0 to inf} sin((2n+1)x)/(2n+1)."
+  },
+  {
+    "ID": "4373",
+    "Questions": "Expand in a sine series the function y = pi/4 - x/2 in the interval (0, pi).",
+    "Answers": "sum_{n=1 to inf} sin(2nx)/(2n)."
+  },
+  {
+    "ID": "4374",
+    "Questions": "By using the results of problems 4372 and 4373, obtain the expansions of functions y = x and y = pi/2 - x. Indicate the intervals in which the formulae obtained are valid.",
+    "Answers": "x = 2 * sum_{n=1 to inf} (-1)^(n-1) * sin(nx)/n (-pi, pi);\npi-x/2 = sum_{n=1 to inf} sin(nx)/n (0, 2pi)."
+  },
+  {
+    "ID": "4375",
+    "Questions": "Expand the function y = pi/4 - x/2 in the interval (0, pi) in a cosine series.",
+    "Answers": "2/pi * sum_{n=0 to inf} cos((2n+1)x) / (2n+1)^2."
+  },
+  {
+    "ID": "4376",
+    "Questions": "Expand the function y=x^2 in a Fourier series: (1) in the interval (-pi, pi), (2) in the interval (0, 2pi) (Figs. 72 and 73).",
+    "Answers": "(1) pi^2/3 + 4 * sum_{n=1 to inf} (-1)^n * cos(nx)/n^2;\n(2) 4pi^2/3 + 4 * sum_{n=1 to inf} cos(nx)/n^2 - 4pi * sum_{n=1 to inf} sin(nx)/n;\nS1 = pi^2/6, S2 = pi^2/12, S3 = pi^2/8."
+  ,"images":["Img2/Berman_72.png","Img2/Berman_73.png"]},
+  {
+    "ID": "4377",
+    "Questions": "Expand the functions of problems 4377-4390 in Fourier series in the indicated intervals: The function y = x^2 in the interval (0, pi) in a cosine series.",
+    "Answers": "2/pi * sum_{n=1 to inf} (-1)^(n+1) * [pi^2/n + 2/(n^3)((-1)^n - 1)] sin(nx)."
+  },
+  {
+    "ID": "4378",
+    "Questions": "Function y=x^3 in the interval (-pi, pi).",
+    "Answers": "sum_{n=1 to inf} (-1)^n * (12/n^3 - 2pi^2/n) sin(nx)."
+  },
+  {
+    "ID": "4379",
+    "Questions": "The function f(x), equal to 1 for -pi < x < 0 and equal to 3 for 0 < x < pi.",
+    "Answers": "2 + 4/pi * sum_{n=0 to inf} sin((2n+1)x)/(2n+1)."
+  },
+  {
+    "ID": "4380",
+    "Questions": "The function f(x), equal to 1 in the interval (0, h) and equal to 0 in the interval (h, pi), in a cosine series (0 < h < pi).",
+    "Answers": "2h/pi * [1/2 + sum_{n=1 to inf} (sin(nh)/nh) * cos(nx)]."
+  },
+  {
+    "ID": "4381",
+    "Questions": "The continuous function f(x), equal to 1 for x=0, equal to 0 in the interval (2h, pi) and linear in the interval (0, 2h), in a cosine series (0 < h < pi/2).",
+    "Answers": "l/pi * (4l/pi^2) * sum_{n=0 to inf} cos((2n+1)pi*x/l)/(2n+1)^2."
+  },
+  {
+    "ID": "4382",
+    "Questions": "The function y=|x| in the interval (-l, l).",
+    "Answers": "l/2 - 4l/pi^2 * sum_{n=0 to inf} cos((2n+1)pi*x/l)/(2n+1)^2."
+  },
+  {
+    "ID": "4383",
+    "Questions": "The function y=e^x-1 in the interval (0, 2pi).",
+    "Answers": "(e^(2pi)-1)/pi * [1/2 + sum_{n=1 to inf} (cos(nx)/(1+n^2) - n*sin(nx)/(1+n^2))] - 1."
+  },
+  {
+    "ID": "4384",
+    "Questions": "The function y=e^x in the interval (-l, l).",
+    "Answers": "(e^l-e^(-l))/(2l) + (e^l+e^(-l)) * sum_{n=1 to inf} (-1)^n * cos(n*pi*x/l)/(l^2+n^2*pi^2) + pi*(e^l-e^(-l)) * sum_{n=1 to inf} (-1)^(n-1) * n*sin(n*pi*x/l)/(l^2+n^2*pi^2) = sinh(l)/l * [1 + 2*sum_{n=1 to inf} (-1)^n * (l*cos(n*pi*x/l)-n*pi*sin(n*pi*x/l))/(l^2+n^2*pi^2)]."
+  },
+  {
+    "ID": "4385",
+    "Questions": "The function y=cos(ax) in the interval (-pi, pi) (a is not an integer).",
+    "Answers": "2*sin(pi*a)/pi * [1/(2a) + sum_{k=1 to inf} (-1)^k * a*cos(kx)/(k^2-a^2)]."
+  },
+  {
+    "ID": "4386",
+    "Questions": "The function y=sin(ax) in the interval (-pi, pi) (a is not an integer).",
+    "Answers": "2*sin(pi*a)/pi * [sin(x)/(1-a^2) - 2*sin(2x)/(4-a^2) + 3*sin(3x)/(9-a^2) - ...]."
+  },
+  {
+    "ID": "4387",
+    "Questions": "The function y=sin(ax) (a is an integer) in the interval (0, pi) in a cosine series.",
+    "Answers": "sin(ax) = { (4a/pi) * [cos(x)/(a^2-1) + cos(3x)/(a^2-3^2) + cos(5x)/(a^2-5^2) + ...] (a even); (4a/pi) * [1/(2a^2) + cos(2x)/(a^2-2^2) + cos(4x)/(a^2-4^2) + ...] (a odd)."
+  },
+  {
+    "ID": "4388",
+    "Questions": "The function y=cos(ax) (a is an integer) in the interval (0, pi) in a sine series.",
+    "Answers": "cos(ax) = { -4/pi * [sin(x)/(a^2-1^2) + 3sin(3x)/(a^2-3^2) + 5sin(5x)/(a^2-5^2) + ...] (a even); -4/pi * [2sin(2x)/(a^2-2^2) + 4sin(4x)/(a^2-4^2) + 6sin(6x)/(a^2-6^2) + ...] (a odd)."
+  },
+  {
+    "ID": "4389",
+    "Questions": "The function y=sinh(x) in the interval (-pi, pi).",
+    "Answers": "2sinh(pi)/pi * sum_{n=1 to inf} (-1)^(n-1) * n*sin(nx)/(a^2+n^2)."
+  },
+  {
+    "ID": "4390",
+    "Questions": "The function y=cosh(x) in the interval (0, pi) in a cosine series and a sine series.",
+    "Answers": "sinh(pi)/pi * [1 + 2*sum_{n=1 to inf} (-1)^n * cos(nx)/(1+n^2)]; 2/pi * sum_{n=1 to inf} (1-(-1)^n*cosh(pi))/(1+n^2) * n*sin(nx)."
+  },
+  {
+    "ID": "4391",
+    "Questions": "Expand in a Fourier series the function whose graph is illustrated in Fig. 74.",
+    "Answers": "f(x) = 1/3 + 2/pi^2 * sum_{n=1 to inf} [sin(2pin)/n + 3(1-cos(2pin))/(2n*n)]cos(2pinx/3) + ..."
+  ,"images":["Img2/Berman_74.png"]},
+  {
+    "ID": "4392*",
+    "Questions": "Expand in a Fourier series the function whose graph is illustrated in Fig. 75.",
+    "Answers": "f(x) = pi/6 + 3/2pi * sum_{n=1 to inf} 1/n^2 * [sin(n*pi/3)sin(2nx) - sin(2n*pi/3)sin(n*pi/3)] + ..."
+  ,"images":["Img2/Berman_75.png"]},
+  {
+    "ID": "4393*",
+    "Questions": "Expand in Fourier series the functions whose graphs are illustrated in Figs. 76 and 77.",
+    "Answers": "(1) f(x) = 4/pi * sum_{n=1 to inf} (sin(alpha*n)*sin(nx)/n^2 + sin(3*alpha*n)*sin(3nx)/3^2 + ...); (2) f(x) = alpha(pi-alpha)/pi - 2/pi * sum_{n=1 to inf} (sin^2(alpha*n)*cos(2nx)/n^2 + sin^2(2*alpha*n)*cos(4nx)/(2^2) + ...). Use the result of problem 4371."
+  ,"images":["Img2/Berman_76.png",["Img2/Berman_77.png"]]},
+  {
+    "ID": "4394",
+    "Questions": "Expand the function y=x(pi-x) in a sine series in the interval (0, pi). Use the result to find the sum of the series 1 - 1/3^3 + 1/5^3 - 1/7^3 + ... + (-1)^(n-1)/(2n-1)^3 + ...",
+    "Answers": "8/pi * sum_{n=1 to inf} sin((2n-1)x)/(2n-1)^3; pi^3/32."
+  },
+  {
+    "ID": "4395",
+    "Questions": "Given the function phi(x) = (pi^2 - x^2)^2, (a) show that the equalities hold: phi(-pi)=phi(pi), phi'(-pi)=phi'(pi) and phi''(-pi)=phi''(pi) [but phi'''(-pi) != phi'''(pi)]. (b) by using these equalities, expand phi(x) in a Fourier series in the interval (-pi, pi) (see Course, sec. 214); (c) calculate the sum of the series 1 - 1/2^4 + 1/3^4 - 1/4^4 + ... + (-1)^(n-1)/n^4 + ...",
+    "Answers": "(b) 8/15*pi^4 - 48*sum_{n=1 to inf} (-1)^n * cos(nx)/n^4; (c) 7/720*pi^4."
+  },
+  {
+    "ID": "4396*",
+    "Questions": "Improve the convergence of the trigonometric series of problems 4396-4400 by bringing the coefficients of the series up to the order indicated in brackets (k). sum_{n=1 to inf} (n^2/(n^2+1))sin(nx) (k=4).",
+    "Answers": "x/2 - x/2 sum_{n=1 to inf} (-1)^n-1 * 1/(n^2+1) sin(nx) (see problem 4374)."
+  },
+  {
+    "ID": "4397",
+    "Questions": "sum_{n=1 to inf} (-1)^(n-1) * (n+1)/(n^2+1) sin(nx) (k=2).",
+    "Answers": "The problem seems to have a typo in the original book. The series as written is already convergent to order k=2."
+  },
+  {
+    "ID": "4398*",
+    "Questions": "sum_{n=0 to inf} (n^2+1)/(n^4+1) cos(nx) (k=4).",
+    "Answers": "(x-pi)^2/4 - pi^2/12 + sum_{n=1 to inf} (n^2-1)/(n^2(n^4+1)) cos(nx). Differentiate the series and use the solution of problem 4374 and the fact that sum_{n=1 to inf} 1/n^2 = pi^2/6 (see problem 4376)."
+  },
+  {
+    "ID": "4399*",
+    "Questions": "sum_{n=2 to inf} (n*sin(n*pi/2))/(n^2-1) cos(nx) (k=5).",
+    "Answers": "pi/4*sin(x) - 1/2 + (pi/4)*sin(x)*sum_{n=2 to inf} (-1)^(n-1)*2*n/(n^2-1)*cos(nx)."
+  },
+  {
+    "ID": "4400",
+    "Questions": "Functions f_i(x) (i=1,2,3) are given in the interval [0, 2pi] by the following table: [table data]. Find the approximate expression for these functions as a second-order trigonometric polynomial. (See Course, sec. 220.)",
+    "Answers": "f1(x) ~= 27.8 + 6.5cos(x) - 0.1sin(x) - 3.2cos(2x) + 0.1sin(2x); f2(x) ~= 0.24 + 0.55cos(x) + 0.25sin(x) - 0.08cos(2x) - 0.13sin(2x); f3(x) ~= 0.12 + 1.32cos(x) + 0.28sin(x) - 0.07cos(2x) + 0.46sin(2x)."
+  },
+  {
+    "ID": "4401",
+    "Questions": "Find the vector lines of the homogeneous field A(P) = ai + bj + ck, where a, b and c are constants.",
+    "Answers": "Straight lines parallel to the vector A(a,b,c): (x-x0)/a = (y-y0)/b = (z-z0)/c."
+  },
+  {
+    "ID": "4402",
+    "Questions": "Find the vector lines of the plane field A(P) = -omega*y*i + omega*x*j, where omega is constant.",
+    "Answers": "Circles with centres at the origin: x^2 + y^2 = R^2."
+  },
+  {
+    "ID": "4403",
+    "Questions": "Find the vector lines of the field A(P) = -omega*y*i + omega*x*j + hk, where omega and h are constants.",
+    "Answers": "Helices with pitch 2pi*h/omega, lying on cylinders whose axes coincide with the z axis: x = Rcos(omega*t+alpha), y=Rsin(omega*t+alpha), z=ht+z0, where R, alpha and z0 are arbitrary constants."
+  },
+  {
+    "ID": "4404",
+    "Questions": "Find the vector lines of the fields: (1) A(P) = (y+z)i - xj - xk; (2) A(P) = (z-y)i + (x-z)j + (y-x)k; (3) A(P) = x(y^2-z^2)i - y(z^2+x^2)j + z(x^2+y^2)k.",
+    "Answers": "(1) Circles formed by cutting the sphere with centre at the origin by planes parallel to the bisector plane y-z=0: x^2+y^2+z^2=R^2, y-z+C=0, where R and C are arbitrary constants. (2) Circles formed by cutting a sphere with centre at the origin by planes which cut off from the coordinate axes segments equal in direction and magnitude: x^2+y^2+z^2=R^2, x+y+z=C. (3) The curves of intersection of the sphere x^2+y^2+z^2=R^2 and the hyperbolic paraboloids zy=Cx."
+  },
+  {
+    "ID": "4405",
+    "Questions": "Evaluate the divergence and curl of the vector fields of problems 4405-4408: A(P) = xi+yj+zk.",
+    "Answers": "div A = 3, curl A = 0."
+  },
+  {
+    "ID": "4406",
+    "Questions": "A(P)=(y^2+z^2)i+(z^2+x^2)j+(x^2+y^2)k.",
+    "Answers": "div A = 0, curl A = 2[(y-z)i+(z-x)j+(x-y)k]."
+  },
+  {
+    "ID": "4407",
+    "Questions": "A(P)=x^2yzi+xy^2zj+xyz^2k.",
+    "Answers": "div A = 6xyz, curl A = x(z^2-y^2)i+y(x^2-z^2)j+z(y^2-x^2)k."
+  },
+  {
+    "ID": "4408",
+    "Questions": "A(P)=grad(x^2+y^2+z^2).",
+    "Answers": "div A = 6, curl A = 0."
+  },
+  {
+    "ID": "4409",
+    "Questions": "A vector field is formed by a force having a constant magnitude F and the direction of the positive axis of abscissae. Find the divergence and curl of this field.",
+    "Answers": "div A = 0, curl A = 0."
+  },
+  {
+    "ID": "4410",
+    "Questions": "A plane vector field is formed by a force, inversely proportional to the square of the distance of its point of application from the origin and directed to the origin. (For example, the plane electrostatic field produced by a point charge.) Find the divergence and curl of this field.",
+    "Answers": "div A = -k/r^3, where k is a coefficient of proportionality, r the distance from the point of application of the force to the origin, curl A = 0."
+  },
+  {
+    "ID": "4411",
+    "Questions": "Find the divergence and curl of the spatial field in which the forces are subject to the same conditions as in problem 4410.",
+    "Answers": "div A = 0, curl A = 0."
+  },
+  {
+    "ID": "4412",
+    "Questions": "A vector field is formed by a force, inversely proportional to the distance of its point of application from Oz, perpendicular to this axis and directed towards it. Find the divergence and curl of the field.",
+    "Answers": "div A = 0, curl A = 0. The field is not defined at points of Oz."
+  },
+  {
+    "ID": "4413",
+    "Questions": "A vector field is formed by a force, inversely proportional to the distance of its point of application to the xOy plane and directed towards the origin. Find the divergence of the field.",
+    "Answers": "div A = -k/(z*sqrt(x^2+y^2+z^2)), where k is a coefficient of proportionality. The field is not defined at points of the Oxy plane."
+  },
+  {
+    "ID": "4414",
+    "Questions": "Find div(ar), where a is a constant scalar.",
+    "Answers": "3a."
+  },
+  {
+    "ID": "4415",
+    "Questions": "Prove that div(phi*A) = phi*div(A) + (A*grad(phi)), where phi = phi(x,y,z) is a scalar function.",
+    "Answers": "The answer is a proof, not provided in the solutions PDF."
+  },
+  {
+    "ID": "4416",
+    "Questions": "Evaluate div b(ra) and div r(ra), where a and b are constant vectors.",
+    "Answers": "div b(ra) = (ab), div r(ra) = 4(ra)."
+  },
+  {
+    "ID": "4417",
+    "Questions": "Evaluate div(a x r), where a is a constant vector.",
+    "Answers": "0."
+  },
+  {
+    "ID": "4418",
+    "Questions": "Without passing to coordinates, evaluate the divergence of the vector field: (1) A(P)=r(a.r)-2ar^2, (2) A(P)=(r-r0)/|r-r0|^3, (3) grad(1/|r-r0|).",
+    "Answers": "(1) 0, (2) 0, (3) 0."
+  },
+  {
+    "ID": "4419",
+    "Questions": "Work out the divergence of the vector field A(P) = f(|r|) * r / |r|. Show that the divergence of the field is zero only when f(|r|) = C/r^2, if the field is in space, and f(|r|) = C/|r|, if the field is plane, where C is an arbitrary constant number.",
+    "Answers": "div A = 2f(|r|)/|r| + f'(|r|) if the field is spatial; div A = f(|r|)/|r| + f'(|r|) if the field is plane."
+  },
+  {
+    "ID": "4420",
+    "Questions": "Prove that curl[A1(P) + A2(P)] = curl A1(P) + curl A2(P).",
+    "Answers": "The answer is a proof, not provided in the solutions PDF."
+  },
+  {
+    "ID": "4421",
+    "Questions": "Evaluate curl phi*A(P), where phi = phi(x,y,z) is a scalar function.",
+    "Answers": "phi curl A + (grad phi x A)."
+  },
+  {
+    "ID": "4422",
+    "Questions": "Evaluate curl ra, where r is the distance of a point from the origin, and a is a constant vector.",
+    "Answers": "r x A / |r|."
+  },
+  {
+    "ID": "4423",
+    "Questions": "Evaluate curl (a x r), where a is a constant vector.",
+    "Answers": "2a."
+  },
+  {
+    "ID": "4424",
+    "Questions": "A rigid body rotates with constant angular velocity omega about an axis. Find the divergence and curl of the field of the linear velocities.",
+    "Answers": "2*omega*n^0, where n^0 is the unit vector parallel to the axis of rotation."
+  },
+  {
+    "ID": "4425",
+    "Questions": "Prove that n(grad(An) - curl(A x n)) = div A, if n is a unit constant vector.",
+    "Answers": "The answer is a proof, not provided in the solutions PDF."
+  },
+  {
+    "ID": "4426",
+    "Questions": "Show that (r*grad)r^n = n*r^n, where r is the radius vector.",
+    "Answers": "The answer is a proof, not provided in the solutions PDF."
+  },
+  {
+    "ID": "4427",
+    "Questions": "Prove the relationships: (1) curl grad u = 0; (2) div curl A = 0.",
+    "Answers": "The answer is a proof, not provided in the solutions PDF."
+  },
+  {
+    "ID": "4428",
+    "Questions": "Prove that div grad u = d^2u/dx^2 + d^2u/dy^2 + d^2u/dz^2. (This expression is called Laplace's operator...)",
+    "Answers": "The answer is a proof, not provided in the solutions PDF."
+  },
+  {
+    "ID": "4429",
+    "Questions": "Prove that curl curl A(P) = grad div A(P) - delta*A(P), where delta*A(P) = delta*Ax*i + delta*Ay*j + delta*Az*k.",
+    "Answers": "The answer is a proof, not provided in the solutions PDF."
+  },
+  {
+    "ID": "4430",
+    "Questions": "A vector field is formed by a constant vector A. Show that this field has a potential, and find it.",
+    "Answers": "The potential u = A.r + C."
+  },
+  {
+    "ID": "4431",
+    "Questions": "A vector field is formed by a force, proportional to the distance of its point of application from the origin and directed towards the origin. Show that this field is conservative, and find its potential.",
+    "Answers": "u = -1/2 k(x^2 + y^2 + z^2) + C."
+  },
+  {
+    "ID": "4432",
+    "Questions": "The forces of a field are inversely proportional to the distances of their points of application from the Oxy plane and are directed towards the origin. Is this field conservative?",
+    "Answers": "No."
+  },
+  {
+    "ID": "4433",
+    "Questions": "The forces of a field are proportional to the square of the distances of their points of application from the Oz axis and are directed to the origin. Is this field conservative?",
+    "Answers": "No."
+  },
+  {
+    "ID": "4434",
+    "Questions": "A vector field is formed by a force inversely proportional to the distance of its point of application from Oz, perpendicular to this axis and directed towards it. Show that this field is conservative, and find its potential.",
+    "Answers": "No answer provided in the solutions PDF."
+  },
+  {
+    "ID": "4435",
+    "Questions": "A vector field is formed by the linear velocities of points of a rigid body, rotating about its axis. Has this field a potential?",
+    "Answers": "No. (div A = 0, but curl A != 0)."
+  },
+  {
+    "ID": "4436",
+    "Questions": "The forces of a field are given as: A(P) = f(r)*r/r (called a centred field). Show that the potential of the field is equal to u(x,y,z) = -integral from a to r f(r) dr (r = sqrt(x^2+y^2+z^2)). Hence obtain, as a particular case, the potential of the field of gravitational force of a point mass and the potential of the field of problem 4431.",
+    "Answers": "The answer is a proof, not provided in the solutions PDF."
+  },
+  {
+    "ID": "4437",
+    "Questions": "Find the work done by the forces of the field A(p)=xyi+yzj+xzk on displacement of a point mass m round a closed curve, consisting of the segment of the straight line x+z=1, y=0, the quadrant of the circle x^2+y^2=1, z=0 and the segment of the straight line y+z=1, x=0 (Fig. 78) in the direction indicated on the figure. How does the amount of work change, if the arc BA is replaced by the step-line BOA or the straight line BA?",
+    "Answers": "2/3, 1, 3/2."
+  ,"images":["Img2/Berman_78.png"]},
+  {
+    "ID": "4438",
+    "Questions": "Given in the O*eta plane a homogeneous rod AB of length 2l with linear density delta, disposed on the O*xi axis, symmetrically with respect to the origin (Fig. 79): (a) Find the potential u(x,y) of the rod. (b) Show that the projections X and Y of the force of attraction acting on a point P of mass m with coordinates xi=x, eta=y, is equal to X=mk*delta*(1/PA-1/PB), Y=-mk*delta/y*(CB/PB+AC/PA), whilst the resultant force R is equal in magnitude to R=2mk*delta/y * sin(1/2(alpha+beta)), where k is the gravitational constant (C is the projection of point P on the O*xi axis, alpha is the angle APC, beta the angle BPC).",
+    "Answers": "k*delta * ln((sqrt((l-x)^2+y^2)+l-x)/(sqrt((l+x)^2+y^2)-l-x))."
+  ,"images":["Img2/Berman_79.png"]},
+  {
+    "ID": "4439",
+    "Questions": "Find the potential of the circumference of the circle x^2+y^2=R^2, z=0 at the point (R, 0, 2R), if the density at every point is equal to the absolute value of the sine of the angle between the radius vector of the point and the axis of abscissae.",
+    "Answers": "4k*delta*R/sqrt(5)."
+  },
+  {
+    "ID": "4440",
+    "Questions": "Find the potential of the first turn of the homogeneous (density delta) helix x=a*cos(t), y=a*sin(t), z=bt at the origin.",
+    "Answers": "k*delta*sqrt(a^2+b^2) * integral from 0 to 2pi dt / sqrt(a^2+b^2*t^2)."
+  },
+  {
+    "ID": "4441",
+    "Questions": "Find the potential of the homogeneous square with side a (surface density delta) at one of its corners.",
+    "Answers": "2k*delta*a(1+sqrt(2))."
+  },
+  {
+    "ID": "4442",
+    "Questions": "Mass is distributed on the Oxy plane with density delta, decreasing with the distance rho from the origin in accordance with the law delta = 1/(1+rho^2). Find the potential at the point (0,0,h). (Consider the three cases: h<1, h=1, and h>1.)",
+    "Answers": "2pi*k / sqrt(1-h^2) * arc cos h, if h<1; 2pi*k if h=1; 2pi*k/sqrt(h^2-1)*ln(h+sqrt(h^2-1)), if h>1."
+  },
+  {
+    "ID": "4443*",
+    "Questions": "Find the potential of the homogeneous lateral surface of a right circular cylinder: (1) at the centre of its base, (2) at the mid-point of its axis (radius of cylinder R, height H, surface density delta).",
+    "Answers": "(1) 2pi*k*R*delta*ln((H+sqrt(H^2+R^2))/R), (2) 4pi*k*R*delta*ln((H+sqrt(H^2+4R^2))/(2R)). Divide the cylinder into two by cutting it parallel to the base, and work out the potential of the lateral surface of the cylinder as the sum of the potentials of the lateral surfaces of the two halves, by using the result of (1)."
+  },
+  {
+    "ID": "4444",
+    "Questions": "Find the potential of the homogeneous lateral surface of a right circular cone (base radius R, height H) at its vertex.",
+    "Answers": "2pi*k*R*delta."
+  },
+  {
+    "ID": "4445*",
+    "Questions": "Given a homogeneous right circular cylinder (base radius R, height H, density delta): (1) Find the potential at the centre of its base. (2) Find the potential at the mid-point of its axis.",
+    "Answers": "(1) k*pi*delta[H*sqrt(R^2+H^2) - H^2 + R^2*ln((H+sqrt(R^2+H^2))/R)], (2) k*pi*delta[H*sqrt(4R^2+H^2)-H^2+4R^2*ln((H+sqrt(4R^2+H^2))/(2R))]; see the hint on problem 4443."
+  },
+  {
+    "ID": "4446",
+    "Questions": "Given a homogeneous right circular cone (base radius R, height H, density delta): Find the potential of the cone at its vertex.",
+    "Answers": "pi*k*delta*H(l-H), where l is the generator of the cone."
+  },
+  {
+    "ID": "4447",
+    "Questions": "Find the potential of the homogeneous hemisphere x^2+y^2+z^2<=R^2 (z>=0) with density delta at the point A(0,0,a). (Consider the two cases: a>=R and a<=R).",
+    "Answers": "u = 2/3 * pi * R^3 * delta/a * [(1+a^2/R^2)^(3/2) - (a/R)^3 - 3a/(2R) + 1] for a>=R; u = 2/3 * pi * a^2 * delta * [(1+a^2/R^2)^(-1/2) - (a/R)^3 + 1/2*(R/a)^3 - 2] for a<=R; u = k*pi*R^3*delta/a * (4*sqrt(2)-3) for a=R."
+  },
+  {
+    "ID": "4448*",
+    "Questions": "Find the potential of the homogeneous body bounded by two concentric spheres with radii R and r (R>r) and density delta at the point at a distance a from the centre of the spheres. (Consider the three cases: a>=R, a<=r and r<=a<=R.) Show that, if the point is situated in the interior cavity of the body, the force of attraction acting on this point is zero.",
+    "Answers": "u=4k*pi*delta/3a * (R^3-r^3) = kM/a (M is the mass of the body) for a>=R; u=2k*pi*delta(R^2-r^2) for a<=r; u=4k*pi*delta/3a * (a^3-r^3) + 2pi*delta(R^2-a^2) for r<=a<=R."
+  },
+  {
+    "ID": "4449",
+    "Questions": "Find the potential of the non-homogeneous continuous sphere x^2+y^2+z^2<=R^2 at the point A(0,0,a) (a>R) if the density delta=kz^2, i.e. it is proportional to the square of the distance of the point from the Oxy plane.",
+    "Answers": "kM/R^3 * [R^2/a + R^4/(7a^3)], where M is the mass of the sphere."
+  },
+  {
+    "ID": "4450",
+    "Questions": "Find the flux and circulation of a constant vector A round an arbitrary closed curve L.",
+    "Answers": "Both the flux and circulation are equal to 0."
+  },
+  {
+    "ID": "4451",
+    "Questions": "Find the flux and circulation of the vector A(P)=ar, where a is a constant scalar, and r is the radius vector of the point P, round an arbitrary closed curve L.",
+    "Answers": "The flux is equal to 2aS, where S is the area of the domain bounded by the contour L. The circulation is 0."
+  },
+  {
+    "ID": "4452",
+    "Questions": "Find the flux and circulation of the vector A(P)=xi-yj round an arbitrary closed curve L.",
+    "Answers": "Both the flux and circulation are equal to 0."
+  },
+  {
+    "ID": "4453",
+    "Questions": "Find the flux and circulation of the vector A(P)=(x^3-y)i+(y^3+x)j round a circle of radius R with centre at the origin.",
+    "Answers": "The flux is 3/2 * pi * R^4, the circulation 2pi*R^2."
+  },
+  {
+    "ID": "4454",
+    "Questions": "The potential of the velocity field of particles in a fluid flow is equal to u=ln(r), where r=sqrt(x^2+y^2). Find the quantity of fluid flowing out of a closed contour L surrounding the origin per unit time (the flux) and the quantity of fluid flowing per unit time round the contour (the circulation). How is the result changed if the origin lies outside the contour (and not in it)?",
+    "Answers": "When the origin lies inside the contour, the flux is equal to 2pi, otherwise the flux is equal to 0. The circulation is 0 in both cases."
+  },
+  {
+    "ID": "4455",
+    "Questions": "The potential of the velocity field of the particles in a fluid flow is equal to u=phi, where phi=arctan(y/x). Find the flux and circulation of the vector round the closed contour L.",
+    "Answers": "The circulation is equal to 2pi if the origin lies inside the contour, and is equal to 0 if outside the contour. The flux is 0 in both cases."
+  },
+  {
+    "ID": "4456",
+    "Questions": "The potential of the velocity field of particles in a fluid flow is equal to u(x,y)=x(x^2-3y^2). Find the quantity of fluid flowing per unit time through the straight segment joining the origin to the point (1,1).",
+    "Answers": "2."
+  },
+  {
+    "ID": "4457",
+    "Questions": "Prove that the flux of the radius vector r through any closed surface is equal to three times the volume bounded by this surface.",
+    "Answers": "No answer provided in the solutions PDF."
+  },
+  {
+    "ID": "4458",
+    "Questions": "Find the flux of the radius vector through the lateral surface of a circular cylinder (base radius R, height H), if the cylinder axis passes through the origin.",
+    "Answers": "2pi*R^2*H."
+  },
+  {
+    "ID": "4459",
+    "Questions": "By using the results of problems 4457 and 4458, find the flux through both bases of the cylinder of the previous problem.",
+    "Answers": "pi*R^2*H."
+  },
+  {
+    "ID": "4460",
+    "Questions": "Find the flux of the radius vector through the lateral surface of a circular cone, the base of which lies on the xOy plane, whilst its axis is Oz. (The height of the cone is 1, the base radius 2.)",
+    "Answers": "4pi. Work out the flux through the base of the cone and use the result of problem 4457."
+  },
+  {
+    "ID": "4461",
+    "Questions": "Find the flux of the vector A(P)=xyi+yzj+zxk through the boundary of the piece of the sphere x^2+y^2+z^2=1 lying in the first octant.",
+    "Answers": "3pi/16."
+  },
+  {
+    "ID": "4462*",
+    "Questions": "Find the flux of the vector A(P)=yzi+xzj+xyk through the lateral surface of the pyramid with vertex at the point S(0,0,2) the base of which is the triangle with vertices O(0,0,0), A(2,0,0) and B(0,1,0).",
+    "Answers": "1/6. Use Ostrogradskii's formula and work out the flux through the base of the pyramid."
+  },
+  {
+    "ID": "4463",
+    "Questions": "Find the circulation of the radius vector along one turn AB of the helix x=a*cos(t), y=a*sin(t), z=bt, where A and B are the points corresponding to values 0 and 2pi of the parameter.",
+    "Answers": "2pi^2*b^2."
+  },
+  {
+    "ID": "4464",
+    "Questions": "A rigid body rotates with constant angular velocity omega about the Oz axis. Find the circulation of the field of the linear velocities along the circle of radius R whose centre lies on the axis of rotation, whilst the plane of the circle is perpendicular to the axis of rotation in the direction of rotation.",
+    "Answers": "2pi*omega*R^2."
+  },
+  {
+    "ID": "4465*",
+    "Questions": "Find the flux of the vorticity of the vector field A(P)=yi+zj+xk through the surface of the paraboloid of revolution z=2(1-x^2-y^2), cut off by the plane z=0.",
+    "Answers": "-pi. Use Stokes's theorem, taking as the contour L the curve of intersection of the paraboloid with the Oxy plane."
+  }
+]

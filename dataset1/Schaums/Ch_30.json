@@ -1,0 +1,196 @@
+[
+  {
+    "question_number": 30.1,
+    "Questions": "A uniform magnetic field, B = 3.0 G, exists in the +x-direction. A proton (q = +e) shoots through the field in the +y-direction with a speed of 5.0 × 10⁶ m/s. (a) Find the magnitude and direction of the force on the proton. (b) Repeat with the proton replaced by an electron.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_68.png",
+    "solution": "(a) F = qvB sin θ = (1.6 × 10⁻¹⁹ C)(5.0 × 10⁶ m/s)(3.0 × 10⁻⁴ T) = 2.4 × 10⁻¹⁶ N, direction: –z. (b) Same magnitude, direction reversed: +z."
+  },
+  {
+    "question_number": 30.2,
+    "Questions": "Describe the path followed by a proton moving perpendicular to a uniform magnetic field of 30 G directed out of the page with speed 5.0 × 10⁶ m/s.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_69.png",
+    "solution": "The proton follows a circular path. Radius r = mv/qB = 1.7 m."
+  },
+  {
+    "question_number": 30.3,
+    "Questions": "A proton enters a magnetic field of flux density 1.5 Wb/m² with a velocity of 2.0 × 10⁷ m/s at an angle of 30°. Compute the force on the proton.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "F = qvB sin(30°) = 2.4 × 10⁻¹² N."
+  },
+  {
+    "question_number": 30.4,
+    "Questions": "An electron beam is bent in a circle of radius 2.0 cm by a uniform magnetic field B = 4.5 × 10⁻³ T. What is the speed of the electrons?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "v = r q B / m = 1.6 × 10⁴ km/s."
+  },
+  {
+    "question_number": 30.5,
+    "Questions": "A charged particle enters a region with E = 80 kV/m and B = 0.4 T. What speed must it have to pass undeflected?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_70.png",
+    "solution": "v = E / B = (80 × 10³ V/m) / (0.4 T) = 2 × 10⁵ m/s."
+  },
+  {
+    "question_number": 30.6,
+    "Questions": "A proton is shot with speed 8.0 × 10⁶ m/s at 30° to a magnetic field B = 0.15 T in the x-direction. Describe the path followed.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_71.png",
+    "solution": "Spiral motion: v₁ = 6.93 × 10⁶ m/s; radius = 0.28 m; pitch = 3.0 m."
+  },
+  {
+    "question_number": 30.7,
+    "Questions": "Alpha particles (q = +2e) accelerated by 1.0 kV enter a B = 0.20 T field. Find the radius of their path.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "r = (1/B)√(2mV/q) = 0.032 m."
+  },
+  {
+    "question_number": 30.8,
+    "Questions": "A wire with B = 0.80 T and I = 30 A experiences a force. Find the magnitude and direction of the force on a 5.0 cm length of wire.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_72.png",
+    "solution": "ΔF = I(ΔL)B sin θ = (30 A)(0.050 m)(0.80 T) = 1.2 N, downward."
+  },
+  {
+    "question_number": 30.9,
+    "Questions": "A wire loop carries current I and is perpendicular to a magnetic field B. What are the resultant force and torque?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_73.png",
+    "solution": "Net force = 0. Torque τ = NIAB sin θ = 0 since θ = 0°."
+  },
+  {
+    "question_number": 30.10,
+    "Questions": "A 40-turn coil (2.0 A, B = 0.25 T) has dimensions 10 cm × 12 cm. Find the torque and direction of rotation.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_74.png",
+    "solution": "τ = NIAB sin θ = 0.24 N·m, coil rotates so side ad moves out of the page."
+  },
+  {
+    "question_number": 30.11,
+    "Questions": "A quarter loop of radius 5.0 cm carries 14 A. A 300 G magnetic field points in +x. Find torque and direction.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_75.png",
+    "solution": "τ = NIAB sin θ = 2.9 × 10⁻³ N·m, loop rotates about y-axis."
+  },
+  {
+    "question_number": 30.12,
+    "Questions": "Two electrons move at 5.0 × 10⁶ m/s in a magnetic field. One curves in a circle, the other moves straight. Find magnitude and direction of B.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_76.png",
+    "solution": "B = mv/qr = 3.6 × 10⁻⁴ T, direction = –y."
+  },
+  {
+    "question_number": 30.13,
+    "Questions": "The Earth's magnetic field (5.0 × 10⁻⁵ T, 40° below horizontal) acts on a wire carrying 30 A north. Find force per meter.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_77.png",
+    "solution": "F/L = (30 A)(5.0 × 10⁻⁵ T) sin(40°) = 9.6 × 10⁻⁴ N, into page (west)."
+  },
+  {
+    "question_number": 30.14,
+    "Questions": "An ion (q = +2e) enters a magnetic field of 1.2 Wb/m² at a velocity of 2.5 × 10⁵ m/s perpendicular to the field. Determine the force on the ion.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 9.6 × 10⁻¹⁴ N"
+  },
+  {
+    "question_number": 30.15,
+    "Questions": "Calculate the speed of ions that pass undeflected through crossed E and B fields for which E = 7.7 kV/m and B = 0.14 T.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 55 km/s"
+  },
+  {
+    "question_number": 30.16,
+    "Questions": "The particle shown in Fig. 30-14 is positively charged in all three cases. What is the direction of the force on it due to the magnetic field? Give its magnitude in terms of B, q, and v.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_78.png",
+    "solution": "Ans. (a) into page, qvB; (b) out of page, qvB sin θ; (c) in plane of page at angle θ + 90°, qvB"
+  },
+  {
+    "question_number": 30.17,
+    "Questions": "What might be the mass of a positive ion that is moving at 1.0 × 10⁷ m/s and is bent into a circular path of radius 1.55 m by a magnetic field of 0.134 Wb/m²?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. n(3.3 × 10⁻²⁷ kg), where n is the ion’s charge"
+  },
+  {
+    "question_number": 30.18,
+    "Questions": "An electron is accelerated from rest through a potential difference of 3750 V. It enters a region where B = 4.0 × 10⁻³ T perpendicular to its velocity. Calculate the radius of the path it will follow.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 5.2 cm"
+  },
+  {
+    "question_number": 30.19,
+    "Questions": "An electron is shot with speed 5.0 × 10⁶ m/s out from the origin. Its velocity makes a 20° angle with the +x-axis. Describe its motion in a magnetic field B = 2.0 mT in the +x-direction.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. Helix; r = 0.49 cm, pitch = 8.5 cm"
+  },
+  {
+    "question_number": 30.20,
+    "Questions": "A beam of electrons passes undeflected through mutually perpendicular electric and magnetic fields. The electric field is then removed, and electrons move in the magnetic field in a circular path of radius 1.14 cm. Find the ratio of the electronic charge to mass.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. e/m = 175 GC/kg"
+  },
+  {
+    "question_number": 30.21,
+    "Questions": "A straight wire 15 cm long, carrying 6.0 A, is in a uniform field of 0.40 T. What is the force on the wire when it is (a) perpendicular and (b) at 30° to the field?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 0.36 N; (b) 0.18 N"
+  },
+  {
+    "question_number": 30.22,
+    "Questions": "What is the direction of the force, due to Earth’s magnetic field, on a wire carrying 6.0 A vertically downward?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. Horizontally toward east"
+  },
+  {
+    "question_number": 30.23,
+    "Questions": "Find the force on each segment of the wire shown in Fig. 30-15 if B = 0.15 T. Assume current in the wire to be 5.0 A.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_79.png",
+    "solution": "Ans. AB and DE: zero; BC: 0.12 N out of page; CD: 0.12 N into page"
+  },
+  {
+    "question_number": 30.24,
+    "Questions": "A coil of 25 loops is suspended in a 0.20 Wb/m² field. Dimensions: 15 cm × 12 cm. What current produces a torque of 5.4 N·m?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 60 A"
+  },
+  {
+    "question_number": 30.25,
+    "Questions": "An electron is accelerated from rest through a potential difference of 800 V, then moves perpendicularly to a 30 G field. Find orbit radius and frequency.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. r = 3.2 cm, f = 84 MHz"
+  },
+  {
+    "question_number": 30.26,
+    "Questions": "A proton and a deuteron are both accelerated through the same potential difference into a magnetic field. If the proton follows a path of radius Rp, what will be the deuteron’s path radius?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. Rd = Rp√2"
+  }
+]

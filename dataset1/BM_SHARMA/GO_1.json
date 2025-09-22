@@ -1,0 +1,2849 @@
+{
+  "section-1": [
+    {
+      "question_number": "1.1",
+      "question": "A ray of light is incident on a plane mirror along a vector ai + bj - ck. The normal on incidence point is along (i+j)/√2. Find a unit vector along the reflected ray.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.2",
+      "question": "Figure (a) shows an object placed in front of a plane mirror. P, Q and R are the three positions where the image of object may be seen. Observer A is able to see the image at position Q. Where does the observer B see the image of the object? [Image (a) and (b) provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_1.png","GO1_images/arihant_2.png"]
+    },
+    {
+      "question_number": "1.3",
+      "question": "Two plane mirrors M₁ and M₂ are inclined at angle θ. A light ray incident travelling parallel to the surface of mirror M₂ and incident on mirror M₁. What should be the value of θ so that light ray retraces its path after third reflection. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_3.png"]
+    },
+    {
+      "question_number": "1.4",
+      "question": "A woman is standing in front of a plane mirror. What is the minimum mirror height that is necessary for her to see her full image. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.5",
+      "question": "Figure shows a point object A and a plane mirror MN. Find the position of the image of object A, in mirror MN, by drawing ray diagram. Indicate the region in which the observer's eye must be present in order to view the image. (This region is called field of view.) [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_4.png"]
+    },
+    {
+      "question_number": "1.6",
+      "question": "A point source of light B is placed at a distance L in front of the centre of a mirror of width d hung vertically on a wall. A man walks in front of the mirror along a line parallel to the mirror at a distance 2L from it, as shown in figure. Find the greatest distance over which he can see the image of the light source from the mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_5.png"]
+    },
+    {
+      "question_number": "1.7",
+      "question": "A point object O is kept in front of a plane mirror MM. The line MOP makes an angle θ=60° with the mirror. An observer is walking along the line APB (perpendicular to MOP. Find the length of his path along APB in which he can see the image of the object. Given MO = d, MP = 2d and length of the mirror L = 2d. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_6.png"]
+    },
+    {
+      "question_number": "1.8",
+      "question": "Two large plane mirrors MM₁ and MM₂ are arranged at 150° as shown in the figure. O is a point object and AB is a long line perpendicular to the line OP. Find the length of the part of the line AB on which two images of the point object O can be seen. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_7.png"]
+    },
+    {
+      "question_number": "1.9",
+      "question": "A light ray is incident on a plane mirror at an angle of 30° with the horizontal. At what angle with horizontal must a plane mirror be placed in its path so that it becomes vertically upwards after reflection? [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.10",
+      "question": "Show that for a light ray incident at an angle i on getting reflected the angle of deviation is δ = π - 2i or π + 2i. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.11",
+      "question": "Two plane mirrors are inclined to each other at an angle θ. A ray of light is reflected first at one mirror and then at the other. Find the total deviation of the ray. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.12",
+      "question": "Calculate deviation suffered by incident ray in situation as shown in figure after three successive reflections. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_8.png"]
+    },
+    {
+      "question_number": "1.13",
+      "question": "Figure shows a point object placed between two parallel mirrors. Its distance from M₁ is 2 cm and that from M₂ is 8 cm. Find the distance of images from the two mirrors considering reflection on mirror M₁ first. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_9.png"]
+    },
+    {
+      "question_number": "1.14",
+      "question": "Consider two perpendicular mirrors M₁ and M₂ and a point object O. Taking origin at the point of intersection of the mirrors and the coordinates of object as (x, y), find the position and number of images. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.15",
+      "question": "An object is moving horizontally with velocity 10 m/s towards a fixed plane mirror as shown in figure. Find the image velocity. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_10.png"]
+    },
+    {
+      "question_number": "1.16",
+      "question": "A plane mirror is moving with speed 10 m/s towards an object which is at rest as shown in figure. Find the velocity of the image. ",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_11.png"]
+    },
+    {
+      "question_number": "1.17",
+      "question": "Figure shows a plane mirror and an object that are moving towards each other. Find the velocity of image.  ",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_12.png"]
+    },
+    
+
+    
+    {
+      "question_number": 1,
+      "question": "There is a point object and a plane mirror. If the mirror is moved by 10 cm away from the object, find the distance which the image will move.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.1",
+      "options": []
+    },
+    {
+      "question_number": 2,
+      "question": "Two plane mirrors are placed parallel to each other. The distance between the mirrors is 10 cm. An object is placed between the mirrors at a distance of 4 cm from one of them, say M₁. What is the distance between the first image formed at M₁ and the second image formed at M₂?",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.1",
+      "options": []
+    },
+    {
+      "question_number": 3,
+      "question": "A ray of light travels from a light source S to an observer after reflection from a plane mirror. If the source rotates in the clockwise direction by 10°, by what angle and in what direction must the mirror be rotated so that the light ray still strikes the observer? [Image provided in PDF]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.1",
+      "options": [],
+      "images":["GO1_images/arihant_13.png"]
+    },
+    {
+      "question_number": 4,
+      "question": "Two plane mirrors are inclined at an angle of 60° as shown in figure. A ray of light parallel to M₁ strikes M₂. At what angle will the ray finally emerge? [Image provided in PDF]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.1",
+      "options": [],
+      "images":["GO1_images/arihant_14.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "A man is standing at distance x from a plane mirror in front of him. He wants to see the entire wall in mirror which is at distance y behind the man. Find the minimum size of the mirror required.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.1",
+      "options": []
+    },
+    {
+      "question_number": 6,
+      "question": "Find the region on Y-axis in which reflected rays are present. Object is at A (2, 0) and MN is a plane mirror, as shown in figure. [Image provided in PDF]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.1",
+      "options": [],
+      "images":["GO1_images/arihant_15.png"]
+    },
+    {
+      "question_number": 7,
+      "question": "An object moves with 5 ms⁻¹ toward right while the mirror moves with 1 ms⁻¹ toward the left as shown in figure. Find the velocity of image. [Image provided in PDF]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.1",
+      "options": [],
+      "images":["GO1_images/arihant_16.png"]
+    },
+    {
+      "question_number": 8,
+      "question": "In figure, a plane mirror is moving with a uniform speed of 5 ms⁻¹ along negative x-direction and observer O is moving with a velocity of 10 ms⁻¹. What is the velocity of image of a particle P, moving with a velocity as shown in the figure, as observed by observer O? Also find its direction. [Image provided in PDF]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.1",
+      "options": [],
+      "images":["GO1_images/arihant_17.png"]
+    },
+    {
+      "question_number": "1.18",
+      "question": "Find the angle of incidence of the ray shown in figure for which it passes through the pole, given that MI || CP. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_18.png"]
+    },
+    {
+      "question_number": "1.19",
+      "question": "Find the distance CQ if incident light ray parallel to principal axis is incident at an angle i. Also, find the distance CQ if i → 0. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_19.png"]
+    },
+
+    {
+      "question_number": "1.20",
+      "question": "Can a convex mirror form a real image? Explain. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.21",
+      "question": "A concave mirror has radius of curvature R = 30 cm. A pencil lies perpendicular to the axis of the mirror at each of the following object distances: (a) d = 40 cm (b) d = 30 cm (c) d = 15 cm (d) d = 5 cm. Find the image of the pencil, magnification of each image. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_20.png"]
+    },
+    {
+      "question_number": "1.22",
+      "question": "A beam of light converges towards a point O, behind a convex mirror of focal length 20 cm. Find the nature and position of image if the point O is (a) 10 cm behind the mirror (b) 30 cm behind the mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_21.png"]
+    },
+    {
+      "question_number": "1.23",
+      "question": "The focal length of a concave mirror is 30 cm. Find the position of the object in front of the mirror, so that the image is three times the size of the object. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.24",
+      "question": "An image of a candle on a screen is found to be double its size. When the candle is shifted by a distance of 5 cm, then the image becomes triple its size. Find the nature and radius of curvature of the mirror.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.25",
+      "question": "The distance between a real object and its image in a convex mirror of focal length 12 cm is 32 cm. Find the size of image if the object size is 1 cm. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.26",
+      "question": "A thin rod of length f/3 is placed along the optical axis of a concave mirror of focal length f such that its image which is real and elongated just touches the rod. Calculate the magnification. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.27",
+      "question": "A metal wire AB of length 10 cm is placed in front of a concave mirror of focal length 15 cm as shown in figure. Find the length of the wire. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_22.png"]
+    },
+    {
+      "question_number": "1.28",
+      "question": "A U-shaped wire is placed before a concave mirror having radius of curvature 20 cm as shown in figure. Find the total length of the image. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_23.png"]
+    },
+    {
+      "question_number": "1.29",
+      "question": "A metal wire ABC of length 3 cm is placed in front of a concave mirror of focal length 20 cm as shown in figure. If AB = 1 cm and BC = 2 cm, then find the coordinates image of point A and C of the wire. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_24.png"]
+    },
+    {
+      "question_number": "1.30",
+      "question": "Point I is the image of a point source of light O in a spherical mirror whose optical axis is X₁X₂ (shown in figure). Find by construction the position of the centre of the mirror and its focus. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_25.png"]
+    },
+    {
+      "question_number": "1.31",
+      "question": "The positions of optical axis Y₁Y₂ of a spherical mirror, the source and the image are known (as shown in figure). Find by construction the positions of the centre of the mirror, its focus, and the pole for the cases (a) A-object, B- image; (b) B- object, A- image. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_26.png"]
+    },
+    {
+      "question_number": "1.32",
+      "question": "A plane mirror is placed at a distance of 50 cm from a concave mirror of focal length 16 cm. Where should a short object be placed between the mirrors and facing both the mirrors so that its virtual image in the plane mirror coincides with the real image in concave mirror? What is the ratio of the sizes of the two images? [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": 1,
+      "question": "State the following statements as True or False.\n(a) A convex mirror cannot form a real image for a real object.\n(b) The image formed by a convex mirror is always diminished and erect.\n(c) Virtual image formed by a concave mirror is always enlarged.\n(d) Only in the case of a convex mirror, it may happen that the object and its image move in same direction.\n(e) In the case of a concave mirror, the image always move faster than the object.\n(f) If an object is placed in front of a diverging mirror at a distance equal to its focal length, then the height of image formed is half of the height of object.\n(g) For two positions of an object, a concave mirror can form enlarged image.\n(h) Concave mirror is used as a rear view mirror in motor vehicles.\n(i) If some portion of the mirror is covered, then complete image will be formed but of reduced brightness.\n(j) A plane mirror always forms an erect image of same size as that of the object.\n(k) The image formed by a plane mirror has left-right reversal.\n(l) A virtual object means a converging beam.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 2,
+      "question": "A particle moves in a circular path of radius 5 cm in a plane perpendicular to the principal axis of a convex mirror with radius of curvature 20 cm. The object is 15 cm in front of the mirror. Calculate the radius of the circular path of the image.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 3,
+      "question": "A body of length 6 cm is placed 10 cm from a concave mirror of focal length 20 cm. Find the position, size, and nature of the image.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 4,
+      "question": "An object is placed 15 cm from a mirror and an image is captured on the screen with magnification 2. Calculate the focal length of the mirror and determine if it is concave of convex.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 5,
+      "question": "An object is placed 15 cm from a mirror and an erect image of size 5 cm is seen. Determine the focal length and the nature of the mirror. Assume the object size is 15 cm.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 6,
+      "question": "A beam of light converges to a point on a screen S. A mirror is placed in front of the screen at a distance of 10 cm from the screen. It is found that the beam now converges at a point 20 cm in front of the mirror. Find the focal length of the mirror.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 7,
+      "question": "Converging rays are incident on a convex spherical mirror so that their extensions intersect 30 cm behind the mirror on the optical axis. The reflected rays form a diverging beam so that their extensions intersect the optical axis 1.2 m from the mirror. Determine the focal length of the mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": [],
+      "images":["GO1_images/arihant_27.png"]
+    },
+    {
+      "question_number": 8,
+      "question": "A concave mirror gives a real image magnified 4 times. When the object is moved 3 cm the magnification of the real image is 3 times. Find the focal length of mirror.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 9,
+      "question": "The image of a real object in a convex mirror is 4 cm from the mirror. If the mirror has a radius of curvature of 24 cm, find the position of object and magnification.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 10,
+      "question": "When an object is placed at a distance of 25 cm from a mirror, the magnification is m₁. The object is moved 15 cm farther away with respect to the earlier position, and the magnification becomes m₂. If m₁/m₂ = 4, then calculate the focal length of the mirror.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": 11,
+      "question": "A concave mirror forms a real image three times larger than the object on a screen. The object and screen are moved until the image becomes twice the size of the object. If the shift of the object is 6 cm, find the shift of screen.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.2",
+      "options": []
+    },
+    {
+      "question_number": "1.33",
+      "question": "A vertically erect object placed on the optic axis at a distance (5/2)f from a concave mirror of focal length f as shown in the figure. If a plane mirror is placed perpendicular to the optic axis at a distance (4/3)f from the pole, facing concave mirror, find the position and nature of the final image formed. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_28.png"]
+    },
+    {
+      "question_number": "1.34",
+      "question": "Two concave mirrors are placed 40 cm apart and are facing each other. A point object lies between them at a distance of 12 cm from the mirror of focal length 10 cm. The other mirror has a focal length of 15 cm. Find the location of final image formed after two reflections—first at the mirror nearer to the object and second at the other mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.35",
+      "question": "A concave mirror and a convex mirror of focal lengths 15 cm and 30 cm are placed at a distance of 75 cm. An object of height 3 cm is placed at a distance of 20 cm from the concave mirror. First ray is incident on the concave mirror then on the convex mirror. Find size, position, and nature of the image. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_29.png"]
+    },
+    {
+      "question_number": "1.36",
+      "question": "In figure, AB is the principal axis of the concave mirror. A point object moves on the line PQ which makes small angle θ with the principal axis. Show that image also moves in straight line making same angle θ with principal axis. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_30.png"]
+    },
+    {
+      "question_number": "1.37",
+      "question": "A concave mirror of focal length 10 cm and a point object both are moving away from each other with velocities 1 ms⁻¹ and 10 ms⁻¹ respectively as shown in figure. Find the velocity of image when the object is at a distance 15 cm from the mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_31.png"]
+    },
+    {
+      "question_number": "1.38",
+      "question": "A point object is moving with velocity 5 cm/s at angle 37° towards a stationary concave mirror of focal length 20 cm as shown in figure. Find the image position and its velocity when the object is at a distance 30 cm from the mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_32.png"]
+    },
+    {
+      "question_number": "1.39",
+      "question": "Find the velocity of image in a situation as shown in the figure. [Image provided in PDF, object moving at 15m/s at 53 deg, mirror moving at 2m/s, f=20cm, obj dist=30cm]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_33.png"]
+    },
+    {
+      "question_number": 1,
+      "question": "A plane mirror and a concave mirror are arranged as shown in figure and O is a point object. Find the position of image formed by two reflections, first one taking place at concave mirror. [Image provided: Concave mirror R=200cm, object O at 45 deg, distance 890cm and 110cm from mirror points]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_34.png"]
+    },
+    {
+      "question_number": 2,
+      "question": "A small plane mirror strip is kept at a distance of 10 cm in front of a convex mirror, with its plane normal to the principal axis. An object is placed at a distance of 20 cm from the plane mirror, as shown in figure. Calculate the focal length of the convex mirror, if the image formed by the plane mirror and the convex mirror coincide, without parallax. [Image provided: Object O, plane mirror, convex mirror P, distances 20cm and 10cm]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_35.png"]
+    },
+    {
+      "question_number": 3,
+      "question": "The inner surface of the wall of a sphere is perfectly reflecting. Radius of the sphere is R. A point source S is placed at a distance R/2 from the centre of the sphere. Consider the reflection of light from the farthest wall followed by reflection from the nearest wall. Where is the image of the source? Consider paraxial rays only. [Image provided: Sphere with source S inside]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_36.png"]
+    },
+    {
+      "question_number": 4,
+      "question": "A concave mirror and a convex mirror of focal lengths 20 cm and 30 cm are placed at a distance of 50 cm. An object of height 3 cm is kept at a distance 15 cm from convex mirror. Find the position and height of the image formed by reflection, first at the convex and then at the concave mirror. [Image provided: Concave mirror M2 f2=20cm, Convex mirror M1 f1=30cm, object O height 3cm, distance 15cm from M1, total distance 50cm]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_37.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "An object is placed between a plane mirror and a concave mirror of focal length 15 cm as shown in the figure. Find the positions of the images after two reflections. [Image provided: Object O between plane mirror and concave mirror, distances 10cm and 20cm]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_38.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "An object is placed midway between a concave mirror of focal length f and a convex mirror of focal length f. The distance between the two mirrors is 6f. Trace the ray that is first incident on the concave mirror and then the convex mirror.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": []
+    },
+    {
+      "question_number": 7,
+      "question": "Find the position of the final image after three successive reflections taking the first reflection on m₁. [Image provided: Concave mirror m1 ROC=20cm, object O at 15cm, distance 40cm]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_39.png"]
+    },
+    {
+      "question_number": 8,
+      "question": "A concave mirror of focal length 10 cm is placed in front of a convex mirror of focal length 20 cm. The distance between the two mirrors is 20 cm. A point object is placed 5 cm from the concave mirror. Discuss the formation of image. [Image provided: Concave mirror, convex mirror P, object O at 5cm, total distance 20cm]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_40.png"]
+    },
+    {
+      "question_number": 9,
+      "question": "A point object moves in +x-direction with v = 1 m/s along the principal axis of the concave mirror of focal length f = 10 m. When the mirror moves with a velocity Vm = -j m/s and the object is at a distance of 15 m, find the speed of the image. [Image provided: Concave mirror f=10m, object O at 15m, object velocity 1m/s, mirror velocity -j m/s]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_41.png"]
+    },
+    {
+      "question_number": 10,
+      "question": "Find the velocity of image w.r.t. ground. The mirror is at rest and the object is moving perpendicular to the axis with 5 cm/s as in figure. [Image provided: Concave mirror f=20cm, object O at 30cm, object velocity 5cm/s perpendicular to axis]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.3",
+      "options": [],
+      "images":["GO1_images/arihant_42.png"]
+    }
+  ],
+  "section-2": [
+    {
+      "question_number": "1.42",
+      "question": "A ray of light is incident on a transparent glass slab of refractive index √3. If the reflected and refracted rays are mutually perpendicular, what is the angle of incidence? [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_43.png"]
+    },
+    {
+      "question_number": "1.43",
+      "question": "A light ray is incident on a glass sphere of reflective index μ = √3 at an angle of incidence 60° as shown in figure. Find the angles r, r', e and the total deviation after two refractions. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_44.png"]
+    },
+    {
+      "question_number": "1.44",
+      "question": "A light beam passes from medium 1 to medium 2. Show that the emerging beam is parallel to the incident beam.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.45",
+      "question": "A searchlight on a yacht is being used at night to illuminate a sunken box, as in figure. At what angle of incidence θ₁ should the light be aimed? [Image provided in PDF, μ_water = 4/3, height 4m, box at 4m horizontal distance]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_45.png"]
+    },
+    {
+      "question_number": "1.46",
+      "question": "A cylindrical vessel, whose diameter and height both are equal to 30 cm, is placed on a horizontal surface and a small particle P is placed in it at a distance of 5.0 cm from the centre. An eye is placed at a position such that the edge of the bottom is just visible. The particle P is in the plane of drawing. Up to what minimum height should water be poured in the vessel to make the particle P visible? [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_46.png"]
+    },
+    {
+      "question_number": "1.47",
+      "question": "An observer can see through a pin hole, the top of a thin rod of height h, placed as shown in figure. The beaker's height is 3h and its radius is h. When the beaker is filled with a liquid upto a height 2h, he can see the lower end of the rod. Find the refractive index of liquid. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_47.png","GO1_images/arihant_48.png"]
+    },
+    {
+      "question_number": "1.48",
+      "question": "Light is incident from air on an oil layer at an incident angle of 30°. After moving through the oil 1, oil 2, and glass it enters water. If the refraction index of glass and water are 1.5 and 1.3, respectively. Find the angle which the ray makes with the normal in water. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_49.png"]
+    },
+    {
+      "question_number": "1.49",
+      "question": "The x-y plane is the boundary between two transparent media. Medium-1 with z > 0 has refractive index √2 and medium-2 with z < 0 has a refractive index √3. A ray of light in medium-1 given by the vector A = 6√3i + 8√3j - 10k is incident on the plane of separation. Find the unit vector in the direction of the refracted ray in the medium 2. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_50.png"]
+    },
+    {
+      "question_number": "1.50",
+      "question": "Find the angle of refraction in a medium (μ = 2) if light is incident in vacuum, making an angle equal to twice the critical angle.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.51",
+      "question": "What should be the value of angle θ so that light entering normally through the surface AC of a prism (n = 3/2) does not cross the second refracting surface AB? [Image provided in PDF, right-angled prism]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_51.png"]
+    },
+    {
+      "question_number": "1.52",
+      "question": "A glass rod having square cross-section is bent into the shape as shown in the figure. The radius of the inner semi-circle is R and width of the rod is d. Find the minimum value of d/R so that the light that enters at A will emerge at B. Refractive index of glass is μ = 1.5. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_52.png"]
+    },
+    {
+      "question_number": "1.53",
+      "question": "A slab of refractive index μ is placed in air and light is incident at maximum angle θ₀ from vertical. Find minimum value of μ for which total internal reflection takes place at the vertical surface. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_53.png"]
+    },
+    {
+      "question_number": "1.54",
+      "question": "A rectangular slab ABCD, of refractive index n₁, is immersed in water of refractive index n₂ (n₂ < n₁). A ray of light is incident at the surface AB of the slab as shown in figure. Find the maximum value of angle of incidence α_max such that the ray comes out only from the other surface CD. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_54.png"]
+    },
+    {
+      "question_number": "1.55",
+      "question": "A point source of light is placed at distance h below the surface of a large and deep lake. What fraction of light will escape through the surface of water?",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.56",
+      "question": "A monochromatic light is incident on the plane interface AB between two media of refractive indices μ₁ and μ₂ (μ₁ > μ₂) at an angle of incidence θ as shown in figure. The angle θ is infinitesimally greater than the critical angle for the two media so that total internal reflection takes place. Now, if a transparent slab DEFG of uniform thickness and of refractive index μ₃ is introduced on the interface (as shown in the figure), show that for any value of μ₃, all light will ultimately be reflected back into medium II. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_55.png"]
+    },
+    {
+      "question_number": "1.57",
+      "question": "Consider a long optical fiber with index of refraction n_f that is surrounded by air. (There is no cladding.) The end of the fiber is polished to be flat and is perpendicular to the length of the fiber. A light ray from a laser is incident from air onto the centre of the circular face of the optical fiber at angle θ_air. What is the maximum angle of incidence for this light ray such that it will be confined and transported by the optical fiber? (Neglect any reflection as the light ray enters the fiber.) [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_56.png"]
+    },
+    {
+      "question_number": "1.58",
+      "question": "An object lies 100 cm inside water (μ = 4/3). It is viewed from air nearly normally. Find the apparent depth of the object.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.59",
+      "question": "See figure and answer the following questions.\n(a) Find apparent height of the bird.\n(b) Find apparent depth of the fish.\n(c) At what distance will the bird appear to the fish?\n(d) At what distance will the fish appear to the bird?\n[Image provided in PDF, bird at 36m above water, fish in water (μ=4/3) 36m below surface]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_57.png"]
+    },
+    {
+      "question_number": "1.60",
+      "question": "Consider the situation in figure. The bottom of the pot is a reflecting plane mirror, S is a small fish, and T is a human eye. Refractive index of water is μ.\n(a) At what distance(s) from itself will the fish see the image(s) of the eye?\n(b) At what distance(s) from itself will the eye see the image(s) of the fish?\n[Image provided in PDF, fish S at H/2 from bottom, eye T at H above water surface]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_58.png"]
+    },
+    {
+      "question_number": "1.61",
+      "question": "A fish in an aquarium approaches the top surface of the water at a rate of 3 m s⁻¹ observes a bird approaching it at 8 ms⁻¹. If the refractive index of water is (4/3), find the actual velocity of the bird. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.62",
+      "question": "A bird is moving towards an aquarium with speed 4 m/s. A fish in the aquarium is moving down with speed 2 m/s. Suppose the base of the aquarium is silvered. Find the speed of the bird as seen by fish in mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": 1,
+      "question": "A converging set of rays, travelling from water to air, is incident on a plane interface. In the absence of the interface, the rays would have converged to a point O, 60 cm above the interface. However, due to refraction the rays will bend. At what distance above the interface will the rays actually converge? [Image provided in PDF, converging rays from water to air]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_59.png"]
+    },
+    {
+      "question_number": 2,
+      "question": "A beam of width d is incident at 45° on an air-water boundary. The width of the beam in water is _______. [Image provided in PDF, beam incident at 45° from air to water μ]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_60.png"]
+    },
+    {
+      "question_number": 3,
+      "question": "A fish is 60 cm under water (μ = 4/3). A bird directly overhead looks at the fish. If the bird is at a distance of 120 cm from the water surface, (a) what is the apparent position of the fish as seen by the bird and (b) what is the apparent position of the bird as seen by the fish?",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": []
+    },
+    {
+      "question_number": 4,
+      "question": "A light beam of diameter √3R is incident symmetrically on a glass hemisphere of radius R and of refractive index n = √3. Find radius of the beam at the base of hemisphere. [Image provided in PDF, beam incident on hemisphere with n=√3, R]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_61.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "A tank contains three layers of immiscible liquids. The first layer is of water with refractive index 4/3 and thickness 8 cm. The second layer is of oil with refractive index 3/2 and thickness 9 cm while the third layer is of glycerine with refractive index 2 and thickness 4 cm. Find the apparent depth of the bottom of the container. [Image provided in PDF, layers of water, oil, glycerine]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_62.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "A convergent beam is incident on two slabs placed in contact as shown in figure. Where will the rays finally converge? [Image provided in PDF, slabs with μ=3/2 and μ=2, thicknesses 6cm and 4cm, convergent beam]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_63.png"]
+    },
+    {
+      "question_number": 7,
+      "question": "A slab of water is on the top of a glass slab of refractive index 2. At what angle to the normal must a ray be incident on the top surface of the glass slab so that it is reflected from the bottom surface as shown in figure? [Image provided in PDF, ray incident on glass slab with water layer on top, reflection from bottom of glass slab]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_64.png"]
+    },
+    {
+      "question_number": 8,
+      "question": "What should be the value of refractive index μ of a glass rod placed in air, so that the light entering through the flat surface of the rod does not cross the curved surface of the rod? [Image provided in PDF, rod with flat end and curved surface]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_65.png"]
+    },
+    {
+      "question_number": 9,
+      "question": "In figure, a point source S is placed at a height h above the plane mirror in a medium of refractive index μ. \n(a) Find the number of images seen for normal view.\n(b) Find the distance between the images. [Image provided in PDF, source S above mirror in medium μ, observer in air]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_66.png"]
+    },
+    {
+      "question_number": 10,
+      "question": "Consider the situation shown in figure. A plane mirror is fixed at a height h above the bottom of a beaker containing water (refractive index μ) up to a height d. Find the position of the image of the bottom formed by the mirror. [Image provided in PDF, beaker with water, mirror above water surface]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_67.png"]
+    },
+    {
+      "question_number": 11,
+      "question": "A concave mirror of radius 40 cm lies on a horizontal table and water is filled in it up to a height of 5.00 cm. A small dust particles floats on the water surface at a point P vertically above the point of contact of the mirror with the table. Locate the image of the dust particle as seen from a point directly above it. The refractive index of water is 1.33. [Image provided in PDF, concave mirror with water, dust particle P]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_68.png"]
+    },
+    {
+      "question_number": 12,
+      "question": "A concave mirror of radius R is kept on a horizontal table. Water (refractive index = μ) is poured into it up to a height h. Where should an object be placed so that its image is formed on itself ? [Image provided in PDF, concave mirror with water]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.4",
+      "options": [],
+      "images":["GO1_images/arihant_69.png"]
+    },
+    {
+      "question_number": "1.63",
+      "question": "Find the lateral shift of a light ray while it passes through a parallel glass slab of thickness 10 cm placed in air. The angle of incidence in air is 60° and the angle of refraction in glass is 45°.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.64",
+      "question": "In figure, find the apparent depth of the object seen below surface AB. [Image provided in PDF, object at 15cm in medium μ=1.5, then 20cm in medium μ=2, observer in medium μ=1.8]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_70.png"]
+    },
+    {
+      "question_number": "1.65",
+      "question": "A layer of oil 3 cm thick is floating on a layer of coloured water 5 cm thick. Refractive index of coloured water is 5/3 and the apparent depth of the two liquids appears to be 36/7 cm. Find the refractive index of oil.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.66",
+      "question": "In figure, determine the apparent shift in the position of the coin. Also, find the effective refractive index of the combination of the glass and water slab. [Image provided in PDF, coin below glass slab (μ₁=4/3, 8cm thick) and water slab (μ₂=3/2, 4.5cm thick)]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_71.png"]
+    },
+    {
+      "question_number": "1.67",
+      "question": "An object is placed in front of a slab (μ = 1.5) of thickness 6 cm at a distance 28 cm from it. Other face of the slab is silvered. Find the position of final image. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.68",
+      "question": "A 20 cm thick glass slab of refractive index 1.5 is kept in front of a plane mirror. Find the position of the image (relative to mirror) as seen by an observer through the glass slab when a point object is kept at a distance of 40 cm from the mirror.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.69",
+      "question": "A point object O is placed in front of a concave mirror of focal length 10 cm. A glass slab of refractive index μ = 3/2 and thickness 6 cm is inserted between the object and mirror. Find the position of final image when the distance x shown in figure is (a) 5 cm and (b) 20 cm. [Image provided in PDF, object O, slab, mirror with distance x]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_72.png"]
+    },
+    {
+      "question_number": "1.70",
+      "question": "A vessel having perfectly reflecting plane bottom is filled with water (μ = 4/3) to a depth d. A point source of light is placed at a height h above the surface of water. Find the distance of final image from water surface. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.71",
+      "question": "A concave mirror of focal length 20 cm is placed inside water with its shining surface upwards and principal axis vertical as shown in figure. Rays are incident parallel to the principal axis of concave mirror. Find the position of final image. [Image provided in PDF, concave mirror in water n_w=4/3, rays parallel to axis, depth 30cm]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_73.png"]
+    },
+    {
+      "question_number": "1.72",
+      "question": "A glass slab is placed between an object (O) and an observer (E) with its refracting surfaces AB and CD perpendicular to the line OE. The refractive index of the glass slab changes with distance (y) from the face AB as μ = μ₀(1 + y). Thickness of the slab is t. Find how much closer (compared to original distance) the object appears to the observer. Consider near normal incidence only. [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_74.png"]
+    },
+    {
+      "question_number": "1.73",
+      "question": "Due to a vertical temperature gradient in the atmosphere the index of refraction varies. Suppose index of refraction varies as n = n₀√(1 + ay) where n₀ is the index of refraction at the surface and a = 2.0 × 10⁻⁶ m⁻¹. A person of height h = 2.0 m stands on a level surface. Beyond what distance he cannot see the runway? [Image provided in PDF]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_75.png"]
+    },
+    {
+      "question_number": 1,
+      "question": "Identify the True or False statements.\n(a) A glass slab cannot deviate the light.\n(b) A glass slab can produce lateral displacement.\n(c) The shift produced by a slab depends on the converging and diverging nature of beam.\n(d) Apparent shift in case of a slab always occurs in the direction of light ray travelling.\n(e) The shift produced by a slab can never exceed its thickness.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": []
+    },
+    {
+      "question_number": 2,
+      "question": "In figure, a fish watcher watches a fish through a 3.0 cm thick glass wall of a fish tank. The watcher is in level with the fish; the index of refraction of the glass is 8/5 and that of the water is 4/3.\n(a) To the fish, how far away does the watcher appear to be?\n(b) To the watcher, how far away does the fish appear to be?\n[Image provided in PDF, watcher, glass wall 3cm, water 8cm, fish 10cm from glass wall]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": [],
+      "images":["GO1_images/arihant_76.png"]
+    },
+    {
+      "question_number": 3,
+      "question": "An object O is placed at 8 cm in front of a glass slab, whose one face is silvered as shown in figure. The thickness of the slab is 6 cm. If the image formed 10 cm behind the silvered face, find the refractive index of glass. [Image provided in PDF, object O, slab 6cm, silvered face]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": [],
+      "images":["GO1_images/arihant_77.png"]
+    },
+    {
+      "question_number": 4,
+      "question": "An object is placed on the principal axis of a concave mirror of focal length 10 cm at a distance of 21 cm from it. A glass slab is placed between the mirror and the object as shown in figure. Find the distance of final image formed by the mirror. [Image provided in PDF, concave mirror R=20cm, slab μ=3/2 thickness 3cm, object O at 21cm]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": [],
+      "images":["GO1_images/arihant_78.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "The image of an object kept at a distance of 30 cm in front of a concave mirror is found to coincide with itself. If a glass slab (μ = 1.5) of thickness 3 cm is introduced between the mirror and the object, then\n(a) Identify, in which direction the mirror should be displaced so that the final image may again coincide with the object itself.\n(b) Find the magnitude of displacement.\n[Image provided in PDF, object O, slab, concave mirror]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": [],
+      "images":["GO1_images/arihant_79.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "The refractive index of an anisotropic medium varies as μ = μ₀√(x+1), where 0 ≤ x ≤ a. A ray of light is incident at the origin just along y-axis (shown in figure). Find the equation of ray in the medium. [Image provided in PDF, ray incident along y-axis into medium with varying refractive index]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": [],
+      "images":["GO1_images/arihant_80.png"]
+    },
+    {
+      "question_number": 7,
+      "question": "A ray of light travelling in air is incident at angle of incident 30° on one surface of slab in which refractive index varies with y. The light travels along the curve y = 4x² (y and x are in meter) in the slab. Find out the refractive index of the slab at y = 1/2 m in the slab. [Image provided in PDF, ray incident at 30° into slab with varying refractive index]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": [],
+      "images":["GO1_images/arihant_81.png"]
+    },
+    {
+      "question_number": 8,
+      "question": "A ray of light is incident on a glass slab at grazing incidence. The refractive index of the material of the slab is given by μ = μ₀(1+y). If the thickness of the slab is d = 2 m, determine the equation of the trajectory of the ray inside the slab and the coordinates of the point where the ray exits from the slab. Take the origin to be at the point of entry of the ray.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": []
+    },
+    {
+      "question_number": 9,
+      "question": "A point object O is placed at a distance of 62 cm in front of a concave mirror of focal length f = 20 cm. A glass slab of refractive index μ = 3/2 and thickness 6 cm is inserted between the object and the mirror. Lets define final image as image formed after the light ray originating from O passes through the slab, gets reflected from the mirror and then again passes through the slab. Where final image will form? [Image provided in PDF, object O, slab, concave mirror f=20cm, μ=3/2, thickness 6cm, distance 62cm]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.5",
+      "options": [],
+      "images":["GO1_images/arihant_82.png"]
+    },
+    {
+      "question_number": "1.74",
+      "question": "What should be the minimum value of refractive index of a prism, refracting angle A, so that there is no emergent ray irrespective of the angle of incidence? [Image provided in PDF, prism with angle A, e=90°]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_83.png"]
+    },
+    {
+      "question_number": "1.75",
+      "question": "Figure shows a triangular prism of refracting angle 90°. A ray of light incident at face AB at an angle θ₁ refracts at point Q with an angle of refraction 90°.\n(a) What is the refractive index of the prism in terms of θ₁?\n(b) What is the maximum value that the refractive index can have?\n(c) What happens to the light at Q if the incident angle at Q is (i) increased slightly, and (ii) decreased slightly?\n[Image provided in PDF, prism with 90° angle, incident ray at θ₁]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_84.png"]
+    },
+    {
+      "question_number": "1.76",
+      "question": "A prism has refracting angle equal to π/2. It is given that γ is the angle of minimum deviation and β is the deviation of the ray entering at grazing incidence. Prove that sin γ = sin²β. [Image provided in PDF, prism with angle A=π/2]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.77",
+      "question": "A rectangular block of refractive index μ is placed on a printed page lying on a horizontal surface as shown in figure. Find the minimum value of μ so that the letter L on the page is not visible from any of the vertical sides. [Image provided in PDF, block on page with letter L, angle A=90°]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_85.png"]
+    },
+    {
+      "question_number": "1.78",
+      "question": "The cross section of a glass prism has the form of an isosceles triangle. One of the refracting faces is silvered. A ray of light falling normally on the other refracting face, being reflected twice, emerges through the base of the prism perpendicular to it. Find the angles of the prism. [Image provided in PDF, isosceles prism, silvered face]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.79",
+      "question": "For a prism, A = 60°, n = √7/3. Find the minimum possible angle of incidence, so that the light ray is refracted from the second surface. Also, find δ_max. [Image provided in PDF, prism with A=60°, incident ray at i_min]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": "1.80",
+      "question": "A thin biprism (see figure) of obtuse angle α = 178° is placed at a distance l = 20 cm from a slit. How many images are formed and what is the separation between them? Refractive index of the material μ = 1.6. [Image provided in PDF, biprism S₁, S₂]",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": [],
+      "images":["GO1_images/arihant_86.png"]
+    },
+    {
+      "question_number": "1.81",
+      "question": "A crown glass prism of angle 5° is to be combined with a flint prism in such a way that the mean ray passes undeviated. Find (a) the angle of the flint glass prism needed and (b) the angular dispersion produced by the combination when white light goes through it. Refractive indices for red, yellow, and violet light are 1.514, 1.517, and 1.523, respectively, for crown glass and 1.613, 1.620, and 1.632 for flint glass.",
+      "year": null,
+      "question_type": "ILLUSTRATION",
+      "options": []
+    },
+    {
+      "question_number": 1,
+      "question": "The refractive indices of flint glass for red and violet lights are 1.613 and 1.632, respectively. Find the angular dispersion produced by a thin prism of flint glass having refracting angle 5°.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": []
+    },
+    {
+      "question_number": 2,
+      "question": "Refractive index of glass for red and violet colours are 1.50 and 1.60, respectively. Find:\n(a) The refractive index for yellow colour, approximately.\n(b) Dispersive power of the medium.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": []
+    },
+    {
+      "question_number": 3,
+      "question": "An equilateral prism is made of glass of refractive index 1.5. Calculate the angles of minimum and maximum deviations. Given: δ_min = 60°, μ = 1.5, sin 48.6° = 3/4, sin 41.8° = 3/2, sin 27.9° = 1/2 sin 18.2",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": []
+    },
+    {
+      "question_number": 4,
+      "question": "A prism is made of glass of refractive index 1.5. If the angle of minimum deviation is equal to the refracting angle of the prism, calculate the angle of the prism.",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": []
+    },
+    {
+      "question_number": 5,
+      "question": "A horizontal ray of light passes through a prism whose apex angle is 4° and then strikes a vertical mirror M as shown in figure. For the ray to become horizontal after reflection, find the angle by which the mirror must be rotated. [Image provided in PDF, prism with apex angle 4°, mirror M]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": [],
+      "images":["GO1_images/arihant_87.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "Light is incident normally on face AB of a prism as shown in figure. A liquid of refractive index μ is placed on face AC of the prism. The prism is made of glass of refractive index 3/2. Find the limits of μ for which total internal reflection takes place on the face AC. [Image provided in PDF, prism with angles 60°, 30°, 90°, liquid on face AC]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": [],
+      "images":["GO1_images/arihant_88.png"]
+    },
+    {
+      "question_number": 7,
+      "question": "A ray of light suffers minimum deviation through a prism of refractive index √2. What is the angle of prism if the angle of incidence is double the angle of refraction within the prism?",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": []
+    },
+    {
+      "question_number": 8,
+      "question": "A ray of light undergoes a deviation of 30° when incident on an equilateral prism of refractive index √2. What is the angle subtended by the ray inside the prism with the base of the prism? [Image provided in PDF, equilateral prism, incident ray at 60°]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": [],
+      "images":["GO1_images/arihant_89.png"]
+    },
+    {
+      "question_number": 9,
+      "question": "The path of a ray of light passing through an equilateral glass prism ABC is shown in figure. The ray of light is incident on face BC at the critical angle for just total internal reflection. The total angle of deviation after the refraction at face AC is 108°. Calculate the refractive index of the glass. [Image provided in PDF, equilateral prism ABC, ray incident on BC]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": [],
+      "images":["GO1_images/arihant_90.png"]
+    },
+    {
+      "question_number": 10,
+      "question": "In an isosceles prism of angle 45°, it is found that when the angle of incidence is same as the prism angle, the emergent ray grazes the emergent surface. Find the refractive index of the material of the prism. For what angle of incidence, the angle of deviation will be minimum? [Image provided in PDF, isosceles prism with angle 45°, ray incident at 45°]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": [],
+      "images":["GO1_images/arihant_91.png"]
+    },
+    {
+      "question_number": 11,
+      "question": "Refracting angle of a prism A = 60° and its refractive index is n = 3/2. What is the angle of incidence i to get minimum deviation. Also, find the minimum deviation. Assume the surrounding medium to be air (n=1).",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": []
+    },
+    {
+      "question_number": 12,
+      "question": "Two identical thin isosceles prisms of refracting angle A and refractive index μ are placed with their bases touching each other and this system can collectively act as a crude converging lens. A parallel beam of light is incident on this system as shown in figure. Find the focal length of this so called converging lens. [Image provided in PDF, two prisms forming lens, height 2h]",
+      "year": null,
+      "question_type": "CONCEPT APPLICATION EXERCISE 1.6",
+      "options": [],
+      "images":["GO1_images/arihant_92.png"]
+    }
+  ],
+  "section-3": [
+    {
+      "question_number": "1.1",
+      "question": "Two plane mirrors are joined together at angle θ with each other, as shown in figure. Two point objects O₁ and O₂ are placed symmetrically such that PO₁ = PO₂ = d. [O₁PO₂ is a straight line]\n(a) If the images of O₁ and O₂ coincide find θ (call it θ₀).\n(b) Keeping the position of objects unchanged the angle between the two mirrors is increased to θ = (4/3)θ₀. Now find the distance between the images of a O₁ and O₂. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_93.png"]
+    },
+    {
+      "question_number": "1.2",
+      "question": "A car is moving with velocity u = 20 m/s. What will be change in velocity of car observed if a glass slab is introduced between car and observer. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": []
+      
+    },
+    {
+      "question_number": "1.3",
+      "question": "Object O is placed in front of a plane mirror and glass slab as shown in figure. The object is made to move with a velocity u perpendicular to the mirror surface. Find the speed of the image formed after refraction from the slab followed by reflection from the mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_94.png"]
+    },
+    {
+      "question_number": "1.4",
+      "question": "Consider the situation sketched. A fish lies 40 cm under the surface of water (μ_water = 4/3), 80 cm above a concave spherical mirror whose radius of curvature is 120 cm. An observer looking down from above in the air (μ_air = 1) sees two images of fish. Find distance (in meters) between these two images. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_95.png"]
+    },
+    {
+      "question_number": "1.5",
+      "question": "AB and CD are surfaces of two slabs as shown in figure. The medium between the slabs has refractive index 2. Refractive index of the slab above AB is √2 and below CD is √3. Find the minimum angle of incidence at Q, so that the ray is totally reflected by both the slabs. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_96.png"]
+    },
+    {
+      "question_number": "1.6",
+      "question": "Two concave mirrors each of focal length 20 cm are placed such that their principal axes are parallel to each other and at a distance of 1 cm to each other. Both the mirrors are at a distance of 100 cm to each other. Consider first reflection at M₁ and then at M₂, find the coordinates of the image thus formed. Take location of object as the origin. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_97.png"]
+    },
+    {
+      "question_number": "1.7",
+      "question": "A pencil (PQ) of length 20 cm is moving along the principal axis of a concave mirror M, with a velocity 6 m/s approaching the mirror of focal length 20 cm. The mirror itself is moving away from the pencil at a speed of 2 m/s. Find the rate of change of length of the image of the pencil at the instant end P is at a distance of 60 cm from the mirror. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_98.png"]
+    },
+    {
+      "question_number": "1.8",
+      "question": "A fish F is still under water at a depth d = 8 m. A bird is diving along line PO at a constant velocity in air. When the bird is exactly above the fish, the fish observes it at a height of 40 m from itself and velocity of the bird appears to be inclined at 45° to the horizontal. At what distance from the fish the bird actually hits the water surface (μ_water = 4/3). [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_99.png"]
+    },
+    {
+      "question_number": "1.9",
+      "question": "Two mirrors M₁ and M₂ are arranged as shown in figure. An object O is at the position (-10 cm, 2 cm) with respect to the origin P. The concave mirror M₁ has radius of curvature 30 cm. A plane mirror M₂ is kept at a distance of 40 cm in front of the concave mirror. Considering first reflection on the concave mirror M₁ and second on the plane mirror M₂. Find the coordinates of the second image w.r.t. the origin P. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_100.png"]
+    },
+    {
+      "question_number": "1.10",
+      "question": "A ray of light strikes a plane mirror at an angle of incidence 45° as shown in figure. After reflection, the ray passes through a prism of refractive index 1.5 whose apex angle is 4°. Through what angle must the mirror be rotated if the total deviation of the ray be 90°? [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_101.png"]
+    },
+    {
+      "question_number": "1.11",
+      "question": "A right angled prism (45°, 90°, 45°) of refractive index n has a plate of refractive index (n₁ < n) cemented to its diagonal face. The assembly is in air. A ray is incident on AB.\n(a) Calculate the angle of incidence at AB for which the ray strikes the diagonal face at the critical angle.\n(b) Assuming n = 1.351, calculate the angle of incidence at AB for which the refracted ray passes through the diagonal face undeviated. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_102.png"]
+    },
+    {
+      "question_number": "1.12",
+      "question": "The refractive indices of the crown glass for blue and red lights are 1.51 and 1.49, respectively, and those of the flint glass are 1.77 and 1.73, respectively. An isosceles prism of angle 6° is made of crown glass. A beam of white light is incident at a small angle on this prism. The other flint glass isosceles prism is combined with the crown glass prism such that there is no deviation of the incident light. Determine the angle of the flint glass prism. Calculate the net dispersion of the combined system. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": []
+    },
+    {
+      "question_number": "1.13",
+      "question": "The base of an isosceles glass prism just submerged in water. The base of the prism is kept in horizontal orientation. A horizontal light ray PQ is incident on the prism and takes a path shown in figure and emerge out of the prism. Find the maximum value of base angle θ of the prism for which total internal reflection can take place at the base. Given: μ_glass = 3/2 and μ_water = 4/3. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_103.png"]
+    },
+    {
+      "question_number": "1.14",
+      "question": "O is a point object kept on the principal axis of a concave mirror M of radius of curvature 20 cm. P is a prism of angle 1.8°. Light falling on the prism (at small angle of incidence) gets refracted through the prism and then falls on the mirror. Refractive index of the prism is 3/2. Find the distance between the images formed by the concave mirror due to this light. [Image provided in PDF]",
+      "year": null,
+      "question_type": "Solved Examples",
+      "options": [],
+      "images":["GO1_images/arihant_104.png"]
+    }
+  ],
+  "section-4": [
+    
+    {
+      "question_number": 2,
+      "question": "Light travelling through three transparent substances follows the path shown in figure. Arrange the indices of refraction in order from smallest to largest. Note that total internal reflection does occur on the bottom surface of medium 2. [Image provided: Ray path through media n1, n2, n3]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) n₁ < n₃ < n₂",
+        "(2) n₂ < n₁ < n₃",
+        "(3) n₃ < n₁ < n₂",
+        "(4) n₁ < n₂ < n₃"
+      ],
+      "images":["GO1_images/arihant_105.png"]
+    },
+    
+    {
+      "question_number": 4,
+      "question": "A ray of light is incident on a medium with angle of incidence i and refracted into a second medium with angle of refraction r. The graph of sin(i) vs. sin(r) is as shown in figure. Then, the velocity of light in the first medium in n times the velocity of light in the second medium. What should be the value of n? [Image provided: Graph of sin(i) vs sin(r) with slope corresponding to 60°]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) √3",
+        "(2) 1/√3",
+        "(3) √3/2",
+        "(4) 2/√3"
+      ],
+      "images":["GO1_images/arihant_106.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "A beam of light propagates through a medium 1 and falls onto another medium 2, at an angle α₁ as shown in figure. After that, it propagates in medium 2 at an angle α₂ as shown. The light's wavelength in medium 1 is λ₁. What is the wavelength of light in medium 2? [Image provided: Ray path from medium 1 to medium 2]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) (sin α₁ / sin α₂) λ₁",
+        "(2) (sin α₂ / sin α₁) λ₁",
+        "(3) (cos α₁ / cos α₂) λ₁",
+        "(4) (cos α₂ / cos α₁) λ₁"
+      ],
+      "images":["GO1_images/arihant_107.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "Light is incident on a glass block as shown in figure. If θ₁ is increased slightly, what happens to θ₂? [Image provided: Ray incident on glass block]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) θ₂ also increases slightly",
+        "(2) θ₂ is unchanged",
+        "(3) θ₂ decreases slightly",
+        "(4) θ₂ changes abruptly, since the ray experiences total internal reflection"
+      ],
+      "images":["GO1_images/arihant_108.png"]
+    },
+    {
+      "question_number": 7,
+      "question": "A fish is vertically below a flying bird moving vertically down toward water surface. The bird will appear to the fish to be [Image provided: Bird and fish]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) moving faster than its speed and also away from the real distance",
+        "(2) moving faster than its real speed and nearer than its real distance",
+        "(3) moving slower than its real speed and also nearer than its real distance",
+        "(4) moving slower than its real speed and away from the real distance"
+      ],
+      "images":["GO1_images/arihant_109.png"]
+    },
+    {
+      "question_number": 8,
+      "question": "What is the angle of incidence for an equilateral prism of refractive index √3 so that the ray is parallel to the base inside the prism?",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 30°",
+        "(2) 45°",
+        "(3) 60°",
+        "(4) Either 30° or 60°"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "A cube of side 2 m is placed in front of a concave mirror of focal length 1 m with its face A at a distance of 3 m and face B at a distance of 5 m form the mirror. The distance between the images of faces A and B and heights of images of A and B are, respectively, [Image provided: Cube in front of concave mirror]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 1 m, 0.5 m, 0.25 m",
+        "(2) 0.5 m, 1 m, 0.25 m",
+        "(3) 0.5 m, 0.25 m, 1 m",
+        "(4) 0.25 m, 1 m, 0.5 m"
+      ],
+      "images":["GO1_images/arihant_110.png"]
+    },
+    {
+      "question_number": 10,
+      "question": "A circular beam of light of diameter d = 2 cm falls on a plane surface of glass. The angle of incidence is 60° and refractive index of glass is μ = 3/2. The diameter of the refracted beam is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 4.00 cm",
+        "(2) 3.0 cm",
+        "(3) 3.26 cm",
+        "(4) 2.52 cm"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "The velocity of light in a medium is half its velocity in air. If a ray of light emerges from such a medium into air, the angle of incidence, at which it will be totally internally reflected, is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 15°",
+        "(2) 30°",
+        "(3) 45°",
+        "(4) 60°"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "A candle is placed 20 cm from the surface of a convex mirror and a plane mirror is also placed so that the virtual images in the two mirrors coincide. If the plane mirror is 12 cm away from the object, what is the focal length of the convex mirror?",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 20 cm",
+        "(2) 15 cm",
+        "(3) 10 cm",
+        "(4) 5 cm"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "Consider the situation shown in figure. Water (μ = 4/3) is filled in a beaker up to a height of 10 cm. A plane mirror is fixed at a height of 5 cm from the surface of water. Distance of image from the mirror after reflection from it of an object O at the bottom of the beaker is [Image provided: Beaker with water and mirror]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 15 cm",
+        "(2) 12.5 cm",
+        "(3) 7.5 cm",
+        "(4) 10 cm"
+      ],
+      "images":["GO1_images/arihant_111.png"]
+    },
+    {
+      "question_number": 14,
+      "question": "The image of point P when viewed from top of the slabs will be [Image provided: Point P below slabs of μ=1.5, μ=1.5]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 2.0 cm above P",
+        "(2) 1.5 cm above P",
+        "(3) 2.0 cm below P",
+        "(4) 1 cm above P"
+      ],
+      "images":["GO1_images/arihant_112.png"]
+    },
+    {
+      "question_number": 15,
+      "question": "One of the refracting surfaces of a prism of angle 30° is silvered. A ray of light incident at angle of 60° retraces its path. The refractive index of the material of prism is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) √2",
+        "(2) √3",
+        "(3) 3/2",
+        "(4) 2"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "Angle of minimum deviation is equal to the angle of prism A of an equilateral glass prism. The angle of incidence at which minimum deviation will be obtained is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 60°",
+        "(2) 30°",
+        "(3) 45°",
+        "(4) sin⁻¹(2/3)"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "A spherical mirror forms an image of magnification 3. The object distance, if focal length of mirror is 24 cm, may be",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 32 cm, 24 cm",
+        "(2) 32 cm, 16 cm",
+        "(3) 32 cm only",
+        "(4) 16 cm only"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "A point source of light is placed in front of a plane mirror, as shown in the figure. Determine the length of reflected path of light on the screen Σ. [Image provided: Source S, mirror, screen Σ]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) L",
+        "(2) 2L",
+        "(3) 3L/2",
+        "(4) L/2"
+      ],
+      "images":["GO1_images/arihant_113.png"]
+    },
+    {
+      "question_number": 19,
+      "question": "A fish looks upward at an unobstructed overcast sky. What total angle does the sky appear to subtend? (Take refractive index of water as √2.)",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 180°",
+        "(2) 90°",
+        "(3) 75°",
+        "(4) 60°"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "For the situations shown in figure, determine the angle by which the mirror should be rotated, so that the light ray will retrace its path after refraction through the prism and reflection from the mirror? [Image provided: Horizontal ray, prism μ=1.5, angle 4°, vertical plane mirror]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 1° ACW",
+        "(2) 1° CW",
+        "(3) 2° ACW",
+        "(4) 2° CW"
+      ],
+      "images":["GO1_images/arihant_114.png"]
+    },
+    {
+      "question_number": 21,
+      "question": "A real object is placed in front of a convex mirror (fixed). The object is moving toward the mirror. If v₀ is the speed of object and vᵢ is the speed of image, then",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) vᵢ < v₀ always",
+        "(2) vᵢ > v₀ always",
+        "(3) vᵢ > v₀ initially and then vᵢ > v₀",
+        "(4) vᵢ < v₀ initially and then vᵢ > v₀"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "Let r and r' denote the angles inside an equilateral prism, as usual, in degrees. Consider that during some time interval from t=0 to t=t₀, r varies with time as r = 10 + t². During this time, r' will vary as (assume that r and r' are in degree) [Image provided: Equilateral prism]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 50 - t²",
+        "(2) 50 + t²",
+        "(3) 60 - t²",
+        "(4) 60 + t²"
+      ],
+      "images":["GO1_images/arihant_115.png"]
+    },
+    {
+      "question_number": 23,
+      "question": "For a prism kept in air, it is found that for an angle of incidence 60°, the angle of refraction A, angle of deviation δ and angle of emergence e become equal. Then, the refractive index of the prism is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 1.73",
+        "(2) 1.15",
+        "(3) 1.5",
+        "(4) 1.33"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "The critical angle for light going from medium X into medium Y is θ. The speed of light in medium X is v. The speed of light in medium Y is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) v cos θ",
+        "(2) v / cos θ",
+        "(3) v sin θ",
+        "(4) v / sin θ"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "A concave mirror is placed on a horizontal table with its axis directed vertically upward. Let O be the pole of the mirror C its centre of curvature and F is the focus. A point object is placed at C. It has a real image, also located at C. If the mirror is now filled with water, the image will be",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) real and will remain at C",
+        "(2) real and located at a point between C and ∞",
+        "(3) real and located at a point between C and O",
+        "(4) real and located at a point between C and F"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "A plane glass mirror of thickness 3 cm of material of μ = 3/2 is silvered on the back surface. When a point object is placed 9 cm from the front surface of the mirror, then the position of the brightest image from the front surface is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 9 cm",
+        "(2) 11 cm",
+        "(3) 12 cm",
+        "(4) 13 cm"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "An object is placed at a distance of 25 cm from the pole of a convex mirror and a plane mirror is set at a distance 5 cm from convex mirror so that the virtual images formed by the two mirrors do not have any parallax. The focal length of the convex mirror is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 37.5 cm",
+        "(2) -7.5 cm",
+        "(3) -37.5 cm",
+        "(4) +7.5 cm"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "When an object is kept at a distance of 30 cm from a concave mirror, the image is formed at a distance of 10 cm. If the object is moved with a speed of 9 cm s⁻¹, the speed with which the image moves is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 0.1 ms⁻¹",
+        "(2) 1 ms⁻¹",
+        "(3) 3 ms⁻¹",
+        "(4) 9 ms⁻¹"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "A convex mirror and a concave mirror of radius 10 cm each are placed 15 cm apart facing each other. An object is placed midway between them. If the reflection first takes place in the concave mirror and then in convex mirror, the position of the final image is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) on the pole of the convex mirror",
+        "(2) on the pole of the concave mirror",
+        "(3) at a distance of 10 cm from the convex mirror",
+        "(4) at a distance of 5 cm from the concave mirror"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "A small piece of wire bent into an L shape, with upright and horizontal portions of equal lengths, is placed with the horizontal portion along the axis of the concave mirror whose radius of curvature is 10 cm. If the bend is 20 cm from the pole of the mirror, then the ratio of the lengths of the images of the upright and horizontal portions of the wire is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 1 : 2",
+        "(2) 3 : 1",
+        "(3) 1 : 3",
+        "(4) 2 : 1"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "The observer at O views two closely spaced spots on a vertical wall through an angled glass slab as shown in figure. As seen by observer, the spots appear [Image provided: Observer O, angled glass slab, spots on wall]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) shifted upward, such that distance between them remains same",
+        "(2) shifted downward, such that distance between them remains same",
+        "(3) spaced farther apart",
+        "(4) spaced closer together"
+      ],
+      "images":["GO1_images/arihant_116.png"]
+    },
+    {
+      "question_number": 32,
+      "question": "The image of an object placed on the principal axis of a concave mirror of focal length 12 cm is formed at a point which is 10 cm more distance from the mirror than the object. The magnification of the image is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 8/3",
+        "(2) 2.5",
+        "(3) 2",
+        "(4) -1.5"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "An object is approaching a fixed plane mirror with velocity 5 ms⁻¹ making an angle of 45° with the normal. The speed of image w.r.t. the mirror is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 5 ms⁻¹",
+        "(2) 5/√2 ms⁻¹",
+        "(3) 5√2 ms⁻¹",
+        "(4) 10 ms⁻¹"
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "A clear transparent glass sphere (μ = 1.5) of radius R is immersed in a liquid of refractive index 1.25. A parallel beam of light incident on it will converge to a point. The distance of this point from the centre will be",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) -3R",
+        "(2) +3R",
+        "(3) -R",
+        "(4) +R"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "A ray of light from a denser medium strikes a rarer medium at an angle of incidence i. The reflected and refracted rays make an angle of π/2 with each other. If the angles of reflection and refraction are r and r', then the critical angle will be",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) tan⁻¹(sin r)",
+        "(2) sin⁻¹(sin r)",
+        "(3) sin⁻¹(tan r)",
+        "(4) sin⁻¹(tan r')"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "A ray of light travelling in glass (μ = 3/2) is incident on a horizontal glass-air surface at the critical angle θ_c. If a thin layer of water (μ = 4/3) is now poured on the glass-air surface, the angle at which the ray emerges into air at the water-air surface is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 60°",
+        "(2) 45°",
+        "(3) 90°",
+        "(4) 180°"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "A ray of light enters a rectangular glass slab of refractive index √3 at an angle of incidence 60°. It travels a distance of 5 cm inside the slab and emerges out of the slab. The perpendicular distance between the incident and the emergent rays is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 5/√3 cm",
+        "(2) 5/2 cm",
+        "(3) 5√3/2 cm",
+        "(4) 5 cm"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "A ray of monochromatic light is incident on the refracting face of a prism (angle 75°). It passes through the prism and is incident on the other face at the critical angle. If the refractive index of the prism is √2, then the angle of incidence on the first face of the prism is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 15°",
+        "(2) 30°",
+        "(3) 45°",
+        "(4) 60°"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "ACB is right-angled prism with other angles as 60° and 30°. Refractive index of the prism is 1.5. AB has thin layer of liquid on it as shown. Light falls normally on the face AC. For total internal reflections, maximum refractive index of the liquid is [Image provided: Right-angled prism ACB]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 1.4",
+        "(2) 1.3",
+        "(3) 1.2",
+        "(4) 1.6"
+      ],
+      "images":["GO1_images/arihant_117.png"]
+    },
+    {
+      "question_number": 40,
+      "question": "A glass prism has refractive index √2 and refracting angle 30°. One of the refracting surface of the prism is silvered. A beam of monochromatic light will retrace it path if its angle of incidence on the unsilvered refracting surface of the prism is [Image provided: Prism with one face silvered]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 0",
+        "(2) π/6",
+        "(3) π/4",
+        "(4) π/3"
+      ]
+    },
+    {
+      "question_number": 41,
+      "question": "A fish rising up vertically toward the surface of water with speed 3 ms⁻¹ observes a bird diving down vertically towards it with speed 9 ms⁻¹. The actual velocity of bird is [Image provided: Fish and bird]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 4.5 m s⁻¹",
+        "(2) 5.4 m s⁻¹",
+        "(3) 3.0 m s⁻¹",
+        "(4) 3.4 m s⁻¹"
+      ],
+      "images":["GO1_images/arihant_118.png"]
+    },
+    {
+      "question_number": 42,
+      "question": "The refractive index of material of a prism of angles 45°, 45°, and 90° is 1.5. The path of the ray of light incident normally on the hypotenuse side is shown in [Image of prism and options provided]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)"
+      ]
+    },
+    {
+      "question_number": 43,
+      "question": "An object is placed in front of a convex mirror at a distance of 50 cm. A plane mirror is introduced covering the lower half of the convex mirror. If the distance between the object and the plane mirror is 30 cm, it is found that there is no parallax between the images formed by the two mirrors. What is the radius of curvature of the convex mirror?",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 25 cm",
+        "(2) 7 cm",
+        "(3) 18 cm",
+        "(4) 27 cm"
+      ]
+    },
+    {
+      "question_number": 44,
+      "question": "The image produced by a concave mirror is one-quarter the size of object. If the object is moved 5 cm closer to the mirror, the image will only be half the size of the object. The focal length of mirror is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) f = 5.0 cm",
+        "(2) f = 2.5 cm",
+        "(3) f = 7.5 cm",
+        "(4) f = 10 cm"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "A linear object AB is placed along the axis of a concave mirror. The object is moving towards the mirror with speed U. The speed of the image of the point A is 4U and the speed of the image of B is also 4U but in opposite direction. If the centre of the line AB is at a distance L from the mirror then find out the length of the object. [Image provided: Object AB on axis of concave mirror]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 3L/2",
+        "(2) 5L/3",
+        "(3) L",
+        "(4) None of these"
+      ],
+      "images":["GO1_images/arihant_119.png"]
+    },
+    {
+      "question_number": 46,
+      "question": "A mango tree is at the bank of a river and one of the branch of tree extends over the river. A tortoise lives in the river. A mango falls just on the tortoise. The acceleration of the mango falling from tree as it appears to the tortoise is (refractive index of water is 4/3 and the tortoise is stationary)",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) g",
+        "(2) 3g/4",
+        "(3) 4g/3",
+        "(4) none of these"
+      ]
+    },
+    {
+      "question_number": 47,
+      "question": "In figure, ABC is the cross section of a right-angled prism and ACDE is the cross section of a glass slab. The value of θ so that light incident normally on the face AB does not cross the face AC is (given sin⁻¹(3/5) = 37°). [Image provided: Prism ABC and slab ACDE]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) θ ≤ 37°",
+        "(2) θ < 37°",
+        "(3) θ ≤ 53°",
+        "(4) θ < 53°"
+      ],
+      "images":["GO1_images/arihant_120.png"]
+    },
+    {
+      "question_number": 48,
+      "question": "A point object 'O' is at the centre of curvature of a concave mirror. The mirror starts to move at a speed u, in a direction perpendicular to the principal axis. Then, the initial velocity of the image is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 2u, in the direction opposite to that of mirror's velocity",
+        "(2) 2u, in the direction same as that of mirror's velocity",
+        "(3) zero",
+        "(4) u, in the direction same as that of mirror's velocity"
+      ]
+    },
+    {
+      "question_number": 49,
+      "question": "Refractive index of a prism is √7/3 and the angle of prism is 60°. The minimum angle of incidence of a ray that will be transmitted through the prism is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 30°",
+        "(2) 45°",
+        "(3) 15°",
+        "(4) 50°"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "For a prism kept in air, it is found that for an angle of incidence 60°, the angle of refraction A, angle of deviation δ, and angle of emergence e become equal. The minimum angle of incidence of a ray that will be transmitted through the prism is",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 1.73",
+        "(2) 1.15",
+        "(3) 1.5",
+        "(4) 1.33"
+      ]
+    },
+    {
+      "question_number": 51,
+      "question": "In a thick glass slab of thickness l, and refractive index n₁, a cuboidal cavity of thickness m is carved as shown in figure and is filled with a liquid of RI n₂ (n₁ > n₂). The ratio l/m, so that shift produced by this slab is zero when an observer A observes an object B with paraxial rays is [Image provided: Slab with cavity]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) (n₁ - n₂) / (n₂ - 1)",
+        "(2) (n₁ - n₂) / n₂(n₁ - 1)",
+        "(3) (n₁ - 1) / (n₁ - n₂)",
+        "(4) n₁(n₂ - 1) / (n₁ - n₂)"
+      ],
+      "images":["GO1_images/arihant_121.png"]
+    },
+    {
+      "question_number": 52,
+      "question": "A particle revolves in clockwise direction (as seen from point A) in a circle C of radius 1 cm and completes one revolution in 2 sec. The axis of the circle and the principal axis of the mirror M coincide, call it AB. The radius of curvature of the mirror is 20 cm. Then, the direction of revolution (as seen from A) of the image of the particle and its speed is [Image provided: Particle revolving, mirror M]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) clockwise, 1.57 cm s⁻¹",
+        "(2) clockwise, 3.14 cm s⁻¹",
+        "(3) anticlockwise, 1.57 cm s⁻¹",
+        "(4) anticlockwise, 3.14 cm s⁻¹"
+      ],
+      "images":["GO1_images/arihant_122.png"]
+    },
+    {
+      "question_number": 53,
+      "question": "A point object is placed in front of a thick plane mirror as shown in figure. Find the location of final image w.r.t. object. [Image provided: Object, thick mirror μ=3/2, thickness 10cm, object distance 5cm]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 15/2 cm",
+        "(2) 15 cm",
+        "(3) 40/3 cm",
+        "(4) 80/3 cm"
+      ],
+      "images":["GO1_images/arihant_123.png"]
+    },
+    {
+      "question_number": 54,
+      "question": "A right-angled prism of apex angle 4° and refractive index 1.5 is located in front of a vertical plane mirror as shown in figure. A horizontal ray of light is falling on the prism. Find the total deviation produced in the light ray as it emerges 2nd time from the prism. [Image provided: Prism and mirror]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 8° CW",
+        "(2) 6° CW",
+        "(3) 180° CW",
+        "(4) 174° CW"
+      ],
+      "images":["GO1_images/arihant_124.png"]
+    },
+    {
+      "question_number": 55,
+      "question": "Find the net deviation produced in the incident ray for the optical instrument shown in figure. (Take refractive index of the prism material as 2.) [Image provided: Prism with 30° angle, incident ray at 16°]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 66° CW",
+        "(2) 66° ACW",
+        "(3) 54° ACW",
+        "(4) 54° CW"
+      ],
+      "images":["GO1_images/arihant_125.png"]
+    },
+    {
+      "question_number": 56,
+      "question": "The refracting angle of a prism is A and refractive index of the material of prism is cot(A/2). The angle of minimum deviation will be",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 180° - 3A",
+        "(2) 180° + 3A",
+        "(3) 90° - 3A",
+        "(4) 180° - 2A"
+      ]
+    },
+    {
+      "question_number": 57,
+      "question": "An object is placed 21 cm in front of a concave mirror of radius of curvature 10 cm. A glass slab of thickness 3 cm and refractive index 1.5 is then placed close to the mirror in the space between the object and the mirror. The distance of the near surface of the slab from the mirror is 1 cm. The final image from the mirror will be formed at",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 4.67 cm",
+        "(2) 6.67 cm",
+        "(3) 5.67 cm",
+        "(4) 7.67 cm"
+      ]
+    },
+    {
+      "question_number": 58,
+      "question": "A concave mirror of radius of curvature 40 cm forms an image of an object placed on the principal axis at a distance 45 cm in front of it. Now if the system (including object) is completely immersed in water (μ = 1.33), then",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) the image will shift towards the mirror",
+        "(2) the magnification will reduce",
+        "(3) the image will shift away from the mirror and magnification will increase",
+        "(4) the position of the image and magnification will not change."
+      ]
+    },
+    {
+      "question_number": 59,
+      "question": "In a vessel, as shown in figure, point P is just visible when no liquid is filled in vessel through a telescope in the air. When liquid is filled in the vessel completely, point Q is visible without moving the vessel or telescope. Find the refractive index of the liquid. [Image provided: Vessel with points P, Q, E]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) √14/3",
+        "(2) √85/5",
+        "(3) √2",
+        "(4) √5"
+      ],
+      "images":["GO1_images/arihant_126.png"]
+    },
+    {
+      "question_number": 60,
+      "question": "In the previous problem, what will be refractive index of the liquid so that point E is visible (PE = R/3) through the telescope in air when the vessel is filled with liquid completely, without moving the telescope and vessel",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 1.5",
+        "(2) √3",
+        "(3) √2",
+        "(4) none of these"
+      ]
+    },
+    {
+      "question_number": 61,
+      "question": "A concave mirror of radius of curvature h is placed at the bottom of a tank containing a liquid of refractive index μ up to a depth d. An object P is placed at height h above the bottom of the mirror. Outside the liquid, an observer O views the object and its image in the mirror. The apparent distance between these two will be [Image provided: Mirror in tank with liquid]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) h(1 - 1/μ)",
+        "(2) 2h/μ",
+        "(3) zero",
+        "(4) 2hμ"
+      ],
+      "images":["GO1_images/arihant_127.png"]
+    },
+    {
+      "question_number": 62,
+      "question": "A cylindrical vessel of diameter 12 cm contains 800π cm³ of water. A cylindrical glass piece of diameter 8.0 cm and height 8.0 cm is placed in the vessel. If the bottom of the vessel under the glass piece is seen by the paraxial rays, locate its image. The index of refraction of glass is 1.50 and that of water is 1.33. [Image provided: Vessel with water and glass piece]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 9.2 cm above the bottom",
+        "(2) 12.5 cm above the bottom",
+        "(3) 7.1 cm above the bottom",
+        "(4) 7.1 cm below the bottom"
+      ],
+      "images":["GO1_images/arihant_128.png"]
+    },
+    {
+      "question_number": 63,
+      "question": "When the sun is either rising or setting and appears to be just in the horizon, it is in fact below the horizon. The explanation for this seeming paradox is that light from the sun bends slightly when entering the earth's atmosphere as shown in figure. Assume that the atmosphere has uniform density and hence uniform index of refraction n and extends to a height h above the earth's surface, at which point is abruptly stop. The angle δ above the Sun's true position is given by [Image provided: Sun, atmosphere, Earth]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) sin⁻¹((nR)/(R+h))",
+        "(2) sin⁻¹((R)/(R+h))",
+        "(3) sin⁻¹((nR)/(R+h)) + sin⁻¹((R)/(R+h))",
+        "(4) sin⁻¹((nR)/(R+h)) - sin⁻¹((R)/(R+h))"
+      ],
+      "images":["GO1_images/arihant_129.png"]
+    },
+    {
+      "question_number": 64,
+      "question": "A gun of mass m₁ fires a bullet of mass m₂ with a horizontal speed v₀. The gun is fitted with a concave mirror of focal length f facing toward a receding bullet. Find the speed of separation of the bullet and the image just after the gun was fired.",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) (1 + m₂/m₁)v₀",
+        "(2) 2(1 - m₂/m₁)v₀",
+        "(3) 2(1 + 2m₂/m₁)v₀",
+        "(4) 2(1 + m₂/m₁)v₀"
+      ]
+    },
+    {
+      "question_number": 65,
+      "question": "The position of final image of an object O as shown in figure is [Image provided: Object O, slab RI=3/2 thickness 3cm, concave mirror 10cm away]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 11 cm behind mirror",
+        "(2) 12.33 cm behind mirror",
+        "(3) 18 cm behind mirror",
+        "(4) 15 cm behind mirror"
+      ],
+      "images":["GO1_images/arihant_130.png"]
+    },
+    {
+      "question_number": 66,
+      "question": "A bird is flying with a velocity v between two long vertical plane mirrors making an angle θ with mirror M₁ as shown. Then what will be the relative velocity of approach between the images formed by the mirrors due to the 1st reflection in each of them [Image provided: Bird flying between two mirrors]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) v sin θ",
+        "(2) 2v sin θ",
+        "(3) 2(v sin θ + L)",
+        "(4) zero"
+      ],
+      "images":["GO1_images/arihant_131.png"]
+    },
+    {
+      "question_number": 67,
+      "question": "The x-z plane separates two media A and B of refractive indices μ₁ = 1.5 and μ₂ = 2. A ray of light travels from A to B. Its directions in the two media are given by unit vectors u₁ = ai + bj and u₂ = ci + dj. Then",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) a/c = 4/3",
+        "(2) a/c = 3/4",
+        "(3) b/d = 4/3",
+        "(4) b/d = 3/4"
+      ]
+    },
+    {
+      "question_number": 68,
+      "question": "A beam of light consisting of red, green and blue and is incident on a right angled prism. The refractive index of the material of the prism for the above red, green and blue wavelengths are 1.39, 1.44 and 1.47 respectively. The prism will [Image provided: Right angled prism, incident beam]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) separate part of the red color from the green and blue colors",
+        "(2) separate part of the blue color from the red and green colors",
+        "(3) separate all the three colors from the other two colors",
+        "(4) not separate even partially, any colors from the other two colors"
+      ],
+      "images":["GO1_images/arihant_132.png"]
+    },
+    {
+      "question_number": 69,
+      "question": "A ray of light is incident normally on the first refracting face of the prism of refracting angle A. The ray of light comes out at grazing emergence. If one half of the prism (shaded position) is knocked off, the same ray will [Image provided: Prism with refracting angle A]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) Emerge at an angle of emergence sin⁻¹(1/2 sec A/2)",
+        "(2) Not emerge out of the prism",
+        "(3) Emerge at an angle of emergence sin⁻¹(1/2 sec A/4)",
+        "(4) None of these"
+      ],
+      "images":["GO1_images/arihant_133.png"]
+    },
+    {
+      "question_number": 70,
+      "question": "Shown plane mirror is lying in y-z plane. A particle P has velocity v = 5i + 6j at t = 0 and acceleration a = 2j. Velocity of its image at t = 2 s relative to it is [Image provided: Particle P and plane mirror]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 10i",
+        "(2) -10i",
+        "(3) 20j",
+        "(4) -20j"
+      ],
+      "images":["GO1_images/arihant_134.png"]
+    },
+    {
+      "question_number": 71,
+      "question": "An infinitely long rod lies along the axis of a concave mirror of focal length f. The near end of the rod is at distance u > f from the mirror. Its image will have a length",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) uf / (u-f)",
+        "(2) uf / (u+f)",
+        "(3) f² / (u-f)",
+        "(4) f² / (u+f)"
+      ]
+    },
+    {
+      "question_number": 72,
+      "question": "What is the length of the image of the rod in mirror, according to the observer in air? (refractive index of the liquid is m) [Image provided: Rod in liquid, mirror, observer in air]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) μL + L",
+        "(2) L + L/μ",
+        "(3) Lμ + L/μ",
+        "(4) None of these"
+      ],
+      "images":["GO1_images/arihant_135.png"]
+    },
+    {
+      "question_number": 73,
+      "question": "A cubical block of glass of refractive index n₁ is in contact with the surface of water of refractive index n₂. A beam of light is incident on vertical face of the block (see figure). After refraction, a total internal reflection at the base and refraction at the opposite vertical face, the ray emerges out at an angle θ. The value of θ is given by [Image provided: Cubical block in water, incident ray]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) sin θ < √(n₁² - n₂²)",
+        "(2) tan θ < √(n₁² - n₂²)",
+        "(3) sin θ < 1/√(n₁² - n₂²)",
+        "(4) tan θ < 1/√(n₁² - n₂²)"
+      ],
+      "images":["GO1_images/arihant_136.png"]
+    },
+    {
+      "question_number": 74,
+      "question": "The diagram shows five isosceles right angled prisms. A light ray incident at 90° at the first face emerges at same angle with the normal from the last face. Which of the following relations will hold regarding the refractive indices? [Image provided: Five prisms]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) μ₁² + μ₂² + μ₃² = μ₄² + μ₅²",
+        "(2) μ₁² + μ₂² + μ₃² = 1 + μ₄² + μ₅²",
+        "(3) μ₁² + μ₂² + μ₃² = 2 + μ₄² + μ₅²",
+        "(4) none of these"
+      ],
+      "images":["GO1_images/arihant_137.png"]
+    },
+    {
+      "question_number": 75,
+      "question": "A converging mirror forms real image of object AB on screen. Now a hole is made on mirror just in front of point B. Select the correct option. [Image provided: Object AB, converging mirror, screen]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) Image of point B will be slightly below the previous position in screen.",
+        "(2) Image of point B will be at the same place where it was formed earlier.",
+        "(3) Image of point B will be absent on screen.",
+        "(4) Two images of point B will be formed."
+      ],
+      "images":["GO1_images/arihant_138.png"]
+    },
+    {
+      "question_number": 76,
+      "question": "A glass prism of refractive index 1.5 is immersed in water (refractive index 4/3). A light beam normally on the face AB is totally reflected to reach on the face BC if [Image provided: Prism in water]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) sin θ ≥ 8/9",
+        "(2) 2/3 < sin θ < 8/9",
+        "(3) sin θ ≤ 2/3",
+        "(4) sin θ ≤ 8/9"
+      ],
+      "images":["GO1_images/arihant_139.png"]
+    },
+    {
+      "question_number": 77,
+      "question": "A diverging beam of light from a point source S having divergence angle α, falls symmetrically on a glass slab as shown. The angles of incidence of the two extreme rays are equal. If the thickness of the glass slab is t and the refractive index n, then the divergence angle of the emergent beam is [Image provided: Diverging beam, glass slab]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) zero",
+        "(2) α",
+        "(3) sin⁻¹(1/n)",
+        "(4) 2sin⁻¹(1/n)"
+      ],
+      "images":["GO1_images/arihant_140.png"]
+    },
+    {
+      "question_number": 78,
+      "question": "A rectangular glass slab ABCD of refractive index n₁ is immersed in water of refractive index n₂(n₁ > n₂). A ray of light is incident at the surface AB of the slab as shown. The maximum value of the angle of incidence α_max such that the ray comes out from the other surface CD is given by [Image provided: Glass slab in water, incident ray]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) sin⁻¹[n₁/n₂ cos(sin⁻¹(n₂/n₁))]",
+        "(2) sin⁻¹[n₁ cos(sin⁻¹(1/n₂))]",
+        "(3) sin⁻¹(n₁/n₂)",
+        "(4) sin⁻¹(n₂/n₁)"
+      ],
+      "images":["GO1_images/arihant_141.png"]
+    },
+    {
+      "question_number": 79,
+      "question": "A container is filled with water (μ = 1.33) up to a height of 33.25 cm. A convex mirror is placed 15 cm above the water level and the image of an object placed at the bottom is formed 25 cm below the water level. Focal length of the mirror is [Image provided: Container with water, convex mirror, object at bottom]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) 15 cm",
+        "(2) 20 cm",
+        "(3) -18.31 cm",
+        "(4) 10 cm"
+      ],
+      "images":["GO1_images/arihant_142.png"]
+    },
+    {
+      "question_number": 80,
+      "question": "A light beam is travelling from Region I to Region IV (ref figure). The refractive indices in Regions I, II, III, and IV are n₀, n₀/2, n₀/6, and n₀/8, respectively. The angle of incidence θ for which the beam just misses entering Region IV is [Image provided: Light beam travelling through regions with different refractive indices]",
+      "year": null,
+      "question_type": "Single Correct Answer Type",
+      "options": [
+        "(1) sin⁻¹(3/4)",
+        "(2) sin⁻¹(1/8)",
+        "(3) sin⁻¹(1/4)",
+        "(4) sin⁻¹(1/3)"
+      ],
+      "images":["GO1_images/arihant_143.png"]
+    }
+  ],
+  "section-5": [
+    {
+      "question_number": 1,
+      "question": "Figure shows an object located at point P, 0.25 meter from concave spherical mirror with principal focus F. The focal length of the mirror is 0.10 m. How does the image change if the object is moved from point P toward point F? [Image provided: Object P, mirror, focus F]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Its distance from the mirror decreases",
+        "(2) The size of image decreases",
+        "(3) Its distance from the mirror increases",
+        "(4) The size of image increases"
+      ],
+      "images":["GO1_images/arihant_144.png"]
+    },
+    {
+      "question_number": 2,
+      "question": "In figure, light is incident at an angle θ which is slightly greater than the critical angle. Now, keeping the incident angle fixed a parallel slab of refractive index n₃ is placed on surface AB. Which of the following statements are correct? [Image provided: Light incident on interface AB, then CD]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Total internal reflection occurs at AB for n₃ < n₁",
+        "(2) Total internal reflection occurs at AB for n₃ > n₁",
+        "(3) The ray will return back to the same medium for all values of n₃",
+        "(4) Total internal reflection occurs at CD for n₃ < n₁"
+      ],
+      "images":["GO1_images/arihant_145.png","GO1_images/arihant_146.png"]
+    },
+    {
+      "question_number": 3,
+      "question": "In figure, a light ray is incident on the lower medium boundary at an angle if 45° with the normal. Which of the following statements is/are true? [Image provided: Ray incident from medium μ₂ to μ₁=√2 at 45°]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) If μ₂ > √2, then angle of deviation is 45°.",
+        "(2) If μ₂ < √2, then angle of deviation is 90°.",
+        "(3) If μ₂ < √2, then angle of deviation is 135°.",
+        "(4) If μ₂ > √2, then angle of deviation is 0°."
+      ],
+      "images":["GO1_images/arihant_147.png"]
+    },
+    {
+      "question_number": 4,
+      "question": "Consider the rays shown in figure as paraxial. The image of the virtual point object O formed by the lens LL is [Image provided: Virtual object O, lens LL, first principal focus F]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) virtual",
+        "(2) real",
+        "(3) located below the principal axis",
+        "(4) located to the left of the lens"
+      ],
+      "images":["GO1_images/arihant_148.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "A glass prism is immersed in a hypothetical liquid. The curves showing the refractive index n as a function of wavelength λ for glass and liquid are as shown in Figs. (a) and (b). When a ray of white light is incident on the prism parallel to the base [Image provided: n-λ curves for glass and liquid, prism]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) yellow ray travels without deviation",
+        "(2) blue ray is deviated toward the vertex",
+        "(3) red ray is deviated toward the base",
+        "(4) there is no dispersion"
+      ],
+      "images":["GO1_images/arihant_149.png","GO1_images/arihant_150.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "An object AB is placed parallel and close to the optical axis between focus F and centre of curvature C of a converging mirror of focal length f as shown in figure. Then, [Image provided: Object AB between F and C of concave mirror]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Image of A will be closer than that of B from the mirror.",
+        "(2) Image of AB will be parallel to the optical axis.",
+        "(3) Image of AB will be a straight line inclined to the optical axis.",
+        "(4) Image of AB will not be a straight line."
+      ],
+      "images":["GO1_images/arihant_151.png"]
+    },
+    {
+      "question_number": 7,
+      "question": "Which of the following statements is/are correct about the refraction of light from a plane surface when light ray is incident in denser medium. [C is critical angle]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) The maximum angle of deviation during refraction is (π/2) - C, it will be at angle of incidence C",
+        "(2) The maximum angle of deviation for all angles of incidence is π - 2C, when angle of incidence is slightly greater than C",
+        "(3) If angle of incidence is less than C, then deviation increases if angle of incidence is also increased",
+        "(4) If angle of incidence is greater than C, then angle of deviation decreases if angle of incidence is increased"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Mark the correct statement(s) w.r.t. a concave spherical mirror.",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) For real extended object, it can form a diminished virtual image",
+        "(2) For real extended object, it can form a magnified virtual image",
+        "(3) For virtual extended object, it can form a diminished real image",
+        "(4) For virtual extended object, it can form a magnified real image"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "Mark the correct statement(s) from the following:",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Image formed by a convex mirror can be real",
+        "(2) Image formed by a convex mirror can be virtual",
+        "(3) Image formed by a convex mirror can be magnified",
+        "(4) Image formed by a convex mirror can be inverted"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "A real object is moving toward a fixed spherical mirror. The image",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) must move away from the mirror",
+        "(2) may move away from the mirror",
+        "(3) may move toward the mirror if the mirror is concave",
+        "(4) must move toward the mirror if the mirror is convex"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "A real point source is 5 cm away from a plane mirror whose reflecting ability is 50%, while the eye of an observer (pupil diameter 5 mm) is 10 cm away from the mirror. Assume that both source and eye are on the same line perpendicular to the surface and refracted rays have no effect on intensity. Then,",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) the area of the mirror used in observing the image of source is (25π/36) mm²",
+        "(2) the area of the mirror used in observing the image of source is 25π mm²",
+        "(3) the ratio of the intensities of light as received by the observer in the presence to that in the absence of mirror is (10/9)",
+        "(4) the ratio of the intensities of light as received in the presence to that in the absence of mirror is 19/18"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "A plane mirror M is arranged parallel to a wall W at a distance l from it. The light produced by a point source S kept on the wall is reflected by the mirror and produces a patch of light on the wall. The mirror moves with velocity v towards the wall. [Image provided: Mirror M, wall W, source S]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) The patch of light will move with speed v on the wall",
+        "(2) The patch of light will not move on the wall",
+        "(3) As the mirror comes closer, the patch of light will become larger and shift away from the wall with speed larger than v",
+        "(4) The size of the patch of light on the wall remains the same"
+      ],
+      "images":["GO1_images/arihant_152.png"]
+    },
+    {
+      "question_number": 13,
+      "question": "Which of the following statements are correct?",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) A ray of light is incident on a plane mirror and gets reflected. If the mirror is rotated through an angle θ, then the reflected ray gets deviated through angle 2θ.",
+        "(2) A ray of light gets reflected successively from two mirrors which are mutually inclined. Angular deviation suffered by the ray does not depend upon angle of incidence on first mirror.",
+        "(3) A plane mirror cannot form real image of a real object.",
+        "(4) If an object approaches toward a plane mirror with velocity v, then the image approaches the object with velocity 2v."
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "A fish F, in the pond is at a depth of 0.8 m from the water surface and is moving vertically upward with velocity 2 ms⁻¹. At the same instant, a bird B is at a height of 6 m from the water surface and is moving downward with velocity 3 ms⁻¹. At this instant, both are on the same vertical line as shown in figure. Which of the following statements are correct? [Image provided: Fish F, bird B, water surface]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Height of B, observed by F (from itself), is equal to 5.30 m",
+        "(2) Depth of F, observed by B (from itself), is equal to 6.60 m",
+        "(3) Height of B, observed by F (from itself), is equal to 8.80 m",
+        "(4) None of the above"
+      ],
+      "images":["GO1_images/arihant_153.png"]
+    },
+    {
+      "question_number": 15,
+      "question": "In the previous question,",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) velocity of B, observed by F (relative to itself), is equal to 4.25 m s⁻¹",
+        "(2) velocity of B, observed by F (relative to itself), is equal to 6 m s⁻¹",
+        "(3) velocity of B, observed by F (relative to itself), is equal to 5.50 m s⁻¹",
+        "(4) velocity of F, observed by B (relative to itself), is equal to 4.50 m s⁻¹"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "Converging rays strike a spherical convex mirror such that they can form the image (in the absence of mirror) between pole and focus. Now what can you say about final image formed by mirror? [Image provided: Converging rays, convex mirror]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) real",
+        "(2) virtual",
+        "(3) erect",
+        "(4) inverted"
+      ],
+      "images":["GO1_images/arihant_154.png"]
+    },
+    {
+      "question_number": 17,
+      "question": "In the above question, if the rays were to converge between F and C of mirror, then find the nature of final image formed",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) real",
+        "(2) virtual",
+        "(3) erect",
+        "(4) inverted"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "In the above question, if the rays were to converge beyond C, then find the nature of final image formed.",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) real",
+        "(2) virtual",
+        "(3) erect",
+        "(4) inverted"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "A concave mirror forms an image of the sun at a distance of 12 cm from it.",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) The radius of curvature of this mirror is 6 cm.",
+        "(2) To use it as a shaving mirror, it can be held at a distance of 8-10 cm from the face.",
+        "(3) If an object is kept at a distance of 24 cm from it, the image formed will be of the same size as the object.",
+        "(4) All the above alternatives are correct."
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "A real object is placed in front of a convex mirror (focal length f). It moves towards the mirror, the image also moves. If Vᵢ = speed of image and V₀ = speed of the object and u is the distance of object from mirror along principal axis, then",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Vᵢ < V₀ if |u| < |f|",
+        "(2) Vᵢ > V₀ if |u| > |f|",
+        "(3) Vᵢ < V₀ if |u| > |f|",
+        "(4) Vᵢ = V₀ if |u| = |f|"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "An object is moving towards a convex mirror with a constant velocity. P is the pole of mirror. [Image provided: Object moving towards convex mirror]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Magnification of the image increases with time.",
+        "(2) Magnification of the image decreases with time.",
+        "(3) Velocity of the image increases with time.",
+        "(4) Velocity of the image decreases with time."
+      ],
+      "images":["GO1_images/arihant_155.png"]
+    },
+    {
+      "question_number": 22,
+      "question": "A person is looking at the flat surface of a transparent hemisphere of refractive index μ = √2. Half of the flat surface is coloured black and half of curved surface is coloured in six equally spaced strips as shown in figure. Then [Image provided: Hemisphere with colored strips]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) the person can see green, orange and red",
+        "(2) the person can see only yellow, indigo and blue",
+        "(3) the ray coming from red and orange strips will be totally reflected",
+        "(4) the ray coming from yellow, indigo and blue strips will be totally reflected"
+      ],
+      "images":["GO1_images/arihant_156.png"]
+    },
+    {
+      "question_number": 23,
+      "question": "Refractive index of an equilateral prism is √2. Then",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) minimum deviation from this prism can be 30°",
+        "(2) minimum deviation from this prism can be 45°",
+        "(3) at angle of incidence 45°, deviation is minimum",
+        "(4) at angle of incidence 60°, deviation is minimum"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "In the situation as shown in figure [cos 53° = 3/5] [Image provided: Object moving at 15 m/s at 53°, mirror moving at 2 m/s, f=20cm, object distance 30cm]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) velocity of image w.r.t. mirror is -22i - 24j",
+        "(2) velocity of image w.r.t. mirror is -44i - 24j",
+        "(3) velocity of image w.r.t. ground is -46i - 24j",
+        "(4) velocity of image w.r.t. ground is -24i - 24j"
+      ],
+      "images":["GO1_images/arihant_157.png"]
+    },
+    {
+      "question_number": 25,
+      "question": "For a concave mirror of focal length f, image is 2 times larger. Then the object distance from the mirror can be",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) f/2",
+        "(2) 3f/2",
+        "(3) f/4",
+        "(4) 3f/4"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Points A (0 cm, 1 cm) and B (12 cm, 5 cm) are object-image pair (one of the point acts as object and the other point as image), x-axis is the principal axis of the mirror. This object image pair may be [Image provided: Points A and B]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) due to a convex mirror of focal length 2.5 cm",
+        "(2) due to a concave mirror having its pole at (2, 0)",
+        "(3) real virtual pair",
+        "(4) due to a concave mirror of focal length 5 cm"
+      ],
+      "images":["GO1_images/arihant_158.png"]
+    },
+    {
+      "question_number": 27,
+      "question": "A point object is placed at a distance of 5R/3 from the pole of concave mirror of small aperture and radius of curvature R. Point object oscillates with amplitude 1 mm perpendicular to the optical axis. Then [Image provided: Object oscillating near concave mirror]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) position of image of object from pole is (5R/7)",
+        "(2) image of object is real",
+        "(3) amplitude of image is (3/7) mm",
+        "(4) phase difference between motion of object and its image when object crosses optical axis is π"
+      ],
+      "images":["GO1_images/arihant_159.png"]
+    },
+    {
+      "question_number": 28,
+      "question": "A particle is projected with speed 25 m/s at angle 53° from horizontal in front of an inclined plane mirror as shown in figure. Choose the correct options: (g = 10 m/s²) [Image provided: Particle projected in front of inclined mirror]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Speed of image w.r.t. object will be maximum after time 4 sec of projection",
+        "(2) Minimum speed of image w.r.t. object is zero",
+        "(3) Speed of image w.r.t. object will be minimum after time 7/8 sec of projection",
+        "(4) Maximum speed of image w.r.t. object is 50 m/s"
+      ],
+      "images":["GO1_images/arihant_160.png"]
+    },
+    {
+      "question_number": 29,
+      "question": "The figure below shows an object O placed at a distance R/4 to the left of a concave spherical mirror that has radius of curvature R. Point C is the centre of curvature of the mirror. Size of the object is much smaller than the radius of curvature of the mirror. The image formed by the mirror is [Image provided: Object O near concave mirror]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) larger in size and inverted",
+        "(2) larger in size and upright",
+        "(3) at a distance R/2 to the right of the mirror",
+        "(4) at a distance R/2 to the left of the mirror"
+      ],
+      "images":["GO1_images/arihant_161.png"]
+    },
+    {
+      "question_number": 30,
+      "question": "A ray of light moving along vector (3√2i - 3j - 3k) under goes refraction at an interface of two media, which is y-z plane. The refractive index for x ≤ 0 is one while for x ≥ 0 it is √2. Then,",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) refracted ray bend towards y-axis",
+        "(2) refracted ray bend towards x-axis",
+        "(3) the unit vector along the refracted ray is (√6i - j - k) / √8",
+        "(4) the unit vector along the refracted ray is (√6i - j - k) / √8"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "A concave mirror of radius 40 cm is filled with water (refractive index, μ = 4/3) up to height 5 cm. A point object P is floating on the surface of water as shown in the figure. [Image provided: Object P on water surface in concave mirror]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) The image of point object P observed by observer is virtual",
+        "(2) The image of point object P observed by observer is real",
+        "(3) The image of point object P is 8.75 cm below the surface of water",
+        "(4) The image of point object is 10 cm above the surface of water"
+      ],
+      "images":["GO1_images/arihant_162.png"]
+    },
+    {
+      "question_number": 32,
+      "question": "A pencil AB of height 2 cm is placed at distance 63 cm from a concave mirror of radius of curvature 40 cm. A slab of refractive index 4/3 and thickness 12 cm is placed between the pencil and the mirror. [Image provided: Pencil AB, slab, concave mirror]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) Final image is real, inverted and 1 cm high",
+        "(2) Final image is virtual, inverted and 1 cm high",
+        "(3) Final image is 33 cm from the pole of mirror",
+        "(4) Final image is 27 cm from the pole of mirror"
+      ],
+      "images":["GO1_images/arihant_163.png"]
+    },
+    {
+      "question_number": 33,
+      "question": "A ray of light is incident normally on face AB of a prism of refractive index 5/3 immersed in water of refractive index 4/3 as shown in the figure. [Image provided: Prism in water, ray incident normally]",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) The exit angle α₁ of the ray is sin⁻¹(5/8)",
+        "(2) The exit angle α₂ of the ray is sin⁻¹(5/(4√3))",
+        "(3) Total internal reflection does not take place at point D, if water is replaced by a medium of refractive index 5/(2√3)",
+        "(4) Total internal reflection does not take place at point D, if water is replaced by a medium whose refractive index is 6/5"
+      ],
+      "images":["GO1_images/arihant_164.png"]
+    },
+    {
+      "question_number": 34,
+      "question": "A ray of light travelling in a transparent medium falls on a surface separating the medium from air at an angle of incidence of 45°. The ray undergoes total internal reflection. If n is the refractive index of the medium with respect to air, select the possible value(s) of n from the following:",
+      "year": null,
+      "question_type": "Multiple Correct Answers Type",
+      "options": [
+        "(1) 1.3",
+        "(2) 1.4",
+        "(3) 1.5",
+        "(4) 1.6"
+      ]
+    }
+  ],
+  
+  "section-7": [
+    {
+      "question_number": 1,
+      "question": "A white light ray is incident on a glass prism, and it creates four refracted rays A, B, C, and D. Match the refracted rays with the colours given (A and D are rays due to total internal reflection): [Image provided: Prism with incident white light, refracted rays A, B, C, D]\nColumn I (Ray): i. A, ii. B, iii. C, iv. D\nColumn II (Colour): a. red, b. green, c. yellow, d. blue",
+      "year": null,
+      "question_type": "Matrix Match Type",
+      "options": [],
+      "images":["GO1_images/arihant_165.png"]
+    },
+    {
+      "question_number": 2,
+      "question": "For a prism of refracting angle A and refractive index μ. Assume rays are incident at all angles of incidence 0° ≤ i ≤ 90°. Ignore partial reflection. [Image provided: Prism with angle A]\nColumn I: i. A = 15°, ii. A = 45°, iii. A = 50°, iv. A = 70°\nColumn II: a. All rays are reflected back from the second surface, b. All rays are refracted into air from the second face, c. Some rays are reflected back from second surface, d. Some rays are refracted into air from the second surface",
+      "year": null,
+      "question_type": "Matrix Match Type",
+      "options": [],
+      "images":["GO1_images/arihant_166.png"]
+    },
+    {
+      "question_number": 3,
+      "question": "A bird in air is diving vertically over a tank with speed 5 cm s⁻¹. Base of tank is silvered. A fish in the tank is rising upward along the same line with speed 2 cm s⁻¹. Water level is falling at rate of 2 cm s⁻¹. [Take: μ_water = 4/3] [Image provided: Bird, fish, tank with silvered base]\nColumn I: i. Speed of the fish as seen by the bird directly, ii. Speed of the image of fish formed after reflection in the mirror as seen by the bird, iii. Speed of bird relative to the fish looking upwards, iv. Speed of image of bird relative to the fish looking downwards in the mirror\nColumn II (in cm s⁻¹): a. 8, b. 6, c. 3, d. 4",
+      "year": null,
+      "question_type": "Matrix Match Type",
+      "options": [],
+      "images":["GO1_images/arihant_167.png"]
+    },
+    {
+      "question_number": 4,
+      "question": "In column I, types of the mirrors are given and in column II, types of the image for virtual objects are listed, match the following two columns.\nColumn I: i. Concave mirror, ii. Convex mirror, iii. Plane mirror\nColumn II: a. only real image, b. only virtual image, c. may be real or virtual image",
+      "year": null,
+      "question_type": "Matrix Match Type",
+      "options": [
+        "(1) i. → a.; ii. → c.; iii. → a.",
+        "(2) i. → b.; ii. → c.; iii. → a.",
+        "(3) i. → c.; ii. → b.; iii. → a.",
+        "(4) i. → a.; ii. → c.; iii. → b."
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "Match the following two columns corresponding to single refraction from plane surface. In cases shown in Column I, μ₁ > μ₂. [Images provided for each case in Column I]\nColumn I: Cases i, ii, iii, iv\nColumn II: a. Image distance greater than x from plane surface, b. Image distance less than x from plane surface, c. Real image, d. Virtual image",
+      "year": null,
+      "question_type": "Matrix Match Type",
+      "options": [
+        "(1) i. → b., d.; ii. → b., c.; iii. → a., d.; iv. → a., c.",
+        "(2) i. → b., c.; ii. → b., c.; iii. → a., d.; iv. → a.",
+        "(3) i. → b.; ii. → b., c.; iii. → a., d.; iv. → a., c.",
+        "(4) i. → a., d.; ii. → b., c.; iii. → a., c.; iv. → a., c."
+      ],
+      "images":["GO1_images/arihant_168.png","GO1_images/arihant_169.png","GO1_images/arihant_170.png","GO1_images/arihant_171.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "Column I shows an optical system, in which velocity of object and mirror is shown. Column II has value of magnitude of velocity of image formed by mirror w.r.t. ground. Match the proper entries from column II to column I. Object is moving on principal axis of mirror. [Images provided for each case in Column I]\nColumn I: Cases i, ii, iii, iv\nColumn II: a. 2 m/s, b. 1 m/s, c. 6 m/s, d. 3 m/s",
+      "year": null,
+      "question_type": "Matrix Match Type",
+      "options": [
+        "(1) i. → d.; ii. → b.; iii. → a.; iv. → c.",
+        "(2) i. → a.; ii. → c.; iii. → d.; iv. → d.",
+        "(3) i. → b.; ii. → a.; iii. → d.; iv. → c.",
+        "(4) i. → d.; ii. → d.; iii. → a.; iv. → c."
+      ],
+      "images":["GO1_images/arihant_172.png","GO1_images/arihant_173.png","GO1_images/arihant_174.png","GO1_images/arihant_175.png"]
+    },
+    {
+      "question_number": 7,
+      "question": "In column I different object positions w.r.t. a concave or convex mirror are given. In column II corresponding magnifications are given. Match the situations given in column I with the situations given in column II.\nColumn I: i. An object is placed at a distance equal to focal length from pole before convex mirror, ii. An object is placed at focus before a concave mirror, iii. An object is placed at the centre of curvature before a concave mirror, iv. An object is placed at a distance equal to radius of curvature before a convex mirror\nColumn II: a. ∞, b. 0.5, c. -1, d. 1/3",
+      "year": null,
+      "question_type": "Matrix Match Type",
+      "options": [
+        "(1) i. → a.; ii. → b.; iii. → d.; iv. → c.",
+        "(2) i. → b.; ii. → a.; iii. → d.; iv. → c.",
+        "(3) i. → c.; ii. → a.; iii. → d.; iv. → b.",
+        "(4) i. → d.; ii. → b.; iii. → a.; iv. → c."
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "The bottom of the container is reflecting plane mirror. S is a small fish and T is a human eye as shown in figure. Refractive index of water is μ. Fish can see two images of human eye, first due to refraction from top surface only and other due to refraction from top surface and than reflection at bottom. Distance of these images from fish are d₁ and d₂, respectively. Similarly, human eye can also see two images of fish, first due to refraction only and other due to, reflection and then refraction. Distance of these images from human eye are d₃ and d₄ respectively. Match the quantities of column I with their values in column II. [Image provided: Fish S, eye T, container with water]\nColumn I: i. d₁, ii. d₂, iii. d₃, iv. d₄\nColumn II: a. H[1 + 1/(2μ)], b. H[μ + 1/2], c. H[1 + 3/(2μ)], d. H[μ + 3/2]",
+      "year": null,
+      "question_type": "Matrix Match Type",
+      "options": [
+        "(1) i. → a.; ii. → d.; iii. → b.; iv. → c.",
+        "(2) i. → d.; ii. → b.; iii. → a.; iv. → c.",
+        "(3) i. → c.; ii. → a.; iii. → d.; iv. → b.",
+        "(4) i. → b.; ii. → d.; iii. → a.; iv. → c."
+      ],
+      "images":["GO1_images/arihant_168.png","GO1_images/arihant_169.png","GO1_images/arihant_170.png","GO1_images/arihant_176.png"]
+    }
+  ],
+  "section-8": [
+    {
+      "question_number": 1,
+      "question": "As shown in figure, light is incident normally on one face of the prism. A liquid of refractive index μ is placed on the horizontal face AC. The refractive index of prism is 3/2. If total internal reflection taken place on face AC, m should be less than I√3/4, where I is an integer. Find the value of I. [Image provided: Prism with liquid on face AC]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_177.png"]
+    },
+    {
+      "question_number": 2,
+      "question": "A ray of light is incident at an angle of 60° on one face of a prism which has refracting angle of 30°. The ray emerging out of the prism makes an angle of 30° with the incident ray. If the refractive index of the material of the prism is μ = √a, find the value of a.",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": []
+    },
+    {
+      "question_number": 3,
+      "question": "A container of uniform cross-section has a height of 14 m. Up to what height (in metre) water of refractive index 4/3 should be filled inside the container so that container seems to be half filled for normal viewing.",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": []
+    },
+    {
+      "question_number": 4,
+      "question": "What is the velocity (in cm s⁻¹) of image in situation shown in figure (O = object, f = focal length)? Object moves with velocity 10 cm/s and mirror moves with velocity 2 cm s⁻¹ as shown. [Image provided: Object O, concave mirror f=10cm]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_178.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "A point source of light S is placed at a distance 10 cm in front of the centre of a mirror of width 20 cm suspended vertically on a wall. An insect walks with a speed 10 cm/s in front of the mirror along a line parallel to the mirror at a distance 20 cm from it as shown in figure. Find the maximum time (in s) during which the insect can see the image of the source S in the mirror. [Image provided: Source S, mirror, insect path]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_179.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "Refractive index of the glass slab is 1.5. There is a point object O inside the slab as shown. To eye E₁, object appears at a distance of 6 cm (from the top surface) and to eye E₂ it appears at a distance of 8 cm (from the bottom surface). Find thickness of the glass slab (in cm). [Image provided: Object O in slab, eyes E₁, E₂]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_180.png"]
+    },
+    {
+      "question_number": 7,
+      "question": "A direct-vision prism is made out of three prisms, each with a refracting angle of θ = 60°, attached to each other as shown in figure. Light of a certain wavelength is incident on the first prism. The angle of incidence is 30° and the ray leaves the third prism parallel to the direction of incidence. The refractive index of the glass of the first and third prisms is 1.5. Find the refractive index of the material of the middle prism. (√6 = 2.45)",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_181.png"]
+    },
+    {
+      "question_number": 8,
+      "question": "A point object is placed 33 cm from a convex mirror which curvature radius 40 cm. A glass plate of thickness 6 cm and index 2.0 is placed between the object and the mirror, closer to the mirror. Find the distance of final image from the object (in cm).",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": []
+    },
+    {
+      "question_number": 9,
+      "question": "An opaque cylindrical tank with an open top has a diameter of 3.00 m and is completely filled with water. When the setting Sun reaches an angle of 37° above the horizon, sunlight ceases to illuminate any part of the bottom of the tank. How deep is the tank (in m)? [Image provided: Cylindrical tank]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_182.png"]
+    },
+    {
+      "question_number": 10,
+      "question": "A prism of refractive index √2 has a refracting angle of 30°. One of the refracting surfaces of the prism is polished. For the beam of monochromatic light to retrace its path, find the angle of incidence (in degree) on the refracting surface.",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": []
+    },
+    {
+      "question_number": 11,
+      "question": "A man of mass m starts moving w.r.t. a platform of mass 2m with a velocity u = 9/13 m/s as shown in the figure. The platform is fitted with a concave mirror of focal length f. The velocity of image (m m/s) at the initial moment is [Image provided: Man on platform with concave mirror]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_183.png"]
+    },
+    {
+      "question_number": 12,
+      "question": "A converging beam is incident on a system of two glass slabs with refractive indices μ₁ = (3/2), μ₂ = (5/4) and a concave mirror placed at a distance l from the closest face of the slab 2. The observer O receives the reflected rays from the system and perceives that the image is formed at P itself (see figure) which is also the point of convergence of the incident beam (extrapolated). If the concave mirror's focal length is 20 cm. Find the value of l in cm. [Image provided: Converging beam, slabs, concave mirror, observer O]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_184.png"]
+    },
+    {
+      "question_number": 13,
+      "question": "Consider the situation shown in figure. Water (μ_w = 4/3) is filled in a beaker up to a height of 10 cm. A plane mirror is fixed at a height of 5 cm from the surface of water. Find the distance of image from the mirror after reflection from it of an object O at the bottom of the beaker (in cm). [Image provided: Beaker with water, plane mirror, object O]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_185.png"]
+    },
+    {
+      "question_number": 14,
+      "question": "A concave mirror of focal length 20 cm is cut into two parts from the middle and the two parts are moved perpendicularly by a distance 1 mm from the previous principal axis AB. Find the distance between the images formed by the two parts in mm. [Image provided: Concave mirror cut into two parts]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_186.png"]
+    },
+    {
+      "question_number": 15,
+      "question": "A balloon is rising up along the axis of a concave mirror of radius of curvature 20 m. A ball is dropped from the balloon at a height 15 m from the mirror when the balloon has velocity 20 m/s. Find the speed of the image of the ball (in m/s) formed by concave mirror after 4 second? [Take: g = 10 m/s²] [Image provided: Balloon, ball, concave mirror]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_187.png"]
+    },
+    {
+      "question_number": 16,
+      "question": "A fly F is sitting on a glass slab A, 45 cm thick and of refractive index 3/2. The slab covers the top of a container B containing water (Refractive index 4/3) up to a height of 20 cm. The bottom of container is closed by a concave mirror C of radius of curvature 40 cm. Find the distance of the final image from the top surface of slab A in cm, formed by all refractions and reflection assuming paraxial rays. [Image provided: Fly F, slab A, container B with water, concave mirror C]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_188.png"]
+    },
+    {
+      "question_number": 17,
+      "question": "A slab of glass of thickness 6 cm and index 1.5 is placed somewhere in between a concave mirror and a point object perpendicular to the mirror's optical axis. The radius of curvature of the mirror is 40 cm. If the reflected final image coincides with the object, then find the distance of the object from the mirror (in cm).",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": []
+    },
+    {
+      "question_number": 18,
+      "question": "A point object lies 30 cm above water on the axis of a convex mirror of focal length 40 cm lying 20 cm below water surface. Consider two images: (i) Image formed by partial reflection from water surface (ii) Image formed by refraction from water surface followed by reflection from mirror and again refraction out of the water surface. Find the distance between these two images in cm. [Image provided: Point object above water, convex mirror below water surface]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_189.png"]
+    },
+    {
+      "question_number": 19,
+      "question": "Two spherical mirrors M₁ and M₂ are arranged as shown in the figure. The mirror M₁ is cut into two halves and its halves are drawn symmetrically at a distance 1 cm apart in a direction perpendicular to optical axis. A point source S is placed at 30 cm from mirror M₁, whose focal length is 20 cm. The focal length of mirror M₂ is 10 cm. If we consider the image formation due to successive reflection through M₁ and M₂, Find the separation between image (in mm). [Image provided: Mirrors M₁, M₂, source S]",
+      "year": null,
+      "question_type": "Numerical Value Type",
+      "options": [],
+      "images":["GO1_images/arihant_190.png"]
+    }
+  ]
+  
+  
+}

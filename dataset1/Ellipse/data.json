@@ -1,0 +1,391 @@
+[
+    {
+      "ID": "ILLUSTRATION 6.1",
+      "Questions": "Two circles are given such that one is completely lying inside the other without touching it. Then prove that the locus of centre of the variable circle which touches smaller circle externally and bigger circle internally is an ellipse.",
+      "Answers": "Let the circle S₂ having centre at C₂ and radius r₂ lie completely inside the circle S₁ having centre at C₁ and radius r₁. A variable circle S with center C and radius 'r' touches S₁ internally and S₂ externally. From the geometry, the distance between the centers C and C₂ is CC₂ = r + r₂, and the distance between centers C and C₁ is CC₁ = r₁ - r. Adding these two distances, we get CC₁ + CC₂ = (r₁ - r) + (r + r₂) = r₁ + r₂. Since r₁ and r₂ are the radii of the given circles, their sum is a constant. The locus of a point C that moves such that the sum of its distances from two fixed points (C₁ and C₂) is constant is an ellipse, with C₁ and C₂ as its foci.",
+      "images": ["Ellipse_1.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.2",
+      "Questions": "Base BC of triangle ABC is fixed and opposite vertex A moves in such a way that tan(B/2) tan(C/2) = constant. Prove that locus of vertex A is an ellipse.",
+      "Answers": "Given that in triangle ABC, side 'a' (length of BC) is constant. We are also given that tan(B/2)tan(C/2) = λ (constant). Using the half-angle formulas for a triangle, tan(B/2) = √[((s-a)(s-c))/(s(s-b))] and tan(C/2) = √[((s-a)(s-b))/(s(s-c))]. Multiplying these gives tan(B/2)tan(C/2) = (s-a)/s = λ. This simplifies to s-a = λs, which means s(1-λ) = a. Since s = (a+b+c)/2, we have ((a+b+c)/2)(1-λ) = a, leading to a+b+c = 2a/(1-λ). Therefore, b+c = 2a/(1-λ) - a = a(1+λ)/(1-λ). Since 'a' and 'λ' are constants, b+c is also a constant. The sum of the distances of vertex A from the fixed points B and C (which are the lengths b and c) is constant. This is the definition of an ellipse with foci at B and C. Thus, the locus of vertex A is an ellipse.",
+      "images": ["Ellipse_2.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.3",
+      "Questions": "If the equation (5x - 1)² + (5y - 2)² = (λ² - 2λ + 1)(3x + 4y - 1)² represents an ellipse, then find the values of λ.",
+      "Answers": "The given equation can be rewritten as 25[(x - 1/5)² + (y - 2/5)²] = (λ - 1)²(3x + 4y - 1)². Dividing by 25, we get (x - 1/5)² + (y - 2/5)² = [(λ - 1)²/25](3x + 4y - 1)². This can be written in the form SP² = e²(PM)², where S is the focus (1/5, 2/5), the directrix is the line 3x + 4y - 1 = 0, and the eccentricity 'e' is given by e² = (λ-1)²/ (√3²+4²)² = (λ-1)²/25. So, e = |λ-1|/5. For an ellipse, the eccentricity must satisfy 0 < e < 1. This means 0 < |λ-1| < 1. The condition |λ-1| > 0 implies λ ≠ 1. The condition |λ-1| < 1 implies -1 < λ-1 < 1, which means 0 < λ < 2. Combining these, the values of λ are λ ∈ (0, 2) – {1}."
+    },
+    {
+      "ID": "ILLUSTRATION 6.4",
+      "Questions": "Find the equation to the ellipse whose focus is S(-1, 1), the corresponding directrix is x - y + 3 = 0 and the eccentricity is 1/2. Also, find its centre, the second focus, the equation of the second directrix and the length of latus rectum.",
+      "Answers": "The equation of the ellipse is given by PS = e·PM.  √(x + 1)² + (y - 1)² = (1/2) |x - y + 3|/√2. Squaring both sides gives 8(x² + 2x + 1 + y² - 2y + 1) = (x - y + 3)², which simplifies to 7x² + 7y² + 2xy + 10x - 10y + 7 = 0. The major axis is perpendicular to the directrix and passes through the focus, so its equation is y-1 = -1(x+1) ⇒ x + y = 0. The vertices A and A' divide the segment ZS internally and externally in the ratio e:1=1:2. This gives A=(-7/6, 7/6) and A'=(-1/2, 1/2). The centre is the midpoint of AA', C=(-5/6, 5/6). The second focus S' is such that C is the midpoint of SS', giving S'=(-2/3, 2/3). The second directrix is found using the center and is x - y + 1/3 = 0. The length of the latus rectum is 2e × (perpendicular distance from S to the directrix) = 2(1/2) × |-1 - 1 + 3|/√2 = 1/√2.",
+      "images": ["Ellipse_3.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.5",
+      "Questions": "Find the eccentricity of an ellipse x²/a² + y²/b² = 1 whose latus rectum is half of its major axis.",
+      "Answers": "Assuming a > b, the length of the latus rectum is 2b²/a and the length of the major axis is 2a. According to the question, 2b²/a = (1/2)(2a), which simplifies to 2b²/a = a, or 2b² = a². So, b²/a² = 1/2. The eccentricity 'e' is given by the formula e² = 1 - b²/a². Substituting the value we found, e² = 1 - 1/2 = 1/2. Therefore, the eccentricity is e = 1/√2."
+    },
+    {
+      "ID": "ILLUSTRATION 6.6",
+      "Questions": "Find the standard equation of the ellipse whose foci are (±2, 0) and eccentricity 1/2.",
+      "Answers": "The standard equation of the ellipse is x²/a² + y²/b² = 1. The foci are at (±ae, 0). We are given that the foci are at (±2, 0) and e = 1/2. So, ae = 2. Substituting e=1/2, we get a(1/2) = 2, which gives a = 4. Now, we find b² using the relation b² = a²(1 - e²). b² = 4²(1 - (1/2)²) = 16(1 - 1/4) = 16(3/4) = 12. Therefore, the equation of the ellipse is x²/16 + y²/12 = 1."
+    },
+    {
+      "ID": "ILLUSTRATION 6.7",
+      "Questions": "If the focal distance of an end of the minor axis of standard ellipse is k and distance between its foci is 2h (k > h), then find its equation.",
+      "Answers": "Let the standard ellipse be x²/a² + y²/b² = 1. The distance between the foci is 2ae, so 2ae = 2h, which means ae = h. The focal distance of an end of the minor axis (say, (0,b)) from a focus (ae,0) is √((ae-0)² + (0-b)²) = √(a²e² + b²) = √(a²e² + a²(1-e²)) = √a² = a. We are given this distance is k, so a = k. Now we find b²: b² = a² - (ae)² = k² - h². The equation of the ellipse is x²/a² + y²/b² = 1, which becomes x²/k² + y²/(k²-h²) = 1."
+    },
+    {
+      "ID": "ILLUSTRATION 6.8",
+      "Questions": "Find the equation of the ellipse having minor axis of length 1 and foci (0, 1), (0, -1). Also find its latus rectum.",
+      "Answers": "Since the foci are on the y-axis, the major axis is vertical. The equation is of the form x²/a² + y²/b² = 1 with b > a. The foci are at (0, ±be), so be = 1. The length of the minor axis is 2a, so 2a = 1, which gives a = 1/2. We use the relation a² = b²(1 - e²) for a vertical ellipse. This gives a² = b² - (be)². Substituting the known values, (1/2)² = b² - 1², so 1/4 = b² - 1, which gives b² = 5/4. The equation of the ellipse is x²/(1/4) + y²/(5/4) = 1, or 4x² + 4y²/5 = 1. The length of the latus rectum is 2a²/b = 2(1/4) / (√5/2) = (1/2) / (√5/2) = 1/√5."
+    },
+    {
+      "ID": "ILLUSTRATION 6.9",
+      "Questions": "P(x, y) is any point on ellipse 16x² + 25y² = 400. If F₁ = (3, 0) and F₂ = (-3, 0), then prove that PF₁ + PF₂ is constant and find its value.",
+      "Answers": "The equation of the ellipse is 16x² + 25y² = 400, which can be written as x²/25 + y²/16 = 1. For this ellipse, a² = 25 and b² = 16, so a = 5. The distance between the center and a focus is c = √(a² - b²) = √(25 - 16) = √9 = 3. The foci are at (±c, 0) = (±3, 0). These are the given points F₁ and F₂. By the definition of an ellipse, the sum of the distances from any point P on the ellipse to the two foci is constant and equal to the length of the major axis, 2a. Therefore, PF₁ + PF₂ = 2a = 2(5) = 10. This value is constant."
+    },
+    {
+      "ID": "ILLUSTRATION 6.10",
+      "Questions": "A rod of length l cm moves with its ends A (on x-axis) and B (on y-axis) always touching the coordinate axes. Prove that the point P on the rod which divides AB in the ratio λ : 1 (λ ≠ 1) is an ellipse. Also, find the eccentricity of the ellipse.",
+      "Answers": "Let the ends of the rod be A(a, 0) and B(0, b). Then a² + b² = l². Let the point P(x, y) divide AB in the ratio λ : 1. By the section formula, x = (1·a + λ·0)/(1+λ) = a/(λ+1) and y = (λ·b + 1·0)/(λ+1) = λb/(λ+1). From these, we get a = x(λ+1) and b = y(λ+1)/λ. Substituting these into a² + b² = l², we get [x(λ+1)]² + [y(λ+1)/λ]² = l². This simplifies to x²/(l²/(λ+1)²) + y²/(λ²l²/(λ+1)²) = 1. This is the equation of an ellipse. To find the eccentricity, let's assume λ² < 1. Then the semi-major axis is a' = l/(λ+1) and semi-minor axis is b' = λl/(λ+1). The eccentricity is e = √(1 - (b')²/(a')²) = √(1 - λ²) . If λ² > 1, the axes are swapped and e = √(1 - 1/λ²).",
+      "images": ["Ellipse_4.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.11",
+      "Questions": "The first artificial satellite to orbit the earth was Sputnik I. Its highest point above earth's surface was 947 km, and its lowest point was 228 km. The center of the earth was at one of the foci of the elliptical orbit. The radius of the earth is 6378 km. Find the eccentricity of the orbit.",
+      "Answers": "The greatest distance from the focus (center of Earth) is the apogee, which is a + ae. This is 6378 km (radius) + 947 km (highest point) = 7325 km. The least distance is the perigee, a - ae, which is 6378 km + 228 km = 6606 km. So we have the equations: a + ae = 7325 and a - ae = 6606. Dividing these two gives (a+ae)/(a-ae) = (1+e)/(1-e) = 7325/6606. Using componendo and dividendo, ( (1+e) - (1-e) ) / ( (1+e) + (1-e) ) = (7325-6606)/(7325+6606). This gives 2e/2 = 719/13931. So, the eccentricity e ≈ 0.05161.",
+      "images": ["Ellipse_5.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.12",
+      "Questions": "If (5, 12) and (24, 7) are the foci of an ellipse passing through the origin, then find the eccentricity of the ellipse.",
+      "Answers": "Let the foci be S(5, 12) and S'(24, 7), and the point on the ellipse be the origin P(0, 0). By the definition of an ellipse, the sum of the distances from P to the foci is 2a. PS = √(5² + 12²) = √169 = 13. PS' = √(24² + 7²) = √625 = 25. So, 2a = PS + PS' = 13 + 25 = 38. The distance between the foci is 2ae. SS' = √((24-5)² + (7-12)²) = √(19² + (-5)²) = √386. The eccentricity e = (2ae)/(2a) = √386 / 38."
+    },
+    {
+      "ID": "ILLUSTRATION 6.13",
+      "Questions": "A variable complex number z satisfies the equation |z - 1 + 2i| + |z + 3 - i| = 10. Prove that the locus of the complex number z is an ellipse. Also, find its centre, foci and eccentricity.",
+      "Answers": "The given equation is |z - (1 - 2i)| + |z - (-3 + i)| = 10. This equation represents the set of all points z in the complex plane such that the sum of the distances from z to two fixed points, z₁ = 1 - 2i and z₂ = -3 + i, is a constant (10). This is the definition of an ellipse. The foci are the points corresponding to z₁ and z₂, i.e., (1, -2) and (-3, 1). The length of the major axis is 2a = 10. The distance between the foci is |z₁ - z₂| = |(1 - 2i) - (-3 + i)| = |4 - 3i| = √(4² + (-3)²) = 5. This distance is 2ae. The eccentricity is e = (2ae)/(2a) = 5/10 = 1/2. The centre of the ellipse is the midpoint of the foci: C = (z₁ + z₂)/2 = ((1-3) + i(-2+1))/2 = -1 - i/2, which corresponds to the point (-1, -1/2)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.14",
+      "Questions": "Find the centre, foci, eccentricity and equations of directrix of the ellipse 2x² + 3y² - 4x - 12y + 13 = 0.",
+      "Answers": "First, complete the square: 2(x²-2x) + 3(y²-4y) + 13 = 0 ⇒ 2(x-1)² - 2 + 3(y-2)² - 12 + 13 = 0 ⇒ 2(x-1)² + 3(y-2)² = 1. This can be written as (x-1)²/(1/2) + (y-2)²/(1/3) = 1. The centre is (h, k) = (1, 2). Here a² = 1/2 and b² = 1/3. Since a² > b², the major axis is horizontal. The eccentricity is e = √(1 - b²/a²) = √(1 - (1/3)/(1/2)) = √(1 - 2/3) = 1/√3. The distance from the center to a focus is ae = √(a²-b²) = √(1/2 - 1/3) = 1/√6. The foci are at (h ± ae, k), which are (1 ± 1/√6, 2). The equations of the directrices are x = h ± a/e = 1 ± (1/√2)/(1/√3) = 1 ± √3/√2."
+    },
+    {
+      "ID": "ILLUSTRATION 6.15",
+      "Questions": "Find the equation to the ellipse whose axes are of lengths 6 and 2√6 having equations as x – 3y + 3 = 0 and 3x + y - 1 = 0, respectively.",
+      "Answers": "The given axis lines are perpendicular (slopes are 1/3 and -3). The major axis has length 2a = 6 (so a=3) and is along x - 3y + 3 = 0. The minor axis has length 2b = 2√6 (so b=√6) and is along 3x + y - 1 = 0. For any point P(x, y) on the ellipse, the equation is (p₁²/b²) + (p₂²/a²) = 1, where p₁ is the perpendicular distance to the minor axis and p₂ is to the major axis. p₁ = |(3x+y-1)/√10| and p₂ = |(x-3y+3)/√10|. The equation is [(3x+y-1)/√10]² / (√6)² + [(x-3y+3)/√10]² / 3² = 1. This simplifies to (3x+y-1)²/60 + (x-3y+3)²/90 = 1. Multiplying by 180 gives 3(3x+y-1)² + 2(x-3y+3)² = 180, which expands to 21x² - 6xy + 29y² + 6x - 58y - 151 = 0."
+    },
+    {
+      "ID": "ILLUSTRATION 6.16",
+      "Questions": "Find the area between the ellipse x²/a² + y²/b² = 1 and the lines |x|/a + |y|/b = 1.",
+      "Answers": "The area of the ellipse x²/a² + y²/b² = 1 is πab. The lines |x|/a + |y|/b = 1 form a rhombus with vertices at (a, 0), (-a, 0), (0, b), and (0, -b). The diagonals of this rhombus are of length 2a and 2b. The area of the rhombus is (1/2) × (product of diagonals) = (1/2) × (2a) × (2b) = 2ab. The area between the ellipse and the rhombus is the area of the ellipse minus the area of the inscribed rhombus. Therefore, the required area is πab - 2ab = (π-2)ab.",
+      "images": ["Ellipse_6.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.17",
+      "Questions": "If S and S' are two foci of the ellipse 16x² + 25y² = 400 and PSQ is a focal chord such that SP = 16, then find SQ and S'Q.",
+      "Answers": "The ellipse is 16x² + 25y² = 400, or x²/25 + y²/16 = 1. Here, a=5 and b=4. The semi-latus rectum is l = b²/a = 16/5. For a focal chord PSQ, the segments SP and SQ are related by the harmonic mean property: 1/SP + 1/SQ = 2/l = 2/(16/5) = 10/16 = 5/8. Given SP = 16, we have 1/16 + 1/SQ = 5/8. So, 1/SQ = 5/8 - 1/16 = 9/16, which gives SQ = 16/9. For any point Q on the ellipse, the sum of its distances from the foci is constant, SQ + S'Q = 2a = 10. Therefore, S'Q = 10 - SQ = 10 - 16/9 = 74/9."
+    },
+    {
+      "ID": "ILLUSTRATION 6.18",
+      "Questions": "Find the length of the chord of the ellipse x²/25 + y²/16 = 1 whose midpoint is (1/2, 2/5).",
+      "Answers": "The equation of the chord with a given midpoint (x₁, y₁) is given by T = S₁. Here, T = x(1/2)/25 + y(2/5)/16 - 1 and S₁ = (1/2)²/25 + (2/5)²/16 - 1. This simplifies to x/50 + y/40 = 1/100 + 4/400 = 2/100 = 1/50. Multiplying by 200 gives 4x + 5y = 4. To find the endpoints, we solve this with the ellipse equation 16x² + 25y² = 400. From the chord equation, 5y = 4-4x, so 25y² = (4-4x)². Substituting, 16x² + (4-4x)² = 400 ⇒ 32x² - 32x - 384 = 0 ⇒ x² - x - 12 = 0. The roots are x=4 and x=-3. The corresponding y values are y=-12/5 and y=16/5. The endpoints are (4, -12/5) and (-3, 16/5). The length of the chord is √((4 - (-3))² + (-12/5 - 16/5)²) = √(7² + (-28/5)²) = √(49 + 784/25) = √(2009/25) = (7√41)/5."
+    },
+    {
+      "ID": "ILLUSTRATION 6.19",
+      "Questions": "Find the locus of the midpoints of a focal chord of the ellipse x²/a² + y²/b² =1.",
+      "Answers": "Let the midpoint of a chord be (h, k). The equation of this chord is given by T = S₁, which is hx/a² + ky/b² = h²/a² + k²/b². A focal chord passes through a focus, say S(ae, 0). Since this point lies on the chord, its coordinates must satisfy the equation: h(ae)/a² + k(0)/b² = h²/a² + k²/b². This simplifies to hae/a² = h²/a² + k²/b². Replacing (h, k) with (x, y) to get the locus, we have ex/a = x²/a² + y²/b²."
+    },
+    {
+      "ID": "ILLUSTRATION 6.20",
+      "Questions": "Find the eccentric angle of a point on the ellipse x²/6 + y²/2 = 1 whose distance from the centre of the ellipse is √5.",
+      "Answers": "A point on the ellipse x²/6 + y²/2 = 1 can be represented parametrically as P(√6 cos θ, √2 sin θ). The distance of this point from the center (0, 0) is CP = √((√6 cos θ)² + (√2 sin θ)²). We are given that this distance is √5. So, CP² = 6cos²θ + 2sin²θ = 5. Using cos²θ = 1 - sin²θ, we get 6(1 - sin²θ) + 2sin²θ = 5, which simplifies to 6 - 4sin²θ = 5. This gives 4sin²θ = 1, so sin θ = ±1/2. The eccentric angles θ in [0, 2π] for which sin θ = ±1/2 are θ = π/6, 5π/6, 7π/6, 11π/6."
+    },
+    {
+      "ID": "ILLUSTRATION 6.21",
+      "Questions": "Find the number of rational points on the ellipse x²/9 + y²/4 =1.",
+      "Answers": "A point on the ellipse is rational if both its coordinates are rational numbers. A general point on the ellipse is P(3 cos θ, 2 sin θ). We can use the rational parameterization for the unit circle: let t = tan(θ/2), where t is a rational number. Then cos θ = (1-t²)/(1+t²) and sin θ = 2t/(1+t²). Both cos θ and sin θ are rational if t is rational. This means the coordinates of P, which are 3(1-t²)/(1+t²) and 2(2t)/(1+t²), will also be rational. Since there are infinitely many rational numbers 't', there exist infinitely many rational points on the ellipse."
+    },
+    {
+      "ID": "ILLUSTRATION 6.22",
+      "Questions": "Find the equation of the curve whose parametric equations are x = 1 + 4 cos θ, y = 2 + 3 sin θ, θ∈ R.",
+      "Answers": "From the given parametric equations, we can express cos θ and sin θ as: cos θ = (x-1)/4 and sin θ = (y-2)/3. Using the trigonometric identity cos²θ + sin²θ = 1, we substitute these expressions: ((x-1)/4)² + ((y-2)/3)² = 1. This simplifies to (x-1)²/16 + (y-2)²/9 = 1. This is the equation of an ellipse with its center at (1, 2)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.23",
+      "Questions": "A line passing through origin O(0, 0) intersects the two concentric circles of radii a and b at P and Q, respectively. If lines parallel to x-axis and y-axis through Q and P, respectively, meet at point R, then find the locus of R.",
+      "Answers": "Let the line through the origin make an angle θ with the x-axis. The point Q on the circle with radius 'a' is Q(a cos θ, a sin θ). The point P on the circle with radius 'b' is P(b cos θ, b sin θ). The point R(h, k) is formed by taking the x-coordinate from Q and the y-coordinate from P (as suggested by the diagram). So, h = a cos θ and k = b sin θ. To find the locus, we eliminate the parameter θ. From these equations, cos θ = h/a and sin θ = k/b. Using the identity cos²θ + sin²θ = 1, we get (h/a)² + (k/b)² = 1. Therefore, the locus of R is the ellipse x²/a² + y²/b² = 1.",
+      "images": ["Ellipse_7.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.24",
+      "Questions": "The auxiliary circle of a family of ellipses passes through the origin and makes intercepts of 8 units and 6 units on the x- and y-axis, respectively. If the eccentricity of all such ellipses is 1/2, then find the locus of the focus.",
+      "Answers": "The auxiliary circle passes through (0,0), (8,0), and (0,6). The equation of a circle passing through these points is x² + y² - 8x - 6y = 0, or (x-4)² + (y-3)² = 25. The center of this circle is (4,3) and its radius is 5. The center of the ellipse is the same as the center of its auxiliary circle, so C=(4,3). The semi-major axis 'a' of the ellipse is the radius of the auxiliary circle, so a=5. We are given the eccentricity e = 1/2. The distance of a focus from the center is ae = 5(1/2) = 5/2. The foci lie on a circle with the same center as the ellipse and radius ae. Therefore, the locus of the focus is (x-4)² + (y-3)² = (5/2)² = 25/4."
+    },
+    {
+      "ID": "ILLUSTRATION 6.25",
+      "Questions": "If the line lx + my + n = 0 cuts the ellipse x²/a² + y²/b² = 1 in points whose eccentric angles differ by π/2, then find the value of (a²l² + b²m²)/n².",
+      "Answers": "Let the points of intersection have eccentric angles θ and θ + π/2. The coordinates are P(a cos θ, b sin θ) and Q(a cos(θ+π/2), b sin(θ+π/2)) = Q(-a sin θ, b cos θ). Since both points lie on the line lx + my + n = 0, we have two equations: (1) la cos θ + mb sin θ = -n and (2) l(-a sin θ) + mb cos θ = -n. Squaring both equations and adding them: (la cos θ + mb sin θ)² + (-la sin θ + mb cos θ)² = (-n)² + (-n)². Expanding the left side gives l²a²(cos²θ+sin²θ) + m²b²(sin²θ+cos²θ) = 2n². This simplifies to l²a² + m²b² = 2n². Therefore, the value of (a²l² + b²m²)/n² is 2."
+    },
+    {
+      "ID": "ILLUSTRATION 6.26",
+      "Questions": "Find the greatest area of the rectangle that can be inscribed in the ellipse x²/a² + y²/b² = 1.",
+      "Answers": "Let the vertices of the inscribed rectangle be (±a cos θ, ±b sin θ). The length of the rectangle is 2a cos θ and the width is 2b sin θ. The area A = (2a cos θ)(2b sin θ) = 4ab sin θ cos θ = 2ab sin(2θ). The area A is maximized when sin(2θ) is maximum. The maximum value of sin(2θ) is 1, which occurs when 2θ = π/2 or θ = π/4. Therefore, the greatest area of the inscribed rectangle is 2ab.",
+      "images": ["Ellipse_8.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.27",
+      "Questions": "Find the area of the greatest isosceles triangle that can be inscribed in the ellipse (x²/a²) + (y²/b²) = 1 having its vertex coincident with one extremity of the major axis.",
+      "Answers": "Let the vertex be A(a, 0). Let the other two vertices of the isosceles triangle be P(a cos θ, b sin θ) and Q(a cos θ, -b sin θ). The base of the triangle is PQ, of length 2b sin θ. The height is the distance from A to the line segment PQ, which is a - a cos θ. The area of the triangle is Δ = (1/2) × base × height = (1/2) × (2b sin θ) × (a - a cos θ) = ab(sin θ - sin θ cos θ). To find the maximum area, we differentiate with respect to θ and set it to zero: dΔ/dθ = ab(cos θ - cos(2θ)) = 0. This gives cos θ = cos(2θ) = 2cos²θ - 1. So, 2cos²θ - cosθ - 1 = 0, which factors as (2cosθ+1)(cosθ-1)=0. Since θ≠0, cosθ = -1/2, which gives θ = 2π/3. Then sinθ = √3/2. The maximum area is ab(√3/2 - (√3/2)(-1/2)) = ab(√3/2 + √3/4) = (3√3/4)ab.",
+      "images": ["Ellipse_9.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.28",
+      "Questions": "Prove that the sum of eccentric angles of four concyclic points on the ellipse x²/a² + y²/b² = 1 is 2nπ, where n ∈ Z.",
+      "Answers": "Let the ellipse be parameterized by x = a cos θ, y = b sin θ, and the circle be x² + y² + 2gx + 2fy + c = 0. Substituting the ellipse parameterization into the circle equation gives: a²cos²θ + b²sin²θ + 2agcosθ + 2bfsinθ + c = 0. Using the substitution t = tan(θ/2), this becomes a fourth-degree polynomial in t: (a² - 2ag + c)t⁴ + 4bft³ + (-2a² + 2b² + 2c)t² + 4bft + (a² + 2ag + c) = 0. Let the roots be t₁, t₂, t₃, t₄ corresponding to angles α/2, β/2, γ/2, δ/2. From Vieta's formulas, the sum of roots taken one at a time, s₁, is equal to the sum taken three at a time, s₃. Now, tan((α+β+γ+δ)/2) = (s₁ - s₃) / (1 - s₂ + s₄). Since s₁ = s₃, the numerator is zero. Therefore, (α+β+γ+δ)/2 = nπ, which implies that the sum of the eccentric angles α+β+γ+δ = 2nπ for some integer n."
+    },
+    {
+      "ID": "ILLUSTRATION 6.29",
+      "Questions": "The ratio of the area of a triangle inscribed in an ellipse x²/a² + y²/b² = 1 to that of the triangle formed by the corresponding points on the auxiliary circle is 0.5. Then, find the eccentricity of the ellipse.",
+      "Answers": "The ratio of the area of a triangle inscribed in an ellipse to the area of the triangle formed by the corresponding points on its auxiliary circle is equal to the ratio of the semi-minor axis to the semi-major axis, which is b/a. We are given this ratio is 0.5, so b/a = 1/2. The eccentricity 'e' is given by e² = 1 - (b/a)². Substituting b/a = 1/2, we get e² = 1 - (1/2)² = 1 - 1/4 = 3/4. Therefore, the eccentricity is e = √3/2."
+    },
+    {
+      "ID": "ILLUSTRATION 6.30",
+      "Questions": "If α and β are the eccentric angles of the extremities of a focal chord through S(ae, 0) of an ellipse x²/a² + y²/b² = 1, then prove that the eccentricity of the ellipse is (sin α + sin β) / sin(α + β).",
+      "Answers": "The equation of the chord joining the points with eccentric angles α and β is (x/a)cos((α+β)/2) + (y/b)sin((α+β)/2) = cos((α-β)/2). Since this chord passes through the focus S(ae, 0), we substitute these coordinates into the equation: (ae/a)cos((α+β)/2) = cos((α-β)/2). This simplifies to e = cos((α-β)/2) / cos((α+β)/2). To get the desired form, multiply the numerator and denominator by 2sin((α+β)/2): e = [2sin((α+β)/2)cos((α-β)/2)] / [2sin((α+β)/2)cos((α+β)/2)]. Using product-to-sum and double-angle identities, this becomes e = (sin α + sin β) / sin(α + β)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.31",
+      "Questions": "Find the equation of the chord of an ellipse x²/25 + y²/16 = 1 joining two points P(π/6) and Q(π/3).",
+      "Answers": "The equation of the chord joining points with eccentric angles α and β is (x/a)cos((α+β)/2) + (y/b)sin((α+β)/2) = cos((α-β)/2). Here, a=5, b=4, α=π/6, and β=π/3. We have (α+β)/2 = (π/6 + π/3)/2 = π/4, and (α-β)/2 = (π/6 - π/3)/2 = -π/12. Substituting these values: (x/5)cos(π/4) + (y/4)sin(π/4) = cos(-π/12). Since cos(-θ)=cos(θ) and cos(π/12) = cos(15°) = (√6+√2)/4 = (√3+1)/(2√2), and cos(π/4)=sin(π/4)=1/√2, we get x/(5√2) + y/(4√2) = (√3+1)/(2√2). Multiplying by 2√2 gives 2x/5 + y/2 = √3+1."
+    },
+    {
+      "ID": "ILLUSTRATION 6.32",
+      "Questions": "Find the points on the ellipse x²/a² + y²/b² =1 such that the tangents at each of them make equal angles with the axes.",
+      "Answers": "If a tangent makes equal angles with the axes, its slope 'm' must be ±1. The coordinates of the point of contact for a tangent with slope m are (∓a²m/√(a²m²+b²), ±b²/√(a²m²+b²)). For m = 1, the points are (-a²/√(a²+b²), b²/√(a²+b²)) and (a²/√(a²+b²), -b²/√(a²+b²)). For m = -1, the points are (a²/√(a²+b²), b²/√(a²+b²)) and (-a²/√(a²+b²), -b²/√(a²+b²)). In total, the four points are (±a²/√(a²+b²), ±b²/√(a²+b²)) and (±a²/√(a²+b²), ∓b²/√(a²+b²))."
+    },
+    {
+      "ID": "ILLUSTRATION 6.33",
+      "Questions": "An ellipse passes through the point (4, -1) and touches the line x + 4y - 10 = 0. Find its equation if its axes coincide with coordinate axes.",
+      "Answers": "Let the equation be x²/a² + y²/b² = 1. Since it passes through (4, -1), we have 16/a² + 1/b² = 1, or 16b² + a² = a²b². The line is y = -x/4 + 5/2, so the slope is m=-1/4 and the intercept is c=5/2. The condition for tangency is c² = a²m² + b². Substituting the values: (5/2)² = a²(-1/4)² + b², which gives 25/4 = a²/16 + b², or 100 = a² + 16b². We now have a system of two equations: a² + 16b² = 100 and a²b² = a² + 16b². So, a²b² = 100. Substituting a²=100/b² into the first equation gives 100/b² + 16b² = 100, which leads to 16b⁴ - 100b² + 100 = 0, or 4b⁴ - 25b² + 25 = 0. This gives b²=5 or b²=5/4. The corresponding a² values are a²=20 and a²=80. So, the two possible equations are x²/20 + y²/5 = 1 and x²/80 + 4y²/5 = 1."
+    },
+    {
+      "ID": "ILLUSTRATION 6.34",
+      "Questions": "Find the maximum area of the ellipse x²/a² + y²/b² = 1 which touches the line y = 3x + 2.",
+      "Answers": "The area of the ellipse is A = πab. The line y = 3x + 2 has slope m=3 and intercept c=2. The condition for this line to be a tangent is c² = a²m² + b², which means 2² = a²(3)² + b², or 4 = 9a² + b². To maximize A=πab, we need to maximize ab subject to this constraint. By the AM-GM inequality, (9a² + b²)/2 ≥ √(9a² * b²), which gives 4/2 ≥ 3ab. So, 2 ≥ 3ab, which means ab ≤ 2/3. The maximum value of ab is 2/3. Therefore, the maximum area of the ellipse is π(2/3) = 2π/3 sq. units."
+    },
+    {
+      "ID": "ILLUSTRATION 6.35",
+      "Questions": "Find the locus of the foot of the perpendicular drawn from the centre upon any tangent to the ellipse x²/a² + y²/b² =1.",
+      "Answers": "Let the tangent to the ellipse be y = mx + √(a²m²+b²). The line passing through the center (0,0) and perpendicular to this tangent has the equation y = (-1/m)x. Let the foot of the perpendicular be (h, k). This point lies on both lines. From the second line, m = -h/k. The point (h, k) also lies on the tangent, so k = mh + √(a²m²+b²). This gives (k - mh)² = a²m² + b². Substitute m = -h/k: (k - (-h/k)h)² = a²(-h/k)² + b². This simplifies to (k + h²/k)² = a²h²/k² + b², or ((k²+h²)/k)² = (a²h²+b²k²)/k². Therefore, (h²+k²)² = a²h² + b²k². The locus is (x²+y²)² = a²x² + b²y²."
+    },
+    {
+      "ID": "ILLUSTRATION 6.36",
+      "Questions": "If the line 3x + 4y = √7 touches the ellipse 3x² + 4y² = 1, then find the point of contact.",
+      "Answers": "Let the point of contact be (x₁, y₁). The equation of the tangent to the ellipse 3x² + 4y² = 1 at this point is 3xx₁ + 4yy₁ = 1. We are given that the tangent line is 3x + 4y = √7. Since these two equations represent the same line, their coefficients must be proportional. Comparing them, we get (3x₁)/3 = (4y₁)/4 = 1/√7. This gives x₁ = 1/√7 and y₁ = 1/√7. Therefore, the point of contact is (1/√7, 1/√7)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.37",
+      "Questions": "If x/√2 + y/√2 = 1 touches the ellipse x²/a² + y²/b² = 1, then find its eccentric angle θ of point of contact.",
+      "Answers": "The equation of the tangent at a point with eccentric angle θ is (x/a)cosθ + (y/b)sinθ = 1. The given tangent equation is x/(a√2) + y/(b√2) = 1. (Assuming the intended form is a tangent to the specific ellipse). By comparing the coefficients of x and y, we get cosθ = 1/√2 and sinθ = 1/√2. The value of θ in [0, 2π) that satisfies both conditions is θ = 45° or π/4."
+    },
+    {
+      "ID": "ILLUSTRATION 6.38",
+      "Questions": "A tangent is drawn to the ellipse x²/27 + y² = 1 at (3√3 cos θ, sin θ), θ ∈ (0, π/2). Then find the value of θ such that sum of intercepts on axes made by this tangent is minimum.",
+      "Answers": "The equation of the tangent at (3√3 cos θ, sin θ) is x(3√3cosθ)/27 + y(sinθ)/1 = 1, which simplifies to x/(3√3secθ) + y/cosecθ = 1. The x-intercept is 3√3secθ and the y-intercept is cosecθ. The sum of intercepts is S(θ) = 3√3secθ + cosecθ. To find the minimum, we set the derivative dS/dθ to zero: dS/dθ = 3√3secθtanθ - cosecθcotθ = 0. This gives 3√3(sinθ/cos²θ) = cosθ/sin²θ, or tan³θ = 1/(3√3). So, tanθ = 1/√3. Since θ ∈ (0, π/2), the value is θ = π/6."
+    },
+    {
+      "ID": "ILLUSTRATION 6.39",
+      "Questions": "The tangent at a point P on an ellipse intersects the major axis at T and N is the foot of the perpendicular from P to the same axis. Show that the circle drawn on NT as diameter intersects the auxiliary circle orthogonally.",
+      "Answers": "Let the point P be (a cosθ, b sinθ). The tangent at P is (x/a)cosθ + (y/b)sinθ = 1. This intersects the major axis (y=0) at T(a/cosθ, 0) or T(a secθ, 0). The foot of the perpendicular from P to the major axis is N(a cosθ, 0). The equation of the circle with NT as diameter is (x-asecθ)(x-acosθ) + (y-0)(y-0) = 0, which simplifies to x² + y² - a(secθ+cosθ)x + a² = 0. The auxiliary circle is x² + y² = a², or x² + y² - a² = 0. Two circles x²+y²+2g₁x+2f₁y+c₁=0 and x²+y²+2g₂x+2f₂y+c₂=0 are orthogonal if 2g₁g₂ + 2f₁f₂ = c₁ + c₂. Here, g₁ = -a(secθ+cosθ)/2, f₁=0, c₁=a² and g₂=0, f₂=0, c₂=-a². The condition becomes 2(-a(secθ+cosθ)/2)(0) + 2(0)(0) = a² + (-a²), which is 0=0. Thus, the circles intersect orthogonally."
+    },
+    {
+      "ID": "ILLUSTRATION 6.40",
+      "Questions": "Prove that in an ellipse, the perpendicular from a focus upon any tangent and the line joining the center of the ellipse to the point of contact meet at the corresponding directrix.",
+      "Answers": "Let the ellipse be x²/a² + y²/b² = 1 and the point of contact be P(x₁, y₁). The tangent at P is xx₁/a² + yy₁/b² = 1. The line from the center O(0,0) to P is y = (y₁/x₁)x. The focus is S(ae, 0). The line perpendicular to the tangent passing through the focus has slope a²y₁/b²x₁ and its equation is y - 0 = (a²y₁/b²x₁)(x - ae). To find the intersection of this line and the line OP, we set the y-values equal: (y₁/x₁)x = (a²y₁/b²x₁)(x - ae). This simplifies to x = (a²/b²)(x - ae). Since b²=a²(1-e²), we have x = (a²/(a²(1-e²)))(x - ae) ⇒ x(1-e²) = x-ae ⇒ x-xe²=x-ae ⇒ xe²=ae. Therefore, x = a/e, which is the equation of the corresponding directrix.",
+      "images": ["Ellipse_10.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.41",
+      "Questions": "Find the point on the ellipse 16x² + 11y² = 256 where the common tangent to it and the circle x² + y² – 2x = 15 touch.",
+      "Answers": "The ellipse is x²/16 + y²/(256/11) = 1. The circle is (x-1)² + y² = 16. Let a point on the ellipse be P(4cosθ, (16/√11)sinθ). The tangent at P is xcosθ/4 + (√11)ysinθ/16 = 1. The center of the circle is (1,0) and its radius is 4. The distance from the center to the tangent must be equal to the radius: |cosθ/4 - 1| / √(cos²θ/16 + 11sin²θ/256) = 4. This simplifies to |cosθ-4|² = 16²(cos²θ/16 + 11sin²θ/256), which gives (cosθ-4)² = 16cos²θ + 11sin²θ. Expanding and using sin²θ=1-cos²θ gives cos²θ-8cosθ+16 = 5cos²θ+11. This simplifies to 4cos²θ + 8cosθ - 5 = 0, which factors to (2cosθ-1)(2cosθ+5)=0. So, cosθ=1/2. The x-coordinate of the point is 4cosθ = 2. Substituting x=2 into the ellipse equation gives 16(2)² + 11y² = 256 ⇒ 64+11y²=256 ⇒ 11y²=192 ⇒ y=±√(192/11) = ±8√3/√11. The points are (2, ±8√3/√11)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.42",
+      "Questions": "Consider an ellipse x²/4α + y²/α = 1 and a parabola y² = 8x. If a common tangent to the ellipse and the parabola meets the coordinate axes at A and B, respectively, then find the locus of the midpoint of AB.",
+      "Answers": "A tangent to the parabola y² = 8x is y = mx + 2/m. For this line to be a tangent to the ellipse x²/(4α) + y²/α = 1, it must satisfy the condition c² = a²m² + b², where c=2/m, a²=4α, b²=α. So, (2/m)² = (4α)m² + α. This gives a relationship between m and α. The tangent line y = mx + 2/m intersects the axes at A(-2/m², 0) and B(0, 2/m). The midpoint of AB is (h, k) = (-1/m², 1/m). From these, we can express m in terms of k: m = 1/k. Now express h in terms of k: h = -1/(1/k)² = -k². The locus of the midpoint (h, k) is x = -y², or y² = -x."
+    },
+    {
+      "ID": "ILLUSTRATION 6.43",
+      "Questions": "Find the equations of the tangents drawn from the point (2, 3) to the ellipse 9x² + 16y² = 144.",
+      "Answers": "The ellipse is x²/16 + y²/9 = 1. Let the equation of a tangent be y = mx + c, with the condition c² = 16m² + 9. The tangent passes through (2, 3), so 3 = 2m + c, or c = 3 - 2m. Substituting this into the condition: (3-2m)² = 16m² + 9. This gives 9 - 12m + 4m² = 16m² + 9. Simplifying, we get 12m² + 12m = 0, which factors to 12m(m+1) = 0. The possible slopes are m=0 and m=-1. For m=0, the tangent is y=3. For m=-1, the tangent is y = -1x + (3-2(-1)) = -x + 5. The equations of the tangents are y=3 and y=-x+5."
+    },
+    {
+      "ID": "ILLUSTRATION 6.44",
+      "Questions": "Find the angle between the pair of tangents from the point (1, 2) to the ellipse 3x² + 2y² = 5.",
+      "Answers": "The combined equation of the pair of tangents is given by T² = SS₁. Here T = 3x(1) + 2y(2) - 5 = 3x+4y-5. S = 3x²+2y²-5. S₁ = 3(1)²+2(2)²-5 = 3+8-5=6. So the equation is (3x+4y-5)² = 6(3x²+2y²-5). Expanding this gives 9x²+16y²+25+24xy-30x-40y = 18x²+12y²-30. Rearranging terms gives 9x² - 24xy - 4y² + ... = 0. For a general second-degree equation, the angle θ between the lines is given by tanθ = |2√(h²-ab)|/|a+b|. Here a=9, h=-12, b=-4. So, tanθ = |2√((-12)² - (9)(-4))|/|9-4| = |2√(144+36)|/5 = 2√180/5 = 12√5/5. Therefore, the angle is θ = tan⁻¹(12√5/5)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.45",
+      "Questions": "An ellipse having fixed length of major and minor axes slides between two perpendicular straight lines. Identify the locus of centre of the ellipse.",
+      "Answers": "The two perpendicular straight lines are a pair of perpendicular tangents to the ellipse. The locus of the point of intersection of perpendicular tangents is the director circle, which has the equation x² + y² = a² + b² relative to the center of the ellipse. Let the center of the ellipse be C(h, k) and the perpendicular lines be the coordinate axes. Their intersection is the origin P(0, 0). Since P lies on the director circle of the ellipse centered at C, the distance CP must be the radius of the director circle, i.e., CP = √(a²+b²). So, √(h²+k²) = √(a²+b²), which means h²+k² = a²+b². The locus of the center is a circle centered at the intersection of the two lines, with radius √(a²+b²)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.46",
+      "Questions": "If there exists exactly one point on the line 3x + 4y + 25 = 0, from which perpendicular tangents can be drawn to ellipse x²/a² + y² = 1 (a > 1), then find the eccentricity of the ellipse.",
+      "Answers": "The locus of points from which perpendicular tangents can be drawn to an ellipse is its director circle. For the ellipse x²/a² + y²/1 = 1, the director circle has the equation x² + y² = a² + 1. If there is exactly one such point on the line 3x + 4y + 25 = 0, this line must be tangent to the director circle. The distance from the center of the circle (0,0) to the line must be equal to the radius of the circle. Distance = |3(0)+4(0)+25|/√(3²+4²) = 25/5 = 5. Radius = √(a²+1). So, 5 = √(a²+1). Squaring both sides gives 25 = a² + 1, so a² = 24. The eccentricity of the ellipse is e = √(1 - b²/a²) = √(1 - 1/24) = √(23/24)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.47",
+      "Questions": "If from a point P, tangents PQ and PR are drawn to the ellipse x²/2 + y² = 1 so that equation of chord of contact QR is x + 3y = 1, then find the coordinates of P.",
+      "Answers": "Let the coordinates of point P be (x₁, y₁). The equation of the chord of contact QR from P to the ellipse x²/2 + y² = 1 is given by T=0, which is xx₁/2 + yy₁ = 1. We are given that the equation of this chord is x + 3y = 1. Since these two equations represent the same line, their coefficients must be proportional. Comparing them: (x₁/2)/1 = y₁/3 = 1/1. From the first equality, x₁/2 = 1, so x₁ = 2. From the second equality, y₁/3 = 1, so y₁ = 3. Therefore, the coordinates of point P are (2, 3)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.48",
+      "Questions": "Prove that the chord of contact of the ellipse x²/a² + y²/b² = 1 with respect to any point on the directrix is a focal chord.",
+      "Answers": "Let the directrix be x = a/e. Any point on this directrix can be written as P(a/e, k). The equation of the chord of contact from point P(x₁, y₁) is xx₁/a² + yy₁/b² = 1. For the point P(a/e, k), the equation is x(a/e)/a² + yk/b² = 1, which simplifies to x/ae + yk/b² = 1. A focal chord is a chord that passes through a focus. Let's check if this chord passes through the focus S(ae, 0). Substituting the coordinates of S into the equation: (ae)/ae + (0)k/b² = 1. This gives 1 + 0 = 1, which is true. Therefore, the chord of contact passes through the focus, meaning it is a focal chord."
+    },
+    {
+      "ID": "ILLUSTRATION 6.49",
+      "Questions": "Tangents are drawn from the points on the line x - y - 5 = 0 to x² + 4y² = 4. Prove that all the chords of contact pass through a fixed point.",
+      "Answers": "The ellipse is x²/4 + y² = 1. Any point on the line x - y - 5 = 0 can be parameterized as (t, t-5). The chord of contact from this point (t, t-5) to the ellipse is given by T=0: xt/4 + y(t-5) = 1. Rearranging this equation gives xt/4 + yt - 5y - 1 = 0, or t(x/4 + y) - (5y + 1) = 0. This equation is in the form L₁ + λL₂ = 0, which represents a family of lines passing through the intersection of the lines L₁=0 and L₂=0. Here, L₁ is x/4 + y = 0 and L₂ is 5y + 1 = 0. From L₂, we get y = -1/5. Substituting this into L₁ gives x/4 - 1/5 = 0, so x = 4/5. Thus, all chords of contact pass through the fixed point (4/5, -1/5)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.50",
+      "Questions": "Find the locus of the point which is such that the chord of contact of tangents drawn from it to the ellipse x²/a² + y²/b² = 1 forms a triangle of constant area with the coordinate axes.",
+      "Answers": "Let the point be P(h, k). The chord of contact from P is hx/a² + ky/b² = 1. This line intersects the x-axis (y=0) at A(a²/h, 0) and the y-axis (x=0) at B(0, b²/k). The area of the triangle OAB formed with the origin is (1/2) × |(a²/h) × (b²/k)| = C (a constant). This gives |a²b²/(2hk)| = C. So, |hk| = a²b²/(2C). The locus of the point (h, k) is |xy| = constant, which is the equation of a hyperbola."
+    },
+    {
+      "ID": "ILLUSTRATION 6.51",
+      "Questions": "Prove that the chords of contact of perpendicular tangents to the ellipse x²/a⁴ + y²/b⁴ = 1 touch another fixed ellipse.",
+      "Answers": "The locus of the intersection of perpendicular tangents is the director circle. For the ellipse x²/a⁴ + y²/b⁴ = 1, the director circle is x² + y² = (a⁴) + (b⁴). Any point on this circle can be P(√(a⁴+b⁴)cosθ, √(a⁴+b⁴)sinθ). The chord of contact from P is x(√(a⁴+b⁴)cosθ)/a⁴ + y(√(a⁴+b⁴)sinθ)/b⁴ = 1. Let A = a⁴/√(a⁴+b⁴) and B = b⁴/√(a⁴+b⁴). The equation becomes (x/A)cosθ + (y/B)sinθ = 1. This is the equation of a tangent to the ellipse x²/A² + y²/B² = 1. Since A and B are constants, this is a fixed ellipse. The equation is x²/(a⁸/(a⁴+b⁴)) + y²/(b⁸/(a⁴+b⁴)) = 1."
+    },
+    {
+      "ID": "ILLUSTRATION 6.52",
+      "Questions": "Tangents are drawn from the point (3, 2) to the ellipse x² + 4y² = 9. Find the equation to their chord of contact and the middle point of this chord of contact.",
+      "Answers": "The equation of the chord of contact from (3, 2) to the ellipse x² + 4y² = 9 is x(3) + 4y(2) = 9, which is 3x + 8y = 9. Let the middle point of this chord be (h, k). The equation of the chord with midpoint (h, k) is T = S₁, which is hx + 4ky = h² + 4k². Comparing the two equations for the same chord (3x+8y=9 and hx+4ky=h²+4k²), we get h/3 = (4k)/8 = (h²+4k²)/9. From h/3 = k/2, we get 2h=3k. From h/3 = (h²+4k²)/9, we get 3h = h²+4k². Substituting k=2h/3 into this gives 3h = h² + 4(2h/3)² = h² + 16h²/9 = 25h²/9. This gives 27h = 25h², so h=27/25. Then k = (2/3)(27/25) = 18/25. The midpoint is (27/25, 18/25).",
+      "images": ["Ellipse_11.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.53",
+      "Questions": "If p₁ and p₂ are the lengths of the perpendiculars from the foci S₁ and S₂, respectively, of an ellipse x²/25 + y²/16 = 1 on the tangent at any point P on the ellipse, then prove that p₁ + p₂ ≥ 8. (Question rephrased based on solution).",
+      "Answers": "We know that for any tangent to an ellipse, the product of the lengths of the perpendiculars from the foci to the tangent is equal to the square of the semi-minor axis, i.e., p₁p₂ = b². For the ellipse x²/25 + y²/16 = 1, b²=16. So, p₁p₂ = 16. By the Arithmetic Mean - Geometric Mean (AM-GM) inequality, (p₁ + p₂)/2 ≥ √(p₁p₂). Substituting the values, we get (p₁ + p₂)/2 ≥ √16 = 4. Therefore, p₁ + p₂ ≥ 8."
+    },
+    {
+      "ID": "ILLUSTRATION 6.54",
+      "Questions": "An ellipse has the points (1, -1) and (2,-1) as its foci and x+y-5 = 0 as one of its tangents. Find the point where this line touches the ellipse.",
+      "Answers": "Let the foci be S₁(1, -1) and S₂(2, -1). A property of the ellipse states that the image of one focus in any tangent line lies on the line connecting the other focus to the point of contact. Let's find the image S₂' of S₂(2,-1) in the tangent x+y-5=0. The formula for the image (h,k) is (h-x₁)/a = (k-y₁)/b = -2(ax₁+by₁+c)/(a²+b²). So (h-2)/1 = (k-(-1))/1 = -2(2-1-5)/(1²+1²) = 4. This gives h=6 and k=3. So S₂'=(6,3). The point of contact P lies on the line passing through S₁(1,-1) and S₂'(6,3). The equation of this line is (y+1)/(x-1) = (3+1)/(6-1) = 4/5, which is 4x-5y=9. The point of contact P is the intersection of the tangent x+y=5 and the line 4x-5y=9. Solving this system gives x=34/9 and y=11/9. The point is (34/9, 11/9).",
+      "images": ["Ellipse_12.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.55",
+      "Questions": "Find the normal to the ellipse x²/18 + y²/8 =1 at point (3, 2).",
+      "Answers": "The equation of the normal to the ellipse x²/a² + y²/b² = 1 at a point (x₁, y₁) is a²x/x₁ - b²y/y₁ = a² - b². Here, a²=18, b²=8, and the point (x₁, y₁) is (3, 2). Substituting these values into the formula gives: (18x)/3 - (8y)/2 = 18 - 8. This simplifies to 6x - 4y = 10, or 3x - 2y = 5."
+    },
+    {
+      "ID": "ILLUSTRATION 6.56",
+      "Questions": "Find the points on the ellipse x²/4 + y²/9= 1, on which the normals are parallel to the line 2x - y = 1.",
+      "Answers": "For the vertical ellipse x²/4 + y²/9 = 1, a²=4, b²=9. The normal at P(2cosθ, 3sinθ) is a²x/x₁ - b²y/y₁ = a² - b² ⇒ 4x/(2cosθ) - 9y/(3sinθ) = 4-9 ⇒ 2x/cosθ - 3y/sinθ = -5. The slope of this normal is (2/cosθ)/(3/sinθ) = (2/3)tanθ. This slope must be equal to the slope of the line 2x - y = 1, which is 2. So, (2/3)tanθ = 2, which gives tanθ = 3. From this, we find cosθ = ±1/√10 and sinθ = ±3/√10. The points are (2cosθ, 3sinθ), which are (2(±1/√10), 3(±3/√10)). The points are (2/√10, 9/√10) and (-2/√10, -9/√10)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.57",
+      "Questions": "Find the values of λ for which the line 2x - (8/3λ)y = -3 is a normal to the ellipse x² + 4y² = 4.",
+      "Answers": "The line is y = (3λ/4)x + 9λ/8. The ellipse is x²/4 + y² = 1. Here m=3λ/4, c=9λ/8, a=2, b=1. The condition for y=mx+c to be a normal is c² = m²(a²-b²)² / (a²m²+b²). Substituting the values: (9λ/8)² = (3λ/4)²(4-1)² / (4(3λ/4)²+1). 81λ²/64 = (9λ²/16)(9) / (9λ²/4+1). 1/4 = λ² / (9λ²+4). 9λ²+4 = 4λ². This gives 5λ²=-4, which has no real solution for λ. [Note: The book's calculation proceeds as 4λ² + 9 = 16λ², leading to λ = ±√3/2. This suggests a different ellipse or condition was used in the book's solution. Based on the provided text, the answer is λ=±√3/2]."
+    },
+    {
+      "ID": "ILLUSTRATION 6.58",
+      "Questions": "If ω is one of the angles between the normals to the ellipse x²/a² + y²/b² = 1 at the points whose eccentric angles are θ and π/2 + θ, then prove that 2 cot(ω) / sin(2θ) = e²/√(1-e²).",
+      "Answers": "The slope of the normal at eccentric angle φ is m = (a/b)tanφ. For θ, the slope is m₁ = (a/b)tanθ. For π/2+θ, the slope is m₂ = (a/b)tan(π/2+θ) = -(a/b)cotθ. The angle ω between them is given by tanω = |(m₁-m₂)/(1+m₁m₂)| = |(a/b)(tanθ+cotθ)| / |1 - a²/b²| = |(a/b)(2/sin2θ)| / |(b²-a²)/b²| = 2ab / |(b²-a²)sin2θ| = 2ab / ((a²-b²)sin2θ). Since a²-b²=a²e² and b=a√(1-e²), tanω = 2a(a√1-e²)/(a²e²sin2θ) = 2√1-e²/(e²sin2θ). Therefore, cotω = e²sin2θ/(2√1-e²), which gives 2cotω/sin2θ = e²/√(1-e²)."
+    },
+    {
+      "ID": "ILLUSTRATION 6.59",
+      "Questions": "If the normal at any point P on the ellipse x²/a² + y²/b² = 1 meets the axes at G and g, respectively, then find the ratio PG: Pg.",
+      "Answers": "Let the point P be (a cosθ, b sinθ). The equation of the normal at P is ax/cosθ - by/sinθ = a²-b². This normal meets the major axis (x-axis) at G(((a²-b²)/a)cosθ, 0) and the minor axis (y-axis) at g(0, -((a²-b²)/b)sinθ). Now we find the squared distances PG² and Pg². PG² = (acosθ - (a²-b²)/a cosθ)² + (bsinθ-0)² = (b²/a cosθ)² + b²sin²θ = (b²/a²)(b²cos²θ+a²sin²θ). Pg² = (acosθ-0)² + (bsinθ + (a²-b²)/b sinθ)² = a²cos²θ + (a²/b sinθ)² = (a²/b²)(b²cos²θ+a²sin²θ). The ratio PG²/Pg² = (b²/a²)/(a²/b²) = b⁴/a⁴. Therefore, the ratio PG:Pg = b²:a²."
+    },
+    {
+      "ID": "ILLUSTRATION 6.60",
+      "Questions": "Find the maximum distance of a normal to the ellipse x²/a² + y²/b² = 1 (a > b) from the centre.",
+      "Answers": "The normal at P(a cosθ, b sinθ) is ax/cosθ - by/sinθ = a²-b². The distance 'd' of this normal from the center (0,0) is d = |a²-b²| / √(a²sec²θ + b²cosec²θ). To maximize d, we must minimize the denominator. Let f(θ) = a²sec²θ + b²cosec²θ = a²(1+tan²θ) + b²(1+cot²θ). f'(θ)=0 gives a²tanθ = b²cotθ, so tan²θ=b/a. The minimum value of a²tan²θ+b²cot²θ is 2ab. So, the minimum value of the denominator is √(a²+b²+2ab) = a+b. Therefore, the maximum distance is d_max = (a²-b²)/(a+b) = a-b."
+    },
+    {
+      "ID": "ILLUSTRATION 6.61",
+      "Questions": "Point P is on the ellipse x²/16 + y²/9 =1 and Q is the corresponding point on the auxiliary circle of the ellipse. If the line joining centre C to Q meets the normal (drawn at point P on the given ellipse) at R, then find the value of CR.",
+      "Answers": "Let P be (4cosθ, 3sinθ). The corresponding point Q on the auxiliary circle x²+y²=16 is (4cosθ, 4sinθ). The line CQ from the center C(0,0) has the equation y=(tanθ)x. The normal at P is 4x/cosθ - 3y/sinθ = 16-9=7. The point R(h,k) lies on both the line CQ and the normal. So k = htanθ. Substituting into the normal equation: 4h/cosθ - 3(htanθ)/sinθ = 7. This simplifies to 4h/cosθ - 3h/cosθ = 7, which gives h/cosθ=7, so h=7cosθ. Then k=7sinθ. The distance CR = √(h²+k²) = √((7cosθ)²+(7sinθ)²) = √(49(cos²θ+sin²θ)) = 7.",
+      "images": ["Ellipse_13.png"]
+    },
+    {
+      "ID": "ILLUSTRATION 6.62",
+      "Questions": "The normal to the ellipse x²/64 + y²/49 = 1 intersects the major and minor axes at P and Q, respectively. Find the locus of the point dividing segment PQ in the ratio 2: 1.",
+      "Answers": "For the ellipse, a=8 and b=7. The normal at (8cosθ, 7sinθ) is 8x/cosθ - 7y/sinθ = 8²-7²=15. It meets the major axis (x-axis) at P((15/8)cosθ, 0) and the minor axis (y-axis) at Q(0, -(15/7)sinθ). Let M(h,k) be the point that divides PQ in the ratio 2:1. By the section formula, h = (1*P_x + 2*Q_x)/3 = (1*(15/8)cosθ)/3 = (5/8)cosθ. And k = (1*P_y + 2*Q_y)/3 = (2*(-15/7)sinθ)/3 = (-10/7)sinθ. From these, cosθ = 8h/5 and sinθ = -7k/10. Using cos²θ+sin²θ=1, we get (8h/5)² + (-7k/10)² = 1. The locus is 64x²/25 + 49y²/100 = 1."
+    },
+    {
+      "ID": "ILLUSTRATION 6.63",
+      "Questions": "The normal at point P(2, 3√3/2) on the ellipse x²/16 + y²/9 = 1 meets the major axis of the ellipse at Q. If S and S' are foci of given ellipse, then find the ratio SQ: S'Q.",
+      "Answers": "For the ellipse x²/16 + y²/9 = 1, we have a=4, b=3. The eccentricity is e = √(1-b²/a²) = √(1-9/16) = √7/4. The foci are S(√7, 0) and S'(-√7, 0). The normal at any point P on an ellipse bisects the angle between the focal radii to that point (∠S'PS). In ΔS'PS, the normal PN acts as the angle bisector meeting the base S'S at Q. By the Angle Bisector Theorem, the ratio of the other two sides is equal to the ratio of the segments of the base. So, SQ/S'Q = SP/S'P. The distances are SP = a-ex₁ = 4 - (√7/4)(2) = 4-√7/2, and S'P = a+ex₁ = 4 + (√7/4)(2) = 4+√7/2. The ratio is SQ/S'Q = (4-√7/2)/(4+√7/2) = (8-√7)/(8+√7).",
+      "images": ["Ellipse_14.png"]
+    },
+
+    
+    {
+      "ID": "Example 6.1",
+      "Questions": "Find the range of eccentricity of the ellipse x²/a² + y²/b² = 1 (a > b) such that the line segment joining the foci does not subtend a right angle at any point on the ellipse.",
+      "Answers": "Let any point on the ellipse be P. If the line segment joining the foci, S₁S₂, subtends a right angle at P, then P must lie on the circle with S₁S₂ as its diameter. The equation of this circle is x² + y² = (ae)². For the line segment *not* to subtend a right angle, no point on the ellipse should lie on this circle. For no intersection between the ellipse x²/a² + y²/b² = 1 and the circle x² + y² = a²e² = a² - b², the condition is a²e² < b². Substituting b² = a²(1-e²), we get a²e² < a²(1-e²), which simplifies to e² < 1 - e², or 2e² < 1. This gives e² < 1/2. Since e must be positive for an ellipse, the range is e ∈ (0, 1/√2).",
+      "images": ["Ellipse_15.png"]
+    },
+    {
+      "ID": "Example 6.2",
+      "Questions": "Find the values of α for which three distinct chords drawn from (α, 0) to the ellipse x² + 2y² = 1 are bisected by the parabola y² = 4x.",
+      "Answers": "Let the midpoint of a chord of the ellipse be a point (t², 2t) on the parabola y² = 4x. This midpoint must lie inside the ellipse, so (t²)² + 2(2t)² < 1, which means t⁴ + 8t² - 1 < 0. Solving for t², we get 0 < t² < -4 + √17. The equation of the chord with midpoint (t², 2t) is T=S₁, which is t²x + 4ty = t⁴ + 8t². Since this chord passes through (α, 0), we substitute x=α and y=0 to get αt² = t⁴ + 8t². For distinct chords, t≠0, so we can divide by t², giving α = t² + 8. For three distinct chords, we need two distinct non-zero values for t, which means one positive value for t². Therefore, we need 0 < t² = α-8 < -4+√17. This gives the conditions α > 8 and α < 12 - √17. The book's solution has a different range: α ∈ (8, 4+√17)."
+    },
+    {
+      "ID": "Example 6.3",
+      "Questions": "Prove that if any tangent to the ellipse is cut by the tangents at the endpoints of the major axis at T and T', then the circle whose diameter is TT' will pass through the foci of the ellipse.",
+      "Answers": "Let the ellipse be x²/a² + y²/b² = 1 and a tangent be (x/a)cosθ + (y/b)sinθ = 1. The tangents at the endpoints of the major axis are x=a and x=-a. The intersection points are T(a, b tan(θ/2)) and T'(-a, b cot(θ/2)). The equation of the circle with diameter TT' is (x-a)(x+a) + (y - b tan(θ/2))(y - b cot(θ/2)) = 0. To check if it passes through the foci (±ae, 0), we substitute these coordinates for x and y. The equation becomes (±ae)² - a² + (0 - ...)(0 - ...) = 0, which simplifies to a²e² - a² = 0. Since b²=a²(1-e²), we have a²e² - a² + b² = a²e² - a² + a²(1-e²) = a²e² - a² + a² - a²e² = 0. The equation holds true, so the circle passes through the foci."
+    },
+    {
+      "ID": "Example 6.4",
+      "Questions": "Let d be the perpendicular distance from the center of the ellipse to any tangent to the ellipse. If F₁ and F₂ are the two foci of the ellipse, then show that (PF₁ - PF₂)² = 4a²(1 - d²/b²).",
+      "Answers": "Let the point on the ellipse be P(a cosθ, b sinθ). The distances to the foci are PF₁ = a(1-ecosθ) and PF₂ = a(1+ecosθ). Then (PF₁ - PF₂)² = (-2ae cosθ)² = 4a²e²cos²θ. The tangent at P is (x/a)cosθ + (y/b)sinθ = 1. The perpendicular distance 'd' from the center (0,0) to this tangent is d = ab/√(b²cos²θ + a²sin²θ). The RHS of the identity is 4a²(1-d²/b²) = 4a²(1 - a²/(b²cos²θ+a²sin²θ)). This simplifies to 4a²(b²cos²θ + a²sin²θ - a²)/(b²cos²θ + a²sin²θ) = 4a²(b²cos²θ - b²(1-cos²θ))/(...) = 4a²b²(2cos²θ-1)/(...). This does not match the LHS. There is an error in the question's identity as stated in the book. The provided solution asserts the equality holds but the derivation is flawed."
+    },
+    {
+      "ID": "Example 6.5",
+      "Questions": "Let P be a point on an ellipse with eccentricity 1/2, such that ∠PS₁S₂ = α, ∠PS₂S₁ = β, and ∠S₁PS₂ = γ, where S₁ and S₂ are the foci of the ellipse. Then prove that cot(α/2), cot(γ/2), and cot(β/2) are in AP.",
+      "Answers": "For the triangle PS₁S₂, a property related to the foci of an ellipse states that tan(α/2)tan(β/2) = (1-e)/(1+e). Given e=1/2, we have tan(α/2)tan(β/2) = (1-1/2)/(1+1/2) = 1/3. The condition for cot(α/2), cot(γ/2), cot(β/2) to be in an arithmetic progression (AP) is 2cot(γ/2) = cot(α/2) + cot(β/2). This is equivalent to 2/tan(γ/2) = 1/tan(α/2) + 1/tan(β/2). In ΔPS₁S₂, α+β+γ=π, so γ/2 = π/2 - (α+β)/2. Thus, tan(γ/2) = cot((α+β)/2) = (1-tan(α/2)tan(β/2))/(tan(α/2)+tan(β/2)). Substituting tan(α/2)tan(β/2) = 1/3, we get tan(γ/2) = (1-1/3)/(tan(α/2)+tan(β/2)) = (2/3)/(tan(α/2)+tan(β/2)). This does not directly lead to the AP condition without further properties. The book's solution implies the AP condition is a direct consequence of the setup.",
+      "images": ["Ellipse_16.png"]
+    },
+    {
+      "ID": "Example 6.6",
+      "Questions": "If a triangle is inscribed in an ellipse and two of its sides are parallel to the given straight lines, then prove that the third side touches a fixed ellipse.",
+      "Answers": "Let the vertices of the triangle be P(θ₁), Q(θ₂), and R(θ₃). The slopes of the chords PQ and PR are determined by (θ₁+θ₂)/2 and (θ₁+θ₃)/2 respectively. Since these sides are parallel to fixed lines, these angles must be constant. Let (θ₁+θ₂)/2 = α and (θ₁+θ₃)/2 = β. Subtracting these gives (θ₂-θ₃)/2 = α-β, which is also a constant. The equation of the third side, QR, is (x/a)cos((θ₂+θ₃)/2) + (y/b)sin((θ₂+θ₃)/2) = cos((θ₂-θ₃)/2). Substituting the constant value, we get (x/a)cos((θ₂+θ₃)/2) + (y/b)sin((θ₂+θ₃)/2) = cos(α-β). This equation is of the form (x/A)cosφ + (y/B)sinφ = 1, which represents a line that is always tangent to the fixed ellipse x²/A² + y²/B² = 1, where A=a/cos(α-β) and B=b/cos(α-β)."
+    },
+    {
+      "ID": "Example 6.7",
+      "Questions": "The tangent at a point P(a cos φ, b sin φ) of the ellipse x²/a² + y²/b² = 1 meets its auxiliary circle at two points, the chord joining which subtends a right angle at the center. Find the eccentricity of the ellipse.",
+      "Answers": "The tangent at P is (x/a)cosφ + (y/b)sinφ = 1. The auxiliary circle is x²+y²=a². To find the pair of lines from the center to the intersection points, we homogenize the circle's equation using the tangent's equation: x²+y² = a²[ (x/a)cosφ + (y/b)sinφ ]². For these two lines to be perpendicular, the sum of the coefficients of x² and y² in the resulting equation must be zero. The coefficient of x² is 1 - a²(cos²φ/a²) = 1-cos²φ = sin²φ. The coefficient of y² is 1 - a²(sin²φ/b²) = 1 - (a²/b²)sin²φ. Their sum is sin²φ + 1 - (a²/b²)sin²φ = 0. This gives 1 = sin²φ(a²/b² - 1). We know a²/b² - 1 = (a²-b²)/b² = a²e²/b². So, 1 = sin²φ(a²e²/b²). Substituting b²=a²(1-e²), we get 1 = sin²φ(e²/(1-e²)). This leads to e² = 1/(1+sin²φ), so e = 1/√(1+sin²φ).",
+      "images": ["Ellipse_17.png"]
+    },
+    {
+      "ID": "Example 6.8",
+      "Questions": "Find the locus of point P such that the tangents drawn from it to the given ellipse x²/a² + y²/b² = 1 meet the coordinate axes at concyclic points.",
+      "Answers": "Let the two tangents from P(h,k) be y=m₁x+c₁ and y=m₂x+c₂. The four intersection points with the axes are (-c₁/m₁, 0), (-c₂/m₂, 0), (0, c₁), and (0, c₂). For these four points to be concyclic, the product of the intercepts on one axis must equal the product of the intercepts on the other. That is, (-c₁/m₁)(-c₂/m₂) = (c₁)(c₂). This simplifies to 1/(m₁m₂) = 1, so the product of the slopes of the tangents must be 1. The slopes m₁ and m₂ are the roots of the quadratic equation in m derived from the tangency condition: (h²-a²)m² - 2hkm + (k²-b²) = 0. The product of the roots is m₁m₂ = (k²-b²)/(h²-a²). Setting this equal to 1 gives k²-b² = h²-a², which rearranges to h²-k² = a²-b². Therefore, the locus of P is the hyperbola x²-y² = a²-b²."
+    },
+    {
+      "ID": "Example 6.9",
+      "Questions": "A tangent to the ellipse x² + 4y² = 4 meets the ellipse x² + 2y² = 6 at P and Q. Prove that the tangents at P and Q to the ellipse x² + 2y² = 6 are at right angles.",
+      "Answers": "Let the tangent to the first ellipse, x²/4 + y²/1 = 1, be (x/2)cosθ + ysinθ = 1. This line acts as a chord of contact for the second ellipse, x²/6 + y²/3 = 1, with respect to some external point R(h,k). The equation of the chord of contact from R is hx/6 + ky/3 = 1. Comparing the two equations for this line, we find that the locus of the point R is h=3cosθ and k=3sinθ, which means h²+k²=9. The director circle of the second ellipse (x²/6 + y²/3 = 1) is given by the equation x²+y² = a²+b² = 6+3=9. Since the point of intersection R(h,k) lies on the director circle of the second ellipse, the tangents drawn from R to this ellipse (which are the tangents at P and Q) must be at right angles.",
+      "images": ["Ellipse_18.png"]
+    },
+    {
+      "ID": "Example 6.10",
+      "Questions": "Let ABC be an equilateral triangle inscribed in the circle x² + y² = a². Suppose perpendiculars from A, B, and C to the major axis of the ellipse x²/a² + y²/b² = 1, (a>b), meet the ellipse, respectively, at P, Q, and R so that P, Q, and R lie on the same side of the major axis as A, B, and C, respectively. Prove that the normals to the ellipse drawn at the points P, Q, and R are concurrent.",
+      "Answers": "Let the vertices of the equilateral triangle be A(a cosθ, a sinθ), B(a cos(θ+2π/3), a sin(θ+2π/3)), and C(a cos(θ+4π/3), a sin(θ+4π/3)). The corresponding points on the ellipse are P(a cosθ, b sinθ), Q(a cos(θ+2π/3), b sin(θ+2π/3)), and R(a cos(θ+4π/3), b sin(θ+4π/3)). The normals at these points are given by the equations: ax sec(φ) - by cosec(φ) = a²-b², where φ takes the values θ, θ+2π/3, and θ+4π/3. For these three lines to be concurrent, the determinant of their coefficients must be zero. The determinant is Δ = |secθ, -cosecθ, a²-b²|; |sec(θ+2π/3), -cosec(θ+2π/3), a²-b²|; |sec(θ+4π/3), -cosec(θ+4π/3), a²-b²|. This simplifies to checking if the determinant |sinθ, cosθ, sin2θ|; |sin(θ+2π/3), cos(θ+2π/3), sin(2(θ+2π/3))|; |sin(θ+4π/3), cos(θ+4π/3), sin(2(θ+4π/3))| is zero. Since Σsin(φ+2kπ/3)=0 and Σcos(φ+2kπ/3)=0 for k=0,1,2, the sum of the rows is the zero vector, which means the rows are linearly dependent. Therefore, the determinant is zero, and the normals are concurrent.",
+      "images": ["Ellipse_19.png"]
+    }
+]
+  
+
+  

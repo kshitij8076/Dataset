@@ -1,0 +1,3269 @@
+[
+  
+  {
+    "question_number": 1,
+    "question": "Out of molar entropy (I), specific volume (II), heat capacity (III), volume (IV), extensive properties are :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) I, II",
+      "(b) I, II, IV",
+      "(c) II, III",
+      "(d) III, IV"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "Out of internal energy (I), boiling point (II), pH (III) and E.M.F. of the cell (IV) intensive properties are :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) I, II",
+      "(b) II, III, IV",
+      "(c) I, III, IV",
+      "(d) All of these"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "Thermodynamic equilibrium involves",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Chemical equilibrium",
+      "(b) Mechanical equilibrium",
+      "(c) Thermal equilibrium",
+      "(d) All the above simultaneously"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "Which has maximum internal energy at 290 K?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Neon gas",
+      "(b) Nitrogen gas",
+      "(c) Ozone gas",
+      "(d) Equal"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "A 10 g piece of iron (C = 0.45 J/g°C) at 100°C is dropped into 25 g of water (C = 4.2J/g°C) at 27°C. Find temperature of the iron and water system at thermal equilibrium.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 30°C",
+      "(b) 33°C",
+      "(c) 40°C",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "When freezing of a liquid takes place in a system :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) may have q > 0 or q < 0 depending on the liquid",
+      "(b) is represented by q > 0",
+      "(c) is represented by q < 0",
+      "(d) has q = 0"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "Mechanical work is specially important in systems that contain",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) gas-liquid",
+      "(b) liquid-liquid",
+      "(c) solid-solid",
+      "(d) amalgam"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "Determine which of the following reactions taking place at constant pressure represents system that do work on the surrounding environment\nI. Ag⁺(aq) + Cl⁻(aq) → AgCl(s)\nII. NH₄Cl(s) → NH₃(g) + HCl(g)\nIII. 2NH₃(g) → N₂(g) + 3H₂(g)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) I",
+      "(b) III",
+      "(c) II and III",
+      "(d) I and II"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "Determine which of the following reactions taking place at constant pressure represent surrounding that do work on the system environment\nI. 4NH₃(g) + 7O₂(g) → 4NO₂(g) + 6H₂O(g)\nII. CO(g) + 2H₂(g) → CH₃OH(l)\nIII. C(s, graphite) + H₂O(g) → CO(g) + H₂(g)\nIV. H₂O(s) → H₂O(l)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) III, IV",
+      "(b) II and III",
+      "(c) II, IV",
+      "(d) I and II, IV"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "A sample of liquid in a thermally insulated container (a calorimeter) is stirred for 2 hr. by a mechanical linkage to a motor in the surrounding, for this process :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) w < 0; q = 0; ΔU = 0",
+      "(b) w > 0; q > 0; ΔU > 0",
+      "(c) w < 0; q > 0; ΔU = 0",
+      "(d) w > 0; q = 0; ΔU > 0"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "A system undergoes a process in which ΔE = + 300 J while absorbing 400 J of heat energy and undergoing an expansion against 0.5 bar. What is the change in the volume (in L)?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 4",
+      "(b) 5",
+      "(c) 2",
+      "(d) 3"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "An ideal gas expands against a constant external pressure of 2.0 atmosphere from 20 litre to 40 litre and absorbs 10 kJ of heat from surrounding. What is the change in internal energy of the system? (Given: 1 atm-litre = 101.3 J)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 4052 J",
+      "(b) 5948 J",
+      "(c) 14052 J",
+      "(d) 9940 J"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "One mole of an ideal gas at 25°C expands in volume from 1.0 L to 4.0 L at constant temperature. What work (in J) is done if the gas expands against vacuum (P_external = 0)?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -4.0 x 10²",
+      "(b) -3.0 x 10²",
+      "(c) -1.0 x 10²",
+      "(d) Zero"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "At 25°C, a 0.01 mole sample of a gas is compressed from 4.0 L to 1.0 L at constant temperature. What is the work done for this process if the external pressure is 4.0 bar?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.6 x 10³ J",
+      "(b) 8.0 × 10² J",
+      "(c) 4.0 × 10² J",
+      "(d) 1.2 × 10³ J"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "Calculate the work done (in J) when 4.5 g of H₂O₂ reacts against a pressure of 1.0 atm at 25°C\n2H₂O₂(l) → O₂(g) + 2H₂O(l)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -1.63 x 10²",
+      "(b) 4.5 x 10²",
+      "(c) 3.2 x 10²",
+      "(d) -6.1 x 10²"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "2 mole of zinc is dissolved in HCl at 25°C. The work done in open vessel is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -2.477 kJ",
+      "(b) -4.955 kJ",
+      "(c) 0.0489 kJ",
+      "(d) None"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "Temperature of 1 mole of a gas is increased by 2°C at constant pressure, work done is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) R",
+      "(b) 2R",
+      "(c) R/2",
+      "(d) 3R"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question": "A sample of an ideal gas is expanded 1 m³ to 3 m³ in a reversible process for which P = KV², with K = 6 bar/m⁶. Work done by the gas is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 5200 kJ",
+      "(b) 15600 kJ",
+      "(c) 52 kJ",
+      "(d) 5267.6 kJ"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question": "A given mass of gas expands reversibly from the state A to the state B by three paths 1, 2 and 3 as shown in the P-V diagram. If w₁, w₂ and w₃ respectively be the work done by the gas along three paths then:\n[Image of a P-V diagram where pressure is on the y-axis and volume on the x-axis. The gas expands from state A (high P, low V) to state B (low P, high V) via three different paths labeled 1, 2, and 3. Path 3 is the uppermost curve, path 2 is in the middle, and path 1 is the lowermost curve.]",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_1.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) w₁ > w₂ > w₃",
+      "(b) w₁ < w₂ < w₃",
+      "(c) w₁ = w₂ = w₃",
+      "(d) w₂ < w₃ < w₁"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "Heat absorbed by a system in going through a cyclic process shown in figure is :\n[Image of a V-P diagram where volume V (in L) is on the y-axis and pressure P (in kPa) is on the x-axis. The process follows a circular path. The circle is centered at (P=20 kPa, V=20 L) and has a radius of 10 units on both axes, so P ranges from 10 to 30 kPa and V ranges from 10 to 30 L.]",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_2.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 10⁷ π J",
+      "(b) 10⁶ π J",
+      "(c) 10² π J",
+      "(d) 10⁴ π J"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question": "In the cyclic process shown in P-V diagram, the magnitude of the work done is :\n[Image of a P-V diagram with a circular path. The P-axis ranges from P₁ to P₂. The V-axis ranges from V₁ to V₂. The circle's vertical diameter is (P₂ - P₁) and horizontal diameter is (V₂ - V₁).]",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_3.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) π((P₂ - P₁)/2)²",
+      "(b) π((V₂ - V₁)/2)²",
+      "(c) (π/4)(P₂ - P₁)(V₂ - V₁)",
+      "(d) π(V₂ - V₁)²"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question": "An ideal gas is taken around the cycle ABCA as shown in P-V diagram. The net work done during the cycle is equal to :\n[Image of a P-V diagram with a triangular cycle ABCA. The coordinates are A=(V₁, P₁), B=(V₁, 6P₁), C=(3V₁, P₁). The path is A to B (isochoric), B to C (linear), and C to A (isobaric).]",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_4.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 12P₁V₁",
+      "(b) 6P₁V₁",
+      "(c) 5P₁V₁",
+      "(d) P₁V₁"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question": "An ideal gas is at pressure P and temperature T in a box, which is kept in vacuum with in a large container. The wall of the box is punctured. What happens as the gas occupies entire container?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) It's temperature falls",
+      "(b) Its temperature rises",
+      "(c) Its temperature remains the same",
+      "(d) Unpredictable"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question": "In diagrams (1 to 4), variation of volume with changing pressure is shown. A gas is taken along the path ABCD. The change in internal energy of the gas will be :\n[Four V-P diagrams are shown, each depicting a path ABCD. In all four diagrams, the points A and D are the same, indicating they are all cyclic processes (A→B→C→D→A).]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Positive in all the cases (1) to (4)",
+      "(b) Positive in cases (1), (2), (3) but zero in case (4)",
+      "(c) Negative in cases (1), (2), (3) but zero in case (4)",
+      "(d) Zero in all the cases"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question": "If the door of a refrigerator is kept open, the room in which the refrigerator is kept",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) gets cooled",
+      "(b) gets heated",
+      "(c) neither gets cooled nor gets heated",
+      "(d) gets cooled or heated depending on the initial temperature of the room"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question": "The temperature of an ideal gas increases in an :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) adiabatic expansion",
+      "(b) isothermal expansion",
+      "(c) adiabatic compression",
+      "(d) isothermal compression"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question": "For two mole of an ideal gas:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Cᵥ - Cₚ = R",
+      "(b) Cₚ - Cᵥ = 2R",
+      "(c) Cₚ - Cᵥ = R",
+      "(d) Cᵥ - Cₚ = 2R"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question": "Which of the following expressions is true for an ideal gas ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (∂U/∂V)ₜ = 0",
+      "(b) (∂H/∂T)ᵥ = 0",
+      "(c) (∂H/∂V)ₜ = 0",
+      "(d) (∂U/∂T)ₚ = 0"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question": "Liquefied oxygen at 1 atmosphere is heated from 50 K to 300 K by supplying heat at a constant rate. The graph that correctly shows the relationship between temperature and time is :\n[The process involves heating a liquid, then boiling it at a constant temperature, then heating the resulting gas. A graph of Temperature (T) vs. time (t) should show a segment with a positive slope (liquid heating), followed by a horizontal segment (boiling), followed by another segment with a positive slope (gas heating).]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) A graph showing T increasing with t, then a plateau, then T increasing again.",
+      "(b) A graph showing T increasing with t with a curve.",
+      "(c) A graph showing T increasing with t, with a sharp corner, then increasing again.",
+      "(d) A graph showing T increasing with t, then a plateau, then T increasing with a different slope."
+    ]
+  },
+  {
+    "question_number": 30,
+    "question": "If w₁, w₂, w₃ and w₄ for an ideal gas are magnitude of work done in isothermal, adiabatic, isobaric and isochoric reversible expansion processes, the correct order will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) w₁ > w₂ > w₃ > w₄",
+      "(b) w₃ > w₂ > w₁ > w₄",
+      "(c) w₃ > w₂ > w₄ > w₁",
+      "(d) w₃ > w₁ > w₂ > w₄"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question": "For a closed container containing 100 mole of an ideal gas fitted with movable, frictionless, weightless piston operating such that pressure of gas remains constant at 8.21 atm, which graph represents correct variation of log V vs. log T where V is in litre and T is in kelvin.\n[At constant pressure for an ideal gas, V ∝ T. Taking logarithms, log V = log T + constant. This is an equation of a straight line y = x + c, which has a slope of 1 (angle of 45°) and a positive y-intercept.]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) A log V vs. log T graph showing a straight line with a slope of 1 (45° angle) passing through the origin.",
+      "(b) A log V vs. log T graph showing a straight line with a slope less than 1 (30° angle).",
+      "(c) A log V vs. log T graph showing a straight line with a slope of 1 (45° angle) and a positive y-intercept.",
+      "(d) A log V vs. log T graph showing a straight line with a slope greater than 1."
+    ]
+  },
+  {
+    "question_number": 32,
+    "question": "A gas expands against a variable pressure given by P = 20/V (where P in atm and V in L). During expansion from volume of 1 litre to 10 litre, the gas undergoes a change in internal energy of 400 J. How much heat is absorbed by the gas during expansion?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 46 J",
+      "(b) 4660 J",
+      "(c) 5065.8 J",
+      "(d) 4260 J"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question": "2 mole of an ideal gas at 27°C expands isothermally and reversibly from a volume of 4 litre to 40 litre. The work done (in kJ) by the gas is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) w = -28.72 kJ",
+      "(b) w = -11.488 kJ",
+      "(c) w = -5.736 kJ",
+      "(d) w = -4.988 kJ"
+    ]
+  },
+    {
+    "question_number": 34,
+    "question": "10 mole of ideal gas expand isothermally and reversibly from a pressure of 10 atm to 1 atm at 300 K. What is the largest mass which can be lifted through a height of 100 meter?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 31842 kg",
+      "(b) 58.55 kg",
+      "(c) 342.58 kg",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question": "A heat engine carries one mole of an ideal mono-atomic gas around the cycle as shown in the figure. Select the correct option:\n[Image of a P-V diagram with a cycle A→B→C→A. A is at (V₁, T₁=300K). B is at (V₁, T₂=600K). C is at (V₂, T₃=450K). Process A→B is isochoric. Process C→A is isobaric.]",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_5.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) q_AB = 450 R and q_CA = -450 R",
+      "(b) q_AB = 450 R and q_CA = -225 R",
+      "(c) q_AB = 450 R and q_CA = -375 R",
+      "(d) q_AB = 375 R and q_CA = -450 R"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question": "What is the final temperature of 0.10 mole monoatomic ideal gas that performs 75 cal of work adiabatically if the initial temperature is 227°C? (use R = 2 cal/K-mol)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 250 K",
+      "(b) 300 K",
+      "(c) 350 K",
+      "(d) 750 K"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question": "The work done by the gas in reversible adiabatic expansion process is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (P₂V₂ - P₁V₁)/(γ - 1)",
+      "(b) nR(T₁ - T₂)/(γ - 1)",
+      "(c) (P₂V₂ - P₁V₁)/γ",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question": "During an adiabatic process, the pressure of gas is found to be proportional to the cube of its absolute temperature. The ratio of (C_p,m / C_v,m) for gas is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 3/2",
+      "(b) 5/3",
+      "(c) 7/2",
+      "(d) 4/3"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question": "A gas expands adiabatically at constant pressure such that T ∝ V⁻¹/²\nThe value of γ (C_p,m / C_v,m) of the gas will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.30",
+      "(b) 1.50",
+      "(c) 1.70",
+      "(d) 2"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question": "For a reversible adiabatic ideal gas expansion dP/P is equal to :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) γ(dV/V)",
+      "(b) -γ(dV/V)",
+      "(c) (γ/(γ-1))(dV/V)",
+      "(d) dV/V"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question": "P-V plot for two gases (assuming ideal) during adiabatic processes are given in the Fig. Plot A and plot B should correspond respectively to:\n[Image of a P-V diagram showing two adiabatic expansion curves starting from the same initial state. Curve A is steeper than curve B.]",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_6.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) He and H₂",
+      "(b) H₂ and He",
+      "(c) He and Ne",
+      "(d) H₂ and Cl₂"
+    ]
+  },
+  {
+    "question_number": 42,
+    "question": "Calculate the final temperature of a monoatomic ideal gas that is compressed reversible and adiabatically from 16 L to 2 L at 300 K :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 600 K",
+      "(b) 1044.6 K",
+      "(c) 1200 K",
+      "(d) 2400 K"
+    ]
+  },
+    {
+    "question_number": 43,
+    "question": "5 mole of an ideal gas expand isothermally and irreversibly from a pressure of 10 atm to 1 atm against a constant external pressure of 1 atm. w_irr at 300 K is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -15.921 kJ",
+      "(b) -11.224 kJ",
+      "(c) -110.83 kJ",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question": "With what minimum pressure (in kPa), a given volume of an ideal gas (C_p,m = 7/2 R), originally at 400 K and 100 kPa pressure can be compressed irreversibly adiabatically in order to raise its temperature to 600 K :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 362.5 kPa",
+      "(b) 275 kPa",
+      "(c) 437.5 kPa",
+      "(d) 550 kPa"
+    ]
+  },
+  {
+    "question_number": 45,
+    "question": "The work done in adiabatic compression of 2 mole of an ideal monoatomic gas against constant external pressure of 2 atm starting from initial pressure of 1 atm and initial temperature of 300 K (R = 2 cal/mol-degree)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 360 cal",
+      "(b) 720 cal",
+      "(c) 800 cal",
+      "(d) 1000 cal"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question": "One mole of an ideal gas (C_v,m = 5/2 R) at 300 K and 5 atm is expanded adiabatically to a final pressure of 2 atm against a constant pressure of 2 atm. Final temperature of the gas is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 270 K",
+      "(b) 273 K",
+      "(c) 248.5 K",
+      "(d) 200 K"
+    ]
+  },
+  {
+    "question_number": 47,
+    "question": "10 litre of a non linear polyatomic ideal gas at 127°C and 2 atm pressure is suddenly released to 1 atm pressure and the gas expanded adiabatically against constant external pressure, the final temperature and volume of the gas respectively are.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) T = 350K; V = 17.5L",
+      "(b) T = 300K; V = 15L",
+      "(c) T = 250K; V = 12.5L",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 48,
+    "question": "Calculate average molar heat capacity at constant volume of gaseous mixture contained 2 mole of each of two ideal gases A (C_v,m = 3/2 R) and B (C_v,m = 5/2 R) :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) R",
+      "(b) 2R",
+      "(c) 3R",
+      "(d) 8R"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question": "0.5 mole each of two ideal gases A (C_v,m = 5/2 R) and B (C_v,m = 3R) are taken in a container and expanded reversibly and adiabatically, during this process temperature of gaseous mixture decreased from 350 K to 250 K. Find ΔH (in cal/mol) for the process :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -100 R",
+      "(b) -137.5 R",
+      "(c) -375 R",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question": "A cyclic process ABCD is shown in P-V diagram for an ideal gas. Which of the following diagram represents the same process?\n[Image of a P-V diagram with a rectangular cycle ABCD, traversed clockwise. A→B is isobaric expansion. B→C is isochoric pressure drop. C→D is isobaric compression. D→A is isochoric pressure increase.]",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_7.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) A V-T diagram.",
+      "(b) A V-T diagram showing the corresponding cycle.",
+      "(c) A V-T diagram.",
+      "(d) A V-T diagram."
+    ]
+  },
+    {
+    "question_number": 51,
+    "question": "36 mL of pure water takes 100 sec to evaporate from a vessel and heater connected to an electric source which delivers 806 watt. The ΔH_vaporization of H₂O is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 40.3 kJ/mol",
+      "(b) 43.2 kJ/mol",
+      "(c) 4.03 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 52,
+    "question": "For the reaction: PCl₅(g) → PCl₃(g) + Cl₂(g):",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔH = ΔE",
+      "(b) ΔH > ΔE",
+      "(c) ΔH < ΔE",
+      "(d) None of the above"
+    ]
+  },
+  {
+    "question_number": 53,
+    "question": "Consider the reaction at 300 K\nH₂(g) + Cl₂(g) → 2HCl(g); ΔH° = -185 kJ\nIf 2 mole of H₂ completely react with 2 mole of Cl₂ to form HCl. What is ΔU° for this reaction?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0",
+      "(b) -185 kJ",
+      "(c) 370 kJ",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 54,
+    "question": "Which of the indicated relationship is correct for the following exothermic reaction carried out at constant pressure?\nCO(g) + 3H₂(g) → CH₄(g) + H₂O(g)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔE = ΔH",
+      "(b) ΔE > ΔH",
+      "(c) w < 0",
+      "(d) q > 0"
+    ]
+  },
+  {
+    "question_number": 55,
+    "question": "One mole of an ideal gas undergoes a change of state (2.0 atm, 3.0 L) to (2.0 atm, 7.0 L) with a change in internal energy (ΔU) = 30 L-atm. The change in enthalpy (ΔH) of the process in L-atm:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 22",
+      "(b) 38",
+      "(c) 25",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 56,
+    "question": "What is the change in internal energy when a gas contracts from 377 mL to 177 mL under a constant pressure of 1520 torr, while at the same time being cooled by removing 124 J heat?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 40.52 J",
+      "(b) -83.48 J",
+      "(c) -248 J",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 57,
+    "question": "For the real gases reaction 2CO(g) + O₂(g) → 2CO₂(g); ΔH = – 560 kJ. In 10 litre rigid vessel at 500 K the initial pressure is 70 bar and after the reaction it becomes 40 bar. The change in internal energy is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -557 kJ",
+      "(b) -530 kJ",
+      "(c) -563 kJ",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 58,
+    "question": "One mole of a non-ideal gas undergoes a change of state from (1.0 atm, 3.0 L, 200 K) to (4.0 atm, 5.0 L, 250 K) with a change in internal energy (ΔU) = 40 L-atm. The change in enthalpy of the process in L-atm :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 43",
+      "(b) 57",
+      "(c) 42",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 59,
+    "question": "Consider the reaction at 300 K\nC₆H₆(l) + 15/2 O₂(g) → 6CO₂(g) + 3H₂O(l); ΔH = -3271 kJ\nWhat is ΔU for the combustion of 1.5 mole of benzene at 27°C?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -3267.25 kJ",
+      "(b) -4900.88 kJ",
+      "(c) -4906.5 kJ",
+      "(d) -3274.75 kJ"
+    ]
+  },
+  {
+    "question_number": 60,
+    "question": "For the reaction; FeCO₃(s) → FeO(s) + CO₂(g); ΔH = 82.8 kJ at 25°C, what is (ΔE or ΔU) at 25°C?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 82.8 kJ",
+      "(b) 80.32 kJ",
+      "(c) -2394.77 kJ",
+      "(d) 85.28 kJ"
+    ]
+  },
+  {
+    "question_number": 61,
+    "question": "At 5 × 10⁵ bar pressure density of diamond and graphite are 3 g/cc and 2 g/cc respectively, at certain temperature 'T'. Find the value of ΔU – ΔH for the conversion of 1 mole of graphite to 1 mole of diamond at temperature 'T':",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 100 kJ/mol",
+      "(b) 50 kJ/mol",
+      "(c) -100 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 62,
+    "question": "Predict which of the following reaction(s) has a positive entropy change?\nI. Ag⁺(aq) + Cl⁻(aq) → AgCl(s)\nII. NH₄Cl(s) → NH₃(g) + HCl(g)\nIII. 2NH₃(g) → N₂(g) + 3H₂(g)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) I and II",
+      "(b) III",
+      "(c) II and III",
+      "(d) II"
+    ]
+  },
+  {
+    "question_number": 63,
+    "question": "Predict which of the following reaction(s) has a negative entropy change?\nI. CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)\nII. NH₃(g) + HCl(g) → NH₄Cl(s)\nIII. 2KClO₄(s) → 2KClO₃(s) + O₂(g)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) III",
+      "(b) II",
+      "(c) I and II",
+      "(d) I"
+    ]
+  },
+  {
+    "question_number": 64,
+    "question": "Which of the following reactions is associated with the most negative change in entropy?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2SO₂(g) + O₂(g) → 2SO₃(g)",
+      "(b) C₂H₄(g) + H₂(g) → C₂H₆(g)",
+      "(c) C(s, graphite) + O₂(g) → CO₂(g)",
+      "(d) 3C₂H₂(g) → C₆H₆(l)"
+    ]
+  },
+  {
+    "question_number": 65,
+    "question": "When two mole of an ideal gas (C_p,m = 5/2 R) heated from 300 K to 600 K at constant pressure. The change in entropy of gas (ΔS) is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (3/2)R ln 2",
+      "(b) -(3/2)R ln 2",
+      "(c) 5R ln 2",
+      "(d) (5/2)R ln 2"
+    ]
+  },
+  {
+    "question_number": 66,
+    "question": "Which of the following expression for an irreversible process :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) dS > dq/T",
+      "(b) dS = dq/T",
+      "(c) dS < dq/T",
+      "(d) dS = dU/T"
+    ]
+  },
+  {
+    "question_number": 67,
+    "question": "Which of the following expressions is known as Clausius inequality ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ∮dq/T ≤ 0",
+      "(b) ∮dS = 0",
+      "(c) ∮dq/T ≤ 0",
+      "(d) ∮dq/T ≥ 0"
+    ]
+  },
+  {
+    "question_number": 68,
+    "question": "In problem 65, calculate ΔS_gas if process is carried out at constant volume :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 5R ln 2",
+      "(b) (3/2)R ln 2",
+      "(c) 3 R ln 2",
+      "(d) -3 R ln 2"
+    ]
+  },
+  {
+    "question_number": 69,
+    "question": "If one mole of an ideal gas (C_p,m = 5/2 R) is expanded isothermally at 300 until it's volume is tripled, then change in entropy of gas is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) zero",
+      "(b) infinity",
+      "(c) (5/2)R ln 3",
+      "(d) R ln 3"
+    ]
+  },
+  {
+    "question_number": 70,
+    "question": "In previous problem if expansion is carried out freely (P_ext = 0), then ΔS is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) zero",
+      "(b) infinity",
+      "(c) R ln 3",
+      "(d) None"
+    ]
+  },
+  {
+    "question_number": 71,
+    "question": "When one mole of an ideal gas is compressed to half of its initial volume and simultaneously heated to twice its initial temperature, the change in entropy of gas (ΔS) is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) C_p,m ln 2",
+      "(b) C_v,m ln 2",
+      "(c) R ln 2",
+      "(d) (C_v,m - R) ln 2"
+    ]
+  },
+  {
+    "question_number": 72,
+    "question": "What is the change in entropy when 2.5 mole of water is heated from 27°C to 87°C? Assume that the heat capacity is constant. (C_p,m(H₂O) = 4.2 J/g-K ln(1.2) = 0.18)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 16.6 J/K",
+      "(b) 9 J/K",
+      "(c) 34.02 J/K",
+      "(d) 1.89 J/K"
+    ]
+  },
+
+  {
+    "question_number": 73,
+    "question": "Calculate standard entropy change in the reaction\nFe₂O₃(s) + 3H₂(g) → 2Fe(s) + 3H₂O(l)\nGiven: S°m(Fe₂O₃, S) = 87.4, S°m(Fe, S) = 27.3, S°m(H₂, g) = 130.7, S°m(H₂O, l) = 69.9 JK⁻¹ mol⁻¹",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -212.5 JK⁻¹ mol⁻¹",
+      "(b) -215.2 JK⁻¹ mol⁻¹",
+      "(c) -120.9 JK⁻¹ mol⁻¹",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 74,
+    "question": "Calculate the entropy change (J/mol K) of the given reaction. The molar entropies [J/K-mol] are given in brackets after each substance.\n2PbS(s)[91.2] + 3O₂(g)[205.1] → 2PbO(s)[66.5] + 2SO₂(g)[248.2]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -113.5",
+      "(b) -168.3",
+      "(c) +72.5",
+      "(d) -149.2"
+    ]
+  },
+  {
+    "question_number": 75,
+    "question": "Given Δ_rS° = -266 and the listed [S°m values] calculate S° for Fe₃O₄(s):\n4Fe₃O₄(s)[...] + O₂(g)[205] → 6Fe₂O₃(s)[87]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) +111.1",
+      "(b) +122.4",
+      "(c) 145.75",
+      "(d) 248.25"
+    ]
+  },
+  {
+    "question_number": 76,
+    "question": "The entropy change for a phase transformation is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔU / (γ + dT)",
+      "(b) ΔT / ΔH",
+      "(c) ΔH / T",
+      "(d) (ΔH + ΔG) / T"
+    ]
+  },
+  {
+    "question_number": 77,
+    "question": "What is the melting point of benzene if ΔH_fusion = 9.95 kJ/mol and ΔS_fusion = 35.7 J/K-mol?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 278.7°C",
+      "(b) 278.7 K",
+      "(c) 300 K",
+      "(d) 298 K"
+    ]
+  },
+  {
+    "question_number": 78,
+    "question": "ΔS for freezing of 10 g of H₂O(l) (enthalpy of fusion is 80 cal/g) at 0°C and 1 atm is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 12.25 J/K",
+      "(b) -0.244 J/K",
+      "(c) -2.93 J/K",
+      "(d) -12.25 J/K"
+    ]
+  },
+  {
+    "question_number": 79,
+    "question": "Chloroform has ΔH_vaporization = 29.2 kJ/mol and boils at 61.2°C. What is the value of ΔS_vaporization for chloroform?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 87.3 J/mol-K",
+      "(b) 477.1 J/mol-K",
+      "(c) -87.3 J/mol-K",
+      "(d) -477.1 J/mol-K"
+    ]
+  },
+  {
+    "question_number": 80,
+    "question": "The entropy of vaporization of benzene is 85 JK⁻¹ mol⁻¹. When 117g benzene vaporizes at its normal boiling point, the entropy change of surrounding is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -85 JK⁻¹",
+      "(b) -85 × 1.5 JK⁻¹",
+      "(c) 85 x 1.5 JK⁻¹",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 81,
+    "question": "Identify the correct statement regarding entropy",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) At absolute zero temperature, the entropy of perfectly crystalline substances is +ve",
+      "(b) At absolute zero temperature entropy of perfectly crystalline substance is taken to be zero",
+      "(c) At 0°C the entropy of a perfectly crystalline substance is taken to be zero",
+      "(d) At absolute zero temperature, the entropy of all crystalline substances is taken to be zero"
+    ]
+  },
+  {
+    "question_number": 82,
+    "question": "Calculate ΔS for following process: X(s) at 100K → X(l) at 200K. Given: Melting point of X(s) = 100K; ΔH_Fusion = 20kJ/mol; C_p,m(X, l) = 10J/mol.K",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 26.93 J/K",
+      "(b) 206.93 J/K",
+      "(c) 203 J/K",
+      "(d) 206.93 kJ/K"
+    ]
+  },
+  {
+    "question_number": 83,
+    "question": "For a perfectly crystalline solid C_p,m = aT³, where a is constant. If C_p,m is 0.42 J/K mol at 10 K, molar entropy at 20 K is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.42 J/K mol",
+      "(b) 0.14 J/K mol",
+      "(c) 1.12 J/K mol",
+      "(d) zero"
+    ]
+  },
+  {
+    "question_number": 84,
+    "question": "Consider the following spontaneous reaction 3X₂(g) → 2X₃(g). What are the sign of ΔH, ΔS and ΔG for the reaction?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) +ve, +ve, +ve",
+      "(b) +ve, -ve, -ve",
+      "(c) -ve, +ve, -ve",
+      "(d) -ve, -ve, -ve"
+    ]
+  },
+  {
+    "question_number": 85,
+    "question": "For the reaction 2H(g) → H₂(g), the sign of ΔH and ΔS respectively are :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) +, -",
+      "(b) +, +",
+      "(c) -, +",
+      "(d) -, -"
+    ]
+  },
+  {
+    "question_number": 86,
+    "question": "Consider the following reaction. C₆H₆(l) + 15/2 O₂(g) → 6CO₂(g) + 3H₂O(g). signs of ΔH, ΔS and ΔG for the above reaction will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) +, -, +",
+      "(b) -, +, -",
+      "(c) -, +, +",
+      "(d) +, +, -"
+    ]
+  },
+  {
+    "question_number": 87,
+    "question": "Consider the following reaction at temperature T: CH₂=CH₂(g) + Cl₂(g) → ClCH₂CH₂Cl(g). Δ_rH° = -217.5 kJ/mol, Δ_rS° = -233.9 J/K-mol. Reaction is supported by :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) entropy",
+      "(b) enthalpy",
+      "(c) both (a) & (b)",
+      "(d) neither"
+    ]
+  },
+  {
+    "question_number": 88,
+    "question": "For a process to be spontaneous at constant T and P:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (ΔG)_system must be negative",
+      "(b) (ΔG)_system must be positive",
+      "(c) (ΔS)_system must be positive",
+      "(d) (ΔS)_system must be negative"
+    ]
+  },
+  {
+    "question_number": 89,
+    "question": "For a reaction to occur spontaneously :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔS must be negative",
+      "(b) (-ΔH + TΔS) must be positive",
+      "(c) ΔH + TΔS must be negative",
+      "(d) ΔH must be negative"
+    ]
+  },
+  {
+    "question_number": 90,
+    "question": "Which of the following conditions regarding a chemical process ensures its spontaneity at all temperature?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔH > 0, ΔG < 0",
+      "(b) ΔH < 0, ΔS > 0",
+      "(c) ΔH < 0, ΔS < 0",
+      "(d) ΔH > 0, ΔS < 0"
+    ]
+  },
+  {
+    "question_number": 91,
+    "question": "The free energy change ΔG = 0, when",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) the system is at equilibrium",
+      "(b) catalyst is added",
+      "(c) reactants are initially mixed thoroughly",
+      "(d) the reactants are completely consumed"
+    ]
+  },
+  {
+    "question_number": 92,
+    "question": "Which of the following conditions will always lead to a non-spontaneous change?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔH and ΔS both +ve",
+      "(b) ΔH is -ve and ΔS is +ve",
+      "(c) ΔH and ΔS both -ve",
+      "(d) ΔH is +ve and ΔS is -ve"
+    ]
+  },
+  {
+    "question_number": 93,
+    "question": "Suppose that a reaction has ΔH = -40 kJ and ΔS = -50 J/K. At what temperature range will it change from spontaneous to non-spontaneous?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.8 K to 1 K",
+      "(b) 799 K to 800 K",
+      "(c) 800 K to 801 K",
+      "(d) 799 K to 801 K"
+    ]
+  },
+  {
+    "question_number": 94,
+    "question": "For isothermal expansion in case of an ideal gas :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔG = ΔS",
+      "(b) ΔG = ΔH",
+      "(c) ΔG = -T.ΔS",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 95,
+    "question": "What is the normal boiling point of mercury? Given: ΔH_f°(Hg, l) = 0; S°(Hg, l) = 77.4 J/K-mol, ΔH_f°(Hg, g) = 60.8 kJ/mol; S°(Hg, g) = 174.4 J/K-mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 624.8 K",
+      "(b) 626.8 K",
+      "(c) 636.8 K",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 96,
+    "question": "18 gm of ice is converted into water at 0°C and 1 atm. The entropies of H₂O(s) and H₂O(l) are 38.2 and 60 J/mol K respectively. The enthalpy change for this conversion is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 5951.4 J/mol",
+      "(b) 595.14 J/mol",
+      "(c) -5951.4 J/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 97,
+    "question": "Using the listed [ΔG_f° values] calculate ΔG° for the reaction: 3H₂S(g)[-33.6] + 2HNO₃(l)[-80.6] → 2NO(g)[+86.6] + 4H₂O(l)[-237.1] + 3S(s)[0.0]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -513.0",
+      "(b) -1037.0",
+      "(c) +433.4",
+      "(d) +225.0"
+    ]
+  },
+  {
+    "question_number": 98,
+    "question": "From the following ΔH° and ΔS° values, predict which of reactions I, II, and III would be spontaneous at 25°C.\nI. ΔH° = +10.5 kJ, ΔS° = +30 J/K\nII. ΔH° = +1.8 kJ, ΔS° = -113 J/K\nIII. ΔH° = -126 kJ, ΔS° = +84 J/K",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) III",
+      "(b) I",
+      "(c) II and III",
+      "(d) I and II"
+    ]
+  },
+  {
+    "question_number": 99,
+    "question": "Calculate ΔH_f° for UBr₄ from the ΔG° of reaction and the S° values. U(s) + 2Br₂(l) → UBr₄(s); ΔG° = -788.6 kJ; S°(J/K-mol) 50.3, 152.3, 242.6",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -822.1 kJ/mol",
+      "(b) -841.2 kJ/mol",
+      "(c) -775.6 kJ/mol",
+      "(d) -804.3 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 100,
+    "question": "The entropies of H₂(g) and H(g) are 130.6 and 114.6 J mol⁻¹ K⁻¹ respectively at 298 K. Using the data given below calculate the bond energy of H₂ (in kJ/mol) : H₂(g) → 2H(g); ΔG° = 406.6 kJ",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 377.2",
+      "(b) 436.0",
+      "(c) 425.5",
+      "(d) 430.5"
+    ]
+  },
+  {
+    "question_number": 101,
+    "question": "Consider the ΔG_f° and ΔH_f° (kJ/mol) for the following oxides. Which oxide can be most easily decomposed to form the metal and oxygen gas?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ZnO (ΔG° = −318.4, ΔH° = −348.3)",
+      "(b) Cu₂O (ΔG° = −146.0, ΔH° = -168.8)",
+      "(c) HgO (ΔG° = −58.5, ΔH° = -90.8)",
+      "(d) PbO (ΔG° = −187.9, ΔH° = -217.3)"
+    ]
+  },
+  {
+    "question_number": 102,
+    "question": "Which of the following option is correct ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (∂lnK_p/∂T) = ΔH°/RT²",
+      "(b) (∂lnK/∂T) = E_a/RT²",
+      "(c) (∂lnK_p/∂T) = ΔU/RT²",
+      "(d) All of these"
+    ]
+  },
+  {
+    "question_number": 103,
+    "question": "Calculate ΔG° (kJ/mol) at 127°C for a reaction with K_equilibrium = 10⁵ :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -38.294",
+      "(b) -16.628",
+      "(c) -9.16",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 104,
+    "question": "When reaction is carried out at standard states then at the equilibrium :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔH° = 0",
+      "(b) ΔS° = 0",
+      "(c) equilibrium constant K = 0",
+      "(d) equilibrium constant K = 1"
+    ]
+  },
+  {
+    "question_number": 105,
+    "question": "At 25°C, ΔG° for the process H₂O(l) ⇌ H₂O(g) is 8.6 kJ. The vapour pressure of water at this temperature, is nearly :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 24 torr",
+      "(b) 285 torr",
+      "(c) 32.17 torr",
+      "(d) 100 torr"
+    ]
+  },
+  {
+    "question_number": 106,
+    "question": "For the auto-ionization of water at 25°C, H₂O(l) ⇌ H⁺(aq) + OH⁻(aq) equilibrium constant is 10⁻¹⁴. What is ΔG° for the process?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ≈ 8 × 10⁴ J",
+      "(b) ≈ 3.5 × 10⁴ J",
+      "(c) ≈ 10⁴ J",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 107,
+    "question": "The molar entropies of HI(g), H(g) and I(g) at 298 K are 206.5, 114.6, and 180.7 J mol⁻¹ K⁻¹ respectively. Using the ΔG° given below, calculate the bond energy of HI. HI(g) → H(g) + I(g); ΔG° = 271.8 kJ",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 282.4",
+      "(b) 298.3",
+      "(c) 290.1",
+      "(d) 315.4"
+    ]
+  },
+  {
+    "question_number": 108,
+    "question": "Hess's law states that :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) the standard enthalpy of an overall reaction is the sum of the enthalpy changes in individual reactions.",
+      "(b) enthalpy of formation of a compound is same as the enthalpy of decomposition of the compound into constituent elements, but with opposite sign.",
+      "(c) at constant temperature the pressure of a gas is inversely proportional to its volume",
+      "(d) the mass of a gas dissolved per litre of a solvent is proportional to the pressure of the gas in equilibrium with the solution"
+    ]
+  },
+  {
+    "question_number": 109,
+    "question": "An imaginary reaction X → Y takes place in three steps\nX → A, ΔH = -q₁; B → A, ΔH = -q₂; B → Y, ΔH = -q₃\nIf Hess' law is applicable, then the heat of the reaction (X → Y) is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) q₁ - q₂ + q₃",
+      "(b) q₂ - q₃ - q₁",
+      "(c) q₁ - q₂ - q₃",
+      "(d) q₃ - q₂ - q₁"
+    ]
+  },
+  {
+    "question_number": 110,
+    "question": "The enthalpy change for a reaction does not depend upon :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) the physical states of reactants and products",
+      "(b) use of different reactants for the same product",
+      "(c) the number of intermediate reaction steps",
+      "(d) the differences in initial or final temperatures of involved substances"
+    ]
+  },
+  {
+    "question_number": 111,
+    "question": "The standard enthalpy of formation of gaseous H₂O at 298 K is -241.82kJ/mol. Calculate ΔH° at 373 K given the following values of the molar heat capacities at constant pressure : H₂O(g) = 33.58 JK⁻¹ mol⁻¹; H₂(g) = 29.84 JK⁻¹ mol⁻¹; O₂(g) = 29.37 JK⁻¹ mol⁻¹. Assume that the heat capacities are independent of temperature :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -242.6 kJ/mol",
+      "(b) -485.2 kJ/mol",
+      "(c) -121.3 kJ/mol",
+      "(d) -286.4 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 112,
+    "question": "Which of the following value of ΔH_f° represent that the product is least stable ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -94.0 kcal mol⁻¹",
+      "(b) -231.6 kcal mol⁻¹",
+      "(c) +21.4 kcal mol⁻¹",
+      "(d) +64.8 kcal mol⁻¹"
+    ]
+  },
+  {
+    "question_number": 113,
+    "question": "For which of the following substances the enthalpy of formation in the standard state is zero ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Sucrose",
+      "(b) Ethanol",
+      "(c) Aluminium",
+      "(d) Calcium chloride"
+    ]
+  },
+  {
+    "question_number": 114,
+    "question": "Calculate the standard enthalpy of reaction for the following reaction using the listed enthalpies of reaction : 3Co(s) + 2O₂(g) → Co₃O₄(s). 2Co(s) + O₂(g) → 2CoO(s); ΔH₁° = -475.8 kJ. 6CoO(s) + O₂(g) → 2Co₃O₄(s); ΔH₂° = -355.0 kJ",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -891.2 kJ",
+      "(b) -120.8 kJ",
+      "(c) +891.2 kJ",
+      "(d) -830.8 kJ"
+    ]
+  },
+  {
+    "question_number": 115,
+    "question": "From given following equations and ΔH° values, determine the enthalpy of reaction at 298 K for the reaction : C₂H₄(g) + 6F₂(g) → 2CF₄(g) + 4HF(g). H₂(g) + F₂(g) → 2HF(g); ΔH₁° = -537 kJ. C(s) + 2F₂(g) → CF₄(g); ΔH₂° = -680 kJ. 2C(s) + 2H₂(g) → C₂H₄(g); ΔH₃° = 52 kJ",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -1165",
+      "(b) -2486",
+      "(c) +1165",
+      "(d) +2486"
+    ]
+  },
+  {
+    "question_number": 116,
+    "question": "Given : C(diamond) + O₂ → CO₂; ΔH = -395 kJ. C(graphite) + O₂ → CO₂; ΔH = -393 kJ. The enthalpy of formation of diamond from graphite is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) +2.0 kJ",
+      "(b) -1.5 kJ",
+      "(c) -788 kJ",
+      "(d) 788 kJ"
+    ]
+  },
+  {
+    "question_number": 117,
+    "question": "Which of the following equations represents a reaction that provides the enthalpy of formation of CH₃Cl?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) C(s) + HCl(g) + H₂(g) → CH₃Cl(g)",
+      "(b) C(s) + 3H(g) + Cl(g) → CH₃Cl(g)",
+      "(c) C(s) + 3/2H₂(g) + 1/2Cl₂(g) → CH₃Cl(g)",
+      "(d) CH₄(g) + Cl₂(g) → CH₃Cl(g) + HCl(g)"
+    ]
+  },
+  {
+    "question_number": 118,
+    "question": "Use the given standard enthalpies of formation (in kJ/mol) to determine the enthalpy of reaction of the following reaction : NH₃(g) + 3F₂(g) → NF₃(g) + 3HF(g). ΔH_f°(NH₃, g) = -46.2; ΔH_f°(NF₃, g) = -113.0; ΔH_f°(HF, g) = -269.0",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -335.8 kJ/mol",
+      "(b) -873.8 kJ/mol",
+      "(c) -697.2 kJ/mol",
+      "(d) -890.4 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 119,
+    "question": "The standard enthalpy of formation of octane (C₈H₁₈) is -250 kJ/mol. Calculate the enthalpy of combustion of C₈H₁₈. The enthalpy of formation of CO₂(g) and H₂O(l) are -394 kJ/mol and -286 kJ/mol respectively :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -5200 kJ/mol",
+      "(b) -5726 kJ/mol",
+      "(c) -5476 kJ/mol",
+      "(d) -5310 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 120,
+    "question": "Determine the enthalpy of formation of B₂H₆(g) in kJ/mol of the following reaction: B₂H₆(g) + 3O₂(g) → B₂O₃(s) + 3H₂O(g); Given : Δ_rH° = -1941 kJ/mol; ΔH_f°(B₂O₃, s) = -1273 kJ/mol; ΔH_f°(H₂O, g) = -241.8 kJ/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -75.6",
+      "(b) +75.6",
+      "(c) -57.4",
+      "(d) -28.4"
+    ]
+  },
+  {
+    "question_number": 121,
+    "question": "Consider the following reactions : C(s) + O₂(g) → CO₂(g) + x kJ; CO(g) + 1/2 O₂(g) → CO₂(g) + y kJ. The heat of formation of CO(g) is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -(x+y) kJ/mol",
+      "(b) (x-y) kJ/mol",
+      "(c) (y-x) kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 122,
+    "question": "If Δ_fH°(C₂H₄) and Δ_fH°(C₂H₆) are x₁ and x₂ kcal mol⁻¹, then heat of hydrogenation of C₂H₄ is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) x₁ + x₂",
+      "(b) x₁ - x₂",
+      "(c) x₂ - x₁",
+      "(d) x₁ + 2x₂"
+    ]
+  },
+  {
+    "question_number": 123,
+    "question": "What amount of energy (kJ) is released in the combustion of 5.8 g of C₄H₁₀(g)? 2C₄H₁₀(g) + 13O₂(g) → 8CO₂(g) + 10H₂O(l); ΔH° = -5756 kJ",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 575.6",
+      "(b) 287.8",
+      "(c) 182",
+      "(d) 57.56"
+    ]
+  },
+  {
+    "question_number": 124,
+    "question": "The enthalpy of the reaction forming PbO according to the following equation is 438 kJ. What heat energy (kJ) is released in formation of 22.3 g PbO(s)? (Atomic weights: Pb = 207, O=16.0) 2Pb(s) + O₂(g) → 2PbO(s)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 21.9",
+      "(b) 28.7",
+      "(c) 14.6",
+      "(d) 34.2"
+    ]
+  },
+  {
+    "question_number": 125,
+    "question": "The fat, C₅₇H₁₀₄O₆(s), is metabolized via the following reaction. Given the enthalpies of formation, calculate the energy (kJ) liberated when 1.0 g of this fat reacts. C₅₇H₁₀₄O₆(s) + 80O₂(g) → 57CO₂(g) + 52H₂O(l). Δ_fH°(C₅₇H₁₀₄O₆, s) = -70870 kJ/mol; Δ_fH°(H₂O, l) = -285.8 kJ/mol; Δ_fH°(CO₂, g) = -393.5 kJ/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -37.98",
+      "(b) -40.4",
+      "(c) -33.4",
+      "(d) -30.2"
+    ]
+  },
+  {
+    "question_number": 126,
+    "question": "The heat of formation of NH₃(g) is -46 kJ mol⁻¹. The ΔH (in kJ mol⁻¹) of the reaction, 2NH₃(g) → N₂(g) + 3H₂(g) is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 46",
+      "(b) -46",
+      "(c) 92",
+      "(d) -92"
+    ]
+  },
+  {
+    "question_number": 127,
+    "question": "Consider the following reaction: H₂O(l) → H₂O(g); ΔH₁ = 44 kJ. 2CH₃OH(l) + 3O₂(g) → 4H₂O(l) + 2CO₂(g); ΔH₂ = -1453 kJ. What is the value of ΔH for second reaction if water vapour instead of liquid water is formed as product?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -1409 kJ",
+      "(b) -1629 kJ",
+      "(c) -1277 kJ",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 128,
+    "question": "The standard enthalpy change for the following reaction is 436.4 kJ : H₂(g) → H(g) + H(g). What is the Δ_fH° of atomic hydrogen (H)?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 872.8 kJ/mol",
+      "(b) 218.2 kJ/mol",
+      "(c) -218.2 kJ/mol",
+      "(d) -436.9 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 129,
+    "question": "Determine enthalpy of formation for H₂O₂(l), using listed enthalpies of reaction : N₂H₄(l) + 2H₂O₂(l) → N₂(g) + 4H₂O(l); Δ_rH₁° = -818 kJ/mol. N₂H₄(l) + O₂(g) → N₂(g) + 2H₂O(l); Δ_rH₂° = -622 kJ/mol. H₂(g) + 1/2 O₂(g) → H₂O(l); Δ_rH₃° = -285 kJ/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -383 kJ/mol",
+      "(b) -187 kJ/mol",
+      "(c) -498 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 130,
+    "question": "Heat of combustion of ethanol at constant pressure and at temperature T K is found to be -q J mol⁻¹. Hence, heat of combustion (in J mol⁻¹) of ethanol at the same temperature at constant volume will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) RT - q",
+      "(b) -(q + RT)",
+      "(c) q - RT",
+      "(d) q + RT"
+    ]
+  },
+  {
+    "question_number": 131,
+    "question": "Stearic acid [CH₃(CH₂)₁₆CO₂H] is a fatty acid, the part of fat that stores most of the energy. 1.0 g of stearic acid was burned in a bomb calorimeter. The bomb had a heat capacity of 652 J/°C. If the temperature of 500 g water (c = 4.18 J/g°C) rose from 25.0 to 39.3°C, how much heat was released when the stearic acid was burned? [Given C_p(H₂O) = 4.18 J/g°C]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 39.21 kJ",
+      "(b) 29.91 kJ",
+      "(c) 108 kJ",
+      "(d) 9.32 kJ"
+    ]
+  },
+  {
+    "question_number": 132,
+    "question": "Gasoline has an enthalpy of combustion 24000 kJ/gallon. When gasoline burns in an automobile engine, approximately 30% of the energy released is used to produce mechanical work. The remainder is lost as heat transfer to the engine's cooling system. As a start on estimating how much heat transfer is required, calculate what mass of water could be heated from 25°C to 75°C by the combustion of 1.0 gallon of gasoline in an automobile? (Given: C(H₂O) = 4.18 J/g°C)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 34.45 kg",
+      "(b) 80.383 kg",
+      "(c) 22 kg",
+      "(d) 224 kg"
+    ]
+  },
+  {
+    "question_number": 133,
+    "question": "A 0.05 L sample of 0.2 M aqueous hydrochloric acid is added to 0.05 L of 0.2 M aqueous ammonia in a calorimeter. Heat capacity of entire calorimeter system is 480 J/K. The temperature increase is 1.09 K. Calculate Δ_rH° in kJ/mol for the following reaction : HCl(aq) + NH₃(aq) → NH₄Cl(aq)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -52.32",
+      "(b) -61.1",
+      "(c) -55.8",
+      "(d) -58.2"
+    ]
+  },
+  {
+    "question_number": 134,
+    "question": "A coffee cup calorimeter initially contains 125 g of water, at a temperature of 24.2°C. 8 g of ammonium nitrate (NH₄NO₃), also at 24.2°C, is added to the water, and the final temperature is 18.2°C. What is the heat of solution of ammonium nitrate in kJ/mol? The specific heat capacity of the solution is 4.2 J/°C g.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 33.51 kJ/mol",
+      "(b) 39.5 kJ/mol",
+      "(c) 32.2 kJ/mol",
+      "(d) 37.3 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 135,
+    "question": "Read following statement(s) carefully and select the right option :\n(I) The enthalpy of solution of CaCl₂.6H₂O in a large volume of water is endothermic to the extent of 3.5 kcal/mol. If ΔH = -23.2 kcal for the reaction, CaCl₂(s) + 6H₂O(l) → CaCl₂.6H₂O(s) then heat of solution of CaCl₂(anhydrous) in a large volume of water is –19.7 kcal/mol\n(II) For the reaction 2Cl(g) → Cl₂(g); the sign of ΔH and ΔS are negative.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) statement I and II both are wrong",
+      "(b) both are correct",
+      "(c) only I is correct",
+      "(d) only II is correct"
+    ]
+  },
+  {
+    "question_number": 136,
+    "question": "If the enthalpy of formation and enthalpy of solution of HCl(g) are -92.3 kJ/mol and -75.14 kJ/mol respectively then find enthalpy of formation of Cl⁻(aq):",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -17.16 kJ/mol",
+      "(b) -167.44 kJ/mol",
+      "(c) 17.16 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 137,
+    "question": "At 25°C, 1 mole of MgSO₄ was dissolved in water, the heat evolved was found to be 91.2 kJ. One mole of MgSO₄.7H₂O on dissolution gives a solution of the same composition accompanied by an absorption of 13.8 kJ. The enthalpy of hydration, i.e., ΔH for the reaction MgSO₄(s) + 7H₂O(l) → MgSO₄.7H₂O(s) is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -105 kJ/mol",
+      "(b) -77.4 kJ/mol",
+      "(c) 105 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 138,
+    "question": "The enthalpies of neutralization of a weak base AOH and a strong base BOH by HCl are -12250 cal/mol and -13000 cal/mol respectively. When one mole of HCl is added to a solution containing 1 mole of AOH and 1 mole of BOH, the enthalpy change was -12500 cal/mol. In what ratio is the acid distribution between AOH and BOH?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 2:1",
+      "(b) 2:3",
+      "(c) 1:2",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 139,
+    "question": "The magnitude of enthalpy change for neutralization of the reaction; MgO(s) + 2HCl(aq) → MgCl₂(aq) + H₂O(l) (Given H⁺(aq) + OH⁻(aq) → H₂O(l); -57 kJ/mol) will be :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) less that 57 kJ mol⁻¹",
+      "(b) -57 kJ mol⁻¹",
+      "(c) greater than 57 kJ mol⁻¹",
+      "(d) 57 kJ mol⁻¹"
+    ]
+  },
+  {
+    "question_number": 140,
+    "question": "Enthalpy of neutralization of HCl by NaOH is -55.84kJ/mol and by NH₄OH is -51.34kJ/mol. The enthalpy of ionization of NH₄OH is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 107.18 kJ/mol",
+      "(b) 4.5 kJ/mol",
+      "(c) -4.5 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 141,
+    "question": "Which of the following reaction is endothermic ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) CaCO₃ → CaO + CO₂",
+      "(b) Fe + S → FeS",
+      "(c) NaOH + HCl → NaCl + H₂O",
+      "(d) CH₄ + 2O₂ → CO₂ + 2H₂O"
+    ]
+  },
+  {
+    "question_number": 142,
+    "question": "Which of the following is not correct ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Dissolution of NH₄Cl in excess of water is an endothermic process",
+      "(b) Neutralisation is always exothermic",
+      "(c) The absolute value of enthalpy (H) can be determined experimentally",
+      "(d) The heat of reaction at constant volume is denoted by ΔE"
+    ]
+  },
+  {
+    "question_number": 143,
+    "question": "Substance A₂B(g) can undergoes decomposition to form two set of products : A₂(g) + B(g); ΔH° = 40 kJ/mol AND A(g) + AB(g); ΔH° = 50 kJ/mol. If the molar ratio of A₂(g) to A(g) is 5:3 in a set of product gases, then the energy involved in the decomposition of 1 mole of A₂B(g) is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 48.75 kJ/mol",
+      "(b) 43.73 kJ/mol",
+      "(c) 46.25 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 144,
+    "question": "Boron can undergo the following reactions with the given enthalpy changes : 2B(s) + 3/2 O₂(g) → B₂O₃(s); ΔH = -1260 kJ. 2B(s) + 3H₂(g) → B₂H₆(g); ΔH = 30 kJ. Assume no other reactions are occurring. If in a container (operating at constant pressure) which is isolated from the surrounding, mixture of H₂(gas) and O₂(gas) are passed over excess of B(s), then calculate the molar ratio (O₂:H₂) so that temperature of the container do not change :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 15:3",
+      "(b) 42:1",
+      "(c) 1:42",
+      "(d) 1:84"
+    ]
+  },
+  {
+    "question_number": 145,
+    "question": "The enthalpy change for the following reaction is 368 kJ. Calculate the average O-F bond energy. OF₂(g) → O(g) + 2F(g)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 184 kJ/mol",
+      "(b) 368 kJ/mol",
+      "(c) 536 kJ/mol",
+      "(d) 736 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 146,
+    "question": "The enthalpy change for the reaction, C₂H₆(g) → 2C(g) + 6H(g) is X kJ. The bond energy of C-H bond is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) X/2",
+      "(b) X/3",
+      "(c) X/6",
+      "(d) data insufficient"
+    ]
+  },
+  {
+    "question_number": 147,
+    "question": "The table given below lists the bond dissociation energy (E_diss) for single covalent bonds formed between C and atoms A, B, D, E. Which of the atoms has smallest size? [Table: C-A 240, C-B 382, C-D 276, C-E 486 kcal/mol]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) D",
+      "(b) E",
+      "(c) A",
+      "(d) D"
+    ]
+  },
+  {
+    "question_number": 148,
+    "question": "Calculate P-Cl bond enthalpy. Given: Δ_fH(PCl₃, g) = 306 kJ/mol; ΔH_atomization(P, s) = 314 kJ/mol; Δ_fH(Cl, g) = 121 kJ/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 123.66 kJ/mol",
+      "(b) 371 kJ/mol",
+      "(c) 19 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 149,
+    "question": "Calculate the enthalpy for the following reaction using the given bond energies (kJ/mol) : CH₃-OH(g) + HCl(g) → CH₃-Cl(g) + H₂O(g). (C-H=414; H-O=463; H-Cl=431; C-Cl=326; C-O=335)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -23 kJ/mol",
+      "(b) -42 kJ/mol",
+      "(c) -59 kJ/mol",
+      "(d) -511 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 150,
+    "question": "Based on the values of B.E. given, Δ_fH° of N₂H₄(g) is : Given: N-N = 159 kJ mol⁻¹; H-H = 436 kJ mol⁻¹; N≡N = 941 kJ mol⁻¹; N-H = 398 kJ mol⁻¹",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 711 kJ mol⁻¹",
+      "(b) 62 kJ mol⁻¹",
+      "(c) -98 kJ mol⁻¹",
+      "(d) -711 kJ mol⁻¹"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "A heating coil is immersed in a 100 g sample of H₂O(l) at 1 atm and 100°C in a closed vessel. In this heating process, 60% of the liquid is converted in to gaseous form at constant pressure of 1 atm. Densities of liquid and gaseous water under these conditions are 1000 kg/m³ and 0.60 kg/m³ respectively. Magnitude of the work done for the process is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 4997 J",
+      "(b) 4970 J",
+      "(c) 9994 J",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "A rigid and insulated tank of 3 m³ volume is divided into two compartments. One compartment of volume of 2 m³ contains an ideal gas at 0.8314 MPa and 400 K and while the second compartment of volume 1 m³ contains the same gas at 8.314 MPa and 500 K. If the partition between the two compartments is ruptured, the final temperature of the gas is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 420 K",
+      "(b) 450 K",
+      "(c) 480 K",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "What is the value of change in internal energy at 1 atm in the process? H₂O(l, 323 K) → H₂O(g, 423 K). Given: C_v,m(H₂O,l) = 75.0 JK⁻¹mol⁻¹; C_p,m(H₂O,g) = 33.314 JK⁻¹mol⁻¹; ΔH_vap at 373 K = 40.7 kJ/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 42.91 kJ/mol",
+      "(b) 43086 kJ/mol",
+      "(c) 42.6 kJ/mol",
+      "(d) 49.6 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "For an ideal gas C_p,m/C_v,m = γ. The molecular mass of the gas is M, its specific heat capacity at constant volume is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) R / (M(γ-1))",
+      "(b) M / (R(γ-1))",
+      "(c) γRM / (γ-1)",
+      "(d) γR / (M(γ-1))"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "1 mole of an ideal gas A (C_v,m = 3R) and 2 mole of an ideal gas B are (C_v,m = 3/2 R) taken in a container and expanded reversible and adiabatically from 1 litre to 4 litre starting from initial temperature of 320 K. ΔE or ΔU for the process is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -240 R",
+      "(b) 240 R",
+      "(c) 480 R",
+      "(d) -960 R"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "Calculate the work done by the system in an irreversible (single step) adiabatic expansion of 2 mole of a polyatomic gas (γ = 4/3) from 300 K and pressure 10 atm to 1 atm :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -227 R",
+      "(b) -205 R",
+      "(c) -405 R",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "One mole of an ideal gas is carried through the reversible cyclic process as shown in figure. The max. temperature attained by the gas during the cycle :",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_8.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 7/6R",
+      "(b) 12/49R",
+      "(c) 49/12R",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "Two moles of a triatomic linear gas (neglect vibration degree of freedom) are taken through a reversible process ideal starting from A as shown in figure. The volume ratio V_B/V_A = 4. If the temperature at A is -73°C, then:\n(i) Work done by the gas in AB process is :\n(a) 6.16 kJ (b) 308.3 kJ (c) 9.97 kJ (d) 0 J\n(ii) Total enthalpy change in both steps is :\n(a) 3000 R (b) 4200 R (c) 2100 R (d) 0",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_9.png",
+    "question_type": "Two Sub-questions",
+    "options": []
+  },
+  {
+    "question_number": 9,
+    "question": "A gas (C_v,m = 5/2 R) behaving ideally was allowed to expand reversibly and adiabatically from 1 litre to 32 litre. It's initial temperature was 327°C. The molar enthalpy change (in J/mol) for the process is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -1125 R",
+      "(b) -675",
+      "(c) -1575 R",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "Two mole of an ideal gas is heated at constant pressure of one atmosphere from 27°C to 127°C. If C_v,m = 20 + 10⁻² T JK⁻¹ mol⁻¹, then q and ΔU for the process are respectively :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 6362.8 J, 4700 J",
+      "(b) 3037.2 J, 4700 J",
+      "(c) 7062.8 J, 5400 J",
+      "(d) 3181.4 J, 2350 J"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "10 mole of an ideal gas is heated at constant pressure of one atmosphere from 27°C to 127°C. If C_p,m = 21.686 + 10⁻³ T, then ΔH for the process is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 3000 J",
+      "(b) 3350 J",
+      "(c) 3700 J",
+      "(d) 30350"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "For polytropic process PVⁿ = constant, molar heat capacity (C_m) of an ideal gas is given by :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) C_v,m + R/(n-1)",
+      "(b) C_v,m + R/(1-n)",
+      "(c) C_v,m + R",
+      "(d) C_p,m + R/(n-1)"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "2 mole of an ideal monoatomic gas undergoes a reversible process for which PV² = C. The gas is expanded from initial volume of 1 L to final volume of 3 L starting from initial temperature of 300 K. Find ΔH for the process:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -600 R",
+      "(b) -1000 R",
+      "(c) -3000 R",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "Calculate ΔS for 3 mole of a diatomic ideal gas which is heated and compressed from 298 K and 1 bar to 596 K and 4 bar: [Given: C_v,m(gas) = 5/2 R; ln(2) = 0.70; R = 2 cal K⁻¹ mol⁻¹]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -14.7 cal K⁻¹",
+      "(b) +14.7 cal K⁻¹",
+      "(c) -4.9 cal K⁻¹",
+      "(d) 6.3 cal K⁻¹"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "One mole of an ideal monoatomic gas at 27°C is subjected to a reversible isoentropic compression until final temperature reaches to 327°C. If the initial pressure was 1.0 atm then find the value of (ln P₂): (Given: ln 2 = 0.7)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1.75 atm",
+      "(b) 0.176 atm",
+      "(c) 1.0395 atm",
+      "(d) 2.0 atm"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "Two mole of an ideal gas is expanded irreversibly and isothermally at 37°C until its volume is doubled and 3.41 kJ heat is absorbed from surrounding. ΔS_total (system + surrounding) is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -0.52 J/K",
+      "(b) 0.52 J/K",
+      "(c) 22.52 J/K",
+      "(d) 0"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "For a perfectly crystalline solid C_p,m = aT³ + bT, where a and b are constant. If C_p,m is 0.40 J/K.mol at 10 K and 0.92 J/K mol at 20 K, then molar entropy at 20 K is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 0.92 J/K mol",
+      "(b) 8.66 J/K mol",
+      "(c) 0.813 J/K mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question": "Which of the following statement(s) is/are correct?\nStatement (i): The entropy in isolated system with P-V work only, is always maximized at equilibrium.\nStatement (ii): It is possible for the entropy of a close system to decrease substantially in an irreversible process.\nStatement (iii): Entropy can be created but not destroyed.\nStatement (iv): ΔS_system is zero for reversible process in an isolated system.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) Statement i, ii, iii",
+      "(b) Statement ii, iv",
+      "(c) Statement i, ii, iv",
+      "(d) All of these"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question": "Combustion of sucrose is used by aerobic organisms for providing energy for the life sustaining processes. If all the capturing of energy from the reaction is done through electrical process (non P-V work) then calculate maximum available energy which can be captured by combustion of 34.2 gm of sucrose. Given: ΔH_combustion(sucrose) = -6000 kJ mol⁻¹; ΔS_combustion = 180 J/K-mol and body temperature is 300 K",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 600 kJ",
+      "(b) 594.6 kJ",
+      "(c) 5.4 kJ",
+      "(d) 605.4 kJ"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "For the hypothetical reaction A₂(g) + B₂(g) ⇌ 2AB(g), Δ_rG° and Δ_rS° are 20 kJ/mol and -20 JK⁻¹ mol⁻¹ respectively at 200 K. If Δ_rC_p is 20 JK⁻¹ mol⁻¹ then Δ_rH° at 400 K is :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 20 kJ/mol",
+      "(b) 7.98 kJ/mol",
+      "(c) 28 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question": "Calculate Δ_fG° for (NH₄Cl, s) at 310 K. Given: Δ_fH°(NH₄Cl, s) = -314.5 kJ/mol; Δ_rC_p = 0. S°_N₂(g) = 192 JK⁻¹ mol⁻¹; S°_H₂(g) = 130.5 JK⁻¹ mol⁻¹; S°_Cl₂(g) = 233 JK⁻¹ mol⁻¹; S°_NH₄Cl(s) = 99.5 JK⁻¹ mol⁻¹. All given data at 300 K.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -198.56 kJ/mol",
+      "(b) -426.7 kJ/mol",
+      "(c) -202.3 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question": "Using listed informations, calculate Δ_rG° (in kJ/mol) at 27°C. Co₃O₄(s) + 4CO(g) → 3Co(s) + 4CO₂(g). Given: At 300 K, ΔH_f° (kJ/mol): -891, -110.5, 0.0, -393.5; S°(J/K-mol): 102.5, 197.7, 30.0, 213.7",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -214.8",
+      "(b) -195.0",
+      "(c) -200.3",
+      "(d) -256.45"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question": "Fixed mass of an ideal gas contained in a 24.63 L sealed rigid vessel at 1 atm is heated from -73°C to 27°C. Calculate change in Gibb's energy if entropy of gas is a function of temperature as S = 2 + 10⁻² T (J/K): (Use 1 atm L = 0.1 kJ)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1231.5 J",
+      "(b) 1281.5 J",
+      "(c) 781.5 J",
+      "(d) 0"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question": "The molar heat capacities at constant pressure (assumed constant with respect to temperature) of A, B and C are in ratio of 3:1.5:2.0. The enthalpy change for the exothermic reaction A + 2B → 3C at 300 K and 310 K is ΔH₃₀₀ and ΔH₃₁₀ respectively then :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) ΔH₃₀₀ > ΔH₃₁₀",
+      "(b) ΔH₃₀₀ < ΔH₃₁₀",
+      "(c) ΔH₃₀₀ = ΔH₃₁₀",
+      "(d) if T₂ > T₁ then ΔH₃₁₀ > ΔH₃₀₀ and if T₂ < T₁ then ΔH₃₁₀ < ΔH₃₀₀"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question": "Determine ΔU° at 300 K for the following reaction using the listed enthalpies of reaction : 4CO(g) + 8H₂(g) → 3CH₄(g) + CO₂(g) + 2H₂O(l). C(graphite) + 1/2 O₂(g) → CO(g); ΔH₁° = -110.5 kJ. CO(g) + 1/2 O₂(g) → CO₂(g); ΔH₂° = -282.9 kJ. H₂(g) + 1/2 O₂(g) → H₂O(l); ΔH₃° = -285.8 kJ. C(graphite) + 2H₂(g) → CH₄(g); ΔH₄° = -74.8 kJ",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -653.5 kJ",
+      "(b) -686.2 kJ",
+      "(c) -747.4 kJ",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question": "Calculate Δ_fH° (in kJ/mol) for Cr₂O₃ from the Δ_rG° and the S° values provided at 27°C. 4Cr(s) + 3O₂(g) → 2Cr₂O₃(s); Δ_rG° = -2093.4 kJ/mol. S°(J/K mol): S°(Cr,s)=24; S°(O₂,g)=205; S°(Cr₂O₃,s)=81",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -2258.1 kJ/mol",
+      "(b) -1129.05 kJ/mol",
+      "(c) -964.35 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question": "Calculate the heat produced (in kJ) when 224 gm of CaO is completely converted to CaCO₃ by reaction with CO₂ at 27°C in a container of fixed volume. Given: ΔH_f°(CaCO₃,s)=-1207 kJ/mol; ΔH_f°(CaO,s)=-635 kJ/mol; ΔH_f°(CO₂,g)=-394 kJ/mol; [Use R = 8.3 K⁻¹ mol⁻¹]",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 702.04 kJ",
+      "(b) 721.96 kJ",
+      "(c) 712 kJ",
+      "(d) 721 kJ"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question": "When 1.0 g of oxalic acid (H₂C₂O₄) is burned in a bomb calorimeter whose heat capacity is 8.75 kJ/K, the temperature increases by 0.312 K. The enthalpy of combustion of oxalic acid at 27°C is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -245.7 kJ/mol",
+      "(b) -244.452 kJ/mol",
+      "(c) -246.947 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question": "Enthalpy of neutralization of H₃PO₃ acid is -106.68 kJ/mol using NaOH. If enthalpy of neutralization of HCl by NaOH is -55.84 kJ/mol. Calculate ΔH_ionization of H₃PO₃ into its ions :",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 50.84 kJ/mol",
+      "(b) 5 kJ/mol",
+      "(c) 2.5 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question": "The enthalpy of neutralization of a weak monoprotic acid (HA) in 1 M solution with a strong base is -55.95 kJ/mol. If the unionized acid is required 1.4 kJ/mol heat for it's complete ionization and enthalpy of neutralization of the strong monobasic acid with a strong monoacidic base is -57.3 kJ/mol. What is the % ionization of the weak acid in molar solution?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 1%",
+      "(b) 3.57%",
+      "(c) 35.7%",
+      "(d) 10%"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question": "Determine C-C and C-H bond enthalpy (in kJ/mol). Given: Δ_fH°(C₂H₆,g) = -85 kJ/mol, Δ_fH°(C₃H₈,g) = -104 kJ/mol, Δ_subH°(C,s) = 718 kJ/mol, B.E.(H-H) = 436 kJ/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 414, 345",
+      "(b) 345, 414",
+      "(c) 287, 404.5",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question": "Consider the following data: Δ_fH°(N₂H₄,l) = 50 kJ/mol, Δ_fH°(NH₃,g) = -46 kJ/mol, B.E.(N-H) = 393 kJ/mol and B.E.(H-H) = 436 kJ/mol, Δ_vapH(N₂H₄,l) = 18 kJ/mol. The N-N bond energy in N₂H₄ is:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 226 kJ/mol",
+      "(b) 154 kJ/mol",
+      "(c) 190 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question": "What is the bond enthalpy of Xe-F bond? XeF₄(g) → Xe⁺(g) + F⁻(g) + F₂(g) + F(g); Δ_rH = 292 kcal/mol. Given: Ionization energy of Xe = 279 kcal/mol, B.E.(F-F) = 38 kcal/mol, Electron affinity of F = 85 kcal/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 24 kcal/mol",
+      "(b) 34 kcal/mol",
+      "(c) 8.5 kcal/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question": "If enthalpy of hydrogenation of C₆H₆(l) into C₆H₁₂(l) is -205 kJ and resonance energy of C₆H₆(l) is -152 kJ/mol then enthalpy of hydrogenation of cyclohexene is: Assume ΔH_vap of C₆H₆(l), C₆H₈(l), C₆H₁₂(l) all are equal:",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_10.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -535.5 kJ/mol",
+      "(b) -238 kJ/mol",
+      "(c) -357 kJ/mol",
+      "(d) -119 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question": "The enthalpy of combustion of propane (C₃H₈) gas in terms of given data is: [Table of bond energies is given]. Resonance energy of CO₂ is -z kJ/mol and ΔH_vaporization[H₂O(l)] is y (kJ/mol)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 8x₁ + 2x₅ + 5x₂ - 6x₃ - 8x₄ - 4y - 3z",
+      "(b) 6x₁ + x₅ + 5x₂ - 3x₃ - 4x₄ - 4y - 3z",
+      "(c) 8x₁ + 2x₅ + 5x₂ - 6x₃ - 8x₄ - y - z",
+      "(d) 8x₁ + x₅ + 5x₂ - 6x₃ - 8x₄ - 4y + 3z"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question": "The efficiency of an ideal gas with adiabatic exponent 'γ' for the shown cyclic process would be",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_11.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) (y-1)(2ln2-1)/(1+(y-1)2ln2)",
+      "(b) (y-1)(1-2ln2)/((y-1)2ln2-1)",
+      "(c) (2ln2+1)(y-1)/((y-1)2ln2+1)",
+      "(d) (2ln2-1)/(γ/(γ-1))"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question": "Initially one mole of ideal gas (C_v = 5/2 R) at 1.0 atm and 300 K is put through the following cycle:\nStep-I: Heating to twice its initial pressure at constant volume.\nStep-II: Adiabatic expansion to its initial temperature.\nStep-III: Isothermal compression back to 1.00 atm.\nWhat is the volume at state X (end of step II)?",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_12.png",
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 40.4 L",
+      "(b) 65.0 L",
+      "(c) 139 L",
+      "(d) 4.35 L"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question": "What is the enthalpy of neutralization of HF against a strong base? Given: H⁺(aq) + OH⁻(aq) → H₂O(l); Δ_rH° = -56 kJ/mol. Δ_fH°(HF, aq) = -329 kJ/mol; Δ_fH°(H₂O,l) = -285 kJ/mol. Δ_fH°(F⁻, aq) = -320 kJ/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -17 kJ/mol",
+      "(b) -38 kJ/mol",
+      "(c) -47 kJ/mol",
+      "(d) -43 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question": "The molar heat capacities of Iodine vapour and solid are 7.8 and 14 cal/mol respectively if enthalpy of sublimation of iodine is 6096 cal/mole at 200°C, then what is ΔU (internal energy change) at 250°C in cal/mol",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) 5360",
+      "(b) 4740",
+      "(c) 6406",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question": "For the reaction takes place at certain temperature NH₂COONH₄(s) ⇌ 2NH₃(g) + CO₂(g). If equilibrium pressure is 3X bar then Δ_rG° would be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(a) -RT ln 9 - 3RT ln X",
+      "(b) RT ln 4 - 3RT ln X",
+      "(c) -3RT ln X",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P1-1",
+    "question": "PASSAGE 1: The first law of thermodynamics for a closed system is dU = dq + dw, where dw = dw_pv + dw_non-pv. The most kind of w_non-pv is electrical work. As per IUPAC convention work done on the system is positive.\n\n1. A system generates 50 J of electrical energy, has 150 J of pressure-volume work done on it by the surroundings while releasing 300 J of heat energy. What is the change in the internal energy of the system?",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) -500",
+      "(b) -100",
+      "(c) -300",
+      "(d) -200"
+    ]
+  },
+  {
+    "question_number": "P1-2",
+    "question": "PASSAGE 1: The first law of thermodynamics for a closed system is dU = dq + dw, where dw = dw_pv + dw_non-pv. The most kind of w_non-pv is electrical work. As per IUPAC convention work done on the system is positive.\n\n2. A system generates 50 J of electrical energy and delivers 150 J of pressure-volume work against the surroundings while releasing 300 J of heat energy. What is the change in the internal energy of the system?",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) -100",
+      "(b) -400",
+      "(c) -300",
+      "(d) -500"
+    ]
+  },
+  {
+    "question_number": "P2-1",
+    "question": "PASSAGE 2: If the boundary of system moves by an infinitesimal amount, the work involved is given by dw = -P_ext dV. for irreversible process w = -P_ext ΔV (where ΔV = V_f - V_i). for reversible process P_ext = P_int ± dP = P_int. so for reversible isothermal process w = -nRT ln(V_f/V_i). 2 mole of an ideal gas undergoes isothermal compression along three different paths : (i) reversible compression from P_i = 2 bar and V_i = 8 L to P_f = 20 bar (ii) a single stage compression against a constant external pressure of 20 bar, and (iii) a two stage compression consisting initially of compression against a constant external pressure of 10 bar until P_gas = P_ext, followed by compression against a constant pressure of 20 bar until P_gas = P_ext.\n\n1. Work done (in bar-L) on the gas in reversible isothermal compression is:",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 9.212",
+      "(b) 36.848",
+      "(c) 18.424",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P2-2",
+    "question": "PASSAGE 2: ... (same as above) ...\n\n2. Work done on the gas in single stage compression is :",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 36",
+      "(b) 72",
+      "(c) 144",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P2-3",
+    "question": "PASSAGE 2: ... (same as above) ...\n\n3. Total work done on the gas in two stage compression is :",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 40",
+      "(b) 80",
+      "(c) 160",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P2-4",
+    "question": "PASSAGE 2: ... (same as above) ...\n\n4. Order of magnitude of work is :",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) W₁ > W₂ > W₃",
+      "(b) W₃ > W₂ > W₁",
+      "(c) W₂ > W₃ > W₁",
+      "(d) W₁ = W₂ = W₃"
+    ]
+  },
+  {
+    "question_number": "P3-1",
+    "question": "PASSAGE 3: Standard Gibb's energy of reaction (Δ_rG°) at a certain temperature can be computed as Δ_rG° = Δ_rH° - TΔ_rS°. ... Consider the following reaction: CO(g) + 2H₂(g) ⇌ CH₃OH(g). Given: Δ_fH°(CH₃OH, g) = -201 kJ/mol; Δ_fH°(CO, g) = -114 kJ/mol; S°(CH₃OH, g) = 240 J/K-mol; S°(H₂,g) = 29 JK⁻¹mol⁻¹; S°(CO, g) = 198 J/mol-K; C°_p,m(H₂) = 28.8 J/mol-K; C°_p,m(CO) = 29.4 J/mol-K; C°_p,m(CH₃OH) = 44 J/mol-K and ln(320/300)=0.06, all data at 300K.\n\n1. Δ_rS° at 300 K for the reaction is :",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 152.6 J/K-mol",
+      "(b) 181.6 J/K-mol",
+      "(c) -16 J/K-mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P3-2",
+    "question": "PASSAGE 3: ... (same as above) ...\n\n2. Δ_rH° at 300 K for the reaction is :",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) -87 kJ/mol",
+      "(b) 87 kJ/mol",
+      "(c) -315 kJ/mol",
+      "(d) -288 kJ/mol"
+    ]
+  },
+  {
+    "question_number": "P3-3",
+    "question": "PASSAGE 3: ... (same as above) ...\n\n3. Δ_rS° at 320 K is:",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 155.18 J/mol-K",
+      "(b) 150.02 J/mol-K",
+      "(c) 172 J/mol-K",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P3-4",
+    "question": "PASSAGE 3: ... (same as above) ...\n\n4. Δ_rH° at 320 K is :",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) -288.86 kJ/mol",
+      "(b) -289.1 kJ/mol",
+      "(c) -87.86 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P3-5",
+    "question": "PASSAGE 3: ... (same as above) ...\n\n5. Δ_rG° at 320 K is :",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) -48295.2 kJ/mol",
+      "(b) -240.85 kJ/mol",
+      "(c) 240.85 kJ/mol",
+      "(d) -81.91 kJ/mol"
+    ]
+  },
+  {
+    "question_number": "P4-1",
+    "question": "PASSAGE 4: Enthalpy of neutralization is defined as the enthalpy change when 1 mole of acid/base is completely neutralized by base/acid in dilute solution. For strong acid and strong base neutralization net chemical change is H⁺(aq) + OH⁻(aq) → H₂O(l); Δ_rH° = -55.84 kJ/mol. ΔH°_ionization of aqueous solution of strong acid and strong base is zero. When a dilute solution of a weak acid or base is neutralized, the enthalpy of neutralization is some what less because of the absorption of heat in the ionization of the weak acid or base, for weak acid/base ΔH°_neutralization = ΔH°_ionization + Δ_rH°(H⁺ + OH⁻ → H₂O).\n\n1. If enthalpy of neutralization of CH₃COOH by HCl is -49.86 kJ/mol then enthalpy of ionization of CH₃COOH is:",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 5.98 kJ/mol",
+      "(b) -5.98 kJ/mol",
+      "(c) 105.7 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P4-2",
+    "question": "PASSAGE 4: ... (same as above) ...\n\n2. What is ΔH° for complete neutralization of strong diacidic base A(OH)₂ by HNO₃?",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) -55.84 kJ",
+      "(b) -111.68 kJ",
+      "(c) 55.84 kJ/mol",
+      "(d) None of these"
+    ]
+  },
+  {
+    "question_number": "P4-3",
+    "question": "PASSAGE 4: ... (same as above) ...\n\n3. Under the same conditions how many mL of 0.1 M NaOH and 0.05 M H₂A (strong diprotic acid) solution should be mixed for a total volume of 100 mL produce the highest rise in temperature :",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) 25:75",
+      "(b) 50:50",
+      "(c) 75:25",
+      "(d) 66.66:33.33"
+    ]
+  },
+  {
+    "question_number": "P5-1",
+    "question": "PASSAGE 5: Gibbs Helmholtz equation relates the enthalpy, entropy and free energy change of the process at constant pressure and temperature as ΔG = ΔH - TΔS. In General the magnitude of ΔH does not change much with the change in temperature but the term TΔS changes appreciably. Hence in some process spontaneity is very much dependent on temperature and such processes are generally known as entropy driven process.\n\n1. For the reaction at 298 K; A₂B₄ → 2AB₂; ΔH = 2kJ and ΔS = 20J/K at constant P and T, the reaction will be",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) spontaneous and entropy driven",
+      "(b) spontaneous and enthalpy driven",
+      "(c) Non spontaneous",
+      "(d) At equilibrium"
+    ]
+  },
+  {
+    "question_number": "P5-2",
+    "question": "PASSAGE 5: ... (same as above) ...\n\n2. When CaCO₃ is heated to a high temperature it decomposes into CaO and CO₂, However it is quite stable at room temperature. It can be explained by the fact that",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) ΔH_r dominates the terms TΔS at high temperature",
+      "(b) The term TΔS dominates the ΔH_r at high temperature",
+      "(c) At high temperature both ΔS_r and ΔH_r becomes negative",
+      "(d) Thermodynamics can not say anything about spontaneity"
+    ]
+  },
+  {
+    "question_number": "P5-3",
+    "question": "PASSAGE 5: ... (same as above) ...\n\n3. The Dissolution of CaCl₂.6H₂O in a large volume of water is endothermic to the extent of 3.5 Kcal mol⁻¹ and ΔH for the reaction CaCl₂(s) + 6H₂O(l) → CaCl₂.6H₂O(s) is -23.2 kcal mol⁻¹. Select the correct statement",
+    "year": null,
+    "question_type": "Passage Based Question",
+    "options": [
+      "(a) ΔH_Solution for anhydrous CaCl₂ is -19.7 kcal/mol and the process is enthalpy driven",
+      "(b) ΔH_Solution for anhydrous CaCl₂ is -19.7 kcal/mol and the process is entropy driven",
+      "(c) Dissolution of CaCl₂.6H₂O in water is enthalpy driven process",
+      "(d) The Δ_rS the reaction CaCl₂(s) + 6H₂O(l) → CaCl₂.6H₂O(s) is negative"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "Identify the intensive quantities from the following :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Enthalpy",
+      "(b) Temperature",
+      "(c) Pressure",
+      "(d) Mass"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "Identify the extensive quantities from the following :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Gibb's energy",
+      "(b) Entropy",
+      "(c) Refractive index",
+      "(d) Specific heat"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "Identify the state functions from the following :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Heat",
+      "(b) Work",
+      "(c) Enthalpy",
+      "(d) Enthalpy change"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "Which of the following statements is/are correct as per IUPAC sign convention?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) The work done by the system on the surrounding is negative",
+      "(b) The work done by the surrounding on the system is positive",
+      "(c) The heat absorbed by the system from the surrounding is positive",
+      "(d) The heat absorbed by the surrounding from the system is positive"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "In an isothermal irreversible expansion of an ideal gas as per IUPAC sign convention :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) ΔU = 0",
+      "(b) ΔH = 0",
+      "(c) w = -nRT ln(P₁/P₂)",
+      "(d) w = -q"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "In reversible isothermal ideal gas expansion :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) w = 0",
+      "(b) U₁ = U₂",
+      "(c) H₁ = H₂",
+      "(d) q = nRT ln(V₂/V₁)"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "An adiabatic process is that process in which :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) energy is transferred as heat",
+      "(b) no energy is transfer as heat",
+      "(c) ΔU = w",
+      "(d) the temp. of gas increases in a reversible adiabatic compression"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "In adiabatic process, the work involved during expansion or compression of an ideal gas is given by :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) nC_vΔT",
+      "(b) (nR/(γ-1))(T₂-T₁)",
+      "(c) -nRP_ext [(T₂P₁ - T₁P₂)/(P₁P₂)]",
+      "(d) -2.303 RT log(V₂/V₁)"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "One mole of an ideal gas is subjected to a two step reversible process (A-B and B-C). The pressure at A and C is same. Mark the correct statement(s) :",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_13.png",
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Work involved in the path AB is zero",
+      "(b) In the path AB work will be done on the gas by the surrounding",
+      "(c) Volume of gas at C = 3 × volume of gas at A",
+      "(d) Volume of gas at B is 16.42 litres"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "Assume ideal gas behaviour for all the gases considered and neglect vibrational degrees of freedom. Separate equimolar samples of Ne, O₂, CO₂ and SO₂ were subjected to a two process as mentioned. Initially all are at same state of temperature and pressure. Step I - All undergo reversible adiabatic expansion to attain same final volume, which is double the original volume thereby causing the decreases in their temperature. Step II - After step I all are given appropriate amount of heat isochorically to restore the original temperature. Mark the correct option(s) :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Due to step I only, the decrease in temperature will be maximum for Ne",
+      "(b) During step II, heat given will be minimum for SO₂",
+      "(c) There will be no change in internal energy for any of the gas after both the steps of process are competed",
+      "(d) The P-V graph of O₂ and CO₂ will be same"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "Which of the following is/are correct?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) ΔH = ΔU + Δ(PV) when P and V both changes",
+      "(b) ΔH = ΔU + PΔV when pressure is constant",
+      "(c) ΔH = ΔU + VΔP when volume is constant",
+      "(d) ΔH = ΔU + PΔV + VΔP when P and V both changes"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "ΔH < ΔE for the reaction(s) :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) N₂(g) + 3H₂(g) → 2NH₃(g)",
+      "(b) Ag₂O(s) → 2Ag(s) + 1/2 O₂(g)",
+      "(c) CO(g) + 1/2 O₂(g) → CO₂(g)",
+      "(d) C(s) + O₂(g) → CO₂(g)"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "Which of the following conditions may lead to a non-spontaneous change?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) ΔH and ΔS both +ve",
+      "(b) ΔH = -ve; ΔS = +ve",
+      "(c) ΔH = +ve; ΔS = -ve",
+      "(d) ΔH = -ve; ΔS = -ve"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "For a process to be spontaneous :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) (ΔG_system)_T,p = 0",
+      "(b) ΔS_system + ΔS_surrounding > 0",
+      "(c) ΔS_system + ΔS_surrounding < 0",
+      "(d) (ΔG_system)_T,p < 0"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "The normal boiling point of a liquid 'X' is 400 K. Which of the following statement is true about the process X(l) → X(g)?",
+    "year": null,
+    
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) at 400 K and 1 atm pressure ΔG = 0",
+      "(b) at 400 K and 2 atm pressure ΔG = +ve",
+      "(c) at 400 K and 0.1 atm pressure ΔG = -ve",
+      "(d) at 410 K and 1 atm pressure ΔG = +ve"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "When ice melts at 1°C:",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) an increase in entropy",
+      "(b) a decrease in enthalpy",
+      "(c) a decrease in free energy",
+      "(d) process is spontaneous"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "The value of ΔH_transition of C(graphite) → C(diamond) is 1.9 kJ/mol at 25°C entropy of graphite is higher than entropy of diamond. This implies that :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) C(diamond) is more thermodynamically stable than C(graphite) at 25°C",
+      "(b) C(graphite) is more thermodynamically stable than C(diamond) at 25°C",
+      "(c) diamond will provide more heat on complete combustion at 25°C",
+      "(d) ΔG_transition of C(diamond) → C(graphite) is -ve"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question": "Which of the following statement(s) is/are false?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) All adiabatic processes are isoentropic (or isentropic) processes",
+      "(b) When (ΔG_system)_T,p < 0; the reaction must be exothermic",
+      "(c) dG = VdP - SdT is applicable for closed system, both PV and non-PV work",
+      "(d) The heat of vaporisation of water at 100°C is 40.6 kJ/mol. When 9 gm of water vapour condenses to liquid at 100°C of 1 atm, then ΔS_system = 54.42 J/K"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question": "Which of the following statement(s) is/are true?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) ΔE = 0 for combustion of C₂H₆(g) in a sealed rigid adiabatic container",
+      "(b) Δ_fH° (S, monoclinic) ≠ 0",
+      "(c) If dissociation energy of CH₄(g) is 1656 kJ/mol and C₂H₆(g) is 2812 kJ/mol, then value of C-C bond energy will be 328 kJ/mol",
+      "(d) If ΔH_f(H₂O, g) = -242 kJ/mol; ΔH_vap(H₂O,l) = 44 kJ/mol then, Δ_fH°(OH⁻, aq.) will be -142 kJ/mol"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "From the following data, mark the option(s) where ΔH is correctly written for the given reaction. Given: H⁺(aq) + OH⁻(aq) → H₂O(l); ΔH = -57.3 kJ; ΔH_solution of HA(g) = -70.7 kJ/mol; ΔH_solution of BOH(g) = 20 kJ/mol; ΔH_ionization of HA = 15 kJ/mol and BOH is a strong base.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Reaction: HA(aq) + BOH(aq) → BA(aq) + H₂O, Δ_rH (kJ/mol): -42.3",
+      "(b) Reaction: HA(g) + BOH(g) → BA(aq) + H₂O, Δ_rH (kJ/mol): -93",
+      "(c) Reaction: HA(g) → H⁺(aq) + A⁻(aq), Δ_rH (kJ/mol): -55.7",
+      "(d) Reaction: B⁺(aq) + OH⁻(aq) → BOH(aq), Δ_rH (kJ/mol): -20"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question": "Select correct statement(s)",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) An adiabatic system can exchange energy with its surroundings.",
+      "(b) A thermodynamic property which is intensive is additive.",
+      "(c) Work done may be zero in a cyclic process.",
+      "(d) For a simple compressible substance, the relation dq - P.dv = 0 is true for any cycle involving mechanical work only."
+    ]
+  },
+  {
+    "question_number": 22,
+    "question": "For an isolated system, the entropy:",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Either increases or remains constant",
+      "(b) Either decreases or remains constant",
+      "(c) Can never decrease",
+      "(d) Can never increase"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question": "The normal boiling point of a liquid X is 400 K. ΔH_vap at normal boiling point is 40 kJ/mol. Select correct statement(s) :",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) ΔS_vaporisation < 100 J/mol.K at 400 K and 2 atm",
+      "(b) ΔS_vaporisation < 10 J/mol.K at 400 K and 1 atm",
+      "(c) ΔG_vaporisation < 0 at 410 K and 1 atm",
+      "(d) ΔU = 43.32 kJ/mol.K at 400 K and 1 atm"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question": "Select incorrect statement(s)",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) A closed system with all adiabatic boundaries must be an isolated system",
+      "(b) Total heat exchange in a cyclic process may be zero",
+      "(c) Entropy of a closed system is maximum at equilibrium",
+      "(d) Molar Gibb's Energy is an extensive property"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question": "Select correct statement(s) for the reaction H₂O(g) + CO(g) → H₂(g) + CO₂(g)\nSubstance | CO(g) | CO₂(g) | H₂O(g) | H₂(g)\n--- | --- | --- | --- | ---\nΔ_fH_400 (kcal mol⁻¹) | -25 | -95 | -55 | 0\nS_400 (cal mol⁻¹K⁻¹) | 45 | 50 | 40 | 30",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(a) Reaction is enthalpy driven",
+      "(b) Reaction is entropy driven",
+      "(c) Reaction is spontaneous at 400 K",
+      "(d) Reaction is non-spontaneous at 400 K"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) Reversible cooling of an ideal gas at constant volume, (B) Reversible isothermal expansion of an ideal gas, (C) Adiabatic expansion of non-ideal gas into vacuum, (D) Reversible melting of sulphur at normal melting point",
+      "Column-II: (P) w=0; q<0; ΔU<0, (Q) w<0; q>0; ΔU>0, (R) w=0; q=0; ΔU=0, (S) w<0; q>0; ΔU=0"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) Adiabatic process, (B) Isothermal process, (C) Isoenthalpic process, (D) Isoentropic process",
+      "Column-II: (P) q=0, (Q) ΔH=0, (R) ΔT=0, (S) ΔS=0"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) Reversible isothermal expansion of an ideal gas, (B) Reversible adiabatic compression of an ideal gas, (C) Irreversible adiabatic expansion of an ideal gas, (D) Irreversible isothermal compression of an ideal gas",
+      "Column-II: (P) w = -2.303 nRT log(V₂/V₁), (Q) PV^γ = constant, (R) w = (nR/(γ-1))(T₂-T₁), (S) ΔH = 0"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) in a closed system, (B) 2HI(g) ⇌ H₂(g) + I₂(g) in a closed system, (C) N₂(g) + 3H₂(g) ⇌ 2NH₃(g) in a closed system, (D) CO(g) + 1/2 O₂(g) → CO₂(g) in an isolated system",
+      "Column-II: (P) ΔH < ΔU, (Q) ΔH = ΔU ≠ 0, (R) ΔH > ΔU, (S) ΔU = 0"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "MATCH THE COLUMN (Entropy Change)",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I (Process): (A) Reversible isothermal compression of an ideal gas, (B) Isothermal free expansion (P_ext = 0) of an ideal gas, (C) Reversible adiabatic expansion of an ideal gas, (D) Reversible ideal gas expansion",
+      "Column-II (Entropy Change): (P) ΔS_system > 0, (Q) ΔS_system < 0, (R) ΔS_system = 0, (S) Information insufficient"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "MATCH THE COLUMN (Entropy change)",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I (Process): (A) Reversible isothermal ideal gas expansion, (B) Reversible adiabatic ideal gas compression, (C) Adiabatic free expansion (P_ext = 0) of an ideal gas, (D) Irreversible isothermal ideal gas compression",
+      "Column-II (Entropy change): (P) ΔS_surrounding = 0, (Q) ΔS_surrounding < 0, (R) ΔS_surrounding > 0, (S) ΔS_system = 0"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) (ΔG_system)_T,P = 0, (B) ΔS_system + ΔS_surrounding > 0, (C) ΔS_system + ΔS_surrounding < 0, (D) (ΔG_system)_T,P > 0",
+      "Column-II: (P) Process is in equilibrium, (Q) Process is nonspontaneous, (R) Process is spontaneous, (S) System is unable to do useful work"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) (ΔG_system)_T,P, (B) Work done in reversible isothermal ideal gas expansion, (C) ΔG for reversible isothermal expansion of an ideal gas, (D) ΔS_gas for isothermal expansion of an ideal gas",
+      "Column-II: (P) nR ln(V₂/V₁), (Q) nRT ln(P₂/P₁), (R) -nFE, (S) nR ln(P₁/P₂)"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) Heating of an ideal gas at constant pressure, (B) Compression of liquid at constant temperature, (C) Reversible process for an ideal gas at constant temperature, (D) Adiabatic free expansion of an ideal gas",
+      "Column-II: (P) ΔH = nC_p,mΔT ≠ 0, (Q) ΔU = 0, (R) ΔG = VΔP, (S) ΔG = nRT ln(P₂/P₁)"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "MATCH THE COLUMN (Nature of reaction)",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I (Sign of ΔH and ΔS respectively): (A) - & -, (B) - & +, (C) + & +, (D) + & -",
+      "Column-II (Nature of reaction): (P) Spontaneous only at low temperature, (Q) Spontaneous only at high temperature, (R) Spontaneous at all temperature, (S) Non-spontaneous at all temperature"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) Reversible adiabatic compression, (B) Reversible vaporisation of liquid, (C) 2N(g) → N₂(g), (D) MgCO₃(s) → MgO(s) + CO₂(g)",
+      "Column-II: (P) ΔS_system > 0, (Q) ΔS_system < 0, (R) ΔS_surrounding < 0, (S) ΔS_surrounding = 0"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) H⁺(aq), (B) H(g), (C) H₂(g), (D) C(s, diamond)",
+      "Column-II: (P) Δ_fH° = 0, (Q) Δ_fH° ≠ 0, (R) Δ_fG° = 0, (S) Δ_fS° < 0"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I (Partial derivative): (A) (∂U/∂T)_V, (B) (∂H/∂T)_P, (C) (∂G/∂T)_P, (D) (∂G/∂P)_T",
+      "Column-II (Thermodynamic variable): (P) C_p, (Q) C_v, (R) -S, (S) V"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) C(s, graphite) + O₂(g) → CO₂(g), (B) C(s, graphite) → C(g), (C) CO(g) + 1/2 O₂(g) → CO₂(g), (D) CH₄(g) → C(g) + 4H(g)",
+      "Column-II: (P) ΔH°_combustion, (Q) ΔH°_formation, (R) ΔH°_atomization, (S) ΔH°_sublimation"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "MATCH THE COLUMN",
+    "year": null,
+    "question_type": "Matching Type",
+    "options": [
+      "Column-I: (A) O₂(g), (B) O₃(g), (C) Br₂(g), (D) H₂O(l)",
+      "Column-II: (P) Δ_fH° = +ve; Δ_fS° = +ve, (Q) Δ_fH° = -ve; Δ_fS° = -ve, (R) Δ_fH° = +ve; Δ_fS° = -ve, (S) Δ_fH° = 0; Δ_fS° = 0"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "STATEMENT-1: Heat and work are 'definite quantities'. STATEMENT-2: Heat and work are not properties of a system their values depend on the path of the process and vary accordingly.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "STATEMENT-1: There is no change in internal energy for an ideal gas at constant temperature. STATEMENT-2: Internal energy of an ideal gas is a function of temperature only.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "STATEMENT-1: The heat absorbed during the isothermal expansion of an ideal gas against vacuum is zero. STATEMENT-2: The volume occupied by the molecules of an ideal gas is zero.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "STATEMENT-1: ΔH and ΔE are the same for the reaction, N₂(g) + O₂(g) ⇌ 2NO(g). STATEMENT-2: All reactants and products are gases where all gases are ideal.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "STATEMENT-1: The magnitude of the work involved in an isothermal expansion is greater than that involved in an adiabatic expansion. STATEMENT-2: P-V curve (P on y-axis and V on x-axis) decrease more rapidly for reversible adiabatic expansion compared to reversible isothermal expansion starting from same initial state.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "STATEMENT-1: Entropy change in reversible adiabatic expansion of an ideal gas is zero. STATEMENT-2: The increase in entropy due to volume increase just compensate the decrease in entropy due to fall in temperature.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "STATEMENT-1: There cannot be chemical equilibrium in an open system. STATEMENT-2: There is no fixed mass in an open system.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "STATEMENT-1: The standard free energy changes of all spontaneously occuring reactions are negative. STATEMENT-2: The standard free energies of the elements in their standard states at 1 bar and 298 K are taken as zero.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "STATEMENT-1: Enthalpy and entropy of any elementary substance in the standard states are taken as zero. STATEMENT-2: At absolute zero, particles of the perfectly crystalline substance become completely motionless.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "STATEMENT-1: A reaction which is spontaneous and accompanied by decrease of randomness must be exothermic. STATEMENT-2: All exothermic reactions are accompanied by decrease of randomness.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "STATEMENT-1: Many endothermic reactions that are not spontaneous at room temperatures become spontaneous at high temperature. STATEMENT-2: ΔH° of the endothermic reaction increases with increase in temperature.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question": "STATEMENT-1: Decrease of free energy during the process under constant temperature and pressure provides a measure of its spontaneity. STATEMENT-2: A spontaneous change must have +ve sign of ΔS_system.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question": "STATEMENT-1: |Δ_fH| of (H₂O,l) > |Δ_fH| of (H₂O,g). STATEMENT-2: ΔH_condensation is negative.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "STATEMENT-1: All combustion reactions are exothermic. STATEMENT-2: Enthalpies of products are greater than enthalpies of reactants (Σν_pΔH(P) > Σν_RΔH(R))",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question": "STATEMENT-1: Enthalpy of neutralization of CH₃COOH by NaOH is less than that of HCl by NaOH. STATEMENT-2: Enthalpy of neutralization of CH₃COOH is less because of the absorption of heat in the ionization process.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question": "STATEMENT-1: Internal energy of a real gas may change during expansion at constant temperature. STATEMENT-2: Internal energy of a real gas is a function of temperature and volume.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "STATEMENT-1: Work is a state function which is expressed in joule. STATEMENT-2: Work appears only at the boundary of the system.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question": "STATEMENT-1: The expansion of a gas into an evacuated space takes place non-spontaneously. STATEMENT-2: A process in which all steps cannot be retraced by themselves is called a spontaneous process.",
+    "year": null,
+    "question_type": "Assertion-Reason",
+    "options": [
+      "(A) If both the statements are TRUE and STATEMENT-2 is the correct explanation of STATEMENT-1",
+      "(B) If both the statements are TRUE but STATEMENT-2 is NOT the correct explanation of STATEMENT-1",
+      "(C) If STATEMENT-1 is TRUE and STATEMENT-2 is FALSE",
+      "(D) If STATEMENT-1 is FALSE and STATEMENT-2 is TRUE"
+    ]
+  },
+  {
+    "question_number": 1,
+    "question": "A perfect gas undergoes a reversible adiabatic expansion from (300K, 200 atm) to (90K, 10 atm). Find the atomicity of gas.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 2,
+    "question": "5 mole of an ideal gas at temp. T are compressed isothermally from 12 atm. to 24 atm. Calculate the value of 10r where r = (Work done along reversible process) / (Work done along single step irreversible process). (Given: ln 2 = 0.7)",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 3,
+    "question": "A diatomic ideal gas is expanded according to PV³ = constant, under very high temperature (Assume vibration mode active). Calculate the molar heat capacity of gas (in cal/mol K) in this process.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 4,
+    "question": "A heat engine is operating between 500K to 300K and it absorbs 10 kcal of heat from 500K reservoir reversibly per cycle. Calculate the work done (in kcal) per cycle.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 5,
+    "question": "In a carnot cycle involving ideal non-linear triatomic gas, if during adiabatic expansion volume increases from 2L to 16L and heat absorbed during isothermal expansion is 8 kcal, then calculate magnitude of work done by carnot engine (in kcal).",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 6,
+    "question": "Molar heat capacities at constant pressure for A, B and C are 3, 1.5 and 2J/K mol. The enthalpy of reaction and entropy of reaction, A + 2B → 3C are 20kJ/mol and 20J/K mol at 300K. Calculate ΔG (in kJ/mol) for the reaction, 1/2 A + B → 3/2 C",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 7,
+    "question": "Standard molar enthalpy of combustion of glucose is -2880kJ. If only 25% of energy is available for muscular work and 1.0km walk consumes 90kJ of energy, what maximum distance (in km) a person can walk after eating 90 g of glucose.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 8,
+    "question": "Given C₂H₂(g) + H₂(g) → C₂H₄(g): ΔH° = -175 kJ mol⁻¹. ΔH°_f(C₂H₄,g) = 50 kJ mol⁻¹; ΔH°_f(H₂O,l) = -280 kJ mol⁻¹; ΔH°_f(CO₂,g) = -390 kJ mol⁻¹. If ΔH° is enthalpy of combustion (in kJ mol⁻¹) of C₂H₂(g), then calculate the value of |ΔH°|/280.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 9,
+    "question": "The integral enthalpies of solution of anhydrous CuSO₄(s) and hydrated CuSO₄.5H₂O(s) are -70kJ and 10kJ per mol respectively. Determine the magnitude of enthalpy of hydration of 0.1 mole anhydrous CuSO₄(s) as CuSO₄(s) + 5H₂O(l) → CuSO₄.5H₂O(s)",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 10,
+    "question": "If enthalpy of neutralisation of HCl by NaOH is -57 kJ mol⁻¹ and with NH₄OH is -50 kJ mol⁻¹. Calculate enthalpy of ionisation of NH₄OH(aq).",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 11,
+    "question": "Lattice energy of NaCl(s) is -790 kJ mol⁻¹ and enthalpy of hydration is -785 kJ mol⁻¹. Calculate enthalpy of solution of NaCl(s).",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 12,
+    "question": "x g sample of NH₄NO₃ is decomposed in a Bomb calorimeter. The temperature of calorimeter increase by 4°C. The heat capacity of the system is 1.25kJ/°C. Calculate the value of x. Given molar heat of decomposition of NH₄NO₃ is 400kJ mol⁻¹.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 13,
+    "question": "A heat engine operating between 227°C and 77°C absorbs 10 kcal of heat from the 227°C reservoir reversibly per cycle. Calculate total work done (in kcal) in two cycles.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 14,
+    "question": "Calculate work done in chemical reaction (in kcal) A(s) + 3B(g) → C(l) at 227°C at 1 atm in closed vessel.",
+    "year": null,
+    "question_type": "Subjective",
+    "options": []
+  },
+  {
+    "question_number": 15,
+    "question": "One mole ideal monoatomic gas is heated according to path AB and AC. If temperature of state B and state C are equal. Calculate q_AC / q_AB × 10. [P-V diagram is shown]",
+    "year": null,
+    "images": "Img4/N_Awasthi_PC4_14.png",
+    "question_type": "Subjective",
+    "options": []
+  }
+]

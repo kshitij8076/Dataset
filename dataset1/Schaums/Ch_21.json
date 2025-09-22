@@ -1,0 +1,95 @@
+[
+  {
+    "question_number": 21.1,
+    "Questions": "Twenty gram of ice at precisely 0°C melts to water with no change in temperature. By how much does the entropy of the 20-g mass change in this process?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "By slowly adding heat to the ice, we can melt it in a reversible way. The heat needed is\nΔQ = mL = (20 g)(80 cal/g) = 1600 cal\nΔS = ΔQ / T = 1600 cal / 273 K = 5.86 cal/K = 25 J/K"
+  },
+  {
+    "question_number": 21.2,
+    "Questions": "As shown in Fig. 21-1, an ideal gas is confined to a cylinder by a piston. The piston is pushed down slowly so that the gas temperature remains at 20.0°C. During the compression, 730 J of work is done on the gas. Find the entropy change of the gas.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_8.png",
+    "solution": "The First Law tells us that ΔQ = ΔU + ΔW. Because the process was isothermal, the internal energy of the ideal gas did not change. Therefore, ΔU = 0 and ΔQ = ΔW = -730 J.\nΔS = ΔQ / T = -730 J / 293 K = -2.49 J/K."
+  },
+  {
+    "question_number": 21.3,
+    "Questions": "As shown in Fig. 21-2, a container is separated into two equal-volume compartments. The two compartments contain equal masses of the same gas, 0.740 g in each, and cₛ for the gas is 745 J/kg·K. At the start, the hot gas is at 67.0°C, while the cold gas is at 20.0°C. No heat can leave or enter the compartments except slowly through the partition AB. Find the entropy change of each compartment as the hot gas cools from 67.0°C to 65.0°C.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_9.png",
+    "solution": "The heat lost by the hot gas in the process is ΔQ = mcₛΔT = (0.000 740 kg)(745 J/kg·K)(-2.0°C) = -1.10 J. For the cold gas, since it will gain 1.10 J, ΔS = ΔQ / T = 1.10 J / (273 K + 21 K) = 3.8 × 10⁻³ J/K."
+  },
+  {
+    "question_number": 21.4,
+    "Questions": "The ideal gas in the cylinder in Fig. 21-1 is initially at conditions P₁, V₁, T₁. It is slowly expanded at constant temperature by allowing the piston to rise. Its final conditions are P₂, V₂, T₂. Find the change in entropy of the gas during this expansion.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ΔS = ΔQ / T = P₁V₁ / T₁ ln(V₂ / V₁) = (1.5 × 10⁻³ kg) / (28 kg/kmol) × 8314 J/kmol·K × ln(3) = 0.49 J/K."
+  },
+  {
+    "question_number": 21.5,
+    "Questions": "Two vats of water, one at 87°C and the other at 14°C, are separated by a metal plate. If heat flows through the plate at 35 cal/s, what is the change in entropy of the system that occurs in a second?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The higher-temperature vat loses entropy, while the cooler one gains entropy:\nΔS₁ = (-35 cal)(4.184 J/cal) / 360 K = -0.41 J/K.\nΔS₂ = (35 cal)(4.184 J/cal) / 287 K = 0.51 J/K. Therefore, ΔS = 0.10 J/K."
+  },
+  {
+    "question_number": 21.6,
+    "Questions": "A system consists of 3 coins that can come up either heads or tails. In how many different ways can the system have (a) all heads up? (b) Only one coin heads up? (c) One tail and two heads up? (d) Two tails and one head up?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 1 way. (b) 3 ways. (c) 3 ways. (d) 3 ways."
+  },
+  {
+    "question_number": 21.7,
+    "Questions": "Find the entropy of the three-coin system described in Problem 21.6 if (a) all coins are heads-up, (b) two coins are heads-up.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) Since this state can occur in only one way, S = k_B ln(1) = 0.\n(b) Since this state can occur in three ways, S = (1.38 × 10⁻²³ J/K) ln(3) = 1.52 × 10⁻²³ J/K."
+  },
+  {
+    "question_number": 21.8,
+    "Questions": "Compute the entropy change of 5.00 g of water at 100°C as it changes to steam at 100°C under standard pressure.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 7.24 cal/K = 30.3 J/K."
+  },
+  {
+    "question_number": 21.9,
+    "Questions": "By how much does the entropy of 300 g of a metal (c = 0.093 cal/g·°C) change as it is cooled from 90°C to 70°C? You may approximate T = ½(T₁ + T₂).",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. -6.6 J/K."
+  },
+  {
+    "question_number": 21.10,
+    "Questions": "An ideal gas was slowly expanded from 2.00 m³ to 3.00 m³ at a constant temperature of 30°C. The entropy change of the gas was +47 J/K during the process. (a) How much heat was added to the gas during the process? (b) How much work did the gas do during the process?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 34 kcal; (b) 14 kJ."
+  },
+  {
+    "question_number": 21.11,
+    "Questions": "Starting at standard conditions, 3.0 kg of an ideal gas (M = 28 kg/kmol) is isothermally compressed to one-fifth of its original volume. Find the change in entropy of the gas.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. -1.4 kJ/K."
+  },
+  {
+    "question_number": 21.12,
+    "Questions": "Four poker chips are red on one side and white on the other. In how many different ways can (a) only 3 reds come up? (b) Only two reds come up?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 4; (b) 6."
+  },
+  {
+    "question_number": 21.13,
+    "Questions": "When 100 coins are tossed, there is one way in which all can come up heads. There are 100 ways in which only one tail comes up. There are about 1 × 10⁹⁹ ways that 50 heads can come up. One hundred coins are placed in a box with only one head up. They are shaken and then there are 50 heads up. What was the change in entropy of the coins caused by the shaking?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 9 × 10⁻²² J/K."
+  }
+]

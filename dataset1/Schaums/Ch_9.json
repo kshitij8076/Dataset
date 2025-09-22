@@ -1,0 +1,289 @@
+[
+  {
+    "question_number": 9.1,
+    "Questions": "Express each of the following in terms of the other angular measures: (a) 28°, (b) 1/4 rev/s, (c) 2.18 rad/s².",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) 28° = 0.078 rev = 0.49 rad; (b) 1/4 rev/s = 90°/s = π/2 rad/s; (c) 2.18 rad/s² = 125°/s² = 0.347 rev/s²"
+  },
+  {
+    "question_number": 9.2,
+    "images":["images/arihant_ch16_92.png"],
+    "Questions": "A pendulum 90 cm long swings through a 15-cm arc. Find the angle θ in radians and degrees.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "θ = 0.17 rad = 9.6°"
+  },
+  {
+    "question_number": 9.3,
+    "Questions": "A fan turns at 900 rpm. (a) Find angular speed. (b) Find tangential speed if radius is 20 cm.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) ω = 94.2 rad/s; (b) v = 18.8 m/s"
+  },
+  {
+    "question_number": 9.4,
+    "images":["images/arihant_ch16_93.png"],
+    "Questions": "A belt over a 25 cm radius wheel moves at 5.0 m/s. How fast is the wheel turning?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "ω = v/r = 5.0/0.25 = 20 rad/s"
+  },
+  {
+    "question_number": 9.5,
+    "Questions": "A 40-cm radius wheel accelerates from rest to 900 rpm in 20 s. Find (a) angular acceleration, (b) tangential acceleration.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) α = 4.7 rad/s²; (b) a_T = 1.9 m/s²"
+  },
+  {
+    "question_number": 9.6,
+    "Questions": "A pulley radius 5.0 cm turns from 30 rev/s to 20 rev/s in 2.0 s. Find (a) angular acceleration, (b) angle turned, (c) belt length wound.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) α = −10π rad/s²; (b) θ = 100π rad; (c) l = 16 m"
+  },
+  {
+    "question_number": 9.7,
+    "Questions": "A 30 cm radius car wheel accelerates uniformly from rest to 15 m/s in 8.0 s. Find angular acceleration and rotations made.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "α = 6.2 rad/s²; θ = 200 rad = 32 rev"
+  },
+  {
+    "question_number": 9.8,
+    "Questions": "A spin-drier slows from 900 rpm to 300 rpm through 50 rev. Find (a) angular acceleration, (b) time taken.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) α = −4.0π rad/s²; (b) t = 5.0 s"
+  },
+  {
+    "question_number": 9.9,
+    "Questions": "A 200-g object is whirled in a horizontal circle of radius 1.20 m at 3.0 rev/s. Find (a) acceleration, (b) tension in cord.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) a_C = 0.43 km/s²; (b) F_C = 85 N"
+  },
+  {
+    "question_number": 9.10,
+    "Questions": "Find maximum speed of a car rounding a 25-m curve if static friction is 0.80.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "v = √(0.80×9.81×25) = 14 m/s"
+  },
+  {
+    "question_number": 9.11,
+    "Questions": "A spaceship orbits Moon at 20,000 m height. Find (a) speed and (b) time for one orbit.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "v = 1.67 km/s; T = 110 min"
+  },
+  {
+    "question_number": 9.12,
+    "images":["images/arihant_ch16_94.png"],
+    "Questions": "A ball tied to a 24-cm string makes 30° with vertical. Find the speed of the ball in circular path.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "v = √(rg sin30° / cos30°) = 0.82 m/s"
+  },
+  {
+    "question_number": 9.13,
+    "images":["images/arihant_ch16_95.png"],
+    "Questions": "A 20-g bead slides from rest at A on a wire loop (h = 25 cm, R = 5 cm). Find the force exerted by wire at (a) B and (b) D.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) F = 0.98 N; (b) F = 1.6 N"
+  },
+  {
+    "question_number": 9.14,
+    "images":["images/arihant_ch16_96.png"],
+    "Questions": "A 0.90-kg body is whirled in a vertical circle of radius 2.50 m. (a) What is the minimum speed at the top to maintain the circular path? (b) What speed will the object have at the bottom under this condition? (c) Find the tension in the cord at the bottom.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) v_t = √(rg) = 4.95 m/s; (b) v_b = 11.1 m/s; (c) F_Tb = m(g + v_b²/r) = 53 N"
+  },
+  {
+    "question_number": 9.15,
+    "images":["images/arihant_ch16_97.png"],
+    "Questions": "A curve of radius 30 m is banked for a car traveling at 13 m/s without friction. What is the required banking angle?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "tan θ = v²/(gr) = (13²)/(9.81×30) = 0.575 ⇒ θ = 30°"
+  },
+  {
+    "question_number": 9.16,
+    "images":["images/arihant_ch16_98.png"],
+    "Questions": "A cylindrical shell of radius 150 cm rotates with a block inside. If μ_s = 0.30, how fast must it rotate to prevent the block from falling?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "ω = √(g/μ_s r) = √(9.81 / (0.30×1.50)) = 4.7 rad/s = 0.74 rev/s"
+  },
+  {
+    "question_number": 9.17,
+    "Questions": "Convert (a) 50.0 rev to radians, (b) 48π rad to revolutions, (c) 72.0 rps to rad/s, (d) 1.50 × 10³ rpm to rad/s, (e) 22.0 rad/s to rpm, (f) 2.000 rad/s to deg/s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 314 rad; (b) 24 rev; (c) 452 rad/s; (d) 157 rad/s; (e) 210 rev/min; (f) 114.6 deg/s"
+  },
+  {
+    "question_number": 9.18,
+    "Questions": "Express 40.0 deg/s in (a) rev/s, (b) rev/min, and (c) rad/s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 0.111 rev/s; (b) 6.67 rev/min; (c) 0.698 rad/s"
+  },
+  {
+    "question_number": 9.19,
+    "Questions": "A flywheel turns at 480 rpm. Compute angular speed and tangential speed at 30.0 cm from center.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "50.3 rad/s, 15.1 m/s"
+  },
+  {
+    "question_number": 9.20,
+    "Questions": "A grinding wheel radius 9.0 cm moves at 6.0 m/s. (a) Determine angular speed. (b) How much thread is wound in 3.0 s?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 67 rad/s; (b) 18 m"
+  },
+  {
+    "question_number": 9.21,
+    "Questions": "Through how many radians and at what speed does a point on Earth’s equator move in 6.00 h? Take Earth's radius = 6370 km.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "1.57 rad, 463 m/s"
+  },
+  {
+    "question_number": 9.22,
+    "Questions": "A wheel 25.0 cm in radius turns from 120 rpm to 660 rpm in 9.00 s. Find (a) angular acceleration in rad/s², (b) tangential acceleration at rim.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 6.28 rad/s²; (b) 157 cm/s²"
+  },
+  {
+    "question_number": 9.23,
+    "Questions": "Angular speed of disk decreases from 12.00 to 4.00 rad/s in 16.0 s. Compute angular acceleration and revolutions made.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "−0.500 rad/s², 20.4 rev"
+  },
+  {
+    "question_number": 9.24,
+    "Questions": "A 30 cm radius wheel turns at 8.0 rev/s and slows to rest in 14 s. Find revolutions made and car distance.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "56 rev, 0.11 km"
+  },
+  {
+    "question_number": 9.25,
+    "Questions": "A wheel at 6.00 rev/s has angular acceleration of 4.00 rad/s². Find (a) number of turns to 26.0 rev/s, and (b) time taken.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "502 rev, 31.4 s"
+  },
+  {
+    "question_number": 9.26,
+    "Questions": "String on 20 cm diameter wheel is pulled at 75 cm/s. How many turns for 9.0 m unwound? How long?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "14 rev, 12 s"
+  },
+  {
+    "question_number": 9.27,
+    "Questions": "1.5 kg mass moves in circle of 25 cm radius at 2.0 rev/s. Calculate (a) tangential speed, (b) acceleration, (c) centripetal force.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "3.1 m/s; 39 m/s²; 59 N"
+  },
+  {
+    "question_number": 9.28,
+    "Questions": "(a) Find radial acceleration at 60° N on Earth. (b) At pole?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "0.0337 m/s²; zero"
+  },
+  {
+    "question_number": 9.29,
+    "Questions": "Car at 5.0 m/s rounds 8.0 m radius curve. What is smallest coefficient of friction to avoid skidding?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "0.32"
+  },
+  {
+    "question_number": 9.30,
+    "Questions": "Box on platform radius 2.0 m, μ = 0.25. What angular speed before sliding begins?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "1.1 rad/s"
+  },
+  {
+    "question_number": 9.31,
+    "Questions": "Stone in vertical circle of radius 60 cm. Find least speed to stay in contact at top.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "2.4 m/s"
+  },
+  {
+    "question_number": 9.32,
+    "Questions": "80.0 cm pendulum bob raised 20.0 cm and released. Find speed at bottom and tension in cord.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "1.98 m/s; 0.735 N"
+  },
+  {
+    "question_number": 9.33,
+    "Questions": "Using Fig. 9-4, how large must h be (in terms of R) for frictionless wire to exert force at B?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "2.5 R"
+  },
+  {
+    "question_number": 9.34,
+    "Questions": "In Fig. 9-4 and Prob. 9.33, if h = 2.5 R, what force does 50-g bead exert at C?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "2.9 N"
+  },
+  {
+    "question_number": 9.35,
+    "Questions": "Satellite orbits Earth at 200 km height, radius 6570 km. Find (a) speed, (b) orbit time.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "7.8 km/s, 88 min"
+  },
+  {
+    "question_number": 9.36,
+    "Questions": "Coaster goes over top of hill with radius 15 m. How much higher must first hill be?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "7.5 m"
+  },
+  {
+    "question_number": 9.37,
+    "Questions": "Pilot dives at 770 km/h. What minimum curvature radius to keep g-force < 9.0g?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "519 m"
+  },
+  {
+    "question_number": 9.38,
+    "Questions": "Glider at 40.0 m/s, mass 60.0 kg, loop seat force 350 N. Find loop radius.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "102 m"
+  },
+  {
+    "question_number": 9.39,
+    "Questions": "Earth radius = 6370 km. Person weighs 600.0 N at north pole. What is weight at equator?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "597.9 N"
+  },
+  {
+    "question_number": 9.40,
+    "Questions": "Mass m at end of cord swings at 40.0° from vertical. Find tension in cord at 20.0°.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "1.29 mg"
+  }
+]

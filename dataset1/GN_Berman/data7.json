@@ -1,0 +1,2504 @@
+[
+  {
+    "ID": "3001",
+    "Questions": "Find the domain of definition of the function u = 1/√x + 1/√y + 1/√z.",
+    "Answers": "x > 0, y > 0, z > 0."
+  },
+  {
+    "ID": "3002",
+    "Questions": "Find the domain of definition of the function u = √(R² - x² - y² - z²) + 1/√(x² + y² + z² - r²) (R > r).",
+    "Answers": "The part of space lying between the spheres x² + y² + z² = r² and x² + y² + z² = R², including the surface of the exterior and excluding the surface of the interior sphere."
+  },
+  {
+    "ID": "3003",
+    "Questions": "Work out the limits of the functions of problems 3003-3008 on the assumption that the independent variables approach their limiting values in an arbitrary manner:\nlim (x→0, y→0) (x² + y²)/(√(x² + y² + 1) - 1)",
+    "Answers": "2."
+  },
+  {
+    "ID": "3004",
+    "Questions": "Work out the limits of the functions of problems 3003-3008 on the assumption that the independent variables approach their limiting values in an arbitrary manner:\nlim (x→0, y→0) √(x²y² + 1) - 1 / (x² + y²)",
+    "Answers": "0."
+  },
+  {
+    "ID": "3005",
+    "Questions": "Work out the limits of the functions of problems 3003-3008 on the assumption that the independent variables approach their limiting values in an arbitrary manner:\nlim (x→0, y→0) sin(x³ + y³)/(x² + y²)",
+    "Answers": "0."
+  },
+  {
+    "ID": "3006",
+    "Questions": "Work out the limits of the functions of problems 3003-3008 on the assumption that the independent variables approach their limiting values in an arbitrary manner:\nlim (x→0, y→0) (1 - cos(x² + y²))/((x² + y²)x²y²)",
+    "Answers": "The function has no limit as x→0, y→0."
+  },
+  {
+    "ID": "3007",
+    "Questions": "Work out the limits of the functions of problems 3003-3008 on the assumption that the independent variables approach their limiting values in an arbitrary manner:\nlim (x→0, y→0) e^(-1/(x²+y²))/(x⁴+y⁴)",
+    "Answers": "0."
+  },
+  {
+    "ID": "3008",
+    "Questions": "Work out the limits of the functions of problems 3003-3008 on the assumption that the independent variables approach their limiting values in an arbitrary manner:\nlim (x→0, y→0) (1+x²y²)^(1/(x²+y²))",
+    "Answers": "1."
+  },
+  {
+    "ID": "3009",
+    "Questions": "Verify that the function u = (x+y)/(x-y) can tend to any limit as x→0, y→0 (depending on how x and y tend to zero). Give examples of variations of x and y such that: (a) lim u = 1, (b) lim u = 2.",
+    "Answers": "(a) y=0 or y=x² (x>1), x→0 in accordance with any law; (b) y = x/3, x→0 in accordance with any law."
+  },
+  {
+    "ID": "3010",
+    "Questions": "Find the point of discontinuity of the function z = 2/(x²+y²). How does the function behave in the neighbourhood of the point of discontinuity?",
+    "Answers": "The point (0,0); near this point the function can take positive values as large as desired."
+  },
+  {
+    "ID": "3011",
+    "Questions": "Find the point of discontinuity of the function z = 1/(sin²πx + sin²πy).",
+    "Answers": "All points with integral coordinates."
+  },
+  {
+    "ID": "3012",
+    "Questions": "Where is the function z = 1/(x-y) discontinuous?",
+    "Answers": "On the straight line y=x."
+  },
+  {
+    "ID": "3013",
+    "Questions": "Where is the function z = 1/sin(πx) + 1/sin(πy) discontinuous?",
+    "Answers": "On the straight lines x = m, y = n (m and n are integers)."
+  },
+  {
+    "ID": "3014",
+    "Questions": "Where is the function z = (y²+2x)/(y²-2x) discontinuous?",
+    "Answers": "On the parabola y² = 2x."
+  },
+  {
+    "ID": "3015*",
+    "Questions": "Investigate the continuity of the functions at x=0, y=0:\n(1) f(x, y) = x²y²/(x²+y²); f(0,0) = 0.\n(2) f(x, y) = xy/(x²+y²); f(0,0) = 0.\n(3) f(x, y) = x³y³/(x²+y²); f(0,0) = 0.",
+    "Answers": "(1) continuous; (2) discontinuous; continuous with respect to x and y separately; (3) continuous; (4) discontinuous; (5) discontinuous; (6) discontinuous. Pass to polar coordinates."
+  },
+  {
+    "ID": "3016",
+    "Questions": "Given the function z = f(x,y) = 1/(x²+y²), construct a uniform net of curves of it for z = 1, 2, 3, 4.",
+    "Answers": "Circles with centres at the origin and radii respectively 1, 1/√2, 1/√3, 1/2."
+  },
+  {
+    "ID": "3017",
+    "Questions": "The function z = f(x, y) is given as follows: at the point P(x, y) its value is equal to the angle subtended at this point by a segment AB given in the xOy plane. Find the level lines of function f(x, y).",
+    "Answers": "Circles through points A and B."
+  },
+  {
+    "ID": "3018",
+    "Questions": "Trace the level lines of the functions of problems 3018-3021 by assigning to z values 1 apart from -5 to +5: z = xy.",
+    "Answers": "The straight lines y = ax+b, where a = ln b."
+  },
+  {
+    "ID": "3019",
+    "Questions": "Trace the level lines of the functions of problems 3018-3021 by assigning to z values 1 apart from -5 to +5: z = x²y + x.",
+    "Answers": "Concentric spheres with centre at the point A and radii equal to 1, 2, 3, 4."
+  },
+  {
+    "ID": "3020",
+    "Questions": "Trace the level lines of the functions of problems 3018-3021 by assigning to z values 1 apart from -5 to +5: z = y(x² + 1).",
+    "Answers": "Ellipsoids of revolution with foci at points A and B: √[(x-x₁)² + (y-y₁)² + (z-z₁)²] + √[(x-x₂)² + (y-y₂)² + (z-z₂)²] = const."
+  },
+  {
+    "ID": "3021",
+    "Questions": "Trace the level lines of the functions of problems 3018-3021 by assigning to z values 1 apart from -5 to +5: z = (xy-1)/x².",
+    "Answers": "The spheres x² + y² + z² = (c-1)²/(c+1)², where c > 1."
+  },
+  {
+    "ID": "3022",
+    "Questions": "Draw the level lines of the function z = (x² + y²)² — 2(x² — y²), by assigning to z values every 1/2 from —1 to 3/2.",
+    "Answers": "The paraboloids of revolution x² + y² = cz."
+  },
+  {
+    "ID": "3023",
+    "Questions": "Draw the level lines of the function z given implicitly by the equation (3/2)^z[(x-5)²+y²] = (4/3)^z[(x+5)²+y²], by giving z values unity apart from -4 to 4.",
+    "Answers": "(1) The planes 2x+3y-z=C; (2) the hyperboloids of revolution or cone x² + y² - 2z² = C."
+  },
+  {
+    "ID": "3024",
+    "Questions": "Draw the level lines of the function z given implicitly by the equation y² = 2⁻ᶻ(x — z), by giving z values 1/2 apart from —3 to 3.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3025",
+    "Questions": "Find the level lines of the function z given implicitly by the equation z + x ln z + y = 0.",
+    "Answers": "The straight lines y=ax+b, where a = ln b."
+  },
+  {
+    "ID": "3026",
+    "Questions": "A point A is given in space. The distance of a variable point M from point A is a function of the coordinates of M. Find the level surfaces of this function, corresponding to distances equal to 1, 2, 3, 4.",
+    "Answers": "Concentric spheres with centre at the point A and radii equal to 1, 2, 3, 4."
+  },
+  {
+    "ID": "3027",
+    "Questions": "A function u = f(x, y, z) is specified as follows: its value at the point P(x, y, z) is equal to the sum of the distances of this point from two given points: A(x₁, y₁, z₁), B(x₂, y₂, z₂). Find the level surfaces of function f(x, y, z).",
+    "Answers": "Ellipsoids of revolution with foci at points A and B: √((x-x₁)² + (y-y₁)² + (z-z₁)²)+√((x-x₂)² + (y-y₂)² + (z-z₂)²)=const."
+  },
+  {
+    "ID": "3028",
+    "Questions": "Find the level surfaces of the function u = ln((1+√(x²+y²+z²))/(1-√(x²+y²+z²))).",
+    "Answers": "The spheres x² + y² + z² = ((c-1)/(c+1))², where c > 1."
+  },
+  {
+    "ID": "3029",
+    "Questions": "Find the level surfaces of the function u = (x²+y²)/z.",
+    "Answers": "The paraboloids of revolution x² + y² = cz."
+  },
+  {
+    "ID": "3030",
+    "Questions": "Find the level surfaces of the functions:\n(1) u = 5^(2x+3y-z), (2) u = tan(x² + y² — 2z²).",
+    "Answers": "(1) The planes 2x+3y-z=C; (2) the hyperboloids of revolution or cone x² + y² - 2z² = C."
+  },
+  {
+    "ID": "3031",
+    "Questions": "Figure 58 illustrates the level lines of a function z = f(x, y). Construct the graph of the functions:\n(1) z = f(x,0); (2) z = f(x,4); (3) z = f(1,y); (4) z = f(-5,y); (5) z = f(x,3x); (6) z = f(x,x²).",
+    "Answers": "Solution not provided in the answers section."
+  ,"images":["Img2/Berman_58.png"]},
+  {
+    "ID": "3032",
+    "Questions": "The volume v of a gas is a function of its temperature and pressure: v = f(p, T). The mean coefficient of expansion of the gas at constant pressure, for a temperature variation from T₁ to T₂, is defined as (v₂-v₁)/(v₁(T₂-T₁)). How should we define the coefficient of expansion at constant pressure at a given temperature T₀?",
+    "Answers": "1/v * dv/dT for T = T₀."
+  },
+  {
+    "ID": "3033",
+    "Questions": "The temperature of a given point A of a rod Ox is a function of the abscissa x of A and time t: θ = f(x, t). What are the physical significances of partial derivatives ∂θ/∂t and ∂θ/∂x?",
+    "Answers": "∂θ/∂t is the rate of change of temperature at the given point; ∂θ/∂x is the rate of change of temperature at the given instant with respect to distance (along the rod)."
+  },
+  {
+    "ID": "3034",
+    "Questions": "The area S of a rectangle is given in terms of the base b and height h by the formula S = bh. Find ∂S/∂b, ∂S/∂h and explain the geometrical meaning of the results.",
+    "Answers": "∂S/∂h = b is the rate of change of the area as a function of the height of the rectangle; ∂S/∂b = h is the rate of change of the area as a function of the base of the rectangle."
+  },
+  {
+    "ID": "3035",
+    "Questions": "Given the two functions u = √(a²-x²) (a is constant) and z = √(y²-x²), find du/dx and ∂z/∂x. Compare the results.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3036",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = x-y.",
+    "Answers": "∂z/∂x = 1, ∂z/∂y = -1."
+  },
+  {
+    "ID": "3037",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = x³y - y³x.",
+    "Answers": "∂z/∂x = 3x²y - y³; ∂z/∂y = x³ - 3y²x."
+  },
+  {
+    "ID": "3038",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function θ = axe⁻ᵗ + bt (a,b constants).",
+    "Answers": "∂θ/∂x = ae⁻ᵗ; ∂θ/∂t = -axe⁻ᵗ + b."
+  },
+  {
+    "ID": "3039",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = u/v + v/u.",
+    "Answers": "∂z/∂u = 1/v - v/u²; ∂z/∂v = -u/v² + 1/u."
+  },
+  {
+    "ID": "3040",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = (x³+y³)/(x²+y²).",
+    "Answers": "∂z/∂x = (x⁴+3x²y²-2xy³)/(x²+y²)²; ∂z/∂y = (y⁴+3x²y²-2x³y)/(x²+y²)²."
+  },
+  {
+    "ID": "3041",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = (5x²y-y³+7)³.",
+    "Answers": "∂z/∂x = 30xy(5x²y-y³+7)²; ∂z/∂y = 3(5x²y-y³+7)²(5x²-3y²)."
+  },
+  {
+    "ID": "3042",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = x√y + y/√x.",
+    "Answers": "∂z/∂x = √y - y/(2√x³); ∂z/∂y = x/(2√y) + 1/√x."
+  },
+  {
+    "ID": "3043",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = ln(x + √(x²+y²)).",
+    "Answers": "∂z/∂x = 1/√(x²+y²); ∂z/∂y = (1/√(x²+y²)) * (y/(x+√(x²+y²)))."
+  },
+  {
+    "ID": "3044",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = arc tan(x/y).",
+    "Answers": "∂z/∂x = y/(x²+y²); ∂z/∂y = -x/(x²+y²)."
+  },
+  {
+    "ID": "3045",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = 1/arc tan(y/x).",
+    "Answers": "∂z/∂x = y/((x²+y²)(arctan(y/x))²); ∂z/∂y = -x/((x²+y²)(arctan(y/x))²)."
+  },
+  {
+    "ID": "3046",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = xʸ.",
+    "Answers": "∂z/∂x = yx^(y-1); ∂z/∂y = x^y ln x."
+  },
+  {
+    "ID": "3047",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = ln(x²+y²).",
+    "Answers": "∂z/∂x = 2x/(x²+y²); ∂z/∂y = 2y/(x²+y²)."
+  },
+  {
+    "ID": "3048",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = ln(√(x²+y²)-x) / (√(x²+y²)+x).",
+    "Answers": "∂z/∂x = -2/√(x²+y²); ∂z/∂y = (2x)/(y√(x²+y²))."
+  },
+  {
+    "ID": "3049",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = arc sin(√(x²-y²)/√(x²+y²)).",
+    "Answers": "∂z/∂x = -y√2 / ((x²+y²)√(y²-x²)); ∂z/∂y = x√2 / ((x²+y²)√(y²-x²))."
+  },
+  {
+    "ID": "3050",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = ln tan(x/y).",
+    "Answers": "∂z/∂x = 2/(y sin(2x/y)); ∂z/∂y = -2x/(y² sin(2x/y))."
+  },
+  {
+    "ID": "3051",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = e^(x/y).",
+    "Answers": "∂z/∂x = 1/y * e^(x/y); ∂z/∂y = -x/y² * e^(x/y)."
+  },
+  {
+    "ID": "3052",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = ln(x+ln y).",
+    "Answers": "∂z/∂x = 1/(x+ln y); ∂z/∂y = 1/(y(x+ln y))."
+  },
+  {
+    "ID": "3053",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = arc tan((v+w)/(v-w)).",
+    "Answers": "∂u/∂v = -w/(v²+w²); ∂u/∂w = v/(v²+w²)."
+  },
+  {
+    "ID": "3054",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = sin(x/y)cos(y/x).",
+    "Answers": "∂z/∂x = 1/y cos(x/y)cos(y/x) + y/x² sin(x/y)sin(y/x); ∂z/∂y = -x/y² cos(x/y)cos(y/x) - 1/x sin(x/y)sin(y/x)."
+  },
+  {
+    "ID": "3055",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = (1/3)^(y/x).",
+    "Answers": "∂z/∂x = (y/x²)3^(y/x)ln 3; ∂z/∂y = (-1/x)3^(y/x)ln 3."
+  },
+  {
+    "ID": "3056",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = (1+xy)ʸ.",
+    "Answers": "∂z/∂x = y²(1+xy)ʸ⁻¹; ∂z/∂y = xy(1+xy)ʸ⁻¹ + (1+xy)ʸln(1+xy)."
+  },
+  {
+    "ID": "3057",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = xy ln(x+y).",
+    "Answers": "∂z/∂x = y ln(x+y) + xy/(x+y); ∂z/∂y = x ln(x+y) + xy/(x+y)."
+  },
+  {
+    "ID": "3058",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = x^(x/y).",
+    "Answers": "∂z/∂x = x^(x/y-1)(x/y + (x/y)ln x); ∂z/∂y = -x^(x/y+1)ln²x/y²."
+  },
+  {
+    "ID": "3059",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = xʸᶻ.",
+    "Answers": "∂u/∂x = yzx^(yz-1); ∂u/∂y = x^(yz)zln x; ∂u/∂z = x^(yz)yln x."
+  },
+  {
+    "ID": "3060",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = xy + yz + zx.",
+    "Answers": "∂u/∂x = y+z; ∂u/∂y = x+z; ∂u/∂z = x+y."
+  },
+  {
+    "ID": "3061",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = √(x²+y²+z²).",
+    "Answers": "∂u/∂x = x/√(x²+y²+z²); ∂u/∂y = y/√(x²+y²+z²); ∂u/∂z = z/√(x²+y²+z²)."
+  },
+  {
+    "ID": "3062",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = x³ + yz² + 3yx — x + z.",
+    "Answers": "∂u/∂x = 3x² + 3y - 1; ∂u/∂y = z² + 3x; ∂u/∂z = 2yz + 1."
+  },
+  {
+    "ID": "3063",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function w = xyz + yzv + zux + vxy.",
+    "Answers": "∂w/∂x = yz+vz+vy; ∂w/∂y = xz+zv+vx; ∂w/∂z = xy+yv+vx; ∂w/∂v = yz+xz+xy."
+  },
+  {
+    "ID": "3064",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = e^(x(x²+y²+z²)).",
+    "Answers": "∂u/∂x = (3x²+y²+z²)e^(x(x²+y²+z²)); ∂u/∂y = 2xye^(x(x²+y²+z²)); ∂u/∂z = 2xze^(x(x²+y²+z²))."
+  },
+  {
+    "ID": "3065",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = sin(x²+y²+z²).",
+    "Answers": "∂u/∂x = 2x cos(x²+y²+z²); ∂u/∂y = 2y cos(x²+y²+z²); ∂u/∂z = 2z cos(x²+y²+z²)."
+  },
+  {
+    "ID": "3066",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = ln(x+y+z).",
+    "Answers": "∂u/∂x = ∂u/∂y = ∂u/∂z = 1/(x+y+z)."
+  },
+  {
+    "ID": "3067",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = x^(y/z).",
+    "Answers": "∂u/∂x = y/z * x^(y/z-1); ∂u/∂y = 1/z * x^(y/z) ln x; ∂u/∂z = -y/z² * x^(y/z) ln x."
+  },
+  {
+    "ID": "3068",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = xʸᶻ.",
+    "Answers": "∂u/∂x = yᶻx^(yᶻ-1); ∂u/∂y = zy^(z-1)x^(y^z) ln x; ∂u/∂z = yᶻx^(y^z) ln y ln x."
+  },
+  {
+    "ID": "3069",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function f(x,y) = x+y-√(x²+y²).",
+    "Answers": "∂f/∂x = 1 - x/√(x²+y²); ∂f/∂y = 1 - y/√(x²+y²)."
+  },
+  {
+    "ID": "3070",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = ln(x+y/2x).",
+    "Answers": "∂f/∂x = (2/x)(1-y/2x); ∂f/∂y = 1/x."
+  },
+  {
+    "ID": "3071",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = (2x+y)^(2x+y).",
+    "Answers": "∂z/∂x = 2(2x+y)^(2x+y)[1 + ln(2x+y)]; ∂z/∂y = (2x+y)^(2x+y)[1 + ln(2x+y)]."
+  },
+  {
+    "ID": "3072",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = (1+log_y x)³.",
+    "Answers": "∂z/∂x = (3/x ln y)(1 + log_y x)²; ∂z/∂y = (-3 ln x / y ln²y)(1 + log_y x)²."
+  },
+  {
+    "ID": "3073",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = xye^(sin πxy).",
+    "Answers": "∂z/∂x = ye^(sin πxy)(1 + πxy cos πxy); ∂z/∂y = xe^(sin πxy)(1 + πxy cos πxy)."
+  },
+  {
+    "ID": "3074",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = (x²+y²)^(1/√(1-x²-y²)).",
+    "Answers": "∂z/∂x = (1-x²-y² - √(x²+y²))/(1+√(x²+y²))² * 2x; ∂z/∂y = (1-x²-y² - √(x²+y²))/(1+√(x²+y²))² * 2y."
+  },
+  {
+    "ID": "3075",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = arc tan(√xy).",
+    "Answers": "∂z/∂x = y√xy / (2x(1+xy)); ∂z/∂y = √xy / (2(1+xy))."
+  },
+  {
+    "ID": "3076",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = 2√((1-√xy)/(1+√xy)).",
+    "Answers": "∂z/∂x = -y/((1+√xy)√xy-x²y²); ∂z/∂y = -x/((1+√xy)√xy-x²y²)."
+  },
+  {
+    "ID": "3077",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = ln[xy² + yx² + √(1+(xy²+yx²)²)].",
+    "Answers": "∂z/∂x = (y²+2xy)/√(1+(xy²+yx²)²); ∂z/∂y = (x²+2xy)/√(1+(xy²+yx²)²)."
+  },
+  {
+    "ID": "3078",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = √[1 - ((x+y)/xy)²] + arc sin((x+y)/xy).",
+    "Answers": "∂z/∂x = -1/x² * √((xy-x-y)/(xy+x+y)); ∂z/∂y = -1/y² * √((xy-x-y)/(xy+x+y))."
+  },
+  {
+    "ID": "3079",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function z = arc tan( (arc tan(y/x))/(arc tan(x/y)) ).",
+    "Answers": "∂z/∂x = y[(1+arctan²(y/x))⁻¹ + 2arctan³(y/x)] / [(x²+y²)(1+arctan²(y/x))(1+arctan(y/x))]; ∂z/∂y = -x[(1+arctan²(y/x))⁻¹ + 2arctan³(y/x)] / [(x²+y²)(1+arctan²(y/x))(1+arctan(y/x))];"
+  },
+  {
+    "ID": "3080",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = k/(x²+y²+z²)².",
+    "Answers": "∂u/∂x = -4kx/(x²+y²+z²)³; ∂u/∂y = -4ky/(x²+y²+z²)³; ∂u/∂z = -4kz/(x²+y²+z²)³."
+  },
+  {
+    "ID": "3081",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = arc tan(x-y)ᶻ.",
+    "Answers": "∂u/∂x = z(x-y)^(z-1) / (1+(x-y)²ᶻ); ∂u/∂y = -z(x-y)^(z-1) / (1+(x-y)²ᶻ); ∂u/∂z = (x-y)ᶻln(x-y) / (1+(x-y)²ᶻ)."
+  },
+  {
+    "ID": "3082",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = x^(y/z).",
+    "Answers": "∂u/∂x = (y/z)x^(y/z-1); ∂u/∂y = (1/z)x^(y/z)ln x; ∂u/∂z = (-y/z²)x^(y/z)ln x."
+  },
+  {
+    "ID": "3083",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function u = ln(1 - √(x²+y²+z²)) / (1 + √(x²+y²+z²)).",
+    "Answers": "∂u/∂x = -x/(z(r²-z²)); ∂u/∂y = -y/(z(r²-z²)); ∂u/∂z = (r²-2z²)/(z(r²-z²)), where r = √(x²+y²+z²)."
+  },
+  {
+    "ID": "3084",
+    "Questions": "Find the partial derivatives with respect to each of the independent variables of the function w = 1/2 tan²(x²y² + z²v² — xyzv) + ln cos(x²y² + z²v² — xyvz).",
+    "Answers": "∂w/∂x = (2xy² - yzv)tan³α; ∂w/∂y = (2x²y - xzv)tan³α; ∂w/∂z = (2zv² - xyv)tan³α; ∂w/∂v = (2z²v - xyz)tan³α. where α = x²y² + z²v² - xyzv."
+  },
+  {
+    "ID": "3085",
+    "Questions": "u = cos(φ — 2ψ) / cos(φ + 2ψ). Find (∂u/∂ψ) at φ=π/4, ψ=π/4.",
+    "Answers": "4."
+  },
+  {
+    "ID": "3086",
+    "Questions": "u = ³√(az³ — bt³). Find ∂u/∂z and ∂u/∂t at z=b, t=a.",
+    "Answers": "(∂u/∂z)|_{z=b, t=a} = 3b² / (³√(a³b-b³a))²; (∂u/∂t)|_{z=b, t=a} = -3a²/ (³√(a³b-b³a))²."
+  },
+  {
+    "ID": "3087",
+    "Questions": "z = (x cos y — y cos x)/(1 + sin x + sin y). Find ∂z/∂x and ∂z/∂y at x=y=0.",
+    "Answers": "1 and -1."
+  },
+  {
+    "ID": "3088",
+    "Questions": "u = √(sin²x + sin²y + sin²z). Find (∂u/∂z) at x=y=z=π/2.",
+    "Answers": "0."
+  },
+  {
+    "ID": "3089",
+    "Questions": "u = ln(1 + x + y² + z³). Find u'ₓ + u'ᵧ + u'z at x=y=z=1.",
+    "Answers": "3/2."
+  },
+  {
+    "ID": "3090",
+    "Questions": "f(x, y) = x³y — y³x. Find (∂f/∂x)(∂f/∂y)|_{x=1,y=2} / (∂f/∂y)(∂f/∂x)|_{x=1,y=2}.",
+    "Answers": "-13/22."
+  },
+  {
+    "ID": "3091",
+    "Questions": "What angle does the tangent to the curve {z = (x²+y²)/4, y=4} at the point (2, 4, 5) form with the positive direction of the axis of abscissae?",
+    "Answers": "45°."
+  },
+  {
+    "ID": "3092",
+    "Questions": "What angle does the tangent to the curve {z = √(1+x²+y²), x=1} at the point (1, 1, √3) form with the positive direction of the axis of ordinates?",
+    "Answers": "30°."
+  },
+  {
+    "ID": "3093",
+    "Questions": "What is the angle of intersection of the plane curves obtained as a result of the intersection of the surfaces z = x² + y²/6 and z = (x²+y²)/3 with the plane y=2?",
+    "Answers": "arc tan 4/7."
+  },
+  {
+    "ID": "3094",
+    "Questions": "Find the partial differentials with respect to each of the independent variables of the function z = xy³ — 3x²y² + 2y⁴.",
+    "Answers": "dxz = (y³-6xy²)dx; dyz = (3xy²-6x²y+8y³)dy."
+  },
+  {
+    "ID": "3095",
+    "Questions": "Find the partial differentials with respect to each of the independent variables of the function z = √(x²+y²).",
+    "Answers": "dxz = xdx/√(x²+y²); dyz = ydy/√(x²+y²)."
+  },
+  {
+    "ID": "3096",
+    "Questions": "Find the partial differentials with respect to each of the independent variables of the function z = xy/(x²+y²).",
+    "Answers": "dxz = y(y²-x²)dx / (x²+y²)²; dyz = x(x²-y²)dy / (x²+y²)²."
+  },
+  {
+    "ID": "3097",
+    "Questions": "Find the partial differentials with respect to each of the independent variables of the function u = ln(x³+2y³-z³).",
+    "Answers": "dxu = 3x²dx/(x³+2y³-z³); dyu = 6y²dy/(x³+2y³-z³); dzu = -3z²dz/(x³+2y³-z³)."
+  },
+  {
+    "ID": "3098",
+    "Questions": "z = ³√(x+y²). Find dyz for x=2, y=5, Δy=0.01.",
+    "Answers": "1/270."
+  },
+  {
+    "ID": "3099",
+    "Questions": "z = √(ln xy). Find dxz for x=1, y=1.2, Δx=0.016.",
+    "Answers": "≈ 0.0187."
+  },
+  {
+    "ID": "3100",
+    "Questions": "u = p - qr/p + √(p+q+r). Find d_p u for p=1, q=3, r=5, Δp=0.01.",
+    "Answers": "97/600."
+  },
+  {
+    "ID": "3101",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: z = x²y³ — x³y² + x⁴y².",
+    "Answers": "x²y[(2y³-3xy²+4x²y)dx + (4y²x-3yx²+2x³)dy]."
+  },
+  {
+    "ID": "3102",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: z = 1/2 ln(x²+y²).",
+    "Answers": "(xdx+ydy)/(x²+y²)."
+  },
+  {
+    "ID": "3103",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: z = (x+y)/(x-y).",
+    "Answers": "2(xdx-ydy)/(x-y)²."
+  },
+  {
+    "ID": "3104",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: z = arc sin(x/y).",
+    "Answers": "(ydx-xdy)/(y√(y²-x²))."
+  },
+  {
+    "ID": "3105",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: z = sin(xy).",
+    "Answers": "(ydx+xdy)cos(xy)."
+  },
+  {
+    "ID": "3106",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: z = arc tan((x+y)/(1-xy)).",
+    "Answers": "dx/(1+x²) + dy/(1+y²)."
+  },
+  {
+    "ID": "3107",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: z = (x²+y²)/(x²-y²).",
+    "Answers": "4xy(xdy-ydx)/(x²-y²)²."
+  },
+  {
+    "ID": "3108",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: z = arc tan(xy).",
+    "Answers": "(ydx+xdy)/(1+x²y²)."
+  },
+  {
+    "ID": "3109",
+    "Questions": "Find the total differentials of the functions of problems 3101-3109: u = x^(y/z).",
+    "Answers": "x^(y/z-1)(yzdx + zxlnxdy + xylnx dz)."
+  },
+  {
+    "ID": "3110",
+    "Questions": "Find the value of the total differential of the function z = x+y-√(x²+y²) for x=3, y=4, Δx=0.1, Δy=0.2.",
+    "Answers": "0.08."
+  },
+  {
+    "ID": "3111",
+    "Questions": "Find the value of the total differential of the function z = e^(xy) for x=1, y=1, Δx=0.15, Δy=0.1.",
+    "Answers": "0.25e."
+  },
+  {
+    "ID": "3112",
+    "Questions": "Find the value of the total differential of the function z = xy/(x²-y²) for x=2, y=1, Δx=0.01, Δy=0.03.",
+    "Answers": "1/36."
+  },
+  {
+    "ID": "3113",
+    "Questions": "Work out approximately the variation of the function z = (x+3y)/(y-3x) when x varies from x₁=2 to x₂=2.5 and y from y₁=4 to y₂=3.5.",
+    "Answers": "≈ 7.5."
+  },
+  {
+    "ID": "3114",
+    "Questions": "Evaluate approximately ln(³√1.03 + ⁴√0.98 - 1).",
+    "Answers": "≈ 0.005."
+  },
+  {
+    "ID": "3115",
+    "Questions": "Work out approximately 1.04^(2.02).",
+    "Answers": "≈ 1.08."
+  },
+  {
+    "ID": "3116",
+    "Questions": "Find the length of the segment of the straight line x=2, y=3 lying between the surface z = x²+y² and its tangent plane at the point (1,1,2).",
+    "Answers": "5."
+  },
+  {
+    "ID": "3117",
+    "Questions": "A body weighs (4.1 ± 0.1) g in air and (1.8 ± 0.2) g in water. Find the specific weight of the body and indicate the error in the working.",
+    "Answers": "1.8 ± 0.2."
+  },
+  {
+    "ID": "3118",
+    "Questions": "The base radius of a cone is equal to 10.2 ± 0.1 cm, the generator is equal to 44.6 ± 0.1 cm. Find the volume of the cone and indicate the error in the working.",
+    "Answers": "4730 ± 100."
+  },
+  {
+    "ID": "3119",
+    "Questions": "The formula S = (1/2)a²(sinB sinC)/(sin(B+C)) is used for calculating the area S of a triangle with side a and angles B, C. Find the relative error δ_S in calculating S if the relative errors of the given elements are respectively δ_a, δ_B, δ_C.",
+    "Answers": "2δₐ + δ_B sinC/(sinBsin(B+C)) + δ_C sinB/(sinCsin(B+C))."
+  },
+  {
+    "ID": "3120",
+    "Questions": "One side of a triangle has a length of 2.4 m and increases at a rate of 10 cm/sec; the second side, of length 1.5 m, diminishes at a rate of 5 cm/sec. The angle included between these sides is equal to 60° and increases at a rate of 2° per sec. How, and at what rate, does the area of the triangle vary?",
+    "Answers": "Increases at a rate of 444 cm²/sec."
+  },
+  {
+    "ID": "3121",
+    "Questions": "The frustum of a cone has base radii R = 30 cm, r = 20 cm, and height h = 40 cm. How does the volume of the frustum vary if R increases by 3 mm, r by 4 mm, h by 2 mm?",
+    "Answers": "By ≈ 2575 cm³."
+  },
+  {
+    "ID": "3122",
+    "Questions": "Show that, when calculating the period T of vibration of a pendulum in accordance with the formula T = 2π√(l/g) (l is the length of the pendulum, g the acceleration due to gravity), the relative error is equal to half the sum of the relative errors in the determination of l and g (all the errors are assumed sufficiently small).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3123",
+    "Questions": "Express the maximum error when evaluating the radius r of arc AB (Fig. 59) of a circle in terms of the errors ds and dp in measuring chord 2s and length p. Work out dr when 2s = 19.45 cm ±0.5 mm, p = 3.62 cm ±0.3 mm.",
+    "Answers": "dr = (s/p)ds + (1/2)(1+s²/p²)dp = 0.16 cm, i.e. about 1%."
+  ,"images":["Img2/Berman_59.png"]},
+  {
+    "ID": "3124",
+    "Questions": "u = e^(x-2y), where x=sin t, y=t³; du/dt = ?",
+    "Answers": "e^(sin t - 2t³)(cos t - 6t²)."
+  },
+  {
+    "ID": "3125",
+    "Questions": "u = z² + y² + zy, z = sin t, y = eᵗ; du/dt = ?",
+    "Answers": "sin 2t + 2e^(2t) + eᵗ(sin t + cos t)."
+  },
+  {
+    "ID": "3126",
+    "Questions": "z = arc sin(x-y), x=3t, y=4t³; dz/dt = ?",
+    "Answers": "(3-12t²)/√(1-(3t-4t³)²) ."
+  },
+  {
+    "ID": "3127",
+    "Questions": "z = x²y-y²x, where x=u cos v, y=u sin v; ∂z/∂v = ?",
+    "Answers": "-u³."
+  },
+  {
+    "ID": "3128",
+    "Questions": "z = x³ ln y, x = u/v, y = 3u - 2v; ∂z/∂u = ?, ∂z/∂v = ?",
+    "Answers": "∂z/∂u = (3u²/v³)ln(3u-2v) + 3u³/(v³(3u-2v)); ∂z/∂v = -3u³/v⁴ ln(3u-2v) - 2u³/(v³(3u-2v))."
+  },
+  {
+    "ID": "3129",
+    "Questions": "u = ln(eˣ+eʸ); ∂u/∂x = ? Find du/dx, if y=x³.",
+    "Answers": "(eˣ+eʸ3x²)/(eˣ+eʸ)."
+  },
+  {
+    "ID": "3130",
+    "Questions": "z = arc tan(xy); find dz/dx, if y=eˣ.",
+    "Answers": "eˣ(1+x)/(1+x²e²ˣ)."
+  },
+  {
+    "ID": "3131",
+    "Questions": "u = arc sin(x/z), where z = √(x²+1); du/dx = ?",
+    "Answers": "1/((x²+1)√x²-x+1)."
+  },
+  {
+    "ID": "3132",
+    "Questions": "z = tan(3t+2x²-y), x=1/t, y=√t; dz/dt = ?",
+    "Answers": "(3 - 4/t³ - 1/(2√t))sec²(3t+2/t²-√t)."
+  },
+  {
+    "ID": "3133",
+    "Questions": "u = e^(ax)(y-z)/a² + 1, y = a sin x, z = cos x; du/dx = ?",
+    "Answers": "(e^(ax)sin x)/a."
+  },
+  {
+    "ID": "3134",
+    "Questions": "z = xy arctan(xy+x+y); ∂z/∂x = ?, ∂z/∂y = ?, dz = ?",
+    "Answers": "∂z/∂x = y²dx+x²dy, ∂z/∂y = y²dx+x²dy. dz=y²dx+x²dy."
+  },
+  {
+    "ID": "3135",
+    "Questions": "z = (x²+y²)e^(x²/y²); ∂z/∂x = ?, ∂z/∂y = ?, dz = ?",
+    "Answers": "(∂z/∂x)dx + (∂z/∂y)dy."
+  },
+  {
+    "ID": "3136",
+    "Questions": "z = f(x²-y², e^(xy)); ∂z/∂x = ?, ∂z/∂y = ?",
+    "Answers": "∂z/∂x = 2x ∂f/∂u + y e^(xy) ∂f/∂v; ∂z/∂y = -2y ∂f/∂u + x e^(xy) ∂f/∂v, u = x²-y², v=e^(xy)."
+  },
+  {
+    "ID": "3137",
+    "Questions": "Verify that the function z = arc tan(x/y) where x=u+v, y=u-v, satisfies the relationship ∂z/∂u + ∂z/∂v = (u-v)/(v²+u²).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3138",
+    "Questions": "Verify that the function z = φ(x²+y²), where φ is a differentiable function, satisfies the relationship y(∂z/∂x) - x(∂z/∂y) = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3139",
+    "Questions": "u = sin x + F(sin y — sin x); verify that (∂u/∂x)cos y + (∂u/∂y)cos x = cos x cos y, whatever the differentiable function F.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3140",
+    "Questions": "z = y/f(x²-y²); verify that (1/x)(∂z/∂x) + (1/y)(∂z/∂y) = z/y², whatever the differentiable function f.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3141",
+    "Questions": "Show that a homogeneous differentiable function of zero degree z = F(y/x) (see problem 2961) satisfies the relationship x(∂z/∂x) + y(∂z/∂y) = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3142",
+    "Questions": "Show that the homogeneous function of the kth degree u = xᵏF(y/x, z/x), where F is a differentiable function, satisfies the relationship x(∂u/∂x) + y(∂u/∂y) + z(∂u/∂z) = ku.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3143",
+    "Questions": "Verify the proposition of problem 3142 for the function u = x² sin((z²+y²)/x²).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3144",
+    "Questions": "Given the differentiable function f(x,y), prove that, if variables x,y are replaced by linear homogeneous functions of X,Y, the function F(X,Y) obtained is connected with the given function by the relationship x(∂f/∂x)+y(∂f/∂y) = X(∂F/∂X)+Y(∂F/∂Y).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3145",
+    "Questions": "In problems 3145-3155, find the derivative dy/dx of the functions given implicitly by the equations indicated: 3x²y-y³x=a⁴.",
+    "Answers": "3(y-x)/(y³-x³)."
+  },
+  {
+    "ID": "3146",
+    "Questions": "In problems 3145-3155, find the derivative dy/dx of the functions given implicitly by the equations indicated: x²y²-x⁴-y⁴=a⁴.",
+    "Answers": "x(2y²-x²)/y(2x²-y²)."
+  },
+  {
+    "ID": "3147",
+    "Questions": "In problems 3145-3155, find the derivative dy/dx of the functions given implicitly by the equations indicated: xey+yeˣ-e^(xy)=0.",
+    "Answers": "(y-eʸ)(eˣ-xe^(xy))/(x-eˣ)(eʸ-ye^(xy))."
+  },
+  {
+    "ID": "3148",
+    "Questions": "In problems 3145-3155, find the derivative dy/dx of the functions given implicitly by the equations indicated: (x²+y²)²-a²(x²-y²)=0.",
+    "Answers": "x(x²+y²+a²)/y(a²-x²-y²)."
+  },
+  {
+    "ID": "3149",
+    "Questions": "In problems 3145-3155, find the derivative dy/dx of the functions given implicitly by the equations indicated: sin(xy)-e^(xy)-x²y=0.",
+    "Answers": "2xy-ycos(xy)+ye^(xy)/(xcos(xy)-xe^(xy)-x²)."
+  },
+  {
+    "ID": "3150",
+    "Questions": "In problems 3145-3155, find the derivative dy/dx of the functions given implicitly by the equations indicated: x^(2/3)+y^(2/3)=a^(2/3).",
+    "Answers": "-(y/x)^(1/3)."
+  },
+  {
+    "ID": "3151",
+    "Questions": "In problems 3145-3155, find the derivative dy/dx of the functions given implicitly by the equations indicated: xy-lny=a.",
+    "Answers": "y²/(1-xy)."
+  },
+  {
+    "ID": "3152",
+    "Questions": "arc tan((x+y)/a)-y/a=0.",
+    "Answers": "a²/(x²+y²)."
+  },
+  {
+    "ID": "3153",
+    "Questions": "yx²=eʸ.",
+    "Answers": "2y/(x(y-1))."
+  },
+  {
+    "ID": "3154",
+    "Questions": "yeˣ+eʸ=0.",
+    "Answers": "eˣ(1+y)/(eˣ+eʸ)."
+  },
+  {
+    "ID": "3155",
+    "Questions": "yˣ=xʸ.",
+    "Answers": "y(y-x ln y)/(x(x-y ln x))."
+  },
+  {
+    "ID": "3156",
+    "Questions": "F(x, y) = F(y, x). Show that the derivative of y with respect to x can be expressed with the aid of a fraction whose numerator is obtained from the denominator by interchanging the letters y and x.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3157",
+    "Questions": "x²+y²-4x-10y+4=0; find dy/dx for x=6, y=2 and for x=6, y=8. Give a geometrical interpretation of the results.",
+    "Answers": "(dy/dx)|_{x=6, y=2} = 4/3; (dy/dx)|_{x=6, y=8} = -4/3; the tangents to the circles at these points have the same angle of inclination to Ox."
+  },
+  {
+    "ID": "3158",
+    "Questions": "x³y+xy⁴-ax²y²=a⁵; find dy/dx for x=y=a.",
+    "Answers": "-1."
+  },
+  {
+    "ID": "3159",
+    "Questions": "Show that it follows from x²y²+x²+y²-1=0 that dx/√(1-x⁴) + dy/√(1-y⁴)=0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3160",
+    "Questions": "Show that it follows from a+b(x+y)+cxy=m(x-y) that dx/(a+2bx+cx²) = dy/(a+2by+cy²).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3161",
+    "Questions": "x²/a²+y²/b²+z²/c²=1; ∂z/∂x=?, ∂z/∂y=?",
+    "Answers": "∂z/∂x = -c²x/(a²z); ∂z/∂y = -c²y/(b²z)."
+  },
+  {
+    "ID": "3162",
+    "Questions": "x²-2y²+z²-4x+2z-5=0; ∂z/∂x=?, ∂z/∂y=?",
+    "Answers": "∂z/∂x = (2-x)/(z+1); ∂z/∂y = 2y/(z+1)."
+  },
+  {
+    "ID": "3163",
+    "Questions": "z³+3xyz=a³; ∂z/∂x=?, ∂z/∂y=?",
+    "Answers": "∂z/∂x = -yz/(xy+z²); ∂z/∂y = -xz/(xy+z²)."
+  },
+  {
+    "ID": "3164",
+    "Questions": "eᶻ-xyz=0; ∂z/∂x=?, ∂z/∂y=?",
+    "Answers": "∂z/∂x = z/(x(z-1)); ∂z/∂y = z/(y(z-1))."
+  },
+  {
+    "ID": "3165",
+    "Questions": "Show that, whatever the differentiable function φ, it follows from φ(cx-az, cy-bz)=0 that a(∂z/∂x)+b(∂z/∂y)=c.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3166",
+    "Questions": "F(x,y,z)=0. Prove that (∂x/∂y) * (∂y/∂z) * (∂z/∂x) = -1 (see Course, sec. 151).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3167",
+    "Questions": "Find the total differential of the function z defined by the equation cos²x+cos²y+cos²z=1.",
+    "Answers": "dz = -(sin 2x dx + sin 2y dy)/sin 2z."
+  },
+  {
+    "ID": "3168",
+    "Questions": "The function z is given parametrically: x=u+v, y=u-v, z=uv. Express z as an explicit function of x and y.",
+    "Answers": "z=(x²-y²)/4."
+  },
+  {
+    "ID": "3169",
+    "Questions": "x=u+v, y=u²+v², z=u³+v³. Express z as an explicit function of x and y.",
+    "Answers": "z=(3/2)xy-(1/2)x³."
+  },
+  {
+    "ID": "3170",
+    "Questions": "x=u cos v, y=u sin v, z=kv. Express z as an explicit function of x and y.",
+    "Answers": "z=k arctan(y/x)."
+  },
+  {
+    "ID": "3171",
+    "Questions": "Find ∂z/∂x, ∂z/∂y and dz for the function x=u²+v²/2, y=u²-v²/2, z=uv.",
+    "Answers": "dz=(ydx+xdy)/z."
+  },
+  {
+    "ID": "3172",
+    "Questions": "Find ∂z/∂x, ∂z/∂y and dz for the function x=√a(sin u+cos v), y=√a(cos u-sin v), z=1+sin(u-v).",
+    "Answers": "dz=√(2/a)(x dx - y dy)."
+  },
+  {
+    "ID": "3173",
+    "Questions": "Find ∂z/∂x, ∂z/∂y and dz for the function x=u+v, y=u-v, z=u²v².",
+    "Answers": "dz=e⁻ᵘ[(vcos v-usin v)dx+(ucos v+vsin v)dy]."
+  },
+  {
+    "ID": "3174",
+    "Questions": "Find ∂z/∂x, ∂z/∂y and dz for the function x=eᵘcos v, y=eᵘsin v, z=uv.",
+    "Answers": "dz = 2(xdx+ydy)."
+  },
+  {
+    "ID": "3175",
+    "Questions": "The relationships u=f(x,y), v=F(x,y), where f and F are differentiable functions of x and y, define x and y as differentiable functions of u and v. Show that (∂u/∂x * ∂v/∂y - ∂u/∂y * ∂v/∂x)(∂x/∂u * ∂y/∂v - ∂x/∂v * ∂y/∂u) = 1.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3176",
+    "Questions": "Find the total differentials of the function x=u cos v, y=u sin v, z=u².",
+    "Answers": "d²z = (2x²+y²)/(x²+y²)³/²; d²z/dy² = (x²+2y²)/(x²+y²)³/²; d²z/dxdy = xy/(x²+y²)³/²."
+  },
+  {
+    "ID": "3177",
+    "Questions": "Find the total differentials of the function x=v cos u-u cos u+sin u, y=v sin u-u sin u-cos u, z=(u-v)².",
+    "Answers": "d²z = 2(xdx+ydy)."
+  },
+  {
+    "ID": "3178",
+    "Questions": "u and v are functions of x,y,z satisfying the relationships uv=3x-2y+z, v²=x²+y²+z². Show that x(∂u/∂x) + y(∂u/∂y) + z(∂u/∂z) = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3179",
+    "Questions": "Let y=f(x,t), F(x,y,t)=0. Show that dy/dx = -((∂F/∂x)+(∂F/∂t)(dt/dx)) / ((∂F/∂y)+(∂F/∂t)(dt/dy)).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3180",
+    "Questions": "Let f(x,y,z)=0, F(x,y,z)=0. Show that dy/dx = -((∂f/∂x)(∂F/∂z)-(∂F/∂x)(∂f/∂z)) / ((∂f/∂y)(∂F/∂z)-(∂F/∂y)(∂f/∂z)).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3181",
+    "Questions": "z=x³+xy²-5xy³+y⁵. Verify that ∂²z/∂x∂y = ∂²z/∂y∂x.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3182",
+    "Questions": "z=xʸ. Verify that ∂²z/∂x∂y = ∂²z/∂y∂x.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3183",
+    "Questions": "z=eˣ(cos y+x sin y). Verify that ∂²z/∂x∂y = ∂²z/∂y∂x.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3184",
+    "Questions": "z=arc tan(y/x). Verify that ∂³z/∂y²∂x = ∂³z/∂x∂y².",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3185",
+    "Questions": "Find ∂²z/∂x², ∂²z/∂x∂y and ∂²z/∂y² for the function z = 1/3 √(x²+y²)³.",
+    "Answers": "d²z/dx² = (2x²+y²)/√(x²+y²); d²z/dy² = (x²+2y²)/√(x²+y²); d²z/dxdy = xy/√(x²+y²)."
+  },
+  {
+    "ID": "3186",
+    "Questions": "Find ∂²z/∂x², ∂²z/∂x∂y and ∂²z/∂y² for the function z=ln(x+√(x²+y²)).",
+    "Answers": "d²z/dx² = -x/(x²+y²)√(x²+y²); d²z/dy² = (x³+(x²-y²)√(x²+y²))/(x²+y²)√(x²+y²)(x+√(x²+y²))²."
+  },
+  {
+    "ID": "3187",
+    "Questions": "Find ∂²v/∂x², ∂²v/∂x∂y and ∂²v/∂y² for the function v=x²ln(x+√(x²+y²)).",
+    "Answers": "∂²v/∂x² = 2x/√(1+x²); ∂²v/∂y² = -2y/√(1+x²)²; ∂²v/∂x∂y = 0."
+  },
+  {
+    "ID": "3188",
+    "Questions": "Find ∂²z/∂x², ∂²z/∂x∂y and ∂²z/∂y² for the function z=e^(a x+b y).",
+    "Answers": "∂²z/∂x² = 2a²cos 2(ax+by); ∂²z/∂y² = 2b²cos 2(ax+by); ∂²z/∂x∂y = 2abcos 2(ax+by)."
+  },
+  {
+    "ID": "3189",
+    "Questions": "z=e^(xeʸ). Find ∂³z/∂x²∂y.",
+    "Answers": "e^(xe^y)(1+xye^y)."
+  },
+  {
+    "ID": "3190",
+    "Questions": "z=x²y. Find ∂³z/∂x∂y².",
+    "Answers": "x(2x²+y²)/(x²+y²)²."
+  },
+  {
+    "ID": "3191",
+    "Questions": "z=y^(lnx). Find ∂²z/∂x∂y.",
+    "Answers": "ln y(ln y+1)/x² * e^(ln x ln y)."
+  },
+  {
+    "ID": "3192",
+    "Questions": "z=arc sin(xy). Find ∂²z/∂x∂y.",
+    "Answers": "xy²/(√(1-x²y²))³."
+  },
+  {
+    "ID": "3193",
+    "Questions": "u = √(x²+y²+z²) - 2xz; Find ∂²u/∂y∂z.",
+    "Answers": "yz/((x²+y²+z²)√(x²+y²+z²)-z²x)."
+  },
+  {
+    "ID": "3194",
+    "Questions": "z=e^(x²y). Find ∂³z/∂x²∂y.",
+    "Answers": "2y³(2+xy²)e^(x²y)."
+  },
+  {
+    "ID": "3195",
+    "Questions": "z=ln(x²+y³); Find ∂³z/∂x∂y².",
+    "Answers": "4x(3y⁴-x⁴-4x²y²)/((x²+y²)³)."
+  },
+  {
+    "ID": "3196",
+    "Questions": "z=sin xy; Find ∂³z/∂x∂y².",
+    "Answers": "-x(2sin xy + xy cos xy)."
+  },
+  {
+    "ID": "3197",
+    "Questions": "w=e^(xyz); Find ∂³w/∂x∂y∂z.",
+    "Answers": "(x²y²z²+3xyz+1)e^(xyz)."
+  },
+  {
+    "ID": "3198",
+    "Questions": "v=xᵐyⁿzᵖ; Find ∂⁶v/∂x∂y²∂z³.",
+    "Answers": "mn(n-1)(n-2)p(p-1)xᵐ⁻¹yⁿ⁻²zᵖ⁻²."
+  },
+  {
+    "ID": "3199",
+    "Questions": "z=ln(eˣ+eʸ); verify that ∂z/∂x + ∂z/∂y = 1 and that ∂²z/∂x² ∂²z/∂y² - (∂²z/∂x∂y)² = 0.",
+    "Answers": "α = -3."
+  },
+  {
+    "ID": "3200",
+    "Questions": "u=eˣ(x cos y - y sin y). Show that ∂²u/∂x² + ∂²u/∂y² = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3201",
+    "Questions": "u=ln(1/√(x²+y²)); show that ∂²u/∂x² + ∂²u/∂y² = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3202",
+    "Questions": "u=1/√(x²+y²+z²); show that ∂²u/∂x² + ∂²u/∂y² + ∂²u/∂z² = 0 (see Course, sec. 153).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3203",
+    "Questions": "r = √(x²+y²+z²); show that ∂²r/∂x² + ∂²r/∂y² + ∂²r/∂z² = 2/r, ∂²(ln r)/∂x² + ∂²(ln r)/∂y² + ∂²(ln r)/∂z² = 1/r².",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3204",
+    "Questions": "For what value of the constant a does the function v=x³+axy² satisfy the equation ∂²v/∂x² + ∂²v/∂y² = 0?",
+    "Answers": "a=-3."
+  },
+  {
+    "ID": "3205",
+    "Questions": "z=y/(y²-a²x²); show that ∂²z/∂x² = a²∂²z/∂y².",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3206",
+    "Questions": "v=1/(x-y) + 1/(y-z) + 1/(z-x); show that ∂²v/∂x² + ∂²v/∂y² + ∂²v/∂z² + 2(∂²v/∂x∂y + ∂²v/∂y∂z + ∂²v/∂z∂x) = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3207",
+    "Questions": "z=f(x,y), ξ=z+y, η=x-y. Verify that ∂²z/∂x² - ∂²z/∂y² = 4 ∂²z/∂ξ∂η.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3208",
+    "Questions": "v=xln(x+r)-r, where r²=x²+y². Show that ∂²v/∂x² + ∂²v/∂y² = 1/(x+r).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3209",
+    "Questions": "Find the expression for the second derivative d²y/dx² of the function y given implicitly by the equation f(x,y)=0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3210",
+    "Questions": "y=φ(x-at)+ψ(x+at). Show that ∂²y/∂t² = a²∂²y/∂x², whatever the twice differentiable functions φ and ψ.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3211",
+    "Questions": "u=φ(x)+ψ(y)+(x-y)ψ'(y). Show that (x-y)∂²u/∂x∂y = ∂u/∂y (φ and ψ are twice differentiable functions).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3212",
+    "Questions": "z=yφ(x²-y²). Show that (1/x)(∂z/∂x) + (1/y)(∂z/∂y) = z/y² (φ is a differentiable function).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3213",
+    "Questions": "r = xφ(x+y)+yψ(x+y). Show that ∂²r/∂x² - 2∂²r/∂x∂y + ∂²r/∂y² = 0 (φ and ψ are twice differentiable functions).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3214",
+    "Questions": "u = (1/y)[φ(ax+y) + ψ(ax-y)]. Show that ∂²u/∂x² = a²∂²u/∂y².",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3215",
+    "Questions": "u = xⁿφ(y/x) + x⁻ⁿψ(y/x). Show that x²∂²u/∂x² + 2xy∂²u/∂x∂y + y²∂²u/∂y² = n(n-1)u.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3216",
+    "Questions": "u = xeʸ + yeˣ. Show that ∂³u/∂x³ + ∂³u/∂y³ = x∂³u/∂x∂y² + y∂³u/∂x²∂y.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3217",
+    "Questions": "u = e^(xyz). Show that ∂³u/∂x∂y∂z = e^(xyz)(x²y²z² + 3xyz + 1).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3218",
+    "Questions": "u = ln((x²-y²)/xy). Show that ∂³u/∂x³ + ∂³u/∂x²∂y - ∂³u/∂x∂y² - ∂³u/∂y³ = 2(1/y³ - 1/x³).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3219",
+    "Questions": "Find the second-order differentials of the function z = xy² - x²y.",
+    "Answers": "-2ydx² + 4(y-x)dxdy + 2xdy²."
+  },
+  {
+    "ID": "3220",
+    "Questions": "Find the second-order differentials of the function z = ln(x-y).",
+    "Answers": "-(dx-dy)²/(x-y)²."
+  },
+  {
+    "ID": "3221",
+    "Questions": "Find the second-order differentials of the function z = 1/(2(x²+y²)).",
+    "Answers": "((3x²-y²)dx² + 8xydxdy + (3y²-x²)dy²)/((x²+y²)³)."
+  },
+  {
+    "ID": "3222",
+    "Questions": "Find the second-order differentials of the function z = x sin²y.",
+    "Answers": "2sin 2ydxdy + 2xcos 2ydy²."
+  },
+  {
+    "ID": "3223",
+    "Questions": "Find the second-order differentials of the function z = e^(xy).",
+    "Answers": "e^(xy)[(ydx+xdy)² + 2dxdy]."
+  },
+  {
+    "ID": "3224",
+    "Questions": "Find the second-order differentials of the function u = xyz; d²u = ?",
+    "Answers": "2(zdxdy + ydzdx + xdydz)."
+  },
+  {
+    "ID": "3225",
+    "Questions": "z = sin(2x+y). Find d³z at the points (0, π); (-π/2, 2π).",
+    "Answers": "-cos(2x+y)(2dx+dy)³; (2dx+dy)³; 0."
+  },
+  {
+    "ID": "3226",
+    "Questions": "u = sin(x+y+z); d²u = ?",
+    "Answers": "-sin(x+y+z)(dx+dy+dz)²."
+  },
+  {
+    "ID": "3227",
+    "Questions": "x²/a² + y²/b² + z²/c² = 1; d²z = ?",
+    "Answers": "- (c⁴/z³) * [(x²/a⁴ + z²/c⁴)dx² + 2xydxdy/a²b² + (y²/b⁴ + z²/c⁴)dy²]."
+  },
+  {
+    "ID": "3228",
+    "Questions": "z³-3xyz=a³; d²z = ?",
+    "Answers": "2z[xy³dx² + (x²y² + 2xyz² - z⁴)dxdy + x³ydy²] / (z²-xy)³."
+  },
+  {
+    "ID": "3229",
+    "Questions": "3x²y²+2z²xy-2zx³+4zy³-4=0. Find d²z at the point (2,1,2).",
+    "Answers": "-31.5dx² + 354dxdy + 275dy²."
+  },
+  {
+    "ID": "3230",
+    "Questions": "Transform the differential expression x⁴(d²y/dx²) + 2x³(dy/dx) + y to a new independent variable by putting x = 1/t.",
+    "Answers": "d²y/dt² + y."
+  },
+  {
+    "ID": "3231",
+    "Questions": "Transform the differential expression x²y''-4xy'+y to a new independent variable by putting x = eᶻ.",
+    "Answers": "y'' - 5y' + y."
+  },
+  {
+    "ID": "3232",
+    "Questions": "Transform the differential expression (1-x²)d²y/dx² - x dy/dx + ay by putting x = sin t.",
+    "Answers": "d²y/dt² + ay."
+  },
+  {
+    "ID": "3233",
+    "Questions": "Transform the differential expression y''/(y'³) + y by regarding y as the independent variable and x as a function of y.",
+    "Answers": "-x'' + y."
+  },
+  {
+    "ID": "3234",
+    "Questions": "Transform the expression y'y''' - 3y''² by taking y as the independent variable.",
+    "Answers": "-x'''/x'³."
+  },
+  {
+    "ID": "3235",
+    "Questions": "Transform the expression yy''=2(y²+y'²) to a new function v by putting y = 1/v.",
+    "Answers": "v'' + 2v = 0."
+  },
+  {
+    "ID": "3236",
+    "Questions": "Transform to polar coordinates the equation dy/dx = (x+y)/(x-y).",
+    "Answers": "dρ/dφ = ρ."
+  },
+  {
+    "ID": "3237",
+    "Questions": "Transform the expression k = y''/(1+y'²)^(3/2) to polar coordinates ρ, φ, bearing in mind that x = ρ cos φ, y = ρ sin φ.",
+    "Answers": "(ρ'² + ρ²) - ρρ'' / (ρ'² + ρ²)^(3/2)."
+  },
+  {
+    "ID": "3238",
+    "Questions": "The function z depends on x, y. Carry out a change of independent variables in the expression y(∂z/∂x) - x(∂z/∂y) with the aid of the formulae x = u cos v, y = u sin v.",
+    "Answers": "-∂z/∂v."
+  },
+  {
+    "ID": "3239",
+    "Questions": "Transform Laplace's operator ∂²u/∂x² + ∂²u/∂y² to polar coordinates.",
+    "Answers": "∂²u/∂ρ² + (1/ρ²)∂²u/∂φ² + (1/ρ)∂u/∂ρ."
+  },
+  {
+    "ID": "3240",
+    "Questions": "Transform the expression ∂²z/∂x² + ∂²z/∂y² + kz to a new function w on condition that z = w(√(x²+y²)) or z = w(r), where r = √(x²+y²).",
+    "Answers": "w''(r) + (1/r)w'(r) + kw(r)."
+  },
+  {
+    "ID": "3241",
+    "Questions": "In the expression ∂²z/∂x² + 2∂²z/∂x∂y + ∂²z/∂y² replace the independent variables x and y by variables u and v, and the function z by the variable w, taking these variables to be connected by the relationships x = (u+v)/2, y = (u-v)/2, z = (u²-v²)/4 - w.",
+    "Answers": "-4(∂²w/∂u²) + 2."
+  },
+  {
+    "ID": "3242",
+    "Questions": "f(x, y) = x³ + 2y³ — xy; expand the function f(x + h, y + k) in powers of h and k.",
+    "Answers": "x³ + 2y³ - xy + h(3x² - y) + k(6y² - x) + 3xh² - hk + 6yk² + h³ + 2k³."
+  },
+  {
+    "ID": "3243",
+    "Questions": "f(x, y) = x³ + y³ — 6xy - 39x + 18y + 4; find the increment received by the function when the independent variables change from the values x = 5, y = 6 to the values x = 5 + h, y = 6 + k.",
+    "Answers": "Δz = 15h² - 6hk + k² + h³."
+  },
+  {
+    "ID": "3244",
+    "Questions": "f(x, y) = xy³/4 - yx³ + x²y²/2 - 2x + 3y - 4; find the increment taken by the function when the independent variables pass from the values x=1, y=2 to the values x=1+h, y=2+k. Evaluate f(1.02, 2.03), taking into account terms up to and including the second order.",
+    "Answers": "Δz = -2h + 7k + (4h² + 4hk + 2k²)/2 - 2h³ - h²k + (1/2)hk² + (1/4)k³ - h³k + (1/2)h²k² + (1/4)hk³; f(1.02; 2.03) ≈ 2.1726."
+  },
+  {
+    "ID": "3245",
+    "Questions": "f(x, y, z) = Ax² + By² + Cz² + Dxy + Eyz + Fzx; expand f(x+h, y+k, z+l) in powers of h, k and l.",
+    "Answers": "Ax² + By² + Cz² + Dxy + Eyz + Fzx + (2Ax + Dy + Fz)h + (2By + Dx + Ez)k + (2Cz + Ey + Fx)l + Ah² + Bk² + Cl² + Dhk + Ekl + Fhl."
+  },
+  {
+    "ID": "3246",
+    "Questions": "Expand z = sin x sin y in powers of (x-π/4) and (y-π/4). Find the terms of the first and second order and R₂ (the second-order remainder term).",
+    "Answers": "z = 1/2 + 1/2((x-π/4) + (y-π/4)) - 1/4[(x-π/4)² - 2(x-π/4)(y-π/4) + (y-π/4)²] - 1/6[cos ξ cos η(x-π/4)³ + 3sin ξ cos η(x-π/4)²(y-π/4) + 3cos ξ sin η(x-π/4)(y-π/4)² + sin ξ cos η(y-π/4)³]."
+  },
+  {
+    "ID": "3247",
+    "Questions": "Expand the function z = xʸ in powers of (x-1) and (y-1), finding the terms up to and including the third order. Use the result to evaluate (without tables!) 1.1^(1.02).",
+    "Answers": "z = 1 + (x-1) + (x-1)(y-1) + 1/2(x-1)²(y-1) + ...; z₁ ≈ 1.1021."
+  },
+  {
+    "ID": "3248",
+    "Questions": "f(x, y) = eˣ sin y; expand f(x + h, y + k) in powers of h and k, taking terms up to and including the third order in h and k. Use the result to evaluate e⁰·¹ sin 0.49π.",
+    "Answers": "eˣ[sin y + h sin y + k cos y + 1/2(h² sin y + 2hk cos y - k² sin y) + 1/6(h³ sin y + 3h²k cos y - 3hk² sin y - k³ cos y)] + ...; z₁ ≈ 1.1051."
+  },
+  {
+    "ID": "3249",
+    "Questions": "Find the first few terms of the expansion of the function eˣ sin y in a Taylor series in the neighbourhood of the point (0, 0).",
+    "Answers": "y + xy + x²y - 1/6y³ + ..."
+  },
+  {
+    "ID": "3250",
+    "Questions": "Find the first few terms of the expansion of the function eˣ ln(1+y) in a Taylor series in the neighbourhood of the point (0, 0).",
+    "Answers": "y + xy - 1/2y² + 1/2x²y - 1/2xy² + 1/3y³ + ..."
+  },
+  
+  {
+    "ID": "3251",
+    "Questions": "z = 1/(1-x-y+xy)",
+    "Answers": "1 + (x + y) + ... + (xⁿ⁺¹-yⁿ⁺¹)/(x-y) + ..."
+  },
+  {
+    "ID": "3252*",
+    "Questions": "z = arc tan((x-y)/(1+xy))",
+    "Answers": "x - y - 1/3(x³ - y³) + 1/5(x⁵ - y⁵) - ... + ((-1)ⁿ(x²ⁿ⁺¹ - y²ⁿ⁺¹))/(2n + 1) + ... Note that arc tan((x-y)/(1+xy)) = arc tan x - arc tan y."
+  },
+  {
+    "ID": "3253",
+    "Questions": "z = ln(1-x)ln(1-y)",
+    "Answers": "(Σ (from n=1 to ∞) xⁿ/n)(Σ (from n=1 to ∞) yⁿ/n) = Σ (from n=1 to ∞) Σ (from m=1 to ∞) xⁿyᵐ/(nm)"
+  },
+  {
+    "ID": "3254",
+    "Questions": "z = ln((1-x-y+xy)/(1-x-y))",
+    "Answers": "Σ (from n=2 to ∞) ((x+y)ⁿ - xⁿ - yⁿ)/n"
+  },
+  {
+    "ID": "3255",
+    "Questions": "z = sin(x²+y²)",
+    "Answers": "Σ (from n=0 to ∞) (-1)ⁿ(x²+y²)²ⁿ⁺¹/(2n+1)!"
+  },
+  {
+    "ID": "3256",
+    "Questions": "z = eˣ cos y",
+    "Answers": "Σ (from m=0 to ∞) (xᵐ/m!) * Σ (from n=0 to ∞) ((-1)ⁿy²ⁿ/(2n)!) = Σ (from m=0 to ∞) Σ (from n=0 to ∞) (-1)ⁿxᵐy²ⁿ/(m!(2n)!)"
+  },
+  {
+    "ID": "3257",
+    "Questions": "Find the first few terms of the expansion on powers of x-1, y-1 of the function z, given implicitly by the equation z³ + yz - xy² - x³ = 0 and equal to unity for x=1, y=1.",
+    "Answers": "z = 1 + (x-1) + 1/4(y-1) + 1/4(x-1)(y-1) + 9/64(y-1)² + ..."
+  },
+  {
+    "ID": "3258",
+    "Questions": "Obtain the approximation cos x / cos y ≈ 1 - 1/2(x²-y²) for sufficiently small values of |x|, |y|.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3259",
+    "Questions": "Find the stationary points of the function z = 2x³ + xy² + 5x² + y².",
+    "Answers": "(0, 0), (-5/3, 0), (-1, 2), (-1, -2)."
+  },
+  {
+    "ID": "3260",
+    "Questions": "Find the stationary points of the function z = e²ˣ(x+y²+2y).",
+    "Answers": "(1/2, -1)."
+  },
+  {
+    "ID": "3261",
+    "Questions": "Find the stationary points of the function z = xy(a-x-y).",
+    "Answers": "(0, 0), (0, a), (a, 0), (a/3, a/3)."
+  },
+  {
+    "ID": "3262",
+    "Questions": "Find the stationary points of the function z = (2ax-x²)(2by-y²).",
+    "Answers": "(0, 0), (0, 2b), (a, b), (2a, 0), (2a, 2b)."
+  },
+  {
+    "ID": "3263",
+    "Questions": "Find the stationary points of the function z = sin x + sin y + cos(x+y) (0 ≤ x ≤ π/4, 0 ≤ y ≤ π/4).",
+    "Answers": "(π/6, π/6)."
+  },
+  {
+    "ID": "3264",
+    "Questions": "Find the stationary points of the function z = (a+bx+cy)/√(1+x²+y²).",
+    "Answers": "(b/a, c/a)."
+  },
+  {
+    "ID": "3265",
+    "Questions": "Find the stationary points of the function z = y√(1+x) + x√(1+y).",
+    "Answers": "(-2/3, -2/3)."
+  },
+  {
+    "ID": "3266",
+    "Questions": "Find the stationary points of the function u = 2x²+y²+2z-xy-xz.",
+    "Answers": "(2, 1, 7)."
+  },
+  {
+    "ID": "3267",
+    "Questions": "Find the stationary points of the function u = 3lnx+2lny+5lnz+ln(22-x-y-z).",
+    "Answers": "(6, 4, 10)."
+  },
+  {
+    "ID": "3268",
+    "Questions": "Figure 60 illustrates the level lines of the function z=f(x,y). What special features has the function at the points A,B,C,D and on the curve EF?",
+    "Answers": "A and C are maxima, B a minimum; in the neighbourhood of D the surface is saddle-shaped, the function has a constant value along EF."
+  },
+  {
+    "ID": "3269",
+    "Questions": "A function z is given implicitly: 2x²+2y²+z²+8xz-z+8=0. Find its stationary points.",
+    "Answers": "(-2, 0, 16/7), (2/7, 0, 1/7)."
+  ,"images":["Img2/Berman_60.png"]},
+  {
+    "ID": "3270",
+    "Questions": "A function z is given implicitly: 5x²+5y²+5z²-2xy-2xz-2yz-72=0. Find its stationary points.",
+    "Answers": "(1, 1), (-1, -1)."
+  },
+  {
+    "ID": "3271*",
+    "Questions": "Find the extremal points of the function z = 2xy - 3x² - 2y² + 10.",
+    "Answers": "(0, 0). To show that there is a maximum at the point obtained, the function only needs to be written in the form z = 10 - (x-y)² - 2x² - y²."
+  },
+  {
+    "ID": "3272",
+    "Questions": "Find the extremal points of the function z = 4(x-y) - x² - y².",
+    "Answers": "(2, -2)."
+  },
+  {
+    "ID": "3273",
+    "Questions": "Find the extremal points of the function z = x²+xy+y²+x-y+1.",
+    "Answers": "(-1, 1)."
+  },
+  {
+    "ID": "3274",
+    "Questions": "Show that the function z = x²+xy+y²+a³/x+a³/y has a minimum at the point x=y=a/³√3.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3275",
+    "Questions": "Show that the function z = x⁴+y⁴-2x²-4xy-2y² has a minimum for x=√2, y=√2 and for x=-√2, y=-√2.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3276",
+    "Questions": "Show that the function z = x³+y²-6xy-39x+18y+20 has a minimum for x=5, y=6.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3277",
+    "Questions": "Find the stationary points of the function z = x³y²(12-x-y), satisfying the condition x>0, y>0, and examine their nature.",
+    "Answers": "A maximum at the point (6, 4)."
+  },
+  {
+    "ID": "3278",
+    "Questions": "Find the stationary points of the function z = x³+y³-3xy and examine their nature.",
+    "Answers": "There is no extremum at (0, 0). A minimum at (1, 1)."
+  },
+  {
+    "ID": "3279",
+    "Questions": "Find the greatest and least values of the function z = x²-y² in the circular domain x²+y²≤4.",
+    "Answers": "The greatest and least values lie on the boundary of the domain; the greatest is z = 4 at the points (2, 0) and (—2, 0); the least is z = —4 at the points (0, 2) and (0, —2). The stationary point (0, 0) does not give an extremum."
+  },
+  {
+    "ID": "3280",
+    "Questions": "Find the greatest and least values of the function z = x²+2xy-4x+8y in the rectangle bounded by the straight lines x=0, y=0, x=1, y=2.",
+    "Answers": "The greatest value z = 17 at the point (1, 2); the least value z = —3 at the point (1, 0); the stationary point (—4, 6) lies outside the specified domain."
+  },
+  {
+    "ID": "3281",
+    "Questions": "Find the greatest value of the function z = x²y(4-x-y) in the triangle bounded by the straight lines x=0, y=0, x+y=6.",
+    "Answers": "The greatest value z = 4 at the stationary point (2, 1) (there is therefore a maximum at the point). The least value is z = —64 at the point (4, 2) on the boundary."
+  },
+  {
+    "ID": "3282",
+    "Questions": "Find the greatest and least values of the function z = e^(-x²-y²)(2x²+3y²) in the circle x²+y²≤4.",
+    "Answers": "The greatest value is z = 3/e at the points (0, ±1) (maximum). The least value is z = 12/e⁴ at the point (0, 4) (on the boundary)."
+  },
+  {
+    "ID": "3283",
+    "Questions": "Find the greatest and least values of the function z = sin x + sin y + sin(x+y) in the rectangle 0 ≤ x ≤ π/2; 0 ≤ y ≤ π/2.",
+    "Answers": "zₘₐₓ = 3√3/2 at the point (π/3, π/3) (maximum), zₘᵢₙ = 0 at the point (0, 0) (on the boundary)."
+  },
+  {
+    "ID": "3284",
+    "Questions": "Write the positive number a as the sum of three positive terms such that their product is a maximum.",
+    "Answers": "All the terms of the sum are equal."
+  },
+  {
+    "ID": "3285",
+    "Questions": "Express the positive number a as the product of four positive factors such that their sum is a minimum.",
+    "Answers": "All the factors are equal."
+  },
+  {
+    "ID": "3286",
+    "Questions": "Find the point of the xOy plane such that the sum of the squares of its distances from the straight lines x=0, y=0, x+2y-16=0 is a minimum.",
+    "Answers": "(8/5, 16/5)."
+  },
+  {
+    "ID": "3287",
+    "Questions": "Draw the plane through the point (a, b, c) such that the volume of the tetrahedron, cut out by it from the coordinate trihedral, is a minimum.",
+    "Answers": "x/a + y/b + z/c = 3."
+  },
+  {
+    "ID": "3288",
+    "Questions": "Given the n points A₁(x₁, y₁, z₁), ..., Aₙ(xₙ, yₙ, zₙ), find the point of the xOy plane such that the sum of the squares of its distances from all the given points is a minimum.",
+    "Answers": "x = Σxᵢ/n, y = Σyᵢ/n."
+  },
+  {
+    "ID": "3289",
+    "Questions": "Given the three points A(0, 0, 12), B(0, 0, 4) and C(8, 0, 8), find the point D on the xOy plane such that the sphere passing through A, B, C, and D has minimum radius.",
+    "Answers": "(3, √39, 0); (3, -√39, 0)."
+  },
+  {
+    "ID": "3290",
+    "Questions": "Inscribe the rectangular parallelepiped of maximum volume in a given sphere of diameter 2R.",
+    "Answers": "A cube."
+  },
+  {
+    "ID": "3291",
+    "Questions": "Investigate the extrema of the function z=xᵐ+yᵐ (m>1) for x+y=2 (x≥0, y≥0).",
+    "Answers": "A minimum z=2 at the point (1,1)."
+  },
+  {
+    "ID": "3292",
+    "Questions": "Investigate the extrema of the function z=xy for x²+y²=2a².",
+    "Answers": "(a, a) or (—a, —a), z = a² (maximum), (a, —a) or (—a, a), z = —a² (minimum)."
+  },
+  {
+    "ID": "3293",
+    "Questions": "Investigate the extrema of the function z=1/x+1/y for 1/x²+1/y²=1/a².",
+    "Answers": "(—a√2, —a√2), z = -√2/a (minimum), (a√2, a√2), z = √2/a (maximum)."
+  },
+  {
+    "ID": "3294",
+    "Questions": "Investigate the extrema of the function z=acos²x+bcos²y for y-x=π/4.",
+    "Answers": "Stationary points x = -1/2 Arc tan(b/a), y = 1/2 Arc tan(a/b)."
+  },
+  {
+    "ID": "3295",
+    "Questions": "Investigate the extrema of the function u=x+y+z for 1/x+1/y+1/z=1.",
+    "Answers": "(3, 3, 3), u = 9 (minimum)."
+  },
+  {
+    "ID": "3296",
+    "Questions": "Investigate the extrema of the function u=xyz for (1)x+y+z=5, (2)xy+xz+yz=8.",
+    "Answers": "Two of the variables are equal to 2, the third equal to 1 (minimum, equal to 4); two of the variables are equal to 4/3, the third equal to 7/3 (maximum, equal to 112/7)."
+  },
+  {
+    "ID": "3297*",
+    "Questions": "Establish the relationship (x₁²+x₂²+...+xₙ²)/n ≥ ((x₁+x₂+...+xₙ)/n)². Investigate the minimum of the function Σxᵢᵏ for x₁+x₂+...+xₙ=A.",
+    "Answers": "The relationship (Σxᵢᵏ)/n ≥ ((Σxᵢ)/n)ᵏ is satisfied in general if k ≥ 1."
+  },
+  {
+    "ID": "3298",
+    "Questions": "f(x, y) = x³ — 3xy² + 18y, where 3x²y — y³ — 6x = 0. Prove that f(x, y) has extrema at the points x=y=±√3.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3299",
+    "Questions": "Find the minimum of the function ax²+by²+cz², where a, b, c are positive constants, and x, y, z are connected by the relationship x+y+z=1.",
+    "Answers": "uₘᵢₙ = abc/(bc+ca+ab) for x=bc/(bc+ca+ab); y=ac/(bc+ca+ab); z=ab/(bc+ca+ab)."
+  },
+  {
+    "ID": "3300",
+    "Questions": "Find the extrema of the function u = y²+4z²-4yz-2xz-2xy on condition that 2x²+3y²+6z²=1.",
+    "Answers": "x = ±1/2, y = ±1/3, z = ±1/6."
+  },
+  
+  {
+    "ID": "3301",
+    "Questions": "Find the point on the plane 3x - 2z = 0 such that the sum of the squares of its distances from the points A(1, 1, 1) and B(2, 3, 4) is a minimum.",
+    "Answers": "(21/13, 2, 63/26)."
+  },
+  {
+    "ID": "3302",
+    "Questions": "Find the point on the plane x + y - 2z = 0 such that the sum of the squares of its distances from the planes x + 3z = 6 and y + 3z = 2 is a minimum.",
+    "Answers": "(3, -1, 1)."
+  },
+  {
+    "ID": "3303",
+    "Questions": "Given the points A(4, 0, 4), B(4, 4, 4), C(4, 4, 0), find the point S on the surface of the sphere x² + y² + z² = 4 such that the volume of pyramid SABC is (a) a maximum, (b) a minimum. Check the answer by elementary geometry.",
+    "Answers": "(a) (-2, 0, 0); (b) (2, 0, 0)."
+  },
+  {
+    "ID": "3304",
+    "Questions": "Find the rectangular parallelepiped of given volume V having the least surface area.",
+    "Answers": "A cube."
+  },
+  {
+    "ID": "3305",
+    "Questions": "Find the rectangular parallelepiped of given surface area S having the maximum volume.",
+    "Answers": "A cube."
+  },
+  {
+    "ID": "3306",
+    "Questions": "Find the volume of the greatest rectangular parallelepiped that can be inscribed in an ellipsoid with semi-axes a, b and c.",
+    "Answers": "8abc / (3√3)."
+  },
+  {
+    "ID": "3307",
+    "Questions": "A marquee is in the form of a cylinder with a conical top over it. What are the relationships between the linear dimensions of the marquee for the manufacture of it to require the least amount of material for a given volume?",
+    "Answers": "If R is the radius of the base of the marquee, H the height of the cylindrical part, h the height of the conical top, the following relationships must hold:\nR = (h√5)/2, H = h/2."
+  },
+  {
+    "ID": "3308",
+    "Questions": "The section of a channel is an isosceles trapezoid of given area. How must its dimensions be chosen for the wetted area of the channel to be a minimum (Fig. 61)?",
+    "Answers": "If l is the lateral side of the trapezoid, b the base and α the angle of inclination of the lateral side, the following relationship must hold: l=b = (2√A)/√3, α = π/3, where A is the given cross-sectional area. The perimeter of the section is now u = 2√3√A ≈ 2.632√A."
+  ,"images":["Img2/Berman_61.png"]},
+  {
+    "ID": "3309",
+    "Questions": "Of all the rectangular parallelepipeds having a given diagonal, find the one whose volume is a maximum.",
+    "Answers": "A cube."
+  },
+  {
+    "ID": "3310",
+    "Questions": "Find the external dimensions of an open box (without a lid) in the form of a rectangular parallelepiped with given wall-thickness α and volume V, such that the least amount of material goes into it.",
+    "Answers": "The sides of the base are each equal to 2α + ³√(2v), the height is half as great: (α + ³√(v/2))."
+  },
+  {
+    "ID": "3311",
+    "Questions": "Find the maximum volume of a parallelepiped, given that the sum of all its ribs is equal to 12a.",
+    "Answers": "a³ (a cube)."
+  },
+  {
+    "ID": "3312",
+    "Questions": "Circumscribe about a given ellipse the triangle with base parallel to the major axis of the ellipse, such that the area of the triangle is a minimum.",
+    "Answers": "The least area is equal to 3√3ab."
+  },
+  {
+    "ID": "3313",
+    "Questions": "Find the points on the ellipse x²/4 + y²/9 = 1 nearest to and furthest away from the straight line 3x - y - 9 = 0.",
+    "Answers": "x = ±4/√5, y = ±3/√5."
+  },
+  {
+    "ID": "3314",
+    "Questions": "Find the point on the parabola x² + 2xy + y² + 4y = 0 closest to the straight line 3x - 6y + 4 = 0.",
+    "Answers": "(-9/5, -9/5)."
+  },
+  {
+    "ID": "3315",
+    "Questions": "Find the point on the parabola 2x² - 4xy + 2y² - x - y = 0 closest to the straight line 9x - 7y + 16 = 0.",
+    "Answers": "(3, 5)."
+  },
+  {
+    "ID": "3316",
+    "Questions": "Find the greatest distance of points of the surface ax² + by² + cz² + 2fyz + 2gxz + 2hxy = 1 from the plane z = 0.",
+    "Answers": "z_max = +√((ab - h²)/(abc + 2fgh - af² - bg² - ch²))."
+  },
+  {
+    "ID": "3317",
+    "Questions": "Find the sides of the right-angled triangle having the least perimeter for a given area S.",
+    "Answers": "The sides of the triangle are √2S, √2S and 2√S."
+  },
+  {
+    "ID": "3318",
+    "Questions": "A prism with a rectangular base is inscribed in a right elliptic cone of height H cm, the semi-axes of the base of which are a and b cm; the prism is such that the sides of its base are parallel to the axes, whilst the intersection of the base diagonals lies at the centre of the ellipse. What must be the sides of the base and the height of the prism for its volume to be a maximum? What is this maximum volume?",
+    "Answers": "The height is H/3, the sides of the base are 2a√2/3 and 2b√2/3, the volume V = 8/27 abH."
+  },
+  {
+    "ID": "3319",
+    "Questions": "Find the equilateral triangular pyramid of given volume such that the sum of its ribs is a minimum.",
+    "Answers": "A tetrahedron."
+  },
+  {
+    "ID": "3320",
+    "Questions": "Given two points on an ellipse, find the third point on the ellipse such that the triangle, the vertices of which are at the given points, has the maximum area.",
+    "Answers": "The normal to the ellipse at the required point must be perpendicular to the line joining the given points."
+  },
+  {
+    "ID": "3321",
+    "Questions": "Draw the normal to the ellipse x²/a² + y²/b² = 1 which is furthest from the origin.",
+    "Answers": "The normal is drawn at the point with coordinates (±a√(a/(a+b)), ±b√(b/(a+b)))."
+  },
+  {
+    "ID": "3322",
+    "Questions": "Find the points on the ellipsoid of revolution x²/96 + y²/36 + z²/36 = 1 closest to and furthest away from the plane 3x + 4y + 12z = 288.",
+    "Answers": "(9, 8/3, 8/3); (-9, -8/3, -8/3). 2√2."
+  },
+  {
+    "ID": "3323",
+    "Questions": "Given the plane curves f(x, y) = 0 and φ(x, y) = 0, show that the distance between points (α, β) and (ξ, η), lying on the respective curves, has an extremum when the following condition is fulfilled:\n(α - ξ)/(β - η) = (∂f/∂x)/(∂f/∂y)|(x=α, y=β) = (∂φ/∂x)/(∂φ/∂y)|(x=ξ, y=η)",
+    "Answers": "2√2. (Note: This answer appears to be incorrect for this question and likely belongs to the previous problem.)"
+  },
+  {
+    "ID": "3324",
+    "Questions": "Write down the equations of the tangent and normal at the point indicated to the curves of problems 3324-3327: x³y+y³x=3-x²y² at the point (1,1).",
+    "Answers": "x + y = 2; y = x."
+  },
+  {
+    "ID": "3325",
+    "Questions": "Write down the equations of the tangent and normal at the point indicated to the curve a²(x⁴+y⁴)-x³y³=9a⁶ at the point (a, 2a).",
+    "Answers": "x - y + a = 0; x + y - 3a = 0."
+  },
+  {
+    "ID": "3326",
+    "Questions": "Write down the equations of the tangent and normal at the point indicated to the curve cos xy = x + 2y at the point (1, 0).",
+    "Answers": "x + 2y - 1 = 0; 2x - y - 2 = 0."
+  },
+  {
+    "ID": "3327",
+    "Questions": "Write down the equations of the tangent and normal at the point indicated to the curve 2x³-x²y+3x²+4xy-5x-3y+6=0 at its point of intersection with the Oy axis.",
+    "Answers": "x - y + 2 = 0; x + y - 2 = 0."
+  },
+  {
+    "ID": "3328",
+    "Questions": "Find the singular points of the curve y² = x²(x-1).",
+    "Answers": "(0, 0)."
+  },
+  {
+    "ID": "3329",
+    "Questions": "Find the singular points of the curve a²x² = (x²+y²)y².",
+    "Answers": "(0, 0)."
+  },
+  {
+    "ID": "3330",
+    "Questions": "Find the singular points of the curve y² = ax² + bx³.",
+    "Answers": "(0, 0)."
+  },
+  {
+    "ID": "3331",
+    "Questions": "Find the singular points of the curve y² = x(x-a)².",
+    "Answers": "(a, 0)."
+  },
+  {
+    "ID": "3332",
+    "Questions": "Find the singular points of the curve x^(2/3) + y^(2/3) = a^(2/3).",
+    "Answers": "(0, a), (0, -a), (a, 0), (-a, 0)."
+  },
+  {
+    "ID": "3333",
+    "Questions": "Find the singular points of the curve x⁴+y⁴-8x²-10y²+16=0.",
+    "Answers": "(2, 0), (-2, 0)."
+  },
+  {
+    "ID": "3334",
+    "Questions": "Find the singular points of the curve x⁴+12x³-6y³+36x²+27y²-81=0.",
+    "Answers": "(0, 3), (-3, 0), (-6, 3)."
+  },
+  {
+    "ID": "3335",
+    "Questions": "Find the singular points of the curve x³+y³+3axy=0.",
+    "Answers": "(0, 0) is a double point."
+  },
+  {
+    "ID": "3336",
+    "Questions": "Find the singular points of the curve x²+y²=x⁴+y⁴.",
+    "Answers": "(0, 0) is an isolated point."
+  },
+  {
+    "ID": "3337",
+    "Questions": "Find the singular points of the curve y=xlnx.",
+    "Answers": "(0, 0) is a break-point."
+  },
+  {
+    "ID": "3338",
+    "Questions": "Find the singular points of the curve y²=sin³x.",
+    "Answers": "kπ; k=0, 1, 2, ... are cusps."
+  },
+  {
+    "ID": "3339",
+    "Questions": "Find the singular points of the curve y²=(x-a)³.",
+    "Answers": "(a, 0) is a cusp."
+  },
+  {
+    "ID": "3340",
+    "Questions": "Find the singular points of the curve x⁵=(y-x²)².",
+    "Answers": "(0, 0)."
+  },
+  {
+    "ID": "3341",
+    "Questions": "Find the equation of the envelope of the family of straight lines y=ax+f(a). In particular, put f(a)=cos a.",
+    "Answers": "x = -f'(a), y = f(a) - af'(a); y = x arc sin x + √1-x²."
+  },
+  {
+    "ID": "3342",
+    "Questions": "Find the envelope of the family of straight lines y=2mx+m⁴.",
+    "Answers": "16y³ + 27x⁴ = 0."
+  },
+  {
+    "ID": "3343",
+    "Questions": "A pencil of straight lines is drawn through the point A(a,0). Find the envelope of the family of normals to the lines of the pencil, drawn at the points of intersection of the lines with Oy (see Course, sec. 45).",
+    "Answers": "y² = 4ax."
+  },
+  {
+    "ID": "3344",
+    "Questions": "Find the envelope of the family of parabolas y² = a(x-a).",
+    "Answers": "y = ±x/2."
+  },
+  {
+    "ID": "3345",
+    "Questions": "Find the envelope of the family of parabolas ax²+a²y=1.",
+    "Answers": "(x²+y²)² = C(y² + 2x²)."
+  },
+  {
+    "ID": "3346",
+    "Questions": "Find the envelope of the family of parabolas y=a²(x-a)².",
+    "Answers": "y = 0 and 16y = x⁴."
+  },
+  {
+    "ID": "3347",
+    "Questions": "Find the envelope of the family of semicubical parabolas (y-a)²=(x-a)³.",
+    "Answers": "y = x and y = x - 4/27."
+  },
+  {
+    "ID": "3348",
+    "Questions": "Find the envelope of the family of curves x²+ay²=a³.",
+    "Answers": "x² + (x⁴/4 + 2y²)/2 = 0 and x² - 2y²/3 = 0."
+  },
+  {
+    "ID": "3349",
+    "Questions": "Find the envelope of the family of ellipses x²/a²+y²/b²=1 with the condition that the sum of the semi-axes of each ellipse is equal to d.",
+    "Answers": "x^(2/3) + y^(2/3) = d^(2/3)."
+  },
+  {
+    "ID": "3350",
+    "Questions": "The radii of a circle are projected on to two mutually perpendicular diameters of the circle, and ellipses are constructed with the projections as semi-axes. Find the envelope of this family of ellipses.",
+    "Answers": "4 straight lines x ± y = ±R."
+  },
+  {
+    "ID": "3351",
+    "Questions": "Find the envelope of the family of circles having their centres on the parabola y=bx² and passing through its vertex.",
+    "Answers": "2bx²(x² + y²) + x² = 0."
+  },
+  {
+    "ID": "3352",
+    "Questions": "A straight line moves so that the sum of the lengths of the segments that it cuts out on the coordinate axes remains constant and equal to a. Find the envelope of the family of straight lines thus obtained.",
+    "Answers": "The parabola √x + √y = √a."
+  },
+  {
+    "ID": "3353",
+    "Questions": "Find the envelope of the diameters of a circle rolling without slip on a given straight line (radius of circle = R).",
+    "Answers": "The cycloid x = R(t - sin t), y = R(1 - cos t)."
+  },
+  {
+    "ID": "3354",
+    "Questions": "Circles are drawn by taking as diameters the chords of a circle (of radius R) parallel to a given direction. Find the envelope of this family of circles.",
+    "Answers": "The ellipse x² + y²/2 = R²."
+  },
+  {
+    "ID": "3355",
+    "Questions": "A straight line moves so that the product of the segments that it cuts off on the coordinate axes is equal to a constant a. Find the envelope of these straight lines.",
+    "Answers": "The hyperbola xy = a/4."
+  },
+  {
+    "ID": "3356",
+    "Questions": "Show that every curve is the envelope of its tangents.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3357",
+    "Questions": "Show that the evolute of a curve is the envelope of the family of its normals. Find the evolute of the parabola y² = 2px as the locus of the centres of curvature and as the envelope of the family of normals. Compare the results.",
+    "Answers": "The evolute of the parabola y² = 8/27p(x-p)³."
+  },
+  {
+    "ID": "3358",
+    "Questions": "Prove the theorem: if curve (A) is the envelope of the family of straight lines x cos t + y sin t — f(t) = 0, the evolute of curve (A) is the envelope of the family of straight lines —x sin t + y cos t — f'(t) = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3359",
+    "Questions": "The radius vector OM of an arbitrary point M of the rectangular hyperbola xy = 1 is projected on to the asymptotes of the hyperbola. Find the envelope of the family of ellipses constructed by taking the projections of OM as semi-axes.",
+    "Answers": "The hyperbolas xy = 1/2 and xy = -1/2."
+  },
+  {
+    "ID": "3360",
+    "Questions": "Prove the differentiation formulae\n d/dt(uv) = u(dv/dt) + v(du/dt), d/dt(u×v) = u×(dv/dt) + (du/dt)×v.\nHere, u and v are vector functions of the scalar argument t.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3361",
+    "Questions": "Given r = r(t), find the derivatives:\n(a) d/dt(r²); (b) d/dt(r(dr/dt)); (c) d/dt(r×(dr/dt)); (d) d/dt(r(dr/dt)(d²r/dt²)).",
+    "Answers": "(a) 2r(dr/dt); (b) (dr/dt)² + r(d²r/dt²); (c) r × (d²r/dt²); (d) (dr/dt)(dr/dt)(d²r/dt²)."
+  },
+  {
+    "ID": "3362",
+    "Questions": "Given that vectors r(t) and dr/dt are collinear for all values of t, prove that vectors d²r/dt², d³r/dt³, ..., dⁿr/dtⁿ are also collinear with r(t).",
+    "Answers": "It follows from the equation dr/dt = a(t)r that: d²r/dt² = (da/dt)r + a(dr/dt) = ((da/dt) + a²)r = β(t)r and so on."
+  },
+  {
+    "ID": "3363",
+    "Questions": "Show that, if the modulus |r| of function r(t) remains constant for all values of t, then dr/dt ⊥ r. (What is the geometrical meaning of this fact?) Does the converse theorem hold?",
+    "Answers": "Differentiation of the equation r² = const (see problem 3361) gives us: r . dr/dt = 0. The tangent to a spherical curve (i.e. to a curve drawn on a sphere) is perpendicular to the radius of the sphere through the point of contact. The converse also holds."
+  },
+  {
+    "ID": "3364",
+    "Questions": "Given: r = a cos ωt + b sin ωt, where ω, a, b are constants, prove that (1) r × dr/dt = ωa × b and (2) d²r/dt² + ω²r = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3365",
+    "Questions": "Prove that, if e is the unit vector in the direction of vector E, then e × de = (E × dE)/E².",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3366",
+    "Questions": "Prove that, if r = ae^(ωt) + be⁻(ωt), where a and b are constant vectors, then d²r/dt² — ω²r = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3367",
+    "Questions": "u = α(x, y, z, t)i + β(x, y, z, t)j + γ(x, y, z, t)k, where x, y, z are functions of t. Prove that du/dt = ∂u/∂t + (∂u/∂x)(dx/dt) + (∂u/∂y)(dy/dt) + (∂u/∂z)(dz/dt).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3368",
+    "Questions": "Given: r = r(u), u = φ(x). Express the derivatives dr/dx, d²r/dx², d³r/dx³ in terms of dr/du, d²r/du², d³r/du³.",
+    "Answers": "dr/dx = (dr/du)φ'; d²r/dx² = (d²r/du²)φ'² + (dr/du)φ''; d³r/dx³ = (d³r/du³)φ'³ + 3(d²r/du²)φ'φ'' + (dr/du)φ'''."
+  },
+  {
+    "ID": "3369",
+    "Questions": "Show that, if the relationship dr/dt = ar, where a = const, holds for the vector function r = r(t), the hodograph of the function r(u) is a straight line through the pole.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3370",
+    "Questions": "Let the function r(t) be defined, continuous and differentiable in the interval (t₁, t₂), whilst r(t₁) = r(t₂). Apply Rolle's theorem to the function a·r, where a is an arbitrary constant vector. Explain the result geometrically.",
+    "Answers": "It follows from the equation a.dr(τ)/dt = 0, where t₁ < τ < t₂, that a point can be found on a closed curve (closed by virtue of the equation r(t₁) = r(t₂)) at which the tangent is perpendicular to any previously assigned direction."
+  },
+  {
+    "ID": "3371",
+    "Questions": "Given the radius vector r{a sin t, —a cos t, bt²} (t is time, a and b are constants) of a particle moving in space, find the hodographs of the velocity and acceleration.",
+    "Answers": "The hodograph of the velocity v{a cos t, a sin t, 2bt} is a helix; the hodograph of the acceleration w{—a sin t, a cos t, 2b} is a circle."
+  },
+  {
+    "ID": "3372",
+    "Questions": "Find the trajectory of the motion for which the radius vector of a moving point satisfies the condition dr/dt = a×r, where a is a constant vector.",
+    "Answers": "Scalar multiplication by a and by r gives: a.dr/dt=0, r.dr/dt=0. Hence ar=const is the equation of a plane and r²=const is the equation of a sphere. The required trajectory is a circle, the plane of which is perpendicular to vector a."
+  },
+  {
+    "ID": "3373",
+    "Questions": "A material particle moves in accordance with the law r = v₀t + 1/2gt². (r is the radius vector of the particle at the instant t, v₀ and g are given vectors). Show that (1) the momentum of the particle is a quadratic function of time; (2) v₀ is the initial velocity (i.e. the value of the velocity vector at the instant t = 0); (3) the motion proceeds with constant acceleration, equal to the vector g; (4) the motion proceeds along a parabola (provided that vectors v₀ and g are not collinear), the axis of which is parallel to vector g.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3374",
+    "Questions": "The law of motion of a material particle is given by r = a cos t + b sin t + c, where vectors a and b are perpendicular to each other. Find the trajectory of the motion. At what instants is the velocity extremal? At what instants is the acceleration extremal?",
+    "Answers": "An ellipse. The velocity will be a maximum at the instant when the material particle is at an end of the minor semi-axis, and a minimum when it is at an end of the major semi-axis. The acceleration is a maximum (minimum) at the instant when the velocity is a minimum (maximum)."
+  },
+  {
+    "ID": "3375",
+    "Questions": "The formulae for transforming from Cartesian to spherical coordinates are x = ρ sin θ cos φ, y = ρ sin θ sin φ, z = ρ cos θ, where ρ is the distance of the given point from the pole, θ is its latitude, and φ its azimuth or longitude (see Course, sec. 152). Find the components of the velocity of a moving particle in the directions of the orthogonal unit vectors eᵨ, e_θ, e_φ.",
+    "Answers": "The velocity components are dρ/dt; ρ dθ/dt; ρ sin φ dφ/dt."
+  },
+  {
+    "ID": "3376",
+    "Questions": "Form the equations of the tangent line and normal plane to the curve r(t⁴/4, t³/3, t²/2), i.e. x=t⁴/4, y=t³/3, z=t²/2 at an arbitrary point.",
+    "Answers": "(x-t⁴/4)/t³ = (y-t³/3)/t² = (z-t²/2)/t."
+  },
+  {
+    "ID": "3377",
+    "Questions": "Form the equations of the tangent line and normal plane to the curve x=a cos φ, y=a sin φ, z=(k/2π)φ, at the point (a√2/2, a√2/2, k/8). Prove that the tangent at every point of the curve forms the same angle with Oz (see Course, sec. 164).",
+    "Answers": "x - a√2/2 = y - a√2/2 = z - k/8. Hint: Find the scalar products dr/dt.e_ρ; dr/dt.e_θ; dr/dt.e_φ."
+  },
+  {
+    "ID": "3378",
+    "Questions": "Form the equations of the tangent line and normal plane to the curve x=at, y=1/2at², z=1/3at³ at the point (6a, 18a, 72a).",
+    "Answers": "(x-t⁴)/t³ = (y-t³/3)/t² = (z-t²/2)/t."
+  },
+  {
+    "ID": "3379",
+    "Questions": "Form the equations of the tangent line and normal plane to the curve x=t-sin t, y=1-cos t, z=4sin(t/2) at the point (π/2-1, 1, 2√2).",
+    "Answers": "x-π/4 = (y-t⁴)/3 = (z-t²/2)/2; t²x+ty+z = t⁶/4+t⁴/3+t²/2."
+  },
+  {
+    "ID": "3380",
+    "Questions": "Form the equations of the tangent line and normal plane to the curve y²+z²=25, x²+y²=10 at the point (1,3,4).",
+    "Answers": "x-t⁴ = (y-12)/(-4) = (z-4)/3; 12x-4y+3z-12=0."
+  },
+  {
+    "ID": "3381",
+    "Questions": "Form the equations of the tangent line and normal plane to the curve 2x²+3y²+z²=47, x²+2y²=z at the point (-2,1,6).",
+    "Answers": "(x+2)/27 = (y-1)/28 = (z-6)/4; 27x+28y+4z+2=0."
+  },
+  {
+    "ID": "3382",
+    "Questions": "Form the equations of the tangent line and normal plane to the curve x²+y²=z², x=y at the point (x₀,y₀,z₀).",
+    "Answers": "x-x₀ = y-y₀ = z-z₀; x₀+y₀+z₀ = 2."
+  },
+  {
+    "ID": "3383",
+    "Questions": "Form the equations of the tangent line and normal plane to the curve x³+z³=a³, y³+z³=b³ at an arbitrary point.",
+    "Answers": "x-x₀/y²z² = y-y₀/x²z² = z-z₀/-x²y²; x²₀(x-x₀)+y²₀(y-y₀)+z²₀(z-z₀)=0."
+  },
+  {
+    "ID": "3384",
+    "Questions": "Find the point of the curve r{cos t, sin t, eᵗ} at which the tangent is parallel to the plane √3x+y-4=0.",
+    "Answers": "(√3/2, 1/2, e^(π/6))."
+  },
+  {
+    "ID": "3385",
+    "Questions": "Form the equations of the osculating plane, the principal normal and the binormal to the curve y²=x, x²=z at the point (1,1,1).",
+    "Answers": "6x-8y-z+3=0; (x-1)/31 = (y-1)/26 = (z-1)/-22."
+  },
+  {
+    "ID": "3386",
+    "Questions": "Form the equations of the osculating plane, the principal normal and the binormal to the curve x²=2az, y²=2bz at an arbitrary point.",
+    "Answers": "√b(x-x₀) - √a(y-y₀) = 0; (x-x₀)/√b = (y-y₀)/-√a = z-z₀/0; (x-x₀)/√a = (y-y₀)/√b = z-z₀/(a+b)."
+  },
+  {
+    "ID": "3387",
+    "Questions": "Form the equations of the osculating plane, the principal normal and the binormal to the curve r{eᵗ,e⁻ᵗ,t√2} at the point (e,e⁻¹,√2).",
+    "Answers": "1/e x - e y - √2z + 2 = 0; (x-e)/(-e) = (y-e⁻¹)/1 = (z-√2)/-√2."
+  },
+  {
+    "ID": "3388",
+    "Questions": "Prove that the tangents, principal normals and binormals of the curve r{eᵗcos t, eᵗsin t, eᵗ} form constant angles with Oz.",
+    "Answers": "x-e = (y-1)/1 = (z-√2)/(-√2 sinh 1); (x-e)/1 + (y-1)/-1 = (z-√2)/(-√2 sinh 1)."
+  },
+  {
+    "ID": "3389",
+    "Questions": "Form the equations of the tangent line, normal plane, binormal, osculating plane, principal normal and rectifying plane to the curve x=t², y=1-t, z=t³ at the point (1,0,1).",
+    "Answers": "x-1/2 + y/-1 = z-1/3; 2x-y+3z-5=0; x-1/3 = (y-3)/3 = z-1/-1; 3x+3y-z-2=0; x-1/8 = y/-11 = z-1/-9; 8x-11y-9z+1=0."
+  },
+  {
+    "ID": "3390",
+    "Questions": "Form the equations of the tangent line, normal plane, binormal, osculating plane, principal normal and rectifying plane to the curve x²+y²+z²=3, x²+y²=2 at the point (1,1,1).",
+    "Answers": "x-1/1 = (y-1)/-1 = z-1/0; x-y=0; x-1/0 = y-1/0 = z-1/1; z=1; x-1/1 = y-1/1 = z-1/0; x+y-2=0."
+  },
+  {
+    "ID": "3391",
+    "Questions": "Form the equations of the tangent line, normal plane, binormal, osculating plane, principal normal and rectifying plane to the curve r{sin t, cos t, tan t} at the point (√2/2, √2/2, 1).",
+    "Answers": "x-√2/2 = y-√2/2 = z-1/2√2; √2x-√2y+4z=4; x-√2/2 / √2 = y-√2/2 / -√2 = z-1 / (√2x-√2y+4z=4); √2x+√2y+z=5=0."
+  },
+  {
+    "ID": "3392",
+    "Questions": "Form the equations of the tangent line, normal plane, binormal, osculating plane, principal normal and rectifying plane to the curve r{t⁴-t²-5, 3t²+1, 2t³-16} at the point corresponding to the value of the parameter t=2.",
+    "Answers": "(x+1)/2 = (y-13)/3 = z; 2x+3y+6z=37; (x+1)/6 = y-13 = (z-20)/-3; 6x+y-3z=20; (x+1)/3 = (y-13)/-6 = (z-20)/-2; 3x-6y-2z=81."
+  },
+  {
+    "ID": "3393",
+    "Questions": "Prove that the curve r{2t+3, 3t-1, t²} has the same osculating plane at every point. Interpret this fact geometrically.",
+    "Answers": "The equation of the osculating plane is 3x-2y-11=0 for any point of the curve, i.e. the curve lies entirely in this plane."
+  },
+  {
+    "ID": "3394",
+    "Questions": "Prove that the curve r{a₁t²+b₁t+c₁, a₂t²+b₂t+c₂, a₃t²+b₃t+c₃} is plane, and form the equation of the plane in which it is situated.",
+    "Answers": "The osculating plane is the same for all points of the curve. Its equation is |x y z 1; a₁ a₂ a₃; b₁ b₂ b₃; c₁ c₂ c₃| = 0."
+  },
+  {
+    "ID": "3395",
+    "Questions": "Find the radius of torsion of the curve r{cos t, sin t, cosh t}.",
+    "Answers": "cosh²t/sinh t."
+  },
+  {
+    "ID": "3396",
+    "Questions": "Find the radius of curvature of the curve r{ln cos t, ln sin t, √2t}. Prove that the torsion at any point of it is equal to the curvature at that point.",
+    "Answers": "R = √2 cosec 2θ."
+  },
+  {
+    "ID": "3397",
+    "Questions": "Prove that the ratio of curvature to torsion remains constant at every point of the curve r{eᵗcos t, eᵗsin t, eᵗ} (see problem 3388).",
+    "Answers": "k = (√((y'z''-z'y'')² + y''² + z''²))/(√(1+y'²+z'²))³."
+  },
+  {
+    "ID": "3398",
+    "Questions": "How can we express the curvature of a spatial curve given by the equations y = φ(x), z = ψ(x)?",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3399",
+    "Questions": "Express the vectors r₁, v₁, β₁ in terms of the derivatives of the radius vector of a point on the curve r = r(t).",
+    "Answers": "τ₁=r'/|r'|, β₁=(r'×r'')/|r'×r''|, v₁=(r'×r'')×r'/|r'||r'×r''|."
+  },
+  {
+    "ID": "3400",
+    "Questions": "Express each of the vectors r₁, v₁, β₁ in terms of the other two.",
+    "Answers": "τ₁=v₁×β₁; v₁=β₁×τ₁; β₁=τ₁×v₁."
+  },
+  {
+    "ID": "3401",
+    "Questions": "Find the vector ω(s) (Darboux vector) satisfying the conditions dr₁/ds=ω×r₁; dv₁/ds=ω×v₁; dβ₁/ds=ω×β₁.",
+    "Answers": "The required vector ω (if it exists) can be written as ω = (ωτ₁)τ₁ + (ωv₁)v₁ + (ωβ₁)β₁. It follows from the condition of the problem (taking into account Frenet's formulae) that ω×τ₁ = kv₁; ω×v₁ = -kτ₁+Tβ₁; ω×β₁ = -Tv₁. On forming the scalar product of each side of these equations with v₁, β₁, τ₁ respectively, we find that ωτ₁=T, ωv₁=0, ωβ₁=k, so that ω = Tτ₁ + kβ₁. Substitution in (2) shows that this vector satisfies the condition of the problem."
+  },
+  {
+    "ID": "3402",
+    "Questions": "Find the length of arc of the curve r{2t, ln t, t²}, from t=1 to t=10.",
+    "Answers": "99 + ln 10 ≈ 101.43."
+  },
+  {
+    "ID": "3403",
+    "Questions": "Find the length of arc of the curve r{a cos t, a sin t, a ln cos t} from the point (a, 0, 0) to the point (a√2/2, a√2/2, -a/2 ln 2).",
+    "Answers": "a ln(1+√2) = a ln tan(3π/8)."
+  },
+  {
+    "ID": "3404",
+    "Questions": "Find the length of arc of the curve r{eᵗcos t, eᵗsin t, eᵗ} from the point (1, 0, 1) to the point corresponding to the parameter t.",
+    "Answers": "√3(eᵗ-1)."
+  },
+  {
+    "ID": "3405",
+    "Questions": "Find the length of arc of the curve x²=3y, 2xy=9z from the point (0,0,0) to the point (3,3,2).",
+    "Answers": "5."
+  },
+  {
+    "ID": "3406",
+    "Questions": "Find the length of arc of the curve z²=2ax, 9y²=16xz from the point (0,0,0) to the point (2a, 8a/3, 2a).",
+    "Answers": "4a."
+  },
+  {
+    "ID": "3407",
+    "Questions": "Find the length of arc of the curve 4ax=(y+z)², 4x²+3y²=3z² from the origin to the point (x,y,z).",
+    "Answers": "z√2."
+  },
+  {
+    "ID": "3408",
+    "Questions": "Find the length of arc of the curve y=√(2ax-x²), z=a ln(2a/(2a-x)) from the origin to the point (x,y,z).",
+    "Answers": "√2a+√x / √2a-√x."
+  },
+  {
+    "ID": "3409",
+    "Questions": "Find the length of arc of the curve y=a arc sin(x/a), z=1/4 a ln((a+x)/(a-x)) from the origin to the point (a/2, aπ/6, a/4 ln 3).",
+    "Answers": "a(1+1/2 ln 3)."
+  },
+  {
+    "ID": "3410",
+    "Questions": "Find the equations of the tangent planes and normals to the surface z = 2x²-4y² at the point (2,1,4).",
+    "Answers": "8x-8y-z=4; (x-2)/8 = (y-1)/-8 = (z-4)/-1."
+  },
+  {
+    "ID": "3411",
+    "Questions": "Find the equations of the tangent planes and normals to the surface z = xy at the point (1,1,1).",
+    "Answers": "x+y-z=1; (x-1)/1 = (y-1)/1 = (z-1)/-1."
+  },
+  {
+    "ID": "3412",
+    "Questions": "Find the equations of the tangent planes and normals to the surface z = (x³-3axy+y³)/a² at the point (a,a,-a).",
+    "Answers": "z+a=0, x=a, y=a."
+  },
+  {
+    "ID": "3413",
+    "Questions": "Find the equations of the tangent planes and normals to the surface z=√(x²+y²)-xy at the point (3,4,-7).",
+    "Answers": "17x+11y+5z=60; (x-3)/17 = (y-4)/11 = (z+7)/5."
+  },
+  {
+    "ID": "3414",
+    "Questions": "Find the equations of the tangent planes and normals to the surface z=arctan(y/x) at the point (1,1,π/4).",
+    "Answers": "x-y+2z-π/2=0; (x-1)/1 = (y-1)/-1 = (z-π/4)/2."
+  },
+  {
+    "ID": "3415",
+    "Questions": "Find the equations of the tangent planes and normals to the surface x²/a²+y²/b²+z²/c²=1 at the point (a√3/3, b√3/3, c√3/3).",
+    "Answers": "x/a+y/b+z/c=√3."
+  },
+  {
+    "ID": "3416",
+    "Questions": "Find the equations of the tangent planes and normals to the surface x³+y³+z³+xyz-6=0 at the point (1,2,-1).",
+    "Answers": "x+11y+5z-18=0; (x-1)/1 = (y-2)/11 = (z+1)/5."
+  },
+  {
+    "ID": "3417",
+    "Questions": "Find the equations of the tangent planes and normals to the surface 3x⁴-4y³z+4z²xy-4z³x+1=0 at the point (1,1,1).",
+    "Answers": "3x-2y-2z+1=0; (x-1)/3 = (y-1)/-2 = (z-1)/-2."
+  },
+  {
+    "ID": "3418",
+    "Questions": "Find the equations of the tangent planes and normals to the surface (z²-x²)xyz-y⁵=5 at the point (1,1,2).",
+    "Answers": "2x+y+11z-25=0; (x-1)/2 = (y-1)/1 = (z-2)/11."
+  },
+  {
+    "ID": "3419",
+    "Questions": "Find the equations of the tangent planes and normals to the surface 4+√(x²+y²+z²)=x+y+z at the point (2,3,6).",
+    "Answers": "5x+4y+z-28=0; (x-2)/5 = (y-3)/4 = (z-6)/1."
+  },
+  {
+    "ID": "3420",
+    "Questions": "Prove that the equation of the tangent plane at any point M₀(x₀,y₀,z₀) of the ellipsoid x²/a²+y²/b²+z²/c²=1 has the form x₀x/a²+y₀y/b²+z₀z/c²=1.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3421",
+    "Questions": "Draw the tangent plane to the ellipsoid x²+2y²+z²=1 parallel to the plane x-y+2z=0.",
+    "Answers": "x-y+2z = ±√(11/2) and x-y+2z = -√(11/2)."
+  },
+  {
+    "ID": "3422",
+    "Questions": "Draw the tangent plane to the ellipsoid x²/a²+y²/b²+z²/c²=1 such that it cuts off equal segments on the positive coordinate semi-axes.",
+    "Answers": "x+y+z = √(a²+b²+c²)."
+  },
+  {
+    "ID": "3423",
+    "Questions": "Prove that the surfaces x+2y-lnz+4=0 and x²-xy-8x+z+5=0 touch each other (i.e. have a common tangent plane) at the point (2,-3,1).",
+    "Answers": "All the planes pass through the origin."
+  },
+  {
+    "ID": "3424",
+    "Questions": "Prove that all the planes tangential to the surface z=x f(y/x) intersect in a single point.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3425",
+    "Questions": "Write the equations of the tangent plane and normal to the sphere r{u cos v, u sin v, √(a²-u²)} at the point r₀{x₀,y₀,z₀}.",
+    "Answers": "x₀x+y₀y+z₀z=a²; x/x₀ = y/y₀ = z/z₀."
+  },
+  {
+    "ID": "3426",
+    "Questions": "Write the equations of the tangent plane and normal to the hyperbolic paraboloid r{a(u+v), b(u-v), uv} at the arbitrary point r₀{x₀,y₀,z₀}.",
+    "Answers": "x/x₀ - y/y₀ = 2(z+z₀); b(x-x₀)/ay₀ = a(y-y₀)/bx₀ = z-z₀/(-2ab)."
+  },
+  {
+    "ID": "3427",
+    "Questions": "Prove that the surfaces x²+y²+z²=ax and x²+y²+z²=by are orthogonal to each other.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3428",
+    "Questions": "Prove that the tangent plane to the surface xyz=a³ at any point of it forms a tetrahedron of constant volume with the coordinate planes. Find this volume.",
+    "Answers": "9/2 a³."
+  },
+  {
+    "ID": "3429",
+    "Questions": "Prove that the tangent planes to the surface √x+√y+√z=√a cut off segments on the coordinate axes such that the sum of the segments is equal to a.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3430",
+    "Questions": "Write the equation of the tangent plane to the surface z=xy which is perpendicular to the straight line (x+2)/2 = (y+2)/1 = (z-1)/-1.",
+    "Answers": "2x+y-z=2."
+  },
+  {
+    "ID": "3431",
+    "Questions": "Prove that, for the surface x²+y²+z²=y, the length of the segment of normal between the surface and the xOy plane is equal to the distance from the origin to the trace of the normal on this plane.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3432",
+    "Questions": "Prove that the normal to the surface of the ellipsoid of revolution (x²+z²)/9 + y²/25 = 1 at any point of it P(x,y,z) forms equal angles with the straight lines OA and OB, if A(0,-4,0) and B(0,4,0).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3433",
+    "Questions": "Prove that all the normals to the surface of revolution z=f(√(x²+y²)) cut the axis of revolution.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3434",
+    "Questions": "Draw the tangent plane to the surface x²-y²-3z=0 that passes through the point A(0,0,-1) and is parallel to the straight line x/2 = y/1 = z/2.",
+    "Answers": "4x-2y-3z=3."
+  },
+  {
+    "ID": "3435",
+    "Questions": "Find the points on the surface x²+y²+z²-6y+4z=12 at which the tangent planes are parallel to the coordinate planes.",
+    "Answers": "(0,3,3) and (0,3,-7)."
+  },
+  {
+    "ID": "3436",
+    "Questions": "Find the tangent plane to the surface x=u+v, y=u²+v², z=u³+v³ at an arbitrary point:\n(a) by taking the equation of the surface in the parametric form;\n(b) by writing the equation of the surface in the form z=f(x,y).",
+    "Answers": "(a) 6uvx - 3(u+v)y + 2z + (u+v)³ = 0; (b) 3(x²-y²)z - 6xyy + 2z + 4z₀ = 0."
+  },
+  {
+    "ID": "3437",
+    "Questions": "Find the locus of the feet of the perpendiculars dropped from the origin on to the tangent planes to the paraboloid of revolution 2pz = x² + y².",
+    "Answers": "2z(x²+y²+z²)+p(x²+y²)=0."
+  },
+  {
+    "ID": "3438",
+    "Questions": "Find the locus of the feet of the perpendiculars dropped from the origin on to the tangent planes to the surface xyz=a³.",
+    "Answers": "(x²+y²+z²)³ = 27a³xyz."
+  },
+  {
+    "ID": "3439",
+    "Questions": "(1) ψ(x,y)=x²-2xy+3y-1. Find the components of the gradient at the point (1,2).\n(2) u=5x²y-3xy⁴+y⁴. Find the components of the gradient at an arbitrary point.",
+    "Answers": "(1) {-2,1}; (2) {10xy-3y⁴, 5x²-9xy²+4y³}."
+  },
+  {
+    "ID": "3440",
+    "Questions": "(1) z = x²+y². Find grad z at the point (3,2).\n(2) z = √4+x²+y². Find grad z at the point (2,1).\n(3) z = arc tan(y/x). Find grad z at the point (x₀,y₀).",
+    "Answers": "(1) 6i+4j; (2) (2i+j)/3; (3) (-y₀i+x₀j)/(x₀²+y₀²)."
+  },
+  {
+    "ID": "3441",
+    "Questions": "(1) Find the maximum steepness of ascent of the surface z=ln(x²+4y²) at the point (6,4,ln 100).\n(2) Find the maximum steepness of ascent of the surface z=xʸ at the point (2,2,4).",
+    "Answers": "(1) tan φ ≈ 0.342, φ ≈ 18°52'; (2) tan φ ≈ 4.87, φ ≈ 78°24'."
+  },
+  {
+    "ID": "3442",
+    "Questions": "What is the direction of maximum variation of the function φ(x,y,z)=x sin z-y cos z at the origin?",
+    "Answers": "The negative z semi-axis."
+  },
+  {
+    "ID": "3443",
+    "Questions": "(1) z = arc sin(x/(x+y)). Find the angle between the gradients of this function at the points (1,1) and (3,4).\n(2) Given the functions z=√(x²+y²) and z=x-3y+√3xy, find the angle between the gradients of these functions at the point (3,4).",
+    "Answers": "(1) cos α ≈ -0.199, α ≈ 101°30'; (2) cos α ≈ 0.99, α ≈ 8°."
+  },
+  {
+    "ID": "3444",
+    "Questions": "(1) Find the point at which the gradient of the function z=ln(x+1/y) is equal to i-16/9j.\n(2) Find the points at which the modulus of the gradient of the function z=(x²+y²)³/² is equal to 2.",
+    "Answers": "(1) (1/3, -3/4); (3/5, 4/5); (2) Points lying on the circle x²+y²=2/3."
+  },
+  {
+    "ID": "3445",
+    "Questions": "Prove the following relationships (φ and ψ are differentiable functions, c is a constant):\ngrad(φ+ψ) = gradφ+gradψ; grad(c+φ)=gradφ; grad(cφ)=c gradφ; grad(φψ)=φ gradψ + ψ gradφ; grad(φⁿ)=nφⁿ⁻¹gradφ; grad[φ(ψ)]=φ'(ψ)gradψ.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3446",
+    "Questions": "z = φ(u,v), u = ψ(x,y), v = ξ(x,y). Prove that grad z = (∂φ/∂u)grad u + (∂φ/∂v)grad v.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3447",
+    "Questions": "(1) u(x,y,z) = x²y²z. Find the components of grad u at the point (x₀,y₀,z₀).\n(2) u(x,y,z) = √(x²+y²+z²). Find grad u.",
+    "Answers": "(1) {3x₀y₀²z₀, 2x₀²y₀z₀, x₀²y₀²}; (2) xi+yj+zk/√(x²+y²+z²) = r/|r|, where r is the radius vector."
+  },
+  {
+    "ID": "3448",
+    "Questions": "Show that the function u = ln(x²+y²+z²) satisfies the relationship u = 2ln2-ln(grad u)².",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3449",
+    "Questions": "Prove that, if x,y,z are functions of t, then (d/dt)f(x,y,z) = grad f . dr/dt, where r = xi+yj+zk.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3450",
+    "Questions": "Use the relationship proved in the previous problem for finding the gradient of the function:\n(1) f=r²; (2) f=|r|; (3) f=F(r²); (4) f=(ar)(br); (5) f=(abr);\nwhere a and b are constant vectors.",
+    "Answers": "(1) 2r; (2) r/|r|; (3) 2F'(r²)r; (4) a(br)+b(ar); (5)axb."
+  },
+  {
+    "ID": "3451",
+    "Questions": "(1) Find the derivative of the function z=x³-3x²y+3xy²+1 at the point M(3,1) in the direction from this point to the point (6,5).\n(2) Find the derivative of the function z=arctan(xy) at the point (1,1) with respect to the direction of the bisector of the first quadrant.\n(3) Find the derivative of the function z=x²y²-xy³-3y-1 at the point (2,1) in the direction from this point to the origin.\n(4) Find the derivative of the function z=ln(eˣ+eʸ) at the origin in the direction α.",
+    "Answers": "(1) 0; (2) √2/2; (3) √5; (4) (cos α + sin α)/2."
+  },
+  {
+    "ID": "3452",
+    "Questions": "Find the derivative of the function z=ln(x+y) at the point (1,2) of the parabola y²=4x with respect to the direction of this parabola.",
+    "Answers": "√2/3."
+  },
+  {
+    "ID": "3453",
+    "Questions": "Find the derivative of z=arctan(y/x) at the point (1/2, √3/2) of the circle x²+y²-2x=0 with respect to the direction of this circle.",
+    "Answers": "1."
+  },
+  {
+    "ID": "3454",
+    "Questions": "Show that the derivative of z=y²/x at any point of the ellipse 2x²+y²=1 with respect to the normal to the ellipse is zero.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3455",
+    "Questions": "(1) Find the derivative of u=xy²+z³-xyz at the point M(1,1,2) in the direction forming angles of 60°, 45°, 60° respectively with the coordinate axes.\n(2) Find the derivative of w=xyz at the point A(5,1,2) in the direction from this point to the point B(9,4,14).",
+    "Answers": "(1) (√2+1)/2; (2) 98/13."
+  },
+  {
+    "ID": "3456",
+    "Questions": "Find the derivative of u=x²y²z² at the point A(1,-1,3) in the direction from this point to the point B(0,1,1).",
+    "Answers": "22."
+  },
+  {
+    "ID": "3457",
+    "Questions": "Show that the derivative of u=x²/a²+y²/b²+z²/c² at any point M(x,y,z) in the direction from this point to the origin is equal to -2u/r, where r=√(x²+y²+z²).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3458",
+    "Questions": "Prove that the derivative of u=f(x,y,z) in the direction of its gradient is equal to the modulus of the gradient (see Course, sec. 161).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "3459",
+    "Questions": "Find the derivative of the function u=1/r, where r²=x²+y²+z², in the direction of its gradient.",
+    "Answers": "-1/r²."
+  },
+  {
+    "ID": "3460",
+    "Questions": "A thin lamina (its thickness is neglected) lies in the xOy plane, occupying a domain D. The density of the lamina is a function of a point: γ=γ(P)=γ(x,y). Find the mass of the lamina.",
+    "Answers": "M = ∫∫γ(x,y) dσ."
+  },
+  {
+    "ID": "3461",
+    "Questions": "An electric charge with a surface density of σ=σ(P)=σ(x,y) is distributed over the lamina of problem 360. Form the expression for the total charge on the lamina.",
+    "Answers": "E = ∫∫σ(x,y) dσ."
+  },
+  {
+    "ID": "3462",
+    "Questions": "The lamina of problem 3460 revolves about the Ox axis with angular velocity ω. Form the expression for the kinetic energy of the lamina.",
+    "Answers": "T = 1/2 ω²∫∫y²γ(x,y) dσ."
+  },
+  {
+    "ID": "3463",
+    "Questions": "The specific heat of the lamina of problem 3460 varies according to the law c=c(P)=c(x,y). Find the amount of heat absorbed by the lamina when it is heated from a temperature t₁ to a temperature t₂.",
+    "Answers": "Q = (t₂-t₁)∫∫c(x,y)γ(x,y)dσ."
+  },
+  {
+    "ID": "3464",
+    "Questions": "A body occupies a spatial domain Ω; its density is a function of a point: γ=γ(P)=γ(x,y,z). Find the mass of the body.",
+    "Answers": "M = ∫∫∫γ(x,y,z)dv."
+  },
+  {
+    "ID": "3465",
+    "Questions": "Electric charge is distributed non-uniformly in the body of problem 3464; the charge density is a function of a point: δ=δ(x,y,z). Find the total charge of the body.",
+    "Answers": "E = ∫∫∫δ(x,y,z)dv."
+  },
+  {
+    "ID": "3466",
+    "Questions": "Estimate the integral ∫∫(x+y+10)dσ, where D is the circular domain x²+y²≤4.",
+    "Answers": "8π(5-√2) < I < 8π(5+√2)."
+  },
+  {
+    "ID": "3467",
+    "Questions": "Estimate the integral ∫∫(x²+4y²+9)dσ, where D is the circular domain x²+y²≤4.",
+    "Answers": "36π < I < 100π."
+  },
+  {
+    "ID": "3468",
+    "Questions": "Evaluate the double integral ∫∫(x+y+1)dσ, where D is the rectangle 0≤x≤1, 0≤y≤2.",
+    "Answers": "2 < I < 8."
+  },
+  {
+    "ID": "3469",
+    "Questions": "Evaluate the double integral ∫∫(x+xy-x²-y²)dσ, where D is the rectangle 0≤x≤1, 0≤y≤2.",
+    "Answers": "-8 < I < 2/3."
+  },
+  {
+    "ID": "3470",
+    "Questions": "Evaluate the double integral ∫∫xy(x+y)dσ, where D is the square 0≤x≤2, 0≤y≤2.",
+    "Answers": "0 < I < 64."
+  },
+  {
+    "ID": "3471",
+    "Questions": "Evaluate the double integral ∫∫(x+1)y²dσ, where D is the square 0≤x≤2, 0≤y≤2.",
+    "Answers": "4 < I < 36."
+  },
+  {
+    "ID": "3472",
+    "Questions": "Evaluate the double integral ∫∫(x²+y²-2√(x²+y²)+2)dσ, where D is the square 0≤x≤2, 0≤y≤2.",
+    "Answers": "4 < I < 8(5-2√2)."
+  },
+  {
+    "ID": "3473",
+    "Questions": "Evaluate the double integral ∫∫(x²+y²-4x-4y+10)dσ, where D is the domain bounded by the ellipse x²+4y²-2x-16y+13=0 (including the boundary).",
+    "Answers": "4π < I < 22π."
+  },
+  {
+    "ID": "3474",
+    "Questions": "Evaluate the double integral ∫∫∫(x²+y²+z²)dv, where Ω is the sphere x²+y²+z²≤R².",
+    "Answers": "0 < I < 4/3 πR⁵."
+  },
+  {
+    "ID": "3475",
+    "Questions": "Evaluate the double integral ∫∫∫(x+y+z)dv, where Ω is the cube x≥1, y≥1, z≥1, x≤3, y≤3, z≤3.",
+    "Answers": "24 < I < 72."
+  },
+  {
+    "ID": "3476",
+    "Questions": "Evaluate the double integral ∫∫∫(x+y-z+10)dv, where Ω is the sphere x²+y²+z²≤3.",
+    "Answers": "28π√3 < I < 52π√3."
+  },
+  {
+    "ID": "3477",
+    "Questions": "Evaluate the double integral ∫∫xy dx dy (0≤x≤1, 0≤y≤2);",
+    "Answers": "1."
+  },
+  {
+    "ID": "3478",
+    "Questions": "Evaluate the double integral ∫∫e^(x+y) dx dy (0≤x≤1, 0≤y≤1).",
+    "Answers": "(e-1)²."
+  },
+  {
+    "ID": "3479",
+    "Questions": "Evaluate the double integral ∫∫x²/(1+y²) dx dy (0≤x≤1, 0≤y≤1).",
+    "Answers": "π/12."
+  },
+  {
+    "ID": "3480",
+    "Questions": "Evaluate the double integral ∫∫dx dy/(x+y+1)² (0≤x≤1, 0≤y≤1).",
+    "Answers": "ln(4/3)."
+  },
+  {
+    "ID": "3481",
+    "Questions": "Evaluate the double integral ∫∫ydxdy/(1+x²+y²)³ (0≤x≤1, 0≤y≤1).",
+    "Answers": "1/3 * ln(2/√(1+e²))"
+  },
+  {
+    "ID": "3482",
+    "Questions": "Evaluate the double integral ∫∫x sin(x+y) dx dy (0≤x≤π, 0≤y≤π/2).",
+    "Answers": "π-2."
+  },
+  {
+    "ID": "3483",
+    "Questions": "Evaluate the double integral ∫∫x²ye^(xy) dx dy (0≤x≤1, 0≤y≤2).",
+    "Answers": "2."
+  },
+  {
+    "ID": "3484",
+    "Questions": "Evaluate the double integral ∫∫x²y cos(xy²) dx dy (0≤x≤π/2, 0≤y≤2).",
+    "Answers": "π/16."
+  },
+  {
+    "ID": "3485",
+    "Questions": "Find the limits of the iterated integral ∫∫f(x,y) dx dy for the parallelogram with sides x=3, x=5, 3x-2y+4=0, 3x-2y+1=0.",
+    "Answers": "∫(from 5/2 to 7) dy ∫((2y-1)/3 to (2y-4)/3) f(x,y) dx."
+  },
+  {
+    "ID": "3486",
+    "Questions": "Find the limits of the iterated integral ∫∫f(x,y) dx dy for the triangle with sides x=0, y=0, x+y=2.",
+    "Answers": "∫(from 0 to 2) dx ∫(from 0 to 2-x) f(x,y) dy."
+  },
+  {
+    "ID": "3487",
+    "Questions": "Find the limits of the iterated integral ∫∫f(x,y) dx dy for the domain x²+y²≤1, x≥0, y≥0.",
+    "Answers": "∫(from 0 to 1) dx ∫(from 0 to √(1-x²)) f(x,y) dy."
+  },
+  {
+    "ID": "3488",
+    "Questions": "Find the limits of the iterated integral ∫∫f(x,y) dx dy for the domain x+y≤1, x-y≤1, x≥0.",
+    "Answers": "∫(from 0 to 1) dx ∫(from x-1 to 1-x) f(x,y) dy."
+  },
+  {
+    "ID": "3489",
+    "Questions": "Find the limits of the iterated integral ∫∫f(x,y) dx dy for the domain y≤x², y≤4-x².",
+    "Answers": "∫(from -√2 to √2) dx ∫(from x² to 4-x²) f(x,y) dy."
+  },
+  {
+    "ID": "3490",
+    "Questions": "Find the limits of the iterated integral ∫∫f(x,y) dx dy for the domain x²/4 + y²/9 ≤ 1.",
+    "Answers": "∫(from -2 to 2) dx ∫(from -3/2√(4-x²) to 3/2√(4-x²)) f(x,y) dy."
+  },
+  {
+    "ID": "3491",
+    "Questions": "Find the limits of the iterated integral ∫∫f(x,y) dx dy for the domain (x-2)²+(y-3)²≤4.",
+    "Answers": "∫(from 0 to 4) dx ∫(from 3-√(4-(x-2)²) to 3+√(4-(x-2)²)) f(x,y) dy."
+  },
+  {
+    "ID": "3492",
+    "Questions": "D is bounded by the parabolas y=x² and y=√x.",
+    "Answers": "∫(from 0 to 1) dx ∫(from x² to √x) f(x,y) dy."
+  },
+  {
+    "ID": "3493",
+    "Questions": "The triangle with sides y=x, y=2x and x+y=6.",
+    "Answers": "∫(from 0 to 2) dx ∫(from x to 2x) f(x,y) dy + ∫(from 2 to 3) dx ∫(from x to 6-x) f(x,y) dy."
+  },
+  {
+    "ID": "3494",
+    "Questions": "The parallelogram with sides y=x, y=x+3, y=-2x+1, y=-2x+5.",
+    "Answers": "∫(from -2/3 to 1/3) dx ∫(from -2x+1 to x+3) f(x,y) dy + ∫(from 1/3 to 4/3) dx ∫(from x to x+3) f(x,y) dy + ∫(from 4/3 to 5/3) dx ∫(from x to -2x+5) f(x,y) dy."
+  },
+  {
+    "ID": "3495",
+    "Questions": "The domain y-2x≤0, 2y-x≥0, xy≤2.",
+    "Answers": "∫(from 0 to 1) dx ∫(from x/2 to 2x) f(x,y) dy + ∫(from 1 to 2) dx ∫(from x/2 to 2/x) f(x,y) dy."
+  },
+  {
+    "ID": "3496",
+    "Questions": "The domain y²≤8x, y=2x, y+4x-24≤0.",
+    "Answers": "∫(from 0 to 2) dx ∫(from -2√2x to 2x) f(x,y) dy + ∫(from 2 to 8) dx ∫(from -2√2x to 24-4x) f(x,y) dy."
+  },
+  {
+    "ID": "3497",
+    "Questions": "D is bounded by the hyperbola y²-x²=1 and the circle x²+y²=9 (the domain we have in mind contains the origin).",
+    "Answers": "∫(from -2 to 2) dx ∫(from -√(x²+1) to √(x²+1)) f(x,y) dy + ∫(from -3 to -2) dx ∫(from -√(9-x²) to √(9-x²)) f(x,y) dy + ∫(from 2 to 3) dx ∫(from -√(9-x²) to √(9-x²)) f(x,y) dy."
+  },
+  {
+    "ID": "3498",
+    "Questions": "Change the order of integration in the integral ∫₀¹ dx ∫(x³ to x²) f(x,y) dy.",
+    "Answers": "∫₀¹ dy ∫(√y to ³√y) f(x,y) dy."
+  },
+  {
+    "ID": "3499",
+    "Questions": "Change the order of integration in the integral ∫(-2 to 1) dx ∫(x² to x+2) f(x,y) dy.",
+    "Answers": "∫₀¹ dy ∫(-√y to √y) f(x,y) dy + ∫₁⁴ dy ∫(y-2 to √y) f(x,y) dy."
+  },
+  {
+    "ID": "3500",
+    "Questions": "Change the order of integration in the integral ∫(0 to r) dx ∫(0 to x) f(x,y) dy.",
+    "Answers": "∫₀^r dy ∫ᵧ^r f(x,y) dx."
+  }
+]

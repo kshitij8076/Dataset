@@ -1,0 +1,235 @@
+[
+  {
+    "question_number": 40.1,
+    "Questions": "Figure 40.1 shows a thin film of a transparent material of thickness d and index nᵧ where n₂ > nᵧ > n₁. For what three smallest gap thicknesses will reflected light rays 1 and 2 interfere totally (a) constructively and (b) destructively? Assume the light has a wavelength in the film of 600 nm.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_121.png",
+    "solution": "(a) The rays reinforce if this distance is 0, λ, 2λ, 3λ, ..., mλ, where m is an integer. Hence for reinforcement, d = (m)(600 nm) = 300m nm. The three smallest values for d are 0, 300 nm, and 600 nm. (b) The waves cancel if they are 180° out-of-phase. This occurs when 2d is λ/2, (3λ/2), (5λ/2),..., with m an integer. Therefore, for cancellation, d = (m + ½)(300) nm. The three smallest values for d are 150 nm, 450 nm, and 750 nm."
+  },
+  {
+    "question_number": 40.2,
+    "Questions": "Two narrow horizontal parallel slits (a distance a = 0.60 mm apart) are illuminated by a beam of 500-nm light as shown in Fig. 40-2. Light that is diffracted at certain angles θ reinforces, at others, it cancels. Find the three smallest values for θ at which (a) reinforcement occurs and (b) cancellation occurs.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_122.png",
+    "solution": "(a) For reinforcement, (r₁ - r₂) = 0, λ, 2λ, .... The corresponding three smallest values for θ are found from: sin θ₀ = 0, sin θ₁ = 500 x 10⁻⁹ m / 6 x 10⁻⁴ m = 8.33 x 10⁻⁴, sin θ₂ = 2(500 x 10⁻⁹ m) / 6 x 10⁻⁴ m = 16.7 x 10⁻⁴, so θ₁ = 0.048° and θ₂ = 0.095°. (b) For cancellation, (r₁ - r₂) = ½λ, (λ + ½λ), (2λ + ½λ),.... The corresponding three smallest values for θ are found from: sin θ₁ = 250 nm / 600000 nm = 4.17 x 10⁻⁴, θ₁ = 0.024°, sin θ₂ = 600000 nm / 750 nm = 0.00125, θ₂ = 0.072°, sin θ₃ = 600000 nm / 1250 nm = 0.00208, θ₃ = 0.12°."
+  },
+  {
+    "question_number": 40.3,
+    "Questions": "Monochromatic light from a point source illuminates two narrow, horizontal parallel slits. The centers of the two slits are a = 0.80 cm apart, as shown in Fig. 40-3. An interference pattern forms on the screen, 50 cm away. In the pattern, the bright and dark fringes are evenly spaced. The distance y shown is 0.304 mm. Compute the wavelength λ of the light.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_123.png",
+    "solution": "We know that the distance from the central maximum to the first maximum on either side is 0.304 mm. Therefore, sin θ₁ = 0.304 cm / 50 cm = 0.000608. Then, for m = 1, mλ = a sin θ₁ becomes (1)(λ) = (0.80 x 10⁻³ m)(0.000608), so λ = 486 nm."
+  },
+  {
+    "question_number": 40.4,
+    "Questions": "Repeat Problem 40.1 for the case in which n₁ < nᵧ > n₂ or nᵧ < n₂.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Experiment shows that, in this situation, cancellation occurs when d is near zero. This is due to the fact that light often undergoes a phase shift upon reflection. The process is generally rather complicated, but for incident angles less than about 30°, it’s fairly straightforward. Then there will be a net phase difference of 180° introduced between the internally and externally reflected beams. Thus when the film is very thin compared to λ and d ≈ 0, there will be an apparent path difference for the two beams of λ/2 and cancellation will occur. Destructive interference occurs for d = 0, as we have just seen. When d = λ/2 cancellation occurs. The same thing happens when d = λ + λ/2. Therefore cancellation occurs at d = 0, 300 nm, and 600 nm. Reinforcement occurs when d = λ/4 because then beam 2 acts though it had traveled an additional λ/2 + (2)(λ) = λ. Reinforcement again occurs when d is increased by λ/2 and by λ."
+  },
+  {
+    "question_number": 40.5,
+    "Questions": "When one leg of a Michelson interferometer is lengthened slightly, 150 dark fringes sweep through the field of view. If the light used has λ = 480 nm, how far was the mirror in that leg moved?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Darkness is observed when the light beams from the two legs are 180° out of phase. As the length of one leg is increased by λ/2, the path length (down and back) increases by λ and the field of view changes from dark to bright. When 150 fringes pass, the leg is lengthened by an amount (150)(λ/2) = (150)(240 nm) = 36,000 nm = 0.0360 cm."
+  },
+  {
+    "question_number": 40.6,
+    "Questions": "As shown in Fig. 40-4, two flat glass plates touch at one edge and are separated at the other by a spacer. Using vertical viewing and light with λ = 589.0 nm, five dark fringes (D) are obtained in the region between the plates. What is the thickness of the spacer?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_124.png",
+    "solution": "The pattern is caused by interference between the two beams of light reflected from the upper surface of the air wedge and from the lower surface. The two reflected beams traverse different paths. The difference in path length causes interference, and this interference is constructive or destructive depending on the thickness of the spacer. For the five dark fringes, d = (m + ½)λ. For m = 1, d = (1)(589.0 nm) = 1178 nm."
+  },
+  {
+    "question_number": 40.7,
+    "Questions": "In an experiment used to show Newton’s rings, a plano-convex lens is placed on a flat glass plate, as in Fig. 40-5. The curvature is vastly exaggerated. When the lens is illuminated from directly above, a top-side viewer sees a series of bright and dark rings centered on the contact point, which is dark. Find the air-gap thickness at (a) the third dark ring and (b) the second bright ring. Assume 500 nm light is being used.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_125.png",
+    "solution": "(a) The gap thickness is zero at the central dark spot. It increases by λ/2 as we move from a position of darkness to the next position of darkness. Therefore, at the third dark ring, gap thickness = 3(λ/2) = 750 nm. (b) The gap thickness at the first bright ring must be large enough to increase the path length by λ/2. Since the ray traverses the gap twice, the thickness there is λ/4. As we go from one bright ring to the next, the gap thickness increases by λ/2. Therefore, at the second bright ring, gap thickness = (0.750)(500 nm) = 375 nm."
+  },
+  {
+    "question_number": 40.8,
+    "Questions": "What is the least thickness of a soap film which will appear black when viewed with sodium light (λ = 589.3 nm) reflected perpendicular to the film? The refractive index for soap solution is n = 1.38.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_126.png",
+    "solution": "In the situation shown in Fig. 40-6, Ray b has an extra equivalent path length of 2nd = 2.76d. In addition, there is a relative phase shift of 180°, or λ/2 between the beams because of the reflection process, as described in Problems 40.4 and 40.6. Cancellation (and darkness) occurs if the retardation between the two beams, i.e., 2nd = mλ, or d = mλ / (2n). For m = 1, d = λ / (2n) = (589.3 nm) / (2 × 1.38) = 214 nm."
+  },
+  {
+    "question_number": 40.9,
+    "Questions": "A single slit of width D = 0.10 mm is illuminated by parallel light of wavelength 600 nm, and diffraction bands are observed on a screen 40 cm from the slit. How far is the third dark band from the central bright band?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_127.png",
+    "solution": "For a single slit, the locations of dark bands are given by the equation mλ/a = D sin θm, where m = 1, 2, 3,... The third dark band occurs at m = 3, so sin θ₃ = 3λ / D = (3)(600 x 10⁻⁹ m) / (0.10 x 10⁻³ m) = 0.018, θ₃ = 1.0°."
+  },
+  {
+    "question_number": 40.10,
+    "Questions": "Red light falls normally on a diffraction grating ruled 4000 lines/cm, and the second-order image is diffracted 34.0° from the normal. Compute the wavelength of the light.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "From the grating equation mλ = a sin θ, λ = a sin θ₂ / 2. Therefore, λ = (1/4000)(0.559) = 6.99 × 10⁻⁷ cm = 699 nm."
+  },
+  {
+    "question_number": 40.11,
+    "Questions": "Figure 40-8 shows a laboratory setup for grating experiments. The diffraction grating has 5000 lines/cm and is 1.00 m from the slit, which is illuminated with sodium light. On either side of the slit, and parallel to the grating, is a meterstick. The eye, placed close to the grating, sees virtual images of the slit along the metersticks. Determine the wavelength of the light if each first-order image is 31.0 cm from the slit.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_128.png",
+    "solution": "Using the grating equation mλ = a sin θ₁, where m = 1, λ = a sin θ₁ / 1. Therefore, λ = (0.000200 m)(0.296) = 592 x 10⁻⁷ cm = 592 nm."
+  },
+  {
+    "question_number": 40.12,
+    "Questions": "Green light of wavelength 540 nm is diffracted by a grating ruled with 2000 lines/cm. (a) Compute the angular deviation of the third-order image. (b) Is a 10th-order image possible?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) sin θ₃ = 3λ/a = (3)(540 x 10⁻⁹ cm) / (5.40 x 10⁻⁵ cm) = 0.324, θ₃ = 18.9°. (b) sin θ₁ = 10λ/a = (10)(540 x 10⁻⁹ cm) / (5.00 x 10⁻⁴ cm) = 1.08 (impossible)."
+  },
+  {
+    "question_number": 40.13,
+    "Questions": "Show that, in a spectrum of white light obtained with a grating, the red (λ₁ = 700 nm) of the second order overlaps the violet (λᵥ = 400 nm) of the third order.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "For the red: sin θ₂ = 2λ₂ / a = 2(700) / 4000, the violet: sin θ₃ = 3λᵥ / a = 3(400) / 4000. Therefore, sin θ₂ > sin θ₃, thus the angle of diffraction of red in the second order is greater than that of violet in the third order."
+  },
+  {
+    "question_number": 40.14,
+    "Questions": "A parallel beam of X-rays is diffracted by a rock salt crystal. The first-order strong reflection is obtained when the glancing angle (the angle between the crystal face and the beam) is 6°50′. The distance between reflection planes in the crystal is 2.8 Å. What is the wavelength of the X-rays? (1 angstrom = 1 Å = 0.1 nm.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Note that the Bragg equation involves the glancing angle, not the angle of incidence. λ = 2d sin θ₁ / 1 = (2)(2.8 Å)(0.119) = 0.67 Å."
+  },
+  {
+    "question_number": 40.15,
+    "Questions": "Two point sources of light are 50 cm apart, as shown in Fig. 40-9. They are viewed by the eye at a distance L. The entrance opening (pupil) of the viewer’s eye has a diameter of 3.0 mm. If the eye were perfect, the limiting factor for resolution of the two sources would be diffraction. In that limit, how large could we make L and still have the sources seen as separate entities?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_129.png",
+    "solution": "In the limiting case, θ = θ₀, where sin θ₀ = (1.22)(λ/D). But, we see from the figure that sin θ₀ is nearly equal to s/L, because s is much smaller than L. Substitution of this value gives L ≈ sD / (1.22λ) = (0.50 m)(3.0 x 10⁻³ m) / (1.22)(5.0 x 10⁻⁷ m) = 2.5 km."
+  },
+  {
+    "question_number": 40.16,
+    "Questions": "Two sound sources send identical waves of 20 cm wavelength out along the +x-axis. At what separations of the sources will a listener on the axis beyond them hear (a) the loudest sound and (b) the weakest sound?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) m(20 cm), where m = 0, 1, 2, ... ; (b) 10 cm + m(20 cm)"
+  },
+  {
+    "question_number": 40.17,
+    "Questions": "In an experiment such as that described in Problem 40.1, brightness is observed for the following film thicknesses: 2.90 x 10⁻⁷ m, 5.80 x 10⁻⁷ m, and 8.70 x 10⁻⁷ m. (a) What is the wavelength of the light being used? (b) At what thicknesses would darkness be observed?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 580 nm; (b) 145(1 + 2m) nm."
+  },
+  {
+    "question_number": 40.18,
+    "Questions": "A double-slit experiment is done in the usual way with 480-nm light and narrow slits that are 0.050 cm apart. At what angle to the straight-through beam will one observe (a) the third-order bright spot and (b) the second minimum from the central maximum?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.17°; (b) 0.083°"
+  },
+  {
+    "question_number": 40.19,
+    "Questions": "In Problem 40.18, if the slit-to-screen distance is 200 cm, how far from the central maximum are (a) the third-order bright spot and (b) the second minimum?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.58 cm; (b) 0.29 cm"
+  },
+  {
+    "question_number": 40.20,
+    "Questions": "Red light of wavelength 644 nm, from a point source, passes through two parallel and narrow slits which are 1.00 mm apart. Determine the distance between the central bright fringe and the third dark interference fringe formed on a screen parallel to the plane of the slits and 1.00 m away.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.61 m"
+  },
+  {
+    "question_number": 40.21,
+    "Questions": "Two flat glass plates are pressed together at the top edge and separated at the bottom edge by a strip of tinfoil. The air wedge is examined in yellow sodium light (589 nm) reflected normally from its two surfaces, and 42 dark interference fringes are observed. Compute the thickness of the tinfoil.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "12.4 μm"
+  },
+  {
+    "question_number": 40.22,
+    "Questions": "A mixture of yellow light of wavelength 580 nm and blue light of wavelength 450 nm is incident normally on an air film 290 nm thick. What is the color of the reflected light?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Blue"
+  },
+  {
+    "question_number": 40.23,
+    "Questions": "Repeat Problem 40.1 if the film has a refractive index of 1.40 and the vacuum wavelength of the incident light is 600 nm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0, 214 nm, 429 nm; (b) 107 nm, 321 nm, 536 nm"
+  },
+  {
+    "question_number": 40.24,
+    "Questions": "Repeat Problem 40.6 if the wedge is filled with a fluid that has a refractive index of 1.50 instead of air.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "785 nm"
+  },
+  {
+    "question_number": 40.25,
+    "Questions": "A single slit of width 0.140 mm is illuminated by monochromatic light, and diffraction bands are observed on a screen 2.00 m away. If the second dark band is 16.0 mm from the central bright band, what is the wavelength of the light?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "560 nm"
+  },
+  {
+    "question_number": 40.26,
+    "Questions": "Green light of wavelength 500 nm is incident normally on a grating, and the second-order image is diffracted 30.0° from the normal. How many lines/cm are marked on the grating?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.30 x 10³ lines/cm"
+  },
+  {
+    "question_number": 40.27,
+    "Questions": "A narrow beam of yellow light of wavelength 600 nm is incident normally on a diffraction grating ruled 2000 lines/cm, and images are formed on a screen parallel to the grating 1.00 m distant. Compute the distance along the screen from the central bright line to the first-order lines.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "12.1 cm"
+  },
+  {
+    "question_number": 40.28,
+    "Questions": "Blue light of wavelength 4.7 x 10⁻⁷ m is diffracted normally on a grating, and the second-order image is diffracted 20.0° from the normal. How many lines/cm are marked on the grating?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.30 x 10³ lines/cm"
+  },
+  {
+    "question_number": 40.29,
+    "Questions": "Determine the ratio of the wavelengths of two spectral lines if the second-order image of one line coincides with the third-order image of the other line, both lines being examined by means of the same grating.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "3:2"
+  },
+  {
+    "question_number": 40.30,
+    "Questions": "A spectrum of white light is obtained with a grating ruled with 2500 lines/cm. Compute the angular separation between the violet (λᵥ = 400 nm) and red (λᵣ = 700 nm) in the (a) first order and (b) second order. (c) Does yellow (λᵧ = 600 nm) in the third order overlap the violet in the fourth order?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 4°20′; (b) 8°57′; (c) yes"
+  },
+  {
+    "question_number": 40.31,
+    "Questions": "A spectrum of the Sun’s radiation in the infrared region is produced by a grating. What is the wavelength being studied, if the infrared line in the first order occurs at an angle of 25.0° with the normal, and the fourth-order image of the hydrogen line of wavelength 656.3 nm occurs at 30.0°?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "2.22 x 10⁻⁶ m"
+  },
+  {
+    "question_number": 40.32,
+    "Questions": "How far apart are the diffracting planes in a NaCl crystal for which X-rays of wavelength 1.54 Å make a glancing angle of 15°54′ in the first order?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "2.81 Å"
+  }
+]

@@ -1,0 +1,567 @@
+{
+    "section-1": [
+        {
+            "question_number": 1,
+            "question": "When a person walks on a rough surface, the frictional force exerted by the surface on the person is opposite to the direction of his motion.",
+            "year": 1981,
+            "question_type": "true/false"
+        },
+        {
+            "question_number": 2,
+            "question": "The pulley arrangements of figures (a) and (b) are identical. The mass of the rope is negligible. In Fig. (a), the mass m is lifted up by attaching a mass 2m to the other end of the rope. In Fig. (b), m is lifted up by pulling the other end of the rope with a constant downward force F = 2mg. The acceleration of m is the same in both cases.",
+            "year": 1981,
+            "question_type": "true/false",
+            "images":["arihant_images_ch3/arihant_1.png","arihant_images_ch3/arihant_2.png"]
+        },
+        {
+            "question_number": 3,
+            "question": "A simple pendulum with a bob of mass m swings with an angular amplitude of 40°. When its angular displacement is 20°, the tension in the string is greater than mg cos 20°.",
+            "year": 1984,
+            "question_type": "true/false"
+        },
+        {
+            "question_number": 4,
+            "question": "A cloth covers a table. Some dishes are kept on it. The cloth can be pulled out without dislodging the dishes from the table.",
+            "year": 2007,
+            "question_type": "assertion and reason"
+        },
+        {
+            "question_number": 5,
+            "question": "It is easier to pull a heavy object than to push it on a level ground.",
+            "year": 2008,
+            "question_type": "assertion and reason"
+        },
+        {
+            "question_number": 6,
+            "question": "A block of mass 1 kg lies on a horizontal surface in a truck. The coefficient of static friction between the block and the surface is 0.6. If the acceleration of the truck is 5 m/s², the frictional force acting on the block is ........ N.",
+            "year": 1984,
+            "question_type": "fill in the blank"
+        },
+        {
+            "question_number": 7,
+            "question": "A block of mass 2 kg rests on a rough inclined plane making an angle of 30° with the horizontal. The coefficient of static friction between the block and the plane is 0.7. The frictional force on the block is ........ N.",
+            "year": 1980,
+            "question_type": "objective",
+            "options": [
+                "(a) 9.8 N",
+                "(b) 0.7 × 9.8 × √3 N",
+                "(c) 9.8 × √3 N",
+                "(d) 0.7 × 9.8 N"
+            ]
+        },
+        {
+            "question_number": 8,
+            "question": "A ship of mass 3 x 10⁷ kg initially at rest, is pulled by a force of 5 x 10⁴ N through a distance of 3 m. Assuming that the resistance due to water is negligible, the speed of the ship is ..........",
+            "year": 1980,
+            "question_type": "objective",
+            "options": [
+                "(a) 1.5 m/s",
+                "(b) 6 m/s",
+                "(c) 0.1 m/s",
+                "(d) 5 m/s"
+            ]
+        },
+        {
+            "question_number": 9,
+            "question": "During paddling of a bicycle, the force of friction exerted by the ground on the two wheels is such that it acts ..........",
+            "year": 1990,
+            "question_type": "objective",
+            "options": [
+                "(a) in the backward direction on the front wheel and in the forward direction on the rear wheel",
+                "(b) in the forward direction on the front wheel and in the backward direction on the rear wheel",
+                "(c) in the forward direction on both the front and the rear wheels",
+                "(d) in the backward direction on both the front and rear wheels"
+            ]
+        },
+        {
+            "question_number": 10,
+            "question": "On a frictionless horizontal surface, assumed to be the x-y plane, a small trolley A is moving along a straight line parallel to the x-axis (see figure) with a constant velocity of (√3 − 1) m/s. At a particular instant when the line OA makes an angle of 45° with the x-axis, a ball is thrown along the surface from the origin O. Its velocity makes an angle θ with the x-axis and hits the trolley.",
+            "year": 2002,
+            "question_type": "analytical & descriptive"
+        },
+        {
+            "question_number": 11,
+            "question": "A string of negligible mass going over a clamped pulley of mass m supports a block of mass M as shown in the figure. The force on the pulley by the clamp is given by ..........",
+            "year": 2001,
+            "question_type": "objective",
+            "options": [
+                "(a) √2 Mg",
+                "(b) √2 mg",
+                "(c) g√(M + m) + m²",
+                "(d) g√(M + m) + M²"
+            ]
+        },
+        {
+            "question_number": 12,
+            "question": "A long horizontal rod has a bead which can slide along its length and is initially placed at a distance L from one end A of the rod. The rod is set in angular motion about A with a constant angular acceleration α. If the coefficient of friction between the rod and the bead is μ, and gravity is neglected, then the time after which the bead starts slipping is ..........",
+            "year": 2000,
+            "question_type": "objective",
+            "options": [
+                "(a) μL / α",
+                "(b) 1 / √μα",
+                "(c) 1 / μα",
+                "(d) infinitesimal"
+            ]
+        },
+        {
+            "question_number": 13,
+            "question": "The pulleys and strings shown in the figure are smooth and of negligible mass. For the system to remain in equilibrium, the angle θ should be ..........",
+            "year": 2001,
+            "question_type": "objective",
+            "options": [
+                "(a) 0°",
+                "(b) 30°",
+                "(c) 45°",
+                "(d) 60°"
+            ],
+            "images":["arihant_images_ch3/arihant_3.png"]
+        },
+        {
+            "question_number": 14,
+            "question": "A string of negligible mass going over a clamped pulley of mass m supports a block of mass M as shown in the figure. The force on the pulley by the clamp is given by ..........",
+            "year": 2001,
+            "question_type": "objective",
+            "options": [
+                "(a) √2 Mg",
+                "(b) √2 mg",
+                "(c) g√(M + m) + m²",
+                "(d) g√(M + m) + M²"
+            ],
+            "images":["arihant_images_ch3/arihant_4.png"]
+        },
+        {
+            "question_number": 15,
+            "question": "An insect crawls up a hemispherical surface very slowly (see the figure). The coefficient of friction between the surface and the insect is 1/3. If the line joining the centre of the hemispherical surface to the insect makes an angle α with the vertical, the maximum possible value of α is given by ..........",
+            "year": 2001,
+            "question_type": "objective",
+            "options": [
+                "(a) cot α = 1/3",
+                "(b) tan α = 3",
+                "(c) sec α = 3",
+                "(d) cos α = 3"
+            ],
+            "images":["arihant_images_ch3/arihant_5.png"]
+        },
+        {
+            "question_number": 16,
+            "question": "A small block is shot into each of the four smooth tracks as shown below. Each of the tracks rises to the same height. The speed with which the block enters the track is the same in all cases. At the highest point of the track, the normal reaction is maximum in ..........",
+            "year": 2001,
+            "question_type": "objective",
+            "options": [
+                "(a) g/2 upwards, g downwards",
+                "(b) g upwards, g/2 downwards",
+                "(c) g upwards, 2g downwards",
+                "(d) 2g upwards, g downwards"
+            ]
+        },
+        {
+            "question_number": 17,
+            "question": "What is the maximum value of the force F such that the block shown in the arrangement, does not move?",
+            "year": 2003,
+            "question_type": "objective",
+            "options": [
+                "(a) 20 N",
+                "(b) 10 N",
+                "(c) 12 N",
+                "(d) 15 N"
+            ],
+            "images":["arihant_images_ch3/arihant_6.png"]
+        },
+        {
+            "question_number": 18,
+            "question": "A block of mass m is at rest under the action of a force F against a wall as shown in figure. Which of the following statement is incorrect?",
+            "year": 2005,
+            "question_type": "objective",
+            "options": [
+                "(a) f = mg",
+                "(b) F = N (where N is the normal force)",
+                "(c) F will not produce torque",
+                "(d) N will not produce torque"
+            ],
+            "images":["arihant_images_ch3/arihant_7.png"]
+        
+        },
+        {
+            "question_number": 19,
+            "question": "System shown in figure is in equilibrium and at rest. The spring and string are massless, now the string is cut. The acceleration of mass 2m and m just after the string is cut will be ..........",
+            "year": 2006,
+            "question_type": "objective",
+            "options": [
+                "(a) g/2 upwards, g downwards",
+                "(b) g upwards, g/2 downwards",
+                "(c) g upwards, 2g downwards",
+                "(d) 2g upwards, g downwards"
+            ],
+            "images":["arihant_images_ch3/arihant_8.png"]
+        },
+        {
+            "question_number": 20,
+            "question": "Two particles of mass m each are tied at the ends of a light string of length 2a. The whole system is kept on a frictionless horizontal surface with the string held tight so that each mass is at a distance a from the centre P (as shown in the figure). Now, the mid-point of the string is pulled vertically upwards with a small but constant force F. As a result, the particles move towards each other on the surface. The magnitude of acceleration, when the separation between them becomes 2x, is ..........",
+            "year": 2007,
+            "question_type": "objective",
+            "options": [
+                "(a) F / 2m × a / √(a² - x²)",
+                "(b) F / 2m × x / √(a² - x²)",
+                "(c) F / 2m × a",
+                "(d) F / 2m × √(a² - x²) / x"
+            ],
+            "images":["arihant_images_ch3/arihant_9.png"]
+        },
+        {
+            "question_number": 21,
+            "question": "A block of mass m is placed on a surface with a vertical cross-section given by y = x² / 6. If the coefficient of friction is 0.5, the maximum height above the ground at which the block can be placed without slipping is ..........",
+            "year": 2014,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 22,
+            "question": "Given in the figure are two blocks A and B of weight 20 N and 100 N, respectively. These are being pressed against a wall by a force F as shown in figure. If the coefficient of friction between the blocks is 0.1 and between block B and the wall is 0.15, the frictional force applied by the wall in block B is ..........",
+            "year": 2015,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_10.png"]
+        },
+        {
+            "question_number": 23,
+            "question": "Two masses m₁ = 5 kg and m₂ = 10 kg connected by an inextensible string over a frictionless pulley, are moving as shown in the figure. The coefficient of friction of horizontal surface is 0.15. The minimum weight m₃ that should be put on top of m₂ to stop the motion is ..........",
+            "year": 2018,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_11.png"]
+        },
+        {
+            "question_number": 24,
+            "question": "A bullet of mass 20 g has an initial speed of 1 m/s−1, just before it starts penetrating a mud wall of thickness 20 cm. If the wall offers a mean resistance of 25 × 10² N, the speed of the bullet after emerging from the other side of the wall is close to ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 6 ms−1",
+                "(b) 4 ms−1",
+                "(c) 1 ms−1",
+                "(d) 0 ms−1"
+            ]
+        },
+        {
+            "question_number": 25,
+            "question": "A block of mass 5 kg is pushed in case (A) and (i) pulled in case (B), by a force F = 20 N, making an angle of 30° with the horizontal, as shown in the figures. The coefficient of friction between the block and the floor is μ = 0.2. The difference between the accelerations of the block, in case (B) and case (A) will be .......... (Take, g = 10 ms−2)",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 0.4 ms−2",
+                "(b) 3.2 ms−2",
+                "(c) 0.8 ms−2",
+                "(d) 0 ms−2"
+            ],
+            "images":["arihant_images_ch3/arihant_12.png","arihant_images_ch3/arihant_13.png"]
+        },
+        {
+            "question_number": 26,
+            "question": "A mass of 10 kg is suspended vertically by a rope from the ceiling of a room. When a horizontal force is applied on the mass, the rope deviated at an angle of 45° at the roof point. If the suspended mass is at equilibrium, the magnitude of the force applied is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 70 N",
+                "(b) 200 N",
+                "(c) 100 N",
+                "(d) 140 N"
+            ]
+        },
+        {
+            "question_number": 27,
+            "question": "Two blocks A and B of masses m₁ = 1 kg and m₂ = 3 kg are kept on the table as shown in figure. The coefficient of friction between A and B is 0.2 and between B and the surface of the table is also 0.2. The maximum force F that can be applied on B horizontally, so that the block A does not slide over the block B is .......... (Take, g = 10 ms−2)",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 12 N",
+                "(b) 16 N",
+                "(c) 8 N",
+                "(d) 40 N"
+            ],
+            "images":["arihant_images_ch3/arihant_14.png"]
+        },
+        {
+            "question_number": 28,
+            "question": "A block kept on a rough inclined plane, as shown in the figure, remains at rest upto a maximum force 2 N down the inclined plane. The maximum central force up the inclined plane that does not move the block is 10 N. The coefficient of static friction between the block and the plane is .......... (Take, g = 10 ms−2)",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 2/3",
+                "(b) √3/2",
+                "(c) √3/4",
+                "(d) 1/2"
+            ],
+            "images":["arihant_images_ch3/arihant_15.png"]
+        },
+        {
+            "question_number": 29,
+            "question": "A block of mass 10 kg is kept on a rough inclined plane as shown in the figure. A force of 3 N is applied on the block. The coefficient of static friction between the plane and the block is 0.6. What should be the minimum value of force F such that the block does not move downward? (Take, g = 10 ms−2)",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 32 N",
+                "(b) 25 N",
+                "(c) 23 N",
+                "(d) 18 N"
+            ],
+            "images":["arihant_images_ch3/arihant_16.png"]
+        },
+        {
+            "question_number": 30,
+            "question": "Two particles A and B are moving on two concentric circles of radii R₁ and R₂, with equal angular speed ω. At t = 0, their positions and direction of motion are shown in the figure. The relative velocity vA − vB at t = t = 2θ₀ is given by ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) ω(R₁ + R₂) j",
+                "(b) ω(R₁ − R₂) j",
+                "(c) ω(R₂ − R₁) j",
+                "(d) ω(R₁ − R₂) i"
+            ],
+            "images":["arihant_images_ch3/arihant_17.png"]
+        },
+        {
+            "question_number": 31,
+            "question": "A particle is moving along a circular path with a constant speed of 10 ms−1. What is the magnitude of the change in velocity of the particle, when it moves through an angle of 60° around the centre of the circle?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 10/2 ms−1",
+                "(b) 10 ms−1",
+                "(c) 10√3 ms−1",
+                "(d) Zero"
+            ]
+        },
+        {
+            "question_number": 32,
+            "question": "A simple pendulum of length L and mass (bob) M is oscillating in a plane about a vertical line between angular limits −θ and +θ. For an angular displacement θ (|θ| < θ), the tension in the string and the velocity of the bob are T and v respectively. The following relations hold good under the above conditions",
+            "year": 1986,
+            "question_type": "mcq",
+            "options": [
+                "(a) T cos θ = Mg",
+                "(b) T − Mg cos θ = Mv² / L",
+                "(c) The magnitude of the tangential acceleration of the bob |at| = g sin θ",
+                "(d) T = Mg cos θ"
+            ] 
+        },
+        {
+            "question_number": 33,
+            "question": "A reference frame attached to the earth is ..........",
+            "year": 1986,
+            "question_type": "mcq",
+            "options": [
+                "(a) is an inertial frame by definition",
+                "(b) cannot be an inertial frame because the earth is revolving around the sun",
+                "(c) is an inertial frame because Newton’s laws are applicable in this frame",
+                "(d) cannot be an inertial frame because the earth is rotating about its own axis"
+            ]
+        },
+        {
+            "question_number": 34,
+            "question": "A block of mass 2 kg slides on an inclined plane which makes an angle of 30° with the horizontal. The coefficient of friction between the block and the surface is √3/2. What force along the plane should be applied to the block so that it moves (a) down and (b) up without any acceleration? (Take g = 10 m/s²)",
+            "year": 1978,
+            "question_type": "descriptive"
+        },
+        {
+            "question_number": 35,
+            "question": "A uniform rope of length L and mass M lying on a smooth table is pulled by a constant force F. What is the tension in the rope at a distance x from the end where the force is applied?",
+            "year": 1978,
+            "question_type": "descriptive"
+        },
+        {
+            "question_number": 36,
+            "question": "Two blocks of masses 2.9 kg and 1.9 kg are suspended from a rigid support S by two inextensible wires each of length 1m (see figure). The upper wire has negligible mass and the lower wire has a uniform mass of 0.2 kg/m. The whole system of blocks, wires, and support have an upward acceleration of 0.2 m/s². The acceleration due to gravity is 9.8 m/s². (a) Find the tension at the mid-point of the lower wire. (b) Find the tension at the mid-point of the upper wire.",
+            "year": 1989,
+            "question_type": "descriptive",
+            "images":["arihant_images_ch3/arihant_18.png"]
+        }
+    ],
+    "section-2": [
+        {
+            "question_number": 1,
+            "question": "A piece of wire is bent in the shape of a parabola y = kx² (y-axis vertical) with a bead of mass m on it. The bead can slide on the wire without friction. It stays at the lowest point of the parabola when the wire is at rest. The wire is now accelerated parallel to the x-axis with a constant acceleration. The distance of the new equilibrium position from the y-axis of the bead, where the bead can stay at rest with respect to the wire, is ..........",
+            "year": 2009,
+            "question_type": "mcq",
+            "options": [
+                "(a) a / gk",
+                "(b) a / 2gk",
+                "(c) 2a / gk",
+                "(d) a / 4gk"
+            ]
+        },
+        {
+            "question_number": 2,
+            "question": "A block of mass m is on an inclined plane of angle θ. The coefficient of friction between the block and the plane is μ and tan θ > μ. The block is held stationary by applying a force P parallel to the plane. The direction of force pointing up the plane is taken to be positive. As P is varied from P₁ = mg (sin θ − μcos θ) to P₂ = mg (sin θ + μcos θ), the frictional force versus P graph will look like ..........",
+            "year": 2010,
+            "question_type": "mcq",
+            "options": [
+                "(a) P₁ < P₂",
+                "(b) P₂ < P₁",
+                "(c) P₂ > P₁",
+                "(d) P₂ = P₁"
+            ]
+        },
+        {
+            "question_number": 3,
+            "question": "A ball of mass (m) 0.5 kg is attached to the end of a string having length (l) 0.5 m. The ball is rotated on a horizontal circular path like a physical pendulum about a vertical axis. The maximum tension that the string can bear is 324 N. The maximum possible value of angular velocity of ball (in rad/s) is ..........",
+            "year": 2011,
+            "question_type": "mcq",
+            "options": [
+                "(a) 9",
+                "(b) 18",
+                "(c) 27",
+                "(d) 36"
+            ],
+            "images":["arihant_images_ch3/arihant_19.png"]
+        },
+        {
+            "question_number": 4,
+            "question": "A block of mass m₁ = 1 kg and another mass m₂ = 2 kg are placed together (see figure) on an inclined plane with an angle of inclination θ. Various values of θ are given in List I. The coefficient of friction between the block m₁ and the plane is always zero. The coefficient of static and dynamic friction between the block m₂ and the plane are equal to μ = 0.3. In List II expressions for the friction on the block m₂ are given. Match the correct expression of the friction in List II with the angles given in List I and choose the correct option. The acceleration due to gravity is denoted by g.",
+            "year": 2014,
+            "question_type": "mcq",
+            "list_I": [
+                "P₁ = 5°",
+                "P₂ = 10°",
+                "P₃ = 15°",
+                "P₄ = 20°"
+            ],
+            "list_II": [
+                "Q₁ = m₁g sin θ",
+                "Q₂ = (m₁ + m₂) g sin θ",
+                "R₁ = μm₁g cos θ",
+                "R₂ = μ(m₁ + m₂) g cos θ"
+            ],
+            "codes": [
+                "(a) P-1, Q-1, R-1, S-3",
+                "(b) P-2, Q-2, R-2, S-3",
+                "(c) P-2, Q-2, R-2, S-4",
+                "(d) P-2, Q-2, R-3, S-3"
+            ],
+            "images":["arihant_images_ch3/arihant_20.png"]
+        },
+        {
+            "question_number": 5,
+            "question": "A uniform wooden stick of mass 1.6 kg of length l rests in an inclined manner on a smooth, vertical wall of height h (< l) such that a small portion of the stick extends beyond the wall. The reaction force of the wall on the stick is perpendicular to the stick. The stick makes an angle of 30° with the wall and the bottom of the stick is on a rough floor. The reaction of the wall on the stick is equal in magnitude to the reaction of the floor on the stick. The ratio h / l and the frictional force f at the bottom of the stick are (g = 10 m/s²).",
+            "year": 2016,
+            "question_type": "mcq",
+            "options": [
+                "(a) h / l = √3 / 16, f = 16√3 / 3 N",
+                "(b) h / l = 3 / 16, f = √3 / 3 N",
+                "(c) h / l = √3 / 4, f = 8√3 / 3 N",
+                "(d) h / l = 3 / 16, f = 16√3 / 3 N"
+            ]
+        },
+        {
+            "question_number": 6,
+            "question": "A small block of mass 0.1 kg lies on a fixed inclined plane PQ which makes an angle θ with the horizontal. A horizontal force of 1 N acts on the block through its center of mass as shown in the figure. The block remains stationary if (Take g = 10 m/s²)",
+            "year": 2012,
+            "question_type": "mcq",
+            "options": [
+                "(a) θ = 45°",
+                "(b) θ > 45° and a frictional force acts on the block towards P",
+                "(c) θ > 45° and a frictional force acts on the block towards Q",
+                "(d) θ < 45° and a frictional force acts on the block towards Q"
+            ],
+            "images":["arihant_images_ch3/arihant_21.png"]
+        },
+        {
+            "question_number": 7,
+            "question": "In the figure, a ladder of mass m is leaning against a wall. It is in static equilibrium making an angle θ with the horizontal floor. The coefficient of friction between the wall and the ladder is μ₁ and that between the floor and the ladder is μ₂. The normal reaction of the wall on the ladder is N₁ and that of the floor is N₂. If the ladder is about to slip, then ..........",
+            "year": 2014,
+            "question_type": "mcq",
+            "options": [
+                "(a) μ₁ = 0, μ₂ ≠ 0 and N₂ tan θ = mg / 2",
+                "(b) μ₁ ≠ 0, μ₂ = 0 and N₁ tan θ = mg / 2",
+                "(c) μ₁ ≠ 0, μ₂ ≠ 0 and N₂ = mg / (1 + μ₁μ₂) tan θ",
+                "(d) μ₁ = 0, μ₂ ≠ 0 and N₁ tan θ = mg / 2"
+            ],
+            "images":["arihant_images_ch3/arihant_22.png"]
+        },
+        {
+            "question_number": 8,
+            "question": "In the figure, the blocks A, B, and C have masses 3 kg, 4 kg, and 8 kg respectively. The coefficient of sliding friction between any two surfaces is 0.25. A is held at rest by a massless rigid rod fixed to the wall, while B and C are connected by a light flexible cord passing around a fixed frictionless pulley. Find the force F necessary to drag C along the horizontal surface to the left at a constant speed. Assume the arrangement shown in the figure is maintained throughout (Take g = 10 m/s²)",
+            "year": 1978,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_23.png"]
+        },
+        {
+            "question_number": 9,
+            "question": "Two blocks connected by a massless string slides down an inclined plane having an angle of inclination of 37°. The masses of the two blocks are M₁ = 4 kg and M₂ = 2 kg respectively and the coefficients of friction of M₁ and M₂ with the inclined plane are 0.75 and 0.25 respectively. Assuming the string to be taut, find (a) the common acceleration of two masses and (b) the tension in the string. (Take g = 9.8 m/s², sin 37° = 0.6, cos 37° = 0.8)",
+            "year": 1979,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_24.png"]
+        },
+        {
+            "question_number": 10,
+            "question": "Masses M₁, M₂, and M₃ are connected by strings of negligible mass which passes over massless and frictionless pulleys P₁ and P₂ as shown in the figure. The masses move such that the portion of the string between P₁ and P₂ is parallel to the inclined plane and the portion of the string between P and M₃ is horizontal. The masses M₂ and M₃ are 4.0 kg each and the coefficient of friction between the masses and the surfaces is 0.25. The inclined plane makes an angle of 37° with the horizontal. If the mass M₁ moves downwards with a uniform velocity, find (a) the mass of M₁, (b) the tension in the horizontal portion of the string. (Take g = 9.8 m/s², sin 37° = 3/5)",
+            "year": 1981,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_25.png"]
+        },
+        {
+            "question_number": 11,
+            "question": "A block of mass m rests on a horizontal floor with which it has a coefficient of static friction. It is desired to make the body move by applying the minimum possible force F. Find the magnitude of F and the direction in which it has to be applied.",
+            "year": 1987,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 12,
+            "question": "A rocket is moving in a gravity free space with a constant acceleration of 2 m/s² along +x direction (see figure). The length of a chamber inside the rocket is 4 m. A ball is thrown from the left end of the chamber in +x direction with a speed of 0.3 m/s relative to the rocket. At the same time, another ball is thrown in –x direction with a speed of 0.2 m/s from its right end relative to the rocket. The time in seconds when the two balls hit each other.",
+            "year": 2014,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 13,
+            "question": "A smooth semicircular wire track of radius R is fixed in a vertical plane. One end of a massless spring of natural length 3R/4 is attached to the lowest point O of the wire track. A small ring of mass m which can slide on the track is attached to the other end of the spring. The ring is held stationary at point P such that the spring makes an angle 60° with the vertical. The spring constant is k = mg/R. Consider the instant when the ring is making an angle 60° with the vertical.",
+            "year": 1996,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_26.png"]
+        },
+        {
+            "question_number": 14,
+            "question": "A large heavy box is sliding without friction down a smooth plane of inclination θ. From a point P on the bottom of the box, a particle is projected inside the box. The initial speed of the particle with respect to the box is u and the direction of projection makes an angle α with the bottom as shown in the figure. (a) Find the distance along the bottom of the box between the point of projection P and the point Q where the particle lands (Assume that the particle does not hit any other surface of the box. Neglect air resistance.)",
+            "year": 1998,
+            "question_type": "integer answer"
+            
+        },
+        {
+            "question_number": 15,
+            "question": "An object of mass m and block of mass 2m are placed on a fixed triangular wedge by means of a massless, inextensible string and a frictionless pulley as shown in figure. The wedge is inclined at 45° to the horizontal on both sides. The coefficient of friction between block and the wedge is 1/3, and that between block B and the wedge is 1/2. If the blocks A and B are released from rest, find ....",
+            "year": 1997,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_27.png"]
+        },
+        {
+            "question_number": 16,
+            "question": "In the figure masses m₁, m₂ and M are 20 kg, 5 kg and 50 kg respectively. The coefficient of friction between M and m₁ and that between m₁ and ground is 0.3. The pulleys and the strings are massless. The string is perfectly horizontal between P₁ and m₁ and also between P₂ and m₂. The string is perfectly vertical between P₁ and P₂. An external horizontal force F is applied to the mass M.",
+            "year": 2000,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_28.png"]
+        },
+        {
+            "question_number": 17,
+            "question": "Two blocks A and B of equal masses are released from an inclined plane of inclination 45° at t = 0. Both the blocks are initially at rest. The coefficient of kinetic friction between the block A and the inclined plane is 0.2 while it is 0.3 for block B. Initially the block A is √2 m behind the block B. When and where their front faces will come in a line? (Take g = 10 m/s²)",
+            "year": 2004,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_29.png"]
+        },
+        {
+            "question_number": 18,
+            "question": "Two identical ladders are arranged as shown in the figure. Mass of each ladder is M and length L. The system is in equilibrium. Find direction and magnitude of frictional force acting at A or B.",
+            "year": 2005,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_30.png"]
+        },
+        {
+            "question_number": 19,
+            "question": "A circular disc with a groove along its diameter is placed horizontally. A block of mass 1 kg is placed as shown. The coefficient of friction between the block and all surfaces of groove in contact is μ = 2/5. The disc has an acceleration of 25 m/s². Find the acceleration of the block with respect to disc. Given cosθ = 4/5.",
+            "year": 2006,
+            "question_type": "integer answer",
+            "images":["arihant_images_ch3/arihant_31.png"]
+        }
+
+
+
+        
+     
+    
+       
+
+    ]
+}

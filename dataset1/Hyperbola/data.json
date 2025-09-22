@@ -1,0 +1,339 @@
+[
+    {
+        "ID": "ILLUSTRATION 7.1",
+        "Questions": "If base of a triangle and ratio of tangents of half of the base angles are given, then prove that the locus of the opposite vertex is a hyperbola.",
+        "Answers": "The solution shows that the difference of the two variable sides AC and AB is constant (i.e., AC - AB = constant). Hence, by the definition of a hyperbola, the locus of vertex A is a hyperbola with B and C as foci.",
+        "images": ["Hyperbola_1.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.2",
+        "Questions": "Prove that the locus of the centre of the circle which touches two given disjoint circles externally is a hyperbola.",
+        "Answers": "Let the variable circle have centre C and the two given circles have centres C₁ and C₂ and radii r₁ and r₂. The condition gives CC₁ - CC₂ = r₁ - r₂ (a constant). Thus, the locus of centre C is a hyperbola with foci C₁ and C₂.",
+        "images": ["Hyperbola_2.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.3",
+        "Questions": "The equation of one directrix of a hyperbola is 2x + y = 1, the corresponding focus is (1, 2) and eccentricity is √3. Find the equation of the hyperbola and coordinates of the centre and second focus.",
+        "Answers": "Equation of hyperbola: 7x² + 12xy - 2y² – 2x + 14y – 22 = 0. Centre: (-4/5, 11/10). Second focus: (-13/5, 1/5).",
+        "images": ["Hyperbola_3.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.4",
+        "Questions": "Prove that the equation 2x² + 5xy + 2y² - 11x - 7y – 4 = 0 represents a hyperbola.",
+        "Answers": "For the given second-degree equation, the discriminant Δ = -81/4 ≠ 0 and h² - ab = (5/2)² - (2)(2) = 9/4 > 0. Since Δ ≠ 0 and h² - ab > 0, the equation represents a hyperbola."
+    },
+    {
+        "ID": "ILLUSTRATION 7.5",
+        "Questions": "If the equation √(x – tan θ)² + (y - √3 tan θ)² - √(x – 2 tan θ)² + y² = 2, where θ ∈ [0, π] - {π/2}, represents a hyperbola, then find the values of θ.",
+        "Answers": "The condition for the equation to represent a hyperbola is that the distance between the foci is greater than 2a. Here, 2a=2, so F₁F₂ > 2. This leads to |2 tan θ| > 2, which means |tan θ| > 1. Therefore, θ ∈ (π/4, π/2) ∪ (π/2, 3π/4)."
+    },
+    {
+        "ID": "ILLUSTRATION 7.6",
+        "Questions": "Find the standard equation of the hyperbola in each of the following cases:\n(i) Distance between the foci is 16 and its eccentricity is √2.\n(ii) Vertices are (±4, 0) and foci are (±6, 0).\n(iii) Foci are (0, ±√10) and it passes through the point (2, 3).\n(iv) Distances of one of the vertices from the foci are 3 and 1.",
+        "Answers": "(i) x² - y² = 32 (or x² - y² = -32)\n(ii) x²/16 - y²/20 = 1\n(iii) y² - x² = 5\n(iv) x² - y²/3 = 1 (or x²/3 - y² = -1)"
+    },
+    {
+        "ID": "ILLUSTRATION 7.7",
+        "Questions": "If the ellipse x²/16 + y²/b² = 1 and the hyperbola x²/144 - y²/81 = 1/25 are confocal, then find the value of b².",
+        "Answers": "b² = 7"
+    },
+    {
+        "ID": "ILLUSTRATION 7.8",
+        "Questions": "If the hyperbola x²/b² - y²/a² = 1 passes through the foci of the ellipse x²/a² + y²/b² = 1, then find the eccentricities of the ellipse and the hyperbola.",
+        "Answers": "Eccentricity of ellipse, e₁ = 1/√2. Eccentricity of hyperbola, e₂ = √3.",
+        "images": ["Hyperbola_4.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.9",
+        "Questions": "Find the eccentricity of the hyperbola given by the equations x = (eᵗ + e⁻ᵗ)/2 and y = (eᵗ - e⁻ᵗ)/3, for t ∈ R.",
+        "Answers": "e = √13 / 3"
+    },
+    {
+        "ID": "ILLUSTRATION 7.10",
+        "Questions": "An ellipse and a hyperbola have their principal axes along the coordinate axes and have common foci separated by a distance 2√13. The difference of their focal semi-axes is equal to 4. If the ratio of their eccentricities is 3/7, find the equations of these curves.",
+        "Answers": "Equation of ellipse: x²/49 + y²/36 = 1. Equation of hyperbola: x²/9 - y²/4 = 1."
+    },
+    {
+        "ID": "ILLUSTRATION 7.11",
+        "Questions": "If the latus rectum of the hyperbola x²/a² - y²/b² = 1 subtends a right angle at the centre, then find its eccentricity.",
+        "Answers": "e = (1 + √5) / 2",
+        "images": ["Hyperbola_5.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.12",
+        "Questions": "Find the equation of the hyperbola in each of the following cases:\n(i) Centre is (1, 0), one focus is (6, 0) and transverse axis is 6.\n(ii) Centre is (3, 2), one focus is (5, 2) and one vertex is (4, 2).\n(iii) Centre is (-3, 2), one vertex is (-3, 4) and eccentricity is 5/2.\n(iv) Foci are (4, 2), (8, 2) and eccentricity is 2.",
+        "Answers": "(i) (x-1)²/9 - y²/16 = 1\n(ii) (x-3)² - (y-2)²/3 = 1\n(iii) (x+3)²/21 - (y-2)²/4 = -1\n(iv) (x-6)² - (y-2)²/3 = 1"
+    },
+    {
+        "ID": "ILLUSTRATION 7.13",
+        "Questions": "Two rods are rotating about two fixed points in opposite directions. If they start from their position of coincidence and one rotates at a rate double that of the other, prove that the locus of the point of intersection of the two rods is a hyperbola.",
+        "Answers": "The locus is derived to be 3x² - y² - 2ax = 0, which is the equation of a hyperbola.",
+        "images": ["Hyperbola_6.png"]       
+    },
+    {
+        "ID": "ILLUSTRATION 7.14",
+        "Questions": "Find the coordinates of vertices, foci, eccentricity, latus-rectum and the equations of directrices for the hyperbola 9x² - 16y² - 72x + 96y – 144 = 0.",
+        "Answers": "Vertices: (0, 3) and (8, 3). Foci: (-1, 3) and (9, 3). Eccentricity: e = 5/4. Latus-rectum: 9/2. Directrices: 5x - 36 = 0 and 5x - 4 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 7.15",
+        "Questions": "Find the centre, eccentricity, foci and equations of directrices of the hyperbola (3x – 4y - 12)²/100 - (4x + 3y – 12)²/225 = 1.",
+        "Answers": "Centre: (84/25, -12/25). Eccentricity: e = √13/2. Foci: ((84 ± 15√13)/25, (-12 ± 20√13)/25). Directrices: 3x - 4y - 12 ± 20/√13 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 7.16",
+        "Questions": "Each of the four inequalities given below defines a region in the xy plane. One of these four regions does not have the property that for any two points in the region, their midpoint is also in the region (i.e., is not a convex set). Identify this region:\n(1) x² + 2y² ≤ 1\n(2) max{|x|, |y|} ≤ 1\n(3) x² - y² ≤ 1\n(4) y² - x ≤ 0",
+        "Answers": "The region defined by (3) x² - y² ≤ 1. This region represents the area outside the two branches of the hyperbola x² - y² = 1, which is not a convex set.",
+        "images": ["Hyperbola_7.png",
+            "Hyperbola_8.png",
+            "Hyperbola_9.png",
+            "Hyperbola_10.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.17",
+        "Questions": "Find the locus of the midpoints of chords of the hyperbola 3x² - 2y² + 4x – 6y = 0 that are parallel to the line y = 2x.",
+        "Answers": "The required locus is the line 3x - 4y = 4."
+    },
+    {
+        "ID": "ILLUSTRATION 7.18",
+        "Questions": "If PQ is a double ordinate of the hyperbola x²/a² - y²/b² = 1 such that ΔOPQ is an equilateral triangle (O being the centre), find the range of the eccentricity (e).",
+        "Answers": "The range of the eccentricity is e ≥ 2/√3.",
+        "images": ["Hyperbola_11.png"]              
+    },
+    {
+        "ID": "ILLUSTRATION 7.19",
+        "Questions": "If (a sec θ, b tan θ) and (a sec φ, b tan φ) are the ends of a focal chord of the hyperbola x²/a² - y²/b² = 1, then prove that tan(θ/2)tan(φ/2) = (1-e)/(1+e).",
+        "Answers": "The solution provides a proof for the statement by substituting the coordinates of the focus (ae, 0) into the equation of the chord joining the two points and simplifying."
+    },
+    {
+        "ID": "ILLUSTRATION 7.20",
+        "Questions": "Find the point on the hyperbola x² – 9y² = 9 where the line 5x + 12y = 9 touches it.",
+        "Answers": "The point of contact is (5, -4/3)."
+    },
+    {
+        "ID": "ILLUSTRATION 7.21",
+        "Questions": "Find the value of m for which y = mx + 6 is a tangent to the hyperbola x²/100 - y²/49 = 1.",
+        "Answers": "m = ±√(17/20)"
+    },
+    {
+        "ID": "ILLUSTRATION 7.22",
+        "Questions": "Find the equations of the tangents to the curve 4x² – 9y² = 1 which are parallel to the line 4y = 5x + 7.",
+        "Answers": "The equations are 30x - 24y ± √161 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 7.23",
+        "Questions": "If it is possible to draw a tangent to the hyperbola x²/a² - y²/b² = 1 having a slope of 2, find the range of its eccentricity.",
+        "Answers": "1 < e ≤ √5"
+    },
+    {
+        "ID": "ILLUSTRATION 7.24",
+        "Questions": "Find the equations of the tangents to the hyperbola x² – y² – 4x – 2y = 0 having a slope of 2.",
+        "Answers": "The equations of the tangents are 2x - y - 2 = 0 and 2x - y - 8 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 7.25",
+        "Questions": "Find the minimum value of (2a - 4 sec θ)² + (a - 3 tan θ)², where a, θ ∈ R.",
+        "Answers": "The minimum value is the square of the minimum distance between the line x+y-2=0 and the hyperbola x²/16 - y²/9 = 1. The minimum value is ((√7 - 2)/√2)²."
+    },
+    {
+        "ID": "ILLUSTRATION 7.26",
+        "Questions": "Find the locus of the midpoints of the chords of the circle x² + y² = 16, which are tangent to the hyperbola 9x² – 16y² = 144.",
+        "Answers": "The required locus is (x² + y²)² = 16x² - 9y²."
+    },
+    {
+        "ID": "ILLUSTRATION 7.27",
+        "Questions": "Find the equation of the tangent to the conic x² - y² - 8x + 2y + 11 = 0 at the point (2, 1).",
+        "Answers": "The equation of the tangent is x = 2."
+    },
+    {
+        "ID": "ILLUSTRATION 7.28",
+        "Questions": "A tangent to the hyperbola x² – 2y² = 4 meets the x-axis at P and the y-axis at Q. Lines PR and QR are drawn such that OPRQ is a rectangle (where O is the origin). Find the locus of R.",
+        "Answers": "The locus of R is 4/x² - 2/y² = 1."
+    },
+    {
+        "ID": "ILLUSTRATION 7.29",
+        "Questions": "Find the equations of the tangents to the hyperbola x² – 9y² = 9 that are drawn from the point (3, 2).",
+        "Answers": "The equations of the tangents are 5x - 12y + 9 = 0 (or y-2 = 5/12(x-3)) and x = 3."
+    },
+    {
+        "ID": "ILLUSTRATION 7.30",
+        "Questions": "Find the equation of the pair of tangents drawn from the point (4, 3) to the hyperbola x²/16 - y²/9 = 1. Also, find the angle between the tangents.",
+        "Answers": "Equation of pair of tangents: 3x² - 4xy - 12x + 16y = 0. Angle between tangents: tan⁻¹(4/3)."
+    },
+    {
+        "ID": "ILLUSTRATION 7.31",
+        "Questions": "Tangents drawn from the point (c, d) to the hyperbola x²/a² - y²/b² = 1 make angles α and β with the x-axis. If tan α tan β = 1, then find the value of c² – d².",
+        "Answers": "c² - d² = a² + b²."
+    },
+    {
+        "ID": "ILLUSTRATION 7.32",
+        "Questions": "On which curve do the perpendicular tangents drawn to the hyperbola x²/25 - y²/16 = 1 intersect?",
+        "Answers": "The perpendicular tangents intersect on the director circle of the hyperbola, whose equation is x² + y² = a² - b² = 25 - 16 = 9. So, the curve is the circle x² + y² = 9."
+    },
+    {
+        "ID": "ILLUSTRATION 7.33",
+        "Questions": "Find the equation of the hyperbola having foci S(2, 1) and S'(10, 1) and a straight line x + y - 9 = 0 as its tangent. Also, find the equation of its director circle.",
+        "Answers": "Equation of hyperbola: (x-6)²/10 - (y-1)²/6 = 1. Equation of director circle: (x-6)² + (y-1)² = 4."
+    },
+    {
+        "ID": "ILLUSTRATION 7.34",
+        "Questions": "Find the eccentricity of the hyperbola with asymptotes 3x + 4y = 2 and 4x - 3y = 2.",
+        "Answers": "Since the asymptotes are perpendicular, the hyperbola is rectangular, and hence its eccentricity is √2."
+    },
+    {
+        "ID": "ILLUSTRATION 7.35",
+        "Questions": "Find the equation of the hyperbola which has 3x – 4y + 7 = 0 and 4x + 3y + 1 = 0 as its asymptotes and which passes through the origin.",
+        "Answers": "The equation of the hyperbola is 12x² - 7xy - 12y² + 31x + 17y = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 7.36",
+        "Questions": "Find the equations of the asymptotes of the hyperbola 3x² + 10xy + 8y² + 14x + 22y + 7 = 0.",
+        "Answers": "The combined equation of the asymptotes is 3x² + 10xy + 8y² + 14x + 22y + 15 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 7.37",
+        "Questions": "If a hyperbola passing through the origin has 3x – 4y – 1 = 0 and 4x – 3y – 6 = 0 as its asymptotes, then find the equations of its transverse and conjugate axes.",
+        "Answers": "Transverse axis: x + y - 5 = 0. Conjugate axis: x - y - 1 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 7.38",
+        "Questions": "The tangent at any point P on a hyperbola x²/a² - y²/b² = 1 with centre C, meets the asymptotes in Q and R. Prove that the area of triangle CQR is constant. Also, prove that P is the midpoint of QR.",
+        "Answers": "The solution proves that the area of triangle CQR is ab, which is a constant. It also proves that P is the midpoint of the segment QR."
+    },
+    {
+        "ID": "ILLUSTRATION 7.39",
+        "Questions": "If two distinct tangents can be drawn from the point (α, α + 1) to different branches of the hyperbola x²/9 - y²/16 = 1, then find the values of α.",
+        "Answers": "The values of α are in the interval (-3/7, 3).",
+        "images": ["Hyperbola_12.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.40",
+        "Questions": "From a point P(1, 2), a pair of tangents are drawn to a hyperbola, one tangent to each arm. The equations of the asymptotes of the hyperbola are √3x - y + 5 = 0 and √3x + y − 1 = 0. Find the eccentricity of the hyperbola.",
+        "Answers": "The eccentricity is e = 2/√3."
+    },
+    {
+        "ID": "ILLUSTRATION 7.41",
+        "Questions": "Find the equation of the normal to the hyperbola x² – 9y² = 7 at the point (4, 1).",
+        "Answers": "The equation of the normal is 9x + 4y = 40."
+    },
+    {
+        "ID": "ILLUSTRATION 7.42",
+        "Questions": "Find the equations of the normal to the hyperbola 3x² - y² = 1 having a slope of 1/3.",
+        "Answers": "The equations are √2(x - 3y) = 4 and √2(x - 3y) = -4."
+    },
+    {
+        "ID": "ILLUSTRATION 7.43",
+        "Questions": "If the normal at P(θ) on the hyperbola x²/a² - y²/b² = 1 meets the transverse axis at G, prove that AG · A'G = a²(e⁴sec²θ - 1), where A and A' are the vertices.",
+        "Answers": "The solution provides a proof for the statement."
+    },
+    {
+        "ID": "ILLUSTRATION 7.44",
+        "Questions": "Normals are drawn to the hyperbola x²/a² - y²/b² = 1 at points θ₁ and θ₂ meeting the conjugate axis at G₁ and G₂ respectively. If θ₁ + θ₂ = π/2, prove that CG₁·CG₂ = a⁴e⁴/b², where C is the center and e is the eccentricity.",
+        "Answers": "The solution provides a proof for the statement."
+    },
+    {
+        "ID": "ILLUSTRATION 7.45",
+        "Questions": "Let P(6, 3) be a point on the hyperbola x²/a² - y²/b² = 1. If the normal at point P intersects the x-axis at (9, 0), find the eccentricity of the hyperbola.",
+        "Answers": "The eccentricity e = √3 / 2."
+    },
+    {
+        "ID": "ILLUSTRATION 7.46",
+        "Questions": "Prove that any hyperbola and its conjugate hyperbola cannot have a common normal.",
+        "Answers": "The solution provides a proof for the statement by showing that the condition for common normals leads to a contradiction (sec²φ - tan²φ = -1)."
+    },
+    {
+        "ID": "ILLUSTRATION 7.47",
+        "Questions": "A ray emanating from the point (5, 0) is incident on the hyperbola 9x² – 16y² = 144 at the point P(8, 3√3). Find the equation of the reflected ray after the first reflection.",
+        "Answers": "By the reflection property, the reflected ray passes through the other focus (-5, 0). The equation of the line through (-5, 0) and P(8, 3√3) is 3√3x - 13y + 15√3 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 7.48",
+        "Questions": "The normal to a rectangular hyperbola at a point P meets the transverse axis at N. If the foci of the hyperbola are S and S', find the value of SN/SP.",
+        "Answers": "The value of SN/SP is e, which is √2 for a rectangular hyperbola."
+    },
+    {
+        "ID": "ILLUSTRATION 7.49",
+        "Questions": "Consider the hyperbola xy = 16. Find the following:\n(i) Coordinates of vertices\n(ii) Length of transverse axis\n(iii) Coordinates of foci\n(iv) Length of latus rectum\n(v) Equations of two directrices\n(vi) Equation of tangent at point (2, 8)\n(vii) Equation of normal at point (2, 8)\n(viii) Equation of chord of contact w.r.t. point (2, 3)\n(ix) Equation of chord which gets bisected at point (5, 6)\n(x) Equation of tangent having slope -2\n(xi) Equation of normal having slope 2",
+        "Answers": "(i) Vertices: (4, 4) and (-4, -4)\n(ii) Transverse axis length: 8√2\n(iii) Foci: (4√2, 4√2) and (-4√2, -4√2)\n(iv) Latus rectum length: 8√2\n(v) Directrices: x + y = ±4√2\n(vi) Tangent at (2, 8): 4x + y - 16 = 0\n(vii) Normal at (2, 8): x - 4y + 30 = 0\n(viii) Chord of contact w.r.t (2, 3): 3x + 2y - 32 = 0\n(ix) Chord bisected at (5, 6): 6x + 5y = 60\n(x) Tangents with slope -2: 2x + y = ±4√8\n(xi) Normals with slope 2: 2x - y = ±3√8"
+    },
+    {
+        "ID": "ILLUSTRATION 7.50",
+        "Questions": "A triangle has its vertices on a rectangular hyperbola. Prove that the orthocentre of the triangle also lies on the same hyperbola.",
+        "Answers": "The solution provides a proof showing that if the vertices are (ctᵢ, c/tᵢ) for i=1,2,3 on the hyperbola xy=c², the orthocentre is H(-c/(t₁t₂t₃), -ct₁t₂t₃), which also lies on xy=c².",
+        "images": ["Hyperbola_13.png",
+            "Hyperbola_14.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.51",
+        "Questions": "If A, B, and C are three points on the hyperbola xy = c² such that AB subtends a right angle at C, prove that AB is parallel to the normal to the hyperbola at point C.",
+        "Answers": "The solution provides a proof for the statement.",
+        "images": ["Hyperbola_15.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 7.52",
+        "Questions": "Prove that the product of the parameters of four concyclic points on the hyperbola xy = c² is 1. Also, prove that the mean of these four concyclic points bisects the distance between the centres of the hyperbola and the circle.",
+        "Answers": "The solution provides a proof showing that t₁t₂t₃t₄ = 1. It also shows the mean of the four points is (-g/2, -f/2), which is the midpoint of the line segment joining the center of the hyperbola (0,0) and the center of the circle (-g, -f)."
+    },
+        
+    {
+        "ID": "EXAMPLE 7.1",
+        "Questions": "A variable line y = mx - 1 cuts the lines x = 2y and y = -2x at points A and B. Prove that the locus of the centroid of triangle OAB (O being the origin) is a hyperbola passing through the origin.",
+        "Answers": "The locus of the centroid is the hyperbola 6x² - 9xy - 6y² - 3x - 4y = 0, which passes through the origin.",
+        "images": ["Hyperbola_16.png"]
+    },
+    {
+        "ID": "EXAMPLE 7.2",
+        "Questions": "Let P be a point on the hyperbola x² - y² = a², where a is a parameter, such that P is nearest to the line y = 2x. Find the locus of P.",
+        "Answers": "The required locus is the line 2y - x = 0."
+    },
+    {
+        "ID": "EXAMPLE 7.3",
+        "Questions": "Show that the midpoints of focal chords of a hyperbola x²/a² - y²/b² = 1 lie on another hyperbola having the same eccentricity.",
+        "Answers": "The locus of the midpoints is given by the equation x²/a² - ex/a - y²/b² = 0. This is the equation of a hyperbola which is shown to have the same eccentricity, e."
+    },
+    {
+        "ID": "EXAMPLE 7.4",
+        "Questions": "From the centre C of the hyperbola x²/16 - y²/9 = 1, a perpendicular CN is drawn on any tangent to it at the point P in the first quadrant. Find the maximum area of triangle CPN.",
+        "Answers": "The maximum area of triangle CPN is 25/4 sq. units.",
+        "images": ["Hyperbola_17.png"]
+    },
+    {
+        "ID": "EXAMPLE 7.5",
+        "Questions": "The semi-transverse axis of a hyperbola is 5. A tangent at point P and the normal to this tangent meet the conjugate axis at A and B, respectively. The circle on AB as a diameter passes through two fixed points, the distance between which is 20. Find the eccentricity of the hyperbola.",
+        "Answers": "The eccentricity of the hyperbola is e = 2.",
+        "images": ["Hyperbola_18.png"]
+    },
+    {
+        "ID": "EXAMPLE 7.6",
+        "Questions": "Find the exhaustive set of values of α² such that there exists a tangent to the ellipse x² + α²y² = α² where the portion of the tangent intercepted by the hyperbola α²x² – y² = 1 subtends a right angle at the centre of the curves.",
+        "Answers": "The exhaustive set of values for α² is [(√5+1)/2, 2]."
+    },
+    {
+        "ID": "EXAMPLE 7.7",
+        "Questions": "Prove that the part of the tangent at any point of the hyperbola x²/a² - y²/b² = 1 intercepted between the point of contact and the transverse axis is a harmonic mean between the lengths of the perpendiculars drawn from the foci on the normal at the same point.",
+        "Answers": "The solution proves that if p is the length of the tangent part and p₁ and p₂ are the lengths of the perpendiculars from the foci, then 2/p = 1/p₁ + 1/p₂, which proves they are in Harmonic Progression (H.P.).",
+        "images": ["Hyperbola_19.png"]
+    },
+    {
+        "ID": "EXAMPLE 7.8",
+        "Questions": "If one axis of a varying hyperbola is fixed in its magnitude and position, prove that the locus of the point of contact of a tangent drawn to it from a fixed point on the other axis is a parabola.",
+        "Answers": "The required locus is x² = -(a²/c)(y-c), which is the equation of a parabola."
+    },
+    {
+        "ID": "EXAMPLE 7.9",
+        "Questions": "If a normal at P to a hyperbola of eccentricity 2 intersects its transverse and conjugate axes at Q and R, respectively, then prove that the locus of the midpoint of QR is a hyperbola. Find the eccentricity of this hyperbola.",
+        "Answers": "The locus is a hyperbola, and its eccentricity is 2/√3."
+    },
+    {
+        "ID": "EXAMPLE 7.10",
+        "Questions": "A normal is drawn to the hyperbola x²/a² - y²/b² = 1 at P which meets the transverse axis at G. If a perpendicular from G on the asymptote meets it at L, then show that LP is parallel to the conjugate axis.",
+        "Answers": "The solution shows that the x-coordinates (abscissae) of points P and L are the same (x₁). Therefore, the line segment LP is vertical and thus parallel to the conjugate axis (y-axis).",
+        "images": ["Hyperbola_20.png"]
+    },
+    {
+        "ID": "EXAMPLE 7.11",
+        "Questions": "The curves (x – 1)(y − 2) = 5 and (x − 1)² + (y + 2)² = r² intersect at four points A, B, C, and D. If the centroid of ΔABC lies on the line y = 3x - 4, find the locus of point D.",
+        "Answers": "The locus of point D is the line y = 3x."
+    }
+]
+

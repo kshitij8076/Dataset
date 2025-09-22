@@ -1,0 +1,115 @@
+[
+  {
+    "question_number": 19.1,
+    "Questions": "An iron plate 2 cm thick has a cross-sectional area of 5000 cm². One face is at 150°C, and the other is at 140°C. How much heat passes through the plate each second? For iron, kₜ = 80 W/m·K.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ΔQ/Δt = kₜA(ΔT/L) = (80 W/m·K)(0.50 m²)(10°C/0.02 m) = 20 kJ/s"
+  },
+  {
+    "question_number": 19.2,
+    "Questions": "A metal plate 4.00 mm thick has a temperature difference of 32.0°C between its faces. It transmits 200 kcal/h through an area of 5.00 cm². Calculate the thermal conductivity of this metal in W/m·K.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "kₜ = ΔQ/Δt × L/A(ΔT) = (2.00 x 10⁵ cal)(4.184 J/cal) (4.00 x 10⁻³ m)/(1.00 h)(3600 s/h) (5.00 x 10⁻⁴ m) (32.0 K) = 58.5 W/m·K"
+  },
+  {
+    "question_number": 19.3,
+    "Questions": "Two metal plates are soldered together as shown in Fig. 19-2. It is known that A = 80 cm², L₁ = L₂ = 3.0 mm, T₁ = 100°C, T₂ = 0°C. For the plate on the left, kₜ₁ = 48.1 W/m·K; for the plate on the right, kₜ₂ = 68.2 W/m·K. Find the heat flow rate through the plates and the temperature T' of the soldered junction.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_3.png",
+    "solution": "We assume equilibrium conditions so that the heat flowing through plate 1 equals that through plate 2.\nThen, kₜ₁A(T₁ - T')/L₁ = kₜ₂A(T' - T₂)/L₂. Solving for T' gives the junction temperature."
+  },
+  {
+    "question_number": 19.4,
+    "Questions": "A beverage cooler is in the shape of a cube, 42 cm on each inside edge. Its 3.0-cm thick walls are made of plastic (kₜ = 0.050 W/m·K). When the outside temperature is 20°C, how much ice will melt inside the cooler each hour?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The cubical box has six sides, each with an area of about (0.42 m)². Then, from ΔQ/Δt = kₜAΔT/L, we calculate the rate of heat transfer to the ice inside."
+  },
+  {
+    "question_number": 19.5,
+    "Questions": "A copper tube (length, 3.0 m; inner diameter, 1.500 cm; outer diameter, 1.700 cm) passes through a vat of rapidly circulating water maintained at 20°C. Live steam at 100°C passes through the tube. (a) What is the heat flow rate from the steam into the vat? (b) How much steam is condensed each minute? For copper, kₜ = 1.0 cal/s·cm·°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) Heat flow rate from steam to water is calculated.\n(b) The amount of steam condensed each minute is found."
+  },
+  {
+    "question_number": 19.6,
+    "Questions": "(a) Calculate the R value for a wall consisting of the following layers: concrete block (R = 1.93), 1.0 inch of insulating board (R = 4.3), and 0.50 inch of drywall (R = 0.45), all in U.S. Customary Units. (b) If the wall has an area of 15 m², find the heat flow per hour through it when the temperature just outside is 20°C lower than inside.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "R = 1.93 + 4.3 + 0.45 = 6.7 m²·K/W. Heat flow calculation follows."
+  },
+  {
+    "question_number": 19.7,
+    "Questions": "A spherical body of 2.0 cm diameter is maintained at 600°C. Assuming that it radiates as if it were a blackbody, at what rate (in watts) is energy radiated from the sphere?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "P = AσT⁴ = (1.26 x 10⁻³ m²)(5.67 x 10⁻⁸ W/m²·K⁴)(873 K)⁴ = 41 W"
+  },
+  {
+    "question_number": 19.8,
+    "Questions": "An unclothed person whose body has a surface area of 1.40 m² with an emissivity of 0.85 has a skin temperature of 37°C and stands in a 20°C room. How much energy does the person lose per minute?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Using the Stefan-Boltzmann law, the energy loss per minute is calculated: ΔQ = εσA(T⁴ - Tₑ⁴)."
+  },
+  {
+    "question_number": 19.9,
+    "Questions": "What temperature gradient must exist in an aluminum rod for it to transmit 8.0 cal per second per cm² of cross section down the rod? ky for aluminum is 210 W/K·m.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 16°C/cm"
+  },
+  {
+    "question_number": 19.10,
+    "Questions": "A single-thickness glass window on a house actually has layers of stagnant air on its two surfaces. But if it did not, how much heat would flow out of an 80 cm x 40 cm x 3.0 mm window each hour on a day when the outside temperature was precisely 0°C and the inside temperature was 18°C? For glass, ky is 0.84 W/K·m.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.4 x 10³ kcal/h"
+  },
+  {
+    "question_number": 19.11,
+    "Questions": "How many grams of water at 100°C can be evaporated per hour per cm² by the heat transmitted through a steel plate 0.20 cm thick, if the temperature difference between the plate faces is 100°C? For steel, ky is 42 W/K·m.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.33 kg/h·cm²"
+  },
+  {
+    "question_number": 19.12,
+    "Questions": "A certain double-pane window consists of two glass sheets, each 80 cm x 80 cm x 0.30 cm, separated by a 0.30-cm stagnant air space. The indoor surface temperature is 20°C, while the outdoor surface temperature is exactly 0°C. How much heat passes through the window each second? ky = 0.84 W/K·m for glass and about 0.080 W/K·m for air.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 69 cal/s"
+  },
+  {
+    "question_number": 19.13,
+    "Questions": "A small hole in a furnace acts like a blackbody. Its area is 1.00 cm², and its temperature is the same as that of the interior of the furnace, 1727°C. How many calories are radiated out of the hole each second?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 21.7 cal/s"
+  },
+  {
+    "question_number": 19.14,
+    "Questions": "An incandescent lamp filament has area 50 mm² and operates at a temperature of 2127°C. Assume that all the energy furnished to the bulb is radiated from it. If the filament’s emissivity is 0.83, how much power must be furnished to the bulb when it is operating?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 78 W"
+  },
+  {
+    "question_number": 19.15,
+    "Questions": "A sphere of 3.0 cm radius acts like a blackbody. It is in equilibrium with its surroundings and absorbs 30 kW of power radiated to it from the surroundings. What is the temperature of the sphere?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2.6 x 10⁴ K"
+  },
+  {
+    "question_number": 19.16,
+    "Questions": "A 2.0 cm thick brass plate (kr = 105 W/K·m) is sealed to a glass sheet (kr = 0.80 W/K·m), and both have the same area. The exposed face of the brass plate is at 80°C, while the exposed face of the glass is at 20°C. How thick is the glass if the glass-brass interface is at 65°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.46 mm"
+  }
+]

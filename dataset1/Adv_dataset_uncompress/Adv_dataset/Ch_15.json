@@ -1,0 +1,1963 @@
+{
+  "quiz_title": "Magnetics",
+  "problem_types": [
+    {
+      "type_name": "True / False",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 1,
+          "question_number": 1,
+          "type": "true_false",
+          "question_text": "No net force acts on a rectangular coil carrying a steady current when suspended freely in a uniform magnetic field.",
+          "year": 1981
+        },
+        {
+          "id": 2,
+          "question_number": 2,
+          "type": "true_false",
+          "question_text": "A charged particle enters a region of uniform magnetic field at an angle of 85° to the magnetic line of force. The path of the particle is a circle.",
+          "year": 1983
+        },
+        {
+          "id": 3,
+          "question_number": 3,
+          "type": "true_false",
+          "question_text": "There is no change in the energy of a charged particle moving in magnetic field although a magnetic force is acting on it.",
+          "year": 1983
+        },
+        {
+          "id": 4,
+          "question_number": 4,
+          "type": "true_false",
+          "question_text": "An electron and a proton are moving with the same kinetic energy along the same direction. When they pass through a uniform magnetic field perpendicular to the direction of their motion, they describe circular path of the same radius.",
+          "year": 1985
+        }
+      ]
+    },
+    {
+      "type_name": "Assertion and Reason",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 5,
+          "question_number": 5,
+          "type": "assertion_reason",
+          "instructions": "Mark your answer as:\n(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion.\n(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion.\n(c) If Assertion is true; Reason is false.\n(d) If Assertion is false; Reason is true.",
+          "assertion": "The sensitivity of a moving coil galvanometer is increased by placing a suitable magnetic material as a core inside the coil.",
+          "reason": "Soft iron has a high magnetic permeability and cannot be easily magnetised or demagnetised.",
+          "options": ["(a)", "(b)", "(c)", "(d)"],
+          "year": 2008
+        }
+      ]
+    },
+    {
+      "type_name": "Fill in the Blanks",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 6,
+          "question_number": 6,
+          "type": "fill_in_the_blank",
+          "question_text": "A neutron, a proton, an electron and an alpha particle enter a region of constant magnetic field with equal velocities. The magnetic field is along the inward normal to the plane of the paper. The tracks of the particles are labelled in figure. The electron follows track...... and the alpha particle follows track......",
+          "image_present": true,
+          "year": 1984,
+          "images":["arihant_images_ch15/arihant_ch15_1.png"]
+        },
+        {
+          "id": 7,
+          "question_number": 7,
+          "type": "fill_in_the_blank",
+          "question_text": "A wire of length L metre carrying a current i ampere is bent in the form of circle. The magnitude of its magnetic moment is ...... in MKS units.",
+          "year": 1987
+        },
+        {
+          "id": 8,
+          "question_number": 8,
+          "type": "fill_in_the_blank",
+          "question_text": "The wire loop PQRSP formed by joining two semicircular wires of radii R₁ and R₂ carries a current I as shown. The magnitude of the magnetic induction at the centre C is ......",
+          "image_present": true,
+          "year": 1988,
+          "images":["arihant_images_ch15/arihant_ch15_2.png"]
+        },
+        {
+          "id": 9,
+          "question_number": 9,
+          "type": "fill_in_the_blank",
+          "question_text": "In a hydrogen atom, the electron moves in an orbit of radius 0.5 Å making 10¹⁶ revolutions per second. The magnetic moment associated with the orbital motion of the electron is ......",
+          "year": 1988
+        },
+        {
+          "id": 10,
+          "question_number": 10,
+          "type": "fill_in_the_blank",
+          "question_text": "A wire ABCDEF (with each side of length L) bent as shown in figure and carrying a current I is placed in a uniform magnetic induction B parallel to the positive y-direction. The force experienced by the wire is ...... in the ... direction.",
+          "image_present": true,
+          "year": 1990,
+          "images":["arihant_images_ch15/arihant_ch15_3.png"]
+        },
+        {
+          "id": 11,
+          "question_number": 11,
+          "type": "fill_in_the_blank",
+          "question_text": "A metallic block carrying current I is subjected to a uniform magnetic induction B as shown in figure. The moving charges experience a force F given by ...... which results in the lowering of the potential of the face ....... Assume the speed of the charges to be v.",
+          "image_present": true,
+          "year": 1996,
+          "images":["arihant_images_ch15/arihant_ch15_4.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 12,
+          "question_number": 12,
+          "type": "multiple_choice",
+          "question_text": "A uniform magnetic field with a slit system as shown in figure is to be used as momentum filter for high-energy charged particles. With a field B Tesla, it is found that the filter transmits α-particles each of energy 5.3 MeV. The magnetic field is increased to 2.3 B Tesla and deuterons are passed into the filter. The energy of each deuteron transmitted by the filter is ...... MeV.",
+          "image_present": true,
+          "year": 1997,
+          "images":["arihant_images_ch15/arihant_ch15_5.png"]
+        },
+        {
+          "id": 13,
+          "question_number": 13,
+          "type": "multiple_choice",
+          "question_text": "A magnetic needle is kept in a non-uniform magnetic field. It experiences",
+          "options": [
+            "a force and a torque",
+            "a force but not a torque",
+            "a torque but not a force",
+            "neither a force nor a torque"
+          ],
+          "year": 1982
+        },
+        {
+          "id": 14,
+          "question_number": 14,
+          "type": "multiple_choice",
+          "question_text": "A conducting circular loop of radius r carries a constant current i. It is placed in a uniform magnetic field B₀ such that B₀ is perpendicular to the plane of the loop. The magnetic force acting on the loop is",
+          "options": [
+            "irB₀",
+            "2πirB₀",
+            "zero",
+            "πirB₀"
+          ],
+          "year": 1983
+        },
+        {
+          "id": 15,
+          "question_number": 15,
+          "type": "multiple_choice",
+          "question_text": "A rectangular loop carrying a current i is situated near a long straight wire such that the wire is parallel to one of the sides of the loop and is in the plane of the loop. If steady current I is established in the wire as shown in the figure, the loop will",
+          "options": [
+            "rotate about an axis parallel to the wire",
+            "move away from the wire",
+            "move towards the wire",
+            "remain stationary"
+          ],
+          "image_present": true,
+          "year": 1985,
+          "images":["arihant_images_ch15/arihant_ch15_6.png"]
+        },
+        {
+          "id": 16,
+          "question_number": 16,
+          "type": "multiple_choice",
+          "question_text": "Two thin long parallel wires separated by a distance b are carrying a current i ampere each. The magnitude of the force per unit length exerted by one wire on the other is",
+          "options": [
+            "µ₀i²/b²",
+            "µ₀i²/(2πb)",
+            "µ₀i/(2πb)",
+            "µ₀i/(2πb)²"
+          ],
+          "year": 1986
+        },
+        {
+          "id": 17,
+          "question_number": 17,
+          "type": "multiple_choice",
+          "question_text": "Two particles X and Y having equal charges, after being accelerated through the same potential difference, enter a region of uniform magnetic field and describe circular paths of radii R₁ and R₂ respectively. The ratio of the mass of X to that of Y is",
+          "options": [
+            "(R₁/R₂)¹/²",
+            "R₂/R₁",
+            "(R₁/R₂)²",
+            "R₁/R₂"
+          ],
+          "year": 1988
+        },
+        {
+          "id": 18,
+          "question_number": 18,
+          "type": "multiple_choice",
+          "question_text": "A battery is connected between two points A and B on the circumference of a uniform conducting ring of radius r and resistance R. One of the arcs AB of the ring subtends an angle θ at the centre. The value of the magnetic induction at the centre due to the current in the ring is",
+          "options": [
+            "proportional to (180°-θ)",
+            "inversely proportional to r",
+            "zero, only if θ = 180°",
+            "zero for all values of θ"
+          ],
+          "year": 1995
+        },
+        {
+          "id": 19,
+          "question_number": 19,
+          "type": "multiple_choice",
+          "question_text": "A proton, a deuteron and an α-particle having the same kinetic energy are moving in circular trajectories in a constant magnetic field. If rₚ, rₐ and rₐ denote, respectively the radii of the trajectories of these particles, then",
+          "options": [
+            "rₐ = rₚ < rₐ",
+            "rₐ > rₚ > rₐ",
+            "rₐ = rₐ > rₚ",
+            "rₚ = rₐ = rₐ"
+          ],
+          "year": 1997
+        },
+        {
+          "id": 20,
+          "question_number": 20,
+          "type": "multiple_choice",
+          "question_text": "Two particles, each of mass m and charge q, are attached to the two ends of a light rigid rod of length 2R. The rod is rotated at constant angular speed about a perpendicular axis passing through its centre. The ratio of the magnitudes of the magnetic moment of the system and its angular momentum about the centre of the rod is",
+          "options": [
+            "q/(2m)",
+            "q/m",
+            "2q/m",
+            "q/πm"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 21,
+          "question_number": 21,
+          "type": "multiple_choice",
+          "question_text": "Two very long straight parallel wires carry steady currents I and -I respectively. The distance between the wires is d. At a certain instant of time, a point charge q is at a point equidistant from the two wires in the plane of the wires. Its instantaneous velocity v is perpendicular to this plane. The magnitude of the force due to the magnetic field acting on the charge at this instant is",
+          "options": [
+            "µ₀Iqv/(2πd)",
+            "µ₀Iqv/(πd)",
+            "2µ₀Iqv/(πd)",
+            "zero"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 22,
+          "question_number": 22,
+          "type": "multiple_choice",
+          "question_text": "An ionized gas contains both positive and negative ions. If it is subjected simultaneously to an electric field along the +x-direction and a magnetic field along the +z-direction, then",
+          "options": [
+            "positive ions deflect towards +y-direction and negative ions towards -y-direction",
+            "all ions deflect towards +y-direction",
+            "all ions deflect towards -y-direction",
+            "positive ions deflect towards -y-direction and negative ions towards +y-direction"
+          ],
+          "year": 2000
+        },
+        {
+          "id": 23,
+          "question_number": 23,
+          "type": "multiple_choice",
+          "question_text": "A charged particle is released from rest in a region of steady and uniform electric and magnetic fields which are parallel to each other. The particle will move in a",
+          "options": [
+            "straight line",
+            "circle",
+            "helix",
+            "cycloid"
+          ],
+          "year": 1999
+        },
+        {
+          "id": 24,
+          "question_number": 24,
+          "type": "multiple_choice",
+          "question_text": "Two long parallel wires are at a distance 2d apart. They carry steady equal currents flowing out of the plane of the paper as shown. The variation of the magnetic field B along the line XX' is given by",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2000
+        },
+        {
+          "id": 25,
+          "question_number": 25,
+          "type": "multiple_choice",
+          "question_text": "An infinitely long conductor PQR is bent to form a right angle as shown in figure. A current I flows through PQR. The magnetic field due to this current at the point M is H₁. Now, another infinitely long straight conductor QS is connected at Q, so that current is I/2 in QR as well as in QS, the current in PQ remaining unchanged. The magnetic field at M is now H₂. The ratio H₁/H₂ is given by",
+          "options": [
+            "1/2",
+            "1",
+            "2/3",
+            "2"
+          ],
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch15/arihant_ch15_7.png"]
+        },
+        {
+          "id": 26,
+          "question_number": 26,
+          "type": "multiple_choice",
+          "question_text": "A particle of charge q and mass m moves in a circular orbit of radius r with angular speed ω. The ratio of the magnitude of its magnetic moment to that of its angular momentum depends on",
+          "options": [
+            "ω and q",
+            "ω, q and m",
+            "q and m",
+            "ω and m"
+          ],
+          "year": 2000
+        },
+        {
+          "id": 27,
+          "question_number": 27,
+          "type": "multiple_choice",
+          "question_text": "Two particles A and B of masses m_A and m_B respectively and having the same charge are moving in a plane. A uniform magnetic field exists perpendicular to this plane. The speeds of the particles are v_A and v_B, respectively and the trajectories are as shown in the figure. Then",
+          "options": [
+            "m_A v_A < m_B v_B",
+            "m_A v_A > m_B v_B",
+            "m_A < m_B and v_A < v_B",
+            "m_A = m_B and v_A = v_B"
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch15/arihant_ch15_8.png"]
+        },
+        {
+          "id": 28,
+          "question_number": 28,
+          "type": "multiple_choice",
+          "question_text": "A coil having N turns is wound tightly in the form of a spiral with inner and outer radii a and b respectively. When a current I passes through the coil, the magnetic field at the centre is",
+          "options": [
+            "µ₀NI/b",
+            "2µ₀NI/a",
+            "(µ₀NI/(2(b-a))) * ln(b/a)",
+            "(µ₀NI/(2(b-a))) * ln((b+a)/(b-a))"
+          ],
+          "year": 2001
+        },
+        {
+          "id": 29,
+          "question_number": 29,
+          "type": "multiple_choice",
+          "question_text": "A non-planar loop of conducting wire carrying a current I is placed as shown in the figure. Each of the straight sections of the loop is of length 2a. The magnetic field due to this loop at the point P(a, 0, a) points in the direction",
+          "options": [
+            "(1/√2)(-ĵ+k̂)",
+            "(1/√3)(-ĵ+k̂+î)",
+            "(1/√3)(î+ĵ+k̂)",
+            "(1/√2)(î+k̂)"
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch15/arihant_ch15_9.png"]
+        },
+        {
+          "id": 30,
+          "question_number": 30,
+          "type": "multiple_choice",
+          "question_text": "A particle of mass m and charge q moves with a constant velocity v along the positive x-direction. It enters a region containing a uniform magnetic field B directed along the negative z-direction, extending from x=a to x=b. The minimum value of v required so that the particle can just enter the region x > b is",
+          "options": [
+            "qbB/m",
+            "q(b-a)B/m",
+            "qaB/m",
+            "q(b+a)B/(2m)"
+          ],
+          "year": 2002
+        },
+        {
+          "id": 31,
+          "question_number": 31,
+          "type": "multiple_choice",
+          "question_text": "A long straight wire along the z-axis carries a current I in the negative z-direction. The magnetic vector field B at a point having coordinate (x,y) on the z=0 plane is",
+          "options": [
+            "(µ₀I(yî-xĵ))/(2π(x²+y²))",
+            "(µ₀I(xî+yĵ))/(2π(x²+y²))",
+            "(µ₀I(xĵ-yî))/(2π(x²+y²))",
+            "(µ₀I(xî-yĵ))/(2π(x²+y²))"
+          ],
+          "year": 2002
+        },
+        {
+          "id": 32,
+          "question_number": 32,
+          "type": "multiple_choice",
+          "question_text": "The magnetic field lines due to a bar magnet are correctly shown in",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2002
+        },
+        {
+          "id": 33,
+          "question_number": 33,
+          "type": "multiple_choice",
+          "question_text": "For a positively charged particle moving in a x-y plane initially along the x-axis, there is a sudden change in its path due to the presence of electric and/or magnetic fields beyond P. The curved path is shown in the x-y plane and is found to be non-circular. Which one of the following combinations is possible?",
+          "options": [
+            "E=0; B=bĵ+ck̂",
+            "E=aî; B=ck̂+aî",
+            "E=0; B=cĵ+bk̂",
+            "E=aî; B=ck̂+bĵ"
+          ],
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch15/arihant_ch15_10.png"]
+        },
+        {
+          "id": 34,
+          "question_number": 34,
+          "type": "multiple_choice",
+          "question_text": "A conducting loop carrying a current I is placed in a uniform magnetic field pointing into the plane of the paper as shown. The loop will have a tendency to",
+          "options": [
+            "contract",
+            "expand",
+            "move towards +ve x-axis",
+            "move towards -ve x-axis"
+          ],
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch15/arihant_ch15_11.png"]
+        },
+        {
+          "id": 35,
+          "question_number": 35,
+          "type": "multiple_choice",
+          "question_text": "A current carrying loop is placed in a uniform magnetic field in four different orientations, I, II, III and IV. Arrange them in the decreasing order of potential energy.",
+          "options": [
+            "I > III > II > IV",
+            "I > II > III > IV",
+            "I > IV > II > III",
+            "III > IV > I > II"
+          ],
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch15/arihant_ch15_12.png"]
+        },
+        {
+          "id": 36,
+          "question_number": 36,
+          "type": "multiple_choice",
+          "question_text": "An electron moving with a speed u along the positive x-axis at y=0 enters a region of uniform magnetic field B = -B₀k̂ which exists to the right of y-axis. The electron exits from the region after sometime with the speed v at coordinate y, then",
+          "options": [
+            "v > u, y < 0",
+            "v = u, y > 0",
+            "v > u, y > 0",
+            "v = u, y < 0"
+          ],
+          "image_present": true,
+          "year": 2004,
+          "images":["arihant_images_ch15/arihant_ch15_13.png"]
+        },
+        {
+          "id": 37,
+          "question_number": 37,
+          "type": "multiple_choice",
+          "question_text": "A magnetic field B=B₀ĵ exists in the region a < x < 2a and B=-B₀ĵ in the region 2a < x < 3a, where B₀ is a positive constant. A positive point charge moving with a velocity v=v₀î, where v₀ is a positive constant, enters the magnetic field at x=a. The trajectory of the charge in this region can be like",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2007
+        },
+        {
+          "id": 38,
+          "question_number": 38,
+          "type": "multiple_choice",
+          "question_text": "A thin flexible wire of length L is connected to two adjacent fixed points and carries a current I in the clockwise direction, as shown in the figure. When the system is put in a uniform magnetic field of strength B going into the plane of the paper, the wire takes the shape of a circle. The tension in the wire is",
+          "options": [
+            "IBL",
+            "IBL/π",
+            "IBL/(2π)",
+            "IBL/(4π)"
+          ],
+          "image_present": true,
+          "year": 2010,
+          "images":["arihant_images_ch15/arihant_ch15_14.png"]
+        },
+        {
+          "id": 39,
+          "question_number": 39,
+          "type": "multiple_choice",
+          "question_text": "A long insulated copper wire is closely wound as a spiral of N turns. The spiral has inner radius a and outer radius b. The spiral lies in the X-Y plane and a steady current I flows through the wire. The Z-component of the magnetic field at the centre of the spiral is",
+          "options": [
+            "(µ₀NI/(2(b-a))) * ln(b/a)",
+            "(µ₀NI/(2(b-a))) * ln((b+a)/(b-a))",
+            "(µ₀NI/(2b)) * ln(b/a)",
+            "(µ₀NI/(2b)) * ln((b+a)/(b-a))"
+          ],
+          "year": 2011,
+          "images":["arihant_images_ch15/arihant_ch15_15.png"]
+        },
+        {
+          "id": 40,
+          "question_number": 40,
+          "type": "multiple_choice",
+          "question_text": "Which of the field patterns given in the figure is valid for electric field as well as for magnetic field?",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2011
+        },
+        {
+          "id": 41,
+          "question_number": 41,
+          "type": "multiple_choice",
+          "question_text": "An infinitely long hollow conducting cylinder with inner radius R/2 and outer radius R carries a uniform current density along its length. The magnitude of the magnetic field, |B| as a function of the radial distance r from the axis is best represented by",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2012
+        },
+        {
+          "id": 42,
+          "question_number": 42,
+          "type": "multiple_choice",
+          "question_text": "A loop carrying current I lies in the x-y plane as shown in the figure. The unit vector k̂ is coming out of the plane of the paper. The magnetic moment of the current loop is",
+          "options": [
+            "a²I k̂",
+            "(π/2 + 1)a²I k̂",
+            "-(π/2 + 1)a²I k̂",
+            "(2π + 1)a²I k̂"
+          ],
+          "image_present": true,
+          "year": 2012,
+          "images":["arihant_images_ch15/arihant_ch15_16.png"]
+        },
+        {
+          "id": 43,
+          "question_number": 43,
+          "type": "multiple_choice",
+          "question_text": "Two short bar magnets of length 1 cm each have magnetic moments 1.20 Am² and 1.00 Am², respectively. They are placed on a horizontal table parallel to each other with their N poles pointing towards the South. They have a common magnetic equator and are separated by a distance of 20.0 cm. The value of the resultant horizontal magnetic induction at the mid-point O of the line joining their centres is close to (Horizontal component of the earth's magnetic induction is 3.6×10⁻⁵ Wb/m²)",
+          "options": [
+            "3.6 × 10⁻⁵ Wb/m²",
+            "2.56 × 10⁻⁴ Wb/m²",
+            "3.50 × 10⁻⁴ Wb/m²",
+            "5.80 × 10⁻⁴ Wb/m²"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 44,
+          "question_number": 44,
+          "type": "multiple_choice",
+          "question_text": "The coercivity of a small magnet where the ferromagnet gets demagnetised is 3×10³ Am⁻¹. The current required to be passed in a solenoid of length 10 cm and number of turns 100, so that the magnet gets demagnetised when inside the solenoid is",
+          "options": [
+            "30 mA",
+            "60 mA",
+            "3 A",
+            "6 A"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 45,
+          "question_number": 45,
+          "type": "multiple_choice",
+          "question_text": "Two coaxial solenoids of different radii carry current I in the same direction. Let F₁ be the magnetic force on the inner solenoid due to the outer one and F₂ be the magnetic force on the outer solenoid due to the inner one. Then,",
+          "options": [
+            "F₁ is radially outwards and F₂ = 0",
+            "F₁ is radially inwards and F₂ is radially outwards",
+            "F₁ is radially inwards and F₂ = 0",
+            "F₁ = F₂ = 0"
+          ],
+          "year": 2015
+        },
+        {
+          "id": 46,
+          "question_number": 46,
+          "type": "multiple_choice",
+          "question_text": "Two long current carrying thin wires, both with current I, are held by insulating threads of length L and are in equilibrium as shown in the figure, with threads making an angle θ with the vertical. If wires have mass λ per unit length then, the value of I is (g = gravitational acceleration)",
+          "options": [
+            "2sinθ * √(π_λ_gL / (µ₀cosθ))",
+            "sinθ * √(π_λ_gL / (µ₀cosθ))",
+            "2 * √(π_λ_gL / µ₀) * tanθ",
+            "√(π_λ_gL / µ₀) * tanθ"
+          ],
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch15/arihant_ch15_17.png"]
+        },
+        {
+          "id": 47,
+          "question_number": 47,
+          "type": "multiple_choice",
+          "question_text": "A rectangular loop of sides 10 cm and 5 cm carrying a current I of 12 A is placed in different orientations as shown in the figures below. If there is a uniform magnetic field of 0.3 T in the positive z-direction, in which orientations the loop would be in (i) stable equilibrium and (ii) unstable equilibrium?",
+          "options": [
+            "(a) and (b) respectively",
+            "(b) and (d) respectively",
+            "(a) and (c) respectively",
+            "(b) and (c) respectively"
+          ],
+          "image_present": true,
+          "year": 2015
+        },
+        {
+          "id": 48,
+          "question_number": 48,
+          "type": "multiple_choice",
+          "question_text": "Two identical wires A and B, each of length L, carry the same current I. Wire A is bent into a circle of radius R and wire B is bent to form a square of side l. If B_A and B_B are the values of magnetic field at the centres of the circle and square respectively, then the ratio B_A/B_B is",
+          "options": [
+            "π²/8",
+            "π²/(16√2)",
+            "π²/16",
+            "π²/(8√2)"
+          ],
+          "year": 2016
+        },
+        {
+          "id": 49,
+          "question_number": 49,
+          "type": "multiple_choice",
+          "question_text": "Hysteresis loops for two magnetic materials A and B are as given below. These materials are used to make magnets for electric generators, transformer core and electromagnet core. Then, it is proper to use",
+          "options": [
+            "A for electric generators and transformers",
+            "A for electromagnets and B for electric generators",
+            "A for transformers and B for electric generators",
+            "B for electromagnets and transformers"
+          ],
+          "image_present": true,
+          "year": 2016,
+          "images":["arihant_images_ch15/arihant_ch15_18.png"]
+        },
+        {
+          "id": 50,
+          "question_number": 50,
+          "type": "multiple_choice",
+          "question_text": "A magnetic needle of magnetic moment 6.7×10⁻² Am² and moment of inertia 7.5×10⁻⁶ kg m² is performing simple harmonic oscillations in a magnetic field of 0.01 T. Time taken for 10 complete oscillations is",
+          "options": [
+            "8.89 s",
+            "6.98 s",
+            "8.76 s",
+            "6.65 s"
+          ],
+          "year": 2017
+        },
+        {
+          "id": 51,
+          "question_number": 51,
+          "type": "multiple_choice",
+          "question_text": "An electron, a proton and an alpha particle having the same kinetic energy are moving in circular orbits of radii rₑ, rₚ, rₐ respectively, in a uniform magnetic field B. The relation between rₑ, rₚ, rₐ is",
+          "options": [
+            "rₑ < rₚ = rₐ",
+            "rₑ > rₚ = rₐ",
+            "rₑ < rₚ < rₐ",
+            "rₑ > rₐ > rₚ"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 52,
+          "question_number": 52,
+          "type": "multiple_choice",
+          "question_text": "The dipole moment of a circular loop carrying a current I is m and the magnetic field at the centre of the loop is B₁. When the dipole moment is doubled by keeping the current constant, the magnetic field at the centre of the loop is B₂. The ratio B₁/B₂ is",
+          "options": [
+            "1/√2",
+            "2",
+            "√3",
+            "√2"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 53,
+          "question_number": 53,
+          "type": "multiple_choice",
+          "question_text": "A current loop, having two circular arcs joined by two radial lines as shown in the figure. It carries a current of 10 A. The magnetic field at point O will be close to",
+          "options": [
+            "1.0 × 10⁻⁵ T",
+            "1.0 × 10⁻⁷ T",
+            "1.5 × 10⁻⁷ T",
+            "1.5 × 10⁻⁵ T"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch15/arihant_ch15_19.png"]
+        },
+        {
+          "id": 54,
+          "question_number": 54,
+          "type": "multiple_choice",
+          "question_text": "An electron moving along the X-axis with an initial energy of 100 eV, enters a region of magnetic field B = (1.5×10⁻³)Tk̂ at S (see figure). The field extends between x=0 and x=2 cm. The electron is detected at the point Q on a screen placed 8 cm away from the point S. The distance d between P and Q (on the screen) is (Take, electron's charge = 1.6×10⁻¹⁹ C, mass of electron = 9.1×10⁻³¹ kg)",
+          "options": [
+            "11.65 cm",
+            "12.87 cm",
+            "1.22 cm",
+            "2.25 cm"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch15/arihant_ch15_20.png"]
+        },
+        {
+          "id": 55,
+          "question_number": 55,
+          "type": "multiple_choice",
+          "question_text": "A proton, an electron and a helium nucleus, have the same energy. They are in circular orbits in a plane due to magnetic field perpendicular to the plane. Let rₚ, rₑ and r_He be their respective radii, then",
+          "options": [
+            "rₑ > rₚ = r_He",
+            "rₑ > rₚ > r_He",
+            "rₑ < rₚ = r_He",
+            "rₑ < rₚ < r_He"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 56,
+          "question_number": 56,
+          "type": "multiple_choice",
+          "question_text": "A proton and an α-particle (with their masses in the ratio of 1:4 and charges in the ratio of 1:2) are accelerated from rest through a potential difference V. If a uniform magnetic field B is set up perpendicular to their velocities, the ratio of the radii rₚ : rₐ of the circular paths described by them will be",
+          "options": [
+            "1:√2",
+            "1:√3",
+            "1:3",
+            "1:2"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 57,
+          "question_number": 57,
+          "type": "multiple_choice",
+          "question_text": "A particle of mass m and charge q is in an electric and magnetic field is given by E = 2î+3ĵ, B = 4ĵ+6k̂. The charged particle is shifted from the origin to the point P(x=1; y=1) along a straight path. The magnitude of the total work done is",
+          "options": [
+            "(0.35)q",
+            "(0.15)q",
+            "(2.5)q",
+            "5q"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 58,
+          "question_number": 58,
+          "type": "multiple_choice",
+          "question_text": "In an experiment, electrons are accelerated, from rest by applying a voltage of 500 V. Calculate the radius of the path, if a magnetic field 100 mT is then applied. (Take, charge of the electron = 1.6×10⁻¹⁹ C and mass of the electron = 9.1×10⁻³¹ kg)",
+          "options": [
+            "7.5×10⁻² m",
+            "7.5×10⁻⁴ m",
+            "7.5×10⁻³ m",
+            "7.5 m"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 59,
+          "question_number": 59,
+          "type": "multiple_choice",
+          "question_text": "A particle having the same charge as of electron moves in a circular path of radius 0.5 cm under the influence of a magnetic field of 0.5 T. If an electric field of 100 V/m makes it to move in a straight path, then the mass of the particle is (Take, charge of electron = 1.6×10⁻¹⁹ C)",
+          "options": [
+            "1.6×10⁻¹⁹ kg",
+            "1.6×10⁻²⁷ kg",
+            "9.1×10⁻³¹ kg",
+            "2.0×10⁻²⁴ kg"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 60,
+          "question_number": 60,
+          "type": "multiple_choice",
+          "question_text": "Find the magnetic field at point P due to a straight line segment AB of length 6 cm carrying a current of 5 A (See figure). (Take, µ₀ = 4π×10⁻⁷ N-A⁻²)",
+          "options": [
+            "2.0 × 10⁻⁵ T",
+            "1.5 × 10⁻⁵ T",
+            "3.0 × 10⁻⁵ T",
+            "2.5 × 10⁻⁵ T"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch15/arihant_ch15_21.png"]
+        },
+        {
+          "id": 61,
+          "question_number": 61,
+          "type": "multiple_choice",
+          "question_text": "A thin ring of 10 cm radius carries a uniformly distributed charge. The ring rotates at a constant angular speed of 40π rad s⁻¹ about its axis, perpendicular to its plane. If the magnetic field at its centre is 3.8×10⁻⁹ T, then the charge carried by the ring is close to (µ₀=4π×10⁻⁷ N/A²).",
+          "options": [
+            "2×10⁻⁶ C",
+            "3×10⁻⁵ C",
+            "4×10⁻⁵ C",
+            "7×10⁻⁶ C"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 62,
+          "question_number": 62,
+          "type": "multiple_choice",
+          "question_text": "The magnitude of the magnetic field at the centre of an equilateral triangular loop of side 1 m which is carrying a current of 10 A is [Take, µ₀=4π×10⁻⁷ NA⁻²]",
+          "options": [
+            "9 µT",
+            "1 µT",
+            "3 µT",
+            "18 µT"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 63,
+          "question_number": 63,
+          "type": "multiple_choice",
+          "question_text": "Two very long, straight and insulated wires are kept at 90° angle from each other in xy-plane as shown in the figure. These wires carry currents of equal magnitude I, whose directions are shown in the figure. The net magnetic field at point P will be",
+          "options": [
+            "zero",
+            "(µ₀I/πd)((x̂+ŷ)/√2)",
+            "(µ₀I/(2πd))(x̂+ŷ)",
+            "-(µ₀I/(2πd))(x̂+ŷ)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch15/arihant_ch15_22.png"]
+        },
+        {
+          "id": 64,
+          "question_number": 64,
+          "type": "multiple_choice",
+          "question_text": "As shown in the figure, two infinitely long, identical wires are bent by 90° and placed in such a way that the segments LP and QM are along the X-axis, while segments PS and QN are parallel to the Y-axis. If OP = OQ = 4 cm and the magnitude of the magnetic field at O is 10⁻⁴ T and the two wires carry equal currents (see figure), the magnitude of the current in each wire and the direction of the magnetic field at O will be (Take, µ₀ = 4π×10⁻⁷ NA⁻²)",
+          "options": [
+            "40 A, perpendicular out of the page",
+            "20 A, perpendicular into the page",
+            "20 A, perpendicular out of the page",
+            "40 A, perpendicular into the page"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch15/arihant_ch15_23.png"]
+        },
+        {
+          "id": 65,
+          "question_number": 65,
+          "type": "multiple_choice",
+          "question_text": "One of the two identical conducting wires of length L is bent in the form of a circular loop and the other one into a circular coil of N identical turns. If the same current is passed in both, the ratio of the magnetic field at the centre of the loop (B_L) to that at the centre of the coil (B_C), i.e. B_L/B_C will be",
+          "options": [
+            "1/N",
+            "N",
+            "1/N²",
+            "N²"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 66,
+          "question_number": 66,
+          "type": "multiple_choice",
+          "question_text": "A circular coil having N turns and radius r carries a current I. It is held in the XZ-plane in a magnetic field Bî. The torque on the coil due to the magnetic field (in N-m) is",
+          "options": [
+            "Bπr²I/N",
+            "Bπr²IN",
+            "Bπr²I/N²",
+            "Zero"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 67,
+          "question_number": 67,
+          "type": "multiple_choice",
+          "question_text": "Two magnetic dipoles X and Y are placed at a separation d, with their axes perpendicular to each other. The dipole moment of Y is twice that of X. A particle of charge q is passing through their mid-point P, at angle θ = 45° with the horizontal line, as shown in figure. What would be the magnitude of force on the particle at that instant? (d is much larger than the dimensions of the dipole)",
+          "options": [
+            "(µ₀M/(4π(d/2)³)) × qv",
+            "0",
+            "√2(µ₀M/(4π(d/2)³)) × qv",
+            "(µ₀2M/(4π(d/2)³)) × qv"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch15/arihant_ch15_24.png"]
+        },
+        {
+          "id": 68,
+          "question_number": 68,
+          "type": "multiple_choice",
+          "question_text": "A square loop is carrying a steady current I and the magnitude of its magnetic dipole moment is m. If this square loop is changed to a circular loop and it carries the same current, the magnitude of the magnetic dipole moment of circular loop (in A-m) will be",
+          "options": [
+            "4m/π",
+            "3m/π",
+            "2m/π",
+            "m/π"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 69,
+          "question_number": 69,
+          "type": "multiple_choice",
+          "question_text": "A magnetic compass needle oscillates 30 times per minute at a place, where the dip is 45° and 40 times per minute, where the dip is 30°. If B₁ and B₂ are respectively, the total magnetic field due to the earth at the two places, then the ratio B₁/B₂ is best given by",
+          "options": [
+            "1.8",
+            "0.7",
+            "3.6",
+            "2.2"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 70,
+          "question_number": 70,
+          "type": "multiple_choice",
+          "question_text": "A moving coil galvanometer has a coil with 175 turns and area 1 cm². It uses a torsion band of torsion constant 10⁻⁶ N-m/rad. The coil is placed in a magnetic field B parallel to its plane. The coil deflects by 1° for a current of 1 mA. The value of B (in Tesla) is approximately",
+          "options": [
+            "10⁻³",
+            "10⁻⁴",
+            "10⁻¹",
+            "10⁻²"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 71,
+          "question_number": 71,
+          "type": "multiple_choice",
+          "question_text": "A paramagnetic material has 10²⁸ atoms/m³. Its magnetic susceptibility at temperature 350 K is 2.8×10⁻⁴. Its susceptibility at 300 K is",
+          "options": [
+            "3.726 × 10⁻⁴",
+            "3.672 × 10⁻⁴",
+            "2.672 × 10⁻⁴",
+            "3.267 × 10⁻⁴"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 72,
+          "question_number": 72,
+          "type": "multiple_choice",
+          "question_text": "A paramagnetic substance in the form of a cube with sides 1 cm has a magnetic dipole moment of 20 × 10⁻⁶ J/T when a magnetic intensity of 60×10³ A/m is applied. Its magnetic susceptibility is",
+          "options": [
+            "3.3 × 10⁻⁴",
+            "3.3 × 10⁻²",
+            "4.3 × 10⁻²",
+            "2.3 × 10⁻²"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 73,
+          "question_number": 73,
+          "type": "multiple_choice",
+          "question_text": "At some location on earth, the horizontal component of earth's magnetic field is 18×10⁻⁶ T. At this location, magnetic needle of length 0.12 m and pole strength 1.8 A-m is suspended from its mid point using a thread, it makes 45° angle with horizontal in equilibrium. To keep this needle horizontal, the vertical force that should be applied at one of its ends is",
+          "options": [
+            "6.5 × 10⁻⁵ N",
+            "3.6 × 10⁻⁵ N",
+            "1.3 × 10⁻⁵ N",
+            "1.8 × 10⁻⁵ N"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 74,
+          "question_number": 74,
+          "type": "multiple_choice",
+          "question_text": "A bar magnet is demagnetised by inserting it inside a solenoid of length 0.2 m, 100 turns and carrying a current of 5.2 A. The coercivity of the bar magnet is",
+          "options": [
+            "1200 A/m",
+            "285 A/m",
+            "2600 A/m",
+            "520 A/m"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 75,
+          "question_number": 75,
+          "type": "multiple_choice",
+          "question_text": "The resistance of a galvanometer is 50 ohm and the maximum current which can be passed through it is 0.002 A. What resistance must be connected to it in order to convert it into an ammeter of range 0-0.5 A?",
+          "options": [
+            "0.2 ohm",
+            "0.5 ohm",
+            "0.002 ohm",
+            "0.02 ohm"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 76,
+          "question_number": 76,
+          "type": "multiple_choice",
+          "question_text": "A moving coil galvanometer has resistance 50 Ω and it indicates full deflection at 4 mA current. A voltmeter is made using this galvanometer and a 5 kΩ resistance. The maximum voltage, that can be measured using this voltmeter, will be close to",
+          "options": [
+            "40 V",
+            "10 V",
+            "15 V",
+            "20 V"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 77,
+          "question_number": 77,
+          "type": "multiple_choice",
+          "question_text": "A hoop and a solid cylinder of same mass and radius are made of a permanent magnetic material with their magnetic moment parallel to their respective axes. But the magnetic moment of hoop is twice of solid cylinder. They are placed in a uniform magnetic field in such a manner that their magnetic moments make a small angle with the field. If the oscillation periods of hoop and cylinder are T_h and T_c respectively, then",
+          "options": [
+            "T_h = 0.5 T_c",
+            "T_h = T_c",
+            "T_h = 2 T_c",
+            "T_h = 1.5 T_c"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 78,
+          "question_number": 78,
+          "type": "multiple_choice",
+          "question_text": "A magnet of total magnetic moment 10⁻²î A-m² is placed in a time varying magnetic field, Bî(cosωt), where B=1T and ω=0.125 rad/s. The work done for reversing the direction of the magnetic moment at t=1s is",
+          "options": [
+            "0.01 J",
+            "0.007 J",
+            "0.014 J",
+            "0.028 J"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 79,
+          "question_number": 79,
+          "type": "multiple_choice",
+          "question_text": "A conducting circular loop is made of a thin wire has area 3.5×10⁻³ m² and resistance 10 Ω. It is placed perpendicular to a time dependent magnetic field B(t) = (0.4T)sin(50πt). The field is uniform in space. Then the net charge flowing through the loop during t=0s and t=10ms is close to",
+          "options": [
+            "6 mC",
+            "21 mC",
+            "7 mC",
+            "14 mC"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 80,
+          "question_number": 80,
+          "type": "multiple_choice",
+          "question_text": "A rectangular coil (dimension 5 cm × 2.5 cm) with 100 turns, carrying a current of 3A in the clockwise direction, is kept centred at the origin and in the X-Z plane. A magnetic field of 1 T is applied along X-axis. If the coil is tilted through 45° about Z-axis, then the torque on the coil is",
+          "options": [
+            "0.27 N-m",
+            "0.38 N-m",
+            "0.42 N-m",
+            "0.55 N-m"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 81,
+          "question_number": 81,
+          "type": "multiple_choice",
+          "question_text": "A rigid square loop of side a and carrying current I₂ is lying on a horizontal surface near a long current I₁ carrying wire in the same plane as shown in figure. The net force on the loop due to the wire will be",
+          "options": [
+            "repulsive and equal to (µ₀I₁I₂)/(2π)",
+            "attractive and equal to (µ₀I₁I₂)/(3π)",
+            "zero",
+            "repulsive and equal to (µ₀I₁I₂)/(4π)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch15/arihant_ch15_25.png"]
+        },
+        {
+          "id": 82,
+          "question_number": 82,
+          "type": "multiple_choice",
+          "question_text": "Magnitude of magnetic field (in SI unit) at the centre of a hexagonal shaped coil of side 10 cm, 50 turns and carrying current I ampere in units of µ₀I/π is",
+          "options": [
+            "250√3",
+            "50√3",
+            "500√3",
+            "5√3"
+          ],
+          "year": 2020
+        },
+        {
+          "id": 83,
+          "question_number": 83,
+          "type": "multiple_choice",
+          "question_text": "A charged particle carrying charge 1µC is moving with velocity (2î+3ĵ+4k̂) ms⁻¹. If an external magnetic field of (5î+3ĵ-6k̂)×10⁻³ T exists in the region, where the particle is moving, then the force on the particle is F×10⁻⁹ N. The vector F is",
+          "options": [
+            "-0.30î + 0.32ĵ - 0.09k̂",
+            "-30î + 32ĵ - 9k̂",
+            "-300î + 320ĵ - 90k̂",
+            "-3.0î + 3.2ĵ - 0.9k̂"
+          ],
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 84,
+          "question_number": 84,
+          "type": "multiple_select",
+          "question_text": "A proton moving with a constant velocity passes through a region of space without any change in its velocity. If E and B represent the electric and magnetic fields respectively. Then, this region of space may have",
+          "options": [
+            "E = 0, B = 0",
+            "E = 0, B ≠ 0",
+            "E ≠ 0, B = 0",
+            "E ≠ 0, B ≠ 0"
+          ],
+          "year": 1985
+        },
+        {
+          "id": 85,
+          "question_number": 85,
+          "type": "multiple_select",
+          "question_text": "A particle of charge +q and mass m moving under the influence of a uniform electric field Eî and uniform magnetic field Bk̂ follows a trajectory from P to Q as shown in figure. The velocities at P and Q are vî and -2vĵ. Which of the following statement(s) is/are correct?",
+          "options": [
+            "E = (3/4) * (mv²/qa)",
+            "Rate of work done by the electric field at P is (3/4) * (mv³/a)",
+            "Rate of work done by the electric field at P is zero",
+            "Rate of work done by both the fields at Q is zero"
+          ],
+          "image_present": true,
+          "year": 1991,
+          "images":["arihant_images_ch15/arihant_ch15_26.png"]
+        },
+        {
+          "id": 86,
+          "question_number": 86,
+          "type": "multiple_select",
+          "question_text": "H⁺, He⁺ and O²⁺ all having the same kinetic energy pass through a region in which there is a uniform magnetic field perpendicular to their velocity. The masses of H⁺, He⁺ and O²⁺ are 1 amu, 4 amu and 16 amu respectively. Then",
+          "options": [
+            "H⁺ will be deflected most",
+            "O²⁺ will be deflected most",
+            "He⁺ and O²⁺ will be deflected equally",
+            "all will be deflected equally"
+          ],
+          "year": 1994
+        },
+        {
+          "id": 87,
+          "question_number": 87,
+          "type": "multiple_select",
+          "question_text": "Which of the following statement is (are) correct in the given figure?",
+          "context": "Infinitely long wire kept perpendicular to the paper carrying current inwards.",
+          "options": [
+            "Net force on the loop is zero",
+            "Net torque on the loop is zero",
+            "Loop will rotate clockwise about axis OO' when seen from O",
+            "Loop will rotate anticlockwise about axis OO' when seen from O"
+          ],
+          "image_present": true,
+          "year": 2006,
+          "images":["arihant_images_ch15/arihant_ch15_27.png"]
+        },
+        {
+          "id": 88,
+          "question_number": 88,
+          "type": "multiple_select",
+          "question_text": "A particle of mass m and charge q, moving with velocity v enters Region II normal to the boundary as shown in the figure. Region II has a uniform magnetic field B perpendicular to the plane of the paper. The length of the Region II is l. Choose the correct choice(s).",
+          "options": [
+            "The particle enters Region III only if its velocity v > qlB/m",
+            "The particle enters Region III only if its velocity v < qlB/m",
+            "Path length of the particle in Region II is maximum when velocity v = qlB/m",
+            "Time spent in Region II is same for any velocity v as long as the particle returns to Region I"
+          ],
+          "image_present": true,
+          "year": 2008,
+          "images":["arihant_images_ch15/arihant_ch15_28.png"]
+        },
+        {
+          "id": 89,
+          "question_number": 89,
+          "type": "multiple_select",
+          "question_text": "An electron and a proton are moving on straight parallel paths with same velocity. They enter a semi-infinite region of uniform magnetic field perpendicular to the velocity. Which of the following statement(s) is/are true?",
+          "options": [
+            "They will never come out of the magnetic field region",
+            "They will come out travelling along parallel paths",
+            "They will come out at the same time",
+            "They will come out at different times"
+          ],
+          "year": 2011
+        },
+        {
+          "id": 90,
+          "question_number": 90,
+          "type": "multiple_select",
+          "question_text": "Consider the motion of a positive point charge in a region where there are simultaneous uniform electric and magnetic fields E = E₀ĵ and B = B₀ĵ. At time t=0, this charge has velocity v in the x-y plane, making an angle θ with the x-axis. Which of the following option(s) is(are) correct for time t > 0?",
+          "options": [
+            "If θ = 0°, the charge moves in a circular path in the x-z plane.",
+            "If θ = 0°, the charge undergoes helical motion with constant pitch along the y-axis",
+            "If θ = 10°, the charge undergoes helical motion with its pitch increasing with time, along the y-axis.",
+            "If θ = 90°, the charge undergoes linear but accelerated motion along the y-axis."
+          ],
+          "year": 2012
+        },
+        {
+          "id": 91,
+          "question_number": 91,
+          "type": "multiple_select",
+          "question_text": "A particle of mass M and positive charge Q, moving with a constant velocity u₁ = 4î ms⁻¹, enters a region of uniform static magnetic field normal to the x-y plane. The region of the magnetic field extends from x=0 to x=L for all values of y. After passing through this region, the particle emerges on the other side after 10 milliseconds with a velocity u₂ = 2(√3î+ĵ) ms⁻¹. The correct statement(s) is (are)",
+          "options": [
+            "the direction of the magnetic field is -z direction.",
+            "the direction of the magnetic field is +z direction.",
+            "the magnitude of the magnetic field is (50πM)/(3Q) units.",
+            "the magnitude of the magnetic field is (100πM)/(3Q) units."
+          ],
+          "year": 2013
+        },
+        {
+          "id": 92,
+          "question_number": 92,
+          "type": "multiple_select",
+          "question_text": "A steady current I flows along an infinitely long hollow cylindrical conductor of radius R. This cylinder is placed coaxially inside an infinite solenoid of radius 2R. The solenoid has n turns per unit length and carries a steady current I. Consider a point P at a distance r from the common axis. The correct statement(s) is (are)",
+          "options": [
+            "In the region 0 < r < R, the magnetic field is non-zero",
+            "In the region R < r < 2R, the magnetic field is along the common axis",
+            "In the region R < r < 2R, the magnetic field is tangential to the circle of radius r, centered on the axis",
+            "In the region r > 2R, the magnetic field is non-zero"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 93,
+          "question_number": 93,
+          "type": "multiple_select",
+          "question_text": "A conductor (shown in the figure) carrying constant current I is kept in the x-y plane in a uniform magnetic field B. If F is the magnitude of the total magnetic force acting on the conductor, then the correct statements is/are",
+          "options": [
+            "if B is along ẑ, F ∝ (L+R)",
+            "if B is along x̂, F = 0",
+            "if B is along ŷ, F ∝ (L+R)",
+            "if B is along ẑ, F = 0"
+          ],
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch15/arihant_ch15_29.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 94,
+          "question_number": 94,
+          "type": "integer_answer",
+          "question_text": "A steady current I goes through a wire loop PQR having shape of a right angle triangle with PQ=3x, PR=4x and QR=5x. If the magnitude of the magnetic field at P due to this loop is k(µ₀I/(48πx)), find the value of k.",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Questions",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 95,
+          "question_number": 95,
+          "type": "descriptive",
+          "question_text": "A pair of stationary and infinitely long bent wires are placed in the xy plane as shown in figure. The wires carry current of i=10A each as shown. The segments L and M are along the x-axis. The segments P and Q are parallel to the y-axis such that OS=OR=0.02 m. Find the magnitude and direction of the magnetic induction at the origin O.",
+          "image_present": true,
+          "year": 1989,
+          "images":["arihant_images_ch15/arihant_ch15_30.png"]
+        },
+        {
+          "id": 96,
+          "question_number": 96,
+          "type": "descriptive",
+          "question_text": "A proton and an alpha particle, after being accelerated through same potential difference, enter uniform magnetic field, the direction of which is perpendicular to their velocities. Find the ratio of radii of the circular paths of the two particles.",
+          "year": 2004
+        },
+        {
+          "id": 97,
+          "question_number": 97,
+          "type": "descriptive",
+          "question_text": "A moving coil galvanometer experiences a torque τ = ki, where i is current. If N coils of area A each and moment of inertia I is kept in magnetic field B.\n(a) Find k in terms of given parameters.\n(b) If for current i deflection is π/2, find out torsional constant of spring.\n(c) If a charge Q is passed suddenly through the galvanometer, find out maximum angle of deflection.",
+          "year": 2005
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 98,
+          "question_number": 1,
+          "type": "multiple_choice",
+          "question_text": "A conductor lies along the z-axis at -1.5 ≤ z < 1.5 m and carries a fixed current of 10.0 A in -ẑ direction (see figure). For a field B = 3.0×10⁻⁴e⁻⁰·²ˣĵ T, find the average power required to move the conductor at constant speed to x = 2.0 m, y = 0 in 5 × 10⁻³ s. Assume parallel motion along the x-axis.",
+          "options": [
+            "1.57 W",
+            "2.97 W",
+            "14.85 W",
+            "29.7 W"
+          ],
+          "image_present": true,
+          "year": 2014,
+          "images":["arihant_images_ch15/arihant_ch15_31.png"]
+        },
+        {
+          "id": 99,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "An insulating thin rod of length l has a linear charge density ρ(x) = ρ₀(x/l) on it. The rod is rotated about an axis passing through the origin (x=0) and perpendicular to the rod. If the rod makes n rotations per second, then the time averaged magnetic moment of the rod is",
+          "options": [
+            "nρ₀l³",
+            "πnρ₀l³",
+            "(π/3)nρ₀l³",
+            "(π/4)nρ₀l³"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 100,
+          "question_number": 3,
+          "type": "multiple_choice",
+          "question_text": "A moving coil galvanometer, having a resistance G, produces full scale deflection when a current I_g flows through it. This galvanometer can be converted into (i) an ammeter of range 0 to I₀ (I₀ > I_g) by connecting a shunt resistance R_A to it and (ii) into a voltmeter of range 0 to V (V=GI₀) by connecting a series resistance R_V to it. Then,",
+          "options": [
+            "R_A R_V = G² and (R_A/R_V) = (I_g/(I₀-I_g))²",
+            "R_A R_V = G² and (R_A/R_V) = (I₀-I_g)/I_g",
+            "R_A R_V = G² * (I_g/(I₀-I_g)) and (R_A/R_V) = (I_g/(I₀-I_g))²",
+            "R_A R_V = G² and (R_A/R_V) = I_g/(I₀-I_g)"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 101,
+          "question_number": 4,
+          "type": "multiple_choice",
+          "question_text": "A galvanometer of resistance 100Ω has 50 divisions on its scale and has sensitivity of 20µA/division. It is to be converted to a voltmeter with three ranges of 0-2V, 0-10V and 0-20V. The appropriate circuit to do so is",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2019
+        },
+        {
+          "id": 102,
+          "question_number": 5,
+          "type": "multiple_choice",
+          "question_text": "A thin strip 10 cm long is on an U-shaped wire of negligible resistance and it is connected to a spring of spring constant 0.5 Nm⁻¹ (see figure). The assembly is kept in a uniform magnetic field of 0.1 T. If the strip is pulled from its equilibrium position and released, the number of oscillations it performs before its amplitude decreases by a factor of e is N. If the mass of the strip is 50 grams, its resistance 10 Ω and air drag negligible, N will be close to",
+          "options": [
+            "1000",
+            "50000",
+            "5000",
+            "10000"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch15/arihant_ch15_32.png"]
+        },
+        {
+          "id": 103,
+          "question_number": 6,
+          "type": "multiple_choice",
+          "question_text": "The magnetic field of a plane electromagnetic wave is given by B = B₀cos(kz-ωt)î + B₁cos(kz+ωt)ĵ where, B₀=3×10⁻⁵ T and B₁=2×10⁻⁶ T. The rms value of the force experienced by a stationary charge Q=10⁻⁴ C at z=0 is closest to",
+          "options": [
+            "0.1 N",
+            "3×10⁻² N",
+            "0.6 N",
+            "0.9 N"
+          ],
+          "year": 2019
+        }
+      ]
+    },
+    
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 7,
+          "question_number": 7,
+          "type": "multiple_select",
+          "question_text": "A rigid wire loop of square shape having side of length L and resistance R is moving along the x-axis with a constant velocity v₀ in the plane of the paper. At t=0, the right edge of the loop enters a region of length 3L, where there is a uniform magnetic field B₀ into the plane of the paper, as shown in the figure. For sufficiently large v₀, the loop eventually crosses the region. Let x be the location of the right edge of the loop. Let v(x), I(x) and F(x) represent the velocity of the loop, current in the loop, and force on the loop, respectively, as a function of x. Counter-clockwise current is taken as positive. Which of the following schematic plot(s) is (are) correct? (Ignore gravity)",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2016
+        },
+        {
+          "id": 8,
+          "question_number": 8,
+          "type": "multiple_select",
+          "question_text": "A uniform magnetic field B exists in the region between x=0 and x=3R/2 (region 2 in the figure) pointing normally into the plane of the paper. A particle with charge +Q and momentum p directed along X-axis enters region 2 from region 1 at point P₁(y=-R). Which of the following option(s) is/are correct?",
+          "options": [
+            "When the particle re-enters region 1 through the longest possible path in region 2, the magnitude of the change in its linear momentum between point P₁ and the farthest point from Y-axis is p/√2.",
+            "For B = (8/13) * (p/QR), the particle will enter region 3 through the point P₂ on X-axis.",
+            "For B > (2p)/(3QR), the particle will re-enter region 1.",
+            "For a fixed B, particles of same charge Q and same velocity v, the distance between the point P₁ and the point of re-entry into region 1 is inversely proportional to the mass of the particle."
+          ],
+          "image_present": true,
+          "year": 2017,
+          "images":["arihant_images_ch15/arihant_ch15_33.png"]
+        },
+        {
+          "id": 9,
+          "question_number": 9,
+          "type": "multiple_select",
+          "question_text": "Two infinitely long straight wires lie in the xy-plane along the lines x=±R. The wire located at x=+R carries a constant current I₁ and the wire located at x=-R carries a constant current I₂. A circular loop of radius R is suspended with its centre at (0,0,√3R) and in a plane parallel to the xy-plane. This loop carries a constant current I in the clockwise direction as seen from above the loop. The current in the wire is taken to be positive, if it is in the +j-direction. Which of the following statements regarding the magnetic field B is (are) true?",
+          "options": [
+            "If I₁=I₂, then B cannot be equal to zero at the origin (0,0,0)",
+            "If I₁>0 and I₂<0, then B can be equal to zero at the origin (0,0,0)",
+            "If I₁<0 and I₂>0, then B can be equal to zero at the origin (0,0,0)",
+            "If I₁=I₂, then the z-component of the magnetic field at the centre of the loop is -(µ₀I)/(2R)"
+          ],
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "type_name": "Passage Based Questions",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 10,
+          "type": "passage",
+          "passage_title": "Passage 1",
+          "passage_text": "Electrical resistance of certain materials, known as superconductors, changes abruptly from a non-zero value to zero as their temperature is lowered below a critical temperature T_c(0). An interesting property of superconductors is that their critical temperature becomes smaller than T_c(0) if they are placed in a magnetic field i.e. the critical temperature T_c(B) is a function of the magnetic field strength B. The dependence of T_c(B) on B is shown in the figure.",
+          "image_present": true,
+          "images":["arihant_images_ch15/arihant_ch15_34.png"],
+          
+          "associated_questions": [
+            {
+              "id": 11,
+              "question_number": 10,
+              "type": "multiple_choice",
+              "question_text": "In the graphs below, the resistance R of a superconductor is shown as a function of its temperature T for two different magnetic fields B₁ (solid line) and B₂ (dashed line). If B₂ is larger than B₁, which of the following graphs shows the correct variation of R with T in these fields?",
+              "options": [
+                "(a)",
+                "(b)",
+                "(c)",
+                "(d)"
+              ],
+              "image_present": true,
+              "year": 2010
+            },
+            {
+              "id": 12,
+              "question_number": 11,
+              "type": "multiple_choice",
+              "question_text": "A superconductor has T_c(0) = 100 K. When a magnetic field of 7.5 T is applied, its T_c decreases to 75 K. For this material one can definitely say that when (Note T=Tesla)",
+              "options": [
+                "B=5T, T_c(B)=80K",
+                "B=5T, 75K < T_c(B) < 100K",
+                "B=10T, 75K < T_c(B) < 100K",
+                "B=10T, T_c(B)=70K"
+              ],
+              "year": 2010
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "type": "passage",
+          "passage_title": "Passage 2",
+          "passage_text": "The figure shows a circular loop of radius a with two long parallel wires (numbered 1 and 2) all in the plane of the paper. The distance of each wire from the centre of the loop is d. The loop and the wires are carrying the same current I. The current in the loop is in the counter-clockwise direction if seen from above.",
+          "image_present": true,
+          "images":["arihant_images_ch15/arihant_ch15_35.png"],
+          "associated_questions": [
+            {
+              "id": 14,
+              "question_number": 12,
+              "type": "multiple_choice",
+              "question_text": "When d ≈ a but wires are not touching the loop, it is found that the net magnetic field on the axis of the loop is zero at a height h above the loop. In that case",
+              "options": [
+                "currents in wire 1 and wire 2 are in the directions PQ and RS, respectively and h=a",
+                "currents in wire 1 and wire 2 are in the directions PQ and SR, respectively and h=a",
+                "currents in wire 1 and wire 2 are in the directions PQ and SR, respectively and h ≈ 1.2a",
+                "currents in wire 1 and wire 2 are in the directions PQ and RS, respectively and h ≈ 1.2a"
+              ],
+              "year": 2014
+            },
+            {
+              "id": 15,
+              "question_number": 13,
+              "type": "multiple_choice",
+              "question_text": "Consider d >> a, and the loop is rotated about its diameter parallel to the wires by 30° from the position shown in the figure. If the currents in the wires are in the opposite directions, the torque on the loop at its new position will be (assume that the net field due to the wires is constant over the loop)",
+              "options": [
+                "µ₀I²a²/d",
+                "µ₀I²a²/(2d)",
+                "√3µ₀I²a²/d",
+                "√3µ₀I²a²/(2d)"
+              ],
+              "year": 2014
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "type": "passage",
+          "passage_title": "Passage 3",
+          "passage_text": "In a thin rectangular metallic strip a constant current I flows along the positive x-direction, as shown in the figure. The length, width and thickness of the strip are l, w and d, respectively. A uniform magnetic field B is applied on the strip along the positive y-direction. Due to this, the charge carriers experience a net deflection along the z-direction. This results in accumulation of charge carriers on the surface PQRS and appearance of equal and opposite charges on the face opposite to PQRS. A potential difference along the z-direction is thus developed. Charge accumulation continues until the magnetic force is balanced by the electric force. The current is assumed to be uniformly distributed on the cross section of the strip and carried by electrons.",
+          "image_present": true,
+          "images":["arihant_images_ch15/arihant_ch15_36.png"],
+          "associated_questions": [
+            {
+              "id": 17,
+              "question_number": 14,
+              "type": "multiple_select",
+              "question_text": "Consider two different metallic strips (1 and 2) of the same material. Their lengths are the same, widths are w₁ and w₂ and thicknesses are d₁ and d₂, respectively. Two points K and M are symmetrically located on the opposite faces parallel to the x-y plane (see figure). V₁ and V₂ are the potential differences between K and M in strips 1 and 2, respectively. Then, for a given current I flowing through them in a given magnetic field strength B, the correct statement(s) is/are",
+              "options": [
+                "If w₁ = w₂ and d₁ = 2d₂, then V₂ = 2V₁",
+                "If w₁ = w₂ and d₁ = 2d₂, then V₂ = V₁",
+                "If w₁ = 2w₂ and d₁ = d₂, then V₂ = 2V₁",
+                "If w₁ = 2w₂ and d₁ = d₂, then V₂ = V₁"
+              ],
+              "year": 2015
+            },
+            {
+              "id": 18,
+              "question_number": 15,
+              "type": "multiple_select",
+              "question_text": "Consider two different metallic strips (1 and 2) of same dimensions (length l, width w and thickness d) with carrier densities n₁ and n₂, respectively. Strip 1 is placed in magnetic field B₁ and strip 2 is placed in magnetic field B₂, both along positive y-directions. Then V₁ and V₂ are the potential differences developed between K and M in strips 1 and 2, respectively. Assuming that the current I is the same for both the strips, the correct option(s) is/are",
+              "options": [
+                "If B₁ = B₂ and n₁ = 2n₂, then V₂ = 2V₁",
+                "If B₁ = B₂ and n₁ = 2n₂, then V₂ = V₁",
+                "If B₁ = 2B₂ and n₁ = n₂, then V₂ = 0.5V₁",
+                "If B₁ = 2B₂ and n₁ = n₂, then V₂ = V₁"
+              ],
+              "year": 2015
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_name": "Match the Columns",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 19,
+          "question_number": 16,
+          "type": "matching",
+          "question_text": "Some laws/processes are given in Column I. Match these with the physical phenomena given in Column II.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A) Dielectric ring uniformly charged",
+              "(B) Dielectric ring uniformly charged rotating with angular velocity ω",
+              "(C) Constant current in ring i",
+              "(D) i = i₀ cos(ωt)"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p) Time independent electrostatic field out of system",
+              "(q) Magnetic field",
+              "(r) Induced electric field",
+              "(s) Magnetic moment"
+            ]
+          },
+          "year": 2006
+        },
+        {
+          "id": 20,
+          "question_number": 17,
+          "type": "matching",
+          "question_text": "Two wires each carrying a steady current I are shown in four configurations in Column I. Some of the resulting effects are described in Column II. Match the statements in Column I with the statements in Column II.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A) Point P is situated midway between the wires.",
+              "(B) Point P is situated at the mid-point of the line joining the centres of the circular wires, which have same radii.",
+              "(C) Point P is situated at the mid-point of the line joining the centres of the circular wires, which have same radii.",
+              "(D) Point P is situated at the common centre of the wires."
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p) The magnetic fields (B) at P due to the currents in the wires are in the same direction.",
+              "(q) The magnetic fields (B) at P due to the currents in the wires are in opposite directions.",
+              "(r) There is no magnetic field at P.",
+              "(s) The wires repel each other."
+            ]
+          },
+          "image_present": true,
+          "year": 2007
+        },
+        {
+          "id": 21,
+          "question_number": 18,
+          "type": "matching",
+          "question_text": "Column I gives certain situations in which a straight metallic wire of resistance R is used and Column II gives some resulting effects. Match the statements in Column I with the statements in Column II.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A) A charged capacitor is connected to the ends of the wire",
+              "(B) The wire is moved perpendicular to its length with a constant velocity in a uniform magnetic field perpendicular to the plane of motion",
+              "(C) The wire is placed in a constant electric field that has a direction along the length of the wire",
+              "(D) A battery of constant emf is connected to the ends of the wire"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p) A constant current flows through the wire",
+              "(q) Thermal energy is generated in the wire",
+              "(r) A constant potential difference develops between the ends of the wire",
+              "(s) Charges of same magnitude appear at the ends of the wire"
+            ]
+          },
+          "year": 2007
+        },
+        {
+          "id": 22,
+          "question_number": 19,
+          "type": "matching",
+          "question_text": "Six point charges, each of the same magnitude q, are arranged in different manners as shown in Column II. In each case, a point M and a line PQ passing through M are shown. Let E be the electric field and V be the electric potential at M (potential at infinity is zero) due to the given charge distribution when it is at rest. Now, the whole system is set into rotation with a constant angular velocity about the line PQ. Let B be the magnetic field at M and µ be the magnetic moment of the system in this condition. Assume each rotating charge to be equivalent to a steady current.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "(A) E = 0",
+              "(B) V ≠ 0",
+              "(C) B = 0",
+              "(D) µ ≠ 0"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "(p) Charges are at the corners of a regular hexagon. M is at the centre of the hexagon. PQ is perpendicular to the plane of the hexagon.",
+              "(q) Charges are on a line perpendicular to PQ at equal intervals. M is the mid-point between the two innermost charges.",
+              "(r) Charges are placed on two coplanar insulating rings at equal intervals. M is the common centre of the rings. PQ is perpendicular to the plane of the rings.",
+              "(s) Charges are placed at the corners of a rectangle of sides a and 2a and at the mid points of the longer sides. M is at the centre of the rectangle. PQ is parallel to the longer sides.",
+              "(t) Charges are placed on two coplanar, identical insulating rings at equal intervals. M is the mid point between the centres of the rings. PQ is perpendicular to the line joining the centres and coplanar to the rings."
+            ]
+          },
+          "image_present": true,
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 23,
+          "question_number": 20,
+          "type": "integer_answer",
+          "question_text": "A cylindrical cavity of diameter a exists inside a cylinder of diameter 2a as shown in the figure. Both the cylinder and the cavity are infinitely long. A uniform current density J flows along the length. If the magnitude of the magnetic field at the point P is given by (N/12)µ₀aJ, then the value of N is",
+          "image_present": true,
+          "year": 2012,
+          "images":["arihant_images_ch15/arihant_ch15_37.png"]
+        },
+        {
+          "id": 24,
+          "question_number": 21,
+          "type": "descriptive",
+          "question_text": "Two parallel wires in the plane of the paper are distance x₀ apart. A point charge is moving with speed u between the wires in the same plane at a distance x₁ from one of the wires. When the wires carry current of magnitude I in the same direction, the radius of curvature of the path of the point charge is R₁. In contrast, if the currents I in the two wires have directions opposite to each other, the radius of curvature of the path is R₂. If x₀/x₁ = 3, find the value of R₁/R₂.",
+          "year": 2014
+        },
+        {
+          "id": 25,
+          "question_number": 22,
+          "type": "integer_answer",
+          "question_text": "In the xy-plane, the region y > 0 has a uniform magnetic field B₁k̂ and the region y < 0 has another uniform magnetic field -B₂k̂. A positively charged particle is projected from the origin along the positive Y-axis with speed v₀ = π ms⁻¹ at t = 0, as shown in figure. Neglect gravity in this problem. Let t = T be the time when the particle crosses the X-axis from below for the first time. If B₂ = 4B₁, the average speed of the particle, in ms⁻¹, along the X-axis in the time interval T is ...",
+          "image_present": true,
+          "year": 2018,
+          "images":["arihant_images_ch15/arihant_ch15_38.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Questions",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 26,
+          "question_number": 23,
+          "type": "descriptive",
+          "question_text": "A potential difference of 600 V is applied across the plates of a parallel plate condenser. The separation between the plates is 3 mm. An electron projected vertically, parallel to the plates, with a velocity of 2 × 10⁶ m/s moves undeflected between the plates. Find the magnitude and direction of the magnetic field in the region between the condenser plates. (Neglect the edge effects). (Charge of the electron = 1.6 × 10⁻¹⁹ C)",
+          "image_present": true,
+          "year": 1981,
+          "images":["arihant_images_ch15/arihant_ch15_39.png"]
+        },
+        {
+          "id": 27,
+          "question_number": 24,
+          "type": "descriptive",
+          "question_text": "A particle of mass 1×10⁻²⁶ kg and charge +1.6×10⁻¹⁹ C travelling with a velocity 1.28×10⁶ m/s in the +x direction enters a region in which a uniform electric field E and a uniform magnetic field of induction B are present such that Eₓ = Eᵧ = 0, E₂ = -102.4 kV/m and Bₓ = B₂ = 0, Bᵧ = 8×10⁻² T. The particle enters this region at the origin at time t=0. Determine the location (x, y and z coordinates) of the particle at t=5×10⁻⁶ s. If the electric field is switched off at this instant (with the magnetic field still present), what will be the position of the particle at t=7.45×10⁻⁶ s?",
+          "year": 1982
+        },
+        {
+          "id": 28,
+          "question_number": 25,
+          "type": "descriptive",
+          "question_text": "A particle of mass m = 1.6×10⁻²⁷ kg and charge q = 1.6×10⁻¹⁹ C enters at E in a region of uniform magnetic field of strength 1 T along the direction shown in figure. The speed of the particle is 10⁷ m/s.\n(a) The magnetic field is directed along the inward normal to the plane of the paper. The particle leaves the region of the field at the point F. Find the distance EF and the angle θ.\n(b) If the direction of the field is along the outward normal to the plane of the paper, find the time spent by the particle in the region of the magnetic field after entering it at E.",
+          "image_present": true,
+          "year": 1984,
+          "images":["arihant_images_ch15/arihant_ch15_40.png"]
+        },
+        {
+          "id": 29,
+          "question_number": 26,
+          "type": "descriptive",
+          "question_text": "A beam of protons with a velocity 4×10⁵ m/s enters a uniform magnetic field of 0.3 T at an angle of 60° to the magnetic field. Find the radius of the helical path taken by the protons beam. Also find the pitch of the helix (which is the distance travelled by a proton in the beam parallel to the magnetic field during one period of rotation).",
+          "year": 1986
+        },
+        {
+          "id": 30,
+          "question_number": 27,
+          "type": "descriptive",
+          "question_text": "Two long straight parallel wires are 2 m apart, perpendicular to the plane of the paper. The wire A carries a current of 9.6 A, directed into the plane of the paper. The wire B carries a current such that the magnetic field of induction at the point P, at a distance of 10/11m from the wire B, is zero. Find\n(a) the magnitude and direction of the current in B.\n(b) the magnitude of the magnetic field of induction at the point S.\n(c) the force per unit length on the wire B.",
+          "image_present": true,
+          "year": 1987,
+          "images":["arihant_images_ch15/arihant_ch15_41.png"]
+        },
+        {
+          "id": 31,
+          "question_number": 28,
+          "type": "descriptive",
+          "question_text": "(a) An electron moving with a velocity of 4 × 10⁵ m/s along the positive x-direction experiences a force of magnitude 3.2 × 10⁻²⁰ N at the point R. Find the value of I.\n(b) Find all the positions at which a third long parallel wire carrying a current of magnitude 2.5 A may be placed, so that the magnetic induction at R is zero.",
+          "context": "Two long parallel wires carrying currents 2.5 A and I (ampere) in the same direction (directed into the plane of the paper) are held at P and Q respectively such that they are perpendicular to the plane of paper. The points P and Q are located at a distance of 5 m and 2 m respectively from a collinear point R (see figure).",
+          "image_present": true,
+          "year": 1990,
+          "images":["arihant_images_ch15/arihant_ch15_42.png"]
+        },
+        {
+          "id": 32,
+          "question_number": 29,
+          "type": "descriptive",
+          "question_text": "A wire loop carrying a current I is placed in the x-y plane as shown in figure.\n(a) If a particle with charge +Q and mass m is placed at the centre P and given a velocity v along NP (see figure), find its instantaneous acceleration.\n(b) If an external uniform magnetic induction field B = Bî is applied, find the force and the torque acting on the loop due to this field.",
+          "image_present": true,
+          "year": 1991,
+          "images":["arihant_images_ch15/arihant_ch15_43.png"]
+        },
+        {
+          "id": 33,
+          "question_number": 30,
+          "type": "descriptive",
+          "question_text": "A straight segment OC (of length L) of a circuit carrying a current I is placed along the x-axis. Two infinitely long straight wires A and B, each extending from z=-∞ to +∞, are fixed at y=-a and y=+a respectively, as shown in the figure. If the wires A and B each carry a current I into the plane of the paper, obtain the expression for the force acting on the segment OC. What will be the force on OC if the current in the wire B is reversed?",
+          "image_present": true,
+          "year": 1992,
+          "images":["arihant_images_ch15/arihant_ch15_44.png"]
+        },
+        {
+          "id": 34,
+          "question_number": 31,
+          "type": "descriptive",
+          "question_text": "An electron gun G emits electrons of energy 2 keV travelling in the positive x-direction. The electrons are required to hit the spot S where GS = 0.1 m, and the line GS makes an angle of 60° with the x-axis as shown in figure. A uniform magnetic field B parallel to GS exists in the region outside the electron gun. Find the minimum value of B needed to make the electrons hit S.",
+          "image_present": true,
+          "year": 1993,
+          "images":["arihant_images_ch15/arihant_ch15_45.png"]
+        },
+        {
+          "id": 35,
+          "question_number": 32,
+          "type": "descriptive",
+          "question_text": "A long horizontal wire AB, which is free to move in a vertical plane and carries a steady current of 20 A, is in equilibrium at a height of 0.01 m over another parallel long wire CD which is fixed in a horizontal plane and carries a steady current of 30 A, as shown in figure. Show that when AB is slightly depressed, it executes simple harmonic motion. Find the period of oscillations.",
+          "image_present": true,
+          "year": 1994,
+          "images":["arihant_images_ch15/arihant_ch15_46.png"]
+        },
+        {
+          "id": 36,
+          "question_number": 33,
+          "type": "descriptive",
+          "question_text": "An electron in the ground state of hydrogen atom is revolving in anti-clockwise direction in a circular orbit of radius R.\n(a) Obtain an expression for the orbital magnetic moment of the electron.\n(b) The atom is placed in a uniform magnetic induction B such that the normal to the plane of electron's orbit makes an angle of 30° with the magnetic induction. Find the torque experienced by the orbiting electron.",
+          "image_present": true,
+          "year": 1996,
+          "images":["arihant_images_ch15/arihant_ch15_47.png"]
+        },
+        {
+          "id": 37,
+          "question_number": 34,
+          "type": "descriptive",
+          "question_text": "Three infinitely long thin wires, each carrying current i in the same direction, are in the x-y plane of a gravity free space. The central wire is along the y-axis while the other two are along x=±d.\n(a) Find the locus of the points for which the magnetic field B is zero.\n(b) If the central wire is displaced along the z-direction by a small amount and released, show that it will execute simple harmonic motion. If the linear density of the wires is λ, find the frequency of oscillation.",
+          "year": 1997
+        },
+        {
+          "id": 38,
+          "question_number": 35,
+          "type": "descriptive",
+          "question_text": "A uniform constant magnetic field B is directed at an angle of 45° to the x-axis in x-y plane. PQRS is rigid square wire frame carrying a steady current I₀, with its centre at the origin O. At time t=0, the frame is at rest in the position shown in the figure with its sides parallel to x and y-axes. Each side of the frame is of mass M and length L.\n(a) What is the magnitude of torque τ on the frame due to the magnetic field?\n(b) Find the angle by which the frame rotates under the action of this torque in a short interval of time Δt and the axis about which this rotation occurs (Δt is so short that any variation in the torque during this interval may be neglected). Given: the moment of inertia of the frame about an axis through its centre perpendicular to its plane is (4/3)ML².",
+          "image_present": true,
+          "year": 1998,
+          "images":["arihant_images_ch15/arihant_ch15_48.png"]
+        },
+        {
+          "id": 39,
+          "question_number": 36,
+          "type": "descriptive",
+          "question_text": "The region between x=0 and x=L is filled with uniform steady magnetic field -Bk̂. A particle of mass m, positive charge q and velocity v₀î travels along x-axis and enters the region of the magnetic field. Neglect the gravity throughout the question.\n(a) Find the value of L if the particle emerges from the region of magnetic field with its final velocity at an angle 30° to its initial velocity.\n(b) Find the final velocity of the particle and the time spent by it in the magnetic field, if the magnetic field now expands upto 2.1L.",
+          "year": 1999
+        },
+        {
+          "id": 40,
+          "question_number": 37,
+          "type": "descriptive",
+          "question_text": "A circular loop of radius R is bent along a diameter and given a shape as shown in figure. One of the semicircles (KNM) lies in the x-z plane and the other one (KLM) in the y-z plane with their centres at origin. Current I is flowing through each of the semicircles as shown in figure.\n(a) A particle of charge q is released at the origin with a velocity v = -v₀î. Find the instantaneous force F on the particle. Assume that space is gravity free.\n(b) If an external uniform magnetic field B₀ĵ is applied determine the force F₁ and F₂ on the semicircles KLM and KNM due to the field and the net force F on the loop.",
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch15/arihant_ch15_49.png"]
+        },
+        {
+          "id": 41,
+          "question_number": 38,
+          "type": "descriptive",
+          "question_text": "A current of 10 A flows around a closed path in a circuit which is in the horizontal plane as shown in the figure. The circuit consists of eight alternating arcs of radii r₁=0.08 m and r₂=0.12 m. Each subtends the same angle at the centre.\n(a) Find the magnetic field produced by this circuit at the centre.\n(b) An infinitely long straight wire carrying a current of 10 A is passing through the centre of the above circuit vertically with the direction of the current being into the plane of the circuit. What is the force acting on the wire at the centre due to the current in the circuit? What is the force acting on the arc AC and the straight segment CD due to the current at the centre?",
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch15/arihant_ch15_50.png"]
+        },
+        {
+          "id": 42,
+          "question_number": 39,
+          "type": "descriptive",
+          "question_text": "A rectangular loop PQRS made from a uniform wire has length a, width b and mass m. It is free to rotate about the arm PQ, which remains hinged along a horizontal line taken as the y-axis (see figure). Take the vertically upward direction as the z-axis. A uniform magnetic field B = (3î + 4k̂)B₀ exists in the region. The loop is held in the x-y plane and a current I is passed through it. The loop is now released and is found to stay in the horizontal position in equilibrium.\n(a) What is the direction of the current I in PQ?\n(b) Find the magnetic force on the arm RS.\n(c) Find the expression for I in terms of B₀, a, b and m.",
+          "image_present": true,
+          "year": 2002,
+          "images":["arihant_images_ch15/arihant_ch15_51.png"]
+        },
+        {
+          "id": 43,
+          "question_number": 40,
+          "type": "descriptive",
+          "question_text": "A ring of radius R having uniformly distributed charge Q is mounted on a rod suspended by two identical strings. The tension in strings in equilibrium is T₀. Now, a vertical magnetic field is switched on and ring is rotated at constant angular velocity ω. Find the maximum ω with which the ring can be rotated if the strings can withstand a maximum tension of 3T₀/2.",
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch15/arihant_ch15_52.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 44,
+          "question_number": 1,
+          "type": "multiple_choice",
+          "question_text": "The mean intensity of radiation on the surface of the sun is about 10⁸ W/m². The rms value of the corresponding magnetic field is closest to",
+          "options": [
+            "1 T",
+            "10⁻² T",
+            "10⁻⁴ T",
+            "10 T"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 45,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "A moving coil galvanometer allows a full scale current of 10⁻⁴ A. A series resistance of 2 MΩ is required to convert the above galvanometer into a voltmeter of range 0-5 V. Therefore, the value of shunt resistance required to convert the above galvanometer into an ammeter of range 0-10 mA is",
+          "options": [
+            "100 Ω",
+            "500 Ω",
+            "200 Ω",
+            "10 Ω"
+          ],
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "type_name": "Three-Column Matching",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 46,
+          "question_number_range": "3-6",
+          "type": "three_column_matching",
+          "instructions": "Matching the information given in the three columns of the following table. A charged particle (electron or proton) is introduced at the origin (x=0, y=0, z=0) with a given initial velocity v. A uniform electric field E and a uniform magnetic field B exist everywhere. The velocity v, electric field E and magnetic field B are given in columns 1, 2 and 3, respectively. The quantities E₀, B₀ are positive in magnitude.",
+          "columns": [
+            {
+              "name": "Column 1",
+              "items": [
+                "(I) Electron with v = 2(E₀/B₀)x̂",
+                "(II) Electron with v = (E₀/B₀)ŷ",
+                "(III) Proton with v = 0",
+                "(IV) Proton with v = (E₀/B₀)x̂"
+              ]
+            },
+            {
+              "name": "Column 2",
+              "items": [
+                "(i) E = E₀ẑ",
+                "(ii) E = -E₀ŷ",
+                "(iii) E = -E₀x̂",
+                "(iv) E = E₀x̂"
+              ]
+            },
+            {
+              "name": "Column 3",
+              "items": [
+                "(P) B = -B₀x̂",
+                "(Q) B = B₀x̂",
+                "(R) B = B₀ŷ",
+                "(S) B = B₀ẑ"
+              ]
+            }
+          ],
+          "associated_questions": [
+            {
+              "id": 47,
+              "question_number": 3,
+              "type": "multiple_choice",
+              "question_text": "In which case would the particle move in a straight line along the negative direction of Y-axis (i.e. move along -ŷ)?",
+              "options": [
+                "(IV) (ii) (S)",
+                "(III) (iii) (Q)",
+                "(III) (ii) (R)",
+                "(II) (iii) (P)"
+              ],
+              "year": 2017
+            },
+            {
+              "id": 48,
+              "question_number": 4,
+              "type": "multiple_choice",
+              "question_text": "In which case will the particle move in a straight line with constant velocity?",
+              "options": [
+                "(II) (iii) (S)",
+                "(III) (iii) (P)",
+                "(IV) (i) (S)",
+                "(III) (ii) (R)"
+              ],
+              "year": 2017
+            },
+            {
+              "id": 49,
+              "question_number": 5,
+              "type": "multiple_choice",
+              "question_text": "In which case will the particle describe a helical path with axis along the positive z-direction?",
+              "options": [
+                "(II) (ii) (R)",
+                "(III) (iii) (P)",
+                "(IV) (i) (S)",
+                "(IV) (ii) (R)"
+              ],
+              "year": 2017
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 50,
+          "question_number": 6,
+          "type": "descriptive",
+          "question_text": "A particle of mass m and charge q is moving in a region where uniform, constant electric and magnetic fields E and B are present. E and B are parallel to each other. At time t=0, the velocity v₀ of the particle is perpendicular to E (Assume that its speed is always << c, the speed of light in vacuum). Find the velocity v of the particle at time t. You must express your answer in terms of t, q, m, the vector v₀, E and B and their magnitudes v₀, E and B.",
+          "year": 1998
+        }
+      ]
+    }
+  ]
+}

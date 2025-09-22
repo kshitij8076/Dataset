@@ -1,0 +1,2408 @@
+[
+  {
+    "ID": "3501",
+    "Questions": "Change the order of integration in the integrals of problems 3498-3503:\nintegral from -sqrt(2) to sqrt(2) dy integral from y^2 - 1 to y^2 f(x, y) dx.",
+    "Answers": "integral from -1 to 1 dx integral from -sqrt(x+1) to sqrt(x+1) f(x, y) dy."
+  },
+  {
+    "ID": "3502",
+    "Questions": "Change the order of integration in the integrals of problems 3498-3503:\nintegral from 0 to 2 dx integral from x to 2x f(x, y) dy.",
+    "Answers": "integral from 0 to 2 dy integral from y/2 to y f(x, y) dx + integral from 2 to 4 dy integral from y/2 to 2 f(x, y) dx."
+  },
+  {
+    "ID": "3503",
+    "Questions": "Change the order of integration in the integrals of problems 3498-3503:\nintegral from 0 to 2 dx integral from 0 to 6-x f(x, y) dy.",
+    "Answers": "integral from 0 to 4 dy integral from 0 to 2 f(x, y) dx + integral from 4 to 6 dy integral from 0 to 6-y f(x, y) dx."
+  },
+  {
+    "ID": "3504",
+    "Questions": "By changing the order of integration, write each expression as one iterated integral:\n(1) integral from 0 to 1 dx integral from 0 to x f(x, y) dy + integral from 1 to 2 dx integral from 0 to 2-x f(x, y) dy;\n(2) integral from 0 to 1/2 dy integral from y^2 to y f(x, y) dx + integral from 1/2 to 1 dy integral from y^2 to 1-y f(x, y) dx;\n(3) integral from 1 to sqrt(3) dx integral from 1 to x^2 f(x, y) dy + integral from sqrt(3) to sqrt(8) dx integral from 1 to 8-x^2 f(x, y) dy.",
+    "Answers": "(1) integral from 0 to 1 dy integral from y to 2-y f(x, y) dx;\n(2) integral from 0 to 1 dx integral from x to sqrt(x) f(x, y) dy;\n(3) integral from 1 to 3 dy integral from sqrt(y) to sqrt(8-y) f(x, y) dx."
+  },
+  {
+    "ID": "3505",
+    "Questions": "Write the double integral integral_D f(x, y) dx dy, where D is the domain indicated in Fig. 62, 63, 64 and 65, as a sum of iterated integrals (with the least number of terms). The shapes shown in Fig. 64 and 65 are composed of straight lines and arcs of circles.",
+    "Answers": "Fig. 62: integral from 0 to 2 dy integral from y/2 to (y+4)/3 f(x, y) dx + integral from 2 to 4 dy integral from y/2 to (16-y)/3 f(x, y) dx;\nFig. 63: integral from 1 to 3 dx integral from 1 to (x+2)/2 f(x, y) dy + integral from 3 to 4 dx integral from (3x-5)/2 to (x+2)/2 f(x, y) dy;\nFig. 64: integral from -1 to 0 dx integral from 1-sqrt(1-x^2) to 1 f(x, y) dy + integral from 0 to 1 dx integral from 1-x to 1 f(x, y) dy;\nFig. 65: integral from 0 to 1 dx integral from sqrt(1-(x-1)^2) to 3x f(x, y) dy + integral from 1 to 3 dx integral from sqrt(4-(x-2)^2) to 3x f(x, y) dy + integral from 3 to 4 dx integral from sqrt(4-(x-2)^2) to 4 f(x, y) dy."
+  ,"images":["Img2/Berman_62.png","Img2/Berman_63.png","Img2/Berman_64.png","Img2/Berman_65.png"]},
+  {
+    "ID": "3506",
+    "Questions": "Evaluate the integrals of problems 3506-3512:\n(1) integral from 0 to a dx integral from 0 to sqrt(x) dy;\n(2) integral from 2 to 4 dx integral from x to 2x dy/x;\n(3) integral from 1 to 2 dy integral from 0 to ln y e^x dx.",
+    "Answers": "(1) 2/3 a^(3/2); (2) 9; (3) 1/2."
+  },
+  {
+    "ID": "3507",
+    "Questions": "integral_D x^2*y^2 dx dy, where D is the circle x^2 + y^2 <= R^2.",
+    "Answers": "pi * R^6 / 24."
+  },
+  {
+    "ID": "3508",
+    "Questions": "integral_D (x^2 + y) dx dy, D is the domain bounded by the parabolas y = x^2 and y^2 = x.",
+    "Answers": "33/140."
+  },
+  {
+    "ID": "3509",
+    "Questions": "integral_D (x/y^2) dx dy, D is the domain bounded by the straight lines x = 2, y = x and the hyperbola xy = 1.",
+    "Answers": "9/4."
+  },
+  {
+    "ID": "3510",
+    "Questions": "integral_D cos(x+y) dx dy, D is the domain bounded by the straight lines x=0, y=pi and y=x.",
+    "Answers": "-2."
+  },
+  {
+    "ID": "3511",
+    "Questions": "integral_D sqrt(1-x^2-y^2) dx dy, D is the portion of the circle x^2 + y^2 <= 1 lying in the first quadrant.",
+    "Answers": "pi/6."
+  },
+  {
+    "ID": "3512",
+    "Questions": "integral_D x^2*y^2*sqrt(1 - x^3 - y^3) dx dy, D is the domain bounded by the curve x^3 + y^3 = 1 and the coordinate axes.",
+    "Answers": "4/135."
+  },
+  {
+    "ID": "3513",
+    "Questions": "Find the mean value of the function z = 12 - 2x - 3y in the domain bounded by the straight lines 12 - 2x - 3y = 0, x = 0, y = 0.",
+    "Answers": "4."
+  },
+  {
+    "ID": "3514",
+    "Questions": "Find the mean value of the function z = 2x + y in the triangle bounded by the axes and the straight line x + y = 3.",
+    "Answers": "3."
+  },
+  {
+    "ID": "3515",
+    "Questions": "Find the mean value of the function z = x + 6y in the triangle bounded by the straight lines y = x, y = 5x and x = 1.",
+    "Answers": "12 2/3."
+  },
+  {
+    "ID": "3516",
+    "Questions": "Find the mean value of the function z = sqrt(R^2 - x^2 - y^2) in the circular domain x^2 + y^2 <= R^2.",
+    "Answers": "2/3 * R."
+  },
+  {
+    "ID": "3517",
+    "Questions": "Evaluate the thrice iterated integrals of problems 3517-3524: integral_0^1 dx integral_0^2 dy integral_0^3 dz.",
+    "Answers": "6."
+  },
+  {
+    "ID": "3518",
+    "Questions": "integral from 0 to a dx integral from 0 to b dy integral from 0 to c (x+y+z)dz.",
+    "Answers": "abc(a+b+c)/2."
+  },
+  {
+    "ID": "3519",
+    "Questions": "integral from 0 to a dx integral from 0 to x dy integral from 0 to y xyz dz.",
+    "Answers": "a^6/48."
+  },
+  {
+    "ID": "3520",
+    "Questions": "integral from 0 to 1 dx integral from 0 to x dy integral from 0 to xy x^3y^2z dz.",
+    "Answers": "1/110."
+  },
+  {
+    "ID": "3521",
+    "Questions": "integral from e-1 to 1 dx integral from 0 to e-x-1 dy integral from (x+y-e) to (x+y+e) [ln(z-x-y) / ((x-e)(x+y-e))] dz.",
+    "Answers": "2e - 5."
+  },
+  {
+    "ID": "3522",
+    "Questions": "integral_Omega (dx dy dz) / (x+y+z+1)^3, Omega is the domain bounded by the planes x=0, y=0, z=0, x+y+z=1.",
+    "Answers": "1/2 * (ln 2 - 5/8)."
+  },
+  {
+    "ID": "3523",
+    "Questions": "integral_Omega xy dx dy dz, Omega is the domain bounded by the hyperbolic paraboloid z=xy and the planes x+y=1 and z=0 (z>=0).",
+    "Answers": "1/180."
+  },
+  {
+    "ID": "3524",
+    "Questions": "integral_Omega y cos(z+x) dx dy dz, Omega is the domain bounded by the cylinder y=sqrt(x) and the planes y=0, z=0 and z+x = pi/2.",
+    "Answers": "pi^2/16 - 1/2."
+  },
+  {
+    "ID": "3525",
+    "Questions": "In problems 3525-3531, transform the double integral integral_D f(x, y) dx dy to polar coordinates p and phi (x = p cos phi, y = p sin phi), and fix the limits of integration.\nD is a circular domain: (1) x^2 + y^2 <= R^2; (2) x^2 + y^2 <= ax; (3) x^2 + y^2 <= by.",
+    "Answers": "(1) integral from 0 to 2pi d(phi) integral from 0 to R f(rho*cos(phi), rho*sin(phi)) * rho d(rho);\n(2) integral from -pi/2 to pi/2 d(phi) integral from 0 to a*cos(phi) f(rho*cos(phi), rho*sin(phi)) * rho d(rho);\n(3) integral from 0 to pi d(phi) integral from 0 to b*sin(phi) f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3526",
+    "Questions": "D is the domain bounded by the circles x^2+y^2=4x, x^2+y^2=8x and the straight lines y=x and y=2x.",
+    "Answers": "integral from arctan(1) to arctan(2) d(phi) integral from 4cos(phi) to 8cos(phi) f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3527",
+    "Questions": "D is the domain consisting of the common part of the two circular regions x^2+y^2 <= ax and x^2+y^2 <= by.",
+    "Answers": "integral from 0 to arctan(a/b) d(phi) integral from 0 to b*sin(phi) f(rho*cos(phi), rho*sin(phi)) * rho d(rho) + integral from arctan(a/b) to pi/2 d(phi) integral from 0 to a*cos(phi) f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3528",
+    "Questions": "D is the domain bounded by the straight lines y=x, y=0 and x=1.",
+    "Answers": "integral from 0 to pi/4 d(phi) integral from 0 to sec(phi) f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3529",
+    "Questions": "D is the segment cut from the circle x^2+y^2=4 by the straight line x+y=2.",
+    "Answers": "integral from 0 to pi/2 d(phi) integral from 2/(cos(phi)+sin(phi)) to 2 f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3530",
+    "Questions": "D is the interior of the right-hand loop of the Bernoulli lemniscate (x^2+y^2)^2 = a^2(x^2-y^2).",
+    "Answers": "integral from -pi/4 to pi/4 d(phi) integral from 0 to a*sqrt(cos(2*phi)) f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3531",
+    "Questions": "D is the domain given by the inequalities x>=0, y>=0, (x^2+y^2)^3 <= 4a^2x^2y^2.",
+    "Answers": "integral from 0 to pi/2 d(phi) integral from 0 to a*sin(2*phi) f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3532",
+    "Questions": "Transform the double integrals of problems 3532-3535 to polar coordinates:\nintegral from 0 to R dx integral from 0 to sqrt(R^2-x^2) f(x,y) dy.",
+    "Answers": "integral from 0 to pi/2 d(phi) integral from 0 to R f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3533",
+    "Questions": "integral from 0 to 2R dy integral from 0 to sqrt(2Ry-y^2) f(x,y) dx.",
+    "Answers": "integral from 0 to pi/2 d(phi) integral from 0 to 2R*sin(phi) f(rho*cos(phi), rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3534",
+    "Questions": "integral from 0 to R dx integral from 0 to sqrt(R^2-x^2) f(x^2+y^2) dy.",
+    "Answers": "pi/2 * integral from 0 to R f(rho^2) * rho d(rho)."
+  },
+  {
+    "ID": "3535",
+    "Questions": "integral from 0 to R dx integral from 0 to Rx f(y/x) dy + integral from R to sqrt(R^2+R^2*x^2) dx integral from 0 to sqrt(R^2-x^2) f(y/x) dy.",
+    "Answers": "R^2/2 * integral from 0 to arctan(R) f(tan(phi)) d(phi)."
+  },
+  {
+    "ID": "3536",
+    "Questions": "Evaluate the double integrals of problems 3536-3540 by transforming to polar coordinates:\nintegral from 0 to R dx integral from 0 to sqrt(R^2-x^2) ln(1+x^2+y^2) dy.",
+    "Answers": "pi/4 * [(1+R^2)ln(1+R^2) - R^2]."
+  },
+  {
+    "ID": "3537",
+    "Questions": "integral_D [(1-x^2-y^2)/(1+x^2+y^2)] dx dy, where the domain D is given by the inequalities x^2+y^2<=1, x>=0, y>=0.",
+    "Answers": "pi(pi-2)/8."
+  },
+  {
+    "ID": "3538",
+    "Questions": "integral_D (h - 2x - 3y) dx dy, where D is the circular domain x^2+y^2 <= R^2.",
+    "Answers": "pi * R^2 * h."
+  },
+  {
+    "ID": "3539",
+    "Questions": "integral_D sqrt(R^2 - x^2 - y^2) dx dy, where D is the circular domain x^2+y^2 <= Rx.",
+    "Answers": "pi * R^3 / 3 * (3pi/2 - 4/3)."
+  },
+  {
+    "ID": "3540",
+    "Questions": "integral_D arc tan (y/x) dx dy, where D is part of an annular region given by x^2+y^2>=1, x^2+y^2<=9, y>=x/sqrt(3), y<=x*sqrt(3).",
+    "Answers": "pi^2/6."
+  },
+  {
+    "ID": "3541",
+    "Questions": "By starting from geometrical considerations, show that, if Cartesian coordinates are transformed in accordance with the formulae x=ap*cos(phi), y=bp*sin(phi) (a and b are constants), the elementary area becomes d(sigma) = abp dp d(phi).",
+    "Answers": "The given transformation can be regarded as the result of two transformations: (1) x'=p*cos(phi), y'=p*sin(phi), and (2) x=ax', y=by'. The first is a transformation from Cartesian to polar coordinates (the elementary area of which is p*dp*d(phi)); the second represents a simple expansion along the coordinate axes. A rectangle with sides dx' and dy' is transformed into a rectangle with sides dx = a dx' and dy = b dy'. Hence d(sigma) = dx*dy = ab*dx'*dy' = abp*dp*d(phi)."
+  },
+  {
+    "ID": "3542",
+    "Questions": "integral_D f(x,y) dx dy, where domain D is bounded by the ellipse x^2/a^2 + y^2/b^2 = 1.",
+    "Answers": "ab * integral from 0 to 2pi d(phi) integral from 0 to 1 f(a*rho*cos(phi), b*rho*sin(phi)) * rho d(rho)."
+  },
+  {
+    "ID": "3543",
+    "Questions": "integral_D f(x,y) dx dy, where domain D is bounded by the curve (x^2 + y^2/3)^2 = x^2y.",
+    "Answers": "a*b*integral_D f(a*rho*cos(phi),b*rho*sin(phi))rho*d(rho)*d(phi), where x=a*rho*cos(phi), y=b*rho*sin(phi). Putting a^2=1, b^2=3 we get x=rho*cos(phi), y=sqrt(3)*rho*sin(phi), d(sigma)=sqrt(3)*rho*d(rho)*d(phi). The equation of the curve becomes rho = (3/4)sin(2*phi). The integral is equal to sqrt(3)*integral_0^pi d(phi) integral_0^((3/4)sin(2*phi)) f(rho*cos(phi), sqrt(3)*rho*sin(phi))rho*d(rho)."
+  },
+  {
+    "ID": "3544",
+    "Questions": "integral_D f(4 - x^2/a^2 - y^2/b^2) dx dy, where domain D is part of the elliptic ring bounded by the ellipses x^2/a^2 + y^2/b^2 = 1, x^2/(4a^2) + y^2/(4b^2) = 1 and lying in the first quadrant.",
+    "Answers": "(pi/2) * ab * integral from 1 to 2 f(4-rho^2) * rho d(rho)."
+  },
+  {
+    "ID": "3545",
+    "Questions": "Evaluate integral_D xy dx dy, where D is the domain bounded by the ellipse x^2/a^2 + y^2/b^2 = 1 and lying in the first quadrant.",
+    "Answers": "a^2*b^2/8."
+  },
+  {
+    "ID": "3546",
+    "Questions": "Evaluate integral_D sqrt(xy) dx dy, where D is the domain bounded by the curve (x^2/2 + y^2/3)^4 = xy/sqrt(6) and lying in the first quadrant.",
+    "Answers": "1/sqrt(6)."
+  },
+  {
+    "ID": "3547",
+    "Questions": "In problems 3547-3551, pass to cylindrical coordinates p, phi, z or spherical coordinates p, phi, theta and fix the limits of integration.\nOmega is the domain lying in the first octant and bounded by the cylinder x^2+y^2=R^2 and the planes z=0, z=1, y=x and y=x*sqrt(3).",
+    "Answers": "integral from 0 to 1 dz integral from pi/4 to pi/3 d(phi) integral from 0 to R f(rho*cos(phi), rho*sin(phi), z) * rho d(rho)."
+  },
+  {
+    "ID": "3548",
+    "Questions": "Omega is the domain bounded by the cylinder x^2+y^2=2x, the plane z=0 and the paraboloid z=x^2+y^2.",
+    "Answers": "integral from -pi/2 to pi/2 d(phi) integral from 0 to 2*cos(phi) rho*d(rho) integral from 0 to rho^2 f(rho*cos(phi), rho*sin(phi), z) dz."
+  },
+  {
+    "ID": "3549",
+    "Questions": "Omega is the part of the sphere x^2+y^2+z^2 <= R^2 lying in the first octant.",
+    "Answers": "integral from 0 to pi/2 d(phi) integral from 0 to pi/2 sin(theta) d(theta) integral from 0 to R f(rho*cos(phi)*sin(theta), rho*sin(phi)*sin(theta), rho*cos(theta)) * rho^2 d(rho)."
+  },
+  {
+    "ID": "3550",
+    "Questions": "Omega is the part of the sphere x^2+y^2+z^2 <= R^2 lying inside the cylinder (x^2+y^2)^2 = R^2(x^2-y^2) (x>=0).",
+    "Answers": "2 * integral from 0 to pi/4 d(phi) integral from 0 to pi/2 sin(theta) d(theta) integral from 0 to R*sqrt(cos(2*phi)) f(...) * rho^2 d(rho)."
+  },
+  {
+    "ID": "3551",
+    "Questions": "Omega is the common part of the two spheres x^2+y^2+z^2 <= R^2 and x^2+y^2+(z-R)^2 <= R^2.",
+    "Answers": "integral from 0 to 2pi d(phi) [integral from 0 to pi/3 sin(theta) d(theta) integral from 0 to R f(...)rho^2 d(rho) + integral from pi/3 to pi/2 sin(theta) d(theta) integral from 0 to 2Rcos(theta) f(...)rho^2 d(rho)]."
+  },
+  {
+    "ID": "3552",
+    "Questions": "Evaluate the integrals of problems 3552-3556 by passing to cylindrical or spherical coordinates:\nintegral_0^1 dx integral_0^(sqrt(1-x^2)) dy integral_0^a dz.",
+    "Answers": "pi*a/4."
+  },
+  {
+    "ID": "3553",
+    "Questions": "integral from 0 to 2R dx integral from 0 to sqrt(2Rx-x^2) dy integral from 0 to a z*sqrt(x^2+y^2) dz.",
+    "Answers": "8/9 * a^2 * R^3."
+  },
+  {
+    "ID": "3554",
+    "Questions": "integral from -R to +R dx integral from -sqrt(R^2-x^2) to sqrt(R^2-x^2) dy integral from 0 to sqrt(R^2-x^2-y^2) (x^2+y^2) dz.",
+    "Answers": "4/15 * pi * R^5."
+  },
+  {
+    "ID": "3555",
+    "Questions": "integral from 0 to 1 dx integral from 0 to sqrt(1-x^2) dy integral from 0 to sqrt(1-x^2-y^2) sqrt(x^2+y^2+z^2) dz.",
+    "Answers": "pi/8."
+  },
+  {
+    "ID": "3556",
+    "Questions": "integral_Omega (x^2+y^2) dx dy dz, where the domain Omega is given by the inequalities z>=0, r^2<=x^2+y^2+z^2<=R^2.",
+    "Answers": "4/15 * pi * (R^5-r^5)."
+  },
+  {
+    "ID": "3557",
+    "Questions": "integral_Omega (dx dy dz) / (x^2+y^2+(z-2)^2), where the domain Omega is the sphere x^2+y^2+z^2<=1.",
+    "Answers": "2pi/3."
+  },
+  {
+    "ID": "3558",
+    "Questions": "integral_Omega (dx dy dz) / (x^2+y^2+(z-2)^2), where the domain Omega is the cylinder x^2+y^2<=1, -1<=z<=1.",
+    "Answers": "pi/sqrt(10) + pi/sqrt(2) + pi ln [ (sqrt(10)+3) * (sqrt(2)-1) ] - 3pi."
+  },
+  {
+    "ID": "3559",
+    "Questions": "By the coordinate planes, the planes x=4 and y=4 and the paraboloid of revolution z = x^2+y^2+1.",
+    "Answers": "186 2/3."
+  },
+  {
+    "ID": "3560",
+    "Questions": "By the coordinate planes, the planes x=a, y=b and the elliptic paraboloid z = x^2/(2p) + y^2/(2q).",
+    "Answers": "ab(a^2*b^2)/6 * (1/p+1/q)."
+  },
+  {
+    "ID": "3561",
+    "Questions": "By the plane x/a + y/b + z/c = 1, and the coordinate planes (pyramid).",
+    "Answers": "abc/6."
+  },
+  {
+    "ID": "3562",
+    "Questions": "By the planes y=0, z=0, 3x+y=6, 3x+2y=12 and x+y+z=6.",
+    "Answers": "12."
+  },
+  {
+    "ID": "3563",
+    "Questions": "By the paraboloid of revolution z=x^2+y^2, the coordinate planes and the plane x+y=1.",
+    "Answers": "1/6."
+  },
+  {
+    "ID": "3564",
+    "Questions": "By the paraboloid of revolution z=x^2+y^2 and the planes z=0, y=1, y=2x and y=6-x.",
+    "Answers": "15/32."
+  },
+  {
+    "ID": "3565",
+    "Questions": "By the cylinder y=sqrt(x), y=2sqrt(x) and the planes z=0 and x+z=6.",
+    "Answers": "48sqrt(6)/5."
+  },
+  {
+    "ID": "3566",
+    "Questions": "By the coordinate planes, the plane 2x+3y-12=0 and the cylinder z = (1/2)y^2.",
+    "Answers": "16."
+  },
+  {
+    "ID": "3567",
+    "Questions": "By the cylinder z=9-y^2, the coordinate planes and the plane 3x+4y=12 (y>=0).",
+    "Answers": "45."
+  },
+  {
+    "ID": "3568",
+    "Questions": "By the cylinder z=4-x^2, the coordinate planes and the plane 2x+y=4 (x>=0).",
+    "Answers": "13 1/3."
+  },
+  {
+    "ID": "3569",
+    "Questions": "By the cylinder 2y^2=x, the planes x/2+y/4+z/4=1 and z=0.",
+    "Answers": "16/5."
+  },
+  {
+    "ID": "3570",
+    "Questions": "By the circular cylinder of radius r whose axis is the axis of ordinates, the coordinate planes and the plane x/r + y/a = 1.",
+    "Answers": "ar^2."
+  },
+  {
+    "ID": "3571",
+    "Questions": "By the elliptic cylinder x^2/4 + y^2 = 1, the planes z=12-3x-4y and z=1.",
+    "Answers": "22pi."
+  },
+  {
+    "ID": "3572",
+    "Questions": "By the cylinders x^2+y^2=R^2 and x^2+z^2=R^2.",
+    "Answers": "16/3 R^3."
+  },
+  {
+    "ID": "3573",
+    "Questions": "By the cylinders z=4-y^2, y=x^2/2 and the plane z=0.",
+    "Answers": "12 4/21."
+  },
+  {
+    "ID": "3574",
+    "Questions": "By the cylinders x^2+y^2=R^2, z=x^3/a^2 and the plane z=0 (x>=0).",
+    "Answers": "4R^5/(15a^2)."
+  },
+  {
+    "ID": "3575",
+    "Questions": "By the hyperbolic paraboloid z=x^2-y^2 and the planes z=0, x=3.",
+    "Answers": "27."
+  },
+  {
+    "ID": "3576",
+    "Questions": "By the hyperbolic paraboloid z=xy, the cylinder y=sqrt(x) and the planes x+y=2, y=0 and z=0.",
+    "Answers": "3/8."
+  },
+  {
+    "ID": "3577",
+    "Questions": "By the paraboloid z=x^2+y^2, the cylinder y=x^2 and the planes y=1 and z=0.",
+    "Answers": "88/105."
+  },
+  {
+    "ID": "3578",
+    "Questions": "By the elliptic cylinder x^2/a^2 + z^2/c^2 = 1 and the planes y=b/a * x, y=0 and z=0 (x>=0).",
+    "Answers": "1/3 abc."
+  },
+  {
+    "ID": "3579",
+    "Questions": "By the paraboloid z = (a^2-x^2-4y^2)/a and the plane z=0.",
+    "Answers": "a^3*pi/4."
+  },
+  {
+    "ID": "3580",
+    "Questions": "By the cylinders y=e^x, y=e^(-x), z=e^2-y^2 and the plane z=0.",
+    "Answers": "2(e^2 - 4/3)."
+  },
+  {
+    "ID": "3581",
+    "Questions": "By the cylinders y=ln x and y=ln^2 x and the planes z=0 and y+z=1.",
+    "Answers": "3e-8."
+  },
+  {
+    "ID": "3582",
+    "Questions": "By the cylinders z=ln x and z=ln y and the planes z=0 and x+y=2e (x>=1).",
+    "Answers": "4e-e^2 - 1. The solid is symmetrical with respect to the plane y=x."
+  },
+  {
+    "ID": "3583",
+    "Questions": "By the cylinders y=x+sin x, y=x-sin x and z = ((x+y)^2)/4 (the parabolic cylinder whose generators are parallel to the straight line x-y=0, z=0) and the plane z=0 (0<=x<=pi, y>=0).",
+    "Answers": "2*pi^2."
+   },
+  {
+    "ID": "3584",
+    "Questions": "By the conical surface z^2=xy (Fig. 66), the cylinder sqrt(x)+sqrt(y)=1 and the plane z=0.",
+    "Answers": "1/45."
+  ,"images":["Img2/Berman_66.png"]},
+  {
+    "ID": "3585",
+    "Questions": "By the conical surface 4y^2=x(2-z) (the parabolic cone, Fig. 67) and the planes z=0 and x+z=2.",
+    "Answers": "pi."
+  ,"images":["Img2/Berman_67.png"]},
+  {
+    "ID": "3586",
+    "Questions": "By the surface z=cos x cos y and the planes x=0, y=0, z=0 and x+y=pi/2.",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "3587",
+    "Questions": "By the cylinder x^2+y^2=4, the planes z=0 and z=x+y+10.",
+    "Answers": "40pi."
+  },
+  {
+    "ID": "3588",
+    "Questions": "By the cylinder x^2+y^2=2x, the planes 2x-z=0 and 4x-z=0.",
+    "Answers": "2pi."
+  },
+  {
+    "ID": "3589",
+    "Questions": "By the cylinder x^2+y^2=R^2, the paraboloid Rz = 2R^2+x^2+y^2 and the plane z=0.",
+    "Answers": "5/2 pi*R^3."
+  },
+  {
+    "ID": "3590",
+    "Questions": "By the cylinder x^2+y^2=2ax, the paraboloid z= (x^2+y^2)/a and the plane z=0.",
+    "Answers": "3/2 pi*a^3."
+  },
+  {
+    "ID": "3591",
+    "Questions": "By the sphere x^2+y^2+z^2=a^2 and the cylinder x^2+y^2=ax. (Viviani's problem. See Course, sec. 174).",
+    "Answers": "4/3 a^3 * (pi/2 - 2/3)."
+  },
+  {
+    "ID": "3592",
+    "Questions": "By the hyperbolic paraboloid z=xy/a, the cylinder x^2+y^2=ax and the plane z=0 (x>=0, y>=0).",
+    "Answers": "a^3/3."
+  },
+  {
+    "ID": "3593",
+    "Questions": "By the cylinders x^2+y^2=x and x^2+y^2=2x, the paraboloid z=x^2+y^2 and the planes x+y=0, x-y=0 and z=0.",
+    "Answers": "15/8."
+  },
+  {
+    "ID": "3594",
+    "Questions": "By the cylinders x^2+y^2=2x, x^2+y^2=2y and the planes z=x+2y and z=0.",
+    "Answers": "3pi/2."
+  },
+  {
+    "ID": "3595",
+    "Questions": "By the conical surface z^2=xy and the cylinder (x^2+y^2)^2 = 2xy (x>=0, y>=0, z>=0).",
+    "Answers": "pi*sqrt(2)/24."
+  },
+  {
+    "ID": "3596",
+    "Questions": "By the helicoid z = h arc tan(y/x), the cylinder x^2+y^2=R^2 and the planes x=0 and z=0 (x>=0, y>=0).",
+    "Answers": "pi*h*R^2/16."
+  },
+  {
+    "ID": "3597",
+    "Questions": "Find by double integration the areas of problems 3597-3608: The domain bounded by the straight lines x=0, y=0, x+y=1.",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "3598",
+    "Questions": "The domain bounded by the straight lines y=x, y=5x, x=1.",
+    "Answers": "2."
+  },
+  {
+    "ID": "3599",
+    "Questions": "The domain bounded by the ellipse x^2/a^2 + y^2/b^2 = 1.",
+    "Answers": "pi*a*b."
+  },
+  {
+    "ID": "3600",
+    "Questions": "The domain lying between the parabola y^2 = (b^2/a)x and the straight line y = (b/a)x.",
+    "Answers": "ab/6."
+  },
+  {
+    "ID": "3601",
+    "Questions": "The domain bounded by the parabolas y = sqrt(x), y = 2sqrt(x) and the straight line x = 4.",
+    "Answers": "16/3."
+  },
+  {
+    "ID": "3602",
+    "Questions": "The domain bounded by the curve (x^2+y^2)^2 = 2ax^3.",
+    "Answers": "5/8 * pi * a^2. Transform to polar coordinates."
+  },
+  {
+    "ID": "3603",
+    "Questions": "The domain bounded by the curve (x^2+y^2)^3 = x^4+y^4.",
+    "Answers": "3/4 * pi."
+  },
+  {
+    "ID": "3604",
+    "Questions": "The domain bounded by the curve (x^2+y^2)^2 = 2a^2(x^2-y^2) (Bernoulli's lemniscate).",
+    "Answers": "2a^2."
+  },
+  {
+    "ID": "3605",
+    "Questions": "The domain bounded by the curve x^3+y^3=2xy, lying in the first quadrant (loop).",
+    "Answers": "2/3."
+  },
+  {
+    "ID": "3606",
+    "Questions": "The domain bounded by the curve (x+y)^3 = xy, lying in the first quadrant (loop).",
+    "Answers": "1/60."
+  },
+  {
+    "ID": "3607",
+    "Questions": "The domain bounded by the curve (x+y)^5 = x^2y^2, lying in the first quadrant (loop).",
+    "Answers": "1/1260."
+  },
+  {
+    "ID": "3608",
+    "Questions": "The domain bounded by the curve:\n(1) (x^2/a^2 + y^2/b^2)^2 = xy/c^2;\n(2) (x^2/4 + y^2/9)^2 = (x^2+y^2)/25.",
+    "Answers": "(1) a^2b^2 / (2c^2), (2) 39/25 * pi. Use the result of problem 3541."
+  },
+  {
+    "ID": "3609",
+    "Questions": "Evaluate by triple integration the volumes of the solids bounded by the surfaces given in problems 3609-3625 (the parameters appearing in the conditions of the problems are assumed positive):\nBy the cylinders z=4-y^2 and z=y^2+2 and the planes x=-1 and x=2.",
+    "Answers": "8."
+  },
+  {
+    "ID": "3610",
+    "Questions": "By the paraboloid z=x^2+y^2 and z=x^2+2y^2 and the planes y=x, y=2x and x=1.",
+    "Answers": "7/12."
+  },
+  {
+    "ID": "3611",
+    "Questions": "By the paraboloids z=x^2+y^2 and z=2x^2+2y^2, the cylinder y=x^2 and the plane y=x.",
+    "Answers": "3/35."
+  },
+  {
+    "ID": "3612",
+    "Questions": "By the cylinders z=ln(x+2) and z=ln(6-x) and the planes x=0, x+y=2 and x-y=2.",
+    "Answers": "4(4 - 3 ln 3)."
+  },
+  {
+    "ID": "3613",
+    "Questions": "By the paraboloid (x-1)^2+y^2=z and the plane 2x+z=2.",
+    "Answers": "pi/2. The projection of the solid on xOy is a circle."
+  },
+  {
+    "ID": "3614",
+    "Questions": "By the paraboloid z=x^2+y^2 and the plane z=x+y.",
+    "Answers": "pi/8."
+  },
+  {
+    "ID": "3615",
+    "Questions": "By the sphere x^2+y^2+z^2=4 and the paraboloid x^2+y^2=3z.",
+    "Answers": "19/6 * pi and 15/2 * pi. Transform to cylindrical coordinates."
+  },
+  {
+    "ID": "3616",
+    "Questions": "By the sphere x^2+y^2+z^2=R^2 and the paraboloid x^2+y^2 = R(R-2z) (z>=0).",
+    "Answers": "5/12 * pi * R^3."
+  },
+  {
+    "ID": "3617",
+    "Questions": "By the paraboloid z=x^2+y^2 and the cone z^2=xy.",
+    "Answers": "pi*sqrt(2)/96."
+  },
+  {
+    "ID": "3618",
+    "Questions": "By the sphere x^2+y^2+z^2=4Rz-3R^2 and the cone z^2=4(x^2+y^2) (we have in mind the part of the sphere lying inside the cone).",
+    "Answers": "92/75 * pi * R^3."
+  },
+  {
+    "ID": "3619",
+    "Questions": "(x^2+y^2+z^2)^2 = a^3x.",
+    "Answers": "1/3 * pi * a^3. Transform to spherical coordinates."
+  },
+  {
+    "ID": "3620",
+    "Questions": "(x^2+y^2+z^2)^2 = axyz.",
+    "Answers": "a^3/360."
+  },
+  {
+    "ID": "3621",
+    "Questions": "(x^2+y^2+z^2)^3 = a^2z^4.",
+    "Answers": "4/21 * pi * a^3."
+  },
+  {
+    "ID": "3622",
+    "Questions": "(x^2+y^2+z^2)^3 = a^6 * z^2 / (x^2+y^2).",
+    "Answers": "4/3 * pi * a^3."
+  },
+  {
+    "ID": "3623",
+    "Questions": "(x^2+y^2+z^2)^3 = a^2(x^2+y^2)^2.",
+    "Answers": "64/105 * pi * a^3."
+  },
+  {
+    "ID": "3624",
+    "Questions": "(x^2+y^2)^2 + z^4 = a^3z.",
+    "Answers": "pi*a^3/6."
+  },
+  {
+    "ID": "3625",
+    "Questions": "x^2+y^2+z^2=1, x^2+y^2+z^2=16, z^2=x^2+y^2, x=0, y=0, z=0 (x>=0, y>=0, z>=0).",
+    "Answers": "21(2-sqrt(2))/4 * pi."
+  },
+  {
+    "ID": "3626",
+    "Questions": "Find the area of the part of the plane 6x+3y+2z=12 lying in the first octant.",
+    "Answers": "14."
+  },
+  {
+    "ID": "3627",
+    "Questions": "Find the area of the part of the surface z^2=2xy, which is situated above the rectangle lying in the plane z=0 and bounded by the straight lines x=0, y=0, x=3, y=6.",
+    "Answers": "36."
+  },
+  {
+    "ID": "3628",
+    "Questions": "Find the area of the part of the cone z^2=x^2+y^2, lying above the xOy plane and cut out by the plane z=sqrt(2)/2 * (x/2 + 1).",
+    "Answers": "8pi."
+  },
+  {
+    "ID": "3629",
+    "Questions": "z^2=x^2+y^2, cut out by the cylinder z^2=2py.",
+    "Answers": "2*sqrt(2) * pi * p^2."
+  },
+  {
+    "ID": "3630",
+    "Questions": "y^2+z^2=x^2, lying inside the cylinder x^2+y^2=R^2.",
+    "Answers": "2pi * R^2. Project the surface on to yOz."
+  },
+  {
+    "ID": "3631",
+    "Questions": "y^2+z^2=x^2, cut out by the cylinder x^2-y^2=a^2 and the planes y=b and y=-b.",
+    "Answers": "8sqrt(2)ab."
+  },
+  {
+    "ID": "3632",
+    "Questions": "z^2=4x, cut out by the cylinder y^2=4x and the plane x=1.",
+    "Answers": "16/3 * (sqrt(8)-1)."
+  },
+  {
+    "ID": "3633",
+    "Questions": "z=xy, cut out by the cylinder x^2+y^2=R^2.",
+    "Answers": "2pi/3 * ((1+R^2)^(3/2) - 1)."
+  },
+  {
+    "ID": "3634",
+    "Questions": "2z=x^2+y^2, cut out by the cylinder x^2+y^2=1.",
+    "Answers": "2pi/3 * (2*sqrt(2)-1)."
+  },
+  {
+    "ID": "3635",
+    "Questions": "x^2+y^2+z^2=a^2, cut out by the cylinder x^2+y^2=R^2 (R<=a).",
+    "Answers": "4pi*a(a - sqrt(a^2-R^2))."
+  },
+  {
+    "ID": "3636",
+    "Questions": "x^2+y^2+z^2=R^2, cut out by the cylinder x^2+y^2=Rx.",
+    "Answers": "2R^2(pi-2)."
+  },
+  {
+    "ID": "3637",
+    "Questions": "x^2+y^2+z^2=R^2, cut out by the surface (x^2+y^2)^2 = R^2(x^2-y^2).",
+    "Answers": "2R^2(pi+4-4sqrt(2))."
+  },
+  {
+    "ID": "3638",
+    "Questions": "z = (x^2-y^2)/(x^2+y^2), cut out by the surfaces x^2+y^2=1, x^2+y^2=4 and lying in the first octant.",
+    "Answers": "pi/3 * (3sqrt(2) - sqrt(3) - 1/2*ln(2+sqrt(3)))."
+  },
+  {
+    "ID": "3639",
+    "Questions": "(x cos(alpha)+y sin(alpha))^2 + z^2=a^2, lying in the first octant (alpha < pi/2).",
+    "Answers": "pi*a^2/sin(2*alpha)."
+  },
+  {
+    "ID": "3640",
+    "Questions": "Find the area of the part of the earth's surface (assuming it to be spherical, with a radius R=6400 km), lying between the meridians phi=30°, phi=60° and the parallels theta=45° and theta=60°.",
+    "Answers": "pi*R^2/12 * (sqrt(3)-sqrt(2)) ~= 3.42 * 10^6 km^2. Transform to spherical coordinates."
+  },
+  {
+    "ID": "3641",
+    "Questions": "Find the total surface area of the body bounded by the sphere x^2+y^2+z^2=3a^2 and the paraboloid x^2+y^2=2az (z>=0).",
+    "Answers": "16/3 * pi * a^2."
+  },
+  {
+    "ID": "3642",
+    "Questions": "The axes of two equal cylinders of radius R intersect at right angles. Find the area of the part of the surface of one of the cylinders, lying in the other.",
+    "Answers": "8R^2."
+  },
+  {
+    "ID": "3643",
+    "Questions": "Find by double integration the statical moments of the homogeneous plane figures (density gamma=1) of problems 3643-3646: The rectangle with sides a and b with respect to side a.",
+    "Answers": "ab^2/2."
+  },
+  {
+    "ID": "3644",
+    "Questions": "A semi-circle with respect to its diameter.",
+    "Answers": "2/3 * R^3."
+  },
+  {
+    "ID": "3645",
+    "Questions": "A circle with respect to a tangent.",
+    "Answers": "pi * R^3."
+  },
+  {
+    "ID": "3646",
+    "Questions": "A regular hexagon with respect to one side.",
+    "Answers": "9/4 * a^3."
+  },
+  {
+    "ID": "3647",
+    "Questions": "Prove that the statical moment of a triangle with base a with respect to this base depends only on the height of the triangle.",
+    "Answers": "The statical moment is equal to ah^2/6."
+  },
+  {
+    "ID": "3648",
+    "Questions": "Find by double integration the centres of gravity of the homogeneous plane figures of problems 3648-3652: The figure bounded by the upper half of an ellipse, based on the major axis.",
+    "Answers": "The centre of gravity lies on the minor axis at a distance 4b/3pi from the major axis (b is the minor semi-axis)."
+  },
+  {
+    "ID": "3649",
+    "Questions": "The figure bounded by the sine wave y = sin x, the axis and the straight line x = pi/4.",
+    "Answers": "xi = (1 - pi/(4*sqrt(2))) / (1 - 1/sqrt(2)), eta = (pi-2)/(8-4*sqrt(2))."
+  },
+  {
+    "ID": "3650",
+    "Questions": "The circular sector corresponding to an angle alpha at the centre (radius of circle R).",
+    "Answers": "The centre of gravity lies on the bisector of the angle alpha at a distance 2R/3 * sin(alpha/2)/alpha from the centre of the circle."
+  },
+  {
+    "ID": "3651",
+    "Questions": "The circular segment corresponding to angle alpha at the centre (radius of circle R).",
+    "Answers": "The centre of gravity lies on the bisector of the angle alpha at a distance 4/3 R * sin^3(alpha/2) / (alpha-sin(alpha)) from the centre of the circle."
+  },
+  {
+    "ID": "3652",
+    "Questions": "The figure bounded by the closed curve y^2=x^2-x^4 (x>=0).",
+    "Answers": "xi = 3pi/16, eta = 0."
+  },
+  {
+    "ID": "3653",
+    "Questions": "Find the moments of inertia of the homogeneous plane figures (density gamma=1) of problems 3653-3659: The circle of radius R with respect to a tangent.",
+    "Answers": "5/4 * pi * R^4."
+  },
+  {
+    "ID": "3654",
+    "Questions": "The square with side a with respect to one corner.",
+    "Answers": "2/3 * a^4."
+  },
+  {
+    "ID": "3655",
+    "Questions": "The ellipse with respect to its centre.",
+    "Answers": "pi/4 * ab(a^2+b^2)."
+  },
+  {
+    "ID": "3656",
+    "Questions": "The rectangle of sides a and b with respect to the point of intersection of the diagonals.",
+    "Answers": "ah(a^2+12h^2)/12."
+  },
+  {
+    "ID": "3657",
+    "Questions": "The isosceles triangle with base a and height h with respect to the vertex.",
+    "Answers": "ah^3/2 + a^3h/24."
+  },
+  {
+    "ID": "3658",
+    "Questions": "The circle of radius R with respect to a point lying on the circumference.",
+    "Answers": "3/2 * pi * R^4."
+  },
+  {
+    "ID": "3659",
+    "Questions": "The segment of the parabola bounded by a chord perpendicular to the axis, with respect to the vertex of the parabola (length of chord = a, \"height\" = h).",
+    "Answers": "ah(a^2/7 + h^2/30)."
+  },
+  {
+    "ID": "3660",
+    "Questions": "Prove that the moment of inertia of a circular annulus with respect to the centre is twice the moment of inertia with respect to any axis passing through the centre (lying in the plane of the annulus).",
+    "Answers": "Hint: Use polar coordinates."
+  },
+  {
+    "ID": "3661",
+    "Questions": "Prove that the sum of the moments of inertia of a plane figure F with respect to any pair of mutually perpendicular axes, lying in the plane of the figure and passing through a fixed point O, is a constant.",
+    "Answers": "Hint: Use polar coordinates."
+  },
+  {
+    "ID": "3662",
+    "Questions": "Prove that the moment of inertia of a plane figure with respect to any axis is equal to Md^2 + Ic, where M is the mass distributed over the figure, d is the distance from the axis to the centre of gravity of the figure, and Ic is the moment of inertia with respect to an axis parallel to the given axis and passing through the centre of gravity (Steiner's theorem).",
+    "Answers": "Choose the system of coordinates so that the origin coincides with the centre of gravity of the figure and one of the coordinate axes is parallel to the axis with respect to which the moment of inertia is being sought."
+  },
+  {
+    "ID": "3663",
+    "Questions": "Find the statical moments of the homogeneous bodies of problems 3663-3665 (density gamma=1): The rectangular parallelepiped with ribs a, b and c with respect to its faces.",
+    "Answers": "a^2bc/2, ab^2c/2, and abc^2/2."
+  },
+  {
+    "ID": "3664",
+    "Questions": "The right circular cone (base radius R, height H) with respect to a plane through the vertex parallel to the base.",
+    "Answers": "pi*R^2*H^2 / 4."
+  },
+  {
+    "ID": "3665",
+    "Questions": "The body bounded by the ellipsoid x^2/a^2 + y^2/b^2 + z^2/c^2 = 1 and the xOy plane with respect to this plane.",
+    "Answers": "pi*abc^2 / 4."
+  },
+  {
+    "ID": "3666",
+    "Questions": "Find the centres of gravity of the homogeneous bodies bounded by the surfaces indicated in problems 3666-3672: By the planes x=0, y=0, z=0, x=2, y=4 and x+y+z=8 (truncated parallelepiped).",
+    "Answers": "xi = 14/15, eta = 26/15, zeta = 8/3."
+  },
+  {
+    "ID": "3667",
+    "Questions": "By the ellipsoid x^2/a^2 + y^2/b^2 + z^2/c^2 = 1 and the coordinate planes (we have in mind the body located in the first octant).",
+    "Answers": "xi = 3/8a, eta = 3/8b, zeta = 3/8c."
+  },
+  {
+    "ID": "3668",
+    "Questions": "By the cylinder z=y^2/2 and the planes x=0, y=0, z=0 and 2x-3y-12=0.",
+    "Answers": "xi = 6/5, eta = 12/5, zeta = 8/5."
+  },
+  {
+    "ID": "3669",
+    "Questions": "By the cylinders y=sqrt(x), y=2sqrt(x) and the planes z=0 and x+z=6.",
+    "Answers": "xi = 18/7, eta = 15/16 * sqrt(6), zeta = 12/7."
+  },
+  {
+    "ID": "3670",
+    "Questions": "By the paraboloid z = (x^2+y^2)/(2a) and the sphere x^2+y^2+z^2=3a^2 (z>=0).",
+    "Answers": "xi=0, eta=0, zeta=5a/83 * (6sqrt(3)+5)."
+  },
+  {
+    "ID": "3671",
+    "Questions": "By the sphere x^2+y^2+z^2=R^2 and the cone z tan(alpha) = sqrt(x^2+y^2) (spherical sector).",
+    "Answers": "xi=0, eta=0, zeta=3R/8 * (1+cos(alpha))."
+  },
+  {
+    "ID": "3672",
+    "Questions": "(x^2+y^2+z^2)^2 = a^3z.",
+    "Answers": "0"
+  },
+  {
+    "ID": "3673",
+    "Questions": "Find the centres of gravity of the homogeneous surfaces of problems 3673-3674: The part of the sphere lying in the first octant.",
+    "Answers": "xi=R/2, eta=R/2, zeta=R/2."
+  },
+  {
+    "ID": "3674",
+    "Questions": "The part of the paraboloid x^2+y^2=2z, cut off by the plane z=1.",
+    "Answers": "xi=0, eta=0, zeta= (55+9*sqrt(3))/130."
+  },
+  {
+    "ID": "3675",
+    "Questions": "In problems 3675-3680, find the moments of inertia of the homogeneous bodies with mass equal to M. The rectangular parallelepiped with ribs a, b and c with respect to each of the ribs and with respect to the centre of gravity.",
+    "Answers": "1/3 M(b^2+c^2), 1/3 M(c^2+a^2), 1/3 M(a^2+b^2) and 1/12 M(a^2+b^2+c^2)."
+  },
+  {
+    "ID": "3676",
+    "Questions": "A sphere with respect to a tangent line.",
+    "Answers": "7/5 MR^2."
+  },
+  {
+    "ID": "3677",
+    "Questions": "The ellipsoid x^2/a^2 + y^2/b^2 + z^2/c^2 = 1 with respect to each of its three axes.",
+    "Answers": "1/5 M(b^2+c^2), 1/5 M(c^2+a^2), 1/5 M(a^2+b^2)."
+  },
+  {
+    "ID": "3678",
+    "Questions": "The right circular cylinder (base radius R, height H) with respect to a base diameter and with respect to a diameter of its central section.",
+    "Answers": "M(R^2/4 + H^2/3) and M/12 * (H^2+3R^2)."
+  },
+  {
+    "ID": "3679",
+    "Questions": "The hollow sphere of external radius R, internal radius r, with respect to a diameter.",
+    "Answers": "2/5 * M * (R^5-r^5)/(R^3-r^3)."
+  },
+  {
+    "ID": "3680",
+    "Questions": "The paraboloid of revolution (base radius R, height H) with respect to the axis through its centre of gravity and perpendicular to the axis of revolution (equatorial moment).",
+    "Answers": "1/36 * pi*R*H*(3R^2+H^2)."
+  },
+  {
+    "ID": "3681",
+    "Questions": "Find the moments of inertia of the parts indicated of the homogeneous surfaces of problems 3681-3683 (the mass of each part = M): The lateral surface of a cylinder (base radius R, height H) with respect to the axis through its centre of gravity and perpendicular to the cylinder axis.",
+    "Answers": "M/2 * (R^2+1/6*H^2)."
+  },
+  {
+    "ID": "3682",
+    "Questions": "The part of the paraboloid x^2+y^2=2cx, cut off by the plane z=c, with respect to the Oz axis.",
+    "Answers": "55+9sqrt(3)/65 Mc^2."
+  },
+  {
+    "ID": "3683",
+    "Questions": "The lateral surface of the frustrum of a cone (base radii R and r, height H) with respect to its axis.",
+    "Answers": "1/2 * M * (R^2+r^2)."
+  },
+  {
+    "ID": "3684",
+    "Questions": "Find the mass of a square lamina of side 2a, if the density of the material of the lamina is proportional to the square of the distance from the point of intersection of the diagonals and is equal to unity at the corners.",
+    "Answers": "4/3 * a^2."
+  },
+  {
+    "ID": "3685",
+    "Questions": "A plane annular ring is bounded by two concentric circles of radii R and r (R > r). Find the mass of the ring, given that the density is inversely proportional to the distance from its centre. The density on the inner circumference is equal to unity.",
+    "Answers": "2pi*r(R-r)."
+  },
+  {
+    "ID": "3686",
+    "Questions": "Mass is distributed over the area bounded by an ellipse with semi-axes a and b in such a way that its density is proportional to the distance from the major axis, the density at unit distance from this axis being gamma. Find the total mass.",
+    "Answers": "4/3 * gamma * ab^2."
+  },
+  {
+    "ID": "3687",
+    "Questions": "A body is bounded by two concentric spherical surfaces, the radii of which are r and R (R > r). Knowing that the density of the material is inversely proportional to the distance from the centre of the sphere and is equal to gamma at unit distance, find the total mass of the body.",
+    "Answers": "2pi*gamma(R^2-r^2)."
+  },
+  {
+    "ID": "3688",
+    "Questions": "Find the mass of the body bounded by a right circular cylinder of radius R and height H, if the density at any point is numerically equal to the square of the distance of the point from the centre of the cylinder base.",
+    "Answers": "pi*R^2*H/6 * (3R^2+2H^2)."
+  },
+  {
+    "ID": "3689",
+    "Questions": "Find the mass of a body bounded by a circular cone, the height of which is equal to h, and the angle between the axis and generator of which is equal to alpha; the density is proportional to the nth power of the distance from the plane through the vertex of the cone parallel to the base, the density at unit distance being gamma (n > 0).",
+    "Answers": "pi*gamma*h^(n+2)*tan^2(alpha) / (n+3). If the axis of the cone is taken as Oz, and its vertex as the origin, the equation of the cone becomes x^2+y^2-z^2*tan^2(alpha)=0."
+  },
+  {
+    "ID": "3690",
+    "Questions": "Find the mass of a sphere of radius R, if the density is proportional to the cube of the distance from the centre and is equal to gamma at unit distance.",
+    "Answers": "2/3 * pi * gamma * R^5."
+  },
+  {
+    "ID": "3691",
+    "Questions": "Find the mass of a body bounded by the paraboloid x^2+y^2=2az and the sphere x^2+y^2+z^2=3a^2 (z>0), if the density at any given point is equal to the square of the sum of the coordinates of the point.",
+    "Answers": "pi*a^5/5 * (18*sqrt(3) - 97/6)."
+  },
+  {
+    "ID": "3692",
+    "Questions": "The density at any point of the sphere x^2+y^2+z^2<=2Rz is numerically equal to the square of the distance of the point from the origin. Find the coordinates of the centre of gravity of the sphere.",
+    "Answers": "xi=0, eta=0, zeta=5/4 * R. Transform to cylindrical coordinates."
+  },
+  {
+    "ID": "3693",
+    "Questions": "Find the statical moment of the common part of the spheres x^2+y^2+z^2<=R^2 and x^2+y^2+z^2<=2Rz with respect to the xOy plane. The density at any point of the body is numerically equal to the distance of the point from the xOy plane.",
+    "Answers": "59/480 * pi * R^5. See hint on previous problem."
+  },
+  {
+    "ID": "3694",
+    "Questions": "Prove that the moment of inertia of a body with respect to any axis is equal to Md^2+Ic, where M is the mass of the body, d is the distance from the axis to the centre of gravity of the body, and Ic is the moment of inertia with respect to the axis parallel to the given axis and passing through the centre of gravity (Steiner's theorem; cf. problem 3662).",
+    "Answers": "Choose the system of coordinates so that the origin coincides with the centre of gravity of the body and one of the coordinate axes is parallel to the axis with respect to which the moment of inertia is being sought."
+  },
+  {
+    "ID": "3695",
+    "Questions": "Given a homogeneous sphere of radius R and density gamma, find the force with which it attracts a material particle of mass m at a distance a from its centre (a>R). Show that the force of interaction is the same as when the total mass of the sphere is concentrated at its centre.",
+    "Answers": "kM*m/a^2, where M is the mass of the sphere, and k is the gravitational constant."
+  },
+  {
+    "ID": "3696",
+    "Questions": "Prove that the Newton force of interaction between two homogeneous spheres is the same as when the masses of the spheres are concentrated at their centres.",
+    "Answers": "Use the result of the previous problem."
+  },
+  {
+    "ID": "3697",
+    "Questions": "Given the non-homogeneous continuous sphere x^2+y^2+z^2<=R^2 with density varying in accordance with the law gamma = lambda*z^2, find the force with which it attracts a material particle of mass m, located on the z axis at a distance 2R from the centre of the sphere.",
+    "Answers": "17/56 km, where k is the gravitational constant."
+  },
+  {
+    "ID": "3698",
+    "Questions": "Given a homogeneous body bounded by two concentric spheres (spherical layer), prove that the force of attraction by the layer on a point situated in the interior cavity is equal to zero.",
+    "Answers": "The result follows from the formula for the force of attraction of a homogeneous sphere on a point."
+  },
+  {
+    "ID": "3699",
+    "Questions": "Find the centre of pressure of a rectangle with sides a and b (a > b), a greater side of which is located along the free surface of the fluid, whilst the plane of the rectangle is perpendicular to this surface. Show that the position of the centre of pressure does not vary if the plane of the rectangle is inclined at an angle alpha != 0 to the surface of the fluid. How are the above results affected if the greater side a is at a depth h (remaining parallel to the surface) instead of lying on the surface?",
+    "Answers": "The centre of pressure lies on the axis of symmetry of the rectangle perpendicular to side a, at a distance 2/3 b from the side lying on the surface. In the second case (side a situated at a depth h) the distance of the centre of pressure from the upper side will be b/2 * (2b+3h)/(3b+2h), where l = h/sin(alpha). (With l >> b the centre of pressure almost coincides with the centre of the rectangle)."
+  },
+  {
+    "ID": "3700",
+    "Questions": "A triangle of height h is in a plane inclined at an angle alpha to the free surface of a fluid. What is the depth of the centre of pressure of the triangle, if:\n(a) its base lies on the fluid surface?\n(b) its vertex lies on the surface, whilst its base is parallel to the surface?",
+    "Answers": "(a) h/2 sin(alpha); (b) 3/4 h sin(alpha)."
+  },
+  
+  {
+    "ID": "3701",
+    "Questions": "Find the centre of pressure of the figure bounded by an ellipse with semi-axes a and b (a > b), given that the major axis is perpendicular to the fluid surface and the upper end of this axis lies at a distance h from the surface.",
+    "Answers": "The centre of pressure lies on the major axis of the ellipse, at a distance a + a^2/(4(a+h)) from its upper end."
+  },
+  {
+    "ID": "3702",
+    "Questions": "Prove that the fluid pressure on a plane area, arbitrarily submerged in fluid, is equal to the weight of a cylindrical column of the fluid, situated above the area, when the area lies horizontally at the depth of its centre of pressure.",
+    "Answers": "Choose the system of coordinates so that one of the coordinate planes coincides with the plane of the lamina and one of the axes coincides with the line of intersection of the fluid surface and the plane of the lamina."
+  },
+  {
+    "ID": "3703",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from -inf to inf integral from -inf to inf dx dy / (1 + x^2 + y^2)",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "3704",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from -inf to inf integral from -inf to inf dx dy / (1 + x^2 + y^2)^2",
+    "Answers": "2π."
+  },
+  {
+    "ID": "3705",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from 0 to inf integral from 0 to inf dx dy / (x^2 + y^2 + a^2)^2",
+    "Answers": "π/(4a^2)."
+  },
+  {
+    "ID": "3706",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from -inf to inf integral from -inf to inf e^(-|x|-|y|) dx dy",
+    "Answers": "4."
+  },
+  {
+    "ID": "3707",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from 0 to inf integral from 0 to inf (x+y)e^(-(x+y)) dx dy",
+    "Answers": "2."
+  },
+  {
+    "ID": "3708",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from 0 to inf integral from 0 to inf xye^(-x^2-y^2) dx dy",
+    "Answers": "1/4."
+  },
+  {
+    "ID": "3709",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from 0 to inf integral from 0 to inf e^(-(x^2+2xy*cos(alpha)+y^2)) dx dy",
+    "Answers": "α/(2sinα). Transform to polar coordinates."
+  },
+  {
+    "ID": "3710",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from 0 to inf dx integral from x to inf e^(-y^2) dy.",
+    "Answers": "1/2. Change the order of integration."
+  },
+  {
+    "ID": "3711",
+    "Questions": "Evaluate or establish the divergence of the improper integrals of problems 3703-3711: integral from 0 to inf dx integral from 2x to inf xe^(-y) sin(y)/y^2 dy.",
+    "Answers": "1/16. See the hint on the previous problem."
+  },
+  {
+    "ID": "3712",
+    "Questions": "Discover which of the improper integrals of problems 3712-3715 over the circular domain of radius R with centre at the origin is convergent: integral_D ln(sqrt(x^2+y^2)) dx dy (see Course, sec. 179).",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "3713",
+    "Questions": "Discover which of the improper integrals of problems 3712-3715 over the circular domain of radius R with centre at the origin is convergent: integral_D e^(-x^2-y^2) / (x^2+y^2) dx dy.",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "3714",
+    "Questions": "Discover which of the improper integrals of problems 3712-3715 over the circular domain of radius R with centre at the origin is convergent: integral_D sin(x^2+y^2) / sqrt((x^2+y^2)^3) dx dy.",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "3715",
+    "Questions": "Discover which of the improper integrals of problems 3712-3715 over the circular domain of radius R with centre at the origin is convergent: integral_D cos(x^2+y^2) / (x^2+y^2) dx dy.",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "3716",
+    "Questions": "Can a number m be chosen such that the improper integral integral_D dx dy / (sqrt(x^2+y^2))^m, taken over the whole of the plane, is convergent?",
+    "Answers": "No."
+  },
+  {
+    "ID": "3717",
+    "Questions": "Evaluate the improper integrals of problems 3717-3719: integral from 0 to inf integral from 0 to inf integral from 0 to inf dx dy dz / sqrt((1+x+y+z)^7).",
+    "Answers": "8/15."
+  },
+  {
+    "ID": "3718",
+    "Questions": "Evaluate the improper integrals of problems 3717-3719: integral from 0 to inf integral from 0 to inf integral from 0 to inf xy dx dy dz / (1+x^2+y^2+z^2)^3.",
+    "Answers": "1/16."
+  },
+  {
+    "ID": "3719",
+    "Questions": "Evaluate the improper integrals of problems 3717-3719: integral from -inf to inf integral from -inf to inf integral from -inf to inf e^(-x^2-y^2-z^2) dx dy dz.",
+    "Answers": "π*sqrt(π); use Poisson's integral integral_0^inf e^(-x^2) dx = sqrt(pi)/2."
+  },
+  {
+    "ID": "3720",
+    "Questions": "Examine the convergence of the improper integrals of problems 3720-3722, taken over the sphere Omega of radius R with centre at the origin: integral_Omega dx dy dz / (sqrt(x^2+y^2+z^2))^3 * ln(sqrt(x^2+y^2+z^2)).",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "3721",
+    "Questions": "Examine the convergence of the improper integrals of problems 3720-3722, taken over the sphere Omega of radius R with centre at the origin: integral_Omega ln(sqrt(x^2+y^2+z^2)) / (x^2+y^2+z^2) dx dy dz.",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "3722",
+    "Questions": "Examine the convergence of the improper integrals of problems 3720-3722, taken over the sphere Omega of radius R with centre at the origin: integral_Omega xyz / (x^2+y^2+z^2)^3 dx dy dz.",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "3723",
+    "Questions": "Evaluate integral_Omega ln(x^2+y^2+z^2) dx dy dz, where the domain Omega is the sphere of radius R with centre at the origin.",
+    "Answers": "4/3 * pi * R^3 * (ln R^2 - 2/3)."
+  },
+  {
+    "ID": "3724",
+    "Questions": "Find the volume of the body bounded by the surface z = (x^2+y^2)e^(-(x^2+y^2)) and the plane z = 0.",
+    "Answers": "π. (See hint on problem 3719)."
+  },
+  {
+    "ID": "3725",
+    "Questions": "Evaluate the volume of the body bounded by the surface z = x^2y^2e^(-(x^2+y^2)) and the plane z = 0.",
+    "Answers": "π/4."
+  },
+  {
+    "ID": "3726",
+    "Questions": "Find the volume of the body bounded by the plane z=0 and the part of the surface z=xe^(-(x^2+y^2)) lying above this plane.",
+    "Answers": "sqrt(2)/2."
+  },
+  {
+    "ID": "3727",
+    "Questions": "Given a homogeneous body bounded by the right circular cylinder of base radius R (height H, density gamma), find the force acting on a particle of mass m situated at the centre of the base.",
+    "Answers": "2πkmγ(R+H−√(R^2+H^2)). The force is directed along the axis of the cylinder."
+  },
+  {
+    "ID": "3728",
+    "Questions": "Given a homogeneous body bounded by the right circular cone of base radius R and height H (density gamma), find the force with which the body attracts a particle of mass m located at the vertex of the cone.",
+    "Answers": "2πkmγH/l * (l-H), where l is the generator of the cone. The force is directed along the axis of the cone."
+  },
+  {
+    "ID": "3729",
+    "Questions": "Given a non-homogeneous continuous sphere of radius R, the density gamma of which is connected with the distance from the centre r by the relationship gamma = a - br (a > 0, b > 0): \n(a) find the constants a and b, if it is known that the density at the centre of the sphere is equal to gamma_c, whilst the density on the surface of the sphere is equal to gamma_0. \n(b) Find the force of attraction by the sphere on a particle of mass m, located on the surface of the sphere.",
+    "Answers": "(a) a = 4σ_c - 3σ_0, b = 4/R(σ_c - σ_0);\n(b) 4/3 * πk Rσ_c = kM/R^2."
+  },
+  {
+    "ID": "3730",
+    "Questions": "Find the domain of definition of the function f(x) = integral from 0 to x dz / sqrt(x^2+z^2).",
+    "Answers": "Defined everywhere except at x = 0."
+  },
+  {
+    "ID": "3731",
+    "Questions": "Find the curvature of the curve y = integral from pi to 2pi sin(alpha*x)/x dx at the point with abscissa x = 1.",
+    "Answers": "3π."
+  },
+  {
+    "ID": "3732",
+    "Questions": "Using the equation integral from 0 to b dx/(1+ax) = 1/a * ln(1+ab), obtain by differentiation with respect to the parameter the formula: integral from 0 to b x dx / (1+ax)^2 = 1/a^2 * ln(1+ab) - b/(a(1+ab)).",
+    "Answers": "Differentiate with respect to a."
+  },
+  {
+    "ID": "3733",
+    "Questions": "Starting from the equation integral from 0 to inf dx/(x^2+a^2) = 1/a * arc tan(x/a), evaluate integral from 0 to inf dx/(x^2+a^2)^3.",
+    "Answers": "3π/(8a^4*|a|)."
+  },
+  {
+    "ID": "3734",
+    "Questions": "Starting from the equation integral from 0 to inf dx/(x^2+a^2) = pi/(2a), evaluate integral from 0 to inf dx/(x^2+a^2)^n (n is a positive integer).",
+    "Answers": "1*3*5...(2n-3)/(2*4*6...(2n-2)) * pi/(2a^(2n-1))."
+  },
+  {
+    "ID": "3735",
+    "Questions": "Evaluate the integral integral from 0 to inf e^(-ax)*x^(n-1) dx (n is a positive integer) with a > 0, by finding as a preliminary integral from 0 to inf e^(-ax) dx.",
+    "Answers": "(n-1)! / a^n."
+  },
+  {
+    "ID": "3736",
+    "Questions": "By starting from the equation (see problem 2318): integral from 0 to pi/2 dx/(a^2*cos^2(x)+b^2*sin^2(x)) = pi/(2|ab|), find integral from 0 to pi/2 dx/(a^2*cos^2(x)+b^2*sin^2(x))^2.",
+    "Answers": "π(a^2+b^2)/(4|ab|^3). Differentiate with respect to a and b and add the results."
+  },
+  {
+    "ID": "3737",
+    "Questions": "Evaluate the integrals of problems 3737-3749 with the aid of differentiation with respect to a parameter: integral from 0 to inf (1-e^(-ax))/x * e^(-x) dx (a > -1).",
+    "Answers": "ln(1+a)."
+  },
+  {
+    "ID": "3738",
+    "Questions": "integral from 0 to inf (1-e^(-ax^2))/(x*e^(x^2)) dx (a > -1).",
+    "Answers": "1/2 * ln(1+a)."
+  },
+  {
+    "ID": "3739",
+    "Questions": "integral from 0 to 1 (arc tan ax)/x * dx / sqrt(1-x^2).",
+    "Answers": "pi/2 * ln(a + sqrt(1+a^2))."
+  },
+  {
+    "ID": "3740",
+    "Questions": "integral from 0 to 1 (ln(1-a^2x^2))/(x^2*sqrt(1-x^2)) dx (a^2 < 1).",
+    "Answers": "pi(sqrt(1-a^2) - 1)."
+  },
+  {
+    "ID": "3741",
+    "Questions": "integral from 0 to inf (arc tan ax)/(x(1+x^2)) dx.",
+    "Answers": "pi/2 * ln(1+a), if a>=0; -pi/2 * ln(1-a) if a<=0."
+  },
+  {
+    "ID": "3742",
+    "Questions": "integral from 0 to 1 (ln(1-a^2x^2))/sqrt(1-x^2) dx (a^2 < 1).",
+    "Answers": "pi * ln((1+sqrt(1-a^2))/2)."
+  },
+  {
+    "ID": "3743",
+    "Questions": "integral from 0 to pi (ln(1+a cos x))/cos x dx (a^2 < 1).",
+    "Answers": "pi * arc sin a."
+  },
+  {
+    "ID": "3744",
+    "Questions": "integral from 0 to pi/2 ln((1+a sin x)/(1-a sin x)) * dx/sin x (a^2 < 1).",
+    "Answers": "pi * arc sin a."
+  },
+  {
+    "ID": "3745",
+    "Questions": "integral from 0 to inf (1-e^(-ax^2))/x^2 dx (a > 0) knowing that integral from 0 to inf e^(-ax^2) dx = 1/2 * sqrt(pi/a) (a > 0) (see problem 2439).",
+    "Answers": "sqrt(pi*a)."
+  },
+  {
+    "ID": "3746",
+    "Questions": "integral from 0 to inf (e^(-ax^2) - e^(-bx^2))/x^2 dx (a > 0, b > 0).",
+    "Answers": "sqrt(pi)*(sqrt(b)-sqrt(a))."
+  },
+  {
+    "ID": "3747",
+    "Questions": "integral from 0 to inf e^(-ax) * (sin bx - sin cx)/x dx (a > 0).",
+    "Answers": "arctan(b/a) - arctan(c/a)."
+  },
+  {
+    "ID": "3748",
+    "Questions": "integral from 0 to inf e^(-ax) * (cos bx - cos cx)/x dx (a > 0).",
+    "Answers": "1/2 * ln((a^2+c^2)/(a^2+b^2))."
+  },
+  {
+    "ID": "3749",
+    "Questions": "integral from 0 to pi/2 ln(a^2*cos^2(x) + b^2*sin^2(x)) dx.",
+    "Answers": "pi*ln((a+b)/2). Differentiate with respect to a or with respect to b."
+  },
+  {
+    "ID": "3750",
+    "Questions": "Having evaluated integral from 0 to pi/2 (arctan(a*tan(x)))/tan(x) dx, find integral from 0 to pi/2 x/tan(x) dx.",
+    "Answers": "pi/2 * ln(1+a) if a>0; -pi/2 * ln(1-a) if a<0;"
+  },
+  {
+    "ID": "3751",
+    "Questions": "By using the equation integral from 0 to 1 x^n dx = 1/(n+1), evaluate integral from 0 to 1 (x^beta - x^alpha)/ln(x) dx (alpha > -1, beta > -1).",
+    "Answers": "ln((1+beta)/(1+alpha))."
+  },
+  {
+    "ID": "3752",
+    "Questions": "By using the equation 2a integral from 0 to inf e^(-a^2x^2) dx = sqrt(pi) (see problem 2439), evaluate integral from 0 to inf (e^(-a^2x^2) - e^(-b^2x^2))/x^2 dx.",
+    "Answers": "sqrt(pi)*(b-a)."
+  },
+  {
+    "ID": "3753",
+    "Questions": "By starting from the relationship integral from 0 to inf e^(-z^2) dz = sqrt(pi)/2 (Poisson's integral), deduce the equation 1/sqrt(x) = 2/sqrt(pi) * integral from 0 to inf e^(-zx) dz (x>0), and use this to evaluate the integrals (Fresnel or diffraction integrals): \n(a) integral from 0 to inf cos(x)/sqrt(x) dx; (b) integral from 0 to inf sin(x)/sqrt(x) dx",
+    "Answers": "sqrt(pi/2)."
+  },
+  {
+    "ID": "3754",
+    "Questions": "Let f(x) be continuous for x>=0 and tend to a finite limit f(inf) as x->inf. Further, let integral_0^inf f'(ax) dx be uniformly convergent for 0 < a <= a <= b. Prove that, with these conditions, integral_0^inf (f(ax)-f(bx))/x dx = [f(inf)-f(0)]ln(a/b).",
+    "Answers": "The result is obtained by integrating f'(x) with respect to x from 0 to inf, then integrating the result with respect to a from b to a."
+  },
+  {
+    "ID": "3755",
+    "Questions": "Evaluate the integrals of problems 3755-3756 by using the results of problem 3754: integral from 0 to inf (arctan(ax) - arctan(bx))/x dx.",
+    "Answers": "pi/2 * ln(a/b)."
+  },
+  {
+    "ID": "3756",
+    "Questions": "Evaluate the integrals of problems 3755-3756 by using the results of problem 3754: integral from 0 to inf (e^(-ax^n) - e^(-bx^n))/x dx (n>0).",
+    "Answers": "1/n * ln(b/a)."
+  },
+  {
+    "ID": "3757",
+    "Questions": "Let f(x) be continuous for x>=0 and let integral_A^inf f(x)/x dx be convergent for any A>0. Prove that, with these conditions, if a>0 and b>0, we have integral_0^inf (f(ax)-f(bx))/x dx = f(0)ln(b/a) (cf. problem 3754).",
+    "Answers": "I = lim [integral_eps_a^A (f(ax)/x)dx - integral_eps_b^A (f(bx)/x)dx] = lim [integral_eps*a^A*a (f(z)/z)dz - integral_eps*b^A*b (f(z)/z)dz] = lim [integral_eps*a^eps*b (f(z)/z)dz - integral_A*a^A*b (f(z)/z)dz]. The second integral tends to 0 as A->inf. By the mean value theorem, the first integral is f(xi)*ln(b/a)."
+  },
+  {
+    "ID": "3758",
+    "Questions": "Evaluate the integrals of problems 3758-3762 by using the result of problem 3757 (a > 0, b > 0): integral from 0 to inf (e^(-ax) - e^(-bx))/x dx.",
+    "Answers": "ln(b/a)."
+  },
+  {
+    "ID": "3759",
+    "Questions": "Evaluate the integrals of problems 3758-3762 by using the result of problem 3757 (a > 0, b > 0): integral from 0 to inf (cos(ax) - cos(bx))/x dx.",
+    "Answers": "ln(b/a)."
+  },
+  {
+    "ID": "3760",
+    "Questions": "Evaluate the integrals of problems 3758-3762 by using the result of problem 3757 (a > 0, b > 0): integral from 0 to inf (sin(ax)*sin(bx))/x dx.",
+    "Answers": "1/2 * ln((a+b)/(a-b))."
+  },
+  {
+    "ID": "3761",
+    "Questions": "Evaluate the integrals of problems 3758-3762 by using the result of problem 3757 (a > 0, b > 0): integral from 0 to inf (b*sin(ax) - a*sin(bx))/x^2 dx.",
+    "Answers": "ab*ln(b/a)."
+  },
+  {
+    "ID": "3762",
+    "Questions": "Evaluate the integrals of problems 3758-3762 by using the result of problem 3757 (a > 0, b > 0): integral from 0 to inf (sin^2(x))/x^2 dx.",
+    "Answers": "3/4 * ln(3)."
+  },
+  {
+    "ID": "3763",
+    "Questions": "The Laplace function Phi(x) is defined thus: Phi(x) = 2/sqrt(pi) * integral from 0 to x e^(-t^2) dt (this function plays a large part in the theory of probability). Prove the relationships: (1) integral from 0 to inf Phi(az) dz = (e^(-a^2x^2)-1)/(a*sqrt(pi)) + x*Phi(ax); (2) integral from 0 to inf [1 - Phi(x)] dz = 1/sqrt(pi).",
+    "Answers": "(1) Integrate by parts. (2) See hint on problem 3763."
+  },
+  {
+    "ID": "3764",
+    "Questions": "Functions si(x) and ci(x) are usually defined thus: si(x) = - integral from x to inf sin(t)/t dt (\"integral sine\") and ci(x) = - integral from x to inf cos(t)/t dt (\"integral cosine\"). Prove that integral from 0 to inf sin(x)si(x) dx = integral from 0 to inf cos(x)ci(x) dx = -pi/4.",
+    "Answers": "Use the second method of solution of problem 3763. When proving the second relationship it is necessary to investigate the integral integral from 0 to inf sin(ax)cos(x*sin(theta))/x dx with |a|>1 and |a|<=1. This is done by transforming the expression in the numerator, and recalling that integral_0^inf sin(x)/x dx = pi/2 (Dirichlet's integral)."
+  },
+  {
+    "ID": "3765",
+    "Questions": "The function J_0(x), defined as J_0(x) = 2/pi * integral from 0 to pi/2 cos(x sin theta) d(theta), is termed the Bessel function of zero order. Prove that: (1) integral from 0 to inf e^(-ax) J_0(x) dx = 1/sqrt(1+a^2) (a>0); (2) integral from 0 to inf sin(ax)/x J_0(x) dx = {pi/2, if a>=1; arcsin a, if |a|<=1; -pi/2, if a<=-1}.",
+    "Answers": "Substitute in the left-hand side of the required equation the expressions for y' and y'' obtained by differentiation of the integral y with respect to the parameter. One of the terms obtained must be integrated by parts."
+  },
+  {
+    "ID": "3766",
+    "Questions": "Prove that the function y = integral from 0 to inf e^(-xz^2)/(1+z^2) dz satisfies the differential equation y''+y=1/x.",
+    "Answers": "See hint on problem 3767."
+  },
+  {
+    "ID": "3767",
+    "Questions": "Prove that the function y = integral from -1 to 1 (z^2-1)^(n-1) e^(xz) dz satisfies the differential equation xy''+2ny'-xy=0.",
+    "Answers": "See hint on problem 3767."
+  },
+  {
+    "ID": "3768",
+    "Questions": "Prove that the function y = integral from 0 to inf e^(-xz)/(1+z^2)^(n+1) dz satisfies the differential equation xy''-2ny'+xy=1.",
+    "Answers": "See hint on problem 3767."
+  },
+  {
+    "ID": "3769",
+    "Questions": "Prove that the zero order Bessel function J_0(x) = 2/pi * integral from 0 to pi/2 cos(x sin theta) d(theta) satisfies the differential equation J_0''(x) + J_0'(x)/x + J_0(x) = 0.",
+    "Answers": "See hint on problem 3767."
+  },
+  {
+    "ID": "3770",
+    "Questions": "Evaluate the line integrals of problems 3770-3775: integral_L ds/(x-y), where L is the segment of the straight line y = 1/2*x - 2 lying between the points A(0, -2) and B(4, 0).",
+    "Answers": "5*sqrt(5)*ln(2)."
+  },
+  {
+    "ID": "3771",
+    "Questions": "integral_L xy ds, where L is the rectangular contour with corners A(0,0), B(4,0), C(4,2) and D(0,2).",
+    "Answers": "24."
+  },
+  {
+    "ID": "3772",
+    "Questions": "integral_L y ds, where L is the arc of the parabola y^2=2px cut off by the parabola x^2=2py.",
+    "Answers": "p^2/3 * (5*sqrt(5)-1)."
+  },
+  {
+    "ID": "3773",
+    "Questions": "integral_L (x^2+y^2)^n ds, where L is the circle x=a*cos(t), y=a*sin(t).",
+    "Answers": "2*pi*a^(2n+1)."
+  },
+  {
+    "ID": "3774",
+    "Questions": "integral_L xy ds, where L is the quarter of the ellipse x^2/a^2 + y^2/b^2 = 1 lying in the first quadrant.",
+    "Answers": "ab(a^2+ab+b^2)/(3(a+b))."
+  },
+  {
+    "ID": "3775",
+    "Questions": "integral_L sqrt(2y) ds, where L is the first arc of the cycloid x=a(t-sin(t)), y=a(1-cos(t)).",
+    "Answers": "4*pi*sqrt(a)."
+  },
+  {
+    "ID": "3776",
+    "Questions": "Obtain a formula for evaluating integral_L F(x,y) ds, if curve L is given by the equation rho=rho(phi) (phi1 <= phi <= phi2) in polar coordinates.",
+    "Answers": "integral from phi1 to phi2 F(rho*cos(phi), rho*sin(phi)) * sqrt(rho^2 + rho'^2) d(phi)."
+  },
+  {
+    "ID": "3777",
+    "Questions": "Evaluate integral_L (x-y) ds, where L is the circle x^2+y^2=ax.",
+    "Answers": "pi*a^2/2. Transform to polar coordinates."
+  },
+  {
+    "ID": "3778",
+    "Questions": "Evaluate integral_L x*sqrt(x^2-y^2) ds, where L is the curve given by the equation (x^2+y^2)^2 = a^2(x^2-y^2) (x>=0) (half a lemniscate).",
+    "Answers": "2*sqrt(2)/3 * a^3."
+  },
+  {
+    "ID": "3779",
+    "Questions": "Evaluate integral_L arc tan(y/x) ds, where L is the part of the spiral of Archimedes rho=2phi lying inside the circle of radius R with centre at the origin (pole).",
+    "Answers": "1/2 * [(R*sqrt(R^2+4) + 4*ln(R+sqrt(R^2+4)))/R - 2]."
+  },
+  {
+    "ID": "3780",
+    "Questions": "Evaluate integral_L x^2 ds / (x^2+y^2), taken along the first turn of the helix x=a*cos(t), y=a*sin(t), z=at.",
+    "Answers": "sqrt(2) * a^2 * pi."
+  },
+  {
+    "ID": "3781",
+    "Questions": "Evaluate integral_L xyz ds, where L is the quadrant of the circle x^2+y^2+z^2=R^2, x^2+y^2=R^2/4 lying in the first octant.",
+    "Answers": "R^4*sqrt(3)/32."
+  },
+  {
+    "ID": "3801",
+    "Questions": "A current I flows along a circuit in the form of a square of side a. What is the force exerted by the current on a magnetic dipole m at the centre of the square?",
+    "Answers": "8sqrt(2)Im/a"
+  },
+  {
+    "ID": "3802",
+    "Questions": "Prove that the current I flowing along the arc of a curve whose equation is given in polar coordinates by rho = rho(phi), exerts a force f = ml * integral from phi1 to phi2 d(phi)/rho on a magnetic dipole situated at the pole.",
+    "Answers": "Hint: Use the formula for the angle between the tangent and the radius vector."
+  },
+  {
+    "ID": "3803",
+    "Questions": "What is the force exerted by a current I flowing in a closed elliptic circuit on a magnetic dipole m situated at a focus of the ellipse?",
+    "Answers": "2πml/b^2, where a and b are the semi-axes of the ellipse."
+  },
+  {
+    "ID": "3804",
+    "Questions": "What is the force exerted by the current I flowing in an infinite parabolic circuit on a magnetic dipole m located at the focus of the parabola? The distance from the vertex to the focus is equal to p/2.",
+    "Answers": "2πmI/p. For R=h*sqrt(2)."
+  },
+  {
+    "ID": "3805",
+    "Questions": "What is the force exerted by a current I flowing in a circular circuit of radius R on a magnetic dipole m located at a point P, lying on the perpendicular to the plane of the circle through its centre and distant h from the centre? Given a fixed h, for what value of R is this force a maximum?",
+    "Answers": "The force is 2πmIR^2 / (h^2+R^2)^(3/2). The force is a maximum for R=h*sqrt(2)."
+  },
+  {
+    "ID": "3806",
+    "Questions": "Evaluate the line integrals of problems 3806-3821: integral_L x dy, where L is the triangle formed by the coordinate axes and the straight line x/2+y/3=1, taken in a positive direction (i.e. anticlockwise).",
+    "Answers": "3."
+  },
+  {
+    "ID": "3807",
+    "Questions": "integral_L x dy, where L is the segment of the straight line x/a+y/b=1 from its point of intersection with the axis of abscissae to its point of intersection with the axis of ordinates.",
+    "Answers": "ab/2."
+  },
+  {
+    "ID": "3808",
+    "Questions": "integral_L (x^2-y^2) dx, where L is the arc of the parabola y=x^2 from the point (0,0) to the point (2,4).",
+    "Answers": "0."
+  },
+  {
+    "ID": "3809",
+    "Questions": "integral_L (x^2+y^2) dy, where L is the rectangle with corners (given in order of the circuit round them) at A(0,0), B(2,0), C(4,4) and D(0,4).",
+    "Answers": "56."
+  },
+  {
+    "ID": "3810",
+    "Questions": "integral from (0,0) to (pi, 2pi) (-x cos y dx + y sin x dy) along the segment joining the points (0,0) and (pi, 2pi).",
+    "Answers": "4pi."
+  },
+  {
+    "ID": "3811",
+    "Questions": "integral from (0,0) to (1,1) xy dx + (y-x) dy along the curves (1) y=x, (2) y=x^2, (3) y^2=x, (4) y=x^3.",
+    "Answers": "1/3; 1/12; 17/30; 1/4 - 1/20."
+  },
+  {
+    "ID": "3812",
+    "Questions": "integral from (0,0) to (1,1) 2xy dx + x^2 dy along the curve (1) y=x, (2) y=x^2, (3) y=x^3, (4) y^2=x.",
+    "Answers": "The integral is equal to 1 in all four cases."
+  },
+  {
+    "ID": "3813",
+    "Questions": "integral_L y dx + x dy, where L is the quadrant of the circle x=R cos t, y=R sin t, from t1=0 to t2=pi/2.",
+    "Answers": "0."
+  },
+  {
+    "ID": "3814",
+    "Questions": "integral_L y dx - x dy, where L is the ellipse x=a cos t, y=b sin t, taken in the positive direction.",
+    "Answers": "-2*pi*a*b."
+  },
+  {
+    "ID": "3815",
+    "Questions": "integral_L (y^2 dx - x^2 dy) / (x^2+y^2), where L is the semi-circle x=a cos t, y=a sin t from t1=0 to t2=pi.",
+    "Answers": "4/3 * a."
+  },
+  {
+    "ID": "3816",
+    "Questions": "integral_L (2a-y) dx - (a-y) dy, where L is the first (from the origin) arc of the cycloid x=a(t-sin t), y=a(1-cos t).",
+    "Answers": "pi * a^2."
+  },
+  {
+    "ID": "3817",
+    "Questions": "integral_L (x^2 dy - y^2 dx) / (x^(5/3)+y^(5/3)), where L is the quadrant of the astroid x=R cos^3(t), y=R sin^3(t), from the point (R,0) to the point (0,R).",
+    "Answers": "3/16 * pi * R^(4/3)."
+  },
+  {
+    "ID": "3818",
+    "Questions": "integral_L x dx + y dy + (x+y-1) dz, where L is the segment of a straight line from the point (1,1,1) to the point (2,3,4).",
+    "Answers": "13.5."
+  },
+  {
+    "ID": "3819",
+    "Questions": "integral_L yz dx + z*sqrt(R^2-y^2) dy + xy dz, where L is the arc of the helix x=R cos t, y=R sin t, z=at/(2pi), from the point of intersection of the curve with the plane z=0 to its point of intersection with the plane z=a.",
+    "Answers": "-R^2*a/2."
+  },
+  {
+    "ID": "3820",
+    "Questions": "integral from (1,1,1) to (4,4,4) (x dx + y dy + z dz) / sqrt(x^2+y^2+z^2-x-y+2z) along a straight line.",
+    "Answers": "18."
+  },
+  {
+    "ID": "3821",
+    "Questions": "integral_L y^2 dx + z^2 dy + x^2 dz, where L is the curve of intersection of the sphere x^2+y^2+z^2=R^2 and the cylinder x^2+y^2=Rx (R>0, z>=0), the integration circuit being anticlockwise as seen from the origin.",
+    "Answers": "-pi*R^3/4."
+  },
+  {
+    "ID": "3822",
+    "Questions": "In problems 3822-3823, transform the line integrals over a closed contour L, taken in the positive direction, to double integrals over the domain bounded by the contour: integral_L (1-x^2)y dx + x(1+y^2) dy.",
+    "Answers": "integral_D (x^2+y^2) dx dy."
+  },
+  {
+    "ID": "3823",
+    "Questions": "integral_L (e^xy+2x cos y) dx + (e^xy-x^2 sin y) dy.",
+    "Answers": "integral_D (y-x)e^xy dx dy."
+  },
+  {
+    "ID": "3824",
+    "Questions": "If the contour of integration L is the circle x^2+y^2=R^2, evaluate the integral of problem 3822 by the following two methods: (1) directly, (2) by using Green's formula.",
+    "Answers": "pi*R^4/2."
+  },
+  {
+    "ID": "3825",
+    "Questions": "Evaluate integral_L (xy+x+y) dx + (xy+x-y) dy, where L is: (1) the ellipse x^2/a^2 + y^2/b^2=1; (2) the circle x^2+y^2=ax. The integration is carried out in a positive direction. (Carry out the evaluation by two methods: (1) directly, (2) with the aid of Green's formula).",
+    "Answers": "(1) 0; (2) -pi*a^3/8."
+  },
+  {
+    "ID": "3826",
+    "Questions": "Prove that the integral integral_L (yx^3+e^y)dx + (xy^3+xe^y-2y)dy is equal to zero, if L is a closed curve, symmetrical with respect to the origin or to both coordinate axes.",
+    "Answers": "Apply Green's formula to the doubly-connected domain bounded by contour L and any circle with centre at the origin and not intersecting contour L."
+  },
+  {
+    "ID": "3827",
+    "Questions": "Evaluate with the aid of Green's formula the difference between the integrals: I1 = integral_AmB (x+y)^2 dx - (x-y)^2 dy and I2 = integral_AnB (x+y)^2 dx - (x-y)^2 dy, where AmB is the straight segment joining points A(0,0) and B(1,1), whilst AnB is the arc of the parabola y=x^2.",
+    "Answers": "8."
+  },
+  {
+    "ID": "3828",
+    "Questions": "Prove that the integral integral_L {x*cos(N,x)+y*sin(N,x)} dS, where (N,x) is the angle between the outward normal to the curve and the positive direction of the axis of abscissae, taken over the closed contour L in the positive direction, is equal to twice the area of the figure bounded by contour L.",
+    "Answers": "3.838."
+  },
+  {
+    "ID": "3829",
+    "Questions": "Prove that the value of integral_L (2xy-y)dx+x^2 dy, where L is a closed contour, expresses the area of the domain bounded by the contour.",
+    "Answers": "8. 3839. 4. 3840. ln(13/5)."
+  },
+  {
+    "ID": "3830",
+    "Questions": "Show that integral_L phi(y)dx + [x*phi'(y)+x^3]dy is equal to three times the moment of inertia of the homogeneous plane figure bounded by contour L, with respect to the axis of ordinates.",
+    "Answers": "R_2 - R_1."
+  },
+  {
+    "ID": "3831",
+    "Questions": "In problems 3831-3835, show that the integrals, taken over a closed contour, vanish independently of the form of the functions appearing in the integrand: integral_L phi(x)dx + psi(y)dy.",
+    "Answers": "10."
+  },
+  {
+    "ID": "3832",
+    "Questions": "integral_L f(xy)(y dx + x dy).",
+    "Answers": "0."
+  },
+  {
+    "ID": "3833",
+    "Questions": "integral_L f(y/x) * (x dy - y dx)/x^2.",
+    "Answers": "9."
+  },
+  {
+    "ID": "3834",
+    "Questions": "integral_L [f(x+y)+f(x-y)]dx + [f(x+y)-f(x-y)]dy.",
+    "Answers": "-9/2."
+  },
+  {
+    "ID": "3835",
+    "Questions": "integral_L f(x^2+y^2+z^2)(x dx + y dy + z dz).",
+    "Answers": "u = x^2+y^2/3."
+  },
+  {
+    "ID": "3836",
+    "Questions": "Prove that integral_L (x dy - y dx)/(x^2+y^2), taken in the positive direction round any closed contour, which contains the origin, is equal to 2pi (see Course, sec. 186).",
+    "Answers": "The integrand is a total differential only in a simply connected domain not containing the origin."
+  },
+  {
+    "ID": "3837",
+    "Questions": "Evaluate integral_L (x dy - y dx)/(x^2+4y^2) round the circle x^2+y^2=1 in the positive direction.",
+    "Answers": "pi."
+  },
+  {
+    "ID": "3838",
+    "Questions": "In problems 3838-3844, evaluate the line integrals of total differentials: integral from (-1,2) to (2,3) y dx + x dy.",
+    "Answers": "8."
+  },
+  {
+    "ID": "3839",
+    "Questions": "integral from (0,0) to (2,1) 2xy dx + x^2 dy.",
+    "Answers": "4."
+  },
+  {
+    "ID": "3840",
+    "Questions": "integral from (3,4) to (5,12) (x dx + y dy)/sqrt(x^2+y^2) (the origin does not lie on the contour of integration).",
+    "Answers": "ln(13/5)."
+  },
+  {
+    "ID": "3841",
+    "Questions": "integral from P1 to P2 (x dx + y dy)/sqrt(x^2+y^2), where points P1 and P2 are situated on concentric circles with centres at the origin and radii R1 and R2 respectively (the origin does not lie on the contour of integration).",
+    "Answers": "R_2 - R_1."
+  },
+  {
+    "ID": "3842",
+    "Questions": "integral from (-1,2) to (2,1,3) x dx - y^2 dy + z dz.",
+    "Answers": "10."
+  },
+  {
+    "ID": "3843",
+    "Questions": "integral from (1,2,3) to (3,2,1) yz dx + zx dy + xy dz.",
+    "Answers": "0."
+  },
+  {
+    "ID": "3844",
+    "Questions": "integral from (7,2,3) to (5,3,1) (zx dy + xy dz - yz dx) / (x-yz)^2 (the contour of integration does not cut the surface z = x/y).",
+    "Answers": "-9/2."
+  },
+  {
+    "ID": "3845",
+    "Questions": "Find the functions having total differentials as given in problems 3845-3852: du = x^2 dx + y^2 dy.",
+    "Answers": "u = x^3/3 + y^3/3 + C."
+  },
+  {
+    "ID": "3846",
+    "Questions": "du + 4(x^2-y^2)(x dx - y dy).",
+    "Answers": "u = (x^2-y^2)^2 + C."
+  },
+  {
+    "ID": "3847",
+    "Questions": "du = ((x+2y)dx+ydy)/(x+y)^2.",
+    "Answers": "u = ln|x-y| + y/(x-y) + C."
+  },
+  {
+    "ID": "3848",
+    "Questions": "du = x/(y*sqrt(x^2+y^2)) dx - (x^2+sqrt(x^2+y^2))/(y^2*sqrt(x^2+y^2)) dy.",
+    "Answers": "u = -sqrt(x^2+y^2)/y + C."
+  },
+  {
+    "ID": "3849",
+    "Questions": "du = [x-2y/((y-x)^2+x)]dx + [y/((y-x)^2-y^2)]dy.",
+    "Answers": "The problem seems to have a typo. Assuming it's du = (x-2y)/( (y-x)^2 ) dx + x/((y-x)^2) dy, then u = x^2/(x-y)+C."
+  },
+  {
+    "ID": "3850",
+    "Questions": "du = (2x cos y - y^2 sin x) dx + (2y cos x - x^2 sin y) dy.",
+    "Answers": "u = x^2 cos y + y^2 cos x + C."
+  },
+  {
+    "ID": "3851",
+    "Questions": "du = (2x(1-e^y))/((1+x^2)^2) dx + (e^y/(1+x^2)) dy.",
+    "Answers": "u = (e^y-1)/(1+x^2) + y + C."
+  },
+  {
+    "ID": "3852",
+    "Questions": "du = ((3y-x)dx + (y-3x)dy)/(x+y)^3.",
+    "Answers": "u = (x^2-y^2)/(x+y)^2 + C."
+  },
+  {
+    "ID": "3853",
+    "Questions": "Chose a number n such that the expression ((x-y)dx+(x+y)dy)/(x^2+y^2)^n is a total differential; find the corresponding function.",
+    "Answers": "n=1, u = 1/2 ln(x^2+y^2) + arc tan(y/x) + C."
+  },
+  {
+    "ID": "3854",
+    "Questions": "Select constants a and b such that the expression (y^2+2xy+ax^2)dx - (x^2+2xy+by^2)dy / (x^2+y^2)^2 is a total differential; find the corresponding function.",
+    "Answers": "a=b=-1, u = (x^3-y^3)/(3(x^2+y^2)) + C."
+  },
+  {
+    "ID": "3855",
+    "Questions": "In problems 3855-3860, find the function, given its total differential: du = (dx+dy+dz)/(x+y+z).",
+    "Answers": "u = ln|x+y+z|+C."
+  },
+  {
+    "ID": "3856",
+    "Questions": "du = (xdx+ydy+zdz)/sqrt(x^2+y^2+z^2).",
+    "Answers": "u = sqrt(x^2+y^2+z^2)+C."
+  },
+  {
+    "ID": "3857",
+    "Questions": "du = (yzdx+xzdy+xydz)/(1+x^2y^2z^2).",
+    "Answers": "u = arc tan(xyz)+C."
+  },
+  {
+    "ID": "3858",
+    "Questions": "du = 2(zxdy+xydz-yzdx)/(x-yz)^2.",
+    "Answers": "u = 2xy/(yz-x)+C."
+  },
+  {
+    "ID": "3859",
+    "Questions": "du = (dx-3dy)/z + (3y-x+z^3)/z^2 dz.",
+    "Answers": "u = (x-3y)/z + z^2/2 + C."
+  },
+  {
+    "ID": "3860",
+    "Questions": "du = e^(y/z)dx + ((e^(x/z)*(z-x))/z^2 + xe^(yz))dy + ((-e^(x/z)*y)/z^2 + ye^(yz) + e^(-z))dz.",
+    "Answers": "u=e^(x/z)+e^(yz)-e^(-z)+C."
+  },
+  {
+    "ID": "3861",
+    "Questions": "Find with the aid of the line integral the areas of the figures bounded by the closed curves of problems 3861-3868: The ellipse x=a*cos(t), y=b*sin(t).",
+    "Answers": "pi*a*b."
+  },
+  {
+    "ID": "3862",
+    "Questions": "The astroid x=a*cos^3(t), y=a*sin^3(t).",
+    "Answers": "3/8 * pi * a^2."
+  },
+  {
+    "ID": "3863",
+    "Questions": "The cardioid x=2a*cos(t)-a*cos(2t), y=2a*sin(t)-a*sin(2t).",
+    "Answers": "6*pi*a^2."
+  },
+  {
+    "ID": "3864",
+    "Questions": "The loop of the folium of Descartes x^3+y^3-3axy=0.",
+    "Answers": "3/2 * a^2. Transform to the parametric form by putting y = tx."
+  },
+  {
+    "ID": "3865",
+    "Questions": "The loop of the curve (x+y)^3=xy.",
+    "Answers": "1/60."
+  },
+  {
+    "ID": "3866",
+    "Questions": "The loop of the curve (x+y)^4=x^2y.",
+    "Answers": "1/210."
+  },
+  {
+    "ID": "3867",
+    "Questions": "The lemniscate of Bernoulli (x^2+y^2)^2 = 2a^2(x^2-y^2).",
+    "Answers": "2a^2. Put y = x tan t."
+  },
+  {
+    "ID": "3868",
+    "Questions": "The loop of the curve (sqrt(x)+sqrt(y))^12 = xy.",
+    "Answers": "1/30."
+  },
+  {
+    "ID": "3869",
+    "Questions": "A force acts at every point of a plane, having a constant magnitude F and in the direction of the positive axis of abscissae. Find the work done by the force when a particle of mass m moves along the arc of the circle x^2+y^2=R^2 lying in the first quadrant.",
+    "Answers": "mFR."
+  },
+  {
+    "ID": "3870",
+    "Questions": "A force F, the projections of which on the axes are X=xy, Y=x+y, acts at every point of the plane. Find the work done by the force F when a particle of mass m moves from the origin to the point (1,1): (1) along the straight line y=x; (2) along the parabola y=x^2; (3) along the two-link step line, the sides of which are parallel to the axes (two cases).",
+    "Answers": "(1) 4/3; (2) 17/12; (3) 3/2 and 1."
+  },
+  {
+    "ID": "3871",
+    "Questions": "A force F acts at every point M of the ellipse x=a*cos(t), y=b*sin(t), equal in magnitude to the distance of M from the centre of the ellipse and directed towards the centre. (a) Find the work done by force F when a material particle P of mass m is displaced along the arc of the ellipse lying in the first quadrant; (b) find the work done, if the point P circuits the entire ellipse.",
+    "Answers": "(a) (a^2-b^2)/2; (b) 0."
+  },
+  {
+    "ID": "3872",
+    "Questions": "The projections of a force on the coordinate axes are given by X=2xy and Y=x^2. Show that the work done by the force when a particle of mass m is displaced depends only on its initial and final positions, and not on the form of the path. Calculate the work done when the particle moves from the point (1,0) to the point (0,3).",
+    "Answers": "0."
+  },
+  {
+    "ID": "3873",
+    "Questions": "A force has a magnitude inversely proportional to the distance of its point of application from the xOy plane, whilst it is directed towards the origin. Find the work done when a particle of mass m moves under the action of the force along the straight line x=at, y=bt, z=ct from the point M(a,b,c) to the point N(2a,2b,2c).",
+    "Answers": "k/c * sqrt(a^2+b^2+c^2) * ln(2), where k is a coefficient of proportionality."
+  },
+  {
+    "ID": "3874",
+    "Questions": "A force has a magnitude inversely proportional to the perpendicular distance of its point of application from Oz, whilst it is directed perpendicularly towards this axis. Find the work done by the force when a particle of mass m is displaced along the circle x=cos(t), y=1, z=sin(t) from the point M(1,1,0) to the point N(0,1,1).",
+    "Answers": "0.5k ln 2, where k is a coefficient of proportionality."
+  },
+  {
+    "ID": "3875",
+    "Questions": "Prove that the work done by the force of attraction between two particles when one of them moves is independent of the form of the path. The magnitude of the force of attraction F is given by Newton's law F=km1m2/r^2, where r is the distance between the particles of masses m1 and m2, and k is the gravitational constant.",
+    "Answers": "The projections of the force on the axes are X=F*(x0-x)/r, Y=F*(y0-y)/r, Z=F*(z0-z)/r, where (x0,y0,z0) is the fixed particle. We have: (dY/dz)=(dZ/dy) etc."
+  },
+  {
+    "ID": "3876",
+    "Questions": "Evaluate the integrals of problems 3876-3884: integral_S (z+2x+4/3*y) dq, where S is the part of the plane x/2+y/3+z/4=1 lying in the first octant.",
+    "Answers": "4*sqrt(61)."
+  },
+  {
+    "ID": "3877",
+    "Questions": "integral_S xyz dq, where S is the part of the plane x+y+z=1 lying in the first octant.",
+    "Answers": "sqrt(3)/120."
+  },
+  {
+    "ID": "3878",
+    "Questions": "integral_S x dq, where S is the part of the sphere x^2+y^2+z^2=R^2 lying in the first octant.",
+    "Answers": "pi*R^3/4."
+  },
+  {
+    "ID": "3879",
+    "Questions": "integral_S y dq, where S is the hemisphere z = sqrt(R^2-x^2-y^2).",
+    "Answers": "0."
+  },
+  {
+    "ID": "3880",
+    "Questions": "integral_S sqrt(R^2-x^2-y^2) dq, where S is the hemisphere z=sqrt(R^2-x^2-y^2).",
+    "Answers": "pi*R^3."
+  },
+  {
+    "ID": "3881",
+    "Questions": "integral_S x^2y^2 dq, where S is the hemisphere z = sqrt(R^2-x^2-y^2).",
+    "Answers": "2pi*R^6/15."
+  },
+  {
+    "ID": "3882",
+    "Questions": "integral_S dq/r, where S is the cylinder x^2+y^2=R^2 bounded by the planes z=0 and z=H, whilst r is the distance of a point of the surface from the origin.",
+    "Answers": "2piR*arcsinh(H/R)."
+  },
+  {
+    "ID": "3883",
+    "Questions": "integral_S dq/r^n, where S is the sphere x^2+y^2+z^2=R^2, and r is the distance of a point of the sphere from the fixed point P(0,0,c) (c>R).",
+    "Answers": "2pi*R / (c(n-2)) * [1/((c-R)^(n-2)) - 1/((c+R)^(n-2))] for n!=2; 2pi*R/c * ln((c+R)/(c-R)) for n=2."
+  },
+  {
+    "ID": "3884",
+    "Questions": "integral_S dq/r, where S is the part of the surface of the hyperbolic paraboloid z=xy cut off by the cylinder x^2+y^2=R^2, and r is the distance of a point of the surface from Oz.",
+    "Answers": "pi*[R*sqrt(R^2+1)+ln(R+sqrt(R^2+1))]."
+  },
+  {
+    "ID": "3885",
+    "Questions": "Find the mass of a sphere, if the surface density at any given point is equal to the distance of the point from some fixed diameter of the sphere.",
+    "Answers": "pi^2*R^3. Use spherical coordinates."
+  },
+  {
+    "ID": "3886",
+    "Questions": "Find the mass of a sphere, if the surface density at any given point is equal to the square of the distance of the point from some fixed diameter of the sphere.",
+    "Answers": "8/3 * pi * R^4."
+  },
+  {
+    "ID": "3887",
+    "Questions": "Evaluate the surface integrals of problems 3887-3893: integral_S x dy dz + y dx dz + z dx dy, where S is the positive side of the cube made up of the planes x=0, y=0, z=0, x=1, y=1, z=1.",
+    "Answers": "3."
+  },
+  {
+    "ID": "3888",
+    "Questions": "integral_S x^2y^2z dx dy, where S is the positive side of the lower half of the sphere x^2+y^2+z^2=R^2.",
+    "Answers": "2pi*R^8/105."
+  },
+  {
+    "ID": "3889",
+    "Questions": "integral_S z dx dy, where S is the outside of the ellipsoid x^2/a^2 + y^2/b^2 + z^2/c^2 = 1.",
+    "Answers": "4/3 * pi*abc."
+  },
+  {
+    "ID": "3890",
+    "Questions": "integral_S z^2 dx dy, where S is the outside of the ellipsoid x^2/a^2 + y^2/b^2 + z^2/c^2 = 1.",
+    "Answers": "0."
+  },
+  {
+    "ID": "3891",
+    "Questions": "integral_S xz dx dy + xy dy dz + yz dx dz, where S is the outside of the pyramid composed of the planes x=0, y=0, z=0 and x+y+z=1.",
+    "Answers": "1/8."
+  },
+  {
+    "ID": "3892",
+    "Questions": "integral_S yz dx dy + xz dy dz + xy dx dz, where S is the outside of the surface lying in the first octant and consisting of the cylinder x^2+y^2=R^2 and the planes x=0, y=0, z=0 and z=H.",
+    "Answers": "R^2H(2R/3 + pi*H/8)."
+  },
+  {
+    "ID": "3893",
+    "Questions": "integral_S y^2z dx dy + xz dy dz + x^2y dx dz, where S is the outside of the surface lying in the first octant and consisting of the paraboloid of revolution z=x^2+y^2, the cylinder x^2+y^2=1 and the coordinate planes (Fig. 68).",
+    "Answers": "pi/8."
+  ,"images":["Img2/Berman_68.png"]},
+  {
+    "ID": "3894",
+    "Questions": "Transform integral_L (y^2+z^2)dx + (x^2+z^2)dy + (x^2+y^2)dz, taken over a closed contour, to an integral over the surface \"stretched\" over this contour with the aid of Stokes' formula.",
+    "Answers": "2 * integral_S (x-y)dx dy + (y-z)dy dz + (z-x)dx dz."
+  },
+  {
+    "ID": "3895",
+    "Questions": "Evaluate integral_L x^2y^3 dx + dy + z dz, where the contour L is the circle x^2+y^2=R^2, z=0: (a) directly, and (b) by using Stokes' formula, taking as the surface the hemisphere z=+sqrt(R^2-x^2-y^2). The integration is in a positive direction round the circle in the xOy plane.",
+    "Answers": "-pi*R^6/8."
+  },
+  {
+    "ID": "3896",
+    "Questions": "With the aid of Ostrogradskii's formula, transform the following surface integral over a closed surface to a triple integral over the volume of the body bounded by the surface: integral_S x^2 dy dz + y^2 dx dz + z^2 dx dy. The integration is carried out over the outside of surface S.",
+    "Answers": "2 * integral_Omega (x+y+z) dx dy dz."
+  },
+  {
+    "ID": "3897",
+    "Questions": "With the aid of Ostrogradskii's formula, transform the following surface integral over a closed surface to a triple integral over the volume of the body bounded by this surface: integral_S sqrt(x^2+y^2+z^2){cos(N,x)+cos(N,y)+cos(N,z)} ds, where N is the outward normal to surface S.",
+    "Answers": "integral_Omega (x+y+z)/sqrt(x^2+y^2+z^2) dx dy dz."
+  },
+  {
+    "ID": "3898",
+    "Questions": "Evaluate the integral of problem 3897, if S is the sphere of radius R with centre at the origin.",
+    "Answers": "0."
+  },
+  {
+    "ID": "3899",
+    "Questions": "Evaluate the integral integral_S [x^3 cos(N,x)+y^3 cos(N,y)+z^3 cos(N,z)] ds, where S is the sphere of radius R with centre at the origin, and N is the outward normal.",
+    "Answers": "12/5 * pi * R^5."
+  },
+  {
+    "ID": "3900",
+    "Questions": "Evaluate the integrals of problems 3891-3893 by using Ostrogradskii's formula.",
+    "Answers": "This is an instructional problem, not a question with a specific answer."
+  },
+  {
+    "ID": "3901",
+    "Questions": "(xy^2 + x) dx + (y - x^2y) dy = 0.",
+    "Answers": "1 + y^2 = C(1 - x^2)."
+  },
+  {
+    "ID": "3902",
+    "Questions": "xyy' = 1 - x^2.",
+    "Answers": "x^2 + y^2 = ln Cx^2."
+  },
+  {
+    "ID": "3903",
+    "Questions": "yy' = (1-2x)/y.",
+    "Answers": "y = sqrt(C + 3x - 3x^2)."
+  },
+  {
+    "ID": "3904",
+    "Questions": "y' tan x - y = a.",
+    "Answers": "y = C sin x - a."
+  },
+  {
+    "ID": "3905",
+    "Questions": "xy' + y = y^2.",
+    "Answers": "Cx = y / (y-1)."
+  },
+  {
+    "ID": "3906",
+    "Questions": "y' + sqrt((1 - y^2)/(1 - x^2)) = 0.",
+    "Answers": "x sqrt(1 - y^2) + y sqrt(1 - x^2) = C."
+  },
+  {
+    "ID": "3907",
+    "Questions": "sqrt(1 - y^2) dx + y sqrt(1 - x^2) dy = 0.",
+    "Answers": "y = arc sin x + C."
+  },
+  {
+    "ID": "3908",
+    "Questions": "e^-s * (1 + ds/dt) = 1.",
+    "Answers": "e^s = C(1 - e^-t)."
+  },
+  {
+    "ID": "3909",
+    "Questions": "y' = 10^(x+y).",
+    "Answers": "10^x + 10^-y = C."
+  },
+  {
+    "ID": "3910",
+    "Questions": "y' + sin((x+y)/2) = sin((x-y)/2).",
+    "Answers": "ln|tan(y/4)| = C - 2sin(x/2)."
+  },
+  {
+    "ID": "3911",
+    "Questions": "The relationship between the velocity v and the path traversed l in the bore of the gun is given in ballistics by the following: v = al^n / (b + l^n), where v = dl/dt and n < 1. Find the relationship between the time t of motion of the projectile and the distance l travelled along the bore.",
+    "Answers": "t = 1/a [l + b*l^(1-n)/(1-n)]."
+  },
+  {
+    "ID": "3912",
+    "Questions": "If x is the amount of hydriodic acid HI, decomposed at the instant t, the speed of the decomposition (dx/dt) is given by the differential equation dx/dt = k1((a-x)/v)^2 - k2(x/v)^2.",
+    "Answers": "t = v^2/(2*sqrt(k1*k2)) * ln[(sqrt(k1)(a-x) + x*sqrt(k2))/(sqrt(k1)(a-x) - x*sqrt(k2))]."
+  },
+  {
+    "ID": "3913",
+    "Questions": "y' sin x = y ln y; y|x=pi/2 = e.",
+    "Answers": "y = e^(tan(x/2))."
+  },
+  {
+    "ID": "3914",
+    "Questions": "y' = (1+y^2)/(1+x^2); y|x=0 = 1.",
+    "Answers": "y = (1+x)/(1-x)."
+  },
+  {
+    "ID": "3915",
+    "Questions": "sin y cos x dy = cos y sin x dy; y|x=0 = pi/4.",
+    "Answers": "cos x = sqrt(2) cos y."
+  },
+  {
+    "ID": "3916",
+    "Questions": "y - xy' = b(1 + x^2y'); y|x=1 = 1.",
+    "Answers": "y = (b+x)/(1+bx)."
+  },
+  {
+    "ID": "3917",
+    "Questions": "Find the curve passing through the point (2, 3) and having the property that the segment of any tangent to it, lying between the coordinate axes, is bisected by the point of contact.",
+    "Answers": "The hyperbola xy = 6."
+  },
+  {
+    "ID": "3918",
+    "Questions": "Find the curve passing through the point (2, 0) and having the property that the segment of any tangent, between the point of contact and the axis of ordinates, has a constant length equal to 2.",
+    "Answers": "The tractrix y = sqrt(4-x^2) + 2ln|(2-sqrt(4-x^2))/x|."
+  },
+  {
+    "ID": "3919",
+    "Questions": "Find all the curves such that the segment of any tangent, lying between the point of contact and the axis of abscissae, is bisected at its point of intersection with the axis of ordinates.",
+    "Answers": "The parabolas y^2 = Cx."
+  },
+  {
+    "ID": "3920",
+    "Questions": "Find all the curves, for which the subtangent is proportional to the abscissa of the point of contact (the coefficient of proportionality is equal to k).",
+    "Answers": "y^k = Cx."
+  },
+  {
+    "ID": "3921",
+    "Questions": "Find the curve passing through the point (a, 1) and having constant subtangent (= a).",
+    "Answers": "y = e^((x-a)/a)."
+  },
+  {
+    "ID": "3922",
+    "Questions": "Find the curve for which the length of the normal (measured from the point on the curve to its intersection with the axis of abscissae) is a constant a.",
+    "Answers": "(x - C)^2 + y^2 = a^2."
+  },
+  {
+    "ID": "3923",
+    "Questions": "Find the curve, for which the sum of the lengths of the tangent and subtangent at any point is proportional to the product of the coordinates of the point of contact (coefficient of proportionality k).",
+    "Answers": "y = 1/k * ln|C(k^2*x^2 - 1)|."
+  },
+  {
+    "ID": "3924",
+    "Questions": "Find the curve y = f(x) (f(x) >= 0, f(0) = 0), bounding the curvilinear trapezium with base [0, x], the area of which is proportional to the (n + 1)th power of f(x). We are given that f(1) = 1.",
+    "Answers": "x = y^n."
+  },
+  {
+    "ID": "3925",
+    "Questions": "A material particle weighing 1 g moves along a straight line, under the action of a force which is directly proportional to time, measured from the instant t = 0, and inversely proportional to the velocity of the particle. The velocity is 50 cm/sec at t = 10 sec, whilst the force is 4 dynes. What is the velocity a minute after the start of the motion ?",
+    "Answers": "≈ 269.3 cm/sec."
+  },
+  {
+    "ID": "3926",
+    "Questions": "A material particle moves along a straight line, its kinetic energy at an instant t being directly proportional to its average speed in the interval of time from zero to t. Given that the path s = 0 at t = 0, prove that the motion is uniform.",
+    "Answers": "Hint: Differentiate the given relationship, which yields the equation v^2 = (C/m) * (s/t)."
+  },
+  {
+    "ID": "3927",
+    "Questions": "A motor-boat moves in quiet water at a speed v = 10 km/hr. Its motor is switched off at full speed, and its speed reduces to v1 = 6 km/hr after time t = 20 sec. Assuming that the resistance of the water to the boat is proportional to its speed, find the speed 2 min after stopping the motor; find also the distance travelled by the boat during 1 min after stopping the motor.",
+    "Answers": "0.467 km/hr; 85.2 m."
+  },
+  {
+    "ID": "3928",
+    "Questions": "The bottom of a cylindrical vessel with a cross-section S cm^2 and a vertical axis contains a small circular hole of area q cm^2, which can be closed by a diaphragm (as in a camera lens). Fluid is poured into the vessel to a height h. The diaphragm starts to open at time t = 0, the area of the opening being proportional to time and the aperture being completely open after T sec. What is the height H of the fluid in the vessel T' sec after the start of the experiment ? (See problems 2701-2706; also Course, sec. 116).",
+    "Answers": "H = [sqrt(h) - (qT * sqrt(2g)) / (4S * T)]^2."
+  },
+  {
+    "ID": "3929",
+    "Questions": "The rate of cooling of a body is proportional to the difference in temperature between the body and the environment. We assumed that the coefficient of proportionality is constant in problems 2710-2711. It is assumed in certain calculations to be linearly dependent on time: k = k0(1 + at). On this assumption, find the relationship between the body temperature θ and time t, putting θ = θ0 at t = 0, the temperature of the environment being θ1.",
+    "Answers": "ln|(theta_0 - theta_1) / (theta - theta_1)| = k_0 * (t + alpha*t^2 / 2)."
+  },
+  {
+    "ID": "3930",
+    "Questions": "The rate of growth of the area of a young leaf of Queen Victoria, which is well-known to have a circular shape, is proportional to the circumference of the leaf and the amount of sunlight incident on it. The latter is in turn proportional to the area of the leaf and the cosine of the angle between the incident ray and the vertical. Find the relationship between the area S of the leaf and time t, if we know that the area is 1600 cm^2 at 6 a.m. and is 2500 cm^2 at 6 p.m. on the same day. (Assume that the observation is carried out at the equator on the day of the equinox, when the angle between the incident sunlight and the vertical can be taken as 90° at 6 a.m. and at 6 p.m. and 0° at noon.)",
+    "Answers": "If t is time, measured from midnight and expressed in hours, the differential equation of the problem becomes dS / S*sqrt(S) = k * cos(pi(t-12)/12) dt; whence S = 160000 / [9 - sin(pi(t-12)/12)]^2. The function S(t) is defined for 6 <= t <= 18."
+  },
+  {
+    "ID": "3931",
+    "Questions": "y' = cos (x - y) (put u = x - y).",
+    "Answers": "x + cot(u/2) = C."
+  },
+  {
+    "ID": "3932",
+    "Questions": "y' = 3x - 2y + 5.",
+    "Answers": "4y - 6x - 7 = Ce^(-2x)."
+  },
+  {
+    "ID": "3933",
+    "Questions": "y' sqrt(1 + x + y) = x + y - 1.",
+    "Answers": "x + C = 2u + 2/3 * ln|u-1| - 8/3 * ln(u+2), where u = sqrt(1 + x + y)."
+  },
+  {
+    "ID": "3934",
+    "Questions": "y' = (y^2 - 2x^2) / x^2.",
+    "Answers": "y - 2x = Cx^3(y+x)."
+  },
+  {
+    "ID": "3935",
+    "Questions": "y' = (x+y)/(x-y).",
+    "Answers": "arc tan(y/x) = ln C*sqrt(x^2+y^2)."
+  },
+  {
+    "ID": "3936",
+    "Questions": "x dy - y dx = y dy.",
+    "Answers": "ln|y| + x/y = C."
+  },
+  {
+    "ID": "3937",
+    "Questions": "y' = 2xy / (x^2 - y^2).",
+    "Answers": "x^2 + y^2 = Cy."
+  },
+  {
+    "ID": "3938",
+    "Questions": "y' = x/y + y/x.",
+    "Answers": "y = +-x*sqrt(2*ln|Cx|)."
+  },
+  {
+    "ID": "3939",
+    "Questions": "xy' - y = sqrt(x^2+y^2).",
+    "Answers": "x^2 = C^2 + 2Cy."
+  },
+  {
+    "ID": "3940",
+    "Questions": "y^2 + x^2y' = xyy'.",
+    "Answers": "e^(y/x) = Cy."
+  },
+  {
+    "ID": "3941",
+    "Questions": "y' = e^(y/x) + y/x.",
+    "Answers": "ln|Cx| = -e^(-y/x)."
+  },
+  {
+    "ID": "3942",
+    "Questions": "xy' = y ln(y/x).",
+    "Answers": "y = xe^(1+Cx)."
+  },
+  {
+    "ID": "3943",
+    "Questions": "(3y^2 + 3xy + x^2) dx = (x^2 + 2xy) dy.",
+    "Answers": "(x+y)^2 = Cx^3 * e^(-x/(x+y))."
+  },
+  {
+    "ID": "3944",
+    "Questions": "y' = y/x + phi(y/x) / phi'(y/x).",
+    "Answers": "Cx = phi(y/x)."
+  },
+  {
+    "ID": "3945",
+    "Questions": "(xy' - y) arc tan(y/x) = x; y|x=1 = 0.",
+    "Answers": "sqrt(x^2+y^2) = e^((y/x)*arctan(y/x))."
+  },
+  {
+    "ID": "3946",
+    "Questions": "(y^2 - 3x^2) dy + 2xy dx = 0; y|x=0 = 1.",
+    "Answers": "y^3 = y^2 - x^2."
+  },
+  {
+    "ID": "3947",
+    "Questions": "y' = (y^2 - 2xy - x^2)/(y^2 + 2xy - x^2); y|x=-1 = -1.",
+    "Answers": "y = -x."
+  },
+  {
+    "ID": "3948",
+    "Questions": "y(dy/dx)^2 + 2x(dy/dx) - y = 0; y|x=0 = sqrt(5).",
+    "Answers": "y^2 = 5 +- 2*sqrt(5)x."
+  },
+  {
+    "ID": "3949",
+    "Questions": "Reduce the equation y' = y/x + phi(y/x) to a quadrature. What must be the function phi(y/x) for the general solution of the equation to be y = x/ln|Cx|?",
+    "Answers": "If y/x = u, then ln|x| = integral(du/phi(u)); phi(u) = -u^2."
+  },
+  {
+    "ID": "3950",
+    "Questions": "Find the curve, such that the square of the length of the segment, cut off by any tangent from the axis of ordinates, is equal to the product of the coordinates of the point of contact.",
+    "Answers": "x = Ce^(+-2*sqrt(y/x))."
+  },
+  {
+    "ID": "3951",
+    "Questions": "Find the curve, such that the initial ordinate of any tangent is equal to the corresponding subnormal.",
+    "Answers": "x = y * ln|Cy|."
+  },
+  {
+    "ID": "3952",
+    "Questions": "Find the curve for which the length of the radius vector of any point M is equal to the distance between the origin and the point of intersection of the tangent at M with Oy.",
+    "Answers": "x^2 = 2Cy + C^2."
+  },
+  {
+    "ID": "3953",
+    "Questions": "What surface of revolution is represented by the mirror of a projector, if light rays starting from a point source are directed in a parallel pencil after reflexion?",
+    "Answers": "A paraboloid of revolution. Let xOy be the meridian plane of the mirror surface; the required curve lies in this plane; the differential equation is obtained by equating the tangents of the angles of incidence and reflexion, expressed in terms of x, y, y'."
+  },
+  {
+    "ID": "3954",
+    "Questions": "y' + 2y = 4x.",
+    "Answers": "y = Ce^(-2x) + 2x - 1."
+  },
+  {
+    "ID": "3955",
+    "Questions": "y' + 2xy = xe^(-x^2).",
+    "Answers": "y = e^(-x^2)(C + x^2/2)."
+  },
+  {
+    "ID": "3956",
+    "Questions": "y' + (1 - 2x)/x^2 * y = 1.",
+    "Answers": "y = Cx^2 * e^(1/x) + x^2."
+  },
+  {
+    "ID": "3957",
+    "Questions": "(1 + x^2) y' - 2xy = (1 + x^2)^2.",
+    "Answers": "y = (x+C)(1+x^2)."
+  },
+  {
+    "ID": "3958",
+    "Questions": "y' + y = cos x.",
+    "Answers": "y = Ce^(-x) + 1/2(cos x + sin x)."
+  },
+  {
+    "ID": "3959",
+    "Questions": "y' + ay = e^(mx).",
+    "Answers": "If m != -a, then y = Ce^(-ax) + e^(mx)/(m+a); if m = -a, then y = (C+x)e^(mx)."
+  },
+  {
+    "ID": "3960",
+    "Questions": "2y dx + (y^2 - 6x) dy = 0.",
+    "Answers": "y^3 - 2x = Cy^3."
+  },
+  {
+    "ID": "3961",
+    "Questions": "y' = 1 / (2x - y^2).",
+    "Answers": "x = Ce^(2y) + 1/2*y^2 + 1/2*y + 1/4."
+  },
+  {
+    "ID": "3962",
+    "Questions": "y' = y / (2y ln y + y - x).",
+    "Answers": "x = y ln y + C/y."
+  },
+  {
+    "ID": "3963",
+    "Questions": "x(y' - y) = (1 + x^2)e^x.",
+    "Answers": "y = e^x(C + x^2/2 + ln|x|)."
+  },
+  {
+    "ID": "3964",
+    "Questions": "y' + y*phi'(x) - phi(x)*phi'(x) = 0, where phi(x) is a given function.",
+    "Answers": "y = C*e^(-phi(x)) + phi(x) - 1."
+  },
+  {
+    "ID": "3965",
+    "Questions": "y' - y tan x = sec x; y|x=0 = 0.",
+    "Answers": "y = x/cos x."
+  },
+  {
+    "ID": "3966",
+    "Questions": "xy' + y - e^x = 0; y|x=a = b.",
+    "Answers": "y = (e^x + ab - e^a)/x."
+  },
+  {
+    "ID": "3967",
+    "Questions": "xy' - y/(x+1) = x; y|x=1 = 0.",
+    "Answers": "y = (x/(x+1)) * (x-1 + ln|x|)."
+  },
+  {
+    "ID": "3968",
+    "Questions": "t(1 + t^2) dx = (x + xt^2 - t^2) dt; x|t=1 = -pi/4.",
+    "Answers": "x = (pi/4)*sqrt(t^2+1)/t + arc tan t."
+  },
+  {
+    "ID": "3969",
+    "Questions": "Let y1 and y2 be two distinct solutions of the equation y' + P(x) y = Q(x).\n(a) Prove that y = y1 + C(y2 - y1) is the general solution of the equation (C is a constant).\n(b) For what ratio of constants alpha and beta is the linear combination ay1 + by2 a solution of the equation?\n(c) Prove that, if y3 is a third particular solution, different from y1 and y2, the ratio (y2-y1)/(y3-y1) is constant.",
+    "Answers": "(b) alpha + beta = 1."
+  },
+  {
+    "ID": "3970",
+    "Questions": "Prove the identity (see problem 2345): integral from 0 to x of e^(-z^2) dz = e^(-x^2) * integral from 0 to x of e^(t^2) dt.",
+    "Answers": "The identity is proved by differentiating both sides."
+  },
+  {
+    "ID": "3971",
+    "Questions": "Find the curve for which the initial ordinate of any tangent is less than the abscissa of the point of contact by two units of scale.",
+    "Answers": "y = Cx - x ln|x| - 2."
+  },
+  {
+    "ID": "3972",
+    "Questions": "Find the curve for which the area of the rectangle, constructed on the abscissa of any point and the initial ordinate of the tangent at this point, is constant (= a^2).",
+    "Answers": "y = Cx +- a^2/2x. The differential equation of the problem is |xy - x^2y'| = a^2."
+  },
+  {
+    "ID": "3973",
+    "Questions": "Find the curve for which the area of the triangle, formed by the axis of abscissae, the tangent and the radius vector of the point of contact, is constant (= a^2).",
+    "Answers": "x = Cy +- a^2/y. The differential equation is y^2 - xyy' = a^2. (Take the radius vector as hypotenuse)."
+  },
+  {
+    "ID": "3974",
+    "Questions": "A particle of mass m moves along a straight line; a force acts on it, proportional to time (coefficient of proportionality k1) measured from the instant when the velocity is zero. In addition, the particle is subject to the resistance of the medium, proportional to the velocity (coefficient of proportionality k). Find the relationship between velocity and time.",
+    "Answers": "v = (k1/k) * [t - (m/k) + (m/k) * e^(-kt/m)]."
+  },
+  {
+    "ID": "3975",
+    "Questions": "A particle of mass m moves along a straight line; a force acts on it, proportional to the cube of time, measured from the instant when the velocity is v0 (coefficient of proportionality k). In addition, the particle is subject to the resistance of the medium, proportional to the product of velocity and time (coefficient of proportionality k1). Find the relationship between velocity and time.",
+    "Answers": "v = (v_0 + b)e^(-at^2) + b(at^2 - 1), where a = k_1 / (2m), b = 2km / k_1."
+  },
+  {
+    "ID": "3976",
+    "Questions": "The initial temperature 0° C of a body is equal to the temperature of the environment. The body receives heat from a heating device (the rate of heat supply is a given function of time: c*phi(t), where c is the constant specific heat of the body). In addition, the body loses heat to the environment (the rate of cooling is proportional to the temperature difference between the body and the surrounding medium).",
+    "Answers": "theta - theta_0 = e^(-kt) * integral from 0 to t of phi(t)*e^(kt) dt. (Hint. The equation has the form: c * d(theta) / dt = c*phi(t) - k_1(theta - theta_0))."
+  },
+  {
+    "ID": "3977",
+    "Questions": "The potential difference across the terminals of a coil falls uniformly from E0 = 2V to E1 = 1V in the course of 10 sec. What is the current at the end of the tenth second, if it is 16 2/3 amp at the start of the experiment? The coil resistance is 0.12 ohm, its inductance 0.1 Henry.",
+    "Answers": "I = E_0/R + (I_0 - E_0/R)e^(-Rt/L) - t(E_0 - E_1)/(LT)."
+  },
+  {
+    "ID": "3978",
+    "Questions": "Find the current in a coil at the instant t, if its resistance is R, inductance L, initial current I0 = 0, and the electromotive force varies in accordance with the law E = E0 sin(omega*t).",
+    "Answers": "I = (E_0/(R^2+omega^2*L^2)) * [omega*L*e^(-Rt/L) + R*sin(omega*t) - omega*L*cos(omega*t)]."
+  },
+  {
+    "ID": "3979",
+    "Questions": "y' = (x^2+xy+y^2)/x^2.",
+    "Answers": "x = Ce^(-arctan(y/x))."
+  },
+  {
+    "ID": "3980",
+    "Questions": "x^2 dy + (3 - 2xy) dx = 0.",
+    "Answers": "y = (1/x) + Cx^3."
+  },
+  {
+    "ID": "3981",
+    "Questions": "x(x^2+1)y' + y = x(1+x^2)^2.",
+    "Answers": "y = (x^2+1) * [C + x^2/2 + ln|x|]."
+  },
+  {
+    "ID": "3982",
+    "Questions": "y' = (y+1)/x.",
+    "Answers": "y = Cx - 1."
+  },
+  {
+    "ID": "3983",
+    "Questions": "y' = (1+y^2)/(xy(1+x^2)).",
+    "Answers": "(1+x^2)(1+y^2) = Cx^2."
+  },
+  {
+    "ID": "3984",
+    "Questions": "(8y + 10x) dx + (5y + 7x) dy = 0.",
+    "Answers": "y^2 - 2x^2 + 6xy = C. (Note: The textbook seems to have an error in the answer, this is the corrected solution)."
+  },
+  {
+    "ID": "3985",
+    "Questions": "x^2y' = y(y^2 + x^2).",
+    "Answers": "x = Ce^(-x^2/(2y^2))."
+  },
+  {
+    "ID": "3986",
+    "Questions": "(x^2 - xy)/y^2 * y' = tan(y/x).",
+    "Answers": "y = x sin x + Cx."
+  },
+  {
+    "ID": "3987",
+    "Questions": "(x - y cos(y/x)) dx + x cos(y/x) dy = 0.",
+    "Answers": "sin(y/x) = ln|C/x|."
+  },
+  {
+    "ID": "3988",
+    "Questions": "y' = e^(2x) - e^x*y.",
+    "Answers": "y = e^x + Ce^(-e^x)."
+  },
+  {
+    "ID": "3989",
+    "Questions": "dx/(x^2 - xy + y^2) = dy/(2y^2 - xy).",
+    "Answers": "y = C(x-y)^2."
+  },
+  {
+    "ID": "3990",
+    "Questions": "dy/dx = 1/(x cos y + sin 2y).",
+    "Answers": "x = C*e^(sin y) - 2(sin y - 1)."
+  },
+  {
+    "ID": "3991",
+    "Questions": "(x - 2xy - y^2) dy + y^2 dx = 0.",
+    "Answers": "y = C*e^(x/y)."
+  },
+  {
+    "ID": "3992",
+    "Questions": "y' + y cos x = sin x cos x.",
+    "Answers": "y = sin x - 1 + Ce^(-sin x)."
+  },
+  {
+    "ID": "3993",
+    "Questions": "(x+1)y' - ny = e^x(x+1)^(n+1).",
+    "Answers": "y = e^x(x+C)(x+1)^n."
+  },
+  {
+    "ID": "3994",
+    "Questions": "y dx = (y^3 - x) dy.",
+    "Answers": "x = y^3 + Cy."
+  },
+  {
+    "ID": "3995",
+    "Questions": "(dy/dx)^2 - (x+y)(dy/dx) + xy = 0.",
+    "Answers": "(y - x^2/2 - C)(y - Ce^x) = 0."
+  },
+  {
+    "ID": "3996",
+    "Questions": "yy' sin x = cos x(sin x - y^2).",
+    "Answers": "y^2 = sin x + C sin^2 x."
+  },
+  {
+    "ID": "3997",
+    "Questions": "y' = (x+y)^2.",
+    "Answers": "arc tan(x+y) = x+C."
+  },
+  {
+    "ID": "3998",
+    "Questions": "Show that the integral curves of the equation (1-x^2)y' + xy = ax are ellipses and hyperbolas with centres at the point (0, a) and axes parallel to the coordinate axes, each curve having one constant axis equal to the number 2.",
+    "Answers": "y^2 - ax = C*sqrt(1-x^2)."
+  },
+  {
+    "ID": "3999",
+    "Questions": "Find the particular solutions of the equations satisfying the given initial conditions: y' - xy/(x+yy') = 2; y|x=1 = 1.",
+    "Answers": "y^2 - x = 2xy'."
+  },
+  {
+    "ID": "4000",
+    "Questions": "Find the particular solutions of the equations satisfying the given initial conditions: y' - y/(1-x^2) = 1+x; y|x=0 = 1.",
+    "Answers": "y = 1/2 * sqrt((1+x)/(1-x)) * [2+x*sqrt(1-x^2) + arc sin x]."
+  }
+]

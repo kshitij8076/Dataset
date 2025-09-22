@@ -1,0 +1,403 @@
+[
+  {
+    "ID": "E1-1",
+    "Questions": "The word standard in molar enthalpy change implies\n(a) temperature 298 K and pressure 1 atm\n(b) any temperature and pressure 1 atm\n(c) any temperature and pressure 1 bar\n(d) any temperature and pressure",
+    "Answers": "(c) any temperature and pressure 1 bar"
+  },
+  {
+    "ID": "E1-2",
+    "Questions": "The enthalpy change in a reaction does not depend upon\n(a) the state of reactants and products\n(b) the nature of the reactants and products\n(c) different intermediate steps in the reaction\n(d) initial and final enthalpy of the system",
+    "Answers": "(c) different intermediate steps in the reaction"
+  },
+  {
+    "ID": "E1-3",
+    "Questions": "A quantity of 1.6 g sample of NH4NO3 is decomposed in a bomb calorimeter. The temperature of the calorimeter decreases by 6.0 K. The heat capacity of the calorimeter system is 1.25 kJ/K. The molar heat of decomposition for NH₄NO₃ is\n(a) 7.5 kJ/mol\n(b) -600 kJ/mol\n(c) -375 kJ/mol\n(d) 375 kJ/mol",
+    "Answers": "(d) 375 kJ/mol"
+  },
+  {
+    "ID": "E1-4",
+    "Questions": "The difference between enthalpies of reaction at constant pressure and constant volume for the reaction:\n2C₆H₆(l) + 15O₂(g) → 12CO₂(g) + 6H₂O(l)\nat 298 K in kJ is\n(a) -7.43\n(b) +3.72\n(c) -3.72\n(d) +7.43",
+    "Answers": "(a) -7.43"
+  },
+  {
+    "ID": "E1-5",
+    "Questions": "Among the following the reaction for which ΔH = ΔΕ, is\n(a) PCl₅(g) → PCl₃(g) + Cl₂(g)\n(b) H₂(g) + Cl₂(g) → 2HCl(g)\n(c) C₂H₅OH(l) + 3O₂(g) → 2CO₂(g) + 3H₂O(g)\n(d) C₂H₄(g) + H₂(g) → C₂H₆(g)",
+    "Answers": "(b) H₂(g) + Cl₂(g) → 2HCl(g)"
+  },
+  {
+    "ID": "E1-6",
+    "Questions": "The heat capacity of bomb calorimeter is 500 J/°C. A 2°C rise in temperature has been observed on the combustion of 0.1 g of methane. What is the value of ΔΕ per mole of methane?\n(a) 1 kJ\n(b) 160 kJ\n(c) -160 kJ\n(d) -1 kJ",
+    "Answers": "(c) -160 kJ"
+  },
+  {
+    "ID": "E1-7",
+    "Questions": "For the reaction C(s) + 1/2 O₂(g) → CO(g),\n(a) ΔΗ > ΔΕ\n(b) ΔΗ < ΔΕ\n(c) ΔΗ = ΔΕ\n(d) |ΔΗ| > |ΔΕ|",
+    "Answers": "(a) ΔΗ > ΔΕ"
+  },
+  {
+    "ID": "E1-8",
+    "Questions": "The enthalpy of formation of methane(g) at constant pressure is -18,500 cal/mol at 27°C. The enthalpy of formation at constant volume would be\n(a) -19,700 cal\n(b) -17,300 cal\n(c) -18,498.8 cal\n(d) -18,500 cal",
+    "Answers": "(b) -17,300 cal"
+  },
+  {
+    "ID": "E1-9",
+    "Questions": "When 0.18 g of glucose was burnt in a bomb calorimeter, the temperature rose by 4 K. The heat capacity of the calorimeter system is (∆H°c = -2.8 × 10⁶ J/mol glucose)\n(a) 700 J/K\n(b) 700 kJ/K\n(c) 126 J/K\n(d) 7.0 kJ/K",
+    "Answers": "(a) 700 J/K"
+  },
+  {
+    "ID": "E1-10",
+    "Questions": "Geological conditions are sometimes so extreme that quantities neglected in normal laboratory experiments take on an overriding importance. For example, consider the formation of diamond under geophysically typical conditions. The density of graphite is 2.4 g/cm³ and that of diamond is 3.6 g/cm³ at a certain temperature and 500 kbar. By how much does ΔU_trans differs from ΔH_trans for the graphite to diamond transition?\n(a) 83.33 kJ/mol\n(b) 0.83 kJ/mol\n(c) 8.33 × 10⁷ kJ/mol\n(d) 83.33 J/mol",
+    "Answers": "(a) 83.33 kJ/mol"
+  },
+  {
+    "ID": "E1-11",
+    "Questions": "Study the following thermochemical equations:\nΑ → Β; ΔΗ = +100 kcal\nB → C; ∆H = -80 kcal\nThe correct order of enthalpies of formation of A, B and C is\n(a) A < B < C\n(b) A < C < B\n(c) C < A < B\n(d) B < C < A",
+    "Answers": "(b) A < C < B"
+  },
+  {
+    "ID": "E1-12",
+    "Questions": "The standard enthalpy of formation of a substance\n(a) is always positive\n(b) is always negative\n(c) is zero\n(d) may be positive, negative or zero",
+    "Answers": "(d) may be positive, negative or zero"
+  },
+  {
+    "ID": "E1-13",
+    "Questions": "The enthalpy of formation of ammonia gas is -46.0 kJ/mol. The enthalpy change for the reaction:\n2NH₃(g) → N₂(g) + 3H₂(g) is\n(a) 46.0 kJ\n(b) 92.0 kJ\n(c) 23.0 kJ\n(d) -92.0 kJ",
+    "Answers": "(b) 92.0 kJ"
+  },
+  {
+    "ID": "E1-14",
+    "Questions": "The enthalpy of formation of HCl(g) from the following reaction:\nH₂(g) + Cl₂(g) → 2HCl(g) + 44 kcal is\n(a) -44 kcal mol⁻¹\n(b) -22 kcal mol⁻¹\n(c) 22 kcal mol⁻¹\n(d) -88 kcal mol⁻¹",
+    "Answers": "(b) -22 kcal mol⁻¹"
+  },
+  {
+    "ID": "E1-15",
+    "Questions": "Formation of ozone from oxygen is an endothermic process. In the upper atmosphere, ultraviolet is the source of energy that drives the reaction. Assuming that both the reactions and the products of the reaction are in standard states, the standard enthalpy of formation of ozone from the following information:\n3O₂(g) → 2O₃(g), ΔH° = 286 kJ, is\n(a) +143 kJ/mol\n(b) -143 kJ/mol\n(c) +286 kJ/mol\n(d) -286 kJ/mol",
+    "Answers": "(a) +143 kJ/mol"
+  },
+  {
+    "ID": "E1-16",
+    "Questions": "The ΔH°f for CO₂(g), CO(g) and H₂O(g) are -393.5, -110.5 and -241.8 kJ mol⁻¹, respectively. The standard enthalpy change (in kJ) for the reaction:\nCO₂(g) + H₂(g) → CO(g) + H₂O(g) is\n(a) 524.1\n(b) 41.2\n(c) -262.5\n(d) -41.2",
+    "Answers": "(b) 41.2"
+  },
+  {
+    "ID": "E1-17",
+    "Questions": "The value of ΔH°f of U₃O₈(s) is –853.5 kJ mol⁻¹. ΔH° for the reaction: 3UO₂(s) + O₂(g) → U₃O₈(s), is -76.00 kJ. The value of ΔH°f of UO₂(s) is\n(a) -259.17 kJ\n(b) -310.17 kJ\n(c) +259.Generated json. 17 kJ\n(d) 930.51 kJ",
+    "Answers": "(a) -259.17 kJ"
+  },
+  {
+    "ID": "E1-18",
+    "Questions": "Given enthalpy of formation of CO₂(g) and CaO(s) are -94.0 kJ and -152 kJ, respectively, and the enthalpy of the reaction: CaCO₃(s) → CaO(s) + CO₂(g) is 42 kJ. The enthalpy of formation of CaCO₃(s) is\n(a) -42 kJ\n(b) -202 kJ\n(c) +202 kJ\n(d) -288 kJ",
+    "Answers": "(d) -288 kJ"
+  },
+  {
+    "ID": "E1-19",
+    "Questions": "The standard enthalpies of formation of NH₃(g), CuO(s) and H₂O(l) are −46, -155 and -285 kJ/mol, respectively. The enthalpy change when 6.80 g of NH₃ is passed over cupric oxide is\n(a) -59.6 kJ\n(b) +59.6 kJ\n(c) -298 kJ\n(d) -119.2 kJ",
+    "Answers": "(a) -59.6 kJ"
+  },
+  {
+    "ID": "E1-20",
+    "Questions": "The standard enthalpies of formation of H₂O(l), Li⁺(aq) and OH⁻(aq) are -285.8, -278.5 and -228.9 kJ/mol, respectively. The standard enthalpy change for the reaction is\n2Li(s) + 2H₂O(l) → 2Li⁺(aq) + 2OH⁻(aq) + H₂(g)\n(a) +443.2 kJ\n(b) -443.2 kJ\n(c) -221.6 kJ\n(d) +221.6 kJ",
+    "Answers": "(b) -443.2 kJ"
+  },
+  {
+    "ID": "E1-21",
+    "Questions": "The standard enthalpy of combustion of solid boron is numerically equal to\n(a) 1/2 ΔH°f(B₂O₃(s))\n(b) ΔH°f(B₂O₃(s))\n(c) -ΔH°f(B₂O₃(s))\n(d) -1/2 ΔH°f(B₂O₃(s))",
+    "Answers": "(a) 1/2 ΔH°f(B₂O₃(s))"
+  },
+  {
+    "ID": "E1-22",
+    "Questions": "The heat evolved in the combustion of glucose, C₆H₁₂O₆ is -680 kcal/mol. The mass of CO₂ produced, when 170 kcal of heat is evolved in the combustion of glucose is\n(a) 45 g\n(b) 66 g\n(c) 11 g\n(d) 44 g",
+    "Answers": "(b) 66 g"
+  },
+  {
+    "ID": "E1-23",
+    "Questions": "Standard molar enthalpy of formation of CO₂ is equal to\n(a) zero\n(b) the standard molar enthalpy of combustion of gaseous carbon\n(c) the sum of standard molar enthalpies of formation of CO and O₂\n(d) the standard molar enthalpy of combustion of carbon (graphite)",
+    "Answers": "(d) the standard molar enthalpy of combustion of carbon (graphite)"
+  },
+  {
+    "ID": "E1-24",
+    "Questions": "Heat evolved in the complete combustion of 1.026 kg sucrose at constant pressure will be\nC₁₂H₂₂O₁₁(s) + 12O₂(g) → 12CO₂(g) + 11H₂O(l); ΔΗ = −5.65 × 10³ kJ\n(a) 1.695 × 10⁴ kJ\n(b) 5.65 x 10³ kJ\n(c) 1.883 × 10³ kJ\n(d) 3.22 × 10⁴ kJ",
+    "Answers": "(a) 1.695 × 10⁴ kJ"
+  },
+  {
+    "ID": "E1-25",
+    "Questions": "Enthalpies of combustion of CH₄, C₂H₄ and C₂H₆ are -890, -1411 and -1560 kJ/mole, respectively. Which has the highest fuel value (heat produced per gram of the fuel)?\n(a) CH₄\n(b) C₂H₆\n(c) C₂H₄\n(d) all same",
+    "Answers": "(a) CH₄"
+  },
+  {
+    "ID": "E1-26",
+    "Questions": "The enthalpy of combustion of methane is -890 kJ. The volume of methane at 0°C and 1 atm to be burnt to produce 2670 kJ heat is\n(a) 33.6 L\n(b) 67.2 L\n(c) 7.47 L\n(d) 11.2 L",
+    "Answers": "(b) 67.2 L"
+  },
+  {
+    "ID": "E1-27",
+    "Questions": "Enthalpies of combustion of CH₄, C₂H₆ and C₃H₈ are -210, -370 and -526 kcal/mol, respectively. Enthalpy of combustion of hexane can be predicted as\n(a) -840 kcal mol⁻¹\n(b) -684 kcal mol⁻¹\n(c) -1000 kcal mol⁻¹\n(d) -500 kcal mol⁻¹",
+    "Answers": "(c) -1000 kcal mol⁻¹"
+  },
+  {
+    "ID": "E1-28",
+    "Questions": "For a specific work, on an average a person requires 5616 kJ of energy. How many kilograms of glucose must be consumed if all the required energy has to be derived from glucose only? ΔH for combustion of glucose is -2808 kJ mol⁻¹.\n(a) 0.720 kg\n(b) 0.36 kg\n(c) 0.18 kg\n(d) 1.0 kg",
+    "Answers": "(b) 0.36 kg"
+  },
+  {
+    "ID": "E1-29",
+    "Questions": "Benzene burns in oxygen according to the following reactions:\nC₆H₆(l) + 15/2 O₂(g) → 3H₂O(l) + 6CO₂(g)\nIf the standard enthalpies of formation of C₆H₆(l), H₂O(l) and CO₂(g) are 11.7, -68.1 and -94 kcal/mole, respectively, the amount of heat that will be liberated by burning 780 g of benzene is\n(a) 7800 kcal\n(b) 780 kcal\n(c) 78 kcal\n(d) 608.4 kcal",
+    "Answers": "(a) 7800 kcal"
+  },
+  {
+    "ID": "E1-30",
+    "Questions": "The enthalpy of combustion at 25°C of H₂(g), cyclohexane(l) and cyclohexene(l) are -241, -3920 and -3800 kJ/mol, respectively. The enthalpy of hydrogenation of cyclohexene(l) is\n(a) -121 kJ/mol\n(b) +121 kJ/mol\n(c) -242 kJ/mol\n(d) +242 kJ/mol",
+    "Answers": "(a) -121 kJ/mol"
+  },
+  {
+    "ID": "E1-31",
+    "Questions": "The enthalpy change involved in the oxidation of glucose is -2880 kJ/mol. Twenty five per cent of this energy is available for muscular work. If 100 kJ of muscular work is needed to walk 1 km, what is the maximum distance that a person will be able to walk after eating 120 g of glucose?\n(a) 19.2 km\n(b) 9.6 km\n(c) 2.4 km\n(d) 4.8 km",
+    "Answers": "(d) 4.8 km"
+  },
+  {
+    "ID": "E1-32",
+    "Questions": "A geyser, operating on LPG (liquefied petroleum gas) heats water flowing at the rate of 3.0 litres per minute, from 27°C to 77°C. If the heat of combustion of LPG is 40,000 J/g, how much fuel, in g, is consumed per minute? (Specific heat capacity of water is 4200 J/kg-K)\n(a) 15.25\n(b) 15.50\n(c) 15.75\n(d) 16.00",
+    "Answers": "(c) 15.75"
+  },
+  {
+    "ID": "E1-33",
+    "Questions": "For the allotropic change represented by the equation: C(graphite) → C(diamond); ΔΗ = +1.9 kJ. If 6.0 g of diamond and 6.0 g of graphite is burnt completely in separate experiments, then the heat liberated will be higher by\n(a) 1.9 kJ in case of graphite\n(b) 1.9 kJ in case of diamond\n(c) 0.95 kJ in case of diamond\n(d) 0.95 kJ in case of graphite",
+    "Answers": "(d) 0.95 kJ in case of graphite"
+  },
+  {
+    "ID": "E1-34",
+    "Questions": "Equal volumes of one molar hydrochloric acid and one molar sulphuric acid are neutralized completely by dilute NaOH solution by which X and Y kcal of heat are liberated, respectively. Which of the following is true?\n(a) X = Y\n(b) 2X = Y\n(c) X=2Y\n(d) none of these",
+    "Answers": "(b) 2X = Y"
+  },
+  {
+    "ID": "E1-35",
+    "Questions": "Enthalpy of neutralization of oxalic acid is -25.4 kcal/mol using strong base, NaOH. Enthalpy change for the process: H₂C₂O₄(aq) → 2H⁺(aq) + C₂O₄²⁻(aq) is about\n(a) 2.0 kcal\n(b) -11.7 kcal\n(c) 1.0 kcal\n(d) 4.0 kcal",
+    "Answers": "(a) 2.0 kcal"
+  },
+  {
+    "ID": "E1-36",
+    "Questions": "A solution of 500 ml of 2 M-KOH is added to 500 ml of 2 M-HCl and the mixture is well shaken. The rise in temperature T₁ is noted. The experiment is again performed using 250 ml of KOH solution and 500 ml of HCl solution and rise in temperature T₂ is again noted. Which of the following is correct?\n(a) T₁ = T₂\n(b) T₁ is 2 times as larger as T₂\n(c) T₂ is twice larger as T₁\n(d) T₁ is 1.5 times as larger as T₂",
+    "Answers": "(d) T₁ is 1.5 times as larger as T₂"
+  },
+  {
+    "ID": "E1-37",
+    "Questions": "Under identical conditions, how many millilitres of 1 M-KOH and 2 M-H₂SO₄ solutions are required to produce a resulting volume of 100 ml with the highest rise in temperature?\n(a) 80, 20\n(b) 20, 80\n(c) 60, 40\n(d) 50, 50",
+    "Answers": "(a) 80, 20"
+  },
+  {
+    "ID": "E1-38",
+    "Questions": "Enthalpy of neutralization of the reaction between CH₃COOH(aq) and NaOH(aq) is -13.2 kcal/eq and that of the reaction between H₂SO₄(aq) and KOH(aq) is -13.7 kcal/eq. The enthalpy of dissociation of CH₃COOH(aq) is\n(a) -0.5 kcal eq⁻¹\n(b) +0.5 kcal eq⁻¹\n(c) -26.9 kcal eq⁻¹\n(d) +13.45 kcal eq⁻¹",
+    "Answers": "(b) +0.5 kcal eq⁻¹"
+  },
+  {
+    "ID": "E1-39",
+    "Questions": "Enthalpy of neutralization of H₃PO₃ by NaOH is -106.68 kJ/mol. If the enthalpy of neutralization of HCl by NaOH is -55.84 kJ/mol. The ΔH_ionization of H₃PO₃ into its ions is\n(a) 50.84 kJ/mol\n(b) 5 kJ/mol\n(c) 10 kJ/mol\n(d) 2.5 kJ/mol",
+    "Answers": "(b) 5 kJ/mol"
+  },
+  {
+    "ID": "E1-40",
+    "Questions": "Given that: C(s) + O₂(g) → CO₂(g); ΔH° = -X kJ\n2CO(g) + O₂(g) → 2CO₂(g); ΔH° = − Y kJ\nThe enthalpy of formation of carbon monoxide will be\n(a) (2X-Y)/2\n(b) (Y-2X)/2\n(c) 2X - Y\n(d) Y - 2X",
+    "Answers": "(b) (Y-2X)/2"
+  },
+  {
+    "ID": "E1-41",
+    "Questions": "The standard heat of combustion of propane is -2220.1 kJ/mol. The standard heat of vaporization of liquid water is 44 kJ/mol. What is the ΔH° of the reaction:\nC₃H₈(g) + 5O₂(g) → 3CO₂(g) + 4H₂O(g)?\n(a) -2220.1 kJ\n(b) -2044.1 kJ\n(c) -2396.1 kJ\n(d) -2176.1 kJ",
+    "Answers": "(b) -2044.1 kJ"
+  },
+  {
+    "ID": "E1-42",
+    "Questions": "Calculate ΔH for ZnSO₄(s) from the following data:\nZnS(s) → Zn(s) + S (rhombic), ΔΗ₁ = 44 kcal/mol\n2ZnS(s) + 3O₂(g) → 2ZnO(s) + 2SO₂(g), ΔΗ₂ = −221.88 kcal/mol\n2SO₂(g) + O₂(g) → 2SO₃(g), ΔΗ₃ = -46.88 kcal/mol\nZnSO₄(s) → ZnO(s) + SO₃(g), ΔΗ₄ = 55.1 kcal/mol\n(a) -233.48 kcal/mol\n(b) -343.48 kcal/mol\n(c) -434.84 kcal/mol\n(d) -311.53 kcal/mol",
+    "Answers": "(a) -233.48 kcal/mol"
+  },
+  {
+    "ID": "E1-43",
+    "Questions": "The value of ΔH_sol of anhydrous copper (II) sulphate is -66.11 kJ. Dissolution of 1 mole of blue vitriol, [Copper (II) sulphate pentahydrate] is followed by absorption of 11.5 kJ of heat. The enthalpy of dehydration of blue vitriol is\n(a) -77.61 kJ\n(b) +77.61 kJ\n(c) -54.61 kJ\n(d) +54.61 kJ",
+    "Answers": "(b) +77.61 kJ"
+  },
+  {
+    "ID": "E1-44",
+    "Questions": "The data below refers to gas phase reaction at constant pressure at 25°C.\nCH₃–CH₃ → CH₃–CH₂• + H•; ΔΗ₁ = +420 kJ mol⁻¹\nCH₃-CH₂• → CH₂=CH₂ + H•; ΔΗ₂ = +168 kJ mol⁻¹\nFrom these data, the enthalpy change ΔH for the reaction: 2CH₃–CH₂• → CH₃–CH₃ + CH₂=CH₂ is\n(a) +250 kJ\n(b) +588 kJ\n(c) -252 kJ\n(d) -588 kJ",
+    "Answers": "(c) -252 kJ"
+  },
+  {
+    "ID": "E1-45",
+    "Questions": "Study the following thermochemical data:\nS + O₂ → SO₂; ΔΗ = -298.2 kJ\nSO₂ + 1/2 O₂ → SO₃; ΔΗ = -98.2 kJ\nSO₃ + H₂O → H₂SO₄; ΔΗ = -130.2 kJ\nH₂ + 1/2 O₂ → H₂O; ΔΗ = -287.3 kJ\nThe enthalpy of formation of H₂SO₄ at 298 K will be\n(a) -433.7 kJ\n(b) -650.3 kJ\n(c) +320.5 kJ\n(d) -813.9 kJ",
+    "Answers": "(d) -813.9 kJ"
+  },
+  {
+    "ID": "E1-46",
+    "Questions": "Based on the following thermochemical equations\nH₂O(g) + C(s) → CO(g) + H₂(g); ΔΗ = 131 kJ\nCO(g) + 1/2 O₂(g) → CO₂(g); ΔH = -282 kJ\nH₂(g) + 1/2 O₂(g) → H₂O(g); ΔH = -242 kJ\nC(s) + O₂(g) → CO₂(g); ΔH = X kJ\nThe value of 'X' will be\n(a) -393 kJ\n(b) -655 kJ\n(c) +393 kJ\n(d) +655 kJ",
+    "Answers": "(a) -393 kJ"
+  },
+  {
+    "ID": "E1-47",
+    "Questions": "Enthalpies of solution of BaCl₂(s) and BaCl₂·2H₂O(s) are -20.6 kJ/mol and 8.8 kJ/mol, respectively. ΔΗ hydration of BaCl₂(s) to BaCl₂·2H₂O(s) is\n(a) -29.4 kJ\n(b) -11.8 kJ\n(c) 29.6 kJ\n(d) 11.8 kJ",
+    "Answers": "(a) -29.4 kJ"
+  },
+  {
+    "ID": "E1-48",
+    "Questions": "The dissolution of CaCl₂·6H₂O in a large volume of water is endothermic to the extent of 3.5 kcal/mol. For the reaction, CaCl₂(s) + 6H₂O(l) → CaCl₂·6H₂O(s); ΔΗ is -23.2 kcal. The heat of solution of anhydrous CaCl₂ in large quantity of water will be\n(a) -26.7 kcal mol⁻¹\n(b) -19.7 kcal mol⁻¹\n(c) 19.7 kcal mol⁻¹\n(d) 26.7 kcal mol⁻¹",
+    "Answers": "(b) -19.7 kcal mol⁻¹"
+  },
+  {
+    "ID": "E1-49",
+    "Questions": "Given two processes:\n(i) 1/2 P₄(s) + 3Cl₂(g) → 2PCl₃(l); ΔΗ = -635 kJ\n(ii) PCl₃(l) + Cl₂(g) → PCl₅(s); ΔΗ = -137 kJ\nThe value of ΔH_f of PCl₅(s) is\n(a) 454.5 kJ mol⁻¹\n(b) -454.5 kJ mol⁻¹\n(c) -772 kJ mol⁻¹\n(d) -498 kJ mol⁻¹",
+    "Answers": "(b) -454.5 kJ mol⁻¹"
+  },
+  {
+    "ID": "E1-50",
+    "Questions": "Calculate ΔH°f for aqueous chloride ion from the following data:\n1/2 H₂(g) + 1/2 Cl₂(g) → HCl(g), ΔH°f = -92.4 kJ\nHCl(g) + nH₂O(l) → H⁺(aq) + Cl⁻(aq), ΔH° = -74.8 kJ\nΔH°f (H⁺, aq.) = 0.0 kJ\n(a) 0.0\n(b) +83.6 kJ\n(c) +167.2 kJ\n(d) -167.2 kJ",
+    "Answers": "(d) -167.2 kJ"
+  },
+  {
+    "ID": "E1-51",
+    "Questions": "Tungsten carbide is very hard and is used to make cutting tools and rock drills. What is the enthalpy of formation (in kJ/mol) of tungsten carbide? ...\n2W(s) + 3O₂(g) → 2WO₃(s); ΔΗ = -1680.6 kJ\nC(graphite) + O₂(g) → CO₂(g); ΔΗ = -393.5 kJ\n2WC(s) + 5O₂(g) → 2WO₃(s) + 2CO₂(g); ΔΗ = -2391.6 kJ\n(a) -38.0\n(b) -76.0\n(c) -19.0\n(d) -1233.8",
+    "Answers": "(a) -38.0"
+  },
+  {
+    "ID": "E1-52",
+    "Questions": "Diborane is a potential rocket fuel... Calculate the enthalpy change for the combustion of diborane.\n2B(s) + 3/2 O₂(g) → B₂O₃(s); ΔΗ = -1273 kJ/mol\nH₂(g) + 1/2 O₂(g) → H₂O(l); ΔΗ = -286 kJ/mol\nH₂O(l) → H₂O(g); ΔH = 44 kJ/mol\n2B(s) + 3H₂(g) → B₂H₆(g); ΔH = 36 kJ/mol\n(a) -2167 kJ/mol\n(b) -1478 kJ/mol\n(c) -2035 kJ/mol\n(d) -1999 kJ/mol",
+    "Answers": "(c) -2035 kJ/mol"
+  },
+  {
+    "ID": "E1-53",
+    "Questions": "Calculate the enthalpy of formation (in kcal/mol) of anhydrous Al₂Cl₆ from the following data:\n2Al(s) + 6HCl(aq) → Al₂Cl₆(aq) + 3H₂(g); ΔΗ = -239.760 kcal\nH₂(g) + Cl₂(g) → 2HCl(g); ΔH = -44 kcal\nHCl(g) + aq → HCl(aq); ΔΗ = -17.315 kcal\nAl₂Cl₆(s) + aq → Al₂Cl₆(aq); ΔΗ = -153.690 kcal\n(a) -371.76\n(b) -321.960\n(c) -218.07\n(d) -525.45",
+    "Answers": "(b) -321.960"
+  },
+  {
+    "ID": "E1-54",
+    "Questions": "Which of the following salts shall cause more cooling when one mole of the salt is dissolved in the same amount of water? (Integral heat of solution at 298 K is given for each solute.)\n(a) KNO₃; ΔΗ = 35.4 kJ/mol\n(b) NaCl; ΔH = 5.35 kJ/mol\n(c) KOH; ΔΗ = -55.6 kJ/mol\n(d) HBr; ΔH = -83.3 kJ/mol",
+    "Answers": "(a) KNO₃; ΔΗ = 35.4 kJ/mol"
+  },
+  {
+    "ID": "E1-55",
+    "Questions": "When 1 mole of Na(s) is dissolved in large volume of water at 298 K and 1 bar, 184 kJ/mol heat is released. When 1 mole of Na₂O(s) is dissolved in large volume of water at 298 K and 1 bar, 238 kJ/mol. If the enthalpy of formation of water is -286 kJ/mol, then the enthalpy of formation of sodium oxide is\n(a) +54 kJ/mol\n(b) +156 kJ/mol\n(c) -416 kJ/mol\n(d) -130 kJ/mol",
+    "Answers": "(c) -416 kJ/mol"
+  },
+  {
+    "ID": "E1-56",
+    "Questions": "The factor of ΔG values is important in metallurgy. The ΔG values for the following reactions at 800°C are given as:\nS₂(s) + 2O₂(g) → 2SO₂(g); ΔG = -544 kJ\n2Zn(s) + S₂(s) → 2ZnS(s); ΔG = -293 kJ\n2Zn(s) + O₂(g) → 2ZnO(s); ΔG = -480 kJ\nThe ΔG for the reaction: 2ZnS(s) + 3O₂(g) → 2ZnO(s) + 2SO₂(g) will be\n(a) -357 kJ\n(b) -731 kJ\n(c) -773 kJ\n(d) -229 kJ",
+    "Answers": "(b) -731 kJ"
+  },
+  {
+    "ID": "E1-57",
+    "Questions": "Consider the reaction, C₆H₁₂O₆(s) + 6O₂(g) → 6CO₂(g) + 6H₂O(l). Which of the following expressions is incorrect?\n(a) ΔH°_reaction = 6ΔH°_f(CO₂, g) + 6ΔH°_f(H₂O, l) - ΔH°_f(C₆H₁₂O₆, s)\n(b) ΔG°_reaction = 6ΔG°_f(CO₂, g) + 6ΔG°_f(H₂O, l) - ΔG°_f(C₆H₁₂O₆, s)\n(c) ΔS°_reaction = 6S°(CO₂, g) + 6S°(H₂O, l) - S°(C₆H₁₂O₆, s) - 6S°(O₂, g)\n(d) ΔS°_reaction = 6S°(CO₂, g) + 6S°(H₂O, l) - S°(C₆H₁₂O₆, s) - S°(O₂, g)",
+    "Answers": "(c) ΔS°_reaction = 6S°(CO₂, g) + 6S°(H₂O, l) - S°(C₆H₁₂O₆, s)"
+  },
+  {
+    "ID": "E1-58",
+    "Questions": "Calculate the free energy change for the reaction: H₂(g) + Cl₂(g) → 2HCl(g) by using the following data at the reaction temperature of 27°C.\nBond enthalpies (kJ/mol): H-H = 435; Cl-Cl = 240; H-Cl = 430\nEntropies (J/K-mol): H₂ = 130; Cl₂ = 222; HCl = 186\n(a) -185 kJ\n(b) -20 kJ\n(c) -179 kJ\n(d) -191 kJ",
+    "Answers": "(c) -179 kJ"
+  },
+  {
+    "ID": "E1-59",
+    "Questions": "The ΔG° values for the hydrolysis of creatine phosphate (creatine-P) and glucose-6-phosphate (G-6-P) are\n(i) Creatine-P + H₂O → Creatine + P; ΔG° = -29.2 kJ\n(ii) G-6-P + H₂O → G + P; ΔG° = -12.4 kJ\nΔG° for the reaction: G-6-P + Creatine → G + Creatine-P, is\n(a) +16.8 kJ\n(b) -16.8 kJ\n(c) -41.6 kJ\n(d) +41.6 kJ",
+    "Answers": "(a) +16.8 kJ"
+  },
+  {
+    "ID": "E1-60",
+    "Questions": "Calculate the standard free energy change for the ionization: HF(aq) → H⁺(aq) + F⁻(aq) from the following data:\nHF(aq) → HF(g); ΔG° = 23.9 kJ\nHF(g) → H(g) + F(g); ΔG° = 555.1 kJ\nH(g) → H⁺(g) + e⁻; ΔG° = 1320.2 kJ\nF(g) + e⁻ → F⁻(g); ΔG° = -347.5 kJ\nH⁺(g) + F⁻(g) → H⁺(aq) + F⁻(aq); ΔG° = -1513.6 kJ\n(a) -38.1 kJ\n(b) +38.1 kJ\n(c) -1489.7 kJ\n(d) -1513.6 kJ",
+    "Answers": "(b) +38.1 kJ"
+  },
+  {
+    "ID": "E1-61",
+    "Questions": "Calculate the standard free energy of the reaction at 27°C for the combustion of methane using the given data: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)\nSpecies CH₄(g) O₂(g) CO₂(g) H₂O(l)\nΔH°_f/(kJ mol⁻¹) -74.5 0 -393.5 -286.0\nS°/(J K⁻¹ mol⁻¹) 186 205 212 70\n(a) -891.0 kJ/mol\n(b) -240 kJ/mol\n(c) -819 kJ/mol\n(d) -963 kJ/mol",
+    "Answers": "(c) -819 kJ/mol"
+  },
+  {
+    "ID": "E1-62",
+    "Questions": "ΔH°f for NF₃(g) is -113 kJ/mol. Bond energy for the N-F bond is 273.5 kJ/mol. The bond energies of N₂ and F₂, if their magnitudes are in the ratio 6:1, are, respectively,\n(a) 822.6, 137.1 kJ/mol\n(b) 979.8, 163.3 kJ/mol\n(c) 943.32, 157.22 kJ/mol\n(d) 762.6, 127.1 kJ/mol",
+    "Answers": "(c) 943.32, 157.22 kJ/mol"
+  },
+  {
+    "ID": "E1-63",
+    "Questions": "Among the following, for which reaction heat of reaction represents bond energy of HCl?\n(a) HCl(g) → H(g) + Cl(g)\n(b) 2HCl(g) → H₂(g) + Cl₂(g)\n(c) HCl(g) → ½ H₂(g) + ½ Cl₂(g)\n(d) HCl(g) → H⁺(g) + Cl⁻(g)",
+    "Answers": "(a) HCl(g) → H(g) + Cl(g)"
+  },
+  {
+    "ID": "E1-64",
+    "Questions": "The bond energies (in kJ/mol) at 25°C are C-C = 346, C-H = 413, H-H = 437, C=C = 611. From these data, the value of ΔΗ at 25°C for the reaction Cyclohexene + H₂ → Cyclohexane is\n(a) -289 kJ mol⁻¹\n(b) -124 kJ mol⁻¹\n(c) 124 kJ mol⁻¹\n(d) 289 kJ mol⁻¹",
+    "Answers": "(b) -124 kJ mol⁻¹"
+  },
+  {
+    "ID": "E1-65",
+    "Questions": "Heat evolved in the reaction H₂(g) + Cl₂(g) → 2HCl(g) is 182 kJ. Bond energies of H-H = 430 kJ/mole and Cl-Cl = 242 kJ/mole. The H-Cl bond energy is\n(a) 763 kJ/mole\n(b) 245 kJ/mole\n(c) 336 kJ/mole\n(d) 154 kJ/mole",
+    "Answers": "(b) 245 kJ/mole"
+  },
+  {
+    "ID": "E1-66",
+    "Questions": "ΔΗ for the reaction 2C(s) + 3H₂(g) → C₂H₆(g) is –20.24 kcal/mol. The bond energies (in kcal/mol) of C-C, C-H and H-H are 63, 85.6 and 102.6, respectively. The enthalpy of sublimation of C(s) is\n(a) 124.3 kcal/mol\n(b) 185.3 kcal/mol\n(c) 158.3 kcal/mol\n(d) 211.5 kcal/mol",
+    "Answers": "(a) 124.3 kcal/mol"
+  },
+  {
+    "ID": "E1-67",
+    "Questions": "Sublimation energy of Ca is 121 kJ/mol. Dissociation energy of Cl₂ is 242.8 kJ/mol, the total ionization energy of Ca(g) → Ca²⁺(g) is 2422 kJ/mol and electron affinity of Cl is -355 kJ/mol. Lattice energy of CaCl₂ is -2430.8 kJ/mol. What is ΔΗ for the process Ca(s) + Cl₂(g) → CaCl₂(s)?\n(a) -355 kJ mol⁻¹\n(b) +3550 kJ mol⁻¹\n(c) -35.5 kJ mol⁻¹\n(d) -1720 kJ mol⁻¹",
+    "Answers": "(a) -355 kJ mol⁻¹"
+  },
+  {
+    "ID": "E1-68",
+    "Questions": "The following are various ΔΗ values (kJ per mol): ΔΗ_f (NaCl) = 411.2; ΔΗ_sub (Na, g) = 107.3; ΔΗ_diss (Cl, g) = 121.7; ΔΗ_IE (Na, g) = 495.4; ΔΗ_EA (Cl, g) = 348.5. The Lattice enthalpy of NaCl(s) is\n(a) 495.4 kJ\n(b) 107.3 kJ\n(c) 411.2 kJ\n(d) 787.1 kJ",
+    "Answers": "(d) 787.1 kJ"
+  },
+  {
+    "ID": "E1-69",
+    "Questions": "The enthalpy of hydrogenation of benzene is -49.8 kcal/mol while its resonance energy is 36.0 kcal/mol. The enthalpy of hydrogenation of cyclohexane is\n(a) -4.6 kcal\n(b) -28.6 kcal/mol\n(c) -85.8 kcal/mol\n(d) -13.8 kcal/mol",
+    "Answers": "(b) -28.6 kcal/mol"
+  },
+  {
+    "ID": "E1-70",
+    "Questions": "The enthalpy of hydrogenation of benzene is -51.0 kcal/mol. If enthalpy of hydrogenation of 1,4-cyclohexadiene and cyclohexene is -58 kcal/mol and -29 kcal/mol, respectively, what is the resonance energy of benzene?\n(a) 29 kcal/mole\n(b) 36 kcal/mole\n(c) 58 kcal/mole\n(d) 7 kcal/mole",
+    "Answers": "(b) 36 kcal/mole"
+  },
+  {
+    "ID": "E1-71",
+    "Questions": "Use the following data to calculate the enthalpy of hydration for caesium iodide and caesium hydroxide, respectively:\nCompound Lattice energy (kJ/mol) ΔH_solution (kJ/mol)\nCsI +604 +33\nCsOH +724 -72\n(a) -571 kJ/mol and -796 kJ/mol\n(b) 637 kJ/mol and 652 kJ/mol\n(c) -637 kJ/mol and -652 kJ/mol\n(d) 571 kJ/mol and 796 kJ/mol",
+    "Answers": "(a) -571 kJ/mol and -796 kJ/mol"
+  },
+  {
+    "ID": "E1-72",
+    "Questions": "From the following thermochemical equations, find out bond dissociation enthalpy of CH₃-H bond.\nCH₃I(g) → CH₃(g) + I(g); ΔH = 54.0 kcal\nCH₄(g) + I₂(s) → CH₃I(g) + HI(g); ΔH = 29.0 kcal\nHI(g) → H(g) + I(g); ΔH = 79.8 kcal\nI₂(s) → 2I(g); ΔH = 51.0 kcal\n(a) 125.2 kcal/mol\n(b) 91.7 kcal/mol\n(c) 101.9 kcal/mol\n(d) 111.8 kcal/mol",
+    "Answers": "(d) 111.8 kcal/mol"
+  },
+  {
+    "ID": "E1-73",
+    "Questions": "Estimate the average S-F bond energy in SF₆. The values of standard enthalpy of formation of SF₆(g), S(g) and F(g) are -1100, 275 and 80 kJ/mol, respectively.\n(a) 183.33 kJ/mol\n(b) 309.17 kJ/mol\n(c) 366.37 kJ/mol\n(d) 345 kJ/mol",
+    "Answers": "(b) 309.17 kJ/mol"
+  },
+  {
+    "ID": "E1-74",
+    "Questions": "The enthalpy of atomization of PH₃(g) is +954 kJ/mol and that of P₂H₄ is +1.488 MJ/mol. The bond energy of the P-P bond is\n(a) 318 kJ/mol\n(b) 372 kJ/mol\n(c) 213 kJ/mol\n(d) 534 kJ/mol",
+    "Answers": "(c) 213 kJ/mol"
+  },
+  {
+    "ID": "E1-75",
+    "Questions": "The standard molar enthalpies of formation of cyclohexane(l) and benzene(l) at 298 K are -156 and +49 kJ/mol, respectively. The standard enthalpy of hydrogenation of cyclohexene(l) at 298 K is -119 kJ/mol. Use these data to estimate the magnitude of the resonance energy of benzene.\n(a) 152 kJ/mol\n(b) 250 kJ/mol\n(c) 12 kJ/mol\n(d) 86 kJ/mol",
+    "Answers": "(a) 152 kJ/mol"
+  },
+  {
+    "ID": "E1-76",
+    "Questions": "Calculate the magnitude of resonance energy of CO₂ from the following data (in kJ/mol):\nBond energies: C=O = 539.0, O=O = 498.0\nHeat of sublimation of C(s) = 718.0\nHeat of combustion of C(s) = -393.0\n(a) 255\n(b) 531\n(c) 138\n(d) 247",
+    "Answers": "(b) 531"
+  },
+  {
+    "ID": "E1-77",
+    "Questions": "AB, A₂ and B₂ are diatomic molecules. If the bond enthalpies of A₂, AB and B₂ are in the ratio 2:2:1 and enthalpy of formation AB from A₂ and B₂ is -100 kJ mole⁻¹. What is the bond energy of A₂?\n(a) 200 kJ mol⁻¹\n(b) 100 kJ mol⁻¹\n(c) 300 kJ mol⁻¹\n(d) 400 kJ mol⁻¹",
+    "Answers": "(d) 400 kJ mol⁻¹"
+  },
+  {
+    "ID": "E1-78",
+    "Questions": "The lattice energy of solid NaCl is 180 kcal/mol. The dissolution of the solid in water, in the form of ions is endothermic to the extent of 1 kcal/mol. If the solvation energies of Na⁺ and Cl⁻ ions are in the ratio 6:5, what is the enthalpy of hydration of sodium ion?\n(a) -85.6 kcal/mol\n(b) -97.6 kcal/mol\n(c) 82.6 kcal/mol\n(d) 100 kcal/mol",
+    "Answers": "(b) -97.6 kcal/mol"
+  },
+  {
+    "ID": "E1-79",
+    "Questions": "The enthalpy of atomization of graphite is 698.6 kJ/mol and the mean bond enthalpy of C-C bond in diamond is 348.4 kJ/mol. The enthalpy of conversion of graphite into diamond is\n(a) +1.2 kJ/mol\n(b) +1.8 kJ/mol\n(c) -1.2 kJ/mol\n(d) -1.8 kJ/mol",
+    "Answers": "(d) -1.8 kJ/mol"
+  },
+  {
+    "ID": "E1-80",
+    "Questions": "The lattice energy of Na₂CO₃(s) is 205 kJ/mol and the hydration energies of Na⁺ and CO₃²⁻ ions are -80 and -40 kJ/mol, respectively. The correct prediction about the solubility of Na₂CO₃ in water is (Assume that ΔH is independent of temperature.)\n(a) increases with increase in temperature\n(b) decreases with increase in temperature\n(c) unaffected by the change in temperature\n(d) first increases and then decreases with the increase in temperature",
+    "Answers": "(a) increases with increase in temperature"
+  }
+]
+

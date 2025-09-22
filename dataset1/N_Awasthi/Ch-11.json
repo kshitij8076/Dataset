@@ -1,0 +1,1263 @@
+[
+  {
+    "question_number": 1,
+    "question": "The size of particles in suspension, true solution and colloidal solution varies in the order :",
+    "options": {
+      "a": "suspension > colloidal > true solution",
+      "b": "true solution > suspension > colloidal",
+      "c": "suspension > colloidal = true solution",
+      "d": "none of these"
+    },
+    "correct_answer": "a",
+    "solution": "The particle size order is based on diameter: Suspensions have the largest particles (> 1000 nm), followed by colloids (1 nm - 1000 nm), and true solutions have the smallest particles (< 1 nm)."
+  },
+  {
+    "question_number": 2,
+    "question": "A colloidal system has what size of particles?",
+    "options": {
+      "a": "10⁻³ m to 10⁻¹⁰ m",
+      "b": "10⁻⁵ m to 10⁻⁷ m",
+      "c": "10⁻⁹ m to 10⁻¹² m",
+      "d": "10⁻⁶ m to 10⁻⁹ m"
+    },
+    "correct_answer": "d",
+    "solution": "The size range for colloidal particles is defined as being from 1 nanometer (10⁻⁹ m) to 1000 nanometers (10⁻⁶ m). Option (d) correctly represents this range."
+  },
+  {
+    "question_number": 3,
+    "question": "Which are not purely surface phenomena?",
+    "options": {
+      "a": "Adsorption, surface tension",
+      "b": "Surface tension, viscosity",
+      "c": "Adsorption, viscosity",
+      "d": "Absorption, viscosity"
+    },
+    "correct_answer": "d",
+    "solution": "Adsorption and surface tension are surface phenomena. Absorption (where a substance permeates the bulk) and viscosity (which relates to the resistance to flow of the entire fluid) are bulk phenomena. Therefore, absorption and viscosity are not purely surface phenomena."
+  },
+  {
+    "question_number": 4,
+    "question": "Adsorbed acetic acid on activated carbon is :",
+    "options": {
+      "a": "adsorber",
+      "b": "absorber",
+      "c": "adsorbent",
+      "d": "adsorbate"
+    },
+    "correct_answer": "d",
+    "solution": "In the process of adsorption, the substance that gets adsorbed onto the surface is called the adsorbate (acetic acid). The substance providing the surface is the adsorbent (activated carbon)."
+  },
+  {
+    "question_number": 5,
+    "question": "Adsorption due to strong chemical forces is called :",
+    "options": {
+      "a": "Chemisorption",
+      "b": "Physisorption",
+      "c": "Both (a) and (b)",
+      "d": "None of these"
+    },
+    "correct_answer": "a",
+    "solution": "Adsorption that involves the formation of strong chemical bonds (like covalent or ionic bonds) between the adsorbate and adsorbent is called chemical adsorption or chemisorption."
+  },
+  {
+    "question_number": 6,
+    "question": "Adsorption of gases on solid surface is exothermic because :",
+    "options": {
+      "a": "free energy increases",
+      "b": "entropy decreases",
+      "c": "entropy increases",
+      "d": "interaction developed between gas and solid particles"
+    },
+    "correct_answer": "d",
+    "solution": "Adsorption is an exothermic process (ΔH is negative) because when gas molecules are adsorbed onto a solid surface, new attractive forces are formed between the adsorbate and adsorbent particles. The formation of these bonds releases energy."
+  },
+  {
+    "question_number": 7,
+    "question": "The nature of bonding forces in adsorption are:",
+    "options": {
+      "a": "purely physical such as van der Waals' forces",
+      "b": "purely chemical",
+      "c": "both chemical and physical are possible",
+      "d": "none of these"
+    },
+    "correct_answer": "c",
+    "solution": "Adsorption can occur through two primary mechanisms: physisorption, which involves weak physical forces like van der Waals' forces, and chemisorption, which involves the formation of stronger chemical bonds. Therefore, both types of forces are possible."
+  },
+  {
+    "question_number": 8,
+    "question": "Which one of the following is not applicable to chemisorption?",
+    "options": {
+      "a": "Heat of adsorption is negative",
+      "b": "It takes place at high temperature",
+      "c": "It is reversible",
+      "d": "It forms mono-molecular layer"
+    },
+    "correct_answer": "c",
+    "solution": "Chemisorption involves the formation of strong chemical bonds, making it a highly specific and generally irreversible process. Physisorption, which involves weak forces, is reversible. Therefore, reversibility is not a characteristic of chemisorption."
+  },
+  {
+    "question_number": 9,
+    "question": "Which one of the following characteristics is correct for physical adsorption?",
+    "options": {
+      "a": "It is very specific",
+      "b": "Adsorption on solids is irreversible",
+      "c": "Adsorption decreases with decrease in temperature",
+      "d": "Generally both enthalpy and entropy of adsorption are negative"
+    },
+    "correct_answer": "d",
+    "solution": "For physical adsorption: (a) It is not specific. (b) It is reversible. (c) Adsorption is an exothermic process, so according to Le Chatelier's principle, it is favored at low temperatures and decreases with an *increase* in temperature. (d) It is an exothermic process (ΔH is negative), and it involves a decrease in the randomness of gas molecules (ΔS is negative). This statement is correct."
+  },
+  {
+    "question_number": 10,
+    "question": "Which of the following statement is not correct?",
+    "options": {
+      "a": "Physical adsorption is due to vander Waals' forces",
+      "b": "Physical adsorption is irreversible",
+      "c": "Chemical adsorption increases with increase in temperature upto certain limit than decreases",
+      "d": "Enthalpy of adsorption (|ΔH|) for a chemical adsorption is greater than that of physical adsorption"
+    },
+    "correct_answer": "b",
+    "solution": "Statement (b) is not correct. Physical adsorption involves weak van der Waals forces and is a reversible process. All other statements are correct descriptions of physical and chemical adsorption."
+  },
+  {
+    "question_number": 11,
+    "question": "Which gas will be adsorbed on a solid to greater extent?",
+    "options": {
+      "a": "Having non-polar molecule",
+      "b": "Having highest critical temperature",
+      "c": "Having lowest critical temperature",
+      "d": "Having lowest critical pressure"
+    },
+    "correct_answer": "b",
+    "solution": "The extent of physical adsorption of a gas is directly related to its ease of liquefaction. Gases that are more easily liquefiable have stronger intermolecular forces and a higher critical temperature (T_c). Therefore, the gas with the highest critical temperature will be adsorbed to the greatest extent."
+  },
+  {
+    "question_number": 12,
+    "question": "Which of the following factors affects the adsorption of a gas on solid?",
+    "options": {
+      "a": "Critical temperature (T_c)",
+      "b": "Temperature of gas",
+      "c": "Pressure of gas",
+      "d": "All of these"
+    },
+    "correct_answer": "d",
+    "solution": "The adsorption of a gas on a solid is affected by several factors: the nature of the gas (related to its critical temperature), the temperature of the system (adsorption is exothermic), and the pressure of the gas (adsorption increases with pressure). Therefore, all of these factors affect the process."
+  },
+  {
+    "question_number": 13,
+    "question": "Which gas is adsorbed to maximum amount by activated carbon?",
+    "options": {
+      "a": "H₂(g)",
+      "b": "He(g)",
+      "c": "CO(g)",
+      "d": "CO₂(g)"
+    },
+    "correct_answer": "d",
+    "solution": "The extent of adsorption depends on the ease of liquefaction of the gas, which is related to its critical temperature (T_c). The approximate T_c values are: He (5.2 K), H₂ (33 K), CO (134 K), CO₂ (304.1 K). Since CO₂ has the highest critical temperature, it is the most easily liquefiable and will be adsorbed to the maximum extent."
+  },
+  {
+    "question_number": 14,
+    "question": "The volume of gases NH₃, CO₂, and H₂ adsorbed by one gram of charcoal at 300 K are in order of:",
+    "options": {
+      "a": "H₂ > CO₂ > NH₃",
+      "b": "NH₃ > H₂ > CO₂",
+      "c": "NH₃ > CO₂ > H₂",
+      "d": "CO₂ > NH₃ > H₂"
+    },
+    "correct_answer": "c",
+    "solution": "Adsorption is greatest for the most easily liquefiable gas. Ease of liquefaction depends on intermolecular forces and critical temperature. Ammonia (NH₃) has strong hydrogen bonding. Carbon dioxide (CO₂) is more polarizable than hydrogen (H₂). Therefore, the order of adsorption is NH₃ > CO₂ > H₂."
+  },
+  {
+    "question_number": 15,
+    "question": "Which of the following is used to adsorb water?",
+    "options": {
+      "a": "Silica gel",
+      "b": "Calcium acetate",
+      "c": "Hair gel",
+      "d": "Anhydrous CaCl₂"
+    },
+    "correct_answer": "a",
+    "solution": "Silica gel is a widely used adsorbent for moisture due to its porous structure and large surface area. Anhydrous CaCl₂ also absorbs water but it does so by chemical reaction to form a hydrate, which is absorption/chemisorption rather than physical adsorption. Silica gel is the classic example for this context."
+  },
+  {
+    "question_number": 16,
+    "question": "Absorption and adsorptions are respectively:",
+    "options": {
+      "a": "surface phenomena, bulk phenomena",
+      "b": "bulk phenomena, surface phenomena",
+      "c": "both are bulk phenomena",
+      "d": "both are surface phenomena"
+    },
+    "correct_answer": "b",
+    "solution": "Absorption is a process where a substance diffuses into the bulk of another substance. Adsorption is a process where a substance accumulates on the surface of another substance. Therefore, they are bulk and surface phenomena, respectively."
+  },
+  {
+    "question_number": 17,
+    "question": "Adsorption is multilayer in case of:",
+    "options": {
+      "a": "physical adsorption",
+      "b": "chemisorption",
+      "c": "both (a) and (b)",
+      "d": "none of these"
+    },
+    "correct_answer": "a",
+    "solution": "Physical adsorption involves weak van der Waals forces, allowing for the formation of multiple layers of adsorbate on the adsorbent surface. Chemisorption involves the formation of chemical bonds and is limited to a single layer (monolayer)."
+  },
+  {
+    "question_number": 18,
+    "question": "Reversible adsorption is:",
+    "options": {
+      "a": "chemical adsorption",
+      "b": "physical adsorption",
+      "c": "both (a) and (b)",
+      "d": "none of these"
+    },
+    "correct_answer": "b",
+    "solution": "Physical adsorption is a reversible process because the forces involved are weak. The adsorbed gas can be easily removed by increasing the temperature or decreasing the pressure. Chemical adsorption is generally irreversible."
+  },
+  {
+    "question_number": 19,
+    "question": "The effect of pressure on adsorption is high if:",
+    "options": {
+      "a": "temperature is low",
+      "b": "temperature is high",
+      "c": "temperature is very high",
+      "d": "larger charcoal piece is taken"
+    },
+    "correct_answer": "a",
+    "solution": "Adsorption of a gas is an exothermic process. According to Le Chatelier's principle, the forward reaction (adsorption) is favored by low temperature and high pressure. The effect of pressure is more significant at low temperatures where the tendency for adsorption is higher."
+  },
+  {
+    "question_number": 20,
+    "question": "Sorption is the phenomenon:",
+    "options": {
+      "a": "reverse of adsorption",
+      "b": "reverse of absorption",
+      "c": "when adsorption and absorption takes place simultaneously",
+      "d": "none of these"
+    },
+    "correct_answer": "c",
+    "solution": "Sorption is a general term used to describe the process when both adsorption (on the surface) and absorption (into the bulk) occur at the same time."
+  },
+  {
+    "question_number": 21,
+    "question": "Which of the following adsorption isotherms represents the adsorption of a gas by a solid involving multilayers of layers? (P_s = saturation pressure)",
+    "options": {
+      "a": "Graph A (S-shaped, rises to infinity at P_s)",
+      "b": "Graph B (Langmuir type, plateaus before P_s)",
+      "c": "Graph C (Irregular steps)",
+      "d": "Graph D (Linear)"
+    },
+    "correct_answer": "a",
+    "solution": "Multilayer adsorption is described by the BET isotherm. The characteristic shape of a BET isotherm (Type II) is an S-shaped curve where the amount of adsorbed gas increases indefinitely as the pressure approaches the saturation vapor pressure (P_s), corresponding to condensation. Graph (a) shows this behavior."
+  },
+  {
+    "question_number": 22,
+    "question": "A plot of log(x/m) against log P for the adsorption of a gas on a solid gives a straight line with slope equal to:",
+    "options": {
+      "a": "1/n",
+      "b": "n",
+      "c": "log K",
+      "d": "K"
+    },
+    "correct_answer": "a",
+    "solution": "The Freundlich adsorption isotherm is given by x/m = k * P^(1/n). Taking the logarithm of both sides gives: log(x/m) = log(k) + (1/n)log(P). This equation is in the form of a straight line, y = c + mx, where y = log(x/m) and x = log(P). The slope (m) of the line is 1/n."
+  },
+  {
+    "question_number": 23,
+    "question": "The heat evolved in chemisorption lies in the range (in kJ/mol) of:",
+    "options": {
+      "a": "80 to 240",
+      "b": "20 to 40",
+      "c": "40 to 80",
+      "d": "20 to 100"
+    },
+    "correct_answer": "a",
+    "solution": "Chemisorption involves the formation of chemical bonds, so its enthalpy of adsorption is high, typically in the range of 80 to 240 kJ/mol."
+  },
+  {
+    "question_number": 24,
+    "question": "The heat evolved in physisorption lies in the range (in kJ/mol) of :",
+    "options": {
+      "a": "20-40",
+      "b": "40-100",
+      "c": "100-200",
+      "d": "200-400"
+    },
+    "correct_answer": "a",
+    "solution": "Physisorption involves weak van der Waals forces, so its enthalpy of adsorption is low, generally in the range of 20 to 40 kJ/mol, which is similar to the enthalpy of condensation."
+  },
+  {
+    "question_number": 25,
+    "question": "According to the adsorption theory of catalysis, the speed of the reaction increases because :",
+    "options": {
+      "a": "in the process of adsorption, the activation energy of the molecules becomes large",
+      "b": "adsorption produces heat which increases the speed of the reaction",
+      "c": "adsorption lowers the activation energy of the reaction",
+      "d": "adsorption increases the activation energy of the reaction"
+    },
+    "correct_answer": "c",
+    "solution": "The modern adsorption theory of heterogeneous catalysis proposes that reactants are adsorbed on the catalyst's surface. This process weakens the bonds within the reactant molecules and provides an alternative reaction pathway with a lower activation energy, thereby increasing the reaction rate."
+  },
+  {
+    "question_number": 26,
+    "question": "3.6 gram of oxygen is adsorbed on 1.2 g of metal powder. What volume of oxygen adsorbed per gram of the adsorbent at 1 atm and 273 K?",
+    "options": {
+      "a": "0.19 Lg⁻¹",
+      "b": "1 Lg⁻¹",
+      "c": "2.1 Lg⁻¹",
+      "d": "None of these"
+    },
+    "correct_answer": "c",
+    "solution": "Mass of O₂ adsorbed per gram of adsorbent = 3.6 g / 1.2 g = 3 g. \nMoles of O₂ per gram of adsorbent = mass / molar mass = 3 g / 32 g/mol. \nVolume at STP (1 atm, 273 K) = moles × 22.4 L/mol. \nVolume per gram = (3/32) mol × 22.4 L/mol ≈ 2.1 L. So the volume is 2.1 L/g."
+  },
+  {
+    "question_number": 27,
+    "question": "A catalytic poison renders the catalyst ineffective because:",
+    "options": {
+      "a": "It is preferentially adsorbed on the catalyst",
+      "b": "It adsorbs the molecules of the reactants",
+      "c": "It combines chemically with the catalyst",
+      "d": "It combines chemically with one of the reactants"
+    },
+    "correct_answer": "a",
+    "solution": "A catalytic poison works by being strongly and preferentially adsorbed onto the active sites of the catalyst surface. This blocks the sites and prevents the reactant molecules from being adsorbed, thus rendering the catalyst ineffective."
+  },
+  {
+    "question_number": 28,
+    "question": "The catalyst used in the hydrogenation of oils is:",
+    "options": {
+      "a": "Fe",
+      "b": "Ni",
+      "c": "Pt",
+      "d": "V₂O₅"
+    },
+    "correct_answer": "b",
+    "solution": "The catalytic hydrogenation of vegetable oils to produce solid fats (like margarine) is a major industrial process. The most commonly used catalyst for this reaction is finely divided Nickel (Ni), although Platinum (Pt) and Palladium (Pd) can also be used."
+  },
+  {
+    "question_number": 29,
+    "question": "The function of zymase is to:",
+    "options": {
+      "a": "Change starch into sugar",
+      "b": "Ferment glucose to alcohol and CO₂",
+      "c": "Change malt sugar into glucose",
+      "d": "Change starch into malt sugar and dextrin"
+    },
+    "correct_answer": "b",
+    "solution": "Zymase is an enzyme complex found in yeast that catalyzes the metabolic process of fermentation, specifically the conversion of simple sugars like glucose and fructose into ethanol and carbon dioxide."
+  },
+  {
+    "question_number": 30,
+    "question": "The conversion of maltose to glucose is possible by the enzyme:",
+    "options": {
+      "a": "Zymase",
+      "b": "Lactase",
+      "c": "Maltase",
+      "d": "Diastase"
+    },
+    "correct_answer": "c",
+    "solution": "The enzyme that specifically catalyzes the hydrolysis of the disaccharide maltose into two molecules of the monosaccharide glucose is called maltase."
+  },
+  {
+    "question_number": 31,
+    "question": "Shape selective catalysis is a reaction catalysed by:",
+    "options": {
+      "a": "Enzymes",
+      "b": "Ziegler-Natta Catalyst",
+      "c": "Zeolites",
+      "d": "Platinum"
+    },
+    "correct_answer": "c",
+    "solution": "Shape-selective catalysis occurs when the rate of a reaction is influenced by the pore structure of the catalyst, which allows only reactant or product molecules of a specific size and shape to participate. Zeolites, with their microporous honeycomb-like structure, are the primary example of shape-selective catalysts."
+  },
+  {
+    "question_number": 32,
+    "question": "The process which is catalysed by one of the product is called:",
+    "options": {
+      "a": "acid-base catalysis",
+      "b": "autocatalysis",
+      "c": "negative catalysis",
+      "d": "homogeneous catalysis"
+    },
+    "correct_answer": "b",
+    "solution": "When one of the products of a chemical reaction acts as a catalyst for that same reaction, the process is known as autocatalysis."
+  },
+  {
+    "question_number": 33,
+    "question": "An inhibitor is essentially:",
+    "options": {
+      "a": "a negative catalyst",
+      "b": "a heterogeneous catalyst",
+      "c": "an auto catalyst",
+      "d": "a homogeneous catalyst"
+    },
+    "correct_answer": "a",
+    "solution": "An inhibitor is a substance that decreases the rate of a chemical reaction. This is the definition of a negative catalyst."
+  },
+  {
+    "question_number": 34,
+    "question": "A catalyst in the finely divided form is most effective because:",
+    "options": {
+      "a": "less surface area is available",
+      "b": "more active sites are formed",
+      "c": "more energy gets stored in the catalyst",
+      "d": "none of these"
+    },
+    "correct_answer": "b",
+    "solution": "For heterogeneous catalysts, the reaction occurs on the surface. By grinding the catalyst into a finely divided powder, the total surface area is vastly increased. This increases the number of available active sites where reactants can be adsorbed, leading to a much higher reaction rate."
+  },
+  {
+    "question_number": 35,
+    "question": "Identify the correct statement regarding enzymes:",
+    "options": {
+      "a": "Enzymes are specific biological catalysts that normally works at high temperature",
+      "b": "Enzymes are normally heterogeneous catalysts decreases reaction rate",
+      "c": "Enzymes are specific biological catalysts with low molar masses",
+      "d": "Enzymes are specific biological catalysts that are very specific in nature"
+    },
+    "correct_answer": "d",
+    "solution": "Enzymes are biological catalysts that are highly specific in their action, often catalyzing only one particular reaction. They work at optimal, moderate temperatures (high temperatures cause denaturation), are typically homogeneous catalysts, and are proteins with high molar masses. Therefore, (d) is the most accurate statement."
+  },
+  {
+    "question_number": 36,
+    "question": "A liquid leaves no residue when passed through the ultra-filter paper. The liquid is:",
+    "options": {
+      "a": "a suspension",
+      "b": "oil",
+      "c": "a colloidal sol",
+      "d": "a true solution"
+    },
+    "correct_answer": "d",
+    "solution": "Ultra-filter paper has pores small enough to retain colloidal particles. Suspensions have even larger particles. If a liquid passes through without leaving a residue, it means its constituent particles (ions or small molecules) are smaller than the pores, which is characteristic of a true solution."
+  },
+  {
+    "question_number": 37,
+    "question": "Crystalloids differ from colloids mainly in respect of :",
+    "options": {
+      "a": "Electrical behaviour",
+      "b": "Particle nature",
+      "c": "Particle size",
+      "d": "Solubility"
+    },
+    "correct_answer": "c",
+    "solution": "The fundamental difference between crystalloids (which form true solutions) and colloids lies in the size of their dispersed particles. Crystalloids have very small particles (< 1 nm), whereas colloids have particles in the range of 1 nm to 1000 nm."
+  },
+  {
+    "question_number": 38,
+    "question": "Surface tension of lyophilic sols is:",
+    "options": {
+      "a": "lower than water",
+      "b": "more than water",
+      "c": "equal to water",
+      "d": "none of these"
+    },
+    "correct_answer": "a",
+    "solution": "Lyophilic sols are often formed by surfactant-like molecules that have an affinity for the medium. These molecules tend to accumulate at the surface, which disrupts the intermolecular forces of the solvent (like water) and results in a lower surface tension."
+  },
+  {
+    "question_number": 39,
+    "question": "Which one of the following is not used for preparing lyophilic sols?",
+    "options": {
+      "a": "Starch",
+      "b": "Gum",
+      "c": "Gelatin",
+      "d": "Metal sulphide"
+    },
+    "correct_answer": "d",
+    "solution": "Starch, gum, and gelatin are macromolecules that readily form lyophilic (solvent-loving) sols when mixed with water. Metal sulphides (like As₂S₃) are generally insoluble and have no affinity for water; they form lyophobic (solvent-hating) sols that must be prepared by indirect chemical methods."
+  },
+  {
+    "question_number": 40,
+    "question": "Which one of the sols acts as protective colloid?",
+    "options": {
+      "a": "As₂S₃",
+      "b": "Gelatin",
+      "c": "Au",
+      "d": "Fe(OH)₃"
+    },
+    "correct_answer": "b",
+    "solution": "Protective colloids are lyophilic colloids used to stabilize lyophobic colloids. As₂S₃, Au (gold), and Fe(OH)₃ are all examples of lyophobic sols. Gelatin is a well-known lyophilic colloid that is used as a protective agent."
+  },
+  {
+    "question_number": 41,
+    "question": "Which one of the following is lyophilic colloid?",
+    "options": {
+      "a": "Pt",
+      "b": "Gum",
+      "c": "Fog",
+      "d": "Blood"
+    },
+    "correct_answer": "b",
+    "solution": "Lyophilic (solvent-loving) colloids are formed by substances that have a strong affinity for the dispersion medium. Gum (like gum arabic) is a natural polymer that readily forms a colloidal solution with water. Platinum sol is lyophobic. Fog is an aerosol. Blood is a complex system, but the proteins within it form lyophilic sols."
+  },
+  {
+    "question_number": 42,
+    "question": "Small liquid droplets dispersed in another liquid is called:",
+    "options": {
+      "a": "suspension",
+      "b": "emulsion",
+      "c": "gel",
+      "d": "true solution"
+    },
+    "correct_answer": "b",
+    "solution": "A colloidal system consisting of a liquid dispersed phase in a liquid dispersion medium is defined as an emulsion."
+  },
+  {
+    "question_number": 43,
+    "question": "Which of the following is an example of associated colloid?",
+    "options": {
+      "a": "Protein in water",
+      "b": "Soap in water",
+      "c": "Rubber in benzene",
+      "d": "FeCl₃ in H₂O"
+    },
+    "correct_answer": "b",
+    "solution": "Associated colloids, or micelles, are aggregates formed by substances (surfactants) that behave as normal electrolytes at low concentrations but aggregate to form colloidal-sized particles above a certain concentration (the CMC). Soap in water is the classic example of an associated colloid."
+  },
+  {
+    "question_number": 44,
+    "question": "Select the properties which are for lyophilic colloidal sols:",
+    "options": {
+      "a": "viscosity same as that of the medium",
+      "b": "extensive hydration takes place",
+      "c": "particles migrate either towards cathode or anode in an electric field",
+      "d": "particle cannot be detected even under ultramicroscope."
+    },
+    "correct_answer": "b",
+    "solution": "Lyophilic (solvent-loving) sols are characterized by a strong interaction between the dispersed phase and the dispersion medium. This leads to extensive solvation (or hydration if the solvent is water). Their viscosity is typically higher than the medium, and they may or may not carry a charge. Their particles are large enough to be detected by an ultramicroscope."
+  },
+  {
+    "question_number": 45,
+    "question": "Fog is an example of colloidal system of:",
+    "options": {
+      "a": "liquid in a gas",
+      "b": "gas in a liquid",
+      "c": "gas in a solid",
+      "d": "solid in a liquid"
+    },
+    "correct_answer": "a",
+    "solution": "Fog is an aerosol, which is a colloidal system where the dispersed phase is a liquid (tiny water droplets) and the dispersion medium is a gas (air)."
+  },
+  {
+    "question_number": 46,
+    "question": "Colloidal solutions are not classified on the basis of :",
+    "options": {
+      "a": "molecular size",
+      "b": "nature of the particles",
+      "c": "surface tension value",
+      "d": "interaction between disperse phase and dispersion medium"
+    },
+    "correct_answer": "c",
+    "solution": "Colloids are classified based on the physical state of the phases, the nature of interaction between phases (lyophilic/lyophobic), and the type of dispersed particles (multimolecular, macromolecular, associated). Surface tension is a physical property of a colloid, not a basis for its classification."
+  },
+  {
+    "question_number": 47,
+    "question": "All colloids:",
+    "options": {
+      "a": "are suspensions of one phase in another",
+      "b": "are two-phase systems",
+      "c": "contain only water-soluble particles",
+      "d": "are true solutions"
+    },
+    "correct_answer": "b",
+    "solution": "Colloidal systems are heterogeneous by nature, consisting of a distinct dispersed phase distributed within a continuous dispersion medium. Therefore, they are fundamentally two-phase systems."
+  },
+  {
+    "question_number": 48,
+    "question": "Which of the following is a lyophobic colloid?",
+    "options": {
+      "a": "Gelatin",
+      "b": "Sulphur",
+      "c": "Starch",
+      "d": "Gum arabic"
+    },
+    "correct_answer": "b",
+    "solution": "Lyophobic (solvent-hating) sols have little affinity for the dispersion medium. Sulphur sols are prepared by indirect methods (e.g., oxidation of H₂S) and are unstable without a stabilizing agent. Gelatin, starch, and gum arabic are all lyophilic."
+  },
+  {
+    "question_number": 49,
+    "question": "Which of the following is not a gel?",
+    "options": {
+      "a": "Cheese",
+      "b": "Jellies",
+      "c": "Curd",
+      "d": "Milk"
+    },
+    "correct_answer": "d",
+    "solution": "A gel is a type of colloid where a liquid is dispersed in a solid medium, giving it a semi-rigid structure. Cheese, jellies, and curd are all examples of gels. Milk is an emulsion, which is a liquid (fat) dispersed in a liquid (water)."
+  },
+  {
+    "question_number": 50,
+    "question": "Cleaning action of soap occurs because:",
+    "options": {
+      "a": "non-polar tails of soap molecules dissolve in grease",
+      "b": "oil and grease dissolved into hydrophilic centres of soap micelles acid washed away",
+      "c": "hydrophilic head dissolve in grease",
+      "d": "grease dissolve in soap solution"
+    },
+    "correct_answer": "a",
+    "solution": "Soap molecules have a non-polar hydrocarbon tail and a polar carboxylate head. The non-polar tails are hydrophobic and dissolve in the non-polar grease and oil stains. The polar heads remain in the water, forming a micelle that encapsulates the grease, allowing it to be washed away."
+  },
+  {
+    "question_number": 51,
+    "question": "Arsenous sulphide sol is prepared by passing H₂S through arsenous oxide solution. The charge developed on the particles is due to adsorption of:",
+    "options": {
+      "a": "H⁺",
+      "b": "S²⁻",
+      "c": "OH⁻",
+      "d": "O²⁻"
+    },
+    "correct_answer": "b",
+    "solution": "The colloidal particles of arsenous sulphide (As₂S₃) are formed by the reaction: As₂O₃ + 3H₂S → As₂S₃(sol) + 3H₂O. The sol particles will preferentially adsorb the ion that is common to the lattice, which in this case is the sulphide ion (S²⁻) from the H₂S. This gives the colloidal particles a net negative charge."
+  },
+  {
+    "question_number": 52,
+    "question": "Bredig's arc method cannot be used for the preparation of colloidal sol of :",
+    "options": {
+      "a": "copper",
+      "b": "gold",
+      "c": "silver",
+      "d": "sodium"
+    },
+    "correct_answer": "d",
+    "solution": "Bredig's arc method involves striking an electric arc between metal electrodes under a dispersion medium (like water). It is suitable for preparing sols of less reactive metals like gold, silver, copper, and platinum. It cannot be used for highly reactive metals like sodium, which would react chemically and violently with the water."
+  },
+  {
+    "question_number": 53,
+    "question": "As₂S₃ sol is:",
+    "options": {
+      "a": "positive colloid",
+      "b": "negative colloid",
+      "c": "neutral colloid",
+      "d": "none of the above"
+    },
+    "correct_answer": "b",
+    "solution": "As₂S₃ sol is a classic example of a negatively charged colloid. The negative charge arises from the preferential adsorption of sulphide (S²⁻) ions onto the surface of the colloidal particles during its preparation."
+  },
+  {
+    "question_number": 54,
+    "question": "Which of the following electrolyte will be most effective in coagulation of negative sol ?",
+    "options": {
+      "a": "KNO₃",
+      "b": "K₄[Fe(CN)₆]",
+      "c": "Na₃PO₄",
+      "d": "MgCl₂"
+    },
+    "correct_answer": "d",
+    "solution": "According to the Hardy-Schulze rule, a negative sol is coagulated by positive ions (cations). The effectiveness of the cation increases with the magnitude of its charge. The cations are: KNO₃(K⁺), K₄[Fe(CN)₆](K⁺), Na₃PO₄(Na⁺), MgCl₂(Mg²⁺). Since Mg²⁺ has the highest positive charge (+2), it will be the most effective coagulant."
+  },
+  {
+    "question_number": 55,
+    "question": "The minimum amount of an electrolyte required to cause coagulation of a sol is called :",
+    "options": {
+      "a": "Coagulation value",
+      "b": "Gold number",
+      "c": "Protective value",
+      "d": "None of these"
+    },
+    "correct_answer": "a",
+    "solution": "The coagulation value (or flocculation value) is defined as the minimum concentration of an electrolyte, in millimoles per litre, that is required to cause the precipitation of a colloidal sol in a specified amount of time."
+  },
+  {
+    "question_number": 56,
+    "question": "The electrical charge on a colloidal particle is indicated by:",
+    "options": {
+      "a": "Brownian movement",
+      "b": "electrophoresis",
+      "c": "ultramicroscope",
+      "d": "molecular sieves"
+    },
+    "correct_answer": "b",
+    "solution": "Electrophoresis is the movement of charged colloidal particles towards an oppositely charged electrode when an electric field is applied. This phenomenon provides direct experimental evidence for the existence of electrical charge on colloidal particles."
+  },
+  {
+    "question_number": 57,
+    "question": "Colloidal particles in a sol can be coagulated by :",
+    "options": {
+      "a": "heating",
+      "b": "adding an electrolyte",
+      "c": "adding oppositely charged sol",
+      "d": "any of the above methods"
+    },
+    "correct_answer": "d",
+    "solution": "Coagulation (precipitation) of colloids can be induced by several methods: (a) heating, which increases collisions and disrupts the adsorbed layer; (b) adding an electrolyte, which neutralizes the charge on the particles; and (c) adding a sol with an opposite charge, leading to mutual neutralization and coagulation. Therefore, all the given methods are valid."
+  },
+  {
+    "question_number": 58,
+    "question": "Peptization involves:",
+    "options": {
+      "a": "precipitation of colloidal particles",
+      "b": "disintegration of colloidal aggregates",
+      "c": "purification of colloids",
+      "d": "impact of molecules of the dispersion medium on the colloidal particles"
+    },
+    "correct_answer": "b",
+    "solution": "Peptization is the process of converting a freshly prepared precipitate (large aggregates) into a colloidal solution. This is achieved by shaking the precipitate with a dispersion medium containing a small amount of an electrolyte (peptizing agent), which causes the aggregates to break down or disintegrate into colloidal-sized particles."
+  },
+  {
+    "question_number": 59,
+    "question": "Hardy-Schulze law states that:",
+    "options": {
+      "a": "solution must have higher gold number",
+      "b": "disperse phase and dispersion medium must be of the same sign",
+      "c": "micelles coagulate in presence of surfactants",
+      "d": "the ions carrying more opposite charge to that of sol particle are effective in coagulation"
+    },
+    "correct_answer": "d",
+    "solution": "The Hardy-Schulze law has two main points: 1) Only the ions with a charge opposite to that of the colloidal particles are effective in causing coagulation. 2) The coagulating power of an electrolyte is directly proportional to the magnitude of the charge (valency) of the effective ion. Statement (d) summarizes this second, more crucial point."
+  },
+  {
+    "question_number": 60,
+    "question": "Given below are a few electrolytes, indicate which one among them will bring about the coagulation of a gold sol quickest and in the least of concentration?",
+    "options": {
+      "a": "NaCl",
+      "b": "MgSO₄",
+      "c": "Al₂(SO₄)₃",
+      "d": "K₄[Fe(CN)₆]"
+    },
+    "correct_answer": "c",
+    "solution": "Gold sol is a negatively charged colloid. To coagulate it quickest and with the least concentration, we need the cation with the highest positive charge, according to the Hardy-Schulze rule. The cations are: Na⁺ (+1), Mg²⁺ (+2), Al³⁺ (+3), and K⁺ (+1). The Al³⁺ ion has the highest charge (+3) and will therefore be the most effective coagulant."
+  },
+  {
+    "question_number": 61,
+    "question": "The ability of an ion to bring about coagulation of a given colloid depends upon:",
+    "options": {
+      "a": "its size",
+      "b": "the magnitude of its charge only",
+      "c": "the sign of its charge alone",
+      "d": "both magnitude and sign of its charge"
+    },
+    "correct_answer": "d",
+    "solution": "According to the Hardy-Schulze rule, the coagulating ability of an ion depends on two factors: the sign of its charge (it must be opposite to the charge of the colloid) and the magnitude of its charge (higher magnitude leads to greater coagulating power)."
+  },
+  {
+    "question_number": 62,
+    "question": "An emulsifying agent is a substance which?",
+    "options": {
+      "a": "Stabilizes the emulsion",
+      "b": "De-stabilizes the emulsion",
+      "c": "Coagulates the emulsion",
+      "d": "Break the interfacial film between suspended particle and medium"
+    },
+    "correct_answer": "a",
+    "solution": "An emulsifying agent (or emulsifier) is added to an emulsion to increase its stability. It works by forming an interfacial film between the dispersed phase and the dispersion medium, which prevents the dispersed droplets from coalescing."
+  },
+  {
+    "question_number": 63,
+    "question": "Colloidal solution of gold is prepared by:",
+    "options": {
+      "a": "colloidal mill",
+      "b": "double decomposition method",
+      "c": "Bredig's method",
+      "d": "peptization"
+    },
+    "correct_answer": "c",
+    "solution": "Colloidal sols of less reactive metals like gold, silver, and platinum are typically prepared by dispersion methods. Bredig's arc method, which involves striking an electric arc between gold electrodes immersed in a dispersion medium, is a common method for preparing gold sol."
+  },
+  {
+    "question_number": 64,
+    "question": "The formation of colloid from suspension is:",
+    "options": {
+      "a": "peptisation",
+      "b": "condensation",
+      "c": "sedimentation",
+      "d": "fragmentation"
+    },
+    "correct_answer": "a",
+    "solution": "The process of converting a suspension (or a fresh precipitate), which consists of large aggregates, into a colloidal solution is called peptization. It involves breaking down these large particles into colloidal-sized ones."
+  },
+  {
+    "question_number": 65,
+    "question": "The method usually employed for the destruction of a colloidal solution is:",
+    "options": {
+      "a": "dialysis",
+      "b": "addition of electrolytes",
+      "c": "diffusion through animal membrane",
+      "d": "condensation"
+    },
+    "correct_answer": "b",
+    "solution": "The destruction of a colloidal solution means causing it to coagulate or precipitate. The most common method to achieve this is by adding a small amount of an electrolyte, which neutralizes the charge on the colloidal particles, allowing them to aggregate."
+  },
+  {
+    "question_number": 66,
+    "question": "Which of the following has minimum flocculation value for positively charged sol?",
+    "options": {
+      "a": "Cl⁻",
+      "b": "SO₄²⁻",
+      "c": "PO₄³⁻",
+      "d": "[Fe(CN)₆]⁴⁻"
+    },
+    "correct_answer": "d",
+    "solution": "Flocculation value is inversely proportional to coagulating power. To coagulate a positively charged sol, we need an anion. The anion with the highest negative charge will have the highest coagulating power and therefore the minimum flocculation value. Comparing the charges: Cl⁻(-1), SO₄²⁻(-2), PO₄³⁻(-3), [Fe(CN)₆]⁴⁻(-4). The ferrocyanide ion has the highest charge magnitude."
+  },
+  {
+    "question_number": 67,
+    "question": "Which of the following will have the highest coagulating power for Fe(OH)₃ colloid?",
+    "options": {
+      "a": "PO₄³⁻",
+      "b": "SO₄²⁻",
+      "c": "Ca²⁺",
+      "d": "Al³⁺"
+    },
+    "correct_answer": "a",
+    "solution": "Ferric hydroxide, Fe(OH)₃, sol is a positively charged colloid due to the adsorption of Fe³⁺ ions. It will be coagulated by anions. According to the Hardy-Schulze rule, the anion with the highest negative charge has the highest coagulating power. Comparing the effective anions: PO₄³⁻ (-3) and SO₄²⁻ (-2). The phosphate ion has the highest charge."
+  },
+  {
+    "question_number": 68,
+    "question": "Artifical rain is caused by spraying:",
+    "options": {
+      "a": "Opposite charged collidal dust over a cloud",
+      "b": "Same charged collidal dust over a cloud",
+      "c": "Both",
+      "d": "None of these"
+    },
+    "correct_answer": "a",
+    "solution": "Artificial rain is induced by cloud seeding. Clouds are aerosols of water droplets which are charged. Spraying an oppositely charged colloidal dust or an electrolyte like AgI neutralizes the charge on the water droplets, causing them to coagulate and fall as rain."
+  },
+  {
+    "question_number": 69,
+    "question": "Colloids can be purified by :",
+    "options": {
+      "a": "condensation",
+      "b": "peptization",
+      "c": "coagulation",
+      "d": "dialysis"
+    },
+    "correct_answer": "d",
+    "solution": "Purification of colloids involves removing dissolved ionic impurities (crystalloids). Dialysis is a process where a semipermeable membrane is used to allow small impurity ions to diffuse out of the colloidal solution while retaining the larger colloidal particles."
+  },
+  {
+    "question_number": 70,
+    "question": "Dialysis can seperate, which of the following in addition to the glucose from the human blood?",
+    "options": {
+      "a": "Sucrose",
+      "b": "Fructose",
+      "c": "Alcohol",
+      "d": "Proteins"
+    },
+    "correct_answer": "a",
+    "solution": "Dialysis separates small molecules (crystalloids) from large ones (colloids). Blood proteins are colloids and are retained. Glucose, sucrose, fructose, and alcohol are all small molecules (crystalloids) and can pass through the dialysis membrane. The question is slightly ambiguous, but sucrose is a valid example of another crystalloid that can be separated."
+  },
+  {
+    "question_number": 71,
+    "question": "Protective sols are:",
+    "options": {
+      "a": "lyophilic",
+      "b": "lyophobic",
+      "c": "both (a) and (b)",
+      "d": "none of these"
+    },
+    "correct_answer": "a",
+    "solution": "Protective sols are lyophilic colloids that, when added to lyophobic sols, form a protective layer around the lyophobic particles, preventing them from being coagulated by electrolytes."
+  },
+  {
+    "question_number": 72,
+    "question": "Electro-osmosis is observed when:",
+    "options": {
+      "a": "dispersion medium particles begins to move in an electric field",
+      "b": "dispersed phase begins to move in an electric field",
+      "c": "both (a) and (b)",
+      "d": "none of the above"
+    },
+    "correct_answer": "a",
+    "solution": "Electro-osmosis is the phenomenon of the movement of the dispersion medium under the influence of an electric field, when the movement of the dispersed phase (colloidal particles) is prevented by a suitable membrane."
+  },
+  {
+    "question_number": 73,
+    "question": "On adding AgNO₃ solution into KI solution, a negatively charged colloidal sol is obtained when they are in:",
+    "options": {
+      "a": "50 mL of 0.1 M AgNO₃ + 50 mL of 0.1 M KI",
+      "b": "50 mL of 0.1 M AgNO₃ + 50 mL of 0.2 M KI",
+      "c": "50 mL of 0.2 M AgNO₃ + 50 mL of 0.1 M KI",
+      "d": "None of these"
+    },
+    "correct_answer": "b",
+    "solution": "A negatively charged AgI sol is formed when iodide ions (I⁻) are in excess and are adsorbed onto the AgI particles. Moles of AgNO₃ = 50 × 0.1 = 5 mmol. Moles of KI = 50 × 0.2 = 10 mmol. Here, KI is in excess, providing excess I⁻ ions for adsorption. This will result in a negatively charged sol."
+  },
+  {
+    "question_number": 74,
+    "question": "A sol is prepared by addition of excess of AgNO₃ solution in KI solution. The charge likely to develop on colloidal particles is:",
+    "options": {
+      "a": "positive",
+      "b": "negative",
+      "c": "no charge",
+      "d": "both charges"
+    },
+    "correct_answer": "a",
+    "solution": "The colloidal particles are AgI. When AgNO₃ is in excess, there is an excess of Ag⁺ ions in the medium. The AgI particles will preferentially adsorb the common ion, Ag⁺, from the solution, acquiring a net positive charge."
+  },
+  {
+    "question_number": 75,
+    "question": "The gold numbers of protective colloids A, B, C and D are 0.04, 0.004, 10 and 40 respectively. The protective powers of A, B, C and D are in the order:",
+    "options": {
+      "a": "A > B > C > D",
+      "b": "B > A > C > D",
+      "c": "D > C > A > B",
+      "d": "D > C > B > A"
+    },
+    "correct_answer": "b",
+    "solution": "The gold number is inversely proportional to the protective power of a colloid. A smaller gold number indicates a higher protective power. The gold numbers are: B(0.004) < A(0.04) < C(10) < D(40). Therefore, the order of protective power is B > A > C > D."
+  },
+  {
+    "question_number": 76,
+    "question": "In Brownian motion, the paths of the particles are:",
+    "options": {
+      "a": "linear",
+      "b": "curved",
+      "c": "zig-zag",
+      "d": "uncertain"
+    },
+    "correct_answer": "c",
+    "solution": "Brownian motion is the random, erratic movement of colloidal particles. This movement is caused by the constant, unbalanced bombardment of the particles by the much smaller molecules of the dispersion medium, resulting in a zig-zag path."
+  },
+  {
+    "question_number": 77,
+    "question": "Which one of the following is not represented by sols?",
+    "options": {
+      "a": "Adsorption",
+      "b": "Tyndall effect",
+      "c": "Flocculation",
+      "d": "Paramagnetism"
+    },
+    "correct_answer": "d",
+    "solution": "Adsorption, Tyndall effect, and flocculation (coagulation) are all characteristic properties or phenomena associated with colloidal solutions (sols). Paramagnetism is a type of magnetic behavior that depends on the specific chemical nature of the substance, not on its state as a colloid."
+  },
+  {
+    "question_number": 78,
+    "question": "The Tyndall effect associated with colloidal particles is due to:",
+    "options": {
+      "a": "presence of electrical charges",
+      "b": "scattering of light",
+      "c": "absorption of light",
+      "d": "reflection of light"
+    },
+    "correct_answer": "b",
+    "solution": "The Tyndall effect is the phenomenon where a beam of light passing through a colloid is scattered by the colloidal particles, making the path of the light beam visible. This scattering occurs because the particle size is comparable to the wavelength of light."
+  },
+  {
+    "question_number": 79,
+    "question": "Blue colour of the sky is due to:",
+    "options": {
+      "a": "absorption of light by dust particles",
+      "b": "reflection of light by dust particles",
+      "c": "scattering of light by dust particles",
+      "d": "presence of clouds"
+    },
+    "correct_answer": "c",
+    "solution": "The blue color of the sky is a result of Rayleigh scattering. Sunlight is scattered by the small particles (like dust and gas molecules) in the Earth's atmosphere. Shorter wavelengths of light (blue and violet) are scattered more strongly than longer wavelengths (red and yellow), causing the sky to appear blue."
+  },
+  {
+    "question_number": 80,
+    "question": "The apparatus used to coagulate carbon particles from smoke is called:",
+    "options": {
+      "a": "cottrel smoker",
+      "b": "cottrell precipitator",
+      "c": "cottrell absorber",
+      "d": "none of these"
+    },
+    "correct_answer": "b",
+    "solution": "Smoke is a colloid of solid carbon particles in air. A Cottrell precipitator is an electrostatic device that removes these particles from the exhaust gas. It works by charging the smoke particles and then attracting them to an oppositely charged collection plate, causing them to coagulate and be removed."
+  },
+  {
+    "question_number": 1,
+    "question": "Select correct adsorption isobars for chemisorption and physisorption respectively : (where x/m = extent of adsorption, T = temperature)",
+    "options": {
+      "a": "Graph showing two curves: [increasing then decreasing], [continuously decreasing]",
+      "b": "Graph showing two curves: [continuously decreasing], [increasing then decreasing]",
+      "c": "Graph showing two curves: [increasing then decreasing], [continuously decreasing]",
+      "d": "Graph showing two curves: [continuously increasing], [continuously decreasing]"
+    },
+    "correct_answer": "c",
+    "solution": "An adsorption isobar plots the extent of adsorption (x/m) against temperature (T) at constant pressure. For Chemisorption, it's an activated process, so the rate first increases with temperature to overcome the activation energy, then decreases because it's exothermic. This gives a curve that rises to a maximum and then falls. For Physisorption, it's a non-activated exothermic process, so the extent of adsorption continuously decreases as temperature increases. Option (c) shows the correct pair of graphs in the correct order."
+  },
+  {
+    "question_number": 2,
+    "question": "Which among the following statements is false?",
+    "options": {
+      "a": "Increase of pressure increases the amount of adsorption",
+      "b": "Increase of temperature may decrease the amount of adsorption",
+      "c": "Adsorption may be monolayered or multilayered",
+      "d": "Particle size of the adsorbent will not affect the amount of adsorption"
+    },
+    "correct_answer": "d",
+    "solution": "Statement (d) is false. Adsorption is a surface phenomenon. For a given mass of adsorbent, decreasing the particle size increases the total surface area available for adsorption. A larger surface area leads to a greater amount of adsorption."
+  },
+  {
+    "question_number": 3,
+    "question": "Select incorrect statement;",
+    "options": {
+      "a": "Lyophilic sols are reversible",
+      "b": "Lyophilic sols are self stabilized",
+      "c": "Lyophobic sols are obtained from inorganic materials",
+      "d": "Lyophobic sols particles are hydrated"
+    },
+    "correct_answer": "d",
+    "solution": "Statement (d) is incorrect. Lyophobic means 'solvent-hating'. The particles in a lyophobic sol have little to no affinity for the dispersion medium and are not significantly solvated or hydrated. They are stabilized primarily by their surface charge. Lyophilic sols, in contrast, are extensively hydrated."
+  },
+  {
+    "question_number": 4,
+    "question": "Which one of the following statements is not correct in respect of lyophilic sols?",
+    "options": {
+      "a": "There is a considerable interaction between the dispersed phase and dispersion medium",
+      "b": "These are quite stable and are not easily coagulated",
+      "c": "They carry charge",
+      "d": "The particles are hydrated"
+    },
+    "correct_answer": "c",
+    "solution": "While lyophilic particles can acquire a small charge, it is not their primary characteristic or a universal property, unlike lyophobic sols. Their stability comes mainly from the extensive solvation (hydration) and strong interaction with the medium. Statements (a), (b), and (d) are all key correct characteristics of lyophilic sols. Therefore, (c) is the statement that is not always correct."
+  },
+  {
+    "question_number": 5,
+    "question": "Alums purify muddy water by:",
+    "options": {
+      "a": "dialysis",
+      "b": "absorption",
+      "c": "coagulation",
+      "d": "ultrafiltration"
+    },
+    "correct_answer": "c",
+    "solution": "Muddy water is a colloidal solution of negatively charged clay particles. Alum (like potash alum, KAl(SO₄)₂) provides highly charged cations, primarily Al³⁺. According to the Hardy-Schulze rule, these cations effectively neutralize the charge on the clay particles, causing them to aggregate (coagulate) and settle down, thus clarifying the water."
+  },
+  {
+    "question_number": 6,
+    "question": "Lyophilic sols are more stable than lyophobic sols because:",
+    "options": {
+      "a": "the colloidal particles have positive charge",
+      "b": "the colloidal particles have negative charge",
+      "c": "the colloidal particles are solvated",
+      "d": "there is strong electrostatic repulsion between the colloidal particles"
+    },
+    "correct_answer": "c",
+    "solution": "The stability of lyophilic sols is due to two main factors: the charge on the particles and, more importantly, the extensive solvation (hydration) of the particles. This solvation layer acts as a protective barrier that prevents the particles from aggregating. Lyophobic sols are stabilized only by their charge."
+  },
+  {
+    "question_number": 7,
+    "question": "Arrange the following electrolytes in the increasing order of coagulation power for the coagulation of As₂S₃ sol: K₂SO₄(I) CaCl₂(II) Na₃PO₄(III) AlCl₃(IV)",
+    "options": {
+      "a": "I < II < III < IV",
+      "b": "I = III < II < IV",
+      "c": "II < IV < I < III",
+      "d": "II < I < III < IV"
+    },
+    "correct_answer": "b",
+    "solution": "As₂S₃ sol is a negatively charged colloid, so its coagulation depends on the charge of the cation. The cations are K⁺, Ca²⁺, Na⁺, and Al³⁺. According to the Hardy-Schulze rule, coagulation power increases with the magnitude of the charge. The charges are: Al³⁺ (+3) > Ca²⁺ (+2) > K⁺ (+1) = Na⁺ (+1). Therefore, the increasing order of coagulation power is (K⁺=Na⁺) < Ca²⁺ < Al³⁺, which corresponds to (I=III) < II < IV."
+  },
+  {
+    "question_number": 8,
+    "question": "Equal volume each of two sols of AgI, one obtained by adding AgNO₃ to slight excess of KI and another obtained by adding KI to slight excess of AgNO₃, are mixed together. Then:",
+    "options": {
+      "a": "the two sols will stabilize each other",
+      "b": "the sol particles will acquire more electric charge",
+      "c": "the sols will coagulate each other mutually",
+      "d": "a true solution will be obtained"
+    },
+    "correct_answer": "c",
+    "solution": "The first sol, made with excess KI, will have AgI particles with adsorbed I⁻ ions, making it a negatively charged sol. The second sol, made with excess AgNO₃, will have AgI particles with adsorbed Ag⁺ ions, making it a positively charged sol. When these two oppositely charged sols are mixed, they will neutralize each other's charge, leading to mutual coagulation and precipitation of AgI."
+  },
+  {
+    "question_number": 9,
+    "question": "Which of the following statements is not true about the oil-in-water type emulsion?",
+    "options": {
+      "a": "Addition of small amount of water, no separate layer of water is formed",
+      "b": "Addition of a small amount of oil soluble dye renders the entire emulsion coloured",
+      "c": "Addition of oil results in the formation of two layers",
+      "d": "Addition of a small amount of an electrolyte increases the conductivity of the emulsion"
+    },
+    "correct_answer": "b",
+    "solution": "In an oil-in-water (O/W) emulsion, water is the continuous dispersion medium and oil is the dispersed phase. (a) is true because water is the medium. (c) is true because oil is the dispersed phase and will not mix with the medium. (d) is true because water is the medium and can conduct electricity if an electrolyte is added. (b) is not true; an oil-soluble dye will only color the dispersed oil droplets, not the entire emulsion, since the continuous phase is water."
+  },
+  {
+    "question_number": 10,
+    "question": "Under the influence of an electric field, the particles in a sol migrate towards cathode. The coagulation of the same sol is studied using NaCl, Na₂SO₄ and Na₃PO₄ solutions. Their coagulating values will be in maximum for:",
+    "options": {
+      "a": "NaCl",
+      "b": "Na₂SO₄",
+      "c": "Na₃PO₄",
+      "d": "same for all"
+    },
+    "correct_answer": "a",
+    "solution": "Migration towards the cathode means the sol particles are positively charged. Coagulation will be caused by the anions: Cl⁻, SO₄²⁻, and PO₄³⁻. Coagulating power is proportional to the magnitude of the charge: PO₄³⁻ > SO₄²⁻ > Cl⁻. Coagulation value is the minimum concentration needed and is inversely proportional to coagulating power. Therefore, the order of coagulation values is Cl⁻ > SO₄²⁻ > PO₄³⁻. The maximum coagulation value will be for NaCl."
+  },
+  {
+    "question_number": 11,
+    "question": "Select incorrect statement:",
+    "options": {
+      "a": "Micelles are macromolecular colloids",
+      "b": "The electrical charge on a colloid particle is indicated by electrophoresis",
+      "c": "Formation of micelles takes place above kraft temperature",
+      "d": "Formation of micelles takes place below CMC"
+    },
+    "correct_answer": "d",
+    "solution": "Statement (d) is incorrect. The Critical Micelle Concentration (CMC) is the minimum concentration of surfactant above which micelles form. Therefore, micelle formation takes place at or above the CMC, not below it."
+  },
+  {
+    "question_number": 12,
+    "question": "Bredig's arc method involves:",
+    "options": {
+      "a": "dispersion of metal",
+      "b": "condensation of metal",
+      "c": "dispersion as well as condensation",
+      "d": "neither dispersion nor condensation"
+    },
+    "correct_answer": "c",
+    "solution": "Bredig's arc method is an electro-dispersion method. An electric arc is struck between metal electrodes, which vaporizes the metal (dispersion). This hot vapor is then immediately cooled by the surrounding dispersion medium, causing it to condense into colloidal-sized particles (condensation). Thus, it involves both processes."
+  },
+  {
+    "question_number": 13,
+    "question": "A freshly prepared Fe(OH)₃ precipitate is peptized by adding FeCl₃ solution. The charge on the colloidal particle is due to preferential adsorption of:",
+    "options": {
+      "a": "Cl⁻ ions",
+      "b": "Fe³⁺ ions",
+      "c": "OH⁻ ions",
+      "d": "none of these"
+    },
+    "correct_answer": "b",
+    "solution": "Peptization involves adsorbing a common ion onto a precipitate. The precipitate is Fe(OH)₃ and the peptizing agent is FeCl₃. The common ion between them is Fe³⁺. The Fe(OH)₃ particles will adsorb Fe³⁺ ions from the solution, acquiring a net positive charge."
+  },
+  {
+    "question_number": 14,
+    "question": "Select incorrect statement :",
+    "options": {
+      "a": "Gold sol is multimolecular colloid",
+      "b": "Large number of atoms of a substance aggregate together and formed multimolecular colloids",
+      "c": "Metal sulphides are lyophobic colloids",
+      "d": "Sulphur sol is multimolecular colloid and hydrophilic in nature"
+    },
+    "correct_answer": "d",
+    "solution": "Statement (d) is incorrect. Sulphur sol is indeed a multimolecular colloid, formed by the aggregation of S₈ molecules. However, sulphur is a non-polar substance and has no affinity for water, making its sol hydrophobic (or lyophobic), not hydrophilic."
+  },
+  {
+    "question_number": 15,
+    "question": "Associated colloids:",
+    "options": {
+      "a": "raise both the surface tension and viscosity of water",
+      "b": "lower both the surface tension and viscosity of water",
+      "c": "lower the surface tension and raise the viscosity of water",
+      "d": "have greater concentration at the surface layer than the bulk of the solution"
+    },
+    "correct_answer": "c",
+    "solution": "Associated colloids are formed by surfactants. Surfactants are surface-active agents, meaning they accumulate at the surface and lower the surface tension of the solvent. The formation of large, aggregated micelles in the solution increases the resistance to flow, thereby raising the viscosity. So, they lower surface tension and raise viscosity."
+  },
+  {
+    "question_number": 16,
+    "question": "Below critical micelle concentration (CMC):",
+    "options": {
+      "a": "the surfactant molecules of ions undergo association to form clusters",
+      "b": "the viscosity of solution increases abruptly",
+      "c": "substances like grease, fat, etc. dissolve colloidally",
+      "d": "salt behave as normal, strong electrolyte"
+    },
+    "correct_answer": "d",
+    "solution": "Below the CMC, the concentration of surfactant molecules is too low for them to aggregate into micelles. They exist as individual ions in the solution and behave like a normal strong electrolyte, dissociating completely but not forming clusters."
+  },
+  {
+    "question_number": 17,
+    "question": "During electro-osmosis of Fe(OH)₃ sol:",
+    "options": {
+      "a": "sol particles move towards anode",
+      "b": "sol particles move towards cathode",
+      "c": "the dispersion medium moves towards anode",
+      "d": "the dispersion medium moves towards cathode"
+    },
+    "correct_answer": "d",
+    "solution": "Fe(OH)₃ sol is positively charged. In electrophoresis, the sol particles would move to the cathode. In electro-osmosis, the movement of sol particles is prevented. Due to the electrical double layer, the dispersion medium acquires a charge opposite to that of the particles. Since the particles are positive, the medium is effectively negative and will move towards the positive electrode (anode). (Note: The provided answer key says (B), which describes electrophoresis, not electro-osmosis. Let's re-read the solution text: 'medium is negatively charged'. If the medium is negative, it moves to the anode. There is a contradiction in the materials provided. I will assume the logic that Fe(OH)₃ is positive, so the medium is negative and moves to the anode (c). However, the key says (B), which is the movement of particles. This is a common confusion. If the question implies the setup of electrophoresis, then (b) is the answer. The provided solution PDF also points to (c). This question has conflicting information)."
+  },
+  {
+    "question_number": 18,
+    "question": "Select incorrect statement:",
+    "options": {
+      "a": "Soap and detergent lower the interfacial surface tension between oil and water",
+      "b": "Basic principle of peptization is reverse of coagulation",
+      "c": "Soap and detergent used as emulsifiers",
+      "d": "Lyophilic sols need stabilizing agent"
+    },
+    "correct_answer": "d",
+    "solution": "Statement (d) is incorrect. Lyophilic sols are inherently stable due to extensive solvation and strong interaction with the dispersion medium. They are 'self-stabilizing'. It is the lyophobic sols that are unstable and require a stabilizing agent (usually a small amount of charge)."
+  },
+  {
+    "question_number": 19,
+    "question": "Smoke precipitator works on the principle of :",
+    "options": {
+      "a": "centrifugation",
+      "b": "neutralization of charge on colloids",
+      "c": "absorption",
+      "d": "addition of electrolytes"
+    },
+    "correct_answer": "b",
+    "solution": "A smoke precipitator (Cottrell precipitator) uses a high voltage to impart an electrical charge onto the colloidal smoke particles. These charged particles are then attracted to and collected on an oppositely charged plate. The underlying principle is the neutralization and precipitation of charged colloidal particles."
+  },
+  {
+    "question_number": 20,
+    "question": "What is the correct sequence of the increasing coagulation value of the following electrolyte for the coagulation of ferric hydroxide solution? (I) Na₃PO₄ (II) KCl (III) K₂SO₄ (IV) K₄[Fe(CN)₆]",
+    "options": {
+      "a": "IV > I > III > II",
+      "b": "II > III > I > IV",
+      "c": "I > II > III > IV",
+      "d": "IV > III > I > II"
+    },
+    "correct_answer": "b",
+    "solution": "Ferric hydroxide sol is positively charged, so it is coagulated by anions. The anions are PO₄³⁻, Cl⁻, SO₄²⁻, and [Fe(CN)₆]⁴⁻. According to the Hardy-Schulze rule, coagulating power increases with charge magnitude: [Fe(CN)₆]⁴⁻ > PO₄³⁻ > SO₄²⁻ > Cl⁻. Coagulation value is inversely proportional to coagulating power. Therefore, the increasing order of coagulation value is: [Fe(CN)₆]⁴⁻ < PO₄³⁻ < SO₄²⁻ < Cl⁻, which corresponds to IV < I < III < II. The question asks for increasing order. The answer should be IV < I < III < II. Option (b) is II > III > I > IV, which is the decreasing order. There might be a typo in the question or options. Assuming the question meant decreasing order, (b) would be correct."
+  },
+  {
+    "question_number": 21,
+    "question": "Which of the following is true in respect of chemical adsorption?",
+    "options": {
+      "a": "ΔH < 0, ΔS > 0, ΔG > 0",
+      "b": "ΔH < 0, ΔS < 0, ΔG < 0",
+      "c": "ΔH > 0, ΔS > 0, ΔG < 0",
+      "d": "ΔH > 0, ΔS < 0, ΔG > 0"
+    },
+    "correct_answer": "b",
+    "solution": "For any spontaneous adsorption process, the change in Gibbs free energy (ΔG) must be negative. Adsorption involves the formation of bonds, making it an exothermic process (ΔH is negative). Adsorption also involves a decrease in the randomness of the gas molecules as they become ordered on the surface, so the change in entropy (ΔS) is also negative. Thus, for chemical adsorption, ΔH < 0, ΔS < 0, and ΔG < 0."
+  },
+  {
+    "question_number": 22,
+    "question": "For the graph below, select correct order of temperature?",
+    "images": "Img10_11/N_Awasthi_PC5_7.png",
+    "options": {
+      "a": "T₁ > T₂ > T₃",
+      "b": "T₂ > T₃ > T₁",
+      "c": "T₃ > T₂ > T₁",
+      "d": "T₁ = T₂ = T₃"
+    },
+    "correct_answer": "c",
+    "solution": "The graph shows adsorption isotherms (x/m vs. P). Adsorption is an exothermic process. According to Le Chatelier's principle, an increase in temperature will shift the equilibrium towards the endothermic (desorption) direction, meaning less gas is adsorbed at a given pressure. The highest curve (T₃) shows the least adsorption, while the lowest curve (T₁) shows the most. Therefore, the order of temperature must be T₃ > T₂ > T₁."
+  },
+  {
+    "question_number": 23,
+    "question": "Although, nitrogen does not adsorb on a surface at room temperature, it adsorbs on the surface at 83 K. Which one of the following statements is correct ?",
+    "options": {
+      "a": "At 83 K, there is formation of monolayer",
+      "b": "At 83 K, nitrogen is adsorbed as atoms",
+      "c": "At 83 K, nitrogen molecules are held by chemical bonds",
+      "d": "At 83 K, there is formation of multimolecular layers"
+    },
+    "correct_answer": "d",
+    "solution": "Adsorption that occurs at very low temperatures but not at room temperature is characteristic of physisorption, which involves weak van der Waals forces. Chemisorption typically requires higher temperatures to overcome an activation energy barrier. Physisorption is known to result in the formation of multiple molecular layers on the adsorbent surface."
+  },
+  {
+    "question_number": 24,
+    "question": "For the coagulation of 50 ml of ferric hydroxide sol. 10 ml of 0.5 M KCl is required. What is the coagulation value of KCl?",
+    "options": {
+      "a": "5",
+      "b": "10",
+      "c": "100",
+      "d": "None of these"
+    },
+    "correct_answer": "c",
+    "solution": "First, calculate the millimoles of KCl used: \nMillimoles = Molarity × Volume (in mL) = 0.5 M × 10 mL = 5 mmol. \nThis amount coagulated 50 mL of sol. \nThe coagulation value is defined as the number of millimoles of electrolyte required per litre (1000 mL) of sol. \nCoagulation value = (millimoles of electrolyte / volume of sol in mL) × 1000 \nCoagulation value = (5 mmol / 50 mL) × 1000 = 100."
+  },
+  {
+    "question_number": 25,
+    "question": "100 mL of 0.6 M acetic acid is shaken with 2 g activated carbon. The final concentration of the solution after adsorption is 0.5 M. What is the amount of acetic acid adsorbed per gram of carbon?",
+    "options": {
+      "a": "0.6 g",
+      "b": "0.3 g",
+      "c": "1.2 g",
+      "d": "None of these"
+    },
+    "correct_answer": "b",
+    "solution": "Initial moles of acetic acid = Volume × Molarity = 0.1 L × 0.6 mol/L = 0.06 mol. \nFinal moles of acetic acid = 0.1 L × 0.5 mol/L = 0.05 mol. \nMoles of acetic acid adsorbed = Initial moles - Final moles = 0.06 - 0.05 = 0.01 mol. \nMolar mass of acetic acid (CH₃COOH) = 60 g/mol. \nMass of acetic acid adsorbed = 0.01 mol × 60 g/mol = 0.6 g. \nThis mass was adsorbed by 2 g of carbon. \nAmount adsorbed per gram of carbon = Total mass adsorbed / mass of adsorbent = 0.6 g / 2 g = 0.3 g."
+  }
+]

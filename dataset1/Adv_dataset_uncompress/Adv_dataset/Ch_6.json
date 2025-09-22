@@ -1,0 +1,1252 @@
+{
+    "section-1": [
+      {
+        "question_number": 1,
+        "question": "A triangular plate of uniform thickness and density is made to rotate about an axis perpendicular to the plane of the paper and passing through A, (b) passing through B, by the application of the same force F at C (mid-point of AB) as shown in the figure. The angular acceleration in both the cases will be the same.",
+        "year": 1985,
+        "question_type": "True / False",
+        "options": [
+          "(a) True",
+          "(b) False"
+        ],
+        "images":["arihant_images_ch6/arihant_1.png"]
+      },
+      {
+        "question_number": 2,
+        "question": "A thin uniform circular disc of mass M and radius R is rotating in a horizontal plane about an axis passing through its centre and perpendicular to its plane with an angular velocity ω. Another disc of the same dimensions but of mass M/4 is placed gently on the first disc coaxially. The angular velocity of the system now is 2ω/√5.",
+        "year": 1986,
+        "question_type": "True / False",
+        "options": [
+          "(a) True",
+          "(b) False"
+        ]
+      },
+      {
+        "question_number": 3,
+        "question": "A ring of mass 0.3 kg and radius 0.1 m and a solid cylinder of mass 0.4 kg and of the same radius are given the same kinetic energy and released simultaneously on a flat horizontal surface such that they begin to roll as soon as release towards a wall which is the same distance from the ring and the cylinder. The rolling friction in both cases is negligible. The cylinder will reach the wall first.",
+        "year": 1989,
+        "question_type": "True / False",
+        "options": [
+          "(a) True",
+          "(b) False"
+        ]
+      },
+      {
+        "question_number": 4,
+        "question": "Assertion: Two cylinders, one hollow (metal) and the other solid (wood) with the same mass and identical dimensions are simultaneously allowed to roll without slipping down an inclined plane from the same height. The hollow cylinder will reach the bottom of the inclined plane first.\nReason: By the principle of conservation of energy, the total kinetic energies of both the cylinders are identical when they reach the bottom of the incline.",
+        "year": 2008,
+        "question_type": "Assertion and Reason",
+        "options": [
+          "(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion",
+          "(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion",
+          "(c) If Assertion is true; Reason is false",
+          "(d) If Assertion is false; Reason is true"
+        ]
+      },
+      {
+        "question_number": 9,
+        "question": "A thin circular ring of mass M and radius R is rotating about its axis with a constant angular velocity ω. Two objects, each of mass m, are attached gently to the opposite ends of a diameter of the ring. The wheel now rotates with an angular velocity.",
+        "year": 1983,
+        "question_type": "mcq",
+        "options": [
+          "(a) M / (M + m)",
+          "(b) (M - 2m) / (M + 2m)",
+          "(c) M / (M + 2m)",
+          "(d) (M + 2m) / (M + m)"
+        ]
+      },
+      {
+        "question_number": 10,
+        "question": "A particle of mass m is projected with a velocity v making an angle of 45° with the horizontal. The magnitude of the angular momentum of the projectile about the point of projection when the particle is at its maximum height is:",
+        "year": 1990,
+        "question_type": "mcq",
+        "options": [
+          "(a) zero",
+          "(b) mv² (4/√2 g)",
+          "(c) mv² / (2g)",
+          "(d) m v² / (√2 g)"
+        ]
+      },
+      {
+        "question_number": 11,
+        "question": "A tube of length L is filled completely with an incompressible liquid of mass M and closed at both ends. The tube is then rotated in a horizontal plane about one of its ends with a uniform angular velocity ω. The force exerted by the liquid at the other end is:",
+        "year": 1992,
+        "question_type": "mcq",
+        "options": [
+          "(a) Mω²L / 2",
+          "(b) Mω²L / 4",
+          "(c) Mω²L / 2",
+          "(d) Mω²L / 8"
+        ]
+      },
+      {
+        "question_number": 12,
+        "question": "Two point masses of 0.3 kg and 0.7 kg are fixed at the ends of a rod of length 1.4 m and of negligible mass. The rod is set rotating about an axis perpendicular to its length with a uniform angular speed. The point on the rod through which the axis should pass in order that the work required for rotation of the rod is minimum, is located at a distance of",
+        "year": 1995,
+        "question_type": "mcq",
+        "options": [
+          "(a) 0.42 m from mass of 0.3 kg",
+          "(b) 0.70 m from mass of 0.7 kg",
+          "(c) 0.98 m from mass of 0.3 kg",
+          "(d) 0.98 m from mass of 0.7 kg"
+        ]
+      },
+      {
+        "question_number": 13,
+        "question": "A mass m is moving with a constant velocity along a line parallel to the X-axis, away from the origin. Its angular momentum with respect to the origin:",
+        "year": 1997,
+        "question_type": "mcq",
+        "options": [
+          "(a) is zero",
+          "(b) remains constant",
+          "(c) goes on increasing",
+          "(d) goes on decreasing"
+        ]
+      },
+      {
+        "question_number": 14,
+        "question": "Let I be the moment of inertia of a uniform square plate about an axis AB that passes through its centre and is parallel to two of its sides. CD is a line in the plane of the plate that passes through the centre of the plate and makes an angle θ with AB. The moment of inertia of the plate about the axis CD is equal to",
+        "year": 1998,
+        "question_type": "mcq",
+        "options": [
+          "(a) I sin² θ",
+          "(b) I cos² θ",
+          "(c) I cos² θ",
+          "(d) I cos² θ (2)"
+        ]
+      },
+      {
+        "question_number": 15,
+        "question": "A disc of mass M and radius R is rolling with angular speed ω. The magnitude of angular momentum of the disc about the origin O is:",
+        "year": 1999,
+        "question_type": "mcq",
+        "options": [
+          "(a) MR² ω",
+          "(b) MRω",
+          "(c) M²R² ω",
+          "(d) 2MR² ω"
+        ],
+        "images":["arihant_images_ch6/arihant_2.png"]
+        
+      },
+      {
+        "question_number": 16,
+        "question": "A smooth sphere A is moving on a frictionless horizontal plane with angular velocity ω and centre of mass velocity v. It collides elastically and head on with an identical sphere B at rest. Neglect friction everywhere. After the collision their angular speeds are ω₁ and ω₂ respectively. Then:",
+        "year": 1999,
+        "question_type": "mcq",
+        "options": [
+          "(a) ω₁ < ω",
+          "(b) ω₁ = ω",
+          "(c) ω₂ = ω₁",
+          "(d) ω₁ = ω"
+        ]
+      },
+      {
+        "question_number": 17,
+        "question": "A cubical block of side a moving with velocity v on a horizontal smooth plane as shown. It hits a ridge at point O. The angular speed of the block after it hits O is",
+        "year": 1999,
+        "question_type": "mcq",
+        "options": [
+          "(a) 3v / 4a",
+          "(b) √2a / v",
+          "(c) 3v / √2a",
+          "(d) zero"
+        ],
+        "images":["arihant_images_ch6/arihant_3.png"]
+      },
+      {
+        "question_number": 18,
+        "question": "A thin wire of length L and uniform linear mass density ρ is bent into a circular loop with centre at O as shown. The moment of inertia of the loop about the axis XX′ is:",
+        "year": 2000,
+        "question_type": "mcq",
+        "options": [
+          "(a) ρL³ / 8π²",
+          "(b) ρL³ / 16π²",
+          "(c) 5ρL³ / 16π²",
+          "(d) 3ρL³ / 8π²"
+        ],
+        "images":["arihant_images_ch6/arihant_4.png"]
+      },
+      {
+        "question_number": 19,
+        "question": "An equilateral triangle ABC formed from a uniform wire has two small identical beads initially located at A. The triangle is set rotating about the vertical axis AC. Then the beads are released from rest simultaneously and allowed to slide down, one along AB and other along AC as shown. Neglecting friction effects, the quantities that are conserved as beads slides down are",
+        "year": 2000,
+        "question_type": "mcq",
+        "options": [
+          "(a) angular velocity and total energy (kinetic and potential)",
+          "(b) total angular momentum and total energy",
+          "(c) angular velocity and moment of inertia about the axis of rotation",
+          "(d) total angular momentum and moment of inertia about the axis of rotation"
+        ],
+        "images":["arihant_images_ch6/arihant_5.png"]
+      },
+      {
+        "question_number": 20,
+        "question": "A cubical block of side L rests on a rough horizontal surface with coefficient of friction μ. A horizontal force F is applied on the block as shown. If the coefficient of friction is sufficiently high, so that the block does not slide before toppling, the minimum force required to topple the block is:",
+        "year": 2000,
+        "question_type": "mcq",
+        "options": [
+          "(a) infinitesimal",
+          "(b) mg/4",
+          "(c) mg(1 – μ)",
+          "(d) mg"
+        ],
+        "images":["arihant_images_ch6/arihant_6.png"]
+      },
+      {
+        "question_number": 21,
+        "question": "One quarter section is cut from a uniform circular disc of radius R. This section has a mass M. It is made to rotate about a line perpendicular to its plane and passing through the centre of the original disc. Its moment of inertia about the axis of rotation is:",
+        "year": 2001,
+        "question_type": "mcq",
+        "options": [
+          "(a) 1/2 MR²",
+          "(b) 1/4 MR²",
+          "(c) 1/8 MR²",
+          "(d) √2MR²"
+        ],
+        "images":["arihant_images_ch6/arihant_7.png"]
+      },
+      {
+        "question_number": 22,
+        "question": "A circular platform is free to rotate in a horizontal plane about a vertical axis passing through its centre. Now, the platform is given an angular velocity ω₀. When the tortoise moves along a chord of the platform with a constant velocity (with respect to the platform), the angular velocity of the platform ω(t) will vary with time t as:",
+        "year": 2002,
+        "question_type": "mcq",
+        "options": [
+          "(a) ω(t) ↑",
+          "(b) ω(t) ↓",
+          "(c) ω(t) constant",
+          "(d) ω(t) = ω₀"
+        ]
+      },
+      {
+        "question_number": 23,
+        "question": "A cylinder rolls up an inclined plane, reaches some height and then rolls down (without slipping throughout these motions). The directions of the frictional force acting on the cylinder are:",
+        "year": 2002,
+        "question_type": "mcq",
+        "options": [
+          "(a) up the incline while ascending and down the incline while descending",
+          "(b) up the incline while ascending as well as descending",
+          "(c) down the incline while ascending and up the incline while descending",
+          "(d) down the incline while ascending as well as descending"
+        ]
+      },
+      {
+        "question_number": 24,
+        "question": "A particle undergoes uniform circular motion. About which point on the plane of the circle, will the angular momentum of the particle remain conserved?",
+        "year": 2003,
+        "question_type": "mcq",
+        "options": [
+          "(a) Centre of circle",
+          "(b) On the circumference of the circle",
+          "(c) Inside the circle",
+          "(d) Outside the circle"
+        ]
+      },
+      {
+        "question_number": 25,
+        "question": "A child is standing with folded hands at the centre of a platform rotating about its central axis. The kinetic energy of the system is K. The child now stretches his arms so that the moment of inertia of the system doubles. The kinetic energy of the system now is:",
+        "year": 2004,
+        "question_type": "mcq",
+        "options": [
+          "(a) 2K",
+          "(b) K/2",
+          "(c) K/4",
+          "(d) 4K"
+        ]
+      },
+      {
+        "question_number": 26,
+        "question": "A disc is rolling (without slipping) on a horizontal surface. C is its centre and Q and P are two points equidistant from C. Let vₚ, vQ and vC be the magnitude of velocities of points P, Q, and C respectively, then:",
+        "year": 2004,
+        "question_type": "mcq",
+        "options": [
+          "(a) vQ > vC > vP",
+          "(b) vQ < vC < vP",
+          "(c) vQ = vP, vC = 1/2 vP",
+          "(d) vQ < vC > vP"
+        ],
+        "images":["arihant_images_ch6/arihant_8.png"]
+      },
+      {
+        "question_number": 27,
+        "question": "From a circular disc of radius R and mass 9M, a small disc of radius R/3 is removed from the disc. The moment of inertia of the remaining mass about an axis perpendicular to the plane of the disc and passing through O is:",
+        "year": 2005,
+        "question_type": "mcq",
+        "options": [
+          "(a) 4MR²",
+          "(b) 40MR²/9",
+          "(c) 10MR²/3",
+          "(d) 37MR²/9"
+        ],
+        "images":["arihant_images_ch6/arihant_9.png"]
+      },
+      {
+        "question_number": 28,
+        "question": "A particle moves in a circular path with decreasing speed. Choose the correct statement.",
+        "year": 2005,
+        "question_type": "mcq",
+        "options": [
+          "(a) Angular velocity and total energy (kinetic and potential)",
+          "(b) Total angular momentum remains constant",
+          "(c) Acceleration (a) is towards the centre",
+          "(d) Particle moves in a spiral path with decreasing radius"
+        ]
+      },
+      {
+        "question_number": 29,
+        "question": "A solid sphere of radius R has moment of inertia I about its geometrical axis. It is melted into a disc of radius r and thickness t. If it's moment of inertia about the tangential axis (which is perpendicular to plane of the disc), is also equal to I, then the value of r is equal to:",
+        "year": 2006,
+        "question_type": "mcq",
+        "options": [
+          "(a) 2/√15 R",
+          "(b) 2/√5 R",
+          "(c) 3/√15 R",
+          "(d) √3/√15 R"
+        ],
+        "images":["arihant_images_ch6/arihant_10.png"]
+      },
+      {
+        "question_number": 30,
+        "question": "A small object of uniform density rolls up a curved surface with an initial velocity v. It reaches up to a maximum height of 3v²/4g with respect to the initial position. The object is:",
+        "year": 2007,
+        "question_type": "mcq",
+        "options": [
+          "(a) ring",
+          "(b) solid sphere",
+          "(c) hollow sphere",
+          "(d) disc"
+        ],
+        "images":["arihant_images_ch6/arihant_11.png"]
+      },
+      {
+        "question_number": 31,
+        "question": "Two solid cylinders P and Q of same mass and same radius start rolling down a fixed inclined plane from the same height at the same time. Cylinder P has most of its mass concentrated near its surface, while Q has most of its mass concentrated near the axis. Which statement(s) is/are correct?",
+        "year": 2012,
+        "question_type": "mcq",
+        "options": [
+          "(a) Both cylinders P and Q reach the ground at the same time",
+          "(b) Cylinder P has greater linear acceleration than cylinder Q",
+          "(c) Both cylinders reach the ground with same translational kinetic energy",
+          "(d) Cylinder Q reaches the ground with larger angular speed"
+        ]
+      },
+      {
+        "question_number": 32,
+        "question": "A thin uniform rod, pivoted at O, is rotating in the horizontal plane with constant angular speed ω₀. When the rod reaches the horizontal position at time t = 0, a small insect starts from O and moves with constant speed v along the rod towards the other end. It reaches the end of the rod at t = t₀ and stops. The angular speed of the system remains ω throughout.",
+        "year": 2012,
+        "question_type": "mcq",
+        "options": [
+          "(a) |τ| = t",
+          "(b) |τ| = t²",
+          "(c) |τ| = t³",
+          "(d) |τ| = 1/t"
+        ]
+      },
+      {
+        "question_number": 33,
+        "question": "A hoop of radius R and mass m rotating with an angular velocity ω₀ is placed on a rough horizontal surface. The initial velocity of the centre of the hoop is zero. What will be the velocity of the centre of the hoop when it ceases to slip?",
+        "year": 2013,
+        "question_type": "mcq",
+        "options": [
+          "(a) rω₀/4",
+          "(b) rω₀/3",
+          "(c) rω₀/2",
+          "(d) rω₀"
+        ]
+      },
+      {
+        "question_number": 34,
+        "question": "A bob of mass m attached to an inextensible string of length l is suspended from a vertical support. The bob rotates in a horizontal circle with an angular speed ω about the vertical support. About the point of suspension, angular momentum is conserved.",
+        "year": 2014,
+        "question_type": "mcq",
+        "options": [
+          "(a) angular momentum changes in magnitude but not in direction",
+          "(b) angular momentum changes in direction but not in magnitude",
+          "(c) angular momentum changes both in direction and magnitude",
+          "(d) angular momentum is conserved"
+        ]
+      },
+      {
+        "question_number": 35,
+        "question": "A mass m supported by a massless string wound around a uniform hollow cylinder of mass m and radius R. If the string does not slip on the cylinder, with what acceleration will the mass fall on release?",
+        "year": 2014,
+        "question_type": "mcq",
+        "options": [
+          "(a) 2g/3",
+          "(b) g/2",
+          "(c) g/6",
+          "(d) g"
+        ],
+        "images":["arihant_images_ch6/arihant_12.png"]
+      },
+      {
+        "question_number": 36,
+        "question": "From a solid sphere of mass M and radius R, a cube of maximum possible volume is cut. Moment of inertia of cube about an axis passing through its centre and perpendicular to one of its faces is:",
+        "year": 2015,
+        "question_type": "mcq",
+        "options": [
+          "(a) MR²/32",
+          "(b) 4MR²/9",
+          "(c) MR²/16",
+          "(d) 4MR²/3"
+        ]
+      },
+      {
+        "question_number": 37,
+        "question": "A slender uniform rod of mass M and length l is suspended from a fixed point so that it can rotate in a vertical plane (see the figure). The free end is held vertically above the pivot and then released. The angular velocity of the rod when it makes an angle θ with the vertical, is",
+        "year": 2017,
+        "question_type": "mcq",
+        "options": [
+          "(a) 3g/4l sin θ",
+          "(b) 3g/2l sin θ",
+          "(c) 2g/l cos θ",
+          "(d) 2g/l sin θ"
+        ],
+        "images":["arihant_images_ch6/arihant_13.png"]
+      },
+      {
+        "question_number": 38,
+        "question": "Seven identical circular planar discs, each of mass M and radius R are welded symmetrically as shown in the figure. The moment of inertia of the arrangement about an axis normal to the plane and passing through the point P is",
+        "year": 2018,
+        "question_type": "mcq",
+        "options": [
+          "(a) 181/2 MR²",
+          "(b) 19 MR²",
+          "(c) 55/2 MR²",
+          "(d) 73/2 MR²"
+        ],
+        "images":["arihant_images_ch6/arihant_14.png"]
+      },
+      {
+        "question_number": 39,
+        "question": "A circular disc of radius b has a hole of radius a at its centre (see figure). If the mass per unit area of the disc varies as (S₀ r), then the radius of gyration of the disc about its axis passing through the centre is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) √(a² + b² + ab)",
+          "(b) a + b",
+          "(c) √(a² + b² + ab/3)",
+          "(d) a + b"
+        ],
+        "images":["arihant_images_ch6/arihant_15.png"]
+      },
+      {
+        "question_number": 40,
+        "question": "A solid sphere of mass M and radius R is divided into two unequal parts. The first part has a mass of 7M/8 and is converted into a uniform disc of radius 2R. The second part is converted into a uniform solid sphere. Let I₁ be the moment of inertia of the disc about its axis and I₂ be the moment of inertia of the new sphere about its axis. The ratio I₁/I₂ is given by",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 285/185",
+          "(b) 185/65",
+          "(c) 140",
+          "(d) 140/185"
+        ]
+      },
+      {
+        "question_number": 41,
+        "question": "A thin disc of mass M and radius R has mass per unit area σ(r) = kr², where r is the distance from its centre. Its moment of inertia about an axis going through its centre of mass and perpendicular to its plane is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) MR²/2",
+          "(b) MR²/6",
+          "(c) MR²/3",
+          "(d) 2MR²/3"
+        ]
+      },
+      {
+        "question_number": 42,
+        "question": "A stationary horizontal disc is free to rotate about its axis. When a torque is applied on it, its kinetic energy as a function of θ, where θ is the angle by which it has rotated, is given as kθ². If its moment of inertia is I, then the angular acceleration of the disc is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) kθ/I",
+          "(b) kθ/I",
+          "(c) k/4I",
+          "(d) kθ²/I"
+        ]
+      },
+      {
+        "question_number": 43,
+        "question": "The moment of inertia of a solid sphere, about an axis parallel to its centre and at a distance of r from it, is given by I(r) = I₀(r). Which one of the graphs represents the variation of I(r) correctly?",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) I₀(r)",
+          "(b) I₀(r²)",
+          "(c) I₀(r³)",
+          "(d) I₀(r⁴)"
+        ]
+      },
+      {
+        "question_number": 44,
+        "question": "Let the moment of inertia of a hollow cylinder of length 30 cm (inner radius 10 cm and outer radius 20 cm) about its axis be I. The radius of a thin cylinder of the same mass such that its moment of inertia about its axis is I₀, is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 16 cm",
+          "(b) 14 cm",
+          "(c) 12 cm",
+          "(d) 18 cm"
+        ]
+      },
+      {
+        "question_number": 45,
+        "question": "A circular disc D₁ of mass M and radius R has two identical discs D₂ and D₃ of the same mass M and radius R attached rigidly at its opposite ends (see figure). The moment of inertia of the system about the axis OO passing through the centre of D₁ is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 3/2 MR²",
+          "(b) 5/2 MR²",
+          "(c) 3 MR²",
+          "(d) MR²"
+        ],
+        "images":["arihant_images_ch6/arihant_16.png"]
+      },
+      {
+        "question_number": 46,
+        "question": "An equilateral triangle ABC is cut from a thin solid sheet of wood. The sides of the square is 2a. The moment of inertia of the triangle about an axis passing through the centre of the triangle and perpendicular to the plane of the triangle is I₀. If the smaller triangle DEF is removed from ABC, the moment of inertia of the remaining figure about the same axis is I′.",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) I′ = 3/4 I₀",
+          "(b) I′ = 15/16 I₀",
+          "(c) I′ = I₀",
+          "(d) I′ = 9/16 I₀"
+        ],
+        "images":["arihant_images_ch6/arihant_17.png"]
+      },
+      {
+        "question_number": 47,
+        "question": "Two identical spherical balls of mass M and radius R are stuck on two ends of a rod of length 2R and mass M (see figure). The moment of inertia of the system about the axis passing perpendicular through the centre of the rod is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 137/15 MR²",
+          "(b) 209/15 MR²",
+          "(c) 17/15 MR²",
+          "(d) 152/15 MR²"
+        ],
+        "images":["arihant_images_ch6/arihant_18.png"]
+      },
+      {
+        "question_number": 48,
+        "question": "The time dependence of the position of a particle of mass m = 2 is given by r(t) = 2î - 3t²ĵ. Its angular momentum, with respect to the origin, at time t = 2 is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 36 k̂",
+          "(b) -34 (k̂ - î)",
+          "(c) -48 k̂",
+          "(d) 48 (î + ĵ)"
+        ]
+      },
+      {
+        "question_number": 49,
+        "question": "A thin smooth rod of length L and mass M is rotating freely with angular speed ω₀, about an axis perpendicular to the rod and passing through its centre. Two beads of mass m and negligible size are at the centre of the rod initially. The beads are free to slide along the rod. The angular speed of the system, when the beads reach the opposite ends of the rod, will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) M ω₀ / M+3m",
+          "(b) M ω₀ / M + m",
+          "(c) M ω₀ / M + 2m",
+          "(d) M ω₀ / M + 6m"
+        ],
+        "images":["arihant_images_ch6/arihant_19.png"]
+      },
+      {
+        "question_number": 50,
+        "question": "A particle of mass 20 g is released with an initial velocity 5 m/s along the curve from the point A, as shown in the figure. The point A is at height h from point B. The particle slides along the frictionless surface. When the particle reaches point B, its angular momentum about O will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 8 kg·m²/s",
+          "(b) 3 kg·m²/s",
+          "(c) 2 kg·m²/s",
+          "(d) 6 kg·m²/s"
+        ],
+        "images":["arihant_images_ch6/arihant_20.png"]
+      },
+      {
+        "question_number": 51,
+        "question": "A metal cone of mass 5 kg and radius 1 is fixed to a thin stick AB of negligible mass as shown in the figure. The system is initially at rest. The constant torque, that will make the system rotate about AB at 25 rotations per second in 5s, is close to",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 4.0 × 10⁶ N·m",
+          "(b) 2.0 × 10⁶ N·m",
+          "(c) 16 × 10⁶ N·m",
+          "(d) 7.9 × 10⁶ N·m"
+        ],
+        "images":["arihant_images_ch6/arihant_21.png"]
+      },
+      {
+        "question_number": 52,
+        "question": "Moment of inertia of a body about a given axis is 1.5 kg·m². Initially, the body is at rest. In order to produce a rotational kinetic energy of 1200 J, the angular acceleration of 20 rad/s² must be applied about the axis for a duration of",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 5 s",
+          "(b) 2 s",
+          "(c) 3 s",
+          "(d) 2.5 s"
+        ]
+      },
+      {
+        "question_number": 53,
+        "question": "The following bodies are made to roll up (without slipping) the same inclined plane from a horizontal plane: (i) a ring of radius R, (ii) a solid cylinder of radius R/2 and (iii) a solid sphere of radius R/4. In each case, the speed of the centre of mass at the bottom of the incline is same, the ratio of the maximum height they climb is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 10:15:7",
+          "(b) 4:3:2",
+          "(c) 20:15:14",
+          "(d) 2:3:4"
+        ]
+      },
+      {
+        "question_number": 54,
+        "question": "A solid sphere and solid cylinder of identical radii approach an incline with the same linear velocity (see figure). Both roll without slipping all throughout. The ratio of the climb maximum heights hₛp and hₛc on the incline is given by",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 2/3",
+          "(b) 14/15",
+          "(c) 16/9",
+          "(d) 4/5"
+        ],
+        "images":["arihant_images_ch6/arihant_22.png"]
+      },
+      {
+        "question_number": 55,
+        "question": "A ring is wound around a hollow cylinder of mass 5 kg and radius 0.5 m. If the string is now pulled with a horizontal force of 40 N and the cylinder is rolling without slipping on a horizontal surface (see figure), then the angular acceleration of the cylinder will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 10 rad/s²",
+          "(b) 16 rad/s²",
+          "(c) 20 rad/s²",
+          "(d) 12 rad/s²"
+        ],
+        "images":["arihant_images_ch6/arihant_23.png"]
+      },
+      {
+        "question_number": 56,
+        "question": "A homogeneous solid cylindrical roller of radius R and mass m is pulled on a cricket pitch by a horizontal force at centre. Assuming rolling without slipping, angular acceleration of the cylinder is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) F / 2mR",
+          "(b) 2F / 3mR",
+          "(c) 3F / 2mR",
+          "(d) F / 3mR"
+        ]
+      },
+      {
+        "question_number": 57,
+        "question": "Two co-axial discs, having moments of inertia I₁ and I₂ are rotating with respective angular velocities ω₁ and ω₂ about their common axis. They are brought in contact with each other and after some time they rotate with a common angular velocity. If E₁ and E₂ are the final and initial total energies, then (E₁ - E₂) is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) -I₁ω₁²/24",
+          "(b) -I₁ω₁²/12",
+          "(c) 3I₁ω₁²/8",
+          "(d) I₁ω₁²/6"
+        ]
+      },
+      {
+        "question_number": 58,
+        "question": "Consider a body, shown in figure, consisting of two identical balls, each of mass M connected by a light rigid rod. If an impulse J = MV is imparted to the body at one of its end, what would be its angular velocity?",
+        "year": 2003,
+        "question_type": "mcq",
+        "options": [
+          "(a) v/L",
+          "(b) 2v/L",
+          "(c) v/3L",
+          "(d) v/4L"
+        ],
+        "images":["arihant_images_ch6/arihant_24.png"]
+      },
+      {
+        "question_number": 59,
+        "question": "A uniform rod of length l is being rotated in a horizontal plane with a constant angular speed about an axis passing through one of its ends. If the tension generated in the rod due to rotation is T(x) at a distance x from the axis, then which of the following graphs depicts it most closely?",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) T(x) ∝ x",
+          "(b) T(x) ∝ x²",
+          "(c) T(x) ∝ 1/x",
+          "(d) T(x) ∝ 1/x²"
+        ]
+      },
+      {
+        "question_number": 60,
+        "question": "The magnitude of torque on a particle of mass 1 kg is 2.5 N·m about the origin. If the force acting on it is 1 N and the distance of the particle from the origin is 5 m, then the angle between the force and the position vector is (in radians)",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) π/8",
+          "(b) π/4",
+          "(c) π/3",
+          "(d) π/6"
+        ]
+      },
+      {
+        "question_number": 61,
+        "question": "A slab is subjected to two forces F₁ and F₂ of same magnitude F as shown in the figure. Force F₂ is in xy-plane while force F₁ acts along Z-axis at the point (2î + 3ĵ). The moment of these forces about point O will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) (3î + 2ĵ - 3k̂)F",
+          "(b) (3î - 2ĵ + 3k̂)F",
+          "(c) (3î - 2ĵ - 3k̂)F",
+          "(d) (3î + 2ĵ + 3k̂)F"
+        ],
+        "images":["arihant_images_ch6/arihant_25.png"]
+      },
+      {
+        "question_number": 62,
+        "question": "A rigid massless rod of length 3/4 has two masses attached at each end as shown in the figure. The rod is pivoted about O on the horizontal axis (see figure). When released from rest at an angle θ, what is the time period of oscillation?",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 4π √(l /g)",
+          "(b) 2π √(l /g)",
+          "(c) 2π √(2l /g)",
+          "(d) 2π √(3l /g)"
+        ],
+        "images":["arihant_images_ch6/arihant_26.png"]
+      },
+      {
+        "question_number": 63,
+        "question": "A rod of length 50 cm is pivoted at one end. It is raised such that it makes an angle of 30° from the horizontal and is released from rest. Its angular speed when it passes through the horizontal (in rad/s) will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) √30 / 2",
+          "(b) √20 / 3",
+          "(c) √15 / 3",
+          "(d) √30 / 3"
+        ],
+        "images":["arihant_images_ch6/arihant_27.png"]
+      },
+      {
+        "question_number": 64,
+        "question": "An L-shaped object made of thin rods of uniform mass density is suspended with a string as shown in figure. If AB = BC = CA = 2R is moving with a constant velocity (−i) towards a sphere of radius R fixed on a smooth horizontal table as shown in the figure.",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) tanθ = 2 / √3",
+          "(b) tanθ = 1 / √2",
+          "(c) tanθ = 1 / 2√3",
+          "(d) tanθ = 1 / 3"
+        ],
+        "images":["arihant_images_ch6/arihant_28.png"]
+      },
+      {
+        "question_number": 65,
+        "question": "Moment of inertia of a cylinder of mass M, length L, and radius R about an axis passing through its centre and perpendicular to the axis of the cylinder is given by: I = M (R²/4 + L²/12). If such a cylinder is to be made from a given mass of material, to have the minimum possible moment of inertia, the ratio L/R for the cylinder is:",
+        "year": 2020,
+        "question_type": "mcq",
+        "options": [
+          "(a) 2/3",
+          "(b) 3/2",
+          "(c) √(3/2)",
+          "(d) √(2/3)"
+        ]
+      },
+      {
+        "question_number": 66,
+        "question": "A block of mass m = 1 kg slides with velocity v = 6 m/s on a frictionless horizontal surface and collides with a uniform vertical rod and sticks to it as shown. The rod is pivoted about O and swings as a result of the collision, making angle θ before momentarily coming to rest. If the rod has mass M = 2 kg and length l = 1 m, then the value of θ is approximately. (Take, g = 10 m/s²)",
+        "year": 2020,
+        "question_type": "mcq",
+        "options": [
+          "(a) 63°",
+          "(b) 55°",
+          "(c) 69°",
+          "(d) 49°"
+        ],
+        "images":["arihant_images_ch6/arihant_29.png"]
+      },
+      {
+        "question_number": 67,
+        "question": "Four solid spheres each of diameter √5 cm and mass 0.5 kg are placed with their centres at the corners of a square of side 4 cm. The moment of inertia of the system about the diagonal of the square is N × 10⁴ kg·m², then N is",
+        "year": 2011,
+        "question_type": "Integer Answer Type"
+      },
+      {
+        "question_number": 68,
+        "question": "A lamina is made by removing a small disc of diameter 2R from a bigger disc of uniform mass density and radius 2R, as shown in the figure. The moment of inertia of this lamina about axes passing through O and P is Iₒ and Iₚ, respectively. Both these axes are perpendicular to the plane of the lamina. The ratio Iₚ/Iₒ to the nearest integer is",
+        "year": 2012,
+        "question_type": "Integer Answer Type",
+        "images":["arihant_images_ch6/arihant_30.png"]
+      },
+      {
+        "question_number": 69,
+        "question": "A particle of mass m is projected at time t = 0 from a point P on the ground with a speed v₀, at an angle of 45° to the horizontal. Find the magnitude and direction of the angular momentum of the particle about P at time t = v₀ / g.",
+        "year": 1984,
+        "question_type": "Analytical & Descriptive Questions"
+      },
+      {
+        "question_number": 70,
+        "question": "A solid cylinder rolls without slipping on an inclined plane inclined at an angle θ. Find the linear acceleration of the cylinder. Mass of the cylinder is M.",
+        "year": 2005,
+        "question_type": "Analytical & Descriptive Questions"
+      },
+      {
+        "question_number": 71,
+        "question": "A rod of length L and mass M is hinged at point O. A small bullet of mass m hits the rod as shown in the figure. The bullet gets embedded in the rod. Find angular velocity of the system just after impact.",
+        "year": 2005,
+        "question_type": "Analytical & Descriptive Questions",
+        "images":["arihant_images_ch6/arihant_31.png"]
+      },
+      {
+        "question_number": 72,
+        "question": "A person of 80 kg mass is standing on the rim of a circular platform of mass 200 kg rotating about its axis at 5 rpm. The person now starts moving towards the centre of the platform. What will be the rotational speed (in rpm) of the platform when the person reaches its centre?",
+        "year": 2020,
+        "question_type": "Analytical & Descriptive Questions"
+      }
+
+
+    ],
+    "section-2": [
+    {
+      "question_number": 2,
+      "question": "A block of base 10 cm × 10 cm and height 15 cm is kept on an inclined plane. The coefficient of friction between them is √3. The inclination θ of this inclined plane from the horizontal plane is gradually increased from 0°. Then,",
+      "year": 2009,
+      "question_type": "mcq",
+      "options": [
+        "(a) at θ = 30°, the block will start sliding down the plane",
+        "(b) the block will remain at rest on the plane up to certain θ and then it will topple",
+        "(c) at θ = 60°, the block will start sliding down the plane and continue to do so at higher angles",
+        "(d) at θ = 60°, the block will start sliding down the plane and on further increasing θ, it will topple at certain θ"
+      ]
+    },
+    {
+        "question_number": 4,
+        "question": "A small mass m is attached to a massless string whose other end is fixed at P as shown in the figure. The mass is undergoing circular motion in the x-y plane with center at O and constant angular speed ω. If the angular momentum of the system, calculated about O and P are denoted by Lₒ and Lᵖ respectively, then",
+        "year": 2012,
+        "question_type": "mcq",
+        "options": [
+          "(a) Lₒ and Lᵖ do not vary with time",
+          "(b) Lₒ varies with time while Lᵖ remains constant",
+          "(c) Lₒ remains constant while Lᵖ varies with time",
+          "(d) Lₒ and Lᵖ both vary with time"
+        ],
+        "images":["arihant_images_ch6/arihant_32.png"]
+      },
+      {
+        "question_number": 5,
+        "question": "A ring of mass M and radius R is rotating with angular speed ω about a fixed vertical axis passing through its centre O with two point masses each of mass M at rest at O. These masses can move radially outwards along two massless rods fixed on the ring as shown in the figure. At some instant, the angular speed of the system is ω and one of the masses is at a distance of R/3 from O. At this instant, the distance of the other mass from O is.",
+        "year": "2015 Adv.",
+        "question_type": "mcq",
+        "options": [
+          "(a) 2R/3",
+          "(b) 1/3 R",
+          "(c) 3R/5",
+          "(d) 4R/5"
+        ],
+        "images":["arihant_images_ch6/arihant_33.png"]
+      },
+      {
+        "question_number": 6,
+        "question": "A rectangular solid box of length 0.3 m is held horizontally, with one of its sides on the edge of a platform of height 5 m. When released, it slips off the table in a very short time t = 0.01 s, remaining essentially horizontal. The angle by which it would rotate when it hits the ground will be (in radians) close to.",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 4.0 × 10⁻⁶ rad",
+          "(b) 2.0 × 10⁻⁵ rad",
+          "(c) 16 × 10⁻⁶ rad",
+          "(d) 7.9 × 10⁻⁶ rad"
+        ],
+        "images":["arihant_images_ch6/arihant_34.png"]
+      },
+      {
+        "question_number": 7,
+        "question": "A person of mass M is sitting on a swing to length L and swinging with an angular amplitude θ₀. If the person stands up when the swing passes through its lowest point, the work done by him, assuming that his centre of mass moves by a distance l (l << L), is close to.",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) Mgl(1 − θ₀²)",
+          "(b) Mgl(1 + θ₀²)",
+          "(c) Mgl",
+          "(d) MgL(1 + (θ₀²)/2)"
+        ]
+      },
+      {
+        "question_number": 8,
+        "question": "The torque τ on a body about a given point is found to be equal to A × L, where A is a constant vector and L is the angular momentum of the body about that point. From this it follows that.",
+        "year": 1998,
+        "question_type": "mcq",
+        "options": [
+          "(a) dL/dt is perpendicular to L at all instants of time",
+          "(b) the component of L in the direction of A does not change with time",
+          "(c) the magnitude of L does not change with time",
+          "(d) L does not change with time"
+        ]
+      },
+      {
+        "question_number": 9,
+        "question": "Consider a body of mass 1.0 kg at rest at the origin at time t = 0. A force F = (αi + βj) is applied on the body, where α = 1.0 N·s⁻¹ and β = 1.0 N. The torque acting on the body about the origin at time t = 1.0 s is t. Which of the following statements is (are) true?",
+        "year": 2008,
+        "question_type": "mcq",
+        "options": [
+          "(a) |τ| = 1/3 N·m",
+          "(b) The torque τ is in the direction of the unit vector k̂",
+          "(c) The velocity of the body at t = 1 s is v = 1/2 (î + 2ĵ) m/s",
+          "(d) The magnitude of displacement of the body at t = 1 s is 1/6 m"
+        ]
+      },
+      {
+        "question_number": 10,
+        "question": "A thin ring of mass 2 kg and radius 0.5 m is rolling without slipping on a horizontal plane with velocity 1 m/s. A small ball of mass 0.1 kg, moving with velocity 20 m/s in the opposite direction, hits the ring at a height of 0.75 m and goes vertically up with velocity 10 m/s. Immediately after the collision,",
+        "year": 2011,
+        "question_type": "mcq",
+        "options": [
+          "(a) the ring has pure rotation about its stationary CM",
+          "(b) the ring comes to a complete stop",
+          "(c) friction between the ring and the ground is to the left",
+          "(d) there is no friction between the ring and the ground"
+        ],
+        "images":["arihant_images_ch6/arihant_35.png"]
+      },
+      {
+        "question_number": 11,
+        "question": "The position vector r of particle of mass m is given by the following equation r(t) = αt î + βt² ĵ where, α = 10/3 ms⁻³, β = 5 ms⁻² and m = 0.1 kg. At t = 1s, which of the following statement(s) is (are) true about the particle?",
+        "year": 2016,
+        "question_type": "mcq",
+        "options": [
+          "(a) The velocity v is given by v = (10î + 10ĵ) ms⁻¹",
+          "(b) The angular momentum L with respect to the origin is given by L = (-5/3)k̂ Nms",
+          "(c) The force F is given by F = (î + 2ĵ)N",
+          "(d) The torque τ with respect to the origin is given by τ = -20/3 k̂ Nm"
+        ]
+      },
+      {
+        "question_number": 12,
+        "question": "A rigid uniform bar AB of length L is slipping from its vertical position on a frictionless floor (as shown in the figure). At some instant of time, the angle made by the bar with the vertical is θ. Which of the following statements about its motion is/are correct?",
+        "year": 2017,
+        "question_type": "mcq",
+        "options": [
+          "(a) Instantaneous torque about the point in contact with the floor is proportional to sinθ",
+          "(b) The trajectory of the point A is parabola",
+          "(c) The mid-point of the bar will fall vertically downward",
+          "(d) When the bar makes an angle θ with the vertical, the displacement of its mid-point from the initial position is proportional to (1 - cosθ)"
+        ],
+        "images":["arihant_images_ch6/arihant_36.png"]
+      },
+      {
+        "question_number": 19,
+        "question": "In the column-I below, four different paths of a particle are given as functions of time. In these functions, α and β are positive constants of appropriate dimensions and α ≠ β. In each case, the force acting on the particle is either zero or conservative. In column-II, five physical quantities of the particle are mentioned: p is the linear momentum, L is the angular momentum about the origin, K is the kinetic energy, U is the potential energy, and E is the total energy. Match each path in Column-I with those quantities in Column-II, which are conserved for that path.",
+        "year": 2018,
+        "question_type": "Match The Column",
+        "column_1": [
+          {
+            "path": "r(t) = αt î + βt ĵ",
+            "quantity": "p"
+          },
+          {
+            "path": "r(t) = α cos ωt î + β sin ωt ĵ",
+            "quantity": "L"
+          },
+          {
+            "path": "r(t) = α (cos ωt î + sin ωt ĵ)",
+            "quantity": "K"
+          },
+          {
+            "path": "r(t) = at î + β/2 t² ĵ",
+            "quantity": "U"
+          }
+        ],
+        "column_2": [
+          {
+            "quantity": "p",
+            "description": "Linear momentum"
+          },
+          {
+            "quantity": "L",
+            "description": "Angular momentum"
+          },
+          {
+            "quantity": "K",
+            "description": "Kinetic energy"
+          },
+          {
+            "quantity": "U",
+            "description": "Potential energy"
+          },
+          {
+            "quantity": "E",
+            "description": "Total energy"
+          }
+        ],
+        "options": [
+          "(a) A → p, q, r, s, t ; B → q, t ; C → q, r, s, t ; D → t",
+          "(b) A → p, q, r, s, t ; B → q, t ; C → p, q, r, s ; D → q, t",
+          "(c) A → p, q, r ; B → t ; C → p, q, s, t ; D → q, t",
+          "(d) A → p, q, r, t ; B → q, t ; C → q, r, s, t ; D → t"
+        ]
+      },
+      {
+        "question_number": 20,
+        "question": "A binary star consists of two stars A (mass 2.2M⊙) and B (mass 11M⊙), where M⊙ is the mass of the sun. They are separated by distance d and are rotating about their centre of mass, which is stationary. The ratio of the total angular momentum of the binary star to the angular momentum of star B about the centre of mass is",
+        "year": 2010,
+        "question_type": "Integer Answer Type"
+      },
+      {
+        "question_number": 21,
+        "question": "A uniform circular disc of mass 50 kg and radius 0.4 m is rotating with an angular velocity of 10 rad/s about its own axis, which is vertical. Two uniform circular rings, each of mass 6.25 kg and radius 0.2 m, are gently placed symmetrically on the disc in such a manner that they are touching each other along the axis of the disc and the system rotates about the original axis. The new angular velocity (in rad/s) of the system is",
+        "year": 2013,
+        "question_type": "Integer Answer Type"
+      },
+      {
+        "question_number": 22,
+        "question": "A horizontal circular platform of radius 0.5 m and mass 0.45 kg is free to rotate about its axis. Two massless spring toy-guns, each carrying a steel ball of mass 0.05 kg are attached to the platform at a distance 0.25 m from the centre on its either sides along its diameter (see figure). Each gun simultaneously fires the balls horizontally and perpendicular to the diameter in opposite directions. After leaving the platform, the balls have horizontal speed of 9 m/s with respect to the ground. The rotational speed of the platform in rad/s after the balls leave the platform is",
+        "year": 2014,
+        "question_type": "Integer Answer Type",
+        "images":["arihant_images_ch6/arihant_37.png"]
+      },
+      {
+        "question_number": 23,
+        "question": "Two identical uniform discs roll without slipping on two different surfaces AB and CD (see figure) starting at A and C with linear speeds v₁ and v₂, respectively, and always remain in contact with the surfaces. If they reach B and D with the same linear speed and v₁ = 3 m/s, then v₂ in m/s is (g = 10 m/s²)",
+        "year": 2015,
+        "question_type": "Integer Answer Type",
+        "images":["arihant_images_ch6/arihant_38.png"]
+      },
+      {
+        "question_number": 24,
+        "question": "A ring and a disc are initially at rest, side by side, at the top of an inclined plane which makes an angle 60° with the horizontal. They start to roll without slipping at the same instant of time along the shortest path. If the time difference between their reaching the ground is (2−√3)/√10s, then the height of the top of the inclined plane, in metres, is. (Take, g = 10 m/s²)",
+        "year": 2018,
+        "question_type": "Integer Answer Type"
+      },
+      {
+        "question_number": 25,
+        "question": "A small sphere rolls down without slipping from the top of a track in a vertical plane. The track has an elevated section and a horizontal part. The horizontal part is 1.0 m above the ground level and the top of the track is 2.6 m above the ground. Find the distance on the ground with respect to the point B (which is vertically below the end of the track as shown in figure) where the sphere lands. During its flight as a projectile, does the sphere continue to rotate about its centre of mass? Explain.",
+        "year": 1987,
+        "question_type": "Analytical & Descriptive",
+        "images":["arihant_images_ch6/arihant_39.png"]
+      },
+      {
+        "question_number": 26,
+        "question": "Two uniform rods A and B of length 0.6 m each and of masses 0.01 kg and 0.02 kg, respectively are rigidly joined end to end. The combination is pivoted at the lighter end, P as shown in figure. Such that it can freely rotate about point P in a vertical plane. A small object of mass 0.05 kg, moving horizontally, hits the lower end of the combination and sticks to it. What should be the velocity of the object, so that the system could just be raised to the horizontal position?",
+        "year": 1994,
+        "question_type": "Analytical & Descriptive",
+        "images":["arihant_images_ch6/arihant_40.png"]
+      },
+     
+      {
+        "question_number": 27,
+        "question": "A rectangular rigid fixed block has a long horizontal edge. A solid homogeneous cylinder of radius R is placed horizontally at rest with its length parallel to the edge such that the axis of the cylinder and the edge of the block are in the same vertical plane as shown in figure. There is sufficient friction present at the edge, so that a very small displacement causes the cylinder to roll off the edge without slipping. Determine:",
+        "year": 1995,
+        "question_type": "Analytical & Descriptive",
+        "sub_questions": [
+          "(a) the angle θ, through which the cylinder rotates before it leaves contact with the edge",
+          "(b) the speed of the centre of mass of the cylinder before leaving contact with the edge",
+          "(c) the ratio of the translational to rotational kinetic energies of the cylinder when its centre of mass is in horizontal line with the edge"
+        ],
+        "images":["arihant_images_ch6/arihant_41.png"]
+      },
+      {
+        "question_number": 28,
+        "question": "A uniform disc of mass m and radius R is projected horizontally with velocity v₀ on a rough horizontal floor, so that it starts off with a purely sliding motion at t = 0. After t₀ seconds, it acquires a purely rolling motion as shown in figure.",
+        "year": 1997,
+        "question_type": "Analytical & Descriptive",
+        "sub_questions": [
+          "(a) Calculate the velocity of the centre of mass of the disc at t₀.",
+          "(b) Assuming the coefficient of friction to be μ, calculate t₀. Also calculate the work done by the frictional force as a function of time and the total work done by it over a time t much longer than t₀."
+        ],
+        "images":["arihant_images_ch6/arihant_42.png"]
+      },
+      {
+        "question_number": 29,
+        "question": "Two thin circular discs of mass 2 kg and radius 10 cm each are joined by a rigid massless rod of length 20 cm. The axis of the rod is along the perpendicular to the planes of the disc through their centres. This object is kept on a truck in such a way that the axis of the object is horizontal and perpendicular to the direction of motion of the truck.",
+        "year": 1995,
+        "question_type": "Analytical & Descriptive",
+        "sub_questions": [
+          "(a) the force of friction on each disc and",
+          "(b) the magnitude and direction of the frictional torque acting on the rod."
+        ],
+        "images":["arihant_images_ch6/arihant_43.png"]
+      },
+      {
+        "question_number": 30,
+        "question": "A uniform circular disc has radius R and mass m. A particle, also of mass m, is fixed at a point A on the edge of the disc as shown in the figure. The disc can rotate freely about a horizontal track PQ that is at a distance R/4 from the centre C of the disc. The line AC is perpendicular to PQ. Initially the disc is held vertical with the point A at its highest position. It is then allowed to fall, so that it starts rotation about PQ. Find the linear speed of the particle as it reaches its lowest position.",
+        "year": 1998,
+        "question_type": "Analytical & Descriptive",
+        "images":["arihant_images_ch6/arihant_44.png"]
+      },
+      {
+        "question_number": 31,
+        "question": "A man pushes a cylinder of mass m with the help of a plank of mass M as shown. There is no slipping at any contact. The horizontal component of the force applied by the man is F. Find:",
+        "year": 1999,
+        "question_type": "Analytical & Descriptive",
+        "sub_questions": [
+          "(a) the accelerations of the plank and the centre of mass of the cylinder and",
+          "(b) the magnitudes and directions of frictional forces at contact points."
+        ],
+        "images":["arihant_images_ch6/arihant_45.png"]
+      },
+      {
+        "question_number": 32,
+        "question": "A rod of mass M and length L is lying on a horizontal frictionless surface. A particle of mass m travelling along the surface hits the end A of the rod with a velocity v₀ in a direction perpendicular to AB. The collision is elastic. After the collision, the particle comes to rest. Find:",
+        "year": 2000,
+        "question_type": "Analytical & Descriptive",
+        "sub_questions": [
+          "(a) Find the ratio m/M.",
+          "(b) Find the distance AP.",
+          "(c) Find the linear speed of the point A time tL/3v₀ after the collision."
+        ]
+      },
+      {
+        "question_number": 33,
+        "question": "Two heavy metallic plates are joined together at 90° to each other. A laminar sheet of mass 30 kg is hinged at the line AB joining the two heavy metallic plates. The hinges are frictionless. The moment of inertia of the laminar sheet about an axis parallel to AB and passing through its centre of mass is I = 1.2 kg·m². Two rubber obstacles P and Q are fixed, one on each metallic plate at a distance 0.5 m from the line AB. This distance is chosen, so that the reaction due to the hinges on the laminar sheet is zero during the impact. Initially the laminar sheet hits one of the obstacles with an angular velocity 1 rad/s and turns back. If the impulse on the sheet due to each obstacle is 6 N·s.",
+        "year": 2001,
+        "question_type": "Analytical & Descriptive Questions",
+        "sub_questions": [
+          {
+            "sub_question": "(a) Find the location of the centre of mass of the laminar sheet from AB."
+          },
+          {
+            "sub_question": "(b) At what angular velocity does the laminar sheet come back after the first impact?"
+          },
+          {
+            "sub_question": "(c) After how many impacts, does the laminar sheet come to rest?"
+          }
+        ],
+        "images":["arihant_images_ch6/arihant_46.png"]
+      },
+      {
+        "question_number": 34,
+        "question": "Three particles A, B, and C, each of mass m, are connected to each other by three massless rigid rods to form a rigid equilateral triangular body of side l. This body is placed on a horizontal frictionless table (x-y plane) and is hinged to it at the point A, so that it can move without friction about the vertical axis through A (see figure). The body is set into rotational motion on the table about A with a constant angular velocity ω.",
+        "year": 2002,
+        "question_type": "Analytical & Descriptive Questions",
+        "parts": [
+          {
+            "part": "(a)",
+            "sub_question": "Find the magnitude of the horizontal force exerted by the hinge on the body."
+          },
+          {
+            "part": "(b)",
+            "sub_question": "At time T, when the side BC is parallel to the X-axis, a force F is applied on B along BC (as shown). Obtain the x-component and the y-component of the force exerted by the hinge on the body, immediately after time T."
+          }
+        ],
+        "images":["arihant_images_ch6/arihant_47.png"]
+      }
+
+
+
+      
+   ],
+   "section-3": [
+    {
+      "question_number": 1,
+      "question": "Consider a disc rotating in the horizontal plane with a constant angular speed ω about its centre O. The disc has a shaded region on one side of the diameter and an unshaded region on the other side as shown in the figure. When the disc is in the orientation as shown, two pebbles P and Q are simultaneously projected at an angle towards R. The velocity of projection is in the i-j plane and is same for both pebbles with respect to the disc. Assume that (i) they land back on the disc before the disc has completed 1/8 rotation, (ii) their range is less than half the disc radius, and (iii) ω remains constant throughout. Then",
+      "year": 2012,
+      "question_type": "mcq",
+      "options": [
+        "(a) P lands in the shaded region and Q in the unshaded region",
+        "(b) P lands in the unshaded region and Q in the shaded region",
+        "(c) both P and Q land in the unshaded region",
+        "(d) both P and Q land in the shaded region"
+      ],
+      "images":["arihant_images_ch6/arihant_48.png"]
+    },
+    {
+      "question_number": 2,
+      "question": "A roller is made by joining together two corners at their vertices O. It is kept on two rails AB and CD which are placed asymmetrically (see the figure), with its axis perpendicular to CD and its centre O at the centre of line joining AB and CD (see the figure). It is given a light push, so that it starts rolling with its centre O moving parallel to CD in the direction shown. As it moves, the roller will tend to",
+      "year": 2016,
+      "question_type": "mcq",
+      "options": [
+        "(a) turn left",
+        "(b) turn right",
+        "(c) go straight",
+        "(d) turn left and right alternately"
+      ],
+      "images":["arihant_images_ch6/arihant_49.png"]
+    },
+    {
+      "question_number": 3,
+      "question": "The moment of inertia of a uniform cylinder of length l and radius R about its perpendicular bisector is I. What is the ratio l/R such that the moment of inertia is minimum?",
+      "year": 2017,
+      "question_type": "mcq",
+      "options": [
+        "(a) √3 / 2",
+        "(b) 1",
+        "(c) √3 / √2",
+        "(d) √3 / 2"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "The figure shows a system consisting of (i) a ring of outer radius 3R rolling clockwise without slipping on a horizontal surface with angular speed ω and (ii) an inner disc of radius 2R rotating anti-clockwise with angular speed ω/2. The ring and disc are separated by frictionless ball bearings. The system is in the x-z plane. The point P on the inner disc is at a distance R from the origin, where OP makes an angle of 30° with the horizontal. Then with respect to the horizontal surface,",
+      "year": 2012,
+      "question_type": "mcq",
+      "options": [
+        "(a) the point O has a linear velocity 3Rω î",
+        "(b) the point P has a linear velocity (11/4) Rω î + (√3/4) Rω k̂",
+        "(c) the point P has a linear velocity (13/4) Rω î - (√3/4) Rω k̂",
+        "(d) the point P has a linear velocity [(3 - √3)/4] Rω î + (1/4) Rω k̂"
+      ],
+      "images":["arihant_images_ch6/arihant_50.png"]
+    },
+    {
+        "question_number": 5,
+        "question": "Two thin circular discs of mass m and 4m, having radii of a and 2a, respectively, are rigidly fixed by a massless, rigid rod of length l = √24 through their centers. This assembly is laid on a firm and flat surface and rolling without slipping on the surface so that the angular speed about the axis of the rod is ω. The angular momentum of the entire assembly about the point 'O' is L (see the figure). Which of the following statement(s) is/are true?",
+        "year": 2016,
+        "question_type": "mcq",
+        "options": [
+          "(a) The magnitude of the z-component of L is 55 m²ω",
+          "(b) The magnitude of angular momentum of centre of mass of the assembly about the point O is 81 m²ω",
+          "(c) The centre of mass of the assembly rotates about the Z-axis with an angular speed of ω / 5",
+          "(d) The magnitude of angular momentum of the assembly about its centre of mass is 17 m²ω² / 2"
+        ],
+        "images":["arihant_images_ch6/arihant_51.png"]
+      },
+      {
+        "question_number": 6,
+        "question": "A wheel of radius R and mass M is placed at the bottom of a fixed step of height R as shown in the figure. A constant force is continuously applied on the surface of the wheel so that it just climbs the step without slipping. Consider the torque τ about an axis normal to the plane of the paper passing through the point Q. Which of the following options is/are correct?",
+        "year": 2017,
+        "question_type": "mcq",
+        "options": [
+          "(a) If the force is applied normal to the circumference at point P, then τ is zero",
+          "(b) If the force is applied tangentially at point S, then τ ≠ 0 but the wheel never climbs the step",
+          "(c) If the force is applied at point P tangentially, then τ decreases continuously as the wheel climbs",
+          "(d) If the force is applied normal to the circumference at point X, then τ is constant"
+        ],
+        "images":["arihant_images_ch6/arihant_52.png"]
+      },
+      {
+        "question_number": 13,
+        "question": "A carpet of mass M made of inextensible material is rolled along its length in the form of a cylinder of radius R and is kept on a rough floor. The carpet starts unrolling without sliding on the floor when a negligibly small push is given to it. Calculate the horizontal velocity of the axis of the cylindrical part of the carpet when its radius reduces to R/2.",
+        "year": 1990,
+        "question_type": "Analytical & Descriptive"
+      },
+      {
+        "question_number": 14,
+        "question": "A homogeneous rod AB of length L = 1.8 m and mass M is pivoted at the centre O in such a way that it can rotate freely in the vertical plane. The rod is initially in the horizontal position. An insect S of the same mass M falls vertically with speed v on the point C, midway between the points O and B. Immediately after falling, the insect moves towards the end B such that the rod rotates with a constant angular velocity ω.",
+        "year": 1992,
+        "question_type": "Analytical & Descriptive",
+        "sub_questions": [
+          {
+            "sub_question": "(a) Determine the angular velocity ω in terms of v and L.",
+            "sub_question_type": "Analytical"
+          },
+          {
+            "sub_question": "(b) If the insect reaches the end B when the rod has turned through an angle of 90°, determine v.",
+            "sub_question_type": "Analytical"
+          }
+        ],
+        "images":["arihant_images_ch6/arihant_53.png"]
+      },
+      {
+        "question_number": 15,
+        "question": "A boy is pushing a ring of mass 2 kg and radius 0.5 m with a stick as shown in the figure. The stick applies a force of 2 N on the ring and rolls it without slipping with an acceleration of 0.3 m/s². The coefficient of friction between the ground and the ring is large enough that rolling always occurs and the coefficient of friction between the stick and the ring is (P/10). The value of P is",
+        "year": 2011,
+        "question_type": "Analytical & Descriptive",
+        "images":["arihant_images_ch6/arihant_54.png"]
+      }
+
+  ]
+
+  }
+  

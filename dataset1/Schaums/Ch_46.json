@@ -1,0 +1,156 @@
+[
+  {
+    "question_number": 46.1,
+    "Questions": "The binding energy per nucleon for 238U is about 7.6 MeV, while it is about 8.6 MeV for nuclei of half that mass. If a 238U nucleus were to split into two equal-size nuclei, about how much energy would be released in the process?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "There are 238 nucleons involved. Each nucleon will release about 8.6 - 7.6 = 1.0 MeV of energy when the nucleus undergoes fission. The total energy liberated is therefore about 238 MeV or 2.4 x 10^2 MeV."
+  },
+  {
+    "question_number": 46.2,
+    "Questions": "What is the binding energy per nucleon for the 238U nucleus? The atomic mass for 238U is 238.05079 u; also mp = 1.007276 u and mn = 1.008665 u.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The mass of 92 protons plus 238 - 92 = 146 neutrons is (92)(1.007276 u) + (146)(1.008665 u) = 239.03448 u. The mass of the 238U nucleus is 238.05079 - 92*mp = 238.05079 - (92)(0.000549) = 238.00028 u. The mass loss in assembling the nucleus is then Δm = 239.93448 - 238.00028 = 1.9342 u. Binding energy per nucleon = (1.9342 u)(931 MeV/u) / 238 = 7.57 MeV."
+  },
+  {
+    "question_number": 46.3,
+    "Questions": "When an atom of 235U undergoes fission in a reactor, about 200 MeV of energy is liberated. Suppose that a reactor using uranium-235 has an output of 700 MW and is 20 percent efficient. (a) How many uranium atoms does it consume in one day? (b) What mass of uranium does it consume each day?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) Each fission yields 200 MeV = (200 x 10^6)(1.6 x 10^-19) J of energy. Only 20 percent of this is utilized efficiently, and so Usable energy per fission = (200 x 10^6)(1.6 x 10^-19)(0.20) = 6.4 x 10^-12 J. Because the reactor's usable output is 700 x 10^6 J/s, the number of fissions required per second is Fissions/s = 700 x 10^6 / 6.4 x 10^-12 = 1.1 x 10^18 s^-1. Fissions/day = (86400 s/d)(1.1 x 10^18) = 9.5 x 10^23 fissions/day. (b) The mass of uranium-235 consumed in one day is 9.5 x 10^23 fissions / (6.02 x 10^23 atoms in 235 kg of uranium-235) = 3.7 kg."
+  },
+  {
+    "question_number": 46.4,
+    "Questions": "Neutrons produced by fission reactions must be slowed by collisions with moderator nuclei before they are effective in causing further fissions. Suppose an 800-keV neutron loses 40 percent of its energy on each collision. How many collisions are required to decrease its energy to 0.040 eV?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "After one collision, the neutron energy is down to (0.6)(800 keV). After two, it is (0.6)(0.6)(800 keV); after three, it is (0.6)(0.6)(0.6)(800 keV). We want n large enough so that (0.6)^n(8 x 10^5 eV) = 0.040 eV. Taking the logarithms of both sides of this equation gives n log 0.6 + log(8 x 10^5) = log 0.04. Solving for n, we get n ≈ 33 collisions."
+  },
+  {
+    "question_number": 46.5,
+    "Questions": "To examine the structure of a nucleus, pointlike particles with de Broglie wavelengths below about 10^-16 m must be used. Through how large a potential difference must an electron fall to have this wavelength? Assume the electron is moving in a relativistic way.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Using λ = h/p, we have KE = √(pc)^2 + (mc^2)². Substituting known values for h, c, and m, we find KE = 1.99 x 10^-9 J = 1.24 x 10^10 eV. The electron must be accelerated through a potential difference of about 10^10 eV."
+  },
+  {
+    "question_number": 46.6,
+    "Questions": "The following fusion reaction takes place in the Sun and furnishes much of its energy: 4^1H → 4^2He + 2e^+ + energy where 0e^+ is a positron electron. How much energy is released as 1.00 kg of hydrogen is consumed? The masses of 1^1H, 4^2He, and 0e^+ are, respectively, 1.007825, 4.002604, and 0.000549 u.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Reactant mass = (4)(1.007825 u) - 4me = 4.0313 u - 4me. Product mass = (mass of He nucleus) + 2me = (4.002604 u - 2me) + 2me = 4.002604 u. The mass loss is 4.0313 u - 4.002604 u = 0.0286 u. Hence the energy released is ΔE = (Δm)c² = (0.0263 kg)(2.998 x 10^8 m/s)² = 5.96 x 10^14 J."
+  },
+  {
+    "question_number": 46.7,
+    "Questions": "Lithium hydride, LiH, has been proposed as a possible nuclear fuel. The nuclei to be used and the reaction involved are as follows: 6^3Li + 2^1H → 2^4He. The listed masses being those of the neutral atoms. Calculate the expected power production, in megawatts, associated with the consumption of 1.00 g of LiH per day. Assume 100 percent efficiency.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The change in mass for the reaction must be computed first: Reactants: 6.01513 u + 2.01410 u = 8.02923 u. Products: 4.00260 u + 2.00860 u = 8.00520 u. The mass loss is 0.02403 u. Each 1.00 g of LiH undergoes fusion, so the total energy released is calculated based on the mass loss and the energy equivalence. ΔE = (Δm)c² = (0.00663 kg)(2.998 x 10^8 m/s)² = 5.96 x 10^14 J."
+  },
+  {
+    "question_number": 46.8,
+    "Questions": "Cosmic rays bombard the CO₂ in the atmosphere and, by nuclear reaction, cause the formation of the radioactive carbon isotope 14C. This isotope has a half-life of 5730 years. It mixes into the atmosphere uniformly and is taken up in plants as they grow. After a plant dies, the 14C decays over the ensuing years. How old is a piece of wood that has a 14C content which is only 9 percent as large as the average 14C content of new-grown wood?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "During the years, the 14C has decayed to 0.090 of its original value. Using the formula N/N0 = e^(-λt), we find t = 5730 years x (-ln(0.090) / -0.693) = 1.99 x 10^4 years. Therefore, the piece of wood is about 20,000 years old."
+  },
+  {
+    "question_number": 46.9,
+    "Questions": "Iodine-131 has a half-life of about 8.0 days. When consumed in food, it localizes in the thyroid. Suppose 7.0 percent of the 131I localizes in the thyroid and that 20 percent of its disintegrations are detected by counting the emitted gamma rays. How much 131I must be ingested to yield a thyroid count rate of 50 counts per second?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Because only 20 percent of the disintegrations are counted, there must be 50/0.20 = 250 disintegrations per second. The activity is related by the equation ΔN/Δt = λN = 0.693N / t1/2, where N = 2.49 x 10^8 disintegrations. This gives N = 3.56 x 10^9 atoms, and for 1.00 kmol of 131I, the mass is 7.8 x 10^-16 kg. Hence, the mass of 131I to be ingested is 7.8 x 10^-16 kg."
+  },
+  {
+    "question_number": 46.10,
+    "Questions": "A beam of gamma rays has a cross-sectional area of 2.0 cm² and carries 7.0 x 10^8 photons through the cross-section each second. Each photon has an energy of 1.25 MeV. The beam passes through a 0.75 cm thickness of flesh (ρ = 0.95 g/cm³) and loses 5.0 percent of its intensity in the process. What is the average dose (in Gy and in rd) applied to the flesh each second?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The dose in this case is the energy absorbed per kilogram of flesh. We calculate the number of photons absorbed/s, energy absorbed/s, and mass of flesh, then calculate the dose in Gy and rd as follows: Dose = (Energy absorbed/s) / (Mass of flesh) = 4.9 mGy/s = 0.49 rd/s."
+  },
+  {
+    "question_number": 46.11,
+    "Questions": "A beam of alpha particles passes through flesh and deposits 0.20 J of energy in each kilogram of flesh. The QF for these particles is 12 Sv/Gy. Find the dose in Gy and rd, as well as the effective dose in Sv and rem.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Dose = absorbed energy / mass = 0.20 J/kg = 0.20 Gy = 20 rd. Effective dose = (QF)(dose) = (12 Sv/Gy)(0.20 Gy) = 2.4 x 10^2 rem."
+  },
+  {
+    "question_number": 46.12,
+    "Questions": "A tumor on a person's leg has a mass of 3.0 g. What is the minimum activity a radiation source can have if it is to furnish a dose of 10 Gy to the tumor in 14 min? Assume each disintegration within the source, on the average, provides an energy 0.70 MeV to the tumor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "A dose of 10 Gy corresponds to 10 J of radiation energy being deposited per kilogram. Since the tumor has a mass of 0.003 kg, the energy required for a 10 Gy dose is (0.003 kg)(10 J/kg) = 0.030 J. Each disintegration provides 0.70 MeV, or 1.12 x 10^-13 J. The required number of disintegrations is 2.68 x 10^11, which corresponds to a source activity of 3.2 x 10^8 disintegrations/s."
+  },
+  {
+    "question_number": 46.13,
+    "Questions": "A beam of 5.0 MeV alpha particles (q = 2e) has a cross-sectional area of 1.50 cm². It is incident on flesh (ρ = 950 kg/m³) and penetrates to a depth of 0.70 mm. (a) What dose (in Gy) does the beam provide to the flesh in a time of 3.0 s? (b) What effective dose does it provide? Assume the beam to carry a current of 2.50 x 10^9 A and to have QF = 14.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "First, we find the number of particles deposited in 3.0 s: Number in 3.0 s = (I)(t) / q = (2.50 x 10^9 C/s)(3.0 s) / (3.2 x 10^-19 C) = 2.34 x 10^10 particles. The dose = energy / mass = (2.34 x 10^10)(8.0 x 10^-13 J) / (950 kg/m³)(0.070 m)(1.5 x 10^-3 m³) = 188 Gy = 1.9 x 10² Gy. Effective dose = (QF)(dose) = (14)(188) = 2.6 x 10³ Sv."
+  },
+  {
+    "question_number": 46.14,
+    "Questions": "Consider the following fission reaction:  1^0n + 235^U → 138^Ba + 94^1Nb + 5 1^n + 5 0e^−. Where the neutral atomic masses are given. How much energy is released when (a) 1 atom undergoes this type of fission, and (b) 1.0 kg of atoms undergoes fission?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 182 MeV; (b) 7 x 10^13 J"
+  },
+  {
+    "question_number": 46.15,
+    "Questions": "It is proposed to use the nuclear fusion reaction  2^1H + 2^1H → 4^He. To produce industrial power (neutral atomic masses are given). If the output is to be 150 MW and the energy of the reaction will be used with 30 percent efficiency, how many grams of deuterium fuel will be needed per day?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 75 g/day"
+  },
+  {
+    "question_number": 46.16,
+    "Questions": "One of the most promising fusion reactions for power generation involves deuterium (2^H) and tritium (3^H):  2^1H + 3^1H → 4^He + 1^0n. Where the atomic masses including electrons are as given. How much energy is produced when 2.0 kg of 2^H fuses with 3.0 kg of 3^H to form 4^He?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.7 x 10^15 J"
+  },
+  {
+    "question_number": 46.17,
+    "Questions": "What is the average KE of a neutron at the center of the Sun, where the temperature is about 10^7 K? Give your answer to two significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.3 keV"
+  },
+  {
+    "question_number": 46.18,
+    "Questions": "Find the energy released when two deuterons (2^H, atomic mass = 2.01410 u) fuse to form 3^He (atomic mass = 3.01603 u) with the release of a neutron. Give your answer to three significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 3.27 MeV"
+  },
+  {
+    "question_number": 46.19,
+    "Questions": "The tar in an ancient tar pit has a 14C activity that is only about 4.00 percent of that found for new wood of the same density. What is the approximate age of the tar?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 26.6 x 10^3 years"
+  },
+  {
+    "question_number": 46.20,
+    "Questions": "Rubidium-87 has a half-life of 4.9 x 10^10 years and decays to strontium-87, which is stable. In an ancient rock, the ratio of Sr to Rb is 0.0050. If we assume all the strontium came from rubidium decay, about how old is the rock? Repeat if the ratio is 0.210.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 3.5 x 10^9 years, 1.35 x 10^10 years"
+  },
+  {
+    "question_number": 46.21,
+    "Questions": "The luminous dial of an old watch gives off 130 fast electrons each minute. Assume that each electron has an energy of 0.50 MeV and deposits that energy in a volume of skin that is 2.0 cm² in area and 0.20 cm thick. Find the dose (in both Gy and rd) that the volume experiences in 1.0 day. Take the density of skin to be 900 kg/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 42 µGy, 4.2 mrd"
+  },
+  {
+    "question_number": 46.22,
+    "Questions": "An alpha-particle beam enters a charge collector and is measured to carry 2.0 x 10^-14 C of charge into the collector each second. The beam has a cross-sectional area of 150 mm², and it penetrates human skin to a depth of 0.14 mm. Each particle has an initial energy of 4.0 MeV. The QF for such particles is about 15. What effective dose, in Sv and in rem, does a person’s skin receive when exposed to this beam for 20 s? Take ρ = 900 kg/m³ for skin.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.63 Sv, 63 rem"
+  }
+]

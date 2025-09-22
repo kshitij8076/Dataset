@@ -1,0 +1,309 @@
+[
+  {
+    "question_number": 26.1,
+    "Questions": "A steady current of 0.50 A flows through a wire. How much charge passes through the wire in one minute?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "30 C"
+  },
+  {
+    "question_number": 26.2,
+    "Questions": "How many electrons flow through a light bulb each second if the current through the light bulb is 0.75 A?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.7 × 10¹⁸ electrons"
+  },
+  {
+    "question_number": 26.3,
+    "Questions": "A light bulb has a resistance of 240 Ω when lit. How much current will flow through it when it is connected across 120 V, its normal operating voltage?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.500 A"
+  },
+  {
+    "question_number": 26.4,
+    "Questions": "An electric heater uses 5.0 A when connected across 110 V. Determine its resistance.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "22 Ω"
+  },
+  {
+    "question_number": 26.5,
+    "Questions": "What is the potential drop across an electric hot plate that draws 5.0 A when its hot resistance is 24 Ω?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.12 kV"
+  },
+  {
+    "question_number": 26.6,
+    "Questions": "The current in Fig. 26-1 is 0.125 A in the direction shown. For each of the following pairs of points, what is their potential difference, and which point is at the higher potential? (a) A, B; (b) B, C; (c) C, D; (d) D, E; (e) C, E; (f) E, C.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_34.png",
+    "solution": "(a) –1.25 V, A is higher; (b) –9.00 V, B is higher; (c) –1.38 V, C is higher; (d) +12.0 V, E is higher; (e) +10.6 V, E is higher; (f) –10.6 V, E is higher"
+  },
+  {
+    "question_number": 26.7,
+    "Questions": "A current of 3.0 A flows through the wire shown in Fig. 26-2. What will a voltmeter read when connected from (a) A to B, (b) A to C, (c) A to D?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_35.png",
+    "solution": "(a) –18 V; (b) –26 V; (c) –28 V"
+  },
+  {
+    "question_number": 26.8,
+    "Questions": "Repeat Problem 26.7 if the 3.0 A current is flowing from right to left instead of from left to right. Which point is at the higher potential in each case?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) +18 V, B is higher; (b) +10 V, C is higher; (c) +2 V, D is higher"
+  },
+  {
+    "question_number": 26.9,
+    "Questions": "A dry cell has an emf of 1.52 V. Its terminal potential drops to zero when a current of 25 A passes through it. What is its internal resistance?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.061 Ω"
+  },
+  {
+    "question_number": 26.10,
+    "Questions": "A direct-current generator has an emf of 120 V; that is, its terminal voltage is 120 V when no current is flowing from it. At an output of 20 A the terminal potential is 115 V. (a) What is the internal resistance r of the generator? (b) What will be the terminal voltage at an output of 40 A?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_36.png",
+    "solution": "(a) 0.25 Ω; (b) 110 V"
+  },
+  {
+    "question_number": 26.11,
+    "Questions": "As shown in Fig. 26-4 the ammeter–voltmeter method is used to measure an unknown resistance R. The ammeter reads 0.3 A, and the voltmeter reads 1.50 V. Compute the value of R if the ammeter and voltmeter are ideal.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_37.png",
+    "solution": "5 Ω"
+  },
+  {
+    "question_number": 26.12,
+    "Questions": "A metal rod is 2 m long and 8 mm in diameter. Compute its resistance if the resistivity of the metal is 1.76 × 10⁻⁸ Ω·m.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "7 × 10⁻⁴ Ω"
+  },
+  {
+    "question_number": 26.13,
+    "Questions": "Number 10 wire has a diameter of 2.59 mm. How many meters of number 10 aluminum wire are needed to give a resistance of 1.0 Ω? ρ for aluminum is 2.8 × 10⁻⁸ Ω·m.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.19 km"
+  },
+  {
+    "question_number": 26.14,
+    "Questions": "Number 24 copper wire has diameter 0.0201 in. (a) Compute the cross-sectional area of the wire in circular mils and (b) the resistance of 100 ft of the wire.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 404 circular mils; (b) 2.57 Ω"
+  },
+  {
+    "question_number": 26.15,
+    "Questions": "The resistance of a coil of copper wire is 3.35 Ω at 0 °C. What is its resistance at 50 °C? The temperature coefficient of copper, α = 4.3 × 10⁻³ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.1 Ω"
+  },
+  {
+    "question_number": 26.16,
+    "Questions": "A resistor is to have a constant resistance of 30.0 Ω, independent of temperature. For this, an aluminum resistor with resistance R₀₁ at 0 °C is used in series with a carbon resistor with resistance R₀₂ at 0 °C. Evaluate R₀₁ and R₀₂ given that α₁ = 3.9 × 10⁻³ °C⁻¹ for aluminum and α₂ = –0.50 × 10⁻³ °C⁻¹ for carbon.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "R₀₁ = 3.4 Ω, R₀₂ = 27 Ω"
+  },
+  {
+    "question_number": 26.17,
+    "Questions": "In the Bohr model, the electron of a hydrogen atom moves in a circular orbit of radius 5.3 × 10⁻¹¹ m with a speed of 2.2 × 10⁶ m/s. Determine its frequency f and the current I in the orbit.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "f = 6.6 × 10¹⁵ rev/s, I = 1.1 mA"
+  },
+  {
+    "question_number": 26.18,
+    "Questions": "A wire that has a resistance of 5.0 Ω is passed through an extruder so as to make it into a new wire three times as long as the original. What is the new resistance?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "45 Ω"
+  },
+  {
+    "question_number": 26.19,
+    "Questions": "It is desired to make a wire that has a resistance of 8.0 Ω from 5.0 cm³ of metal that has a resistivity of 9.0 × 10⁻⁸ Ω·m. What should the length and cross-sectional area of the wire be?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "L = 21 m, A = 2.4 × 10⁻⁷ m²"
+  },
+  {
+    "question_number": 26.20,
+    "Questions": "How many electrons per second pass through a section of wire carrying a current of 0.70 A?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.4 × 10¹⁸ electrons/s"
+  },
+  {
+    "question_number": 26.21,
+    "Questions": "An electron gun in a TV set shoots out a beam of electrons. The beam current is 1.0 × 10⁻⁵ A. How many electrons strike the TV screen each second? How much charge strikes the screen in a minute?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "6.3 × 10¹³ electrons/s; –6.0 × 10⁻⁴ C/min"
+  },
+  {
+    "question_number": 26.22,
+    "Questions": "What is the current through an 8.0-Ω toaster when it is operating on 120 V?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "15 A"
+  },
+  {
+    "question_number": 26.23,
+    "Questions": "What potential difference is required to pass 3.0 A through 28 Ω?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "84 V"
+  },
+  {
+    "question_number": 26.24,
+    "Questions": "Determine the potential difference between the ends of a wire of resistance 5.0 Ω if 720 C passes through it per minute.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "60 V"
+  },
+  {
+    "question_number": 26.25,
+    "Questions": "A copper bus bar carrying 1200 A has a potential drop of 1.2 mV along 24 cm of its length. What is the resistance per meter of the bar?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.2 µΩ/m"
+  },
+  {
+    "question_number": 26.26,
+    "Questions": "An ammeter is connected in series with an unknown resistance, and a voltmeter is connected across the terminals of the resistance. If the ammeter reads 1.2 A and the voltmeter reads 18 V, compute the value of the resistance. Assume ideal meters.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "15 Ω"
+  },
+  {
+    "question_number": 26.27,
+    "Questions": "An electric utility company runs two 100 m copper wires from the street mains up to a customer's premises. If the wire resistance is 0.10 Ω per 1000 m, calculate the line voltage drop for an estimated load current of 120 A.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "2.4 V"
+  },
+  {
+    "question_number": 26.28,
+    "Questions": "When the insulation resistance between a motor winding and the motor frame is tested, the value obtained is 1.0 megohm (10⁶ Ω). How much current passes through the insulation if the test voltage is 1000 V?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.0 mA"
+  },
+  {
+    "question_number": 26.29,
+    "Questions": "Compute the internal resistance of an electric generator which has an emf of 120 V and a terminal voltage of 110 V when supplying 20 A.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.50 Ω"
+  },
+  {
+    "question_number": 26.30,
+    "Questions": "A dry cell delivering 2 A has a terminal voltage of 1.41 V. What is the internal resistance of the cell if its open-circuit voltage is 1.59 V?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.09 Ω"
+  },
+  {
+    "question_number": 26.31,
+    "Questions": "A cell has an emf of 1.54 V. When it is in series with a 1.0-Ω resistor, the reading of a voltmeter connected across the cell terminals is 1.44 V. Determine the cell’s internal resistance.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.10 Ω"
+  },
+  {
+    "question_number": 26.32,
+    "Questions": "The internal resistance of a 6.4-V storage battery is 4.8 mΩ. What is the theoretical maximum current on short circuit?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.3 kA"
+  },
+  {
+    "question_number": 26.33,
+    "Questions": "A battery has an emf of 13.2 V and an internal resistance of 24.0 mΩ. If the load current is 20.0 A, find the terminal voltage.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "12.7 V"
+  },
+  {
+    "question_number": 26.34,
+    "Questions": "A storage battery has an emf of 25.0 V and an internal resistance of 0.200 Ω. Compute its terminal voltage (a) when it is delivering 8.00 A and (b) when it is being charged with 8.00 A.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 23.4 V; (b) 26.6 V"
+  },
+  {
+    "question_number": 26.35,
+    "Questions": "A battery charger supplies a current of 10 A to charge a storage battery which has an open-circuit voltage of 5.6 V. If the voltmeter connected across the charger reads 6.8 V, what is the internal resistance of the battery at this time?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.12 Ω"
+  },
+  {
+    "question_number": 26.36,
+    "Questions": "Find the potential difference between points A and B in Fig. 26-5 if R is 0.70 Ω. Which point is at the higher potential?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_38.png",
+    "solution": "–5.1 V, point A"
+  },
+  {
+    "question_number": 26.37,
+    "Questions": "Repeat Problem 26.36 if the current flows in the opposite direction and R = 0.70 Ω.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "11.1 V, point B"
+  },
+  {
+    "question_number": 26.38,
+    "Questions": "In Fig. 26-5, how large must R be if the potential drop from A to B is 12 V?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "3.0 Ω"
+  },
+  {
+    "question_number": 26.39,
+    "Questions": "For the circuit of Fig. 26-6, find the potential difference from (a) A to B; (b) B to C, and (c) C to A. Notice that the current is given as 2.0 A.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) –48 V; (b) +28 V; (c) +20 V"
+  },
+  {
+    "question_number": 26.40,
+    "Questions": "Compute the resistance of 180 m of silver wire having a cross-section of 0.30 mm². The resistivity of silver is 1.6 × 10⁻⁸ Ω·m.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "9.6 Ω"
+  },
+  {
+    "question_number": 26.41,
+    "Questions": "The resistivity of aluminum is 2.8 × 10⁻⁸ Ω·m. How long a piece of aluminum wire 1.0 mm in diameter is needed to give a resistance of 4.0 Ω?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_39.png",
+    "solution": "0.11 km"
+  },
+  {
+    "question_number": 26.42,
+    "Questions": "Number 6 copper wire has a diameter of 0.162 in. (a) Calculate its area in circular mils. (b) If ρ = 10.4 Ω·circular mils/ft, find the resistance of 1.0 × 10³ ft of the wire.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 26.0 × 10² circular mils; (b) 0.40 Ω"
+  },
+  {
+    "question_number": 26.43,
+    "Questions": "A coil of wire has a resistance of 25.00 Ω at 20 °C and a resistance of 25.17 Ω at 35 °C. What is its temperature coefficient of resistance?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.5 × 10⁻⁴ °C⁻¹"
+  }
+]

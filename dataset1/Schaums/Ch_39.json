@@ -1,0 +1,216 @@
+[
+  {
+    "question_number": 39.1,
+    "Questions": "A certain nearsighted person cannot see distinctly objects beyond 80 cm from the eye. What is the power in diopters of the spectacle lenses that will enable him to see distant objects clearly?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The image must be on the same side of the lens as the distant object (hence the image is virtual and s₀ = -80 cm), and nearer to the lens than the object (hence diverging or negative lenses are indicated). As the object is at a great distance, s₀ is very large and 1/s₀ is practically zero. Then, f = -80 cm (diverging). Power in diopters = 1/f in meters = 1/(-0.80 m) = -1.3 diopters."
+  },
+  {
+    "question_number": 39.2,
+    "Questions": "A certain farsighted person cannot see clearly objects closer to the eye than 75 cm. Determine the power of the spectacle lenses which will enable her to read type at a distance of 25 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The image must be on the same side of the lens as the type (hence the image is virtual and sᵢ = -75 cm), and farther from the lens than the type (hence converging or positive lenses are prescribed). Power = 1/f = 1/0.375 = 2.7 diopters."
+  },
+  {
+    "question_number": 39.3,
+    "Questions": "A projection lens of focal length 30 cm throws an image of a 2.0 cm x 3.0 cm slide onto a screen 10 m from the lens. Compute the dimensions of the image.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The length and width of the slide are each magnified 32 times. Therefore, the size of the image will be (32 x 2.0 cm) x (32 x 3.0 cm) = 64 cm x 96 cm."
+  },
+  {
+    "question_number": 39.4,
+    "Questions": "A camera gives a clear image of a distant landscape when the lens is 8 cm from the film. What adjustment is required to get a good photograph of a map placed 72 cm from the lens?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The lens should be moved farther away from the film a distance of (9 - 8) cm = 1 cm."
+  },
+  {
+    "question_number": 39.5,
+    "Questions": "With a given illumination and film, the correct exposure for a camera lens set at f/12 is (1/5) s. What is the proper exposure time with the lens working at f/4?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The correct exposure at f/4 is (1/9)(exposure time at f/12) = (1.45) s."
+  },
+  {
+    "question_number": 39.6,
+    "Questions": "An engraver who has normal eyesight uses a converging lens of focal length 8.0 cm which he holds very close to his eye. At what distance from the work should the lens be placed, and what is the magnifying power (magnification) of the lens?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The magnifying power is 4.1 diameters."
+  },
+  {
+    "question_number": 39.7,
+    "Questions": "Two positive lenses, having focal lengths of +2.0 cm and +5.0 cm, are 14 cm apart as shown in Fig. 39-1. An object is placed 3.0 cm in front of the +2.0 lens. Determine the position and magnification of the final image A\"B\" formed by this combination of lenses.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_117.png",
+    "solution": "The magnification produced by the combination of lenses is 4.1 diameters."
+  },
+  {
+    "question_number": 39.8,
+    "Questions": "In the compound microscope shown in Fig. 39-2, the objective and eyepiece have focal lengths of +0.80 and +2.5 cm, respectively. The real image A'B' formed by the objective is 16 cm from the objective. Determine the total magnification if the eye is held close to the eyepiece and views the virtual image A\"B\" at a distance of 25 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_118.png",
+    "solution": "The total magnification is 3.3."
+  },
+  {
+    "question_number": 39.9,
+    "Questions": "The telephoto lens shown in Fig. 39-3 consists of a converging lens of focal length +6.0 cm placed 4.0 cm in front of a diverging lens of focal length -2.5 cm. (a) Locate the image of a very distant object. (b) Compare the size of the image formed by this lens combination with the size of the image that could be produced by the positive lens alone.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_119.png",
+    "solution": "The image formed is at a distance of 10 cm from the diverging lens."
+  },
+  {
+    "question_number": 39.10,
+    "Questions": "A microscope has two interchangeable objective lenses (3.0 mm and 7.0 mm) and two interchangeable eyepieces (3.0 cm and 5.0 cm). What magnifications can be obtained with the microscope, if the distance between the eyepiece and objective is 17 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The magnifications can be 5.3 x 10², 2.3 x 10², 2.8 x 10², and 1.2 x 10²."
+  },
+  {
+    "question_number": 39.11,
+    "Questions": "Compute the magnifying power of a telescope, having objective and eyepiece lenses of focal lengths +60 and +3.0 cm respectively, when it is focused for parallel rays.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The magnifying power is 20 diameters."
+  },
+  {
+    "question_number": 39.12,
+    "Questions": "Reflecting telescopes make use of a concave mirror, in place of the objective lens, to bring the distant object into focus. What is the magnifying power of a telescope that has a mirror with 250 cm radius and an eyepiece whose focal length is 5.0 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The magnifying power of the telescope is 25."
+  },
+  {
+    "question_number": 39.13,
+    "Questions": "As shown in Fig. 39-4, an object is placed 40 cm in front of a converging lens that has f = +8.0 cm. A plane mirror is 30 cm beyond the lens. Find the positions of all images formed by this system.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_120.png",
+    "solution": "The final image is real and located at 10 cm from the lens."
+  },
+  {
+    "question_number": 39.14,
+    "Questions": "A farsighted woman cannot see objects clearly that are closer to her eye than 60.0 cm. Determine the focal length and power of the spectacle lenses that will enable her to read a book at a distance of 25.0 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Focal length = +42.9 cm, Power = +2.33 diopters."
+  },
+  {
+    "question_number": 39.15,
+    "Questions": "A nearsighted man cannot see objects clearly that are beyond 50 cm from his eye. Determine the focal length and power of the glasses that will enable him to see distant objects clearly.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Focal length = -50 cm, Power = -2.0 diopters."
+  },
+  {
+    "question_number": 39.16,
+    "Questions": "A projection lens is employed to produce 2.4 m x 3.2 m pictures from 3.0 cm x 4.0 cm slides on a screen that is 25 cm from the lens. Compute its focal length.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Focal length = 31 cm."
+  },
+  {
+    "question_number": 39.17,
+    "Questions": "A camera gives a life-size picture of a flower when the lens is 20 cm from the film. What should be the distance between the lens and film to photograph a flock of birds high overhead?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The distance between the lens and film should be 10 cm."
+  },
+  {
+    "question_number": 39.18,
+    "Questions": "What is the maximum stop rating of a camera lens having a focal length of +10 cm and a diameter of 2.0 cm? If the correct exposure at f/6 is (1/90) s, what exposure is needed when the diaphragm setting is changed to f/9?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Exposure at f/9 = f/5, (1/40) s."
+  },
+  {
+    "question_number": 39.19,
+    "Questions": "What is the magnifying power of a lens of focal length +2.0 cm when it is used as a magnifying glass (or simple microscope)? The lens is held close to the eye, and the virtual image forms at the distance of distinct vision, 25 cm from the eye.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Magnifying power = 14."
+  },
+  {
+    "question_number": 39.20,
+    "Questions": "When the object distance from a converging lens is 5.0 cm, a real image is formed 20 cm from the lens. What magnification is produced by this lens when it is used as a magnifying glass, the distance of most distinct vision being 25 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Magnification = 7.3."
+  },
+  {
+    "question_number": 39.21,
+    "Questions": "In a compound microscope, the focal lengths of the objective and eyepiece are +0.50 cm and +2.0 cm respectively. The instrument is focused on an object 0.52 cm from the objective lens. Compute the magnifying power of the microscope if the virtual image is viewed by the eye at a distance of 25 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Magnifying power = 3.4 x 10²."
+  },
+  {
+    "question_number": 39.22,
+    "Questions": "A refracting astronomical telescope has a magnifying power of 150 when adjusted for minimum eyestrain. Its eyepiece has a focal length of +1.20 cm. (a) Determine the focal length of the objective lens. (b) How far apart must the two lenses be so as to project a real image of a distant object on a screen 12.0 cm from the eyepiece?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) Focal length of the objective lens = +180 cm; (b) Distance between lenses = 181 cm."
+  },
+  {
+    "question_number": 39.23,
+    "Questions": "The large telescope at Mt Palomar has a concave objective mirror diameter of 5.0 m and radius of curvature 46 m. What is the magnifying power of the instrument when it is used with an eyepiece of focal length 1.25 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Magnifying power = 1.8 x 10³."
+  },
+  {
+    "question_number": 39.24,
+    "Questions": "A lens combination consists of two lenses with focal lengths of +4.0 cm and +8.0 cm, which are spaced 16 cm apart. Locate and describe the image of an object placed 12 cm in front of the +4.0 cm lens.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The image is 40 cm beyond the +8.0 cm lens, real and erect."
+  },
+  {
+    "question_number": 39.25,
+    "Questions": "Two lenses, focal lengths +6.0 cm and -10 cm, are spaced 1.5 cm apart. Locate and describe the image of an object 30 cm in front of the +6.0 cm lens.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The image is real, inverted, 5/8 as large as the object."
+  },
+  {
+    "question_number": 39.26,
+    "Questions": "A telephoto lens consists of a positive lens of focal length +3.5 cm placed 2.0 cm in front of a negative lens of focal length -1.8 cm. (a) Locate the image of a very distant object. (b) Determine the focal length of the single lens that would form as large an image of a distant object as is formed by this lens combination.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) The real image is 9.0 cm in back of negative lens; (b) Focal length = +21 cm."
+  },
+  {
+    "question_number": 39.27,
+    "Questions": "An opera glass has an objective lens of focal length +3.60 cm and a negative eyepiece of focal length -1.20 cm. How far apart must the two lenses be for the viewer to see a distant object at 25.0 cm from the eye?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The distance between the two lenses is 2.34 cm."
+  },
+  {
+    "question_number": 39.28,
+    "Questions": "Repeat Problem 39.13 if the distance between the plane mirror and the lens is 8.0 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "At 6.0 cm (real) and 24 cm (virtual) to the right of the lens."
+  },
+  {
+    "question_number": 39.29,
+    "Questions": "Solve Problem 39.13 if the plane mirror is replaced by a concave mirror with a 20 cm radius of curvature. An object is placed 40 cm in front of the mirror.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "At 10 cm (real, inverted), 10 cm (real, upright), and -40 cm (real, inverted) to the right of the lens."
+  },
+  {
+    "question_number": 39.30,
+    "Questions": "What is the magnifying power of a telescope that has a mirror with a 250 cm radius and an eyepiece with a focal length of 5.0 cm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The magnifying power of the telescope is 25."
+  }
+]

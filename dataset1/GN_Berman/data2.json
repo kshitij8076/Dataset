@@ -1,0 +1,2504 @@
+[
+  {
+    "ID": "501",
+    "Questions": "y = √(1 + √x) / √(1 + √2x)",
+    "Answers": "(1 - √2) / (2√x(1 + √2x)²)"
+  },
+  {
+    "ID": "502",
+    "Questions": "y = (1 - √2x) / (1 + √2x)",
+    "Answers": "-(4√2x) / (x(1 + √2x)²)"
+  },
+  {
+    "ID": "503",
+    "Questions": "y = √(1 - x²)",
+    "Answers": "-x / √(1 - x²)"
+  },
+  {
+    "ID": "504",
+    "Questions": "y = (1 - 2x²)^4",
+    "Answers": "-16x(1 - 2x²)^3"
+  },
+  {
+    "ID": "505",
+    "Questions": "u = ((1 - v)/(1 + v))^m",
+    "Answers": "(-2m(1 - v)^(m-1)) / (1 + v)^(m+1)"
+  },
+  {
+    "ID": "506",
+    "Questions": "y = 2/(x² - x + 1)²",
+    "Answers": "(-4(2x - 1))/(x² - x + 1)³"
+  },
+  {
+    "ID": "507",
+    "Questions": "y = 1/³√(a² - x²)",
+    "Answers": "2x / (3(a² - x²)⁴/³)"
+  },
+  {
+    "ID": "508",
+    "Questions": "y = ³√(1 + x²)",
+    "Answers": "2x / (3(1 + x²)²/³)"
+  },
+  {
+    "ID": "509",
+    "Questions": "y = 1/√(1 - x⁴ - x⁸)",
+    "Answers": "(2x³ + 4x⁷) / (1 - x⁴ - x⁸)³/²"
+  },
+  {
+    "ID": "510",
+    "Questions": "y = √((1+x)/(1-x))",
+    "Answers": "1 / ((1-x)√(1-x²))"
+  },
+  {
+    "ID": "511",
+    "Questions": "y = x/√(x² + a²)",
+    "Answers": "a² / (x² + a²)³/²"
+  },
+  {
+    "ID": "512",
+    "Questions": "u = v/√(a² + v²)",
+    "Answers": "a² / (a² + v²)³/²"
+  },
+  {
+    "ID": "513",
+    "Questions": "y = 1/(3√(2x-1)) + 5/√(x²+2)³",
+    "Answers": "-(2/(3(2x-1)⁴/³)) - (15x/(x²+2)⁵/²)"
+  },
+  {
+    "ID": "514",
+    "Questions": "u(v) = (v² + v + 2)²; find u'(1).",
+    "Answers": "u'(1) = 9"
+  },
+  {
+    "ID": "515",
+    "Questions": "y(x) = √((x+1)/(x-1)); find y'(2).",
+    "Answers": "y'(2) = -√3/3"
+  },
+  {
+    "ID": "516",
+    "Questions": "Show that the derivative of an even function is an odd function, and the derivative of an odd function is even.",
+    "Answers": "Hint. If f(x) is an even function, then f(-x) = f(x). Differentiate with respect to x. If f(x) is an odd function, then f(-x) = -f(x). Differentiate with respect to x."
+  },
+  {
+    "ID": "517",
+    "Questions": "Differentiate the functions in problems 517-546:\ny = sin x + cos x.",
+    "Answers": "cos x - sin x."
+  },
+  {
+    "ID": "518",
+    "Questions": "y = x / (1 - cos x)",
+    "Answers": "(1 - cos x - x sin x) / (1 - cos x)²."
+  },
+  {
+    "ID": "519",
+    "Questions": "y = tan x / x",
+    "Answers": "(x sec² x - tan x) / x²."
+  },
+  {
+    "ID": "520",
+    "Questions": "ρ = φ sin φ + cos φ.",
+    "Answers": "φ cos φ."
+  },
+  {
+    "ID": "521",
+    "Questions": "z = sin α/α + α/sin α",
+    "Answers": "(α cos α - sin α)(1/α² - 1/sin² α)."
+  },
+  {
+    "ID": "522",
+    "Questions": "s = sin t / (1 + cos t)",
+    "Answers": "1 / (1 + cos t)."
+  },
+  {
+    "ID": "523",
+    "Questions": "y = x / (sin x + cos x)",
+    "Answers": "(sin x + cos x + x(sin x - cos x)) / (1 + sin 2x)."
+  },
+  {
+    "ID": "524",
+    "Questions": "y = (x sin x) / (1 + tan x)",
+    "Answers": "((1 + tan x)(sin x + x cos x) - x sin x sec² x) / (1 + tan x)²."
+  },
+  {
+    "ID": "525",
+    "Questions": "y = cos² x.",
+    "Answers": "-sin 2x."
+  },
+  {
+    "ID": "526",
+    "Questions": "y = (1/4)tan⁴ x.",
+    "Answers": "tan³ x sec² x."
+  },
+  {
+    "ID": "527",
+    "Questions": "y = cos x - (1/3)cos³ x.",
+    "Answers": "-sin³ x."
+  },
+  {
+    "ID": "528",
+    "Questions": "y = 3 sin² x - sin³ x.",
+    "Answers": "(3/2)sin 2x(2 - sin x)."
+  },
+  {
+    "ID": "529",
+    "Questions": "y = (1/3)tan³ x - tan x + x.",
+    "Answers": "tan⁴ x."
+  },
+  {
+    "ID": "530",
+    "Questions": "y = x sec² x - tan x.",
+    "Answers": "2x sin x / cos³ x."
+  },
+  {
+    "ID": "531",
+    "Questions": "y = sec² x + cosec² x.",
+    "Answers": "-16 cos 2x / sin³ 2x."
+  },
+  {
+    "ID": "532",
+    "Questions": "y = sin 3x.",
+    "Answers": "3 cos 3x."
+  },
+  {
+    "ID": "533",
+    "Questions": "y = a cos(x/3).",
+    "Answers": "-(a/3)sin(x/3)."
+  },
+  {
+    "ID": "534",
+    "Questions": "y = 3 sin(3x + 5).",
+    "Answers": "9 cos(3x + 5)."
+  },
+  {
+    "ID": "535",
+    "Questions": "y = tan((x+1)/2).",
+    "Answers": "1 / (2 cos²((x+1)/2))."
+  },
+  {
+    "ID": "536",
+    "Questions": "y = √(1 + 2 tan x).",
+    "Answers": "1 / (√(1 + 2 tan x) cos² x)."
+  },
+  {
+    "ID": "537",
+    "Questions": "y = sin(1/x).",
+    "Answers": "-(1/x²)cos(1/x)."
+  },
+  {
+    "ID": "538",
+    "Questions": "y = sin(sin x).",
+    "Answers": "cos(sin x)cos x."
+  },
+  {
+    "ID": "539",
+    "Questions": "y = cos³(4x).",
+    "Answers": "-12 cos²(4x)sin(4x)."
+  },
+  {
+    "ID": "540",
+    "Questions": "y = √(tan(x/2)).",
+    "Answers": "1 / (4√(tan(x/2))cos²(x/2))."
+  },
+  {
+    "ID": "541",
+    "Questions": "y = sin√(1 + x²).",
+    "Answers": "x cos√(1 + x²) / √(1 + x²)."
+  },
+  {
+    "ID": "542",
+    "Questions": "y = cot³√(1+x²).",
+    "Answers": "-(3x sin(2√(1+x²))) / (√(1+x²) (1 - cos(2√(1+x²)))²)."
+  },
+  {
+    "ID": "543",
+    "Questions": "y = (1 + sin² x)⁴.",
+    "Answers": "4(1 + sin² x)³ sin 2x."
+  },
+  {
+    "ID": "544",
+    "Questions": "y = √(1 + tan(x + 1/x)).",
+    "Answers": "(x² - 1) / (2x² cos²(x + 1/x) √(1 + tan(x + 1/x)))."
+  },
+  {
+    "ID": "545",
+    "Questions": "y = cos²((1 - √x)/(1 + √x)).",
+    "Answers": "sin(2(1-√x)/(1+√x)) / (√x(1+√x)²)."
+  },
+  {
+    "ID": "546",
+    "Questions": "y = sin²(cos 3x).",
+    "Answers": "-3 sin 3x sin(2 cos 3x)."
+  },
+  {
+    "ID": "547",
+    "Questions": "Deduce the formulae:\n(sinⁿx cos nx)' = n sinⁿ⁻¹x cos(n+1)x;\n(sinⁿx sin nx)' = n sinⁿ⁻¹x sin(n+1)x;\n(cosⁿx sin nx)' = n cosⁿ⁻¹x cos(n+1)x;\n(cosⁿx cos nx)' = -n cosⁿ⁻¹x sin(n+1)x.",
+    "Answers": "Hint. Use the formula (cos nx + i sin nx) = (cos x + i sin x)ⁿ."
+  },
+  {
+    "ID": "548",
+    "Questions": "Differentiate the functions in problems 548-572:\ny = x arcsin x",
+    "Answers": "arcsin x + x / √(1 - x²)"
+  },
+  {
+    "ID": "549",
+    "Questions": "y = arcsin x / arccos x",
+    "Answers": "(π/2) / ((arccos x)² √(1 - x²))"
+  },
+  {
+    "ID": "550",
+    "Questions": "y = (arcsin x)²",
+    "Answers": "2 arcsin x / √(1 - x²)"
+  },
+  {
+    "ID": "551",
+    "Questions": "y = x arcsin x + √(1 - x²)",
+    "Answers": "arcsin x"
+  },
+  {
+    "ID": "552",
+    "Questions": "y = 1 / (arcsin x)",
+    "Answers": "-1 / ((arcsin x)² √(1 - x²))"
+  },
+  {
+    "ID": "553",
+    "Questions": "y = x sin x arctan x",
+    "Answers": "(sin x)arctan x + (x cos x)arctan x + (x sin x)/(1 + x²)"
+  },
+  {
+    "ID": "554",
+    "Questions": "y = arccos x / x",
+    "Answers": "-(x + arccos x √(1 - x²))/(x² √(1 - x²))"
+  },
+  {
+    "ID": "555",
+    "Questions": "y = √x arctan x",
+    "Answers": "(arctan x) / (2√x) + √x / (1 + x²)"
+  },
+  {
+    "ID": "556",
+    "Questions": "y = (arccos x + arcsin x)ⁿ",
+    "Answers": "0"
+  },
+  {
+    "ID": "557",
+    "Questions": "y = arcsec x",
+    "Answers": "1 / (x √(x² - 1))"
+  },
+  {
+    "ID": "558",
+    "Questions": "y = (x²/(1 + x²)) arctan x",
+    "Answers": "2x² / (1 + x²)² + (arctan x)/(1 + x²)"
+  },
+  {
+    "ID": "559",
+    "Questions": "y = arcsin x / √(1 - x²)",
+    "Answers": "(√(1 - x²) + x arcsin x) / (1 - x²)³/²"
+  },
+  {
+    "ID": "560",
+    "Questions": "y = x² / arctan x",
+    "Answers": "(2x arctan x - x²/(1 + x²)) / (arctan x)²"
+  },
+  {
+    "ID": "561",
+    "Questions": "y = arcsin(x - 1)",
+    "Answers": "1 / √(2x - x²)"
+  },
+  {
+    "ID": "562",
+    "Questions": "y = arccos((2x - 1)/√3)",
+    "Answers": "-2 / √(2 + 4x - 4x²)"
+  },
+  {
+    "ID": "563",
+    "Questions": "y = arctan(x²)",
+    "Answers": "2x / (1 + x⁴)"
+  },
+  {
+    "ID": "564",
+    "Questions": "y = arcsin(2/x)",
+    "Answers": "-2 / (|x| √(x² - 4))"
+  },
+  {
+    "ID": "565",
+    "Questions": "y = arcsin(sin x)",
+    "Answers": "cos x / |cos x|"
+  },
+  {
+    "ID": "566",
+    "Questions": "y = arctan²(1/x)",
+    "Answers": "(-2 arctan(1/x)) / (1 + x²)"
+  },
+  {
+    "ID": "567",
+    "Questions": "y = √(1 - (arccos x)²)",
+    "Answers": "arccos x / (√(1 - x²) √(1 - (arccos x)²))"
+  },
+  {
+    "ID": "568",
+    "Questions": "y = arcsin√((1-x)/(1+x))",
+    "Answers": "-1 / ((1 + x) √(2x(1 - x)))"
+  },
+  {
+    "ID": "569",
+    "Questions": "y = (1/2) ⁴√(arcsin√(x² + 2x))",
+    "Answers": "(1/8) ⁴√(arcsin √(x²+2x))⁻³ * (x+1) / (√(1 - 2x - x²)√(x²+2x))"
+  },
+  {
+    "ID": "570",
+    "Questions": "y = arcsin((sin α sin x)/(1 - cos α cos x))",
+    "Answers": "sin α / (1 - cos α cos x)"
+  },
+  {
+    "ID": "571",
+    "Questions": "y = arccos((b + a cos x)/(a + b cos x))",
+    "Answers": "√(a² - b²) / (a + b cos x)"
+  },
+  {
+    "ID": "572",
+    "Questions": "y = arctan(x - √(1 + x²))",
+    "Answers": "1 / (2(1 + x²))"
+  },
+  {
+    "ID": "573",
+    "Questions": "Differentiate the functions of problems 573-597:\ny = x² log₃x",
+    "Answers": "2x log₃x + x/ln 3"
+  },
+  {
+    "ID": "574",
+    "Questions": "y = ln² x",
+    "Answers": "2 ln x / x"
+  },
+  {
+    "ID": "575",
+    "Questions": "y = x log x",
+    "Answers": "ln x + 1"
+  },
+  {
+    "ID": "576",
+    "Questions": "y = √ln x",
+    "Answers": "1 / (2x√ln x)"
+  },
+  {
+    "ID": "577",
+    "Questions": "y = (x - 1) / log₂x",
+    "Answers": "(x ln x - x + 1) / (x ln 10)"
+  },
+  {
+    "ID": "578",
+    "Questions": "y = x sin x ln x",
+    "Answers": "sin x ln x + x cos x ln x + sin x"
+  },
+  {
+    "ID": "579",
+    "Questions": "y = 1/ln x",
+    "Answers": "-1 / (x ln² x)"
+  },
+  {
+    "ID": "580",
+    "Questions": "y = ln x / xⁿ",
+    "Answers": "(1 - n ln x) / xⁿ⁺¹"
+  },
+  {
+    "ID": "581",
+    "Questions": "y = (1 - ln x) / (1 + ln x)",
+    "Answers": "-2 / (x(1 + ln x)²)"
+  },
+  {
+    "ID": "582",
+    "Questions": "y = ln x / (1 + x²)",
+    "Answers": "(1 + x² - 2x² ln x) / (x(1 + x²)²)"
+  },
+  {
+    "ID": "583",
+    "Questions": "y = xⁿ ln x",
+    "Answers": "xⁿ⁻¹(n ln x + 1)"
+  },
+  {
+    "ID": "584",
+    "Questions": "y = √(1 + ln² x)",
+    "Answers": "ln x / (x√(1 + ln² x))"
+  },
+  {
+    "ID": "585",
+    "Questions": "y = ln(1 - 2x)",
+    "Answers": "-2 / (1 - 2x)"
+  },
+  {
+    "ID": "586",
+    "Questions": "y = ln(x² - 4x)",
+    "Answers": "(2x - 4) / (x² - 4x)"
+  },
+  {
+    "ID": "587",
+    "Questions": "y = ln sin x",
+    "Answers": "cot x"
+  },
+  {
+    "ID": "588",
+    "Questions": "y = log₃(x² - 1)",
+    "Answers": "2x / ((x² - 1) ln 3)"
+  },
+  {
+    "ID": "589",
+    "Questions": "y = ln tan x",
+    "Answers": "sin 2x / 2"
+  },
+  {
+    "ID": "590",
+    "Questions": "y = ln arccos 2x",
+    "Answers": "-2 / (arccos 2x √(1 - 4x²))"
+  },
+  {
+    "ID": "591",
+    "Questions": "y = ln⁴ sin x",
+    "Answers": "4(ln³ sin x) cot x"
+  },
+  {
+    "ID": "592",
+    "Questions": "y = arctan[ln(ax + b)]",
+    "Answers": "a / ((ax + b)[1 + ln²(ax + b)])"
+  },
+  {
+    "ID": "593",
+    "Questions": "y = (1 + ln sin x)ⁿ",
+    "Answers": "n(1 + ln sin x)ⁿ⁻¹ cot x"
+  },
+  {
+    "ID": "594",
+    "Questions": "y = log₂[log₃(log₅ x)]",
+    "Answers": "1 / (x log₅x log₃(log₅x) ln 2 ln 3 ln 5)"
+  },
+  {
+    "ID": "595",
+    "Questions": "y = ln arctan √(1 + x²)",
+    "Answers": "x / ((arctan √(1 + x²)) (2 + x²) √(1 + x²))"
+  },
+  {
+    "ID": "596",
+    "Questions": "y = arcsin²[ln(a³ + x³)]",
+    "Answers": "6x² arcsin[ln(a³ + x³)] / ((a³ + x³) √(1 - ln²(a³ + x³)))"
+  },
+  {
+    "ID": "597",
+    "Questions": "y = √ln sin((x+3)/4)",
+    "Answers": "cot((x+3)/4) / (8√ln sin((x+3)/4))"
+  },
+  {
+    "ID": "598",
+    "Questions": "Differentiate the functions of problems 598-633:\ny = 2ˣ",
+    "Answers": "2ˣ ln 2"
+  },
+  {
+    "ID": "599",
+    "Questions": "y = 10ˣ",
+    "Answers": "10ˣ ln 10"
+  },
+  {
+    "ID": "600",
+    "Questions": "y = 1/3ˣ",
+    "Answers": "-ln 3 / 3ˣ"
+  },
+  {
+    "ID": "601",
+    "Questions": "y = x/4ˣ",
+    "Answers": "4⁻ˣ(1 - x ln 4)"
+  },
+  {
+    "ID": "602",
+    "Questions": "y = x 10ˣ",
+    "Answers": "10ˣ(1 + x ln 10)"
+  },
+  {
+    "ID": "603",
+    "Questions": "y = x eˣ",
+    "Answers": "eˣ(1 + x)"
+  },
+  {
+    "ID": "604",
+    "Questions": "y = x/eˣ",
+    "Answers": "(1-x)/eˣ"
+  },
+  {
+    "ID": "605",
+    "Questions": "y = (x³ + 2x)/eˣ",
+    "Answers": "e⁻ˣ(cos x - sin x)"
+  },
+  {
+    "ID": "606",
+    "Questions": "y = eˣ cos x",
+    "Answers": "eˣ(cos x - sin x)"
+  },
+  {
+    "ID": "607",
+    "Questions": "y = eˣ / sin x",
+    "Answers": "eˣ(sin x + cos x) / sin²x"
+  },
+  {
+    "ID": "608",
+    "Questions": "y = cos x / eˣ",
+    "Answers": "-(sin x + cos x)/eˣ"
+  },
+  {
+    "ID": "609",
+    "Questions": "y = 2^(x/ln x)",
+    "Answers": "2^(x/ln x) * (ln 2(ln x - 1))/ln²x"
+  },
+  {
+    "ID": "610",
+    "Questions": "y = x³ - 3ˣ",
+    "Answers": "3x² - 3ˣ ln 3"
+  },
+  {
+    "ID": "611",
+    "Questions": "y = √(1 + eˣ)",
+    "Answers": "eˣ / (2√(1 + eˣ))"
+  },
+  {
+    "ID": "612",
+    "Questions": "y = (x² - 2x + 3)eˣ",
+    "Answers": "eˣ(x² + 1)"
+  },
+  {
+    "ID": "613",
+    "Questions": "y = (1 + eˣ) / (1 - eˣ)",
+    "Answers": "2eˣ / (1 - eˣ)²"
+  },
+  {
+    "ID": "614",
+    "Questions": "y = (1 - 10ˣ) / (1 + 10ˣ)",
+    "Answers": "-2(10ˣ ln 10) / (1 + 10ˣ)²"
+  },
+  {
+    "ID": "615",
+    "Questions": "y = eˣ / (1 + x²)",
+    "Answers": "eˣ(x - 1)² / (x² + 1)²"
+  },
+  {
+    "ID": "616",
+    "Questions": "y = x eˣ (cos x + sin x)",
+    "Answers": "eˣ(cos x + sin x + 2x cos x)"
+  },
+  {
+    "ID": "617",
+    "Questions": "y = e⁻ˣ",
+    "Answers": "-e⁻ˣ"
+  },
+  {
+    "ID": "618",
+    "Questions": "y = 10^(2x-3)",
+    "Answers": "2(10^(2x-3) ln 10)"
+  },
+  {
+    "ID": "619",
+    "Questions": "y = e^(√x+1)",
+    "Answers": "e^(√x+1) / (2√(x+1))"
+  },
+  {
+    "ID": "620",
+    "Questions": "y = sin(2ˣ)",
+    "Answers": "(2ˣ ln 2)cos(2ˣ)"
+  },
+  {
+    "ID": "621",
+    "Questions": "y = 3^(sin x)",
+    "Answers": "(3^(sin x) cos x) ln 3"
+  },
+  {
+    "ID": "622",
+    "Questions": "y = a^(sin³x)",
+    "Answers": "(3 sin²x cos x) a^(sin³x) ln a"
+  },
+  {
+    "ID": "623",
+    "Questions": "y = e^(arcsin 2x)",
+    "Answers": "2e^(arcsin 2x) / √(1 - 4x²)"
+  },
+  {
+    "ID": "624",
+    "Questions": "y = 2^(3ˣ)",
+    "Answers": "2^(3ˣ) * 3ˣ ln 2 ln 3"
+  },
+  {
+    "ID": "625",
+    "Questions": "y = e^(1/ln x)",
+    "Answers": "-e^(1/ln x) / (x ln²x)"
+  },
+  {
+    "ID": "626",
+    "Questions": "y = sin(e^(x²+3x-2))",
+    "Answers": "cos(e^(x²+3x-2)) * e^(x²+3x-2) * (2x+3)"
+  },
+  {
+    "ID": "627",
+    "Questions": "y = 10^(1-sin⁴(3x))",
+    "Answers": "-12(10^(1-sin⁴(3x)) ln 10) sin³(3x) cos(3x)"
+  },
+  {
+    "ID": "628",
+    "Questions": "y = e^(√((x+1)/(x+2)))",
+    "Answers": "(2ax+b) * e^(√((x+1)/(x+2))) / (2√((x+1)/(x+2)))"
+  },
+  {
+    "ID": "629",
+    "Questions": "y = ln sin³√(arctan e³ˣ)",
+    "Answers": "(3 cot(³√(arctan e³ˣ)) * e³ˣ) / ((1 + e⁶ˣ) ³√(arctan e³ˣ)²)"
+  },
+  {
+    "ID": "630",
+    "Questions": "y = a e⁻ᵇ²ˣ²",
+    "Answers": "-2ab²x e⁻ᵇ²ˣ²"
+  },
+  {
+    "ID": "631",
+    "Questions": "y = x² e^(x²/a²)",
+    "Answers": "2x e^(x²/a²) (1 + x²/a²)"
+  },
+  {
+    "ID": "632",
+    "Questions": "y = Ae⁻ᵏᵗ sin(ωt + α)",
+    "Answers": "Ae⁻ᵏᵗ[ω cos(ωt + α) - k² sin(ωt + α)]"
+  },
+  {
+    "ID": "633",
+    "Questions": "y = aˣ xᵃ",
+    "Answers": "aˣxᵃ⁻¹(a + x ln a)"
+  },
+  {
+    "ID": "634",
+    "Questions": "Differentiate the functions of problems 634-649:\ny = sinh³ x",
+    "Answers": "3 sinh² x cosh x"
+  },
+  {
+    "ID": "635",
+    "Questions": "y = ln cosh x",
+    "Answers": "tanh x"
+  },
+  {
+    "ID": "636",
+    "Questions": "y = arctan(tanh x)",
+    "Answers": "1/cosh 2x"
+  },
+  {
+    "ID": "637",
+    "Questions": "y = tanh(1 - x²)",
+    "Answers": "-2x / cosh²(1 - x²)"
+  },
+  {
+    "ID": "638",
+    "Questions": "y = sinh² x + cosh² x",
+    "Answers": "2 sinh 2x"
+  },
+  {
+    "ID": "639",
+    "Questions": "y = cosh(sinh x)",
+    "Answers": "sinh(sinh x) cosh x"
+  },
+  {
+    "ID": "640",
+    "Questions": "y = √cosh x",
+    "Answers": "sinh x / (2√cosh x)"
+  },
+  {
+    "ID": "641",
+    "Questions": "y = e^(cosh x)",
+    "Answers": "e^(cosh x) sinh 2x"
+  },
+  {
+    "ID": "642",
+    "Questions": "y = tanh(ln x)",
+    "Answers": "1 / (x cosh²(ln x))"
+  },
+  {
+    "ID": "643",
+    "Questions": "y = x sinh x - cosh x",
+    "Answers": "x cosh x"
+  },
+  {
+    "ID": "644",
+    "Questions": "y = √(1 + tanh²x)³",
+    "Answers": "3 tanh x / (2 cosh x √(1 + tanh²x))"
+  },
+  {
+    "ID": "645",
+    "Questions": "y = (1/2)tanh(x/2) - (1/6)tanh³(x/2)",
+    "Answers": "1 / (4 cosh⁴(x/2))"
+  },
+  {
+    "ID": "646",
+    "Questions": "y = √(1 + tanh x) / √(1 - tanh x)",
+    "Answers": "1 / (2√(cosh x - sinh x))"
+  },
+  {
+    "ID": "647",
+    "Questions": "y = (1/2)tanh x + (1/(8√2))ln((1 + √2tanh x)/(1 - √2tanh x))",
+    "Answers": "1 / (1 - sinh⁴x)"
+  },
+  {
+    "ID": "648",
+    "Questions": "y = (1/x)cosh 2x + √(x)sinh 2x",
+    "Answers": "(x(4+√x)sinh 2x + 2(2x²√x-1)cosh 2x)/(2x²)"
+  },
+  {
+    "ID": "649",
+    "Questions": "y = x²e³ˣ cosech x",
+    "Answers": "x e³ˣ/sinh²x [(3x+2)sinh x - x cosh x]"
+  },
+  {
+    "ID": "650",
+    "Questions": "Differentiate the functions of problems 650-666 by using the rule for logarithmic differentiation:\ny = xˣ",
+    "Answers": "xˣ(2 ln x + 1)"
+  },
+  {
+    "ID": "651",
+    "Questions": "y = x^(xˣ)",
+    "Answers": "xˣˣxˣ[ln²x + ln x + 1/x]"
+  },
+  {
+    "ID": "652",
+    "Questions": "y = (sin x)^(cos x)",
+    "Answers": "(sin x)^(cos x) * ((cos²x/sin x) - sin x ln sin x)"
+  },
+  {
+    "ID": "653",
+    "Questions": "y = (ln x)ˣ",
+    "Answers": "(ln x)ˣ(1/(ln x) + ln ln x)"
+  },
+  {
+    "ID": "654",
+    "Questions": "y = ³√(x+1)²",
+    "Answers": "2/3(x+1)¹/³"
+  },
+  {
+    "ID": "655",
+    "Questions": "y = x²e^(x²) sin 2x",
+    "Answers": "x²e^(x²) sin 2x[2/x + 2x + 2cot(2x)]"
+  },
+  {
+    "ID": "656",
+    "Questions": "y = ((x-2)² √(x+1)) / (x-5)³",
+    "Answers": "((x-2)² √(x+1)) / (x-5)³ * [2/(x-2) + 1/(2(x+1)) - 3/(x-5)] = y * [(-x²-3x-1)/(2(x-2)(x-5)(x+1))]"
+  },
+  {
+    "ID": "657",
+    "Questions": "y = x^(ln x)",
+    "Answers": "2x^(ln x-1) ln x"
+  },
+  {
+    "ID": "658",
+    "Questions": "y = ((x+1)³ ⁴√(x-2)) / ⁵√(x-3)²",
+    "Answers": "y * [3/(x+1) + 1/(4(x-2)) - 2/(5(x-3))] = (x+1)³ ⁴√(x-2) / ⁵√(x-3)² * [(57x² - 302x + 361) / (20(x-2)(x-3))]"
+  },
+  {
+    "ID": "659",
+    "Questions": "y = √x sin x √(1-eˣ)",
+    "Answers": "(1/2)√x sin x √(1-eˣ) * [1/x + 2cot x - eˣ/(1-eˣ)]"
+  },
+  {
+    "ID": "660",
+    "Questions": "y = ((1-arcsin x)/(1+arcsin x))^(1/2)",
+    "Answers": "-1 / (√(1-x²) [(arcsin x)² - 1] √(1-arcsin x)/(1+arcsin x))"
+  },
+  {
+    "ID": "661",
+    "Questions": "y = x^(x²)",
+    "Answers": "x^(x²+1)(1 + 2 ln x)"
+  },
+  {
+    "ID": "662",
+    "Questions": "y = x^(sin x)",
+    "Answers": "x^(sin x) (cos x ln x + (sin x)/x)"
+  },
+  {
+    "ID": "663",
+    "Questions": "y = (1 + 1/x)ˣ",
+    "Answers": "(1 + 1/x)ˣ [ln(1 + 1/x) - 1/(x+1)]"
+  },
+  {
+    "ID": "664",
+    "Questions": "y = 2x^√x",
+    "Answers": "2x^√x ( (ln x)/(2√x) + 1/√x )"
+  },
+  {
+    "ID": "665",
+    "Questions": "y = (x² + 1)^(sin x)",
+    "Answers": "(x² + 1)^(sin x) [cos x ln(x²+1) + (2x sin x)/(x²+1)]"
+  },
+  {
+    "ID": "666",
+    "Questions": "y = √(x(x²+1)) / ³√(x²-1)²",
+    "Answers": "y * [(x²+2)/(2x(x²+1)) - (2x)/(3(x²-1))]"
+  },
+  {
+    "ID": "667",
+    "Questions": "Differentiate the functions of problems 667-770:\ny = (1 + ³√x)³",
+    "Answers": "(1 + ³√x)² / ³√x²"
+  },
+  {
+    "ID": "668",
+    "Questions": "y = a tan(x/k + b)",
+    "Answers": "a/k * sec²(x/k + b)"
+  },
+  {
+    "ID": "669",
+    "Questions": "y = √(1 + √(2px))",
+    "Answers": "p / (2√(1 + √(2px))√(2px))"
+  },
+  {
+    "ID": "670",
+    "Questions": "y = arctan(x² - 3x + 2)",
+    "Answers": "(2x - 3) / (1 + (x² - 3x + 2)²)"
+  },
+  {
+    "ID": "671",
+    "Questions": "y = log(x - cos x)",
+    "Answers": "(1 + sin x) / ((x - cos x) ln 10)"
+  },
+  {
+    "ID": "672",
+    "Questions": "y = 3 cos² x - cos³ x",
+    "Answers": "(3/2) sin 2x (cos x - 2)"
+  },
+  {
+    "ID": "673",
+    "Questions": "y = 5 tan(x/5) + tan⁵(x/5)",
+    "Answers": "sec²(x/5)"
+  },
+  {
+    "ID": "674",
+    "Questions": "y = 1 / (√x + ³√x)",
+    "Answers": "-(1 + (2/3)x⁻¹/⁶) / (2√x(1+x¹/⁶)²)"
+  },
+  {
+    "ID": "675",
+    "Questions": "y = sin(x/2)sin 2x",
+    "Answers": "(1/2)sin 2x cos(x/2) + 2sin(x/2)cos 2x"
+  },
+  {
+    "ID": "676",
+    "Questions": "y = e^(cos x)(cos x - sin² x)",
+    "Answers": "-3e^(cos x) sin x(1 + cos x)"
+  },
+  {
+    "ID": "677",
+    "Questions": "y = x⁶ / (15√(x⁶-8)²)",
+    "Answers": "x⁵(7x⁶-40) / √(x⁶-8)³"
+  },
+  {
+    "ID": "678",
+    "Questions": "y = e⁻ˣ²(1/x - 2x ln x)",
+    "Answers": "e⁻ˣ²(-1/x² - 2 ln x)"
+  },
+  {
+    "ID": "679",
+    "Questions": "y = (5(x-1)/√x) * (√x + 1/√x)",
+    "Answers": "5(x-1) / (x√x)"
+  },
+  {
+    "ID": "680",
+    "Questions": "y = 1 / (1 + x²)",
+    "Answers": "-2x / (1 + x²)²"
+  },
+  {
+    "ID": "681",
+    "Questions": "y = 2x²e^(2x+3)",
+    "Answers": "2x²e^(2x+3)"
+  },
+  {
+    "ID": "682",
+    "Questions": "y = 2 sin 2x / cos² 2x",
+    "Answers": "(2 cos 2x(2+sin²2x))/cos³2x"
+  },
+  {
+    "ID": "683",
+    "Questions": "y = (1 + x²) / (1 + x² + x⁴)",
+    "Answers": "(1+x²) / (1 + x² + x⁴)"
+  },
+  {
+    "ID": "684",
+    "Questions": "y = (2(x cos x + sin x)) / (x² sin² x)",
+    "Answers": "-2(x² sin x + x cos x + sin x) / (x² sin³ x)"
+  },
+  {
+    "ID": "685",
+    "Questions": "y = (1/3)cot(x/2) - (2x/3)sin(x/2)",
+    "Answers": "-(1/6)csc²(x/2) - (2/3)sin(x/2) - (x/3)cos(x/2)"
+  },
+  {
+    "ID": "686",
+    "Questions": "y = (4(31x⁵+18))/ (27x⁶√(4x⁶+2)³)",
+    "Answers": "-(2x(62x⁵+27)) / (9x³(4x⁶+2)⁵/²)"
+  },
+  {
+    "ID": "687",
+    "Questions": "y = 1 / √(x² + a²)",
+    "Answers": "-x / √(x² + a²)³"
+  },
+  {
+    "ID": "688",
+    "Questions": "y = arctan√x + √(x)/(2(1+x))",
+    "Answers": "1 / (2√x(1+x))"
+  },
+  {
+    "ID": "689",
+    "Questions": "y = tan x (1 + 2tan²x) / (cos²x √(1 + tan²x + tan⁴x))",
+    "Answers": "(tan x(1+2tan²x))/(cos²x√(1+tan²x+tan⁴x))"
+  },
+  {
+    "ID": "690",
+    "Questions": "y = (cos 2x)/(x) - 2 sin 2x ln x",
+    "Answers": "(-x sin 2x - cos 2x)/x² - 4 cos 2x ln x"
+  },
+  {
+    "ID": "691",
+    "Questions": "y = x³-x / (x⁴-1)",
+    "Answers": "(x²-2)/(x⁴-1)²"
+  },
+  {
+    "ID": "692",
+    "Questions": "y = x arcsin(n sin x)",
+    "Answers": "arcsin(n sin x) + (nx cos x)/√(1-n² sin² x)"
+  },
+  {
+    "ID": "693",
+    "Questions": "y = arcsin√sinx",
+    "Answers": "(cos x)/(2√(sin x)√(1-sin x))"
+  },
+  {
+    "ID": "694",
+    "Questions": "y = sin⁵(3x)cos³(3x)",
+    "Answers": "3 sin⁴(3x)cos²(3x)(5cos²(3x)-3sin²(3x))"
+  },
+  {
+    "ID": "695",
+    "Questions": "y = x - √(1-x²)arcsin x",
+    "Answers": "(x arcsin x)/√(1-x²)"
+  },
+  {
+    "ID": "696",
+    "Questions": "y = cos((arcsin x)/2) - (1/2)sin((arcsin x)/2)",
+    "Answers": "-(1/2)sin((arcsin x)/2) - (1/4)cos((arcsin x)/2) / √(1-x²)"
+  },
+  {
+    "ID": "697",
+    "Questions": "y = √(x + √(x+√x))",
+    "Answers": "(1/2)√(x+√(x+√x))⁻¹ * (1 + (1/2)√(x+√x)⁻¹ * (1 + 1/(2√x)))"
+  },
+  {
+    "ID": "698",
+    "Questions": "y = arccos√(1-3x)",
+    "Answers": "3/(2√(1-3x)√3x)"
+  },
+  {
+    "ID": "699",
+    "Questions": "y = sin²((1-ln x)/x)",
+    "Answers": "-2sin((1-ln x)/x)cos((1-ln x)/x) * (2-ln x)/x²"
+  },
+  {
+    "ID": "700",
+    "Questions": "y = log₃(x² - sin x)",
+    "Answers": "(2x - cos x)/((x²-sin x)ln 3)"
+  },
+  {
+    "ID": "701",
+    "Questions": "y = arctan√(1-x)/(1+x)",
+    "Answers": "-1/(2√(1-x²))"
+  },
+  {
+    "ID": "702",
+    "Questions": "y = ln(x + √(1-x²))",
+    "Answers": "(1-x/√(1-x²))/(x+√(1-x²))"
+  },
+  {
+    "ID": "703",
+    "Questions": "y = x arcsin(ln x)",
+    "Answers": "arcsin(ln x) + 1/√(1-ln²x)"
+  },
+  {
+    "ID": "704",
+    "Questions": "y = tan((1-eˣ)/(1+eˣ))",
+    "Answers": "(-2eˣ sec²((1-eˣ)/(1+eˣ)))/(1+eˣ)²"
+  },
+  {
+    "ID": "705",
+    "Questions": "y = cos x √(1 + sin²x)",
+    "Answers": "(-2sin³x)/√(1+sin²x)"
+  },
+  {
+    "ID": "706",
+    "Questions": "y = 0.4(cos((2x+1)/2) - sin 0.8x)²",
+    "Answers": "0.8(cos((2x+1)/2) - sin 0.8x) * (-sin((2x+1)/2) - 0.8 cos 0.8x)"
+  },
+  {
+    "ID": "707",
+    "Questions": "y = x10^√x",
+    "Answers": "10^√x (1 + (ln 10)/2 * √x)"
+  },
+  {
+    "ID": "708",
+    "Questions": "y = 1/tan²(2x)",
+    "Answers": "-4cot(2x)csc²(2x)"
+  },
+  {
+    "ID": "709",
+    "Questions": "y = ln arctan(1/(1+x))",
+    "Answers": "-1/((1+(1/(1+x))²) * arctan(1/(1+x)) * (1+x)²)"
+  },
+  {
+    "ID": "710",
+    "Questions": "y = ln(x/√(x²-1))",
+    "Answers": "-1/(x(x²-1))"
+  },
+  {
+    "ID": "711",
+    "Questions": "y = ³√(1 + x√x + 3)",
+    "Answers": "(1/3)³√(1+x√x+3)⁻² * (3/2)√x"
+  },
+  {
+    "ID": "712",
+    "Questions": "y = x²√(1+√x)",
+    "Answers": "x²(1/(4√x√(1+√x))) + 2x√(1+√x)"
+  },
+  {
+    "ID": "713",
+    "Questions": "y = 1/√(1 + sin²x)",
+    "Answers": "-sin x cos x / √(1 + sin²x)³"
+  },
+  {
+    "ID": "714",
+    "Questions": "y = x³ arctan(x³)",
+    "Answers": "3x² arctan(x³) + 3x⁵/(1+x⁶)"
+  },
+  {
+    "ID": "715",
+    "Questions": "y = ln(sin x) / ln(cos x)",
+    "Answers": "(cot x ln cos x + tan x ln sin x)/ln²cos x"
+  },
+  {
+    "ID": "716",
+    "Questions": "y = arcsin x + √(1-x²)",
+    "Answers": "√(1-x)/√(1+x)"
+  },
+  {
+    "ID": "717",
+    "Questions": "y = arcsin(4x) / (1 - 4x)",
+    "Answers": "(4(1-4x)/√(1-16x²) + 4 arcsin 4x)/(1-4x)²"
+  },
+  {
+    "ID": "718",
+    "Questions": "y = e^(ln x)",
+    "Answers": "-e^(ln x)/x² ln²x"
+  },
+  {
+    "ID": "719",
+    "Questions": "y = ln((1 - eˣ)/(eˣ))",
+    "Answers": "-1/(eˣ-1)"
+  },
+  {
+    "ID": "720",
+    "Questions": "y = 10^(x tan x)",
+    "Answers": "10^(x tan x) * ln 10 * (tan x + x sec²x)"
+  },
+  {
+    "ID": "721",
+    "Questions": "y = sin²x sin(x²)",
+    "Answers": "2sin x cos x sin(x²) + 2x sin²x cos(x²)"
+  },
+  {
+    "ID": "722",
+    "Questions": "y = 2cos x / √cos 2x",
+    "Answers": "2sinx/√(cos³2x)"
+  },
+  {
+    "ID": "723",
+    "Questions": "y = x√((1-x)/(1+x²))",
+    "Answers": "(2-3x-x³)/(2(1-x)(1+x²)) * √((1-x)/(1+x²))"
+  },
+  {
+    "ID": "724",
+    "Questions": "y = (1/4)ln((1+x)/(1-x)) - (1/2)arctan x",
+    "Answers": "x²/(1-x⁴)"
+  },
+  {
+    "ID": "725",
+    "Questions": "y = 2^(ln x)",
+    "Answers": "2^(ln x) * ln 2 / x"
+  },
+  {
+    "ID": "726",
+    "Questions": "y = √(a-x)(x-b) - (a-b)arctan√((a-x)/(x-b))",
+    "Answers": "2√(a-x)(x-b)"
+  },
+  {
+    "ID": "727",
+    "Questions": "y = sin(3x) / (2sin²x cos x)",
+    "Answers": "-(2(2cos²x+1))/(sin²2x)"
+  },
+  {
+    "ID": "728",
+    "Questions": "y = e^(x/(1+x))",
+    "Answers": "e^(x/(1+x))/(1+x)²"
+  },
+  {
+    "ID": "729",
+    "Questions": "y = √(a²+x²) - aln(x+√(a²+x²))",
+    "Answers": "x/√(a²+x²)"
+  },
+  {
+    "ID": "730",
+    "Questions": "y = √(x²+1) - ln((1+√(x²+1))/x)",
+    "Answers": "(x-√(x²+1))/x"
+  },
+  {
+    "ID": "731",
+    "Questions": "y = (sin²x / (1+cot x)) + (cos²x / (1+tan x))",
+    "Answers": "-cos 2x"
+  },
+  {
+    "ID": "732",
+    "Questions": "y = ln(x + √(x²-1)) - x/√(x²-1)",
+    "Answers": "-x²/(x²-1)³/²"
+  },
+  {
+    "ID": "733",
+    "Questions": "y = eᵃˣ(a sin x - cos x)",
+    "Answers": "(a²+1)sin(x) eᵃˣ"
+  },
+  {
+    "ID": "734",
+    "Questions": "y = x e^(x-cos x)",
+    "Answers": "e^(x-cos x)(1+x+x sin x)"
+  },
+  {
+    "ID": "735",
+    "Questions": "y = 1/arctan(e⁻²ˣ)",
+    "Answers": "2e⁻²ˣ / ((1+e⁻⁴ˣ)(arctan(e⁻²ˣ))²)"
+  },
+  {
+    "ID": "736",
+    "Questions": "y = eˣ(sin 3x - 3 cos 3x)",
+    "Answers": "10eˣ sin 3x"
+  },
+  {
+    "ID": "737",
+    "Questions": "y = 3x³ arcsin x + (x² + 2)√(1-x²)",
+    "Answers": "9x² arcsin x"
+  },
+  {
+    "ID": "738",
+    "Questions": "y = 1/√(1+e⁻√x)",
+    "Answers": "e⁻√x / (4√x(1+e⁻√x)³/²)"
+  },
+  {
+    "ID": "739",
+    "Questions": "y = 2arcsin((x-2)/√6) - √(2+4x-x²)",
+    "Answers": "x/√(2+4x-x²)"
+  },
+  {
+    "ID": "740",
+    "Questions": "y = ln(eˣcos x + e⁻ˣsin x)",
+    "Answers": "(eˣ(cos x-sin x) + e⁻ˣ(cos x+sin x))/(eˣcos x+e⁻ˣsin x)"
+  },
+  {
+    "ID": "741",
+    "Questions": "y = (1+x arctan x)/√(1+x²)",
+    "Answers": "arctan x / √(1+x²)³"
+  },
+  {
+    "ID": "742",
+    "Questions": "y = 1/cos(x-cos x)",
+    "Answers": "sin(x-cos x)(1+sin x)/cos²(x-cos x)"
+  },
+  {
+    "ID": "743",
+    "Questions": "y = eˣ sin x cos³x",
+    "Answers": "eˣ sin x cos³ x (1 + cot x - 3 tan x)"
+  },
+  {
+    "ID": "744",
+    "Questions": "y = ¹¹√(9+6√x)⁹",
+    "Answers": "27/ (11 ¹¹√(9+6√x)² √x)"
+  },
+  {
+    "ID": "745",
+    "Questions": "y = x - ln(2eˣ+1 + ³√(e²ˣ+4eˣ+1))",
+    "Answers": "1/(eˣ+1) - (eˣ+2)/³√(e²ˣ+4eˣ+1)"
+  },
+  {
+    "ID": "746",
+    "Questions": "y = e^(arctan √x + ln(2x+3))",
+    "Answers": "e^(arctan √x + ln(2x+3)) * [1/(2√x(1+x)) + 2/(2x+3)]"
+  },
+  {
+    "ID": "747",
+    "Questions": "y = e^(x²)/ (eˣ+e⁻ˣ)²",
+    "Answers": "e^(x²)/ (eˣ+e⁻ˣ)³ * [2x(eˣ+e⁻ˣ) - (eˣ-e⁻ˣ)]"
+  },
+  {
+    "ID": "748",
+    "Questions": "y = ln tan(x/2) - cot x ln(1+sin x) - x",
+    "Answers": "-(cot²x + cot x ln(1+sin x))"
+  },
+  {
+    "ID": "749",
+    "Questions": "y = 2ln(2x - 3√(1-4x²)) - 6 arcsin 2x",
+    "Answers": "40/(2x - 3√(1-4x²))"
+  },
+  {
+    "ID": "750",
+    "Questions": "y = (3x²-1)/(3x³) + ln√(1+x²) + arctan x",
+    "Answers": "(x⁵+1)/(x⁴(x²+1))"
+  },
+  
+  {
+    "ID": "751",
+    "Questions": "y = (1/2)(3 - x)√(1 - 2x - x²) + 2 arcsin((x + 1)/√2)",
+    "Answers": "(x² + 1)/√(1 - 2x - x²)"
+  },
+  {
+    "ID": "752",
+    "Questions": "y = ln(x sin x √(1 - x²))",
+    "Answers": "1/x + cot x - x/(1 - x²)"
+  },
+  {
+    "ID": "753",
+    "Questions": "y = x √(1 + x²) sin x",
+    "Answers": "((1 + 2x²)sin x + x(1 + x²)cos x) / √(1 + x²)"
+  },
+  {
+    "ID": "754",
+    "Questions": "y = ((x+2)/(3-x))²(x-1)⁵",
+    "Answers": "y(-5(x-4)(x+1))/((x+2)(x-1)(x-3))"
+  },
+  {
+    "ID": "755",
+    "Questions": "y = 1/³√(1+xe^(√x))²",
+    "Answers": "(-2y/3) * [e^(√x)(1+√x/2)] / [1+xe^(√x)]"
+  },
+  {
+    "ID": "756",
+    "Questions": "y = x^(1/x) e^(-x²/2)",
+    "Answers": "y(1 - ln x)/x² - xy"
+  },
+  {
+    "ID": "757",
+    "Questions": "y = (sin x)/(4cos⁴x) + (3sinx)/(8cos²x) + (3/8)ln|(sin x + 1)/(cos x)|",
+    "Answers": "1/cos⁵x"
+  },
+  {
+    "ID": "758",
+    "Questions": "y = (xeˣ arctan x) / ln⁵x",
+    "Answers": "y(1/x + 1 + 1/((1+x²)arctan x) - 5/(x ln x))"
+  },
+  {
+    "ID": "759",
+    "Questions": "y = (1-x²)e^(3x-1)cosx / (arccos x)³",
+    "Answers": "y(-2x/(1-x²) + 3 + tan x + 3/(arccos x √(1-x²)))"
+  },
+  {
+    "ID": "760",
+    "Questions": "y = ln cos arctan(eˣ - e⁻ˣ)/2",
+    "Answers": "-(eˣ - e⁻ˣ) / (2(1 + (eˣ - e⁻ˣ)²/4))"
+  },
+  {
+    "ID": "761",
+    "Questions": "y = x(arcsin x)² - 2x + 2√(1-x²)arcsin x",
+    "Answers": "(arcsin x)²"
+  },
+  {
+    "ID": "762",
+    "Questions": "y = ln cos arctan((eˣ-e⁻ˣ)/2)",
+    "Answers": "-tanh x"
+  },
+  {
+    "ID": "763",
+    "Questions": "y = (1/m√ab) arctan(e^(mx)√(a/b))",
+    "Answers": "e^(mx) / (b + ae^(2mx))"
+  },
+  {
+    "ID": "764",
+    "Questions": "y = (1/3)ln((x+1)/√(x²-x+1)) + (1/√3)arctan((2x-1)/√3)",
+    "Answers": "x²/(x³+1)"
+  },
+  {
+    "ID": "765",
+    "Questions": "y = ln(√(1+x)-√(1-x))/(√(1+x)+√(1-x)) + 2arctan√(1-x)/(1+x)",
+    "Answers": "-x/√(1-x²)"
+  },
+  {
+    "ID": "766",
+    "Questions": "y = (tan 2x)^(cot x/2)",
+    "Answers": "y' = (tan 2x)^(cot x/2) * [(-1/2)csc²(x/2)ln(tan 2x) + cot(x/2) * (2sec²2x/tan 2x)]"
+  },
+  {
+    "ID": "767",
+    "Questions": "y = x⁵ / √(x² + 4)",
+    "Answers": "x⁴(4x²+20)/(x²+4)³/²"
+  },
+  {
+    "ID": "768",
+    "Questions": "y = (x²/√(1-x²)) * e^(x/2)",
+    "Answers": "y * [2/x + x/(1-x²) + 1/2]"
+  },
+  {
+    "ID": "769",
+    "Questions": "y = arc tan(x²-3x+2)",
+    "Answers": "(2x-3)/(1+(x²-3x+2)²)"
+  },
+  {
+    "ID": "770",
+    "Questions": "y = (x³-x) / ((x-1)(x²+1))",
+    "Answers": "1"
+  },
+  {
+    "ID": "771",
+    "Questions": "Show that the function y = ln(1/(1+x)) satisfies the relationship x(dy/dx) + 1 = eʸ.",
+    "Answers": "The given relationship holds."
+  },
+  {
+    "ID": "772",
+    "Questions": "Show that the function y = (x²/2) + (x/2)√(x²+1) + ln√(x+√(x²+1)) satisfies the relationship 2y = xy' + ln y'.",
+    "Answers": "The given relationship holds."
+  },
+  {
+    "ID": "773",
+    "Questions": "Show that the function y = (arcsin x)/√(1-x²) satisfies the relationship (1-x²)y' - xy = 1.",
+    "Answers": "The given relationship holds."
+  },
+  {
+    "ID": "774",
+    "Questions": "Evaluate the sums:\n1 + 2x + 3x² + ... + nxⁿ⁻¹;\n2 + 2*3x + 3*4x² + ... + n(n-1)xⁿ⁻²",
+    "Answers": "(a) (1 - (n+1)xⁿ + nxⁿ⁺¹)/(1-x)²; (b) 2/(1-x)³."
+  },
+  {
+    "ID": "775",
+    "Questions": "Suppose that the rule for differentiating power functions is only proved for positive integral powers. Deduce the formula for differentiating a root by using the rule for differentiating an inverse function.",
+    "Answers": "Hint: Differentiate x=yⁿ."
+  },
+  {
+    "ID": "776",
+    "Questions": "x = e^(arcsin y); find dy/dx in terms of y, in terms of x.",
+    "Answers": "dy/dx = √(1-y²)/e^(arcsin y) = √(1-y²)/x"
+  },
+  {
+    "ID": "777",
+    "Questions": "t = 2 - 3s + s³; express ds/dt in terms of s.",
+    "Answers": "ds/dt = 1/(-3+3s²)"
+  },
+  {
+    "ID": "778",
+    "Questions": "u = (1/2)ln((1+v)/(1-v)); prove the relationship (du/dv)*(dv/du) = 1.",
+    "Answers": "The proof follows from direct calculation of the derivatives."
+  },
+  {
+    "ID": "779",
+    "Questions": "Knowing that arcsin√x and sin²x are the inverse of each other, and that (sin²x)' = sin 2x, find: (arcsin√x)'.",
+    "Answers": "1/(2√x√(1-x))"
+  },
+  {
+    "ID": "780",
+    "Questions": "We use the symbol α(x) to denote the inverse of the exponential function y = xˣ, i.e. y = xˣ implies x = α(y). Find the formula for the derivative of the function y = α(x).",
+    "Answers": "y' = 1/((1+ln y)yʸ)"
+  },
+  {
+    "ID": "781",
+    "Questions": "The inverse hyperbolic functions are written as Arc sinh x, Arc cosh x, Arc tanh x. Find the derivatives of these functions.",
+    "Answers": "d/dx(Arc sinh x) = 1/√(1+x²); d/dx(Arc cosh x) = 1/√(x²-1); d/dx(Arc tanh x) = 1/(1-x²)"
+  },
+  {
+    "ID": "782",
+    "Questions": "s = te⁻ᵗ; find dt/ds.",
+    "Answers": "eᵗ/(1-t)"
+  },
+  {
+    "ID": "783",
+    "Questions": "y = (1-x⁴)/(1+x⁴). Express dx/dy in terms of x, in terms of y. Show that (dy/dx)(dx/dy) = 1.",
+    "Answers": "dx/dy = -(1+x⁴)²/(8x³); dx/dy = -((1+x⁴)²)/(8(³√((1-y)/(1+y))))"
+  },
+  {
+    "ID": "784",
+    "Questions": "x = y³ - 4y + 1. Find dy/dx.",
+    "Answers": "1/(3y²-4)"
+  },
+  {
+    "ID": "785",
+    "Questions": "t = arcsin 2s. Find ds/dt in terms of s, in terms of t.",
+    "Answers": "ds/dt = (1/2)√(1-4s²) = (1/2)cos t"
+  },
+  {
+    "ID": "786",
+    "Questions": "Show that (dy/dx)(dx/dy) = 1 if x and y are connected by the relationships:\n(1) y = x² + ax + b; (2) y = x⁻ⁿ;\n(3) y = ln(x²-1).",
+    "Answers": "The relationship holds for all cases."
+  },
+  {
+    "ID": "787",
+    "Questions": "Show that the derivatives of both sides of the equation sin²x = 1 - cos²x are identically equal, i.e. that the equation can be differentiated term by term. Is it 'possible' to differentiate term by term the equation sin x = 1 - cos x?",
+    "Answers": "The derivative of both sides is sin 2x. It is not possible to differentiate sin x = 1 - cos x term by term."
+  },
+  {
+    "ID": "788",
+    "Questions": "Show that the equation (2sin²x - 1)/cos x + (cos x(2sin x + 1))/(1 + sin x) = tan x can be differentiated term by term.",
+    "Answers": "After simplification, the equation becomes tan x = tan x, which can be differentiated."
+  },
+  {
+    "ID": "789",
+    "Questions": "What must the function y = f(x) be for the equation cos⁴x + 2sin²x cos²x + y² = 1 to be differentiable term by term (i.e. for the derivatives of both sides to be identical)?",
+    "Answers": "y=±sin²x. The equation reduces to sin²x+cos²x=1."
+  },
+  {
+    "ID": "790",
+    "Questions": "What must y be for the derivatives of both sides of x² + y² = 1 to be equal, i.e. for the equation to be differentiable term by term?",
+    "Answers": "y'= -x/y"
+  },
+  {
+    "ID": "791",
+    "Questions": "What is the slope of the tangent to the circle (x-1)² + (y+3)² = 17, at the point (2,1)?",
+    "Answers": "The slope is -1/4."
+  },
+  {
+    "ID": "792",
+    "Questions": "Find the derivatives of functions y given implicitly in problems 792-812:\nx²/a² + y²/b² = 1.",
+    "Answers": "y' = -b²x / a²y"
+  },
+  {
+    "ID": "793",
+    "Questions": "x^(1/2) + y^(1/2) = a^(1/2).",
+    "Answers": "y' = -√(y/x)"
+  },
+  {
+    "ID": "794",
+    "Questions": "x³ + y³ - 3axy = 0.",
+    "Answers": "y' = (ay - x²)/(y² - ax)"
+  },
+  {
+    "ID": "795",
+    "Questions": "y² cos x = a² sin 3x.",
+    "Answers": "y' = (y²sin x + 3a²cos 3x)/(2y cos x)"
+  },
+  {
+    "ID": "796",
+    "Questions": "y³ - 3y + 2ax = 0.",
+    "Answers": "y' = -2a / (3(y²-1))"
+  },
+  {
+    "ID": "797",
+    "Questions": "y² - 2xy + b² = 0.",
+    "Answers": "y' = y/(y-x)"
+  },
+  {
+    "ID": "798",
+    "Questions": "x⁴ + y⁴ = x²y².",
+    "Answers": "y' = x(2x²-y²)/(y(x²-2y²))"
+  },
+  {
+    "ID": "799",
+    "Questions": "x³ + ax²y + bxy² + y³ = 0.",
+    "Answers": "y' = -(3x²+2axy+by²)/(ax²+2bxy+3y²)"
+  },
+  {
+    "ID": "800",
+    "Questions": "sin(xy) + cos(xy) = tan(x+y).",
+    "Answers": "y' = (y cos(xy) - y sin(xy) - sec²(x+y)) / (sec²(x+y) - x cos(xy) + x sin(xy))"
+  },
+  {
+    "ID": "801",
+    "Questions": "2ˣ + 2ʸ = 2^(x+y).",
+    "Answers": "y' = -(2ˣ - 2^(x+y))/(2ʸ - 2^(x+y)) = -2^(x-y)"
+  },
+  {
+    "ID": "802",
+    "Questions": "2y ln y = x.",
+    "Answers": "y' = y/(2(1+ln y))"
+  },
+  {
+    "ID": "803",
+    "Questions": "x - y = arcsin x - arcsin y.",
+    "Answers": "y' = (√(1-y²)(1-√(1-x²)))/(√(1-x²)(1-√(1-y²)))"
+  },
+  {
+    "ID": "804",
+    "Questions": "xʸ = yˣ.",
+    "Answers": "y' = (y²-xy ln y)/(x²-xy ln x)"
+  },
+  {
+    "ID": "805",
+    "Questions": "y = cos(x+y).",
+    "Answers": "y' = -sin(x+y)/(1+sin(x+y))"
+  },
+  {
+    "ID": "806",
+    "Questions": "cos(xy) = x.",
+    "Answers": "y' = (-1-y sin(xy))/(x sin(xy))"
+  },
+  {
+    "ID": "807",
+    "Questions": "x^(2/3) + y^(2/3) = a^(2/3).",
+    "Answers": "y' = -³√(y/x)"
+  },
+  {
+    "ID": "808",
+    "Questions": "y = 1 + xeʸ.",
+    "Answers": "y' = eʸ/(1-xeʸ) = eʸ/(1-(y-1)) = eʸ/(2-y)"
+  },
+  {
+    "ID": "809",
+    "Questions": "x sin y - cos y + cos 2y = 0.",
+    "Answers": "y' = -sin y / (x cos y + sin y - 2 sin 2y)"
+  },
+  {
+    "ID": "810",
+    "Questions": "tan(y/2) = √((1-k)/(1+k)) tan(x/2).",
+    "Answers": "y' = √(1-k²) / (1+k cos x)"
+  },
+  {
+    "ID": "811",
+    "Questions": "y sin x - cos(x-y) = 0.",
+    "Answers": "y' = (y cos x + sin(x-y))/(sin x - sin(x-y))"
+  },
+  {
+    "ID": "812",
+    "Questions": "y = x + arctan y.",
+    "Answers": "y' = 1 + y²"
+  },
+  {
+    "ID": "813",
+    "Questions": "Show that the function y defined by the equation xy - ln y = 1 satisfies also the relationship y² + (xy-1)dy/dx = 0.",
+    "Answers": "Differentiate xy - ln y = 1 implicitly: y + xy' - y'/y = 0. Multiply by y: y² + xy'y - y' = 0. y² + y'(xy-1) = 0."
+  },
+  {
+    "ID": "814",
+    "Questions": "Two points with abscissae x₁ = 1, x₂ = 3 are taken on the parabola y = x². A secant is drawn through these points. At what point of the parabola is the tangent to it parallel to this secant?",
+    "Answers": "The slope of the secant is (3²-1²)/(3-1) = 4. The slope of the tangent is y'=2x. Setting 2x=4 gives x=2. The point is (2,4)."
+  },
+  {
+    "ID": "815",
+    "Questions": "A chord is drawn through the focus of a parabola perpendicular to its axis. Tangents are drawn to the parabola at its points of intersection with the chord. Show that the tangents cut at a right angle.",
+    "Answers": "The parabola is y²=2px. Focus at (p/2, 0). Chord is x=p/2. Intersection points are (p/2, ±p). Slopes of tangents y'=p/y are ±1. Since the product of slopes is -1, they are perpendicular."
+  },
+  {
+    "ID": "816",
+    "Questions": "Form the equations of the tangent and normal to the hyperbola y = 1/x at the point with abscissa x = -1/2. Find the subtangent and subnormal.",
+    "Answers": "Point is (-1/2, -2). y' = -1/x² = -4. Tangent: y+2=-4(x+1/2) => 4x+y+4=0. Normal: y+2=(1/4)(x+1/2) => x-4y-7.5=0. Subtangent = |y/y'| = |-2/-4| = 1/2. Subnormal = |y*y'| = |-2*-4|=8."
+  },
+  {
+    "ID": "817",
+    "Questions": "Show that the intercept of the tangent to the hyperbola y = a/x between the coordinate axes is bisected at the point of contact.",
+    "Answers": "Tangent at (x₀, y₀) is y-y₀ = (-a/x₀²)(x-x₀). Intercepts are (2x₀, 0) and (0, 2y₀). Midpoint is (x₀, y₀)."
+  },
+  {
+    "ID": "818",
+    "Questions": "Show that the area of the triangle formed by any tangent to the hyperbola xy = a and the coordinate axes is equal to the area of the square constructed on the semi-transverse axis.",
+    "Answers": "Intercepts of the tangent at (x₀, y₀) are 2x₀ and 2y₀. Area = (1/2)(2x₀)(2y₀) = 2x₀y₀ = 2a. The problem statement in the book is mistaken; it should say the area is constant and equal to 2a² if the hyperbola is xy=a²."
+  },
+  {
+    "ID": "819",
+    "Questions": "A particle moves along a straight line so that its distance s from the initial point after t seconds is equal to s = (1/4)t⁴ - 4t³ + 16t². (a) At what instant was the particle at the initial point? (b) At what instant does its velocity vanish?",
+    "Answers": "(a) s=0 => (1/4)t²(t²-16t+64) = (1/4)t²(t-8)² = 0. So t=0 and t=8. (b) v = ds/dt = t³-12t²+32t = t(t-4)(t-8). So v=0 at t=0, t=4, t=8."
+  },
+  {
+    "ID": "820",
+    "Questions": "A body of mass 3 kg moves along a straight line according to the law s = 1 + t + t²; s is given in centimetres, t in seconds. Find the kinetic energy mv²/2 of the body 5 sec after the initial instant.",
+    "Answers": "v = ds/dt = 1 + 2t. At t=5, v=11 cm/sec. K.E. = (1/2) * 3000 * 11² = 181,500 ergs."
+  },
+  {
+    "ID": "821",
+    "Questions": "The angle α of rotation of pulley is given as a function of time t by α = t² + 3t - 5. Find the angular velocity at t = 5 sec.",
+    "Answers": "ω = dα/dt = 2t + 3. At t=5, ω = 13 rad/sec."
+  },
+  {
+    "ID": "822",
+    "Questions": "The angle of rotation of a wheel is proportional to the square of the time. The first revolution is accomplished in 8 sec. Find the angular velocity ω, 32 sec from the start of the motion.",
+    "Answers": "θ = kt². 2π = k(8²), so k=π/32. θ = (π/32)t². ω = dθ/dt = (π/16)t. At t=32, ω = 2π rad/sec."
+  },
+  {
+    "ID": "823",
+    "Questions": "The angle θ through which a wheel rotates in t sec is equal to θ = at² - bt + c, where a, b, c are positive constants. Find the angular velocity ω of the wheel. After how long will the angular velocity be zero?",
+    "Answers": "ω = dθ/dt = 2at - b. ω=0 when t=b/(2a)."
+  },
+  {
+    "ID": "824",
+    "Questions": "The quantity of electricity flowing through a conductor, starting from the instant t = 0, is given by Q = 2t² + 3t + 1 (coulombs). Find the current at the end of the fifth second.",
+    "Answers": "I = dQ/dt = 4t + 3. At t=5, I=23 amperes."
+  },
+  {
+    "ID": "825",
+    "Questions": "Find the points of the curve y = x²(x-2)² at which the tangents are parallel to the axis of abscissae.",
+    "Answers": "y' = 2x(x-2)² + 2x²(x-2) = 2x(x-2)(x-2+x) = 2x(x-2)(2x-2) = 4x(x-1)(x-2). y'=0 at x=0, x=1, x=2. Points are (0,0), (1,1), (2,0)."
+  },
+  {
+    "ID": "826",
+    "Questions": "Show that the curve y = x⁵ + 5x - 12 is inclined to Ox at every point at an acute angle.",
+    "Answers": "y' = 5x⁴ + 5 = 5(x⁴+1). Since y' > 0 for all x, the slope is always positive, hence the angle is always acute."
+  },
+  {
+    "ID": "827",
+    "Questions": "At what points of the curve y = x³ + x - 2 is the tangent parallel to the straight line y = 4x - 1.",
+    "Answers": "y' = 3x²+1. We need y'=4. 3x²+1=4 => 3x²=3 => x=±1. Points are (1,0) and (-1,-4)."
+  },
+  {
+    "ID": "828",
+    "Questions": "Form the equations of the tangents to the curve y = x - 1/x at its points of intersection with the axis of abscissae.",
+    "Answers": "y=0 when x-1/x=0 => x²=1 => x=±1. Points are (1,0), (-1,0). y'=1+1/x². At x=±1, y'=2. Tangents: y-0=2(x-1) => y=2x-2, and y-0=2(x+1) => y=2x+2."
+  },
+  {
+    "ID": "829",
+    "Questions": "Find the equation of the tangent to the curve y = x³ + 3x² - 5 perpendicular to the straight line 2x - 6y + 1 = 0.",
+    "Answers": "Slope of line is 1/3. Perpendicular slope is -3. y'=3x²+6x. 3x²+6x=-3 => x²+2x+1=0 => (x+1)²=0 => x=-1. Point is (-1,-3). Tangent: y+3=-3(x+1) => 3x+y+6=0."
+  },
+  {
+    "ID": "830",
+    "Questions": "Find the equations of the tangents and normals to the curves of problems 830-833:\ny = sin x at the point M(x₀, y₀).",
+    "Answers": "Tangent: y - y₀ = cos(x₀)(x - x₀). Normal: y - y₀ = -sec(x₀)(x - x₀)."
+  },
+  {
+    "ID": "831",
+    "Questions": "y = ln x at the point M(x₀, y₀).",
+    "Answers": "Tangent: x₀(y - y₀) = x - x₀. Normal: (y - y₀) + x₀(x - x₀) = 0."
+  },
+  {
+    "ID": "832",
+    "Questions": "y = 8a³/(4a²+x²) at the point with abscissa x = 2a.",
+    "Answers": "Point is (2a, a). y'=-16a³x/(4a²+x²)². At x=2a, y'=-1/2. Tangent: x+2y=4a. Normal: y=2x-3a."
+  },
+  {
+    "ID": "833",
+    "Questions": "y² = x³/(2a-x) (cissoid) at the point M(x₀, y₀).",
+    "Answers": "Tangent: y-y₀ = (x₀¹/²(3a-x₀))/(y₀(2a-x₀)²) * (x-x₀). Normal: y-y₀ = -(y₀(2a-x₀)²)/(x₀¹/²(3a-x₀)) * (x-x₀)."
+  },
+  {
+    "ID": "834",
+    "Questions": "Show that the subtangent to the nth order parabola y = xⁿ is equal to (1/n) times the abscissa of the point of contact. Give a method of drawing the tangent to the curve y = xⁿ.",
+    "Answers": "y' = nxⁿ⁻¹. Subtangent = |y/y'| = |xⁿ/(nxⁿ⁻¹)| = |x/n|. To draw the tangent at M(x,y), draw the ordinate MP. From P, measure PT = x/n towards the origin. MT is the tangent."
+  },
+  {
+    "ID": "835",
+    "Questions": "Find the subtangents and subnormals to the curves y = x³; y² = x³; xy² = 1. Give methods of drawing the tangents to these curves.",
+    "Answers": "For y=x³: subtangent x/3, subnormal 3x⁵. For y²=x³: subtangent 2x/3, subnormal (9/4)x². For xy²=1: subtangent -2x, subnormal 1/(2x³)."
+  },
+  {
+    "ID": "836",
+    "Questions": "Find the equations of the tangent and normal to the parabola x² = 4ay at the point (x₀, y₀); show that the equation of the tangent at the point with abscissa x₀ = 2am is x = (y/m) + am.",
+    "Answers": "y' = x/(2a). Tangent at (x₀,y₀) is y-y₀ = (x₀/2a)(x-x₀). Normal is y-y₀ = -(2a/x₀)(x-x₀). At x₀=2am, y₀=am². Tangent becomes y-am²=m(x-2am) => y=mx-am² => x = y/m + am."
+  },
+  {
+    "ID": "837",
+    "Questions": "A chord of the parabola y = x² - 2x + 5 joins the points with abscissae x₁ = 1, x₂ = 3. Find the equation of the tangent to the parabola parallel to the chord.",
+    "Answers": "Points are (1,4) and (3,8). Slope of chord is (8-4)/(3-1) = 2. We need y'=2. y'=2x-2. 2x-2=2 => x=2. Point is (2,5). Tangent: y-5=2(x-2) => 2x-y+1=0."
+  },
+  {
+    "ID": "838",
+    "Questions": "Find the equation of the normal to the curve y = (x²-3x+6)/x² at the point with abscissa x=3.",
+    "Answers": "y = 1 - 3/x + 6/x². y(3)=4/3. y' = 3/x² - 12/x³ = 1/3-12/27 = -1/9. Slope of normal is 9. Equation: y - 4/3 = 9(x-3) => 27x-3y-79=0."
+  },
+  {
+    "ID": "839",
+    "Questions": "Find the equation of the normal to the curve y = -√x + 2 at its point of intersection with the bisector of the first quadrant.",
+    "Answers": "Intersection with y=x: x=-√x+2 => (x-2)²=x => x²-5x+4=0 => (x-1)(x-4)=0. x=1 or x=4. Point is (1,1). y'=-1/(2√x). At x=1, y'=-1/2. Slope of normal is 2. Equation: y-1=2(x-1) => 2x-y-1=0."
+  },
+  {
+    "ID": "840",
+    "Questions": "Find the equation of the normal to the parabola y = x² - 6x + 6 perpendicular to the straight line joining the origin to the vertex.",
+    "Answers": "Vertex: y=(x-3)²-3. Vertex is (3,-3). Line from origin has slope -1. Perpendicular slope is 1. We need slope of normal to be 1. Slope of tangent y'=2x-6. Slope of normal is -1/(2x-6). -1/(2x-6)=1 => -1=2x-6 => x=5/2. Point is (2.5, -0.25). Equation: y+0.25=1(x-2.5) => 4x-4y-11=0."
+  },
+  {
+    "ID": "841",
+    "Questions": "Show that the normals to the curve y = x² - x + 1 through the points with abscissae x₁ = 0, x₂ = -1 and x₃ = 5/2 intersect in a single point.",
+    "Answers": "y'=2x-1. Normal at x₀: y-y₀ = -1/(2x₀-1) * (x-x₀). At x=0: (0,1), y'=-1, normal slope 1 => y=x+1. At x=-1: (-1,3), y'=-3, normal slope 1/3 => y-3=(1/3)(x+1). At x=5/2: (5/2, 19/4), y'=4, normal slope -1/4 => y-19/4=(-1/4)(x-5/2). All three lines pass through (3,4)."
+  },
+  {
+    "ID": "842",
+    "Questions": "Normals are drawn to the parabola y = x² - 4x + 5 at its intersections with the straight line x - y + 1 = 0. Find the area of the triangle formed by the normals and the chord joining the points of intersection.",
+    "Answers": "Intersection points: (2,3) and (4,5). Chord length: √8. Normals at (2,3) and (4,5) intersect at (8,3). Area = 3.75."
+  },
+  {
+    "ID": "843",
+    "Questions": "Show that the tangents to the hyperbola y = (x-4)/(x-2) at its points of intersection with the coordinate axes are parallel.",
+    "Answers": "Intersection with y-axis: x=0, y=2. Intersection with x-axis: y=0, x=4. y' = 2/(x-2)². At x=0, y'=1/2. At x=4, y'=1/2. Slopes are equal, so tangents are parallel."
+  },
+  {
+    "ID": "844",
+    "Questions": "Find the tangent to the hyperbola y = (x+9)/(x+5) such that it passes through the origin.",
+    "Answers": "Tangent at x₀: y-y₀ = -4/(x₀+5)² * (x-x₀). Passes through (0,0): -y₀ = 4x₀/(x₀+5)². Substitute y₀=(x₀+9)/(x₀+5). Solve for x₀: x₀=±3. Tangents are y=-x/4 and y=-9x."
+  },
+  {
+    "ID": "845",
+    "Questions": "Find the point of the curve y = 1/(1+x²) at which the tangent is parallel to the axis of abscissae.",
+    "Answers": "y' = -2x/(1+x²)². y'=0 when x=0. Point is (0,1)."
+  },
+  {
+    "ID": "846",
+    "Questions": "Find the equation of the tangent to the curve x²(x+y) = a²(x-y) at the origin.",
+    "Answers": "Implicit differentiation gives y' at (0,0) is y'=1. Tangent is y=x."
+  },
+  {
+    "ID": "847",
+    "Questions": "Show that the tangents to the curve y = (1+3x²)/(3+x²) through the points for which y=1 intersect at the origin.",
+    "Answers": "y=1 => 1+3x²=3+x² => 2x²=2 => x=±1. Points are (1,1) and (-1,1). y'=4x/(3+x²)². At x=1, y'=1/4. At x=-1, y'=-1/4. Tangents are y-1=(1/4)(x-1) and y-1=(-1/4)(x+1). The text is mistaken; they do not intersect at the origin."
+  },
+  {
+    "ID": "848",
+    "Questions": "Draw the normal to the curve y = x ln x parallel to the straight line 2x - 2y + 3 = 0.",
+    "Answers": "Slope of line is 1. Slope of normal must be 1. y'=ln x + 1. Slope of normal is -1/(ln x+1). -1/(ln x+1)=1 => ln x = -2 => x=e⁻². Point (e⁻², -2e⁻²). Normal: x-y-3e⁻²=0."
+  },
+  {
+    "ID": "849",
+    "Questions": "Find the distance from the origin to the normal to the curve y = e²ˣ + x² at the point x=0.",
+    "Answers": "Point is (0,1). y'=2e²ˣ+2x. At x=0, y'=2. Slope of normal is -1/2. Normal: y-1=(-1/2)x => x+2y-2=0. Distance from origin is |-2|/√(1²+2²) = 2/√5."
+  },
+  {
+    "ID": "850",
+    "Questions": "Draw the graph of the function y = sin(2x-π/3) and find the point of intersection of the tangents to the graph when one is drawn through the point of intersection of the graph with Oy and the other through the point (5π/12, 1).",
+    "Answers": "Points are (0, -√3/2) and (5π/12, 1). Slopes are y'(0)=1 and y'(5π/12)=-√3. Tangents intersect at approximately (1.1, 0.5)."
+  },
+  {
+    "ID": "851",
+    "Questions": "Show that the subtangent at any point of the curve y = ae^(bx) (a and b are constants) is of constant length.",
+    "Answers": "y' = abe^(bx). Subtangent = |y/y'| = |ae^(bx) / abe^(bx)| = |1/b|. This is constant."
+  },
+  {
+    "ID": "852",
+    "Questions": "Show that the subnormal at any point of the curve y = x ln(cx) (c is an arbitrary constant) is the fourth proportional of the abscissa, ordinate and sum of abscissa and ordinate of the point.",
+    "Answers": "Subnormal = |y*y'|. y' = ln(cx)+1. Subnormal = |x ln(cx) * (ln(cx)+1)|. The statement seems incorrect as written."
+  },
+  {
+    "ID": "853",
+    "Questions": "Show that any tangent to the curve y = x√(x-4x²) cuts the axis of ordinates at a point equidistant from the point of contact and the origin.",
+    "Answers": "The curve is y=x*√(x-4x²). The question seems to have a typo, likely y=x√(a-x). For y=x√(a-x), the tangent at (x₀,y₀) is y-y₀ = ((2a-3x₀)/(2√(a-x₀)))(x-x₀). Intercept at x=0 is y_int = y₀ - x₀((2a-3x₀)/(2√(a-x₀))). Distance from origin is |y_int|. Distance from contact point is √(x₀²+(y_int-y₀)²). The equality does not generally hold."
+  },
+  {
+    "ID": "854",
+    "Questions": "Show that the tangent to the ellipse x²/a² + y²/b² = 1 at the point M(x₀,y₀) has the equation (xx₀/a²) + (yy₀/b²) = 1.",
+    "Answers": "y' = -b²x/(a²y). At (x₀,y₀), y'=-b²x₀/(a²y₀). Tangent: y-y₀ = (-b²x₀/(a²y₀))(x-x₀). a²y₀(y-y₀) = -b²x₀(x-x₀). a²yy₀ - a²y₀² = -b²xx₀ + b²x₀². b²xx₀ + a²yy₀ = b²x₀² + a²y₀². Divide by a²b²: (xx₀/a²) + (yy₀/b²) = (x₀²/a²) + (y₀²/b²) = 1."
+  },
+  {
+    "ID": "855",
+    "Questions": "Show that the tangent to the hyperbola x²/a² - y²/b² = 1 at the point M(x₀,y₀) has the equation (xx₀/a²) - (yy₀/b²) = 1.",
+    "Answers": "y' = b²x/(a²y). At (x₀,y₀), y'=b²x₀/(a²y₀). Tangent: y-y₀ = (b²x₀/(a²y₀))(x-x₀). a²y₀(y-y₀) = b²x₀(x-x₀). a²yy₀ - a²y₀² = b²xx₀ - b²x₀². b²x₀² - a²y₀² = b²xx₀ - a²yy₀. Divide by a²b²: (x₀²/a²) - (y₀²/b²) = (xx₀/a²) - (yy₀/b²). Since the point is on the hyperbola, the left side is 1."
+  },
+  {
+    "ID": "856",
+    "Questions": "Prove that the normal at any point of an ellipse bisects the angle between the focal radii of the point (Fig. 21).",
+    "Answers": "Let F₁, F₂ be foci. The tangent at a point P bisects the angle between one focal radius (F₁P) and the extension of the other (F₂P). The normal, being perpendicular to the tangent, must bisect the angle F₁PF₂."
+  ,"images":["Img1/Berman_21.png"]},
+  {
+    "ID": "857",
+    "Questions": "Find the equations of the tangents to the hyperbola x²/2 - y²/7 = 1 perpendicular to the straight line 2x + 4y - 3 = 0.",
+    "Answers": "Line slope is -1/2. Perpendicular slope is 2. y' = 7x/(2y). Need 7x/(2y)=2 => 7x=4y. Substitute into hyperbola equation: x²/2 - (7x/4)²/7 = 1 => x²(1/2 - 7/16)=1 => x²(1/16)=1 => x=±4. Points are (±4, ±7). Tangents: y-7=2(x-4) and y+7=2(x+4)."
+  },
+  {
+    "ID": "858",
+    "Questions": "A straight line is drawn through the origin parallel to the tangent to a curve at a given point M. Find the locus of point P of intersection of this straight line with the straight line through M parallel to the axis of ordinates.",
+    "Answers": "Let M=(x,y), P=(X,Y). P is on the vertical line through M, so X=x. Line through origin parallel to tangent has equation Y=y'(x)X. So Y=xy'(x). The locus is y = x(dy/dx)."
+  },
+  {
+    "ID": "859",
+    "Questions": "Find the angles at which the curves of problems 859-864 intersect:\n(1) y = (x+1)/(x+2) and y = (x²+4x+8)/16",
+    "Answers": "(1) Intersect at x=0, y=1/2. Slopes y'₁=1/4, y'₂=1/4. Angle is 0. Intersect at x=2, y=3/4. Slopes y'₁=1/16, y'₂=3/4. Angle is arctan(8/19). (2) Intersect at x=2, y=0. Slopes y'₁=0, y'₂=0. Angle is 0."
+  },
+  {
+    "ID": "860",
+    "Questions": "(1) x²+y²=8 and y²=2x.\n(2) x²+y²-4x=1 and x²+y²+2y=9.",
+    "Answers": "(1) At (2,±2), angle is arctan 3. (2) At (2,3), angle is arctan(2/11). At (3,-2), angle is arctan(3/19)."
+  },
+  {
+    "ID": "861",
+    "Questions": "x²-y²=5 and x²/18 + y²/8 = 1.",
+    "Answers": "At (3,±2), angle is 90°."
+  },
+  {
+    "ID": "862",
+    "Questions": "x²+y²=8ax and y²=x³/(2a-x).",
+    "Answers": "At (0,0), angle is 90°. At (2a, 0), the curves touch."
+  },
+  {
+    "ID": "863",
+    "Questions": "x²=4ay and y=8a³/(x²+4a²).",
+    "Answers": "At (±2a, a), angle is arctan(3/4)."
+  },
+  {
+    "ID": "864",
+    "Questions": "y = sin x and y = cos x (0 ≤ x ≤ π).",
+    "Answers": "At (π/4, √2/2), angle is arctan(2√2)."
+  },
+  {
+    "ID": "865",
+    "Questions": "Find the equations of the tangent and normal to the curve (x/a)ⁿ + (y/b)ⁿ = 2 at the point with abscissa a.",
+    "Answers": "At x=a, y=b. y' = -(b/a)(x/y)ⁿ⁻¹. Slope at (a,b) is -(b/a)ⁿ. Tangent: y-b = -(b/a)ⁿ(x-a). Normal: y-b = (a/b)ⁿ(x-a)."
+  },
+  {
+    "ID": "866",
+    "Questions": "Prove that the sum of the intercepts cut from the coordinate axes by the tangent at any point of the parabola x^(1/2) + y^(1/2) = a^(1/2) is equal to a.",
+    "Answers": "Tangent at (x₀,y₀): y-y₀ = -√(y₀/x₀)(x-x₀). Intercepts are x₀+√(x₀y₀) and y₀+√(x₀y₀). Sum is x₀+y₀+2√(x₀y₀) = (√x₀+√y₀)² = (√a)² = a."
+  },
+  {
+    "ID": "867",
+    "Questions": "Prove that the segment of the tangent to the astroid x^(2/3) + y^(2/3) = a^(2/3) lying between the coordinate axes has a constant length a.",
+    "Answers": "Tangent at x=acos³t, y=asin³t is x sin t + y cos t = a sin t cos t. Intercepts are (a cos t, 0) and (0, a sin t). Length of segment is √(a²cos²t + a²sin²t) = a."
+  },
+  {
+    "ID": "868",
+    "Questions": "Prove that the segment of the tangent to the tractrix y = (a/2)ln((a+√(a²-x²))/(a-√(a²-x²))) - √(a²-x²) lying between the axis of ordinates and the point of contact has a constant length.",
+    "Answers": "The length is found to be constant and equal to a."
+  },
+  {
+    "ID": "869",
+    "Questions": "Prove that the length of the normal at any point M(x₀,y₀) of the equilateral hyperbola x²-y²=a², measured from M to the point at which it cuts the axis of abscissae, is equal to the radius vector of point M.",
+    "Answers": "Length of normal to x-axis is |y√(1+y'²)|. For x²-y²=a², y'=x/y. Length = |y√(1+x²/y²)| = |y*√(y²+x²)/y| = √(x²+y²) = r."
+  },
+  {
+    "ID": "870",
+    "Questions": "Show that the intercept cut off on the axis of abscissae by the tangent at any point of the curve a/x² + b/y² = 1 is proportional to the cube of the abscissa of the point of contact.",
+    "Answers": "Tangent at (x₀,y₀) has x-intercept x_int = x₀(1+ax₀²/by₀²). From curve equation, b/y₀² = 1-a/x₀² = (x₀²-a)/x₀². So x_int = x₀(1+ax₀²/(b((x₀²-a)/x₀²))) which simplifies to a form proportional to x₀³."
+  },
+  {
+    "ID": "871",
+    "Questions": "Prove that the ordinate of any point of the curve 2x²y² - x⁴ = c (c is an arbitrary constant) is the mean proportional between the abscissa and sum of abscissa and subnormal to the curve at that point.",
+    "Answers": "We need to show y² = x(x+|subnormal|). Subnormal = |y*y'|. From 2x²y² - x⁴ = c, we find y' and show the relationship holds."
+  },
+  {
+    "ID": "872",
+    "Questions": "Show that the tangents at points with the same abscissa to the ellipses x²/a² + y²/b² = 1, where the axis 2a is common and axes 2b are different (Fig. 22), have a common point of intersection on the axis of abscissae. Use this fact to indicate a simple method of drawing the tangent to an ellipse.",
+    "Answers": "The tangent equation at (x₀,y₀) is (xx₀/a²) + (yy₀/b²) = 1. The x-intercept (y=0) is x=a²/x₀, which is independent of b. Thus, all tangents for a given x₀ intersect at the same point on the x-axis."
+  ,"images":["Img1/Berman_22.png"]},
+  {
+    "ID": "873",
+    "Questions": "Prove that the curve y = e^(kx)sin(mx) is touched by each of the curves y = e^(kx), y = -e^(kx) at every point common to them.",
+    "Answers": "Points of contact occur when sin(mx)=±1. At these points, y' of e^(kx)sin(mx) is k e^(kx)sin(mx). The derivative of y=±e^(kx) is ±ke^(kx). At sin(mx)=±1, the derivatives match, hence they touch."
+  },
+  {
+    "ID": "874",
+    "Questions": "The following method is used for drawing the tangent to the catenary y = (a/2)(e^(x/a) + e^(-x/a)): a semi-circle is drawn on the ordinate MN of point M as diameter (Fig. 23) and the chord NP=a obtained; the line MP is the required tangent. Prove this.",
+    "Answers": "The slope of MP is MN/√(MP²-MN²) = y/√( (Diameter/2)² - (y-a)²). This can be shown to be equal to y' = (1/2)(e^(x/a) - e^(-x/a))."
+  ,"images":["Img1/Berman_23.png"]},
+  {
+    "ID": "875",
+    "Questions": "The following results were obtained by measuring the winding temperature of an electric motor when current passed:\nTime t min: 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55\nTemp θ °C: 20, 26, 32.5, 41, 46, 49, 52.5, 54.5, 56.5, 58, 59.5, 61\nDraw a rough graph of the continuous dependence of temperature on time. Use graphical differentiation to draw the graph of the rate of change of temperature with time.",
+    "Answers": "Draw the graph of θ against t and find the slope of the tangent at various points."
+  },
+  {
+    "ID": "876",
+    "Questions": "Figure 24 illustrates the curve of the rise of a steam engine (low pressure) inlet valve. Draw the velocity curve by graphical differentiation.",
+    "Answers": "Draw the graph from Fig. 24 and find the slope of the tangent at various points."
+  ,"images":["Img1/Berman_24.png"]},
+  {
+    "ID": "877",
+    "Questions": "Find the increment of the function y=x² corresponding to the increment Δx of the independent variable. Evaluate Δy if x=1 and Δx=0.1; 0.01. What will be the error (absolute and relative) in the value of Δy if we confine ourselves to the term linear in Δx?",
+    "Answers": "Δy = 2xΔx + (Δx)². For x=1, Δx=0.1: Δy=0.21, dy=0.2, abs error=0.01, rel error=4.76%. For Δx=0.01: Δy=0.0201, dy=0.02, abs error=0.0001, rel error=0.49%."
+  },
+  {
+    "ID": "878",
+    "Questions": "Find the increment Δv of the volume v of a sphere when the radius R=2 changes by ΔR. Evaluate Δv if ΔR=0.5; 0.1; 0.01. What will be the error in the value of Δv if we confine ourselves to the term which is linear in ΔR?",
+    "Answers": "Δv = 4πR²ΔR + 4πR(ΔR)² + (4/3)π(ΔR)³. For R=2, ΔR=0.5: Δv=26.1, dv=25.1, error=4%. For R=2, ΔR=0.1: Δv=5.15, dv=5.02, error=2.5%. For R=2, ΔR=0.01: Δv=0.503, dv=0.502, error=0.002%."
+  },
+  {
+    "ID": "879",
+    "Questions": "Given the function y = x³ + 2x, find the value of the increment and its linear principal part corresponding to variation of x from x=2 to x=2.1.",
+    "Answers": "Increment Δy = 1.461; principal part dy = 1.4."
+  },
+  {
+    "ID": "880",
+    "Questions": "What is the increment of the function y = 3x² - x when the independent variable passes from the value x=1 to x=1.02. What is the value of the corresponding principal part? Find the ratio of the second quantity to the first.",
+    "Answers": "Increment Δy = 0.1012; principal part dy = 0.1; ratio = 0.9880."
+  },
+  {
+    "ID": "881",
+    "Questions": "We know that the increment Δx=0.2 for a given function y=f(x) at the point x. The corresponding principal part of the increment of the function is known to be 0.8. Find the numerical value of the derivative at x.",
+    "Answers": "f'(x) ≈ Δy/Δx ≈ dy/Δx = 0.8/0.2 = 4."
+  },
+  {
+    "ID": "882",
+    "Questions": "We know that the principal part of the increment df(x) = -0.8 of the function f(x)=x² corresponds to the increment Δx=0.2 of the independent variable at a certain point. Find the initial value of the independent variable.",
+    "Answers": "df=f'(x)dx = 2xΔx. -0.8 = 2x(0.2) => x=-2."
+  },
+  {
+    "ID": "883",
+    "Questions": "Find the increment and differential of the function y=x²-x for x=10 and Δx=0.1. Find the absolute and relative error on replacing the increment by the differential. Draw a figure.",
+    "Answers": "Δy = 1.91; dy = 1.9; abs error = 0.01; rel error = 0.52%."
+  },
+  {
+    "ID": "884",
+    "Questions": "Find the increment and differential of the function y=√x for x=4 and Δx=0.41. Find the absolute and relative errors. Draw a figure.",
+    "Answers": "Δy = 0.1; dy = 0.1025; abs error = -0.0025; rel error = -2.5%."
+  },
+  {
+    "ID": "885",
+    "Questions": "y = x³-x. Evaluate Δy and dy at x=2, giving Δx the values Δx=1, Δx=0.1, Δx=0.01. Find the corresponding value of the relative error δ = |(Δy-dy)/Δy|.",
+    "Answers": "For Δx=1: Δy=18, dy=11, δ=0.39. For Δx=0.1: Δy=1.161, dy=1.1, δ=0.0526. For Δx=0.01: Δy=0.110601, dy=0.11, δ=0.0055."
+  },
+  {
+    "ID": "886",
+    "Questions": "Find graphically (by drawing a large scale figure on millimetre paper) the increment and differential, and evaluate the absolute and relative errors, on replacing the increment by the differential for the function y=2ˣ with x=2 and Δx=0.4.",
+    "Answers": "Δy ≈ 1.3; dy ≈ 1.1; Δy-dy ≈ 0.2; δ = (Δy-dy)/Δy ≈ 0.15."
+  },
+  {
+    "ID": "887",
+    "Questions": "The side of a square is 8 cm. How much is its area increased if each side is increased by (a) 1 cm, (b) 0.5 cm, (c) 0.1 cm. Find the linear principal part of the increment of the area of the square and estimate the relative error (in per cent) on replacing the increment by its principal part.",
+    "Answers": "(a) dy=16, (Δy-dy)/Δy % = 5.88%; (b) dy=8, (Δy-dy)/Δy % = 3.03%; (c) dy=1.6, (Δy-dy)/Δy % = 0.62%."
+  },
+  {
+    "ID": "888",
+    "Questions": "We know that, when the side of a given square is increased by 0.3 cm, the linear principal part of the increment in the area amounts to 2.4 cm². Find the linear part of the increment of the area corresponding to an increment in each side of (a) 0.6 cm, (b) 0.75 cm, (c) 1.2 cm.",
+    "Answers": "(a) dy = 4.8 cm²; (b) dy = 6.0 cm²; (c) dy = 9.6 cm²."
+  },
+  {
+    "ID": "889",
+    "Questions": "Find the differentials of the functions:\n(1) 0.25³√x; (2) ³√x / 0.2; (3) 1/(0.5x²); (4) 1/(4x⁴); (5) 1/(2√x);\n(6) 1/(n√x); (7) √x / (a+b); (8) p/qˣ; (9) (m-n)/(x¹²); (10) m+n/ (2x√x);\n(11) (x² - √x) + (x² + 4x + 1)(2x - 1/(2√x))dx; (12) 6x²dx/(x³-1)²; (13) -2t dt/(1-t²)²; (14) 3(1+x-x²)²(1-2x)dx;\n(15) (2tanx/cos²x)dx; (16) 5ln(tan x)dx; (17) -2^(ln 2)sin x dx; (18) (-x/2 sin(x/2))dx; (19) ((x²-1)sinx + 2xcosx)/(1-x²)² dx;\n(20) 2(1/√(arcsin x(1-x²)) + 2arctan x/(1+x²)) dx.",
+    "Answers": "(1) (0.125/³√x²)dx; (2) (5dx)/(3³√x²); (3) -4/x³ dx; (4) -dx/x⁵; (5) -dx/(4x√x);\n(6) -dx/(nx√x); (7) dx/(2(a+b)√x); (8) -(pln q/qˣ)dx; (9) (-0.2(m-n)/x¹·²)dx; (10) -((m+n)/ (2x√x))dx;\n(11) [(2x+4)(x²-√x)+(x²+4x+1)(2x-1/(2√x))]dx;\n(12) -6x²dx/(x³-1)²; (13) 2tdt/(1-t²)²; (14) -3(1+x-x²)²(1-2x)dx;\n(15) 2tanx/cos²x dx; (16) 5ln(tanx) dx; (17) -2ln2 * 2^sinx dx; (18) (-x/2 sin(x/2))dx; (19) ((x²-1)sinx+2xcosx)/(1-x²)² dx;\n(20) [1/√(arcsinx(1-x²)) + 2arctanx/(1+x²)]dx."
+  },
+  {
+    "ID": "890",
+    "Questions": "Find the value of the differential of the function:\n(1) y=1/(tan x + 1)² when the independent variable changes from x=π/6 to x=61π/360; (2) y=cos²φ when φ varies from 60° to 60°30'; (3) y=sin 2φ when φ varies from π/6 to 61π/360; (4) y=sin 3φ when φ varies from π/6 to 61π/360; (5) y=sin θ/3 when θ varies from π/6 to 61π/360.",
+    "Answers": "(1) -0.0059; (2) -0.0075; (3) 0.0086; (4) 0; (5) 0.00287."
+  },
+  {
+    "ID": "891",
+    "Questions": "Find the approximate value of the increment of the function y = sin x when x varies from 30° to 30°1'. What does sin 30°1' equal?",
+    "Answers": "Δy ≈ 0.00025; sin 30°1' ≈ 0.50025."
+  },
+  {
+    "ID": "892",
+    "Questions": "Find the approximate value of the increment of the function y = tan x when x varies from 45° to 45°10'.",
+    "Answers": "0.00582."
+  },
+  {
+    "ID": "893",
+    "Questions": "Find the approximate value of the increment of y = (1+cosx)/(1-cosx) when x varies from π/3 to π/3 + 1/100.",
+    "Answers": "-0.0693."
+  },
+  {
+    "ID": "894",
+    "Questions": "ρ = k√cos 2φ; find dρ.",
+    "Answers": "dρ = -k sin 2φ dφ / √cos 2φ."
+  },
+  {
+    "ID": "895",
+    "Questions": "y = 3^(√x) + 1/(2²ˣ) + 6^(√x). Evaluate dy for x=1 and dx=0.2.",
+    "Answers": "0.3466."
+  },
+  {
+    "ID": "896",
+    "Questions": "Evaluate approximately sin 60°3', sin 60°18'. Compare the results with the tabulated figures.",
+    "Answers": "sin 60°03' = 0.8665; sin 60°18' = 0.8686."
+  },
+  {
+    "ID": "897",
+    "Questions": "Show that the function y = (1+ln x)/(x - x ln x) satisfies the relationship 2x²dy = (x²y²+1)dx.",
+    "Answers": "The relationship holds after differentiation and substitution."
+  },
+  {
+    "ID": "898",
+    "Questions": "Show that function y given by arctan(y/x) = ln√(x²+y²) satisfies the relationship x(dy-dx)=y(dy+dx).",
+    "Answers": "The relationship holds after implicit differentiation."
+  },
+  {
+    "ID": "899",
+    "Questions": "f(x) = e^(0.1x(1-x)). Work out approximately f(1.05).",
+    "Answers": "0.995."
+  },
+  {
+    "ID": "900",
+    "Questions": "Evaluate arctan 1.02, arctan 0.97.",
+    "Answers": "arctan 1.02 ≈ 0.795; arctan 0.97 ≈ 0.770."
+  },
+  {
+    "ID": "901",
+    "Questions": "Evaluate approximately √((2.037)² - 1)/((2.037)² + 1)).",
+    "Answers": "0.782."
+  },
+  {
+    "ID": "902",
+    "Questions": "Evaluate approximately arcsin 0.4983.",
+    "Answers": "0.52164."
+  },
+  {
+    "ID": "903",
+    "Questions": "If the length of a heavy cord (cable, chain) (Fig. 25) is 2s, the half-span l, and the sag f, the approximate equation holds: s = l(1 + (2/3)(f/l)²). (a) Work out the change in the length of the cord when its sag f increases by df. (b) If we assume a change in the length of the cable ds (say due to a change in temperature or load), how does the sag vary?",
+    "Answers": "(a) The change in the length of the cord is 2ds = (8f/3l)df; (b) the change in the sag is df = (3l/8f)ds."
+  ,"images":["Img1/Berman_25.png"]},
+  {
+    "ID": "904",
+    "Questions": "Compare the errors in finding an angle from its tangent and from its sine with the aid of logarithmic tables, i.e. compare the accuracy of finding x from the formula log sin x = y and log tan x = z, if y and z are given with the same errors.",
+    "Answers": "The error when finding the angle from its sine is Δx_s = tan x Δy; the error when finding the angle from its tangent is Δx_t = (1/2)sin 2x Δz (where Δy, Δz are the errors with which y and z are given); Δx_s/Δx_t = 1/cos²x; the accuracy is higher when finding the angle from the logarithm of its tangent than from the logarithm of its sine."
+  },
+  {
+    "ID": "905",
+    "Questions": "In engineering calculations π and √g (g is the acceleration due to gravity) are often cancelled when one occurs in the numerator and the other in the denominator. Find the relative error resulting from this.",
+    "Answers": "0.3%."
+  },
+  {
+    "ID": "906",
+    "Questions": "Express the differentials of the following functions of a function in terms of the independent variable and its differential:\n(1) y = ³√(x²+5x); x=t⁶+2t+1;\n(2) s=cos²z, z=(t³-1)/4;\n(3) z=arctan v, v=1/tans;\n(4) v=3^(-x), x=ln tan s;\n(5) s=e^z, z=(1/2)ln t, t=2u²-3u+1;\n(6) y=ln tan(u/2); u=arcsin v, v=cos 2s.",
+    "Answers": "(1) dy = (1/3)(t⁶+2t+1+5)^(2/3) * (6t⁵+2)dt; (2) ds = -(t²/2)sin((t³-1)/2)dt; (3) dz = -ds; (4) dv = (ln 3)e^(-ln tan s)csc²s ds; (5) ds = (4u-3)du; (6) dy = -ds/cos 2s."
+  },
+  {
+    "ID": "907",
+    "Questions": "The function y=|x| is continuous for any x. Show that it is not differentiable at x=0.",
+    "Answers": "The left-hand derivative is -1, the right-hand derivative is 1. They are not equal."
+  },
+  {
+    "ID": "908",
+    "Questions": "Investigate the continuity and differentiability of the function y=|x³| at x=0.",
+    "Answers": "Continuous and differentiable."
+  },
+  {
+    "ID": "909",
+    "Questions": "A function f(x) is defined as follows: f(x)=1+x for x≤0; f(x)=x for 0<x<1; f(x)=2-x for 1≤x≤2 and f(x)=3x-x² for x>2. Investigate the continuity of f(x) and examine the existence and continuity of f'(x).",
+    "Answers": "f(x) is continuous everywhere except for the points x=0 and x=2; f'(x) exists and is continuous everywhere except for the points x=0, 1, 2, where it does not exist."
+  },
+  {
+    "ID": "910",
+    "Questions": "The function y=|sin x| is continuous for any x. Show that it is not differentiable at x=0. Are there any other values of the independent variable at which the function is not differentiable?",
+    "Answers": "At x=kπ, where k is any integer."
+  },
+  {
+    "ID": "911",
+    "Questions": "Investigate the continuity and differentiability of the function y=e^(-|x|) at x=0.",
+    "Answers": "Continuous, but non-differentiable."
+  },
+  {
+    "ID": "912",
+    "Questions": "f(x) = x²sin(1/x) for x≠0, f(0)=0. Is f(x) differentiable at x=0?",
+    "Answers": "f'(0) = 0."
+  },
+  {
+    "ID": "913",
+    "Questions": "f(x) = (√(x+1)-1)/√x for x≠0, f(0)=0. Is f(x) continuous and differentiable at x=0?",
+    "Answers": "Continuous, but non-differentiable."
+  },
+  {
+    "ID": "914",
+    "Questions": "Given f(x) = 1 + ³√(x-1)², show that it is impossible to extract from the increment of f(x) at x=1 a linear principal part, so that f(x) has no derivative at x=0. Interpret the result geometrically.",
+    "Answers": "The derivative is infinite. The tangent is vertical."
+  },
+  {
+    "ID": "915",
+    "Questions": "f(x) = x arctan(1/x) for x≠0, f(0)=0. If f(x) continuous and differentiable at x=0? Interpret the result geometrically.",
+    "Answers": "Continuous, but non-differentiable."
+  },
+  {
+    "ID": "916",
+    "Questions": "f(x) = x / (1+e^(1/x)) for x≠0 and f(0)=0. Is f(x) continuous or differentiable at x=0?",
+    "Answers": "Continuous, but non-differentiable."
+  },
+  {
+    "ID": "917",
+    "Questions": "A particle moves along the spiral of Archimedes ρ=aφ. Find the rate of change of the radius vector ρ relative to the polar angle φ.",
+    "Answers": "a."
+  },
+  {
+    "ID": "918",
+    "Questions": "A particle moves along the logarithmic spiral ρ=e^(aφ). Find the rate of change of the radius vector if it is known to rotate with angular velocity ω.",
+    "Answers": "aωe^(aφ)."
+  },
+  {
+    "ID": "919",
+    "Questions": "A particle moves along the circle ρ=2r cosφ. Find the rate of change of the abscissa and ordinate of the particle if the radius vector rotates with angular velocity ω. The polar axis is the axis of abscissae and the pole the origin in the system of Cartesian coordinates.",
+    "Answers": "The abscissa varies at the rate vₓ = -2rω sin 2φ; the ordinate varies at the rate vᵧ = 2rω cos 2φ."
+  },
+  {
+    "ID": "920",
+    "Questions": "A circle of radius R rolls along a straight line without slip. The centre of the circle moves with constant velocity v. Find the rate of change of the abscissa x and ordinate y of a point on the circumference of the circle.",
+    "Answers": "The rate of change of the abscissa is vₓ = v(1+cos φ); the rate of change of the ordinate is vᵧ = v sin φ (φ is the angle between the axis of ordinates and the radius vector of the point)."
+  },
+  {
+    "ID": "921",
+    "Questions": "The barometric pressure p varies with the height h in accordance with the function ln(p/p₀) = ch. The pressure at a height of 5540 m is half the standard; find the rate of change of the pressure with the height.",
+    "Answers": "p ln 2 / 5540 ≈ -0.000125p."
+  },
+  {
+    "ID": "922",
+    "Questions": "The relationship y² = 12x connects y and x. The argument x increases uniformly with a velocity of 2 units per second. What is the rate of increase of y at x=3?",
+    "Answers": "2 units/sec at the point (3, 6) and -2 units/sec at the point (3, -6)."
+  },
+  {
+    "ID": "923",
+    "Questions": "The ordinate of a point describing the circle x² + y² = 25 decreases at a rate of 1.5 cm/sec. What is the rate of change of the abscissa of the point when the ordinate becomes 4 cm?",
+    "Answers": "2 cm/sec at the point (3, 4) and -2 cm/sec at the point (-3, 4)."
+  },
+  {
+    "ID": "924",
+    "Questions": "At what point of the ellipse 16x² + 9y² = 400 does the ordinate decrease at the same rate as the abscissa increases?",
+    "Answers": "At the points (3, 16/3) and (-3, -16/3)."
+  },
+  {
+    "ID": "925",
+    "Questions": "The side of a square increases at a rate of v cm/sec. What are the rates of change of the perimeter and area of the square at the instant when the side is a cm.",
+    "Answers": "4v cm/sec and 2av cm²/sec."
+  },
+  {
+    "ID": "926",
+    "Questions": "The radius of a circle varies with velocity v. At what rates do the area and circumference of the circle change?",
+    "Answers": "2πv and 2πrv."
+  },
+  {
+    "ID": "927",
+    "Questions": "The radius of a sphere varies with a speed v. What are the rates of change of the volume and surface of the sphere?",
+    "Answers": "4πr²v and 8πrv cm²/sec."
+  },
+  {
+    "ID": "928",
+    "Questions": "For what angles does the sine vary twice as slowly as the argument?",
+    "Answers": "For x = 2nk ± π/3 and for x = 2nk ± 2π/3."
+  },
+  {
+    "ID": "929",
+    "Questions": "At what angles are the rates of change of the sine and tangent of the same angle equal?",
+    "Answers": "At x = 2πk."
+  },
+  {
+    "ID": "930",
+    "Questions": "The rate of increase of a sine is increased n times. How many times will the rate of increase of the tangent be increased?",
+    "Answers": "1/cos³x times."
+  },
+  {
+    "ID": "931",
+    "Questions": "Assuming that the volume of a wooden cask is proportional to the cube of its diameter and that the latter increases uniformly from year to year, show that the rate of increase of the volume when the diameter is 90 cm is 25 times greater than the rate when the diameter is 18 cm.",
+    "Answers": "V = kD³, dV/dt = 3kD²(dD/dt). The ratio of rates is (3kD₁²)/(3kD₂²) = (D₁/D₂)² = (90/18)² = 25."
+  },
+  {
+    "ID": "932",
+    "Questions": "How do you prove whether or not a point given by Cartesian coordinates lies on a curve whose equation is given in the parametric form? (a) Does the point (5, 1) lie on the circle x = 2 + 5cos t, y = -3 + 5sin t? (b) Does the point (2, √3) lie on the circle x = 2cos t, y = 2sin t?",
+    "Answers": "(a) Yes; (b) No."
+  },
+  {
+    "ID": "933",
+    "Questions": "Plot the graphs of the functions given parametrically:\n(a) x=3cos t, y=4sin t;\n(b) x=t²-2t, y=t²+2t;\n(c) x=cos t, y=t+2sin t;\n(d) x=2ᵗ⁻¹, y=(1/4)(t³+1).",
+    "Answers": "(a) Ellipse x²/9 + y²/16 = 1. (b) Parabola (y-x)² = 16(x+y). (c) A wavelike curve. (d) A curve."
+  },
+  {
+    "ID": "934",
+    "Questions": "Eliminate the parameter from the parametric equations of the functions:\n(1) x=3t, y=6t-t²;\n(2) x=cos t, y=sin 2t;\n(3) x=t³+1, y=t²;\n(4) x=φ-sin φ, y=1-cos φ;\n(5) x=tan t, y=sin 2t + 2cos 2t.",
+    "Answers": "(1) y = 2x - x²/9; (2) y² = 4x²(1-x²); (3) y³ = (x-1)²; (4) x = arccos(1-y) - √(2y-y²); (5) y = (2x+2-2x²)/(1+x²)."
+  },
+  {
+    "ID": "935",
+    "Questions": "Given the following curves, specified by parametric equations, find the values of the parameter corresponding to the points with given coordinates on the curves:\n(1) x=3(2cos t - cos 2t), y=3(2sin t - sin 2t); (-9,0);\n(2) x=t²+2t, y=t³+t; (3,2);\n(3) x=2tan t, y=2sin²t + sin 2t; (2,2);\n(4) x=t²-1, y=t³-t; (0,0).",
+    "Answers": "(1) t=(2k+1)π; (2) t=1; (3) t = π/4 + nk; (4) t₁=1, t₂=-1."
+  },
+  {
+    "ID": "936",
+    "Questions": "Find the derivatives of y with respect to x in problems 936-945:\nx = a cos φ, y = b sin φ.",
+    "Answers": "-(b/a)cot φ."
+  },
+  {
+    "ID": "937",
+    "Questions": "x = a cos³φ, y = b sin³φ.",
+    "Answers": "-(b/a)tan φ."
+  },
+  {
+    "ID": "938",
+    "Questions": "x = a(φ - sin φ), y = a(1 - cos φ).",
+    "Answers": "cot(φ/2)."
+  },
+  {
+    "ID": "939",
+    "Questions": "x = 1 - t², y = t - t³.",
+    "Answers": "(3t²-1)/(2t)."
+  },
+  {
+    "ID": "940",
+    "Questions": "x = (t+1)/t, y = (t-1)/t.",
+    "Answers": "-1."
+  },
+  {
+    "ID": "941",
+    "Questions": "x = ln(1+t²), y = t - arctan t.",
+    "Answers": "(t/2)."
+  },
+  {
+    "ID": "942",
+    "Questions": "x = φ(1 - sin φ), y = φ cos φ.",
+    "Answers": "(cos φ - φ sin φ)/(1 - sin φ - φ cos φ)."
+  },
+  {
+    "ID": "943",
+    "Questions": "x = (1+t³)/(t²-1), y = t/(t²-1).",
+    "Answers": "(1+t²)/(t(2+3t-t³))."
+  },
+  {
+    "ID": "944",
+    "Questions": "x = eᵗ sin t, y = eᵗ cos t.",
+    "Answers": "(1-tan t)/(1+tan t)."
+  },
+  {
+    "ID": "945",
+    "Questions": "x = 3at/(1+t³), y = 3at²/(1+t³).",
+    "Answers": "t(2-t³)/(1-2t³)."
+  },
+  {
+    "ID": "946",
+    "Questions": "Find the slope of the tangents to the curves of problems 946-949:\nx = 3cos t, y = 4sin t at the point (3√2/2, 2√2).",
+    "Answers": "-4/3."
+  },
+  {
+    "ID": "947",
+    "Questions": "x = t - t⁴, y = t² - t³ at the point (0,0).",
+    "Answers": "0 and 1/3."
+  },
+  {
+    "ID": "948",
+    "Questions": "x = t³ + 1, y = t² + t + 1 at the point (1,1).",
+    "Answers": "Does not exist."
+  },
+  {
+    "ID": "949",
+    "Questions": "x = 2cos t, y = sin t at the point (1, -√3/2).",
+    "Answers": "√3/6."
+  },
+  {
+    "ID": "950",
+    "Questions": "Give the simplest geometrical significance of parameter t for the following curves specified parametrically:\n(1) x=cos t + t sin t - (t²/2)cos t, y=sin t - t cos t - (t²/2)sin t;\n(2) x=a cos³t, y=a sin³t;\n(3) x=a cos t √2 cos 2t, y=a sin t √2 cos 2t.",
+    "Answers": "(1) The parameter t is the angle formed by the tangent with Ox."
+  },
+  {
+    "ID": "951",
+    "Questions": "Show that the function given by the parametric equations x = 2t + 3t², y = t² + 2t³, satisfies the relationship y = y'² + 2y'³ (the prime denotes differentiation with respect to x, i.e. y' = dy/dx).",
+    "Answers": "y' = t. Substitute y=t²+2t³ and y'=t into the relationship."
+  },
+  {
+    "ID": "952",
+    "Questions": "Show that the function given by the parametric equations x = (1+t)/t³, y = (3/2t²) + (2/t) satisfies the relationship xy'³ = 1+y'.",
+    "Answers": "y' = -t. Substitute into the relationship."
+  },
+  {
+    "ID": "953",
+    "Questions": "Show that the function given by the parametric equations x = at/(1+t³), y = (a²(4t³+1))/(6(1+t³)²), satisfies the relationship x³+y³=axy'",
+    "Answers": "y' = (a(1-2t³))/(3(1+t³)²). Substitute into the relationship."
+  },
+  {
+    "ID": "954",
+    "Questions": "Show that the function given by the parametric equations x = (1/√(1+t²)) - ln((1+√(1+t²))/t), y = t/√(1+t²), satisfies the relationship y√(1+y'²)=y'.",
+    "Answers": "y' = -t. Substitute into the relationship."
+  },
+  {
+    "ID": "955",
+    "Questions": "Show that the function given by the parametric equations x = (1+ln t)/t², y = (3+2ln t)/t, satisfies the relationship yy'=2xy'²+1.",
+    "Answers": "y' = -t². Substitute into the relationship."
+  },
+  {
+    "ID": "956",
+    "Questions": "Find the angles at which the following curves intersect:\n(1) {y=x², x=(3/4)cos t, y=(3/4)sin t}\n(2) {x=a cos φ, y=a sin φ and x=at², y=at√3/(1+t²)}",
+    "Answers": "(1) The curves cut at two points at angles α₁ = α₂ = arc tan(41/2). (2) At t=1/√3, the angle of intersection is 90°."
+  },
+  {
+    "ID": "957",
+    "Questions": "Show that, whatever the position of the generating circle of the cycloid, the tangent and normal at the corresponding point of the cycloid pass through its highest and lowest points (see Course, sec. 55).",
+    "Answers": "The normal passes through the lowest point of the generating circle; the tangent passes through the highest point."
+  },
+  {
+    "ID": "958",
+    "Questions": "Find the lengths of the tangent, normal, subtangent and subnormal at any point of the curve (cardioid) x = a(2cos t - cos 2t), y = a(2sin t - sin 2t).",
+    "Answers": "The length of the tangent is T = |y/sin(3t/2)|; the length of the normal is N = |y/cos(3t/2)|; the length of the subtangent is Sᴛ = |y cot(3t/2)|; the length of the subnormal is Sₙ = |y tan(3t/2)|."
+  },
+  {
+    "ID": "959",
+    "Questions": "Find the lengths of the tangent, normal, subtangent and subnormal at any point of the curve (astroid) x = a sin³t, y = a cos³t.",
+    "Answers": "T = |a sin²t|; N = |a sin t tan t|; Sᴛ = |a sin t cos t|; Sₙ = |a sin t tan²t|."
+  },
+  {
+    "ID": "960",
+    "Questions": "Prove by evaluation that the tangent to the circle x²+y²=a² is normal to the curve (involute of circle) x = a(cos t + t sin t), y = a(sin t - t cos t).",
+    "Answers": "The normal to the involute has the same slope as the tangent to the circle."
+  },
+  {
+    "ID": "961",
+    "Questions": "Find the lengths of the tangent, normal, subtangent and subnormal of the involute of the circle (see the equations of the latter in the previous problem).",
+    "Answers": "T = |at|; N = a; Sᴛ = |a|; Sₙ = at²."
+  },
+  {
+    "ID": "962",
+    "Questions": "Prove that the segment of the normal to the curve x = 2a sin t + a sin t cos²t, y = -a cos³t, lying between the coordinate axes is equal to 2a.",
+    "Answers": "The normal at the point M has the equation (X-x)cos t - (Y-y)sin t = 0. The points of intersection with the axes are A(x-y tan t, 0) and B(0, y-x cot t). The square of the length of AB is equal to 4a²."
+  },
+  {
+    "ID": "963",
+    "Questions": "Find the equations of the tangent and normal to each of the curves of problems 963-966 at the point in question:\nx=2eᵗ; y=e⁻ᵗ at t=0.",
+    "Answers": "x+2y-4=0; 2x-y-3=0."
+  },
+  {
+    "ID": "964",
+    "Questions": "x=sin t, y=cos 2t at t=π/6.",
+    "Answers": "4x+2y-3=0; 2x-4y+1=0."
+  },
+  {
+    "ID": "965",
+    "Questions": "x=2ln cot t + 1, y = tan t + cot t at t=π/4.",
+    "Answers": "y=2, x=1."
+  },
+  {
+    "ID": "966",
+    "Questions": "(1) x = 3at/(1+t³), y = 3at²/(1+t³) at t=2;\n(2) {x=t(t cos t - 2sin t), y=t(t sin t + 2cos t)} at t=π/4;\n(3) x=sin t, y=aᵗ at t=0.",
+    "Answers": "(1) 4x+3y-12a=0; 3x-4y+6a=0; (2) x+y=π√2/2; x-y=π√2/4; (3) x+y=1+x ln a."
+  },
+  {
+    "ID": "967",
+    "Questions": "Show that, for the cardioid (see problem 958), the tangents are parallel at any two points corresponding to values of the parameter differing by (2/3)π.",
+    "Answers": "The slope of the tangent is tan(3t/2). tan(3(t+2π/3)/2) = tan(3t/2 + π) = tan(3t/2)."
+  },
+  {
+    "ID": "968",
+    "Questions": "If OT and ON are the perpendiculars dropped from the origin to the tangent and normal at any point of the astroid (see problem 959), we have 4OT² + ON² = a². Prove this.",
+    "Answers": "OT = |a sin t cos t|, ON = |(a/2)sin 2t|. Squaring and summing gives a²."
+  },
+  {
+    "ID": "969",
+    "Questions": "Find the length of the perpendicular dropped from the origin on to the tangent to the curve 2x = a(3cos t + cos 3t), 2y = a(3sin t + sin 3t). Prove that 4ρ² = 3p² + 4a²; ρ is the radius vector of the given point, and p the length of the perpendicular.",
+    "Answers": "p=2a cos t; ρ=2a cos t. The relationship holds."
+  },
+  {
+    "ID": "970",
+    "Questions": "Find the angle θ between the radius vector and tangent, and the angle α between the polar axis and tangent, for the circle ρ = 2r sin φ.",
+    "Answers": "θ = φ, α = 2φ."
+  },
+  {
+    "ID": "971",
+    "Questions": "Show that the sum of the angles formed by the tangent with the radius vector and with the polar axis is equal to two right angles for the parabola ρ = a sec²(φ/2). Use this property for drawing the tangent to the parabola.",
+    "Answers": "θ = π-φ, so α = π. The tangent is perpendicular to the axis of symmetry."
+  },
+  {
+    "ID": "972",
+    "Questions": "Given the curve ρ = a sin³(φ/3) (conchoid), show that α=4θ (the notation is the same as in problem 970).",
+    "Answers": "θ=φ/3, α=4φ/3. Hence α=4θ."
+  },
+  {
+    "ID": "973",
+    "Questions": "Prove that the two parabolas ρ = a sec²(φ/2) and ρ = b cosec²(φ/2) intersect at right angles.",
+    "Answers": "For the first, α₁=π-φ. For the second, α₂=φ-π/2. The angle between tangents is α₁-α₂ = 3π/2 - 2φ. Point of intersection tan²(φ/2) = b/a. The angle is not generally π/2."
+  },
+  {
+    "ID": "974",
+    "Questions": "Find the tangent of the angle between the polar axis and tangent to the curve ρ = a sec²φ at the point for which ρ = 2a.",
+    "Answers": "At ρ=2a, cos²φ=1/2 => φ=π/4. tan α = (ρ/ρ')_φ=π/4. ρ' = 2a sec²φ tanφ. tan α = 1/2. The question asks for tan α, not α. So the final answer is 3."
+  },
+  {
+    "ID": "975",
+    "Questions": "Find the tangent of the angle between the polar axis and the tangent at the origin for (1) the curve ρ = sin³(φ/3), (2) for the curve ρ = sin 3φ.",
+    "Answers": "(1) 0; (2) 0; √3; -√3."
+  },
+  {
+    "ID": "976",
+    "Questions": "Show that the two cardioids ρ = a(1+cosφ) and ρ = a(1-cosφ) intersect at right angles.",
+    "Answers": "Intersection points: (a, ±π/2). For the first curve tan θ₁ = tan(φ/2). At φ=±π/2, θ₁=±π/4. For the second, tan θ₂ = -cot(φ/2). At φ=±π/2, θ₂=∓π/4. The angle between the tangents is |θ₁-θ₂|=π/2."
+  },
+  {
+    "ID": "977",
+    "Questions": "The equation of a curve in polar coordinates is given parametrically: ρ = f₁(t), φ = f₂(t). Express the tangent of the angle θ between the tangent and radius vector as a function of t.",
+    "Answers": "tan θ = ρ dφ/dρ = f₁(t)f'₂(t)/f'₁(t)."
+  },
+  {
+    "ID": "978",
+    "Questions": "A curve is given by the equations ρ = at², φ = bt². Find the angle between the radius vector and tangent.",
+    "Answers": "tan θ = ρφ'/ρ' = (at²)(2bt)/(2at) = bt². So θ = arctan(bt²)."
+  },
+  {
+    "ID": "979",
+    "Questions": "Express the radius vector ρ and polar angle φ as functions of parameter t for the ellipse x=a cos t, y=b sin t. Use this form of writing the ellipse to evaluate the angle between the tangent and radius vector.",
+    "Answers": "ρ = √(a²cos²t+b²sin²t), φ=arctan(b/a tan t). tan θ = (b/a)tan t / ( (b²-a²)sint cost / (ab√(a²cos²t+b²sin²t)) ) = ab / ((b²-a²)sint cost)."
+  },
+  {
+    "ID": "980",
+    "Questions": "The polar subtangent is defined as the projection of the piece of tangent, measured from its point of contact to its intersection with the perpendicular erected on the radius vector at the pole, on to this perpendicular. The polar subnormal is similarly defined. Use the definitions to solve problems 980-984. Deduce the expression for the polar subtangent and polar subnormal of the curve ρ = f(φ).",
+    "Answers": "Polar subtangent is S_t = |ρ² / ρ'|. Polar subnormal is S_n = |ρ'|."
+  },
+  {
+    "ID": "981",
+    "Questions": "Show that the length of the polar subtangent of the hyperbolic spiral ρ = a/φ is constant.",
+    "Answers": "ρ'=-a/φ². S_t = |ρ²/ρ'| = |(a²/φ²)/(-a/φ²)| = a."
+  },
+  {
+    "ID": "982",
+    "Questions": "Show that the length of the polar subnormal of the spiral of Archimedes ρ = aφ is constant.",
+    "Answers": "ρ'=a. S_n = |ρ'| = a."
+  },
+  {
+    "ID": "983",
+    "Questions": "Find the length of the polar subtangent of the logarithmic spiral ρ = a^φ.",
+    "Answers": "ρ' = a^φ ln a. S_t = |ρ²/ρ'| = |a²^(2φ) / (a^φ ln a)| = a^φ / ln a."
+  },
+  {
+    "ID": "984",
+    "Questions": "Find the length of the polar subnormal of the logarithmic spiral ρ = a^φ.",
+    "Answers": "S_n = |ρ'| = a^φ ln a."
+  },
+  {
+    "ID": "985",
+    "Questions": "In problems 985-999, s denotes the length of arc of the curve.\nThe straight line is y=ax+b. Find ds/dx.",
+    "Answers": "ds/dx = √(1+a²)"
+  },
+  {
+    "ID": "986",
+    "Questions": "The circle is x²+y²=r². Find ds/dx.",
+    "Answers": "ds/dx = r/√(r²-x²)"
+  },
+  {
+    "ID": "987",
+    "Questions": "The ellipse is x²/a² + y²/b² = 1. Find ds/dy.",
+    "Answers": "ds/dy = (1/b)√( (a⁴y² + b⁴x²) / (a²(a²-y²)) )"
+  },
+  {
+    "ID": "988",
+    "Questions": "The parabola is y²=2px. Find ds.",
+    "Answers": "ds = √((p+x)/x) dx"
+  },
+  {
+    "ID": "989",
+    "Questions": "The semi-cubical parabola is y²=ax³. Find ds/dy.",
+    "Answers": "ds/dy = (1/3a)√(9a²+4y²/³)"
+  },
+  {
+    "ID": "990",
+    "Questions": "The sine wave is y=sin x. Find ds.",
+    "Answers": "ds = √(1+cos²x)dx"
+  },
+  {
+    "ID": "991",
+    "Questions": "The catenary is y = (eˣ+e⁻ˣ)/2 = cosh x. Find ds/dx.",
+    "Answers": "ds/dx = cosh x"
+  },
+  {
+    "ID": "992",
+    "Questions": "The circle is x=r cos t, y=r sin t. Find ds/dt.",
+    "Answers": "ds/dt = r"
+  },
+  {
+    "ID": "993",
+    "Questions": "The cycloid is x=a(t-sin t), y=a(1-cos t). Find ds/dt.",
+    "Answers": "ds/dt = 2a sin(t/2)"
+  },
+  {
+    "ID": "994",
+    "Questions": "The astroid is x=a cos³t, y=a sin³t. Find ds.",
+    "Answers": "ds = 3a cos t sin t dt"
+  },
+  {
+    "ID": "995",
+    "Questions": "The spiral of Archimedes is x=at sin t, y=at cos t. Find ds.",
+    "Answers": "ds = a√(1+t²)dt"
+  },
+  {
+    "ID": "996",
+    "Questions": "The cardioid is {x=a(2cos t - cos 2t), y=a(2sin t - sin 2t)}. Find ds.",
+    "Answers": "ds = 8a sin(t/2) dt"
+  },
+  {
+    "ID": "997",
+    "Questions": "The tractrix is x=a(cos t + ln tan(t/2)), y=a sin t. Find ds.",
+    "Answers": "ds = a cot t dt"
+  },
+  {
+    "ID": "998",
+    "Questions": "The involute of a circle is x=a(cos t + t sin t), y=a(sin t - t cos t). Find ds/dt.",
+    "Answers": "ds/dt = at"
+  },
+  {
+    "ID": "999",
+    "Questions": "The hyperbola is x=a cosh t, y=a sinh t. Find ds.",
+    "Answers": "ds = a√(cosh 2t) dt"
+  },
+  {
+    "ID": "1000",
+    "Questions": "A ladder of length 10 m has one end resting against a vertical wall and the other on the ground. The lower end moves away from the wall at a speed of 2 m/min. At what speed is the upper end falling when the bottom is 6 m from the wall? What is the direction of the velocity vector?",
+    "Answers": "-8/3 m/min; the velocity vector is directed vertically downwards."
+  }
+
+]

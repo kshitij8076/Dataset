@@ -1,0 +1,788 @@
+{
+    "section-1": [
+      {
+        "question_number": 1,
+        "question": "Two particles of masses 1 kg and 3 kg move towards each other under their mutual force of attraction. No other force acts on them. When the relative velocity of approach of the two particles is 2 m/s, their centre of mass has a velocity of 0.5 m/s. When the relative velocity of approach becomes 3 m/s, the velocity of the centre of mass is 0.75 m/s.",
+        "year": 1989,
+        "question_type": "true/false",
+        "options": [
+          "(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion",
+          "(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion",
+          "(c) If Assertion is true; Reason is false",
+          "(d) If Assertion is false; Reason is true"
+        ]
+      },
+      {
+        "question_number": 2,
+        "question": "Assertion: If there is no external torque on a body about its centre of mass, then the velocity of the centre of mass remains constant.\nReason: The linear momentum of an isolated system remains constant.",
+        "year": 2007,
+        "question_type": "assertion and reason",
+        "options": [
+          "(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion",
+          "(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion",
+          "(c) If Assertion is true; Reason is false",
+          "(d) If Assertion is false; Reason is true"
+        ]
+      },
+      {
+        "question_number": 3,
+        "question": "Assertion: In an elastic collision between two bodies, the relative speed of the bodies after collision is equal to the relative speed before the collision.\nReason: In an elastic collision, the linear momentum of the system is conserved.",
+        "year": 2007,
+        "question_type": "assertion and reason",
+        "options": [
+          "(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion",
+          "(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion",
+          "(c) If Assertion is true; Reason is false",
+          "(d) If Assertion is false; Reason is true"
+        ]
+      },
+      {
+        "question_number": 6,
+        "question": "Two particles A and B initially at rest, move towards each other by mutual force of attraction. At the instant when the speed of A is v and the speed of B is 2v, the speed of the centre of mass of the system is",
+        "year": 1982,
+        "question_type": "mcq",
+        "options": [
+          "(a) 3 v",
+          "(b) v",
+          "(c) 1.5 v",
+          "(d) zero"
+        ]
+      },
+      {
+        "question_number": 7,
+        "question": "A shell is fired from a cannon with a velocity v (m/s) at an angle θ with the horizontal direction. At the highest point in its path it explodes into two pieces of equal mass. One of the pieces retraces its path to the cannon and the speed (m/s) of the other piece immediately after the explosion is",
+        "year": 1986,
+        "question_type": "mcq",
+        "options": [
+          "(a) 3 v cos θ",
+          "(b) 2 v cos θ",
+          "(c) v cos θ",
+          "(d) √3 v cos θ"
+        ]
+      },
+      {
+        "question_number": 8,
+        "question": "A ball hits the floor and rebounds after an inelastic collision. In this case,",
+        "year": 1986,
+        "question_type": "mcq",
+        "options": [
+          "(a) the momentum of the ball just after the collision is the same as just before the collision",
+          "(b) the mechanical energy of the ball remains the same in the collision",
+          "(c) the total momentum of the ball and the earth is conserved",
+          "(d) the total mechanical energy of the ball and the earth is conserved"
+        ]
+      },
+      {
+        "question_number": 9,
+        "question": "An isolated particle of mass m is moving in horizontal plane (x-y), along the X-axis, at a certain height above the ground. It suddenly explodes into two fragment of masses m/4 and 3m/4. An instant later, the smaller fragment is at y = +15 cm. The larger fragment at this instant is at",
+        "year": 1997,
+        "question_type": "mcq",
+        "options": [
+          "(a) y = –5 cm",
+          "(b) y = +20 cm",
+          "(c) y = +5 cm",
+          "(d) y = –20 cm"
+        ]
+      },
+      {
+        "question_number": 10,
+        "question": "Two particles of masses m₁ and m₂ in projectile motion have velocities v₁ and v₂ respectively at time t = 0. They collide at time t₀. Their velocities become v₁' and v₂' at time t₀ while still moving in air. The value of |(m₁ v₁ + m₂ v₂) – (m₁ v₁' + m₂ v₂')| is",
+        "year": 2001,
+        "question_type": "mcq",
+        "options": [
+          "(a) zero",
+          "(b) m₁ v₁ + m₂ v₂",
+          "(c) (m₁ + m₂) k₀",
+          "(d) 1/2 (m₁ + m₂) v₀"
+        ]
+      },
+      {
+        "question_number": 11,
+        "question": "Two blocks of masses 10 kg and 4 kg are connected by a spring of negligible mass and placed on a frictionless horizontal surface. An impulse gives a velocity of 14 m/s to the heavier block in the direction of the lighter block. The velocity of the centre of mass is",
+        "year": 2002,
+        "question_type": "mcq",
+        "options": [
+          "(a) 30 m/s",
+          "(b) 20 m/s",
+          "(c) 10 m/s",
+          "(d) 5 m/s"
+        ]
+      },
+      {
+        "question_number": 12,
+        "question": "A particle moves in the x-y plane under the influence of a force such that its linear momentum is p(t) = A [i cos (k t) – j sin (k t)] where, A and k are constants. The angle between the force and the momentum is",
+        "year": 2007,
+        "question_type": "mcq",
+        "options": [
+          "(a) 0°",
+          "(b) 30°",
+          "(c) 45°",
+          "(d) 90°"
+        ]
+      },
+      {
+        "question_number": 13,
+        "question": "If the resultant of all the external forces acting on a system of particles is zero, then from an inertial frame, one can surely say that",
+        "year": 2009,
+        "question_type": "mcq",
+        "options": [
+          "(a) linear momentum of the system does not change",
+          "(b) kinetic energy of the system does not change in time",
+          "(c) angular momentum of the system does not change in time",
+          "(d) potential energy of the system does not change in time"
+        ]
+      },
+      {
+        "question_number": 14,
+        "question": "Look at the drawing given in the figure, which has been drawn with ink of uniform line-thickness. The mass of ink used to draw each of the two inner circles, and each of the two line segments is m. The mass of the ink used to draw the outer circle is 6 m. The coordinates of the centres of the different parts are: outer circle (0,0), left inner circle (–a, a), right inner circle (a, a), vertical line (0, 0) and horizontal line (0, –a). The y-coordinate of the centre of mass of the ink in this drawing is",
+        "year": 2009,
+        "question_type": "mcq",
+        "options": [
+          "(a) a/10",
+          "(b) a/8",
+          "(c) a/12",
+          "(d) a/3"
+        ],
+        "images": ["arihant_images_ch5/arihant_1.png"]
+      },
+      {
+        "question_number": 15,
+        "question": "Two small particles of equal masses start moving in opposite directions from a point A in a horizontal circular orbit. Their tangential velocities are v and 2v respectively, as shown in the figure. Between collisions, the particles move with constant speeds. After making how many elastic collisions, other than that at A, these two particles will again reach the point A?",
+        "year": 2009,
+        "question_type": "mcq",
+        "options": [
+          "(a) 4",
+          "(b) 3",
+          "(c) 2",
+          "(d) 1"
+        ],
+        "images": ["arihant_images_ch5/arihant_2.png"]
+      },
+      {
+        "question_number": 16,
+        "question": "A ball of mass 0.2 kg rests on a vertical post of height 5 m. A bullet of mass 0.01 kg, travelling with a velocity v m/s in a horizontal direction, hits the centre of the ball. After the collision, the ball and bullet travel independently. The ball hits the ground at a distance of 20 m and the bullet at a distance of 100 m from the foot of the post. The initial velocity v of the bullet is",
+        "year": 2011,
+        "question_type": "mcq",
+        "options": [
+          "(a) 250 m/s",
+          "(b) 250√2 m/s",
+          "(c) 400 m/s",
+          "(d) 500 m/s"
+        ],
+        "images": ["arihant_images_ch5/arihant_3.png"]
+      },
+      {
+        "question_number": 17,
+        "question": "A particle of mass m is projected from the ground with an initial speed u0 at an angle α with the horizontal. At the highest point of its trajectory, it makes a completely inelastic collision with another identical particle, which was thrown vertically upward from the ground with the same initial speed u0. The angle that the composite system makes with the horizontal immediately after the collision is",
+        "year": 2013,
+        "question_type": "mcq",
+        "options": [
+          "(a) π/4",
+          "(b) α",
+          "(c) π/2",
+          "(d) π/2 + α"
+        ]
+      },
+      {
+        "question_number": 18,
+        "question": "A pulse of light duration 100 ns is absorbed completely by a small object initially at rest. Power of the pulse is 30 mW and the speed of light is 3 × 10^8 ms–1. The final momentum of the object is",
+        "year": 2013,
+        "question_type": "mcq",
+        "options": [
+          "(a) 0.3 × 10^–17 kg·ms–1",
+          "(b) 1 × 10^–17 kg·ms–1",
+          "(c) 1 × 10^–16 kg·ms–1",
+          "(d) 9.0 × 10^–17 kg·ms–1"
+        ]
+      },
+      {
+        "question_number": 20,
+        "question": "Distance of the centre of mass of a solid uniform cone from its vertex is z0. If the radius of its base is r and its height is h, then z0 is equal to",
+        "year": 2015,
+        "question_type": "mcq",
+        "options": [
+          "(a) 3h / 4",
+          "(b) h² / 4R",
+          "(c) 5h / 8",
+          "(d) 3h² / 8R"
+        ]
+      },
+      {
+        "question_number": 21,
+        "question": "A particle of mass m moving in the x-direction with speed 2v is hit by another particle of mass m moving in the y-direction with speed v. If the collision is perfectly inelastic, the percentage loss in the energy during the collision is close to",
+        "year": 2015,
+        "question_type": "mcq",
+        "options": [
+          "(a) 50 %",
+          "(b) 56 %",
+          "(c) 62 %",
+          "(d) 44 %"
+        ]
+      },
+      {
+        "question_number": 22,
+        "question": "Consider regular polygons with number of sides n = 3, 4, 5 ..... as shown in the figure. The centre of mass of all the polygons is at height h from the ground. They roll on a horizontal surface about the leading vertex without slipping and sliding as depicted. The maximum increase in height of the locus of the centre of mass for each polygon is Δ. Then, Δ depends on n and h as",
+        "year": 2017,
+        "question_type": "mcq",
+        "options": [
+          "(a) Δ = h sin(π / n)",
+          "(b) Δ = h sin(2π / n)",
+          "(c) Δ = h tan(π / 2n)",
+          "(d) Δ = h [1 / cos(π / n) – 1]"
+        ],
+        "images": ["arihant_images_ch5/arihant_4.png"]
+      },
+      {
+        "question_number": 23,
+        "question": "In a collinear collision, a particle with an initial speed v0 strikes a stationary particle of the same mass. If the final total kinetic energy is 50% greater than the original kinetic energy, the magnitude of the relative velocity between the two particles after collision is",
+        "year": 2018,
+        "question_type": "mcq",
+        "options": [
+          "(a) v0 / √2",
+          "(b) v0 / 4",
+          "(c) √2 v0",
+          "(d) v0 / 2"
+        ]
+      },
+      {
+        "question_number": 24,
+        "question": "It is found that, if a neutron suffers an elastic collinear collision with deuterium at rest, fractional loss of its energy is P₁; while for its similar collision with carbon nucleus at rest, fractional loss of energy is P₂. The values of P₁ and P₂ are respectively",
+        "year": 2018,
+        "question_type": "mcq",
+        "options": [
+          "(a) (0.1, 1)",
+          "(b) (0.89, 0.28)",
+          "(c) (0.28, 0.89)",
+          "(d) (0, 0)"
+        ]
+      },
+      {
+        "question_number": 25,
+        "question": "Three particles of masses 50 g, 100 g and 150 g are placed at the vertices of an equilateral triangle of side 1 m (as shown in the figure). The (x, y) coordinates of the centre of mass will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) (√3 / 4, 5 / 12) m",
+          "(b) (7 / 12, √3 / 8) m",
+          "(c) (7 / 12, √3 / 4) m",
+          "(d) (√3 / 8, 7 / 12) m"
+        ],
+        "images": ["arihant_images_ch5/arihant_5.png"]
+      },
+      {
+        "question_number": 26,
+        "question": "A uniform rectangular thin sheet ABCD of mass M has length l and breadth b, as shown in the figure. If the shaded portion HBGO is cut-off, the coordinates of the centre of mass of the remaining portion will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) (2a / 3, 2b / 3)",
+          "(b) (5a / 12, 5b / 12)",
+          "(c) (3a / 4, 3b / 4)",
+          "(d) (5a / 12, 3b / 3)"
+        ],
+        "images": ["arihant_images_ch5/arihant_6.png"]
+      },
+      {
+        "question_number": 27,
+        "question": "Four particles A, B, C and D with masses m₁ = m, m₂ = 2m, m₃ = 3m and m₄ = 4m are at the corners of a square. They have accelerations of equal magnitude with directions as shown. The acceleration of the centre of mass of the particles (in m/s²) is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) a (î - ĵ) / 5",
+          "(b) a (î + ĵ)",
+          "(c) zero",
+          "(d) a (î + ĵ) / 5"
+        ],
+        "images": ["arihant_images_ch5/arihant_7.png"]
+      },
+      {
+        "question_number": 28,
+        "question": "The position vector of the centre of mass Rcm of an asymmetric uniform bar of negligible area of cross-section as shown in figure is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) r = 13/8 L î + 5/8 L ĵ",
+          "(b) r = 11/8 L î + 3/8 L ĵ",
+          "(c) r = 3/8 L î + 11/8 L ĵ",
+          "(d) r = 5/8 L î + 13/8 L ĵ"
+        ],
+        "images": ["arihant_images_ch5/arihant_8.png"]
+      },
+      {
+        "question_number": 29,
+        "question": "An L-shaped object made of thin rods of uniform mass density is suspended with a string as shown in figure. If AB = BC and the angle is made by AB with downward vertical is θ, then",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) tan θ = 2/3",
+          "(b) tan θ = 1/√3",
+          "(c) tan θ = 1/2",
+          "(d) tan θ = 1/3"
+        ],
+        "images": ["arihant_images_ch5/arihant_9.png"]
+      },
+      {
+        "question_number": 30,
+        "question": "A wedge of mass M = 4 m lies on a frictionless plane. A particle of mass m approaches the wedge with speed v. There is no friction between the particle and the plane or between the particle and the wedge. The maximum height climbed by the particle on the wedge is given by",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 2v² / 7g",
+          "(b) v² / 2g",
+          "(c) v² / 5g",
+          "(d) v² / 3g"
+        ]
+      },
+      {
+        "question_number": 31,
+        "question": "A ball is thrown vertically up (taken as Z-axis) from the ground. The correct momentum-height (p, h) diagram is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) p ↑, h ↑",
+          "(b) p ↑, h ↓",
+          "(c) p ↓, h ↑",
+          "(d) p ↓, h ↓"
+        ]
+      },
+      {
+        "question_number": 32,
+        "question": "A particle of mass m is moving in a straight line with momentum P. Starting at time t = 0, a force F = k t acts in the same direction on the moving particle during time interval t, so that its momentum changes from p₀ to p. Here, k is a constant. The value of T is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) √2P / k",
+          "(b) P / k",
+          "(c) 2k / P",
+          "(d) √k / P"
+        ]
+      },
+      {
+        "question_number": 33,
+        "question": "A man (mass = 50kg) and his son (mass = 20kg) are standing on a frictionless surface facing each other. The man pushes his son, so that he starts moving at a speed of 0.70 m/s with respect to the man. The speed of the man with respect to the surface is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 0.28 m/s",
+          "(b) 0.20 m/s",
+          "(c) 0.47 m/s",
+          "(d) 0.14 m/s"
+        ]
+      },
+      {
+        "question_number": 34,
+        "question": "Two particles of masses M and 2M, moving as shown, with speeds of 10 m/s and 5 m/s, collide elastically at the origin. After the collision, they move along the indicated directions with speeds v₁ and v₂ which are nearly:",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 6.5 m/s and 3.2 m/s",
+          "(b) 3.2 m/s and 6.3 m/s",
+          "(c) 3.2 m/s and 12.6 m/s",
+          "(d) 6.5 m/s and 6.3 m/s"
+        ],
+        "images": ["arihant_images_ch5/arihant_10.png"]
+      },
+      {
+        "question_number": 35,
+        "question": "A particle of mass m is moving with speed 2v and collides with a mass 2m moving with speed v in the same direction. After collision, the first mass is stopped completely while the second one splits into two particles each of mass m, which move at angle 45° with respect to the original direction. The speed of each of the moving particle will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) √2v",
+          "(b) v /√2",
+          "(c) v",
+          "(d) v / (2√2)"
+        ]
+      },
+      {
+        "question_number": 36,
+        "question": "A body of mass 2 kg makes an elastic collision with a second body at rest and continues to move in the original direction but with one-fourth of its original speed. What is the mass of the second body?",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 1.5 kg",
+          "(b) 1.2 kg",
+          "(c) 1.8 kg",
+          "(d) 1.0 kg"
+        ]
+      },
+      {
+        "question_number": 37,
+        "question": "A body of mass m, moving with an unknown velocity of v₁, undergoes a collinear collision with a body of mass m₂ moving with a velocity v₂. After collision, m₁ and m₂ move with velocities of v₁₃ and v₂₁ respectively. If m₂ = 0.5 m₁ and v₂ = 0.5 v₁, then what is v₁?",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) v₁ + v₂",
+          "(b) v₁ - v₂",
+          "(c) v₁ = v₂ / 4",
+          "(d) v₁ = v₂ / 5"
+        ]
+      },
+      {
+        "question_number": 38,
+        "question": "An a-particle of mass m suffers one-dimensional elastic collision with a nucleus at rest of unknown mass. It is scattered directly backwards losing 64% of its initial kinetic energy. The mass of the nucleus is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 1.5 m",
+          "(b) 3 m",
+          "(c) m",
+          "(d) 2 m"
+        ]
+      },
+      {
+        "question_number": 39,
+        "question": "A satellite of mass M is in a circular orbit of radius R about the centre of the earth. A meteorite of the same mass falling towards the earth collides with the satellite completely inelastically. The speed of the satellite and the meteorite are the same just before the collision. The subsequent motion of the combined body will be",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) in an elliptical orbit of radius R",
+          "(b) in an elliptical orbit such that it escapes to infinity",
+          "(c) in a circular orbit of a different radius"
+        ]
+      },
+      {
+        "question_number": 40,
+        "question": "A simple pendulum is made of a string of length l and a bob of mass m, is released from a small angle θ₀. It strikes a block of mass M, kept on a horizontal surface at its lowest point of oscillations, elastically. It bounces back and goes up to an angle θ₁. Then, m is given by",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) (θ₀ - θ₁ = θ₀ / 2)m",
+          "(b) (θ₀ - θ₁ = θ₀ / 4)m",
+          "(c) (θ₀ - θ₁ = θ₀ / 3)m",
+          "(d) (θ₀ - θ₁ = θ₀ / 5)m"
+        ]
+      },
+      {
+        "question_number": 41,
+        "question": "A piece of wood of mass 0.03 kg is dropped from the top of a 100 m height building. At the same time, a bullet of mass 0.02 kg is fired vertically upward with a velocity 100 m/s from the ground. The bullet gets embedded in the wood. Then, the maximum height to which the combined system reaches above the top of the building before falling below is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 20 m",
+          "(b) 30 m",
+          "(c) 40 m",
+          "(d) 50 m"
+        ]
+      },
+      {
+        "question_number": 42,
+        "question": "Three blocks A, B, and C are lying on a smooth horizontal surface as shown in the figure. Block A is given an initial speed v₀ towards B so the blocks start colliding with C, also perfectly inelastic. 5/6 of the initial kinetic energy is lost in whole process. What is value of M₂ / m?",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 4",
+          "(b) 2",
+          "(c) 3",
+          "(d) 6"
+        ],
+        "images": ["arihant_images_ch5/arihant_11.png"]
+      },
+      {
+        "question_number": 43,
+        "question": "A body of mass 1 kg falls freely from a height of 100 m on a platform of mass 3 kg which is mounted on a spring having spring constant k = 1.25 × 10^6 N/m. The body sticks to the platform and the spring’s maximum compression is found to be x. Given that g = 10 m/s², the value of x will be close to:",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+          "(a) 8 cm",
+          "(b) 4 cm",
+          "(c) 40 cm",
+          "(d) 80 cm"
+        ]
+      },
+      {
+        "question_number": 44,
+        "question": "A particle of mass m is moving along the x-axis under the influence of a force and its total energy is conserved. Four possible forms of the potential energy of the particle are given in Column I (a and U₀ are constants). Match the potential energies in Column I to the corresponding statements in Column II",
+        "year": 2015,
+        "question_type": "match the column",
+        "column_1": [
+          "U₁(x) = U₀ / 2 [1 - (x² / a²)]",
+          "U₂(x) = U₀ / 2 (x² / a²)",
+          "U₃(x) = U₀ / 2 (x² / a²) exp(-(x² / a²))",
+          "U₄(x) = U₀ / 2 (1 - (x³ / a³))"
+        ],
+        "column_2": [
+          "p. The force acting on the particle is zero at x = a",
+          "q. The force acting on the particle is zero at x = 0",
+          "r. The force acting on the particle is zero at x = -a",
+          "s. The particle experiences an attractive force towards x = 0 in the region |x| < a"
+        ],
+        "images": ["arihant_images_ch5/arihant_12.png"]
+      },
+      {
+        "question_number": 45,
+        "question": "Two balls, having linear momenta p₁ and p₂, undergo a collision in free space. There is no external force acting on the balls. Let p₁ and p₂ be their final momenta. The following option is (are) correct for any non-zero value of p₁, p₂, and v₁, v₂:",
+        "year": 2008,
+        "question_type": "mcq",
+        "options": [
+          "(a) p'₁ = a₁ î + b₁ ĵ + c₁ k̂",
+          "(b) p'₂ = c₁ k̂, p₂ = c₂ k̂",
+          "(c) p'₁ = a₁ î + b₁ ĵ + c₁ k̂, p'₂ = a₁ î + b₁ ĵ + c₁ k̂",
+          "(d) p'₁ = a₁ î + b₁ ĵ + c₁ k̂, p'₂ = a₁ î + b₁ ĵ"
+        ]
+      },
+      {
+        "question_number": 46,
+        "question": "A point mass of 1 kg collides elastically with a stationary point mass of 5 kg. After their collision, the 1 kg mass reverses its direction and moves with a speed of 2 m/s. Which of the following statement(s) is/are correct for the system of these two masses?",
+        "year": 2010,
+        "question_type": "mcq",
+        "options": [
+          "(a) Total momentum of the system is 3 kg·m/s",
+          "(b) Momentum of 5 kg mass after collision is 4 kg·m/s",
+          "(c) Kinetic energy of the centre of mass is 0.75 J",
+          "(d) Total kinetic energy of the system is 4 J"
+        ]
+      },
+      {
+        "section-3": [
+          {
+            "question_number": 50,
+            "question": "Three objects A, B, and C are kept in a straight line on a frictionless horizontal surface. These have masses m, 2m and m, respectively. The object A moves towards B with a speed 9 m/s and makes an elastic collision with it. Thereafter, B makes completely inelastic collision with C. All motions occur on the same straight line. Find the final speed (in m/s) of the object C.",
+            "year": 2009,
+            "question_type": "integer answer",
+            "images": ["arihant_images_ch5/arihant_13.png"]
+          },
+          
+          {
+            "question_number": 51,
+            "question": "A solid horizontal surface is covered with a thin layer of oil. A rectangular block of mass m = 40 kg is at rest on this surface. An impulse of 1.0 N·s is applied to the block at time t = 0, so that it starts moving along the X-axis with a velocity v(t) = v0 e^(-t/τ), where v0 is a constant and τ = 4 s. The displacement of the block, in metres, at t = τ is .......... . (Take, e^(-1) = 0.37)",
+            "year": 2018,
+            "question_type": "integer answer"
+          }
+        ]
+      },
+      {
+        "question_number": 53,
+        "question": "When a ball is thrown up, the magnitude of its momentum decreases and then increases. Does this violate the conservation of momentum principle?",
+        "year": 1979,
+        "question_type": "integer answer"
+      },
+      {
+        "question_number": 54,
+        "question": "A circular plate of uniform thickness has a diameter of 56 cm. A circular portion of diameter 42 cm is removed from one edge of the plate as shown in figure. Find the position of the centre of mass of the remaining portion.",
+        "year": 1980,
+        "question_type": "integer answer",
+        "images": ["arihant_images_ch5/arihant_14.png"]
+      },
+      {
+        "question_number": 55,
+        "question": "A body of mass 1 kg initially at rest, explodes and breaks into three fragments of masses in the ratio 1:1:3. The two pieces of equal mass fly-off perpendicular to each other with a speed of 30 m/s each. What is the velocity of the heavier fragment?",
+        "year": 1981,
+        "question_type": "integer answer"
+      },
+      {
+        "question_number": 56,
+        "question": "Three particles A, B, and C of equal mass move with equal speed v along the medians of an equilateral triangle as shown in figure. They collide at the centroid G of the triangle. After the collision, A comes to rest, B retraces its path with the speed v. What is the velocity of C?",
+        "year": 1982,
+        "question_type": "integer answer",
+        "images": ["arihant_images_ch5/arihant_15.png"]
+      },
+      {
+        "question_number": 57,
+        "question": "A small sphere of radius R is held against the inner surface of a larger sphere of radius 6R. The masses of large and small spheres are 4M and M respectively. This arrangement is placed on a horizontal table. There is no friction between any surfaces of contact. The small sphere is now released. Find the coordinates of the centre of the large sphere when the smaller sphere reaches the extreme position.",
+        "year": 1996,
+        "question_type": "integer answer",
+        "images": ["arihant_images_ch5/arihant_16.png"]
+      },
+      {
+        "question_number": 58,
+        "question": "A particle of mass m, moving in a circular path of radius R with a constant speed v1 is located at point (2R, 0) at time t = 0 and a man starts moving with a velocity v2 along the positive Y-axis from origin at time t = 0. Calculate the linear momentum of the particle w.r.t. man as a function of time.",
+        "year": 2003,
+        "question_type": "integer answer",
+        "images": ["arihant_images_ch5/arihant_17.png"]
+      }
+
+
+
+
+    ],
+    "section-2": [
+        {
+            "question_number": 1,
+            "question": "This question has statement I and statement II. Of the four choices given after the statements, choose the one that best describes the two statements.",
+            "year": 2013,
+            "question_type": "mcq",
+            "options": [
+              "(a) Statement I is true, Statement II is true, and Statement II is the correct explanation of Statement I",
+              "(b) Statement I is true, Statement II is true, but Statement II is not the correct explanation of Statement I",
+              "(c) Statement I is true, Statement II is false",
+              "(d) Statement I is false, Statement II is true"
+            ]
+          },
+          {
+            "question_number": 2,
+            "question": "A person of mass m is sitting on a swing to length L and swinging with an angular amplitude θ₀. If the person stands up when the swing passes through its lowest point, the work done by him, assuming that his centre of mass moves by a distance l (l << L), is close to",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+              "(a) Mgl(1 - cos θ₀)",
+              "(b) Mgl(1 + θ₀²)",
+              "(c) Mgl",
+              "(d) MgL(1 + (θ₀²)/2)"
+            ]
+          },
+          {
+            "question_number": 3,
+            "question": "A block of mass M has a circular cut with a frictionless surface as shown. The block rests on the horizontal frictionless surface of a fixed table. Initially the right edge of the block is at x = 0, in a coordinate system fixed to the table. A point mass m is released from rest at the topmost point of the path as shown and it slides down. When the mass loses contact with the block, its position is x and the velocity is v. At that instant, which of the following options is/are correct?",
+            "year": 2017,
+            "question_type": "mcq",
+            "options": [
+              "(a) The velocity of the point mass m is v = √(2gR) √(m / (M + m))",
+              "(b) The x component of displacement of the centre of mass of the block M is - mR / (M + m)",
+              "(c) The position of the point mass is x = -√2 mR / (M + m)",
+              "(d) The velocity of the block M is V = - m / M √(2gR)"
+            ],
+            "images": ["arihant_images_ch5/arihant_18.png"]
+          },
+          {
+            "question_number": 4,
+            "question": "A ball is projected from the ground at an angle of 45° with the horizontal surface. It reaches a maximum height of 120 m and returns to the ground. Upon hitting the ground for the first time, it loses half of its kinetic energy. Immediately after the bounce, the velocity of the ball makes an angle of 30° with the horizontal surface. The maximum height it reaches after the bounce, in metres, is ..........",
+            "year": 2018,
+            "question_type": "integer"
+          },
+          {
+            "question_number": 5,
+            "question": "A 20 g bullet pierces through a plate of mass M1 = 1 kg and then comes to rest inside a second plate of mass M2 = 2.98 kg as shown in the figure. It is found that the two plates initially at rest, now move with equal velocities. Find the percentage loss in the initial velocity of the bullet when it is between M1 and M2. Neglect any loss of material of the plates due to the action of the bullet. Both plates are lying on smooth table.",
+            "year": 1979,
+            "question_type": "Analytical & Descriptive",
+            "images": ["arihant_images_ch5/arihant_19.png"]
+          },
+          {
+            "question_number": 6,
+            "question": "A block of mass M with a semicircular track of radius R, rests on a horizontal frictionless surface. A uniform cylinder of radius r and mass m is released from rest at the top point A (see fig.). The cylinder slips on the semicircular frictionless track.",
+            "year": 1983,
+            "question_type": "Analytical & Descriptive",
+            "images": ["arihant_images_ch5/arihant_20.png"]
+          },
+          
+          {
+            "question_number": 7,
+            "question": "Two bodies A and B of masses m and 2m respectively are placed on a smooth floor. They are connected by a spring. A third body C of mass m moves with velocity v0 along the line joining A and B and collides elastically with A as shown in figure. At a certain instant of time t0 after collision, it is found that the instantaneous velocities of A and B are the same. Further at this instant the compression of the spring is found to be x0. Determine (a) the common velocity of A and B at time t0 and (b) the spring constant.",
+            "year": 1984,
+            "question_type": "integer answer",
+            "images": ["arihant_images_ch5/arihant_21.png"]
+          },
+          {
+            "question_number": 8,
+            "question": "A ball of mass 100 g is projected vertically upwards from the ground with a velocity of 49 m/s. At the same time, another identical ball is dropped from a height of 98 m to fall freely along the same path as that followed by the first ball. After some time, the two balls collide and stick together and finally fall to the ground. Find the time of flight of the masses.",
+            "year": 1985,
+            "question_type": "Analytical & Descriptive Question"
+          },
+          {
+            "question_number": 9,
+            "question": "A simple pendulum is suspended from a peg on a vertical wall. The pendulum is pulled away from the wall to a horizontal position (see fig.) and released. The ball hits the wall, the coefficient of restitution being √5/2. What is the minimum number of collisions after which the amplitude of oscillations becomes less than 60 degrees?",
+            "year": 1987,
+            "question_type": "Analytical & Descriptive Question",
+            "images": ["arihant_images_ch5/arihant_22.png"]
+          },
+          {
+            "question_number": 10,
+            "question": "An object of mass 5 kg is projected with a velocity of 20 m/s at an angle of 60° to the horizontal. At the highest point of its path, the projectile explodes and breaks up into two fragments of masses 1 kg and 4 kg. The fragments separate horizontally after the explosion. The explosion releases internal energy such that the kinetic energy of the system at the highest point is doubled. Calculate the separation between the two fragments when they reach the ground.",
+            "year": 1990,
+            "question_type": "Analytical & Descriptive Question"
+          },
+          {
+            "question_number": 11,
+            "question": "A block of mass 2m is placed on another block B of mass 4m which in turn is placed on a fixed table. The two blocks have a same length l and they are placed as shown in figure. The coefficient of friction between the block B and table is µ. There is no friction between the two blocks. A small object of mass m moving horizontally along a line passing through the centre of mass (CM) of the block B and perpendicular to its face with a speed v collides elastically with the block B at a height d above the table.",
+            "year": 1991,
+            "question_type": "Analytical & Descriptive Question",
+            "sub_questions": [
+              {
+                "sub_question": "(a) What is the minimum value of v (call it v₀) required to make the block A topple?",
+                "year": 1991
+              },
+              {
+                "sub_question": "(b) If v = 2v₀, find the distance (from the point P in the figure) at which the mass m falls on the table after collision. (Ignore the role of friction during the collision.)",
+                "year": 1991
+              }
+            ],
+            "images": ["arihant_images_ch5/arihant_23.png"]
+          },
+          {
+            "question_number": 12,
+            "question": "A uniform iron rod of mass M and length L is standing vertically along the Y-axis on a smooth horizontal surface, with its lower end at the origin (0, 0). A slight disturbance at t = 0 causes the lower end to slip on the smooth surface along the positive X-axis, and the rod starts falling.",
+            "year": 1993,
+            "question_type": "Analytical & Descriptive Question",
+            "sub_questions": [
+              {
+                "sub_question": "(a) What is the path followed by the centre of mass of the rod during its fall?",
+                "year": 1993
+              },
+              {
+                "sub_question": "(b) Find the equation of the trajectory of a point on the rod located at a distance r from the lower end. What is the shape of this point?",
+                "year": 1993
+              }
+            ]
+          },
+          {
+            "question_number": 13,
+            "question": "A cart is moving along x-direction with a velocity of 4 m/s. A person on the cart throws a stone with a velocity of 6 m/s relative to himself. In the frame of reference of the cart, the stone is thrown in x²-plane making an angle of 30° with vertical z-axis. At the highest point of its trajectory, the stone hits an object of equal mass hanging vertically from branch of a tree by means of a string of length L. A completely inelastic collision occurs, in which the stone gets embedded in the object. Determine (g = 9.8 m/s²)",
+            "year": 1997,
+            "question_type": "Analytical & Descriptive Question",
+            "sub_questions": [
+              {
+                "sub_question": "(a) the speed of the combined mass immediately after the collision with respect to an observer on the ground.",
+                "year": 1997
+              },
+              {
+                "sub_question": "(b) the length L of the string such that tension in the string becomes zero when the string becomes horizontal during the subsequent motion of the combined mass.",
+                "year": 1997
+              }
+            ]
+          },
+          {
+            "question_number": 14,
+            "question": "A wedge of mass m and triangular cross-section (AB = BC = CA = 2R) is moving with a constant velocity (-vi) towards a sphere of radius R fixed on a smooth horizontal table as shown in the figure.",
+            "year": 1998,
+            "question_type": "Analytical & Descriptive Question",
+            "sub_questions": [
+              {
+                "sub_question": "(a) Find the force F and also the normal force N exerted by the table on the wedge during the time Δt.",
+                "year": 1998
+              },
+              {
+                "sub_question": "(b) Let h denote the perpendicular distance between the centre of mass of the wedge and the line of action of F. Find the magnitude of the torque due to the normal force N about the centre of the wedge during the interval Δt.",
+                "year": 1998
+              }
+            ],
+            "images": ["arihant_images_ch5/arihant_24.png"]
+          },
+          {
+            "question_number": 15,
+            "question": "A cylindrical solid of mass 10² kg and cross-sectional area 10⁻¹² m² is moving parallel to its axis (the x-axis) with a uniform speed of 10 m/s in the positive direction. At t = 0, its front face passes the plane x = 0. The region to the right of this plane is filled with stationary dust particles of uniform density 10³ kg/m³. When a dust particle collides with the face of the cylinder, it sticks to its surface. Assume that the dimensions of the cylinder remain practically unchanged and that the dust sticks only to the front face of the cylinder finding the x-coordinate of the centre of mass of the cylinder at t = 150 s.",
+            "year": 1998,
+            "question_type": "Analytical & Descriptive Question"
+          },
+          {
+            "question_number": 16,
+            "question": "Two blocks of masses 2 kg and M are at rest on an inclined plane and are separated by a distance of 6.0 m as shown. The coefficient of friction between each block and the inclined plane is 0.25. The 2 kg block is given a velocity of 10.0 m/s up the inclined plane. It collides with M, comes back and has a velocity of 1.0 m/s when it reaches its initial position. The other block M after the collision moves 0.5 m up and comes to rest. Calculate the coefficient of restitution between the blocks and the mass of the block M.",
+            "year": 1999,
+            "question_type": "Analytical & Descriptive Question",
+            "images": ["arihant_images_ch5/arihant_25.png"]
+          },
+          {
+            "question_number": 17,
+            "question": "Two point masses m₁ and m₂ are connected by a spring of natural length l₀. The spring is compressed such that the two point masses touch each other and then they are fastened by a string. Then the system is moved with a velocity v₀ along positive x-axis. When the system reaches the origin the string breaks (t = 0). The position of the point mass m₁ is given by x₁ = v₀ t - A(1 - cos ωt) where A and ω are constants. Find the position of the second block as a function of time. Also, find the relation between A and l₀.",
+            "year": 2003,
+            "question_type": "Analytical & Descriptive Question"
+          },
+          {
+            "question_number": 18,
+            "question": "There is a rectangular plate of mass M kg of dimensions (a × b). The plate is hinged and held in horizontal position by striking small balls uniformly at the topmost edge of the plate. The balls are striking in the shaded half region of the plate. The balls are colliding elastically with velocity v. What is v?",
+            "year": 2006,
+            "question_type": "Analytical & Descriptive Question",
+            "images": ["arihant_images_ch5/arihant_26.png"]
+          },
+          {
+            "question_number": 19,
+            "question": "A car P is moving with a uniform speed of 5√3 m/s towards a carriage of mass 9 kg at rest kept on the rails at a point B as shown in figure. The height AC is 120 m. Cannon balls of 1 kg are fired from the car with an initial velocity 100 m/s at an angle 30° with the horizontal. The first cannon ball hits the stationary carriage after a time t₀ and sticks to it. Determine t₀. At t₀, the second cannon ball is fired. Assume that the resistive force between the rails and the carriage is constant and ignore the vertical motion of the carriage throughout. If the second ball also hits and sticks to the carriage, what will be the horizontal velocity of the carriage just after the second impact?",
+            "year": 2011,
+            "question_type": "Analytical & Descriptive Question"
+          }
+
+          
+
+
+    ]
+  }
+  

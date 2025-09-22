@@ -1,0 +1,358 @@
+[
+  {
+    "question_number": 10.1,
+    "Questions": "A 6.0 kg wheel with radius of gyration 40 cm rotates at 300 rpm. Find moment of inertia and rotational KE.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "I = 0.96 kg·m²; KE_r = 0.47 kJ"
+  },
+  {
+    "question_number": 10.2,
+    "Questions": "A 500-g sphere of 7.0 cm radius spins at 30 rev/s. Find (a) KE_r, (b) angular momentum, (c) radius of gyration.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) 0.017 kJ; (b) 0.18 kg·m²/s; (c) 4.4 cm"
+  },
+  {
+    "question_number": 10.3,
+    "Questions": "A 70 kg airplane propeller with radius of gyration 75 cm has angular acceleration of 4.0 rev/s². Find torque.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "τ = 0.99 kN·m"
+  },
+  {
+    "question_number": 10.4,
+    "images":["images/arihant_ch16_99.png"],
+    "Questions": "A 40 N force acts on rim of a wheel (r = 20 cm, I = 30 kg·m²). Find (a) angular acceleration, (b) angular speed after 4.0 s, (c) revolutions, (d) verify work done equals KE.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) α = 0.267 rad/s²; (b) ω = 1.1 rad/s; (c) θ = 0.34 rev; (d) Work = KE = 17 J"
+  },
+  {
+    "question_number": 10.5,
+    "Questions": "A 0.90-kg grinder wheel of radius 8.0 cm slows from 1400 rpm in 35 s. Find friction torque.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "τ = -1.2 × 10⁻² N·m"
+  },
+  {
+    "question_number": 10.6,
+    "Questions": "Rework 10.5 using work-energy relation. Use I = 0.0029 kg·m² and ω_i = 146 rad/s.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "τ = 0.012 N·m"
+  },
+  {
+    "question_number": 10.7,
+    "Questions": "Flywheel I = 3.8 kg·m². What constant torque raises speed from 2.0 to 5.0 rev/s in 6.0 revs?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "τ = 42 N·m"
+  },
+  {
+    "question_number": 10.8,
+    "images":["images/arihant_ch16_100.png"],
+    "Questions": "400 g mass hangs from wheel rim (r = 15 cm) and falls 2.0 m in 6.5 s. Find I of wheel.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "I = 0.92 kg·m²"
+  },
+  {
+    "question_number": 10.9,
+    "Questions": "Repeat 10.8 using energy conservation. h = 2.0 m, time = 6.5 s.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "I = 0.92 kg·m²"
+  },
+  {
+    "question_number": 10.10,
+    "images":["images/arihant_ch16_101.png"],
+    "Questions": "In Fig. 10-4, two masses (2.0 kg and 1.8 kg) hang from pulley with I = 1.70 kg·m², r₁ = 50 cm, r₂ = 20 cm. Find α and tensions F_T1, F_T2.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "α = 2.8 rad/s²; F_T1 = 17 N; F_T2 = 19 N"
+  },
+  {
+    "question_number": 10.11,
+    "Questions": "Use energy to find speed of 2.0 kg mass in Fig. 10-4 after falling 1.5 m from rest. I = 1.70 kg·m².",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "v₁ = 2.0 m/s; ω = 4.07 rad/s"
+  },
+  {
+    "question_number": 10.12,
+    "Questions": "Motor at 20 rev/s delivers torque of 75 N·m. Find horsepower.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "P = 13 hp"
+  },
+  {
+    "question_number": 10.13,
+    "Questions": "Belt drive with tensions 130 N and 600 N, diameter 38 cm, 1200 rpm. Find horsepower to wheel.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "P = 15 hp"
+  },
+  {
+    "question_number": 10.14,
+    "Questions": "0.75-hp motor acts 8.0 s on nonrotating wheel with I = 2.0 kg·m². Find final angular speed.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "ω = 67 rad/s"
+  },
+  {
+    "question_number": 10.15,
+    "images":["images/arihant_ch16_102.png"],
+    "Questions": "Uniform solid sphere rolls at 20 m/s then climbs a hill. Find height where it stops.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "h = 29 m"
+  },
+  {
+    "question_number": 10.16,
+    "Questions": "A hoop rolls down a 5.0 m hill. How fast is it rotating at bottom?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "ω = 35 rad/s"
+  },
+  {
+    "question_number": 10.17,
+    "Questions": "As a solid disk rolls over the top of a hill on a track, its speed is 80 cm/s. If friction losses are negligible, how fast is the disk moving when it is 18 cm below the top?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "At the top, the disk has translational and rotational KE, plus its PEG relative to the point 18 cm lower. At the final point, the PEG has been transformed to more KE of rotation and translation. We therefore write, with h = 18 cm\n(KEt + KEr)start + Mgh = (KEt + KEr)end\n½Mvᵢ² + ½Iωᵢ² + Mgh = ½Mvƒ² + ½Iωƒ²\nFor a solid disk, I = ½Mr². Also, ω = v/r. Substituting these values and simplifying give\n½vᵢ² + ¼vᵢ² + gh = ½vƒ² + ¼vƒ²\nBut vᵢ = 0.80 m/s and h = 0.18 m. Substitution gives vƒ = 1.7 m/s."
+  },
+  {
+    "question_number": 10.18,
+    "images":["images/arihant_ch16_103.png"],
+    "Questions": "Find the moment of inertia of the four masses shown in Fig. 10-6 relative to an axis perpendicular to the page and extending (a) through point A and (b) through point B.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) From the definition of moment of inertia,\nI = m₁r₁² + m₂r₂² + ··· + mₙrₙ² = (2.0 kg + 3.0 kg + 4.0 kg + 5.0 kg)(r²)\nwhere r is half the length of the diagonal:\nr = ½√(1.20 m)² + (2.50 m)² = 1.39 m\nThus, I = 27 kg·m².\n(b) We cannot use the parallel-axis theorem here because neither A nor B is at the center of mass. Hence we proceed as before. Because r = 1.25 m for the 2.0- and 3.0-kg masses, while r = √(1.20)² + (1.25)² = 1.733 for the other two masses,\nI_B = (2.0 kg + 3.0 kg)(1.25 m)² + (5.0 kg + 4.0 kg)(1.733 m)² = 33 kg·m²."
+  },
+  {
+    "question_number": 10.19,
+    "images":["images/arihant_ch16_104.png"],
+    "Questions": "The uniform circular disk in Fig. 10-7 has mass 6.5 kg and diameter 80 cm. Compute its moment of inertia about an axis perpendicular to the page (a) through G and (b) through A.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) I_G = ½Mr² = ½(6.5 kg)(0.40 m)² = 0.52 kg·m²\n(b) By the result of (a) and the parallel-axis theorem, I_A = I_G + Mh² = 0.52 kg·m² + (6.5 kg)(0.22 m)² = 0.83 kg·m²"
+  },
+  {
+    "question_number": 10.20,
+    "Questions": "A large roller in the form of a uniform cylinder is pulled by a tractor to compact earth; it has a 1.80-m diameter and weighs 10 kN. If frictional losses can be ignored, what average horsepower must the tractor provide to accelerate it from rest to a speed of 4.0 m/s in a horizontal distance of 3.0 m?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Work = ΔK_E + ΔK_E, I = ½mr² = ½(1019 kg)(0.90 m)² = 413 kg·m². The power is equal to the work done by the tractor divided by the time it takes. The roller's speed was 3.0 m with an average velocity of 2.0 m/s, and the work required is 12.23 kJ."
+  },
+  {
+    "question_number": 10.21,
+    "images":["images/arihant_ch16_105.png"],
+    "Questions": "As shown in Fig. 10-8, a thin uniform rod AB of mass M and length L is hinged at end A to the level floor. It originally stands vertically. If allowed to fall to the floor as shown, with what angular speed will it strike the floor?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The moment of inertia about a transverse axis through end A is I_A = I_G + Mh². As the rod falls, the center of mass G falls a distance L/2."
+  },
+  {
+    "question_number": 10.22,
+    "images":["images/arihant_ch16_106.png"],
+    "Questions": "A man stands on a freely rotating platform, as shown in Fig. 10-9. With his arms extended, his rotation frequency is 0.25 rev/s. But when he draws them in, his frequency is 0.80 rev/s. Find the ratio of his moment of inertia in the first case to that in the second.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Because there is no torque on the system, the law of conservation of angular momentum tells us that angular momentum before = angular momentum after. The ratio of the moments of inertia is I₁/I₂ = ω₂/ω₁ = 0.80 rev/s / 0.25 rev/s = 3.2."
+  },
+  {
+    "question_number": 10.23,
+    "images":["images/arihant_ch16_107.png"],
+    "Questions": "A disk of moment of inertia I₁ is rotating freely with angular speed ω₁ when a second, nonrotating, disk with moment of inertia I₂ is dropped on it (Fig. 10-10). The two then rotate as a unit. Find the final angular speed.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "From the law of conservation of angular momentum, I₁ω₁ + I₂(0) = (I₁ + I₂)ω. Solving gives ω = I₁ω₁ / (I₁ + I₂)."
+  },
+  {
+    "question_number": 10.24,
+    "Questions": "A disk like the lower one in Fig. 10-10 has moment of inertia I₁ about the axis shown. What will be its new moment of inertia if a tiny mass M is set on it at a distance R from its center?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The definition of moment of inertia tells us that, for the disk plus added mass, I = I₁ + MR²."
+  },
+  {
+    "question_number": 10.25,
+    "Questions": "A disk like the lower one in Fig. 10-10 has I = 0.0150 kg·m² and is turning at 3.0 rev/s. A trickle of sand falls onto the disk at a distance of 20 cm from the axis and builds a 20-cm radius ring of sand on it. How much sand must fall on the disk for it to slow to 2.0 rev/s?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "When a mass Δm of sand falls onto the disk, the moment of inertia of the disk is increased by an amount ΔmR², as shown in the preceding problem. After a mass m has fallen on the disk, its moment of inertia has increased to I + mR². The law of conservation of momentum gives (momentum before) = (momentum after), from which m = (I(ω₀ - ω₁)) / R²ω₁."
+  },
+  {
+    "question_number": 10.26,
+    "Questions": "A force of 200 N acts tangentially on the rim of a wheel 25 cm in radius. (a) Find the torque. (b) Repeat if the force makes an angle of 40° to a spoke of the wheel.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 50 N·m; (b) 32 N·m"
+  },
+  {
+    "question_number": 10.27,
+    "Questions": "A certain 8.0-kg wheel has a radius of gyration of 25 cm. (a) What is its moment of inertia? (b) How large a torque is required to give it an angular acceleration of 3.0 rad/s²?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.50 kg·m²; (b) 1.5 N·m"
+  },
+  {
+    "question_number": 10.28,
+    "Questions": "Determine the constant torque that must be applied to a 50-kg flywheel, with radius of gyration 40 cm, to give it a frequency of 300 rpm in 10 s if it's initially at rest.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "25 N·m"
+  },
+  {
+    "question_number": 10.29,
+    "Questions": "A 4.0-kg wheel of 20 cm radius of gyration is rotating at 360 rpm. The retarding frictional torque is 0.12 N·m. Compute the time it will take the wheel to coast to rest.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "50 s"
+  },
+  {
+    "question_number": 10.30,
+    "Questions": "Compute the rotational KE of a 25-kg wheel rotating at 6.0 rev/s if the radius of gyration of the wheel is 22 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.86 kJ"
+  },
+  {
+    "question_number": 10.31,
+    "Questions": "A cord 3.0 m long is coiled around the axle of a wheel. The cord is pulled with a constant force of 40 N. When the cord leaves the axle, the wheel is rotating at 2.0 rev/s. Determine the moment of inertia of the wheel and axle. Neglect friction. (Hint: The easiest solution is by the energy method.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.5 kg·m²"
+  },
+  {
+    "question_number": 10.32,
+    "Questions": "A 500-g wheel that has a moment of inertia of 0.015 kg·m² is initially turning at 30 rev/s. It coasts to rest after 163 rev. How large is the torque that slowed it?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.26 N·m"
+  },
+  {
+    "question_number": 10.33,
+    "Questions": "When 100 J of work is done upon a flywheel, its angular speed increases from 60 rev/min to 180 rev/min. What is its moment of inertia?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.63 kg·m²"
+  },
+  {
+    "question_number": 10.34,
+    "Questions": "A 5.0-kg wheel with radius of gyration 20 cm is to be given a frequency of 10 rev/s in 25 revolutions from rest. Find the constant unbalanced torque required.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "2.5 N·m"
+  },
+  {
+    "question_number": 10.35,
+    "Questions": "An electric motor runs at 900 rpm and delivers 2.0 hp. How much torque does it deliver?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "16 N·m"
+  },
+  {
+    "question_number": 10.36,
+    "Questions": "The driving side of a belt has a tension of 1600 N, and the slack side has 500 N tension. The belt turns a pulley 40 cm in radius at a rate of 300 rpm. This pulley drives a dynamo having 90 percent efficiency. How many kilowatts are being delivered by the dynamo?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "12 kW"
+  },
+  {
+    "question_number": 10.37,
+    "Questions": "A 25-kg wheel has a radius of 40 cm and turns freely on a horizontal axis. The radius of gyration of the wheel is 30 cm. A 1.2-kg mass hangs at the end of a cord that is wound around the rim of the wheel. This mass falls and causes the wheel to rotate. Find the acceleration of the falling mass and the tension in the cord.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.77 m/s², 11 N"
+  },
+  {
+    "question_number": 10.38,
+    "Questions": "A wheel and axle having a total moment of inertia of 0.0020 kg·m² is caused to rotate about a horizontal axis by means of an 800-g mass attached to a cord wrapped around the axle. The radius of the axle is 2.0 cm. Starting from rest, how far must the mass fall to give the wheel a rotational rate of 3.0 rev/s?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.3 m"
+  },
+  {
+    "question_number": 10.39,
+    "Questions": "A 20-kg solid disk (I = ½MR²) rolls on a horizontal surface at the rate of 40 m/s. Compute its total KE.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.24 kJ"
+  },
+  {
+    "question_number": 10.40,
+    "Questions": "A 60-kg bowling ball (I = 2MR²/5) starts from rest and rolls down a gradual slope until it reaches a point 80 cm lower than its starting point. How fast is it then moving? Ignore friction losses.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "3.3 m/s"
+  },
+  {
+    "question_number": 10.41,
+    "images":["images/arihant_ch16_108.png"],
+    "Questions": "A tiny solid ball (I = 2MR²/5) rolls without slipping on the inside surface of a hemisphere as shown in Fig. 10-11. (The ball is much smaller than shown.) If the ball is released at A, how fast is it moving as it passes (a) point B, and (b) point C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 2.65 m/s; (b) 2.32 m/s"
+  },
+  {
+        "question_number": 10.42,
+        "Questions": "Compute the radius of gyration of a solid disk of diameter 24 cm about an axis through its center of mass and perpendicular to its face.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 8.5 cm"
+    },
+    {
+        "question_number": 10.43,
+        "images":["images/arihant_ch16_109.png"],
+        "Questions": "In Fig. 10-12 are shown four masses that are held at the corners of a square by a very light frame. What is the moment of inertia of the system about an axis perpendicular to the page (a) through A and (b) through B?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. (a) 1.4 kg·m²; (b) 2.1 kg·m²"
+    },
+    {
+        "question_number": 10.44,
+        "Questions": "Determine the moment of inertia (a) of a vertical thin hoop of mass 2 kg and radius 9 cm about a horizontal parallel axis at its rim; (b) of a solid sphere of mass 2 kg and radius 5 cm about an axis tangent to the sphere.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. (a) I = M r² + M r² = 0.03 kg·m²; (b) I = 2/3 M r² = 4 x 10⁻³ kg·m²"
+    },
+    {
+        "question_number": 10.45,
+        "images":["images/arihant_ch16_110.png"],
+        "Questions": "Rod O in Fig. 10-13 is a meterstick. It is hinged at O so that it can turn in a vertical plane. It is held horizontally and then released. Compute the angular speed of the rod and the linear speed of its free end as it passes through the position shown in the figure. (Hint: Show that I = mL²/3.)",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 5.0 rad/s, 5.0 m/s"
+    },
+    {
+        "question_number": 10.46,
+        "Questions": "Suppose that a satellite ship orbits the Moon in an elliptical orbit. At its closest point to the Moon it has a speed v₁ and a radius r₁ from the center of the Moon. At its farthest point, it has a speed v₂ and a radius r₂. Find the ratio v₁/v₂. (Hint: At the closest and farthest points, the relation v = rω is valid.)",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. r₁/r₂"
+    },
+    {
+        "question_number": 10.47,
+        "Questions": "A large horizontal disk is rotating on a vertical axis through its center; for the disk, I = 4000 kg·m². The disk is coasting at a rate of 0.150 rev/s when a 90.0-kg person drops onto the disk from an overhanging tree limb. The person lands and remains at a distance of 3.00 m from the axis of rotation. What will be the rate of rotation after the person has landed?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 0.125 rev/s"
+    },
+    {
+        "question_number": 10.48,
+        "Questions": "A neutron star is formed when an object such as our Sun collapses. Suppose a uniform spherical star of mass M and radius R collapses to a uniform sphere of radius 10⁻⁶R. If the original star has a rotation rate of 1 rev each 25 days (as does the Sun), what will be the rotation rate of the neutron star?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 5 x 10⁶ rev/s"
+    },
+    {
+        "question_number": 10.49,
+        "Questions": "A 90-kg person stands at the edge of a stationary children’s merry-go-round (essentially a disk) at a distance of 5.0 m from its center. The person starts to walk around the perimeter of the disk at a speed of 0.80 m/s relative to the ground. What rotation rate does this motion give to the disk if I_disk = 20000 kg·m²? (Hint: For the person, I = mr²)",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 0.018 rad/s"
+    }
+
+]

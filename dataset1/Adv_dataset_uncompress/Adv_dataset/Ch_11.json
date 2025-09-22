@@ -1,0 +1,1976 @@
+{
+  "section-1": [
+    {
+      "question_number": 1,
+      "question": "The root mean square speeds of the molecules of different ideal gases, maintained at the same temperature are the same.",
+      "year": 1981,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "The volume V versus temperature T graphs for a certain amount of a perfect gas at two pressure p₁ and p₂ are as shown in figure. It follows from the graphs that p₁ is greater than p₂.",
+      "year": 1982,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ],
+      "images":["arihant_images_ch11/arihant_1.png"]
+    },
+    {
+      "question_number": 3,
+      "question": "Two different gases at the same temperature have equal root mean square velocities.",
+      "year": 1982,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "The curves A and B in the figure show p-V graphs for an isothermal and an adiabatic process for an ideal gas. The isothermal process is represented by the curve A.",
+      "year": 1985,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ],
+      "images":["arihant_images_ch11/arihant_2.png"]
+    },
+    {
+      "question_number": 5,
+      "question": "At a given temperature, the specific heat of a gas at constant pressure is always greater than its specific heat at constant volume.",
+      "year": 1987,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "The root mean square (rms) speed of oxygen molecules (O₂) at a certain temperature T (degree absolute) is V. If the temperature is doubled and oxygen gas dissociates into atomic oxygen, the rms speed remains unchanged.",
+      "year": 1987,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "Two spheres of the same material have radii 1 m and 4 m, temperature 4000 K and 2000 K respectively. The energy radiated per second by the first sphere is greater than that by the second.",
+      "year": 1988,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "Assertion: The total translational kinetic energy of all the molecules of a given mass of an ideal gas is 1.5 times the product of its pressure and its volume.\nReason: The molecules of a gas collide with each other and the velocities of the molecules change due to the collision.",
+      "year": 2007,
+      "question_type": "Assertion and Reason",
+      "options": [
+        "(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion",
+        "(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion",
+        "(c) If Assertion is true, Reason is false",
+        "(d) If Assertion is false; Reason is true"
+      ]
+    },
+    {
+      "question_number": 20,
+      "question": "70 cal of heat are required to raise the temperature of 2 moles of an ideal diatomic gas at constant pressure from 30°C to 35°C. The amount of heat required (in calorie) to raise the temperature of the same gas through the same range (30°C to 35°C) at constant volume is",
+      "year": 1985,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 30",
+        "(b) 50",
+        "(c) 70",
+        "(d) 90"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "Steam at 100°C is passed into 1.1 kg of water contained in a calorimeter of water equivalent 0.02 kg at 15°C till the temperature of the calorimeter and its contents rises to 80°C. The mass of the steam condensed in kg is",
+      "year": 1986,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 0.130",
+        "(b) 0.065",
+        "(c) 0.260",
+        "(d) 0.135"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "A cylinder of radius R made of a material of thermal conductivity K₁ is surrounded by a cylindrical shell of inner radius R and outer radius 2R made of a material of thermal conductivity K₂. The two ends of the combined system are maintained at two different temperatures. There is no loss of heat across the cylindrical surface and the system is in steady state. The effective thermal conductivity of the system is",
+      "year": 1988,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) K₁ + K₂",
+        "(b) K₁K₂ / (K₁ + K₂)",
+        "(c) (K₁ + 3K₂)/4",
+        "(d) (3K₁ + K₂)/4"
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "If one mole of a monoatomic gas (γ = 5/3) is mixed with one mole of a diatomic gas (γ = 7/5), the value of γ for the mixture is",
+      "year": 1988,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1.40",
+        "(b) 1.50",
+        "(c) 1.53",
+        "(d) 3.07"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "Three closed vessels A, B and C at the same temperature T and contain gases which obey the Maxwellian distribution of velocities. Vessel A contains only O₂, B only N₂ and C a mixture of equal quantities of O₂ and N₂. If the average speed of the O₂ molecules in vessel A is v₁ and that of N₂ molecules in vessel B is v₂, the average speed of the O₂ molecules in vessel C is",
+      "year": 1992,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (v₁ + v₂)/2",
+        "(b) √[(v₁² + v₂²)/2]",
+        "(c) (v₁ + v₂)²/2",
+        "(d) √(3kT/M)"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "Two metallic spheres S₁ and S₂ are made of the same material and have got identical surface finish. The mass of S₁ is thrice that of S₂. Both the spheres are heated to the same high temperature and placed in the same room having lower temperature but are thermally insulated from each other. The ratio of the initial rate of cooling of S₁ to that of S₂ is",
+      "year": 1995,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1/3",
+        "(b) 1/√3",
+        "(c) √3/1",
+        "(d) (1/3)^(1/3)"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "Three rods of identical cross-sectional area and made from the same metal form the sides of an isosceles triangle ABC, right-angled at B. The points A and B are maintained at temperatures T and (√2)T respectively. In the steady state, the temperature of the point C is Tₓ. Assuming that only heat conduction takes place, Tₓ/T is",
+      "year": 1995,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1/(2√2 - 1)",
+        "(b) 3/(√2 + 1)",
+        "(c) 1/√(3(√2 - 1))",
+        "(d) 1/(√2 + 1)"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "The temperature of an ideal gas is increased from 120 K to 480 K. If at 120 K the root mean square velocity of the gas molecules is v, at 480 K it becomes",
+      "year": 1996,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 4v",
+        "(b) 2v",
+        "(c) v√2",
+        "(d) v/4"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "A spherical black body with a radius of 12 cm radiates 450 W power at 500 K. If the radius were halved and its temperature doubled, the power radiated in watt would be",
+      "year": 1997,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 225",
+        "(b) 450",
+        "(c) 900",
+        "(d) 1800"
+      ]
+    },
+    {
+      "question_number": 29,
+      "question": "The intensity of radiation emitted by the sun has its maximum value at a wavelength of 510 nm and that emitted by the north star has the maximum value at 350 nm. If these stars behave like black bodies, then the ratio of the surface temperature of the sun and the north star is",
+      "year": 1997,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1.46",
+        "(b) 0.69",
+        "(c) 1.21",
+        "(d) 0.83"
+      ]
+    },
+    {
+      "question_number": 30,
+      "question": "A vessel contains 1 mole of O₂ gas (molar mass 32) at a temperature T. The pressure of the gas is p. An identical vessel containing one mole of the gas (molar mass 4) at a temperature 2T has a pressure of",
+      "year": 1997,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) p/8",
+        "(b) p",
+        "(c) 2p",
+        "(d) 8p"
+      ]
+    },
+    {
+      "question_number": 31,
+      "question": "The average translational kinetic energy of O₂ (molar mass 32) molecules at a particular temperature is 0.048 eV. The translational kinetic energy of N₂ (molar mass 28) molecules in eV at the same temperature is",
+      "year": 1997,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 0.0015",
+        "(b) 0.003",
+        "(c) 0.048",
+        "(d) 0.768"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "The average translational energy and the rms speed of molecules in a sample of oxygen gas at 300 K are 6.21×10⁻²¹ J and 484 m/s respectively. The corresponding values at 600 K are nearly (assuming ideal gas behaviour)",
+      "year": 1997,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 12.42×10⁻²¹ J, 968 m/s",
+        "(b) 7.8×10⁻²¹ J, 684 m/s",
+        "(c) 6.21×10⁻²¹ J, 968 m/s",
+        "(d) 12.42×10⁻²¹ J, 684 m/s"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "Two identical containers A and B with frictionless pistons contain the same ideal gas at the same temperature and the same volume V. The mass of the gas in A is mₐ, and that in B is mᵦ. The gas in each cylinder is now allowed to expand isothermally to the same final volume 2V. The changes in pressure in A and B are found to be Δp and 1.5Δp respectively. Then",
+      "year": 1998,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 4 mₐ = 9 mᵦ",
+        "(b) 2 mₐ = 3 mᵦ",
+        "(c) 3 mₐ = 2 mᵦ",
+        "(d) mₐ = 1.4 mᵦ"
+      ]
+    },
+    {
+      "question_number": 34,
+      "question": "A vessel contains a mixture of one mole of oxygen and two moles of nitrogen at 300 K. The ratio of the average rotational kinetic energy per O₂ molecule to per N₂ molecule is",
+      "year": 1998,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1 : 1",
+        "(b) 1 : 2",
+        "(c) 2 : 1",
+        "(d) depends on the moment of inertia of the two molecules"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "Two cylinders A and B fitted with pistons contain equal amounts of an ideal diatomic gas at 300 K. The piston of A is free to move, while that of B is held fixed. The same amount of heat is given to the gas in each cylinder. If the rise in temperature of the gas in A is 30 K, then the rise in temperature of the gas in B is",
+      "year": 1998,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 30 K",
+        "(b) 18 K",
+        "(c) 50 K",
+        "(d) 42 K"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "A black body is at a temperature of 2880 K. The energy of radiation emitted by this body will be maximum at wavelength between 499 nm and 500 nm. If the temperature of the black body is increased to 5760 K, the maximum energy will now be emitted between the wavelengths",
+      "year": 1998,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 998 nm and 1000 nm",
+        "(b) 250 nm and 252 nm",
+        "(c) 499 nm and 500 nm",
+        "(d) 1002 nm and 1004 nm"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "A gas mixture consists of 2 moles of oxygen and 4 moles of argon at temperature T. Neglecting all vibrational modes, the total internal energy of the system is",
+      "year": 1999,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 4 RT",
+        "(b) 15 RT",
+        "(c) 9 RT",
+        "(d) 11 RT"
+      ]
+    },
+    {
+      "question_number": 38,
+      "question": "A block of ice at -10°C is slowly heated and converted to steam at 100°C. Which of the following curves represents the phenomena qualitatively?",
+      "year": 2000,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) [Graph: Temperature vs Heat Supplied - upward curve with flat regions]",
+        "(b) [Graph: Temperature vs Heat Supplied - straight line]",
+        "(c) [Graph: Temperature vs Heat Supplied - straight upward increasing]",
+        "(d) [Graph: Temperature vs Heat Supplied - downward curve]"
+      ]
+    },
+    {
+      "question_number": 39,
+      "question": "Starting with the same initial conditions, an ideal gas expands from volume V₁ to V₂ in three different ways, the work done by the gas is W₁ if the process is purely isothermal, W₂ if purely isobaric and W₃ if purely adiabatic, then",
+      "year": 2000,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) W₁ > W₂ > W₃",
+        "(b) W₂ > W₃ > W₁",
+        "(c) W₁ > W₃ > W₂",
+        "(d) W₃ > W₂ > W₁"
+      ]
+    },
+    {
+      "question_number": 40,
+      "question": "A monoatomic ideal gas, initially at temperature T₁ is enclosed in a cylinder fitted with a frictionless piston. The gas is allowed to expand adiabatically to a temperature T₂ by releasing the piston suddenly. If L₁ and L₂ are the lengths of the gas column before and after expansion respectively, then T₁/T₂ is given by",
+      "year": 2000,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (L₁/L₂)²/³",
+        "(b) (L₁/L₂)",
+        "(c) (L₂/L₁)",
+        "(d) (L₂/L₁)²/³"
+      ]
+    },
+    {
+      "question_number": 42,
+      "question": "Three rods made of the same material and having the same cross-section have been joined as shown in the figure. Each rod is of the same length. The left and right ends are kept at 0°C and 90°C respectively. The temperature of the junction of the three rods will be",
+      "year": 2001,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 45°C",
+        "(b) 60°C",
+        "(c) 30°C",
+        "(d) 20°C"
+      ],
+      "images":["arihant_images_ch11/arihant_3.png"]
+    },
+    {
+      "question_number": 43,
+      "question": "p-V plots for two gases during adiabatic processes are shown in the figure. Plots 1 and 2 should correspond respectively to",
+      "year": 2001,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) He and O₂",
+        "(b) O₂ and He",
+        "(c) He and Ar",
+        "(d) O₂ and N₂"
+      ],
+      "images":["arihant_images_ch11/arihant_4.png"]
+    },
+    {
+      "question_number": 44,
+      "question": "In a given process of an ideal gas, dW = 0 and dQ < 0. Then for the gas",
+      "year": 2001,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) the temperature will decrease",
+        "(b) the volume will increase",
+        "(c) the pressure will remain constant",
+        "(d) the temperature will increase"
+      ]
+    },
+    
+    {
+      "question_number": 46,
+      "question": "An ideal gas is taken through the cycle A → B → C → A, as shown in the figure. If the net heat supplied to the gas in the cycle is 5 J, the work done by the gas in the process C → A is",
+      "year": 2002,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) -5 J",
+        "(b) -10 J",
+        "(c) -15 J",
+        "(d) -20 J"
+      ],
+      "images":["arihant_images_ch11/arihant_5.png"]
+    },
+    {
+      "question_number": 47,
+      "question": "An ideal black body at room temperature is thrown into a furnace. It is observed that",
+      "year": 2002,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) initially it is the darkest body and at later times the brightest",
+        "(b) it is the darkest body at all times",
+        "(c) it cannot be distinguished at all times",
+        "(d) initially it is the darkest body and at later times it cannot be distinguished"
+      ]
+    },
+    {
+      "question_number": 48,
+      "question": "The graph, shown in the diagram, represents the variation of temperature (T) of the bodies, x and y having same surface area, with time (t) due to the emission of radiation. Find the correct relation between the emissivity and absorptivity power of the two bodies",
+      "year": 2003,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) Eₓ > Eᵧ and aₓ < aᵧ",
+        "(b) Eₓ < Eᵧ and aₓ > aᵧ",
+        "(c) Eₓ > Eᵧ and aₓ > aᵧ",
+        "(d) Eₓ < Eᵧ and aₓ < aᵧ"
+      ],
+      "images":["arihant_images_ch11/arihant_6.png"]
+    },
+    {
+      "question_number": 49,
+      "question": "Two rods, one of aluminium and the other made of steel, having initial length l₁ and l₂ are connected together to form a single rod of length l₁ + l₂. The coefficients of linear expansion for aluminium and steel are αₐ and αₛ respectively. If the length of each rod increases by the same amount when their temperature are raised by T°C, then find the ratio l₁/(l₁ + l₂)",
+      "year": 2003,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) αₛ / (αₐ + αₛ)",
+        "(b) αₐ / αₛ",
+        "(c) αₛ / (αₐ + αₛ)",
+        "(d) αₐ / (αₐ + αₛ)"
+      ]
+    },
+    {
+      "question_number": 50,
+      "question": "2 kg of ice at –20°C is mixed with 5 kg of water at 20°C in an insulating vessel having a negligible heat capacity. Calculate the final mass of water remaining in the container. It is given that the specific heats of water and ice are 1 kcal/kg/°C and 0.5 kcal/kg/°C while the latent heat of fusion of ice is 80 kcal/kg.",
+      "year": 2003,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 7 kg",
+        "(b) 6 kg",
+        "(c) 4 kg",
+        "(d) 2 kg"
+      ]
+    },
+    {
+      "question_number": 52,
+      "question": "Three discs, A, B and C having radii 2 m, 4 m and 6 m respectively are coated with carbon black on their outer surfaces. The wavelengths corresponding to maximum intensity are 300 nm, 400 nm and 500 nm, respectively. The power radiated by them are QA, QB and QC respectively.",
+      "year": 2004,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) QA is maximum",
+        "(b) QB is maximum",
+        "(c) QC is maximum",
+        "(d) QA = QB = QC"
+      ]
+    },
+    {
+      "question_number": 53,
+      "question": "Two identical conducting rods are first connected independently to two vessels, one containing water at 100°C and the other containing ice at 0°C. In the second case, the rods are joined end to end and connected to the same vessels. Let q1 and q2 gram per second be the rate of melting of ice in the two cases respectively. The ratio q1/q2 is",
+      "year": 2004,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1/2",
+        "(b) 2/1",
+        "(c) 4/1",
+        "(d) 1/4"
+      ]
+    },
+    {
+      "question_number": 54,
+      "question": "An ideal gas expands isothermally from a volume Vi to 2Vi and then compressed to original volume Vi adiabatically. Initial pressure is Pi and final pressure is Pf. The total work done is W. Then,",
+      "year": 2004,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) Pf > Pi, W > 0",
+        "(b) Pf > Pi, W < 0",
+        "(c) Pf < Pi, W < 0",
+        "(d) Pf < Pi, W = 0"
+      ]
+    },
+    {
+      "question_number": 55,
+      "question": "Calorie is defined as the amount of heat required to raise temperature of 1 g water by 1°C and it is defined under which of the following conditions?",
+      "year": 2005,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) From 14.5°C to 15.5°C at 760 mm of Hg",
+        "(b) From 98.5°C to 99.5°C at 760 mm of Hg",
+        "(c) From 13.5°C to 14.5°C at 76 mm of Hg",
+        "(d) From 3.5°C to 4.5°C at 76 mm of Hg"
+      ]
+    },
+    {
+      "question_number": 56,
+      "question": "Water of volume 2 L in a container is heated with a coil of 1 kW at 27°C. The lid of the container is open and energy dissipates at a rate of 160 J/s. In how much time temperature will rise from 27°C to 77°C? [Specific heat of water is 4.2 kJ/kg°C]",
+      "year": 2005,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 8 min 20 s",
+        "(b) 6 min 2 s",
+        "(c) 7 min",
+        "(d) 14 min"
+      ]
+    },
+    {
+      "question_number": 57,
+      "question": "In which of the following process, convection does not take place primarily?",
+      "year": 2005,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) Sea and land breeze",
+        "(b) Boiling of water",
+        "(c) Warming of air due to bulb",
+        "(d) Heating air around a furnace"
+      ]
+    },
+    {
+      "question_number": 58,
+      "question": "An ideal gas is expanding such that pT² = constant. The coefficient of volume expansion of the gas is",
+      "year": 2008,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1/T",
+        "(b) 2/T",
+        "(c) 3/T",
+        "(d) 4/T"
+      ]
+    },
+    {
+      "question_number": 59,
+      "question": "A real gas behaves like an ideal gas if",
+      "year": 2010,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) pressure and temperature are both high",
+        "(b) pressure and temperature are both low",
+        "(c) pressure is high and temperature is low",
+        "(d) pressure is low and temperature is high"
+      ]
+    },
+    {
+      "question_number": 60,
+      "question": "5.6 L of helium gas at STP is adiabatically compressed to 0.7 L. Taking the initial temperature to be T₁, the work done in the process is",
+      "year": 2011,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (3/2) R T₁",
+        "(b) (2/3) R T₁",
+        "(c) (15/8) R T₁",
+        "(d) (9/2) R T₁"
+      ]
+    },
+    {
+      "question_number": 61,
+      "question": "Two moles of ideal helium gas are in a rubber balloon at 30°C. The balloon is fully expandable and can be assumed to require no energy in its expansion. The temperature of the gas in the balloon is slowly changed to 35°C. The amount of heat required in raising the temperature is nearly (take R = 8.31 J/mol-K)",
+      "year": 2012,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 62 J",
+        "(b) 104 J",
+        "(c) 124 J",
+        "(d) 208 J"
+      ]
+    },
+    {
+      "question_number": 62,
+      "question": "A mixture of 2 moles of helium gas (atomic mass = 4 amu) and 1 mole of argon gas (atomic mass = 40 amu) is kept at 300 K in a container. The ratio of the rms speeds √rms (helium) / √rms (argon) is",
+      "year": 2012,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 0.32",
+        "(b) 0.45",
+        "(c) 2.24",
+        "(d) 3.16"
+      ]
+    },
+    {
+      "question_number": 63,
+      "question": "Three very large plates of same area are kept parallel and close to each other. They are considered as ideal black surfaces and have very high thermal conductivity. The first and third plates are maintained at temperatures 2T and 3T respectively. The temperature of the middle (i.e. second) plate under steady state condition is",
+      "year": 2012,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (65/2) T",
+        "(b) (97/4) T",
+        "(c) (1/2) T",
+        "(d) (97/7) T"
+      ]
+    },
+    {
+      "question_number": 64,
+      "question": "Two rectangular blocks, having identical dimensions, can be arranged either in configuration I or in configuration II as shown in the figure. One of the blocks has thermal conductivity K and the other 2K. The temperature difference between the ends along the X-axis is the same in both the configurations. It takes 9s to transport a certain amount of heat from the hot end to the cold end in the configuration I. The time to transport the same amount of heat in the configuration II is",
+      "year": 2013,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 2.0 s",
+        "(b) 3.0 s",
+        "(c) 4.5 s",
+        "(d) 6.0 s"
+      ],
+      "images":["arihant_images_ch11/arihant_7.png"]
+    },
+    {
+      "question_number": 65,
+      "question": "If a piece of metal is heated to temperature θ and then allowed to cool in a room which is at temperature θ₀. The graph between the temperature T of the metal and time t will be closest to",
+      "year": 2013,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) [Graph A]",
+        "(b) [Graph B]",
+        "(c) [Graph C]",
+        "(d) [Graph D]"
+      ]
+    },
+    {
+      "question_number": 66,
+      "question": "Two non-reactive monoatomic ideal gases have their atomic masses in the ratio 2 : 3. The ratio of their partial pressures, when enclosed in a vessel kept at a constant temperature, is 4 : 3. The ratio of their densities is",
+      "year": 2013,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1 : 4",
+        "(b) 1 : 2",
+        "(c) 6 : 9",
+        "(d) 8 : 9"
+      ]
+    },
+    {
+      "question_number": 67,
+      "question": "The shown p-V diagram represents the thermodynamic cycle of an engine, operating with an ideal monoatomic gas. The amount of heat, extracted from the source in a single cycle is",
+      "year": 2013,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) P₀V₀",
+        "(b) (13/2) P₀V₀",
+        "(c) (11/2) P₀V₀",
+        "(d) 4P₀V₀"
+      ],
+      "images":["arihant_images_ch11/arihant_8.png"]
+    },
+    {
+      "question_number": 68,
+      "question": "An ideal gas enclosed in a vertical cylindrical container supports a freely moving piston of mass M. The piston and the cylinder have equal cross-sectional area A. When the piston is in equilibrium, the volume of the gas is V₀ and its pressure is p₀. The piston is slightly displaced from the equilibrium position and released. Assuming that the system is completely isolated from its surrounding, the piston executes a simple harmonic motion with frequency",
+      "year": 2013,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (1/2π) √(Aγp₀ / MV₀)",
+        "(b) (1/2π) √(γp₀ / A²V₀)",
+        "(c) (1/2π) √(A²γp₀ / MV₀)",
+        "(d) (1/2π) √(MV₀ / Aγp₀)"
+      ]
+    },
+    {
+      "question_number": 69,
+      "question": "Three rods of copper, brass and steel are welded together to form a Y-shaped structure. Area of cross-section of each rod is 4 cm². End of copper rod is maintained at 100°C whereas ends of brass and steel are kept at 0°C. Lengths of the copper, brass and steel rods are 46, 13 and 12 cm respectively.",
+      "year": 2014,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) Heat flow only through copper and brass",
+        "(b) Heat flow only through copper and steel",
+        "(c) Heat flow equally through all three rods",
+        "(d) Heat flow more through brass than steel"
+      ]
+    },
+    {
+      "question_number": 70,
+      "question": "Parallel rays of light of intensity I = 912 W/m² are incident on a spherical black body kept in surroundings of temperature 300 K. Take Stefan constant σ = 5.7 × 10⁻⁸ W/m² K⁴ and assume that the energy exchange with the surroundings is only through radiation. The final steady state temperature of the black body is close to",
+      "year": 2014,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 330 K",
+        "(b) 660 K",
+        "(c) 990 K",
+        "(d) 1550 K"
+      ]
+    },
+    {
+      "question_number": 71,
+      "question": "One mole of diatomic ideal gas undergoes a cyclic process ABCA as shown in figure. The process BC is adiabatic. The temperatures at A, B and C are 400 K, 800 K and 600 K respectively. Choose the correct statement.",
+      "year": 2014,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) The change in internal energy in whole cyclic process is 250 R",
+        "(b) The change in internal energy in the process CA is 700 R",
+        "(c) The change in internal energy in the process AB is –350 R",
+        "(d) The change in internal energy in the process BC is –500 R"
+      ],
+      "images":["arihant_images_ch11/arihant_9.png"]
+    },
+    {
+      "question_number": 72,
+      "question": "A pendulum clock loses 12 s a day if the temperature is 40°C and gains 4 s a day if the temperature is 20°C. The temperature at which the clock will show correct time, and the coefficient of linear expansion α of the metal of the pendulum shaft are, respectively.",
+      "year": 2016,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 25°C, α = 1.85 × 10⁻⁵ /°C",
+        "(b) 60°C, α = 1.85 × 10⁻⁴ /°C",
+        "(c) 30°C, α = 1.85 × 10⁻³ /°C",
+        "(d) 55°C, α = 1.85 × 10⁻² /°C"
+      ]
+    },
+    {
+      "question_number": 73,
+      "question": "An ideal gas undergoes a quasi static, reversible process in which its molar heat capacity C remains constant. If during this process the relation of pressure and volume V is given by pVⁿ = constant, then n is given by (Here, Cp and Cv are molar specific heat at constant pressure and constant volume, respectively)",
+      "year": 2016,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) n = Cp / Cv",
+        "(b) n = C – Cv / C – Cp",
+        "(c) n = Cp – C / C – Cv",
+        "(d) n = Cv – C / C – Cp"
+      ]
+    },
+    {
+      "question_number": 74,
+      "question": "n moles of an ideal gas undergoes a process A and B as shown in the figure. The maximum temperature of the gas during the process will be",
+      "year": 2016,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 9 P₀V₀ / 4 nR",
+        "(b) 3 P₀V₀ / 2 nR",
+        "(c) 9 P₀V₀ / 2 nR",
+        "(d) 9 P₀V₀ / nR"
+      ],
+      "images":["arihant_images_ch11/arihant_10.png"]
+    },
+    {
+      "question_number": 75,
+      "question": "A copper ball of mass 100 g is at a temperature T. It is dropped in a copper calorimeter of mass 100 g, filled with 170 g of water at room temperature. Subsequently, the temperature of the system is found to be 75°C. T is (Given, room temperature = 30°C, specific heat of copper = 0.1 cal/g°C)",
+      "year": 2017,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 885°C",
+        "(b) 1250°C",
+        "(c) 825°C",
+        "(d) 800°C"
+      ]
+    },
+    {
+      "question_number": 76,
+      "question": "Cp and Cv are specific heats at constant pressure and constant volume, respectively. It is observed that Cp – Cv = a for hydrogen gas Cp – Cv = b for nitrogen gas. The correct relation between a and b is",
+      "year": 2017,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) a = b",
+        "(b) a = 14b",
+        "(c) a = 28b",
+        "(d) a = 1/14 b"
+      ]
+    },
+    {
+      "question_number": 77,
+      "question": "An external pressure p is applied on a cube at 0°C so that it is equally compressed from all sides. κ is the bulk modulus of the material of the cube and α is its coefficient of linear expansion. Suppose we want to bring the cube to its original size by heating. The temperature should be raised by",
+      "year": 2013,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) p / αK",
+        "(b) 3α / pK",
+        "(c) 3pκα",
+        "(d) p / 3αK"
+      ]
+    },
+    {
+      "question_number": 78,
+      "question": "The temperature of an open room of volume 30 m³ increases from 17°C to 27°C due to the sunshine. The atmospheric pressure in the room remains 1×10⁵ Pa. If nᵢ and n𝒻 are the number of molecules in the room before and after heating, then nᵢ − n𝒻 will be",
+      "year": 2017,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1.38 × 10²³",
+        "(b) 2.5 × 10²⁵",
+        "(c) −2.5 × 10²³",
+        "(d) −1.61 × 10²³"
+      ]
+    },
+    {
+      "question_number": 79,
+      "question": "The mass of a hydrogen molecule is 3.32 × 10⁻²⁷ kg. If 10¹³ hydrogen molecules strike per second, a fixed wall of area 2 cm² at an angle of 45° to the normal and rebound elastically with a speed of 10³ m/s, then the pressure on the wall is nearly",
+      "year": 2018,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 2.35 × 10⁴ N/m²",
+        "(b) 2.35 × 10³ N/m²",
+        "(c) 4.70 × 10² N/m²",
+        "(d) 2.35 × 10² N/m²"
+      ]
+    },
+    {
+      "question_number": 80,
+      "question": "Two moles of an ideal monoatomic gas occupies a volume V at 27°C. The gas expands adiabatically to a volume 2V. Calculate (i) the final temperature of the gas and (ii) change in its internal energy.",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (i) 195 K (ii) −2.7 kJ",
+        "(b) (i) 189 K (ii) −2.7 kJ",
+        "(c) (i) 195 K (ii) −2.1 kJ",
+        "(d) (i) 189 K (ii) −2.1 kJ"
+      ]
+    },
+    {
+      "question_number": 81,
+      "question": "A cylinder of radius R is surrounded by a cylindrical shell of inner radius R and outer radius 2R. The thermal conductivity of the material of the inner cylinder is K₁ and that of the outer cylinder is K₂. Assuming no loss of heat, the effective thermal conductivity of the system for heat flowing along the length of the cylinder is",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (K₁ + K₂) / 2",
+        "(b) (K₁ + 3K₂) / 4",
+        "(c) K₁ + K₂",
+        "(d) (2K₁ + 3K₂) / 5"
+      ]
+    },
+    {
+      "question_number": 82,
+      "question": "When M₁ gram of ice at –10°C (specific heat = 0.5 cal g⁻¹°C⁻¹) is added to M₂ gram of water at 50°C, finally no ice is left and the water is at 0°C. The value of latent heat of ice, in cal g⁻¹ is",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (50M₂ / M₁) − 5",
+        "(b) (50M₁ / M₂) − 5",
+        "(c) 50M₂ / M₁",
+        "(d) (5M₂ − 5) / M₁"
+      ]
+    },
+    {
+      "question_number": 83,
+      "question": "A thermally insulated vessel contains 150 g of water at 0°C. Then, the air from the vessel is pumped out adiabatically. A fraction of water turns into ice and the rest evaporates at 0°C itself. The mass of evaporated water will be closest to (Latent heat of vaporisation of water = 2.10 × 10⁶ J/kg⁻¹ and latent heat of fusion of water = 3.36 × 10⁵ J/kg⁻¹)",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 150 g",
+        "(b) 20 g",
+        "(c) 130 g",
+        "(d) 35 g"
+      ]
+    },
+    {
+      "question_number": 84,
+      "question": "When 100 g of a liquid A at 100°C is added to 50 g of a liquid B at temperature 75°C, the temperature of the mixture becomes 90°C. The temperature of the mixture, if 100 g of liquid A at 100°C is added to 50 g of liquid B at 50°C will be",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 60°C",
+        "(b) 80°C",
+        "(c) 70°C",
+        "(d) 85°C"
+      ]
+    },
+    {
+      "question_number": 85,
+      "question": "In a process, temperature and volume of one mole of an ideal monoatomic gas are varied according to the relation VT = k, where k is a constant. In this process, the temperature of the gas is increased by ΔT. The amount of heat absorbed by gas is (where, R is gas constant)",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (1/2) kRΔT / T",
+        "(b) (2/3) kRΔT / T",
+        "(c) (1/2) RΔT",
+        "(d) (2/3) RΔT"
+      ]
+    },
+    {
+      "question_number": 86,
+      "question": "A metal ball of mass 0.1 kg is heated upto 500°C and dropped into a vessel of heat capacity 80 J K⁻¹ and containing 0.5 kg water. The initial temperature of water and vessel is 30°C. What is the approximate percentage increment in the temperature of the water? [Take, specific heat capacities of water and metal are respectively 4200 J kg⁻¹ K⁻¹ and 400 J kg⁻¹ K⁻¹]",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 25%",
+        "(b) 15%",
+        "(c) 5%",
+        "(d) 20%"
+      ]
+    },
+    {
+      "question_number": 87,
+      "question": "Ice at −20°C is added to 50 g of water at 40°C. When the temperature of the mixture reaches 0°C, it is found that 20 g of ice is still unmelted. The amount of ice added to the water was close to (Take, specific heat of water = 4.2 J/g°C, specific heat of ice = 2.1 J/g°C and heat of fusion of water at 0°C = 334 J/g)",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 40 g",
+        "(b) 50 g",
+        "(c) 60 g",
+        "(d) 100 g"
+      ]
+    },
+    {
+      "question_number": 88,
+      "question": "An unknown metal of mass 192 g heated to a temperature of 100°C was immersed into a brass calorimeter of mass 128 g containing 240 g of water at a temperature of 84°C. Calculate the specific heat of the unknown metal, if water temperature stabilizes at 21.5°C. (Take, specific heat of brass is 394 J kg⁻¹K⁻¹)",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 916 J kg⁻¹ K⁻¹",
+        "(b) 654 J kg⁻¹ K⁻¹",
+        "(c) 1232 J kg⁻¹ K⁻¹",
+        "(d) 458 J kg⁻¹ K⁻¹"
+      ]
+    },
+    {
+      "question_number": 89,
+      "question": "A uniform cylindrical rod of length L and radius r, is made from a material whose Young’s modulus of elasticity equals Y. When this rod is heated by temperature T and simultaneously subjected to a net longitudinal compressional force F, its length remains unchanged. The coefficient of volume expansion of the material of the rod is (nearly) equal to",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 9F / (πr²YT)",
+        "(b) 6F / (πr²YT)",
+        "(c) 3F / (πr²YT)",
+        "(d) F / (3πr²YT)"
+      ]
+    },
+    {
+      "question_number": 90,
+      "question": "At 40°C, a brass wire of 1 mm radius is hung from the ceiling. A small mass M is hung from the free end of the wire. When the wire is cooled down from 40°C to 20°C, it regains its original length of 0.2 m. The value of M is close to [Coefficient of linear expansion and Young’s modulus of brass are 10⁻⁵/°C and 10¹¹ N/m² respectively, g = 10 m/s²]",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 0.9 kg",
+        "(b) 0.5 kg",
+        "(c) 1.5 kg",
+        "(d) 0.9 kg"
+      ]
+    },
+    {
+      "question_number": 91,
+      "question": "Two rods A and B of identical dimensions are at temperature 30°C. If A is heated upto 180°C and B upto 7°C, then new lengths are the same. If the ratio of the coefficients of linear expansion of A and B is 4 : 3, then the value of T is",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 230°C",
+        "(b) 270°C",
+        "(c) 250°C",
+        "(d) 250°C"
+      ]
+    },
+    {
+      "question_number": 92,
+      "question": "Two materials having coefficients of thermal conductivity 3K’ and K’ and thicknesses ‘d’ and ‘3d’ respectively, are joined to form a slab as shown in the figure. The temperatures of the outer surfaces are θ₂ and θ₁ respectively, (θ₂ > θ₁). The temperature at the interface is",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (θ₂ + θ₁) / 2",
+        "(b) (θ₁ + 2θ₂) / 3",
+        "(c) (θ₁ + θ₂) / 2",
+        "(d) (θ₁ + 3θ₂) / 4"
+      ],
+      "images":["arihant_images_ch11/arihant_11.png"]
+    },
+    {
+      "question_number": 93,
+      "question": "Two identical beakers A and B contain equal volumes of two different liquids at 60°C each and left to cool down. Liquid in A has density of 8 × 10² kg/m³ and specific heat of 2000 J/kg-K while liquid in B has density of 10³ kg/m³ and specific heat of 4000 J/kg-K. Which of the following best describes their temperature versus time graph schematically? (Assume the emissivity of both the beakers to be the same)",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) figure (a)",
+        "(b) figure (b)",
+        "(c) figure (c)",
+        "(d) figure (d)"
+      ]
+    },
+    {
+      "question_number": 94,
+      "question": "Temperature difference of 120°C is maintained between two ends of a uniform rod AB of length 2L. Another bent rod PQ, of same cross-section as AB and length 3L/2 is connected across AB (see figure). In steady state, temperature difference between P and Q will be close to",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 45°C",
+        "(b) 35°C",
+        "(c) 75°C",
+        "(d) 60°C"
+      ],
+      "images":["arihant_images_ch11/arihant_12.png"]
+    },
+    {
+      "question_number": 95,
+      "question": "A diatomic gas with rigid molecules does 10 J of work when expanded at constant pressure. What would be the heat energy absorbed by the gas, in this process?",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 25 J",
+        "(b) 35 J",
+        "(c) 30 J",
+        "(d) 40 J"
+      ]
+    },
+    {
+      "question_number": 96,
+      "question": "Two moles of helium gas is mixed with three moles of hydrogen molecules (assumed rigid and non-vibrating). What is the molar specific heat of mixture at constant volume? [Take, R = 8.3 J/mol-K]",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 19.7 J/mol-K",
+        "(b) 15.7 J/mol-K",
+        "(c) 17.4 J/mol-K",
+        "(d) 21.6 J/mol-K"
+      ]
+    },
+    {
+      "question_number": 97,
+      "question": "One mole of an ideal gas passes through a process, where pressure and volume obey the relation p = p₀[1 − (V₀ / V)²]. Here, p₀ and V₀ are constants. Calculate the change in the temperature of the gas, if its volume changes from V₀ to 2V₀.",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (1/2) p₀V₀ / R",
+        "(b) (1/4) p₀V₀ / R",
+        "(c) (3/4) p₀V₀ / R",
+        "(d) (5/8) p₀V₀ / R"
+      ]
+    },
+    {
+      "question_number": 98,
+      "question": "A cylinder with fixed capacity of 67.2 L contains helium gas at STP. The amount of heat needed to raise the temperature of the gas by 20°C is (Take, R = 8.31 J mol⁻¹K⁻¹)",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 700 J",
+        "(b) 748 J",
+        "(c) 374 J",
+        "(d) 350 J"
+      ]
+    },
+    {
+      "question_number": 99,
+      "question": "The specific heats, Cp and Cv of a gas of diatomic molecules, A are given (in units of J mol⁻¹ K⁻¹) by 29 and 22, respectively. Another gas of diatomic molecules, B, has the corresponding values 30 and 21. If they are treated as ideal gases, then",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) A has a vibrational mode but B has none",
+        "(b) Both A and B have a vibrational mode each",
+        "(c) A has one vibrational mode and B has two",
+        "(d) A is rigid but B has a vibrational mode"
+      ]
+    },
+    {
+      "question_number": 100,
+      "question": "An HCl molecule has rotational, translational and vibrational motions. If the rms velocity of HCl molecules in its gaseous phase is v, m is its mass and kB is Boltzmann constant, then its temperature will be",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) mv² / 3kB",
+        "(b) mv² / 7kB",
+        "(c) mv² / 5kB",
+        "(d) mv² / 6kB"
+      ]
+    },
+    {
+      "question_number": 101,
+      "question": "For a given gas at 1 atm pressure, rms speed of the molecules is 200 m/s at 127°C. At 2 atm pressure and at 227°C, the rms speed of the molecules will be",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 100√5 m/s",
+        "(b) 80 m/s",
+        "(c) 100 m/s",
+        "(d) 80√5 m/s"
+      ]
+    },
+    {
+      "question_number": 102,
+      "question": "The temperature, at which the root mean square velocity of hydrogen molecules equals their escape velocity from the earth, is closest to : [Boltzmann constant kB = 1.38 × 10⁻²³ J/K, Avogadro number NA = 6.02 × 10²³ /mol, Radius of earth = 6.4 × 10⁶ m, Gravitational acceleration on earth = 10 m/s²]",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 10⁴ K",
+        "(b) 650 K",
+        "(c) 3 × 10³ K",
+        "(d) 800 K"
+      ]
+    },
+    {
+      "question_number": 103,
+      "question": "An ideal gas occupies a volume of 2 m³ at a pressure of 3 × 10⁴ Pa. The energy of the gas is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 6 × 10⁴ J",
+        "(b) 10⁸ J",
+        "(c) 9 × 10⁴ J",
+        "(d) 3 × 10³ J"
+      ]
+    },
+    {
+      "question_number": 104,
+      "question": "A gas mixture consists of 3 moles of oxygen and 5 moles of argon at temperature T. Considering only translational and rotational modes, the total internal energy of the system is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 12 RT",
+        "(b) 15 RT",
+        "(c) 20 RT",
+        "(d) 4 RT"
+      ]
+    },
+    {
+      "question_number": 105,
+      "question": "2 kg of a monoatomic gas is at a pressure of 4 × 10⁴ N/m². The density of the gas is 8 kg/m³. What is the total thermal energy of the gas due to its thermal motion ?",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 10⁴ J",
+        "(b) 10³ J",
+        "(c) 10⁵ J",
+        "(d) 10⁶ J"
+      ]
+    },
+    {
+      "question_number": 106,
+      "question": "A 15 g mass of nitrogen gas is enclosed in a vessel at a temperature 27°C. Amount of heat transferred to the gas, so that rms velocity of molecules is doubled is about",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 10 kJ",
+        "(b) 0.9 kJ",
+        "(c) 14 kJ",
+        "(d) 36 kJ"
+      ]
+    },
+    {
+      "question_number": 107,
+      "question": "A mixture of 2 moles of helium gas (atomic mass = 4u) and 1 mole of argon gas (atomic mass = 40u) is kept at 300 K in a container. The ratio of their rms speeds is close to",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 0.32",
+        "(b) 2.24",
+        "(c) 3.16",
+        "(d) 0.45"
+      ]
+    },
+    {
+      "question_number": 108,
+      "question": "A Carnot engine has an efficiency of 1/6. When the temperature of the sink is reduced by 62°C, its efficiency is doubled. The temperatures of the source and the sink are respectively,",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 62°C, 124°C",
+        "(b) 99°C, 37°C",
+        "(c) 124°C, 62°C",
+        "(d) 97°C, 99°C"
+      ]
+    },
+    {
+      "question_number": 109,
+      "question": "A sample of an ideal gas is taken through the cyclic process abcda as shown in the figure. The change in the internal energy of the gas along the path ca is −180 J. The gas absorbs 250 J of heat along the path ab and 60 J along the path bc. The work done by the gas along the path abc is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 120 J",
+        "(b) 130 J",
+        "(c) 100 J",
+        "(d) 140 J"
+      ],
+      "images":["arihant_images_ch11/arihant_13.png"]
+    },
+    {
+      "question_number": 110,
+      "question": "When heat Q is supplied to a diatomic gas of rigid molecules, at constant volume, its temperature increases by ΔT. The heat required to produce the same change in temperature, at a constant pressure is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) (3/2) Q",
+        "(b) (5/3) Q",
+        "(c) (2/3) Q",
+        "(d) (7/5) Q"
+      ]
+    },
+    {
+      "question_number": 111,
+      "question": "n moles of an ideal gas with constant volume heat capacity Cv undergo an isobaric expansion by certain volume. The ratio of the work done in the process, to the heat supplied is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) (4nR) / (Cv + nR)",
+        "(b) (4nR) / (Cv − nR)",
+        "(c) (−nR) / (Cv − nR)",
+        "(d) (nR) / (Cv + nR)"
+      ]
+    },
+    {
+      "question_number": 112,
+      "question": "Following figure shows two processes A and B for a gas. If Q_A and Q_B are the amount of heat absorbed by the system in two cases, and ΔU_A and ΔU_B are changes in internal energies respectively, then",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) Q_A > Q_B, ΔU_A > ΔU_B",
+        "(b) Q_A < Q_B, ΔU_A > ΔU_B",
+        "(c) Q_A > Q_B, ΔU_A < ΔU_B",
+        "(d) Q_A < Q_B, ΔU_A < ΔU_B"
+      ],
+      "images":["arihant_images_ch11/arihant_14.png"]
+    },
+    {
+      "question_number": 113,
+      "question": "The given diagram shows four processes, i.e. isochoric, isobaric, isothermal and adiabatic. The correct assignment of the processes, in the same order is given by",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) d a b c",
+        "(b) d b a c",
+        "(c) a c b d",
+        "(d) a d c b"
+      ],
+      "images":["arihant_images_ch11/arihant_15.png"]
+    },
+    {
+      "question_number": 114,
+      "question": "For the given cyclic process CAB as shown for a gas, the work done is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 5 J",
+        "(b) 10 J",
+        "(c) 1 J",
+        "(d) 30 J"
+      ],
+      "images":["arihant_images_ch11/arihant_16.png"]
+    },
+    {
+      "question_number": 115,
+      "question": "In a process, temperature and volume of one mole of an ideal monoatomic gas are varied according to the relation VT = k, where k is a constant. In this process, the temperature of the gas is increased by ΔT. The amount of heat absorbed by gas is (where, R is gas constant)",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 1/2 kRΔT",
+        "(b) 2k/3 RΔT",
+        "(c) 1/2 RΔT",
+        "(d) 3/2 RΔT"
+      ]
+    },
+    {
+      "question_number": 116,
+      "question": "Half-mole of an ideal monoatomic gas is heated at constant pressure of 1 atm from 20°C to 90°C. Work done by gas is close to (Take, gas constant, R = 8.31 J/mol-K)",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 291 J",
+        "(b) 581 J",
+        "(c) 146 J",
+        "(d) 73 J"
+      ]
+    },
+    {
+      "question_number": 117,
+      "question": "Two Carnot engines A and B are operated in series. The first one, A receives heat at T₁ (= 600 K) and rejects to a reservoir at temperature T₂. The second engine B receives heat rejected by the first engine and in turn rejects to a heat reservoir at T₃ (= 400 K). Calculate the temperature T₂ if the work outputs of the two engines are equal.",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 600 K",
+        "(b) 500 K",
+        "(c) 400 K",
+        "(d) 300 K"
+      ]
+    },
+    {
+      "question_number": 118,
+      "question": "A gas can be taken from A to B via two different processes ACB and ADB. When path ACB is used 60 J of heat flows into the system and 30 J of work is done by the system. If path ADB is used work done by the system is 10 J the heat flow into the system in path ADB is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 80 J",
+        "(b) 40 J",
+        "(c) 100 J",
+        "(d) 20 J"
+      ],
+      "images":["arihant_images_ch11/arihant_17.png"]
+    },
+    {
+      "question_number": 119,
+      "question": "A thermometer graduated according to a linear scale reads a value x₀, when in contact with boiling water and x₀ / 3, when in contact with ice. What is the temperature of an object in °C, if this thermometer in the contact with the object reads x₀ / 2?",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 35",
+        "(b) 60",
+        "(c) 40",
+        "(d) 25"
+      ]
+    },
+    {
+      "question_number": 120,
+      "question": "A heat source at T = 10³ K is connected to another heat reservoir at T = 10² K by a copper slab which is 1 m thick. Given that the thermal conductivity of copper is 0.1 W K⁻¹ m⁻¹, the energy flux through it in the steady state is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 90 Wm⁻²",
+        "(b) 65 Wm⁻²",
+        "(c) 120 Wm⁻²",
+        "(d) 200 Wm⁻²"
+      ]
+    },
+    {
+      "question_number": 121,
+      "question": "If 10²² gas molecules each of mass 10⁻²⁶ kg collide with a surface (perpendicular to it) elastically per second over an area 1 m² with a speed 10³ m/s, the pressure exerted by the gas molecules will be of the order of",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 10⁴ N/m²",
+        "(b) 10⁸ N/m²",
+        "(c) 10³ N/m²",
+        "(d) 10⁶ N/m²"
+      ]
+    },
+    {
+      "question_number": 122,
+      "question": "A massless spring (k = 800 N/m), attached with a mass (500 g) is completely immersed in 1 kg of water at room temperature. The spring is stretched by 2 cm and released, so that it starts vibrating. What would be the order of magnitude of the change in the temperature of water when the vibrations stop completely? (Assume that the water container and spring receive negligible heat and specific heat of mass = 400 J/kg K, specific heat of water = 4184 J/kg K)",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 10⁴ K",
+        "(b) 10³ K",
+        "(c) 10⁻¹ K",
+        "(d) 10⁻⁵ K"
+      ]
+    },
+    {
+      "question_number": 123,
+      "question": "Consider a gas of triatomic molecules. The molecules are assumed to be triangular and made of massless rigid rods whose vertices are occupied by atoms. The internal energy of a mole of the gas at temperature T is",
+      "year": 2019,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) 5/2 RT",
+        "(b) 3/2 RT",
+        "(c) 9/2 RT",
+        "(d) 3 RT"
+      ],
+      "images":["arihant_images_ch11/arihant_18.png"]
+    },
+    {
+      "question_number": 124,
+      "question": "A balloon filled with helium (32°C and 1.7 atm) bursts. Immediately afterwards, the expansion of helium can be considered as",
+      "year": 2020,
+      "question_type": "Objective Questions I",
+      "options": [
+        "(a) irreversible isothermal",
+        "(b) irreversible adiabatic",
+        "(c) reversible adiabatic",
+        "(d) reversible isothermal"
+      ]
+    },
+    {
+      "question_number": 125,
+      "question": "When the wavelength of radiation falling on a metal is changed from 500 nm to 200 nm, the maximum kinetic energy of the photoelectrons becomes three times larger. The work function of the metal is close to",
+      "year": 2020,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 0.81 eV",
+        "(b) 1.02 eV",
+        "(c) 0.52 eV",
+        "(d) 0.61 eV"
+      ]
+    },
+    {
+      "question_number": 126,
+      "question": "For an ideal gas",
+      "year": 1989,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) the change in internal energy in a constant pressure process from temperature T₁ to T₂ is equal to nCᵥ(T₂−T₁), where Cᵥ is the molar heat capacity at constant volume and n the number of moles of the gas",
+        "(b) the change in internal energy of the gas and the work done by the gas are equal in magnitude in an adiabatic process",
+        "(c) the internal energy does not change in an isothermal process",
+        "(d) no heat is added or removed in an adiabatic process"
+      ]
+    },
+    {
+      "question_number": 127,
+      "question": "An ideal gas is taken from the state A (pressure p, volume V) to the state B (pressure p/2, volume 2V) along a straight line path in the p-V diagram. Select the correct statements from the following:",
+      "year": 1993,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) The work done by the gas in the process A to B exceeds the work that would be done by it if the system were taken from A to B along an isotherm",
+        "(b) In the T-V diagram, the path AB becomes a part of a parabola",
+        "(c) In the p-T diagram, the path AB becomes a part of a hyperbola",
+        "(d) In going from A to B, the temperature T of the gas first increases to a maximum value and then decreases"
+      ]
+    },
+    {
+      "question_number": 128,
+      "question": "From the following statements concerning ideal gas at any given temperature T, select the correct one(s):",
+      "year": 1995,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) The coefficient of volume expansion at constant pressure is the same for all ideal gases",
+        "(b) The average translational kinetic energy per molecule of oxygen gas is 3kT, k being Boltzmann constant",
+        "(c) The mean-free path of molecules increases with decrease in the pressure",
+        "(d) In a gaseous mixture, the average translational kinetic energy of the molecules of each component is different"
+      ]
+    },
+    {
+      "question_number": 129,
+      "question": "During the melting of a slab of ice at 273 K at atmospheric pressure",
+      "year": 1998,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) positive work is done by the ice-water system on the atmosphere",
+        "(b) positive work is done on the ice-water system by the atmosphere",
+        "(c) the internal energy of the ice-water increases",
+        "(d) the internal energy of the ice-water system decreases"
+      ]
+    },
+    {
+      "question_number": 130,
+      "question": "Let v̄, vᵣₘₛ and vₚ respectively denote the mean speed, root mean square speed and most probable speed of the molecules in an ideal monoatomic gas at absolute temperature T. The mass of a molecule is m. Then:",
+      "year": 1998,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) no molecule can have a speed greater than √2v̄",
+        "(b) no molecule can have speed less than vₚ√2",
+        "(c) vₚ < v̄ < vᵣₘₛ",
+        "(d) the average kinetic energy of a molecule is (3/4)mv²"
+      ]
+    },
+    {
+      "question_number": 131,
+      "question": "Cᵥ and Cₚ denote the molar specific heat capacities of a gas at constant volume and constant pressure, respectively. Then:",
+      "year": 2009,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) Cₚ - Cᵥ is larger for a diatomic ideal gas than for a monoatomic ideal gas",
+        "(b) Cₚ + Cᵥ is larger for a diatomic ideal gas than for a monoatomic ideal gas",
+        "(c) Cₚ / Cᵥ is larger for a diatomic ideal gas than for a monoatomic ideal gas",
+        "(d) Cᵥ - Cₚ is larger for a diatomic ideal gas than for a monoatomic ideal gas"
+      ]
+    },
+    {
+      "question_number": 132,
+      "question": "The figure shows the p-V plot of an ideal gas taken through a cycle ABCDA. The part ABC is a semi-circle and CDA is half of an ellipse. Then:",
+      "year": 2009,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) the process during the path A → B is isothermal",
+        "(b) heat flows out of the gas during the path B → C → D",
+        "(c) work done during the path A → B → C is zero",
+        "(d) positive work is done by the gas in the cycle ABCDA"
+      ],
+      "images":["arihant_images_ch11/arihant_19.png"]
+    },
+    {
+      "question_number": 133,
+      "question": "One mole of an ideal gas in initial state A undergoes a cyclic process ABCA, as shown in the figure. Its pressure at A is p₀. Choose the correct option(s) from the following:",
+      "year": 2010,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) Internal energies at A and B are the same",
+        "(b) Work done by the gas in process AB is p₀V₀ ln 4",
+        "(c) Pressure at C is p₀ / 4",
+        "(d) Temperature at C is T₀ / 4"
+      ],
+      "images":["arihant_images_ch11/arihant_20.png"]
+    },
+    {
+      "question_number": 134,
+      "question": "A container of fixed volume has a mixture of one mole of hydrogen and one mole of helium in equilibrium at temperature T. Assuming the gases are ideal, the correct statements is/are",
+      "year": 2015,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) The average energy per mole of the gas mixture is 2RT",
+        "(b) The ratio of speed of sound in the gas mixture to that in helium gas is √(6/5)",
+        "(c) The ratio of the rms speed of helium atoms to that of hydrogen molecules is 1/2",
+        "(d) The ratio of the rms speed of helium atoms to that of hydrogen molecules is 1/√2"
+      ]
+    },
+    {
+      "question_number": 135,
+      "question": "One mole of a monoatomic ideal gas undergoes a cyclic process as shown in the figure (where, V is the volume and T is the temperature). Which of the statements below is (are) true?",
+      "year": 2018,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) Process I is an isochoric process",
+        "(b) In process III, gas absorbs heat",
+        "(c) In process IV, gas releases heat",
+        "(d) Processes I and III are not isobaric"
+      ],
+      "images":["arihant_images_ch11/arihant_21.png"]
+    },
+    {
+      "question_number": 136,
+      "question": "Match the following for the given process.",
+      "year": 2006,
+      "question_type": "Match the Columns",
+      "options": [
+        "(A) Process J → K",
+        "(B) Process K → L",
+        "(C) Process L → M",
+        "(D) Process M → J"
+      ],
+      "matches": [
+        "(p) Q > 0",
+        "(q) W < 0",
+        "(r) W > 0",
+        "(s) Q < 0"
+      ],
+      "images":["arihant_images_ch11/arihant_22.png"]
+    },
+    {
+      "question_number": 137,
+      "question": "Column I gives some devices and Column II gives some processes on which the functioning of these devices depend. Match the devices in Column I with the processes in Column II.",
+      "year": 2007,
+      "question_type": "Match the Columns",
+      "options": [
+        "(A) Bimetallic strip",
+        "(B) Steam engine",
+        "(C) Incandescent lamp",
+        "(D) Electric fuse"
+      ],
+      "matches": [
+        "(p) Radiation from a hot body",
+        "(q) Energy conversion",
+        "(r) Melting",
+        "(s) Thermal expansion of solids"
+      ]
+    },
+    {
+      "question_number": 138,
+      "question": "A piece of ice (heat capacity = 2100 J kg⁻¹ °C⁻¹ and latent heat = 3.36 × 10⁵ J kg⁻¹) of mass m gram is at –5°C at atmospheric pressure. It is given 420 J of heat so that the ice starts melting. Finally when the ice-water mixture is in equilibrium, it is found that 1 g of ice has melted. Assuming there is no other heat exchange in the process, the value of m is",
+      "year": 2010,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 139,
+      "question": "Two spherical bodies A (radius 6 cm) and B (radius 18 cm) are at temperatures T₁ and T₂ respectively. The maximum intensity in the emission spectrum of A is at 500 nm and in that of B is at 1500 nm. Considering them to be black bodies, what will be the ratio of the rate of total energy radiated by A to that of B?",
+      "year": 2010,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 140,
+      "question": "A diatomic ideal gas is compressed adiabatically to 1/32 of its initial volume. If the initial temperature of the gas is Tᵢ (in kelvin) and the final temperature is aTᵢ, the value of a is",
+      "year": 2010,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 141,
+      "question": "Two spherical stars A and B emit black body radiation. The radius of A is 400 times that of B and A emits 10⁴ times the power emitted from B. The ratio (λₐ / λᵦ) of their wavelengths λₐ and λᵦ at which the peaks occur in their respective radiation curves is",
+      "year": 2015,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 142,
+      "question": "One mole of a monoatomic ideal gas undergoes an adiabatic expansion in which its volume becomes eight times its initial value. If the initial temperature of the gas is 100 K and the universal gas constant R = 8.0 J mol⁻¹ K⁻¹, the decrease in its internal energy in joule, is ..........",
+      "year": 2018,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 143,
+      "question": "A bakelite beaker has volume capacity of 500 cc at 30°C. When it is partially filled with Vₘ volume (at 30°C) of mercury, it is found that the unfilled volume of the beaker remains constant as temperature is varied. If γ(beaker) = 6 × 10⁻⁶ °C⁻¹ and γ(mercury) = 1.5 × 10⁻⁴ °C⁻¹, where γ is the coefficient of volume expansion, then Vₘ (in cc) is close to ..........",
+      "year": 2020,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 144,
+      "question": "A room is maintained at 20°C by a heater of resistance 20 Ω connected to 200 V mains. The temperature is uniform throughout the room and the heat is transmitted through a glass window of area 1 m² and thickness 0.2 cm. Calculate the temperature outside. Thermal conductivity of glass is 0.2 cal m⁻¹ s⁻¹ (°C)⁻¹ and mechanical equivalent of heat is 4.2 J cal⁻¹.",
+      "year": 1978,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 145,
+      "question": "A lead bullet just melts when stopped by an obstacle. Assuming that 25 per cent of the heat is absorbed by the obstacle, find the velocity of the bullet if its initial temperature is 27°C. (Melting point of lead = 327°C, specific heat of lead = 0.03 cal/g°C, latent heat of fusion of lead = 6 cal/g, J = 4.2 J/cal.)",
+      "year": 1981,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 146,
+      "question": "A solid sphere of copper of radius R and a hollow sphere of the same material of inner radius r and outer radius R are heated to the same temperature and allowed to cool in the same environment. Which of them starts cooling faster?",
+      "year": 1982,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 147,
+      "question": "An ideal gas is taken through a cyclic thermodynamic process through four steps. The amounts of heat involved in these steps are Q₁ = 5960 J, Q₂ = –5585 J, Q₃ = –2980 J and Q₄ = 3645 J respectively. The corresponding quantities of work involved are W₁ = 2200 J, W₂ = –825 J, W₃ = –1100 J and W₄ respectively. \n(a) Find the value of W₄. \n(b) What is the efficiency of the cycle?",
+      "year": 1994,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 148,
+      "question": "At 27°C two moles of an ideal monoatomic gas occupy a volume V. The gas expands adiabatically to a volume 2V. Calculate \n(a) the final temperature of the gas, \n(b) change in its internal energy, \n(c) the work done by the gas during this process.",
+      "year": 1996,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 149,
+      "question": "The temperature of 100 g of water is to be raised from 24°C to 90°C by adding steam to it. Calculate the mass of the steam required for this purpose. \n(Latent heat of fusion for water = 8 × 10⁴ cal/kg, specific heat of water = 10³ cal/kg-K).",
+      "year": 2001,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 150,
+      "question": "An ice cube of mass 0.1 kg at 0°C is placed in an isolated container which is at 227°C. The specific heat S of the container varies with temperature T according to the empirical relation S = 4 + BT, where A = 100 cal/kg-K and B = 2 × 10⁻² cal/kg-K². If the final temperature of the container is 27°C, determine the mass of the container.",
+      "year": 2001,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 151,
+      "question": "An insulated box containing a monoatomic gas of molar mass M moving with a speed v₀ is suddenly stopped. Find the increment in gas temperature as a result of stopping the box.",
+      "year": 2003,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 152,
+      "question": "A metal of mass 1 kg at constant atmospheric pressure and at initial temperature 20°C is given a heat of 20000 J. Find the following : \n(a) change in temperature, \n(b) work done and \n(c) change in internal energy. \n(Given, Specific heat = 400 J/kg/°C, coefficient of cubical expansion, γ = 9 × 10⁻⁵ /°C, density ρ = 9000 kg/m³, atmospheric pressure = 10⁵ N/m²)",
+      "year": 2005,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 153,
+      "question": "In an insulated vessel, 0.05 kg steam at 373 K and 0.45 kg of ice at 253 K are mixed. Find the final temperature of the mixture (in kelvin). \nGiven: \nL_fusion = 80 cal/g = 336 × 10³ J/kg, \nL_vaporisation = 540 cal/g = 2268 J/g, \nS_ice = 2100 J/kg K = 0.5 cal/g-K, \nS_water = 4200 J/kg K = 1 cal/g-K",
+      "year": 2006,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    }
+
+
+  ],
+  "section-2": [
+    {
+      "question_number": 3,
+      "question": "One mole of a monatomic ideal gas is taken along two cyclic processes E → F → G → E and E → F → H → E as shown in the p–V diagram.\nThe processes involved are purely isochoric, isobaric, isothermal or adiabatic.\nMatch the paths in List I with the magnitudes of the work done in List II and select the correct answer using the codes given below the lists.\n\nList I:\nP. G → E\nQ. G → H\nR. F → H\nS. F → G\n\nList II:\n1. 160 p₀V₀ ln 2\n2. 36 p₀V₀\n3. 24 p₀V₀\n4. 31 p₀V₀",
+      "year": 2013,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) P–4, Q–3, R–2, S–1",
+        "(b) P–4, Q–3, R–1, S–2",
+        "(c) P–3, Q–1, R–2, S–4",
+        "(d) P–1, Q–3, R–2, S–4"
+      ],
+      "images":["arihant_images_ch11/arihant_24.png"]
+    },
+    {
+      "question_number": 4,
+      "question": "Consider a spherical shell of radius R at temperature T. The black body radiation inside it can be considered as an ideal gas of photons with internal energy per unit volume u = U/V ∝ T⁴ and pressure p = (1/3)(U/V). If the shell now undergoes an adiabatic expansion, the relation between T and R is",
+      "year": 2015,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) T ∝ e⁻ᴿ",
+        "(b) T ∝ 1/R",
+        "(c) T ∝ e⁻³ᴿ",
+        "(d) T ∝ 1/R³"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "Consider an ideal gas confined in an isolated closed chamber. As the gas undergoes an adiabatic expansion, the average time of collision between molecules increases as V^q, where V is the volume of the gas. The value of q is (γ = Cp/Cv).",
+      "year": 2015,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (3γ + 5)/6",
+        "(b) (γ + 1)/2",
+        "(c) (3γ − 5)/6",
+        "(d) (γ − 1)/2"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "The ends Q and R of two thin wires, PQ and RS, are soldered together. Initially, each of the wire has a length of 1 m at 10°C. Now, the end P is maintained at 10°C, while the end S is heated and maintained at 400°C. The system is thermally insulated from its surroundings. If the thermal conductivity of wire PQ is twice that of the wire RS and the coefficient of linear thermal expansion of PQ is 1.2 × 10⁻⁵ K⁻¹, the change in length of the wire PQ is",
+      "year": 2016,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 0.78 mm",
+        "(b) 0.90 mm",
+        "(c) 1.56 mm",
+        "(d) 2.34 mm"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "An ideal gas is enclosed in a cylinder at pressure of 2 atm and temperature 300 K. The mean time between two successive collisions is 6 × 10⁻⁸ s. If the pressure is doubled and temperature is increased to 500 K, the mean time between two successive collisions will be close to",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 4 × 10⁻⁸ s",
+        "(b) 3 × 10⁻⁸ s",
+        "(c) 2 × 10⁻⁷ s",
+        "(d) 0.5 × 10⁻⁸ s"
+      ]
+    },
+    {
+      "question_number": 8,
+      "question": "A vertical closed cylinder is separated into two parts by a frictionless piston of mass m and of negligible thickness. The piston is free to move along the length of the cylinder. The length of the cylinder above the piston is l₁ and that below the piston is l₂, such that l₁ > l₂. Each part of the cylinder contains n moles of an ideal gas at equal temperature T. If the piston is stationary, its mass m, will be given by\n(where, R is universal gas constant and g is the acceleration due to gravity)",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) (nRT/g) × [(1/l₂) − (1/l₁)]",
+        "(b) (nRT/g) × [1/l₂ + 1/l₁]",
+        "(c) (g/RT) × [2l₁ + l₂ / l₁ l₂]",
+        "(d) (ng/RT) × [(l₁ − 3l₂)/(l₁ l₂)]"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "Three Carnot engines operate in series between a heat source at a temperature T₁ and a heat sink at temperature T₄ (see figure). There are two other reservoirs at temperatures T₂ and T₃, as shown with T₁ > T₂ > T₃ > T₄. The three engines are equally efficient if",
+      "year": 2019,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) T₂ = (T₁³T₃)^{1/4}, T₃ = (T₁T₄³)^{1/4}",
+        "(b) T₂ = (T₁²T₃)^{1/3}, T₃ = (T₁T₄²)^{1/3}",
+        "(c) T₂ = (T₁T₃)^{1/2}, T₃ = (T₁T₄)^{1/2}",
+        "(d) T₂ = (T₁T₄²)^{1/3}, T₃ = (T₁²T₄)^{1/3}"
+      ],
+      "images":["arihant_images_ch11/arihant_25.png"]
+    },
+    {
+      "question_number": 10,
+      "question": "Two bodies A and B have thermal emissivities of 0.01 and 0.81 respectively. The outer surface areas of the two bodies are the same. The two bodies emit total radiant power at the same rate. The wavelength λᵦ corresponding to maximum spectral radiancy in the radiation from B is shifted from the wavelength corresponding to maximum spectral radiancy in the radiation from A, by 1.00 μm. If the temperature of A is 5802 K,",
+      "year": 1994,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) the temperature of B is 1934 K",
+        "(b) λᵦ = 1.5 μm",
+        "(c) the temperature of B is 11604 K",
+        "(d) the temperature of B is 2901 K"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "A bimetallic strip is formed out of two identical strips—one of copper and the other of brass. The coefficients of linear expansion of the two metals are α_c and α_b. On heating, the temperature of the strip goes up by ΔT and the strip bends to form an arc of radius of curvature R. Then, R is",
+      "year": 1999,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) proportional to ΔT",
+        "(b) inversely proportional to ΔT",
+        "(c) proportional to |α_b − α_c|",
+        "(d) inversely proportional to |α_b − α_c|"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "A composite block is made of slabs A, B, C, D and E of different thermal conductivities (given in terms of a constant K) and sizes (given in terms of length L) as shown in the figure. All slabs are of same width. Heat Q flows only from left to right through the blocks. Then, in steady state",
+      "year": 2011,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) heat flow through A and E slabs are same",
+        "(b) heat flow through slab E is maximum",
+        "(c) temperature difference across slab E is smallest",
+        "(d) heat flow through C = heat flow through B + heat flow through D"
+      ],
+      "images":["arihant_images_ch11/arihant_26.png"]
+    },
+    {
+      "question_number": 13,
+      "question": "The figure below shows the variation of specific heat capacity (C) of a solid as a function of temperature (T). The temperature is increased continuously from 0 to 500 K at a constant rate. Ignoring any volume change, the following statement(s) is (are) correct to reasonable approximation.",
+      "year": 2013,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) the rate at which heat is absorbed in the range 0–100 K varies linearly with temperature T",
+        "(b) heat absorbed in increasing the temperature from 0–100 K is less than the heat required for increasing the temperature from 400–500 K",
+        "(c) there is no change in the rate of heat absorption in the range 400–500 K",
+        "(d) the rate of heat absorption increases in the range 200–300 K"
+      ],
+      "images":["arihant_images_ch11/arihant_27.png"]
+    },
+    {
+      "question_number": 14,
+      "question": "An ideal monoatomic gas is confined in a horizontal cylinder by a spring loaded piston (as shown in the figure). Initially the gas is at temperature T₁, pressure p₁ and volume V₁ and the spring is in its relaxed state. The gas is then heated very slowly to temperature T₂, pressure p₂ and volume V₂. During this process the piston moves out by a distance x. Ignoring the friction between the piston and the cylinder, the correct statements is/are",
+      "year": 2015,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) If V₂ = 2V₁ and T₂ = 3T₁, the energy stored in the spring is (1/4)p₁V₁",
+        "(b) If V₂ = 2V₁ and T₂ = 3T₁, then the change in internal energy is 3p₁V₁",
+        "(c) If V₂ = 3V₁ and T₂ = 4T₁, then the work done by the gas is (7/3)p₁V₁",
+        "(d) If V₂ = 3V₁ and T₂ = 4T₁, then the heat supplied to the gas is (17/6)p₁V₁"
+      ],
+      "images":["arihant_images_ch11/arihant_28.png"]
+    },
+    {
+      "question_number": 20,
+      "question": "Column I contains a list of processes involving expansion of an ideal gas. Match this with Column II describing the thermodynamic change during this process.",
+      "year": 2008,
+      "question_type": "match_the_columns",
+      "column_I": {
+        "A": "An insulated container has two chambers separated by a valve. Chamber I contains an ideal gas and the Chamber II has vacuum. The valve is opened.",
+        "B": "An ideal monoatomic gas expands to twice its original volume such that its pressure p ∝ 1/V², where V is the volume of the gas.",
+        "C": "An ideal monoatomic gas expands to twice its original volume such that its pressure p ∝ 1/V^{4/3}, where V is its volume.",
+        "D": "An ideal monoatomic gas expands such that its pressure p and volume V follow the behaviour shown in the graph (from V₁ to 2V₁ with p increasing)."
+      },
+      "column_II": {
+        "p": "The temperature of the gas decreases",
+        "q": "The temperature of the gas increases or remains constant",
+        "r": "The gas loses heat",
+        "s": "The gas gains heat"
+      },
+      "images":["arihant_images_ch11/arihant_29.png","arihant_images_ch11/arihant_30.png"]
+    },
+    {
+      "question_number": 25,
+      "question": "A metal rod AB of length 10x has its one end A in ice at 0°C and the other end B in water at 100°C. If a point P on the rod is maintained at 40°C, then it is found that equal amounts of water and ice evaporate and melt per unit time. The latent heat of evaporation of water is 540 cal g⁻¹ and latent heat of melting of ice is 80 cal g⁻¹. (Neglect any heat loss to the surrounding.) If the point P is at a distance of λx from the ice end A, find the value of λ.",
+      "year": 2009,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 26,
+      "question": "Steel wire of length L at 40°C is suspended from the ceiling and then a mass m is hung from its free end. The wire is cooled down from 40°C to 30°C to regain its original length L. The coefficient of linear thermal expansion of the steel is 10⁻⁵/°C, Young’s modulus of steel is 10¹¹ N/m² and radius of the wire is 1 mm. Assume that L >> diameter of the wire. Then the value of m in kg is nearly",
+      "year": 2011,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 27,
+      "question": "A thermodynamic system is taken from an initial state i with internal energy Uᵢ = 100 J to the final state f along two different paths iaf and ibf, as schematically shown in the figure. The work done by the system along the paths af, ib and bf are W_af = 200 J, W_ib = 50 J and W_bf = 100 J respectively. The heat supplied to the system along the path iaf, ib and bf are Q_iaf, Q_ib and Q_bf respectively. If the internal energy of the system in the state b is U_b = 200 J and Q_iaf = 500 J, the ratio Q_bf / Q_ib is",
+      "year": 2014,
+      "question_type": "Integer Answer Type Questions",
+      "options": [],
+      "images":["arihant_images_ch11/arihant_36.png"]
+    },
+    {
+      "question_number": 28,
+      "question": "A metal is heated in a furnace where a sensor is kept above the metal surface to read the power radiated (P) by the metal. The sensor has a scale that displays log₁₀(P / P₀), where P₀ is a constant. When the metal surface is at a temperature of 487°C, the sensor shows a value 1. Assume that the emissivity of the metallic surface remains constant. What is the value displayed by the sensor when the temperature of metal surface is raised to 2767°C?",
+      "year": 2016,
+      "question_type": "Integer Answer Type Questions",
+      "options": []
+    },
+    {
+      "question_number": 29,
+      "question": "Two conducting cylinders of equal length but different radii are connected in series between two heat baths kept at temperatures T₁ = 300 K and T₂ = 100 K, as shown in the figure. The radius of the bigger cylinder is twice that of the smaller one and the thermal conductivities of the materials of the smaller and the larger cylinders are K₁ and K₂, respectively. If the temperature at the junction of the cylinders in the steady state is 200 K, then K₁ / K₂ = ..........",
+      "year": 2018,
+      "question_type": "Integer Answer Type Questions",
+      "options": [],
+      "images":["arihant_images_ch11/arihant_37.png"]
+    },
+    {
+      "question_number": 30,
+      "question": "A sinker of weight w₀ has an apparent weight w₁ when placed in a liquid at a temperature T₁ and w₂ when weighed in the same liquid at a temperature T₂. The coefficient of cubical expansion of the material of the sinker is β. What is the coefficient of volume expansion of the liquid?",
+      "year": 1978,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 31,
+      "question": "A composite rod is made by joining a copper rod, end to end, with a second rod of different material but of the same cross-section. At 25°C, the composite rod is 1 m in length, of which the length of the copper rod is 30 cm. At 125°C the length of the composite rod increases by 1.91 cm.\n\nWhen the composite rod is not allowed to expand by holding it between two rigid walls, it is found that the length of the two constituents do not change with the rise of temperature. Find the Young’s modulus and the coefficient of linear expansion of the second rod.\n\n(Given, Coefficient of linear expansion of copper = 1.7 × 10⁻⁵/°C, Young’s modulus of copper = 1.3 × 10¹¹ N/m²)",
+      "year": 1979,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 32,
+      "question": "Calculate the work done when one mole of a perfect gas is compressed adiabatically. The initial pressure and volume of the gas are 10⁵ N/m² and 6 L respectively. The final volume of the gas is 2 L. Molar specific heat of the gas at constant volume is 3R/2.",
+      "year": 1982,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 33,
+      "question": "One gram mole of oxygen at 27°C and one atmospheric pressure is enclosed in a vessel. (a) Assuming the molecules to be moving with v_rms, find the number of collisions per second which the molecules make with one square meter area of the vessel wall. (b) The vessel is next thermally insulated and moved with a constant speed v₀. It is then suddenly stopped. The process results in a rise of the temperature of the gas by 1°C. Calculate the speed v₀.",
+      "year": 1983,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 34,
+      "question": "The rectangular box shown in figure has a partition which can slide without friction along the length of the box. Initially each of the two chambers of the box has one mole of a monoatomic ideal gas (γ = 5/3) at a pressure P₀, volume V₀ and temperature T₀. The chamber on the left is slowly heated by an electric heater. The walls of the box and the partition are thermally insulated. Heat loss through the lead wires of the heater is negligible. The gas in the left chamber expands pushing the partition until the final pressure in both chambers becomes 243 P₀/32.\nDetermine (a) the final temperature of the gas in each chamber and (b) the work done by the gas in the right chamber.",
+      "year": 1984,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": [],
+      "images":["arihant_images_ch11/arihant_38.png"]
+    },
+    {
+      "question_number": 35,
+      "question": "Two glass bulbs of equal volume are connected by a narrow tube and are filled with a gas at 0°C and a pressure of 76 cm of mercury. One of the bulbs is then placed in melting ice and the other is placed in a water bath maintained at 62°C. What is the new value of the pressure inside the bulbs? The volume of the connecting tube is negligible.",
+      "year": 1985,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 36,
+      "question": "An electric heater is used in a room of total wall area 137 m² to maintain a temperature of +20°C inside it, when the outside temperature is −10°C. The walls have three different layers. The innermost layer is of wood of thickness 2.5 cm, the middle layer is of cement of thickness 1.0 cm and the outermost layer is of brick of thickness 25.0 cm. Find the power of the electric heater. Assume that there is no heat loss through the floor and the ceiling. The thermal conductivities of wood, cement and brick are 0.125, 1.5 and 1.0 W/m/°C respectively.",
+      "year": 1986,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 37,
+      "question": "A thin tube of uniform cross-section is sealed at both ends. It lies horizontally, the middle 5 cm containing mercury and the two equal ends containing air at the same pressure p. When the tube is held at an angle of 60° with the vertical direction, the length of the air column above and below the mercury column are 46 cm and 44.5 cm respectively. Calculate the pressure p in centimetre of mercury. (The temperature of the system is kept at 30°C).",
+      "year": 1986,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 38,
+      "question": "An ideal gas has a specific heat at constant pressure Cₚ = 5R/2. The gas is kept in a closed vessel of volume 0.0083 m³, at a temperature of 300 K and a pressure of 1.6 × 10⁶ N/m². An amount of 2.49 × 10⁴ J of heat energy is supplied to the gas. Calculate the final temperature and pressure of the gas.",
+      "year": 1987,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 39,
+      "question": "Two moles of helium gas (γ = 5/3) are initially at temperature 27°C and occupy a volume of 20 L. The gas is first expanded at constant pressure until the volume is doubled. Then it undergoes an adiabatic change until the temperature returns to its initial value.\n(a) Sketch the process on a p–V diagram.\n(b) What are the final volume and pressure of the gas?\n(c) What is the work done by the gas?",
+      "year": 1988,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 40,
+      "question": "An ideal monoatomic gas is confined in a cylinder by a spring-loaded piston of cross-section 8.0 × 10⁻³ m². Initially the gas is at 300 K and occupies a volume of 2.4 × 10⁻³ m³ and the spring is in its relaxed (unstretched, uncompressed) state. The gas is heated by a small electric heater until the piston moves out slowly by 0.1 m.\n\nCalculate the final temperature of the gas and the heat supplied (in joules) by the heater. The force constant of the spring is 8000 N/m, and the atmospheric pressure is 2.0 × 10⁵ N/m². The cylinder and the piston are thermally insulated. The piston is massless and there is no friction between the piston and the cylinder. Neglect heat loss through the lead wires of the heater. The heat capacity of the heater coil is negligible. Assume the spring to be massless.",
+      "year": 1989,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": [],
+      "images":["arihant_images_ch11/arihant_39.png"]
+    },
+    {
+      "question_number": 41,
+      "question": "An ideal gas having initial pressure p, volume V and temperature T is allowed to expand adiabatically until its volume becomes 5.66 V while its temperature falls to T/2.\n\n(a) How many degrees of freedom do gas molecules have?\n(b) Obtain the work done by the gas during the expansion as a function of the initial pressure p and volume V.",
+      "year": 1990,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 42,
+      "question": "Three moles of an ideal gas (Cₚ = (7/2)R) at pressure pₐ and temperature Tₐ is isothermally expanded to twice its initial volume. It is then compressed at constant pressure to its original volume. Finally gas is compressed at constant volume to its original pressure pₐ.\n\n(a) Sketch p–V and p–T diagrams for the complete process.\n(b) Calculate the net work done by the gas, and net heat supplied to the gas during the complete process.",
+      "year": 1991,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 43,
+      "question": "Two moles of helium gas undergo a cyclic process as shown in figure. Assuming the gas to be ideal, calculate the following quantities in this process:\n(a) The net change in the heat energy.\n(b) The net work done.\n(c) The net change in internal energy.",
+      "year": 1992,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": [],
+      "images":["arihant_images_ch11/arihant_40.png"]
+    },
+    {
+      "question_number": 44,
+      "question": "A cylindrical block of length 0.4 m and area of cross-section 0.04 m² is placed coaxially on a thin metal disc of mass 0.4 kg and of the same cross-section. The upper face of the cylinder is maintained at a constant temperature of 400 K and the initial temperature of the disc is 300 K. If the thermal conductivity of the material of the cylinder is 10 W/mK and the specific heat capacity of the material of the disc is 600 J/kg-K, how long will it take for the temperature of the disc to increase to 350 K? Assume, for purposes of calculation, the thermal conductivity of the disc to be very high and the system to be thermally insulated except for the upper face of the cylinder.",
+      "year": 1992,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 45,
+      "question": "One mole of a monoatomic ideal gas is taken through the cycle shown in figure\nA → B : adiabatic expansion\nB → C : cooling at constant volume\nC → D : adiabatic compression\nD → A : heating at constant volume.\n\nThe pressure and temperature at A, B, etc., are denoted by pₐ, Tₐ, pᵦ, Tᵦ etc., respectively. Given that, Tₐ = 1000 K, pᵦ = (2/3)pₐ and p𝒞 = (1/3)pₐ, calculate the following quantities:\n(a) The work done by the gas in the process A → B.\n(b) The heat lost by the gas in the process B → C.\n(c) The temperature Tᵦ.",
+      "year": 1993,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": [],
+      "images":["arihant_images_ch11/arihant_41.png"]
+    },
+    {
+      "question_number": 46,
+      "question": "A closed container of volume 0.02 m³ contains a mixture of neon and argon gases, at a temperature of 27°C and pressure of 1 × 10⁵ N/m². The total mass of the mixture is 28 g. If the molar masses of neon and argon are 20 and 40 g mol⁻¹ respectively, find the masses of the individual gases in the container assuming them to be ideal. (Universal gas constant R = 8.314 J/mol-K).",
+      "year": 1994,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 47,
+      "question": "A gaseous mixture enclosed in a vessel of volume V consists of one gram mole of gas A with γ = Cₚ/Cᵥ = 5/3 and another gas B with γ = 7/5 at a certain temperature T. The gram molecular weights of the gases A and B are 4 and 32 respectively. The gases A and B do not react with each other and are assumed to be ideal. The gaseous mixture follows the equation pV^1.19 = Constant, in adiabatic process.\n\n(a) Find the number of gram moles of the gas B in the gaseous mixture.\n(b) Compute the speed of sound in the gaseous mixture at 300 K.\n(c) If T is raised by 1 K from 300 K, find the percentage change in the speed of sound in the gaseous mixture.\n(d) The mixture is compressed adiabatically to 1/5 of its initial volume V. Find the change in its adiabatic compressibility in terms of the given quantities.",
+      "year": 1995,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    },
+    {
+      "question_number": 48,
+      "question": "The apparatus shown in figure consists of four glass columns connected by horizontal sections. The height of two central columns B and C are 49 cm each. The two outer columns A and D are open to the atmosphere. A and C are maintained at a temperature of 95°C while the columns B and D are maintained at 5°C. The height of the liquid in A and D measured from the base line are 52.8 cm and 51 cm respectively. Determine the linear coefficient of thermal expansion of the liquid.",
+      "year": 1997,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": [],
+      "images":["arihant_images_ch11/arihant_42.png"]
+    },
+    {
+      "question_number": 49,
+      "question": "A sample of 2 kg monoatomic helium (assumed ideal) is taken through the process ABC and another sample of 2 kg of the same gas is taken through the process ADC (see fig). Given molecular mass of helium = 4.\n\n(a) What is the temperature of helium in each of the states A, B, C and D?\n(b) Is there any way of telling afterwards which sample of helium went through the process ABC and which went through the process ADC? Write Yes or No.\n(c) How much is the heat involved in the process ABC and ADC?",
+      "year": 1997,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": [],
+      "images":["arihant_images_ch11/arihant_43.png"]
+    },
+    {
+      "question_number": 50,
+      "question": "One mole of a diatomic ideal gas (γ = 1.4) is taken through a cyclic process starting from point A. The process A → B is an adiabatic compression, B → C is isobaric expansion, C → D an adiabatic expansion and D → A is isochoric.\n\nThe volume ratio are V₄/V₃ = 16 and V₄/V₁ = 2 and the temperature at A is T₄ = 300K. Calculate the temperature of the gas at the points B and D and find the efficiency of the cycle.",
+      "year": 1997,
+      "question_type": "Analytical & Descriptive Questions",
+      "options": []
+    }
+
+  ]
+}

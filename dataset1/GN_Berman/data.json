@@ -1,0 +1,2178 @@
+[
+  {
+    "ID": "1",
+    "Questions": "The sum of the interior angles of a plane convex polygon is a function of the number of sides. What sort of numbers can the values of the argument be?\nSpecify this function analytically.",
+    "Answers": "All the positive integers except n = 1 and n = 2. If S is the sum of the angles, and n the number of sides, then S = π(n – 2)."
+  },
+  {
+    "ID": "4",
+    "Questions": "A function is given by the graph illustrated in Fig. 2. Use the graph to answer the following questions:\n(a) For what values of the independent variable does the function vanish?\n(b) For what values of the independent variable is the function positive?\n(c) For what values of the independent variable is the function negative?",
+    "Answers": "(a) The function vanishes for x = -2, x = 1, x = 6;\n(b) the function is positive for x < -2, -2 < x < 1, x > 6;\n(c) the function is negative for 1 < x < 6."
+  ,"images":["Img1/Berman_2.png"]},
+  {
+    "ID": "6",
+    "Questions": "Form the function expressing the dependence of the radius r of a cylinder on its height h for a given volume V (= 1). Work out the values of r for the following values of h: 0.5; 1; 1.5; 2; 2.5; 3; 3.5; 4; 4.5; 5. Draw the graph of the function.",
+    "Answers": "r = 1/√πh"
+  },
+  {
+    "ID": "7",
+    "Questions": "Write down the expression for the area of the isosceles trapezium with bases a and b as a function of the angle α at base a. Draw the graph of the function for a = 2, b = 1.",
+    "Answers": "S = (a² - b²)/4 * tan α."
+  },
+  {
+    "ID": "8",
+    "Questions": "Express the length b of one adjacent side of a right-angled triangle as a function of the length a of the other with constant hypotenuse c (= 5). Verify that the graph of the function is a quadrant of a circle.",
+    "Answers": "b = √25 - a²."
+  },
+  {
+    "ID": "9",
+    "Questions": "Given the functions\n(a) f(x) = (x - 2)/(x + 1);\n(b) φ(x) = |x - 2|/(x + 1)\nFind: f(0); f(1); f(2); f(-2); f(-1/2); f(√2); f(1/2);\nφ(0); φ(1); φ(2); φ(-2); φ(4). Do f(-1), φ(-1) exist?",
+    "Answers": "f(0) = -2; f(1) = -0.5; f(2) = 0; f(-2) = 4; f(-1/2) = -5; f(√2) = -0.242, ..., |f(1/2)| = 1; φ(0) = 2; φ(1) = 0.5; φ(2) = 0; φ(-2) = -4; φ(4) = 0.4; f(-1) does not exist; φ(-1) does not exist."
+  },
+  {
+    "ID": "10",
+    "Questions": "Given the function\nf(u) = u³ - 1,\nfind: f(1); f(a); f(a + 1); f(a - 1); 2f(2a).",
+    "Answers": "f(1) = 0; f(a) = a³ - 1; f(a + 1) = a³ + 3a² + 3a; f(a - 1) = a³ - 3a² + 3a - 2; 2f(2a) = 16a³ - 2."
+  },
+  {
+    "ID": "11",
+    "Questions": "Given the functions\nF(z) = 2^(z-2) and φ(z) = 2^(|z|-2),\nfind: F(0); F(2); F(3); F(-1); F(2.5); F(-1.5) and\nφ(0); φ(2); φ(-1); φ(x); φ(-1) + F(1).",
+    "Answers": "F(0) = 1/4; F(2) = 1; F(3) = 2; F(-1) = 1/8; F(2.5) = √2;\nF(-1.5) = 1/√128; φ(0) = 1/4; φ(2) = 1; φ(-1) = 1/2; φ(x) = 2^(x-2) for x > 0 and φ(x) = 2^(-x-2) for x < 0; φ(-1) + F(1) = 1."
+  },
+  {
+    "ID": "12",
+    "Questions": "Given the function\nψ(t) = t^a,\nfind: ψ(0); ψ(1); ψ(-1); ψ(1/a); ψ(a); ψ(-a).",
+    "Answers": "ψ(0) = 0; ψ(1) = a; ψ(-1) = -1/a; ψ(1/a) = a^(1-a); ψ(a) = a^(a+1); ψ(-a) = -a^(1-a)."
+  },
+  {
+    "ID": "13",
+    "Questions": "φ(t) = t³ + 1. Find φ(t²) and [φ(t)]².",
+    "Answers": "φ(t²) = t⁶ + 1; [φ(t)]² = t⁶ + 2t³ + 1."
+  },
+  {
+    "ID": "20",
+    "Questions": "We are given the graph of function y = f(x) and the values a and b of the independent variable x (Fig. 3). Construct f(a) and f(b) on the figure. What is the geometric meaning of the ratio (f(b) - f(a))/(b - a)?",
+    "Answers": "(f(b) - f(a))/(b - a) is equal to the tangent of the angle between the secant through the points (a, f(a)) and (b, f(b)), and the positive direction of Ox."
+  ,"images":["Img1/Berman_3.png"]},
+  {
+    "ID": "22",
+    "Questions": "Given: f(x) = x² - 2x + 3. Find all the roots of the equations (a) f(x) = f(0); (b) f(x) = f(-1).",
+    "Answers": "(a) x₁ = 0, x₂ = 2; (b) x₁ = -1, x₂ = 3."
+  },
+  {
+    "ID": "23",
+    "Questions": "Given: f(x) = 2x³ - 5x² - 23x. Find all the roots of the equation f(x) = f(-2).",
+    "Answers": "x₁ = -2, x₂ = 5, x₃ = -1/2."
+  },
+  {
+    "ID": "24",
+    "Questions": "Given a function f(x), indicate a root of the equation f(x) = f(a).",
+    "Answers": "One root will always be x = a."
+  },
+  {
+    "ID": "25",
+    "Questions": "Indicate the roots of the equation f(x) = f((x+8)/3), if it is known that f(x) is defined in the interval [-5, 5].\nFind all the roots of the equation for the case when f(x) = x² - 12x + 3.",
+    "Answers": "4 and -2; -2, 2, 4, 10."
+  },
+  {
+    "ID": "26",
+    "Questions": "F(x) = x² + 6; φ(x) = 5x. Find all the roots of the equation F(x) = |φ(x)|.",
+    "Answers": "x₁ = -3, x₂ = -2, x₃ = 2, x₄ = 3."
+  },
+  {
+    "ID": "27",
+    "Questions": "f(x) = x + 1; φ(x) = x - 2. Solve the equation |f(x) + φ(x)| = |f(x)| + |φ(x)|.",
+    "Answers": "x ≤ -1 and x ≥ 2."
+  },
+  {
+    "ID": "28",
+    "Questions": "Find the values of a and b in the expression for the function f(x) = ax² + bx + 5 for which we have identically f(x + 1) - f(x) = 8x + 3.",
+    "Answers": "a = 4, b = -1."
+  },
+  {
+    "ID": "29",
+    "Questions": "Let f(x) = a cos (bx + c). Find constants a, b and c from the condition that f(x + 1) - f(x) = sin x.",
+    "Answers": "a = -1/(2 sin 0.5) or, since sin 0.5 ≈ 0.48, we have a ≈ -1.04,\nb = 1 and c = 1/2 + 2kπ. (Alternatively, a ≈ 1.04, b = -1, c = 1/2 + (2k + 1)π, k = 0, ±1, ±2,...)."
+  },
+  {
+    "ID": "30",
+    "Questions": "Given: y = z², z = x + 1, express y as a function of x.",
+    "Answers": "y = (x + 1)²."
+  },
+  {
+    "ID": "31",
+    "Questions": "Given: y = √z + 1, z = tan²x, express y as a function of x.",
+    "Answers": "y = 1/cos x."
+  },
+  {
+    "ID": "32",
+    "Questions": "Given: y = z³, z = ³√x + 1, x = a^t, express y as a function of t.",
+    "Answers": "y = (a^(t/3) + 1)³."
+  },
+  {
+    "ID": "33",
+    "Questions": "Given: y = sin x; v = log y; u = √1 + v², express u as a function of x.",
+    "Answers": "u = √1 + (log sin x)²."
+  },
+  {
+    "ID": "34",
+    "Questions": "Given: y = 1 + x; z = cos y; v = √1 - z², express v as a function of x.",
+    "Answers": "v = sin (1 + x)."
+  },
+  {
+    "ID": "35",
+    "Questions": "Represent the following functions of a function with the aid of chains made up of basic elementary functions:\n(1) y = sin³ x; (2) y = ³√(1+x)²; (3) y = log tan x;\n(4) y = sin³(2x + 1); (5) y = 5^((3x+1)²).",
+    "Answers": "(1) y = v³, v = sin x; (2) y = ³√v, v = u², u = x + 1;\n(3) y = log v, v = tan x; (4) y = u³, u = sin v, v = 2x + 1;\n(5) y = 5^u, u = v², v = 3x + 1."
+  },
+  {
+    "ID": "36",
+    "Questions": "f(x) = x³ - x; φ(x) = sin 2x. Find:\n(a) f[φ(π/12)]; (b) φ[f(1)]; (c) φ[f(2)]; (d) f[φ(x)];\n(e) f[f(x)]; (f) f{f[f(1)]}; (g) φ[φ(x)].",
+    "Answers": "(a) -3/8; (b) 0; (c) sin 12; (d) -sin 2x cos² 2x; (e) x⁹ - 3x⁷ + 3x⁵ - 2x³ + x; (f) 0; (g) sin (2 sin 2x)."
+  },
+  {
+    "ID": "38",
+    "Questions": "Write down the explicit expressions for y, given implicitly by the following equations:\n(1) x² + y² = 1; (2) x²/a² - y²/b² = 1;\n(3) x³ + y³ = a³;\n(4) xy = C; (5) 2^xy = 5;\n(6) log x + log (y + 1) = 4;\n(7) 2^(x+y) (x² - 2) = x³ + 7;\n(8) (1 + x) cos y - x² = 0.",
+    "Answers": "(1) y = ±√1 - x²; (2) y = ±(b/a)√x² - a²; (3) y = ³√a³ - x³;\n(4) y = C/x; (5) y = (log₂5)/x; (6) y = 10000/x - 1;\n(7) y = log₂(x³ + 7) - log₂(x² - 2) - x; (8) y = arccos(x²/(1+x))."
+  },
+  {
+    "ID": "39",
+    "Questions": "39*. Show that, for x > 0, the graph of function y given by the equation y + |y| - x - |x| = 0 is the bisector of the first quadrant, whilst for x ≤ 0 the function is many-valued and its \"graph\" is the set of points of the third quadrant (including its boundary points).",
+    "Answers": "Let x > 0 and y > 0, then y + y - x - x = 0; y = x (the graph is the bisector of the first quadrant). Let x > 0 and y < 0, then y - y - x - x = 0; x = 0 (the graph is the negative half of Oy). Let x < 0 and y > 0, then y + y - x + x = 0; y = 0 (the graph is the negative half of Ox). Let x < 0 and y < 0, then y - y - x + x = 0 (an identity; the \"graph\" is the aggregate of points of the third quadrant)."
+  },
+  {
+    "ID": "40",
+    "Questions": "Form a table of the values of the function of an integral argument y = 1/x! for 1 ≤ x ≤ 6.",
+    "Answers": "x: 1, 2, 3, 4, 5, 6\ny: 1, 1/2, 1/6, 1/24, 1/120, 1/720"
+  },
+  {
+    "ID": "41",
+    "Questions": "The value of the function of an integral argument u = φ(n) is equal to the number of positive integers not exceeding n. Make up a table of the values of u for 1 ≤ n ≤ 20.",
+    "Answers": "n: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20\nu: 0, 1, 2, 2, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 6, 7, 7, 8, 8"
+  },
+  {
+    "ID": "42",
+    "Questions": "The value of the function of an integral argument u = f(n) is equal to the number of integral divisors of the argument differing from 1 and n itself. Form a table of the values of u for 1 ≤ n ≤ 20.",
+    "Answers": "n: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20\nu: 0, 0, 0, 1, 0, 2, 0, 2, 1, 2, 0, 4, 0, 2, 2, 3, 0, 4, 0, 4"
+  },
+  {
+    "ID": "43",
+    "Questions": "A girder consists of three sections of 1, 2, 1 units of length weighing 2, 3, 1 units of weight respectively (Fig. 5). The weight of a variable section AM of length x is a function of x. For what values of x is this function defined? Form an analytic expression for the function and draw its graph.",
+    "Answers": "If f(x) is the weight of segment AM, we have: f(x) = 2x for 0 ≤ x ≤ 1, f(x) = 2 + (3/2)(x - 1) for 1 < x ≤ 3, f(x) = x + 2 for 3 < x ≤ 4. The function is defined for 0 ≤ x ≤ 4."
+  ,"images":["Img1/Berman_5.png"]},
+  {
+    "ID": "44",
+    "Questions": "A tower has the following shape: a cylinder of radius R and height 2R is mounted on a right circular truncated cone with base radii 2R (lower) and R (upper); a hemisphere of radius R is mounted on the cylinder. Express the area S of the cross-section of the tower as a function of the distance x of the cross-section from the lower base of the cone. Draw the graph of S = f(x).",
+    "Answers": "S = π(2R - x)² for 0 ≤ x ≤ R; S = πR² for R ≤ x ≤ 3R; S = π(6Rx - x² - 8R²) for 3R ≤ x ≤ 4R. The function S = f(x) is not defined outside the interval [0, 4R]."
+  },
+  {
+    "ID": "45",
+    "Questions": "A cylinder is inscribed in a sphere of radius R. Find the volume V of the cylinder as a function of its height x. State the domain of definition of this function and the domain of definiteness of the corresponding analytic expression.",
+    "Answers": "V = πx(R² - x²/4); 0 < x < 2R; -∞ < x < +∞."
+  },
+  {
+    "ID": "46",
+    "Questions": "A right circular cone is inscribed in a sphere of radius R. Find the area S of the lateral surface of the cone as a function of its generator x. State the domain of definition of this function and the domain of definiteness of the corresponding analytic expression.",
+    "Answers": "S = (πx²/2R) * √(4R² - x²); 0 < x < 2R; -2R ≤ x ≤ 2R."
+  },
+  {
+    "ID": "47",
+    "Questions": "Give the domains of definition of the functions of problems 47-48.\n47. (1) y = 1 - log x; (2) y = log (x + 3);\n(3) y = √5 - 2x; (4) y = √-px (p > 0);\n(5) y = 1/(x² - 1); (6) y = 1/(x² + 1); (7) y = 1/(x³ - x);\n(8) y = 2x/(x² - 3x + 2); (9) y = 1 - √1 - x²;\n(10) y = 1/√x² - 4x; (11) y = √x² - 4x + 3;\n(12) y = x/√x² - 3x + 2; (13) y = arc sin(x/4);\n(14) y = arc sin (x - 2); (15) y = arccos (1 - 2x);\n(16) y = arc cos((1 - 2x)/4); (17) y = arc sin √2x;\n(18) y = √1 - |x|; (19) y = 1/(√|x| - x);\n(20) y = 1/(√x - |x|); (21) y = √log((5x - x²)/4);\n(22) y = log sin x; (23) y = arc cos(2/(2 + sin x));\n(24) y = logx 2.",
+    "Answers": "(1) x > 0; (2) x > -3; (3) x ≤ 5/2; (4) -∞ < x ≤ 0;\n(5) the whole of the real axis except for the points x = ±1; (6) the whole of the real axis; (7) defined everywhere except for x = 0, x = -1, x = 1; (8) the whole of the real axis except for the points x = 1 and x = 2; (9) -1 ≤ x ≤ 1; (10) -∞ < x < 0 and 4 < x < ∞; (11) -∞ < x ≤ 1 and 3 ≤ x < ∞; the function is not defined in the interval (1, 3); (12) -∞ < x < 1 and 2 < x < ∞; the function is not defined in the interval [1, 2]; (13) -4 ≤ x ≤ 4;\n(14) 1 ≤ x ≤ 3; (15) 0 ≤ x ≤ 1; (16) -3/2 ≤ x ≤ 5/2; (17) 0 ≤ x ≤ 1/2;\n(18) -1 ≤ x ≤ 1; (19) -∞ < x < 0; (20) meaningless; (21) 1 ≤ x ≤ 4; (22) 2kπ < x < (2k + 1)π, where k is an integer;\n(23) 2kπ ≤ x ≤ (2k + 1)π, where k is an integer; (24) 0 < x < 1 and 1 < x < ∞."
+  },
+  {
+    "ID": "48",
+    "Questions": "48. (1) y = 1/log(1-x) + √x+2;\n(2) y = ³√3-x + arc sin((3-2x)/5);\n(3) y = arc sin((x-3)/2) - log(4-x);\n(4) y = √x + ³√1/(x-2) - log(2x-3);\n(5) y = √x-1 + 2√1-x + √x²+1;\n(6) y = 3/(4-x²) + log(x³-x);\n(7) y = log sin(x-3) + √16-x²;\n(8) y = √sin x + √16-x²;\n(9) y = 1/√sin x + ³√sin x;\n(10) y = log((x-5)/(x²-10x+24)) - ³√x+5;\n(11) y = √((x-2)/(x+2)) + √((1-x)/(1+x));\n(12) y = √x²-3x+2 + 1/√3+2x-x²;\n(13) y = (x²+x+1)^(-3/2);\n(14) y = log(√x-4 + √6-x);\n(15) y = log[1 - log(x² - 5x + 16)].",
+    "Answers": "(1) -2 ≤ x < 0 and 0 < x < 1; (2) -1 ≤ x ≤ 3; (3) 1 ≤ x < 4; (4) 3/2 < x < 2 and 2 < x < ∞; (5) the domain of definition only consists of the single point x = 1; (6) -1 < x < 0 and 1 < x < 2; 2 < x < ∞; (7) 3-2π < x < 3-π; 3 < x ≤ 4; (8) -4 ≤ x ≤ -π and 0 ≤ x ≤ π; (9) 2kπ < x < (2k+1)π, where k is an integer; (10) 4 < x < 5 and 6 < x < ∞; (11) nowhere defined; (12) -1 < x ≤ 1 and 2 ≤ x < 3; (13) the whole of the real axis; (14) 4 ≤ x ≤ 6; (15) 2 < x < 3."
+  },
+  {
+    "ID": "49",
+    "Questions": "Are the following functions identical?\n(1) f(x) = x/x² and φ(x) = 1/x;\n(2) f(x) = x²/x and φ(x) = x;\n(3) f(x) = x and φ(x) = √x²;\n(4) f(x) = log x² and φ(x) = 2 log x?",
+    "Answers": "(1) Yes; (2) they are identical in any interval not containing the point x = 0; (3) identical in the interval [0, ∞); (4) identical in the interval (0, ∞)."
+  },
+  {
+    "ID": "50",
+    "Questions": "Suggest an example of a function specified analytically which is\n(1) defined only in the interval -2 ≤ x ≤ 2;\n(2) defined only in the interval -2 < x < 2 and is not defined at x = 0;\n(3) defined everywhere except for x = 2, x = 3, x = 4.",
+    "Answers": "(1) e.g. y = √4 - x²; (2) e.g. y = 1/√(4 - x²); (3) e.g. y = 1/(x-2) + 1/(x-3) + 1/(x-4)."
+  },
+  {
+    "ID": "51",
+    "Questions": "Find the domains of definition of the single-valued branches of the function y = φ(x) given by\n(1) y² - 1 + log₂(x - 1) = 0; (2) y² - 2xy² + x² - x = 0",
+    "Answers": "(1) 1 < x ≤ 3; (2) 0 ≤ x < +∞ for two branches and 1 ≤ x < +∞ for the other two branches."
+  },
+  {
+    "ID": "52",
+    "Questions": "f(x) = x²/(1+x²); state the domain of definition of f(x) and verify that the function is non-negative.",
+    "Answers": "-∞ < x < ∞."
+  },
+  {
+    "ID": "53",
+    "Questions": "Find the intervals in which the following functions are of constant sign or zero:\n(1) y = 3x - 6; (2) y = x² - 5x + 6; (3) y = 2^(x-1);\n(4) y = x³ - 3x² + 2x; (5) y = |x|.",
+    "Answers": "(1) y ≥ 0 for x ≥ 2; y < 0 for x < 2; y = 0 for x = 2;\n(2) y > 0 for x < 2 and x > 3; y < 0 for 2 < x < 3; y = 0 for x₁ = 2 and x₂ = 3; (3) y > 0 in the interval (-∞, +∞), the function has no zeros; (4) y > 0 in the intervals (0, 1), (2, +∞); y < 0 in the intervals (-∞, 0) and (1, 2); y = 0 for x₁ = 0, x₂ = 1, x₃ = 2;\n(5) y > 0 for x ≠ 0; y = 0 for x = 0."
+  },
+  {
+    "ID": "54",
+    "Questions": "Which of the functions below are even, which are odd, and which are neither even nor odd?\n(1) y = x⁴ - 2x²; (2) y = x - x²;\n(3) y = cos x; (4) y = 2x;\n(5) y = x - x³/6 + x⁵/120; (6) y = sin x;\n(7) y = sin x - cos x; (8) y = 1 - x²;\n(9) y = tan x; (10) y = 2^(-x²);\n(11) y = (a^x + a^(-x))/2; (12) y = (a^x - a^(-x))/2;\n(13) y = x/(a^x - 1); (14) y = (a^x + 1)/(a^x - 1);\n(15) y = x * (a^x - 1)/(a^x + 1); (16) y = 2^(x-x⁴);\n(17) y = ln((1+x)/(1-x)).",
+    "Answers": "(1), (3), (8), (10), (11), (15) are even; (5), (6), (9), (12), (14), (17) are odd; (2), (4), (7), (13), (16) are neither even nor odd."
+  },
+  {
+    "ID": "55",
+    "Questions": "Write each of the following functions as the sum of an even and an odd function:\n(1) y = x² + 3x + 2;\n(2) y = 1 - x³ - x⁴ - 2x⁵;\n(3) y = sin 2x + cos(x/2) + tan x.",
+    "Answers": "(1) y = (x² + 2) + 3x; (2) y = (1 - x⁴) + (-x³ - 2x⁵);\n(3) y = (sin 2x + tan x) + cos(x/2)."
+  },
+  {
+    "ID": "57",
+    "Questions": "Write the following as the sums of even and odd functions:\n(1) y = a^x; (2) y = (1 + x)¹⁰⁰ (see problem 56).",
+    "Answers": "(1) y = (a^x + a^(-x))/2 + (a^x - a^(-x))/2;\n(2) y = ((1+x)¹⁰⁰ + (1-x)¹⁰⁰)/2 + ((1+x)¹⁰⁰ - (1-x)¹⁰⁰)/2."
+  },
+  {
+    "ID": "59",
+    "Questions": "Which of the following functions are periodic?\n(1) y = sin²x; (2) y = sin x²; (3) y = x cos x;\n(4) y = sin(1/x); (5) y = 1 + tan x; (6) y = 5;\n(7) y = E(x); (8) y = x - E(x).\n(The function E(x) is defined thus: if x is an integer, E(x) = x; if x is not an integer, E(x) is the greatest integer less than x. Thus E(2) = 2; E(3.25) = 3; E(-1.37) = -2.)",
+    "Answers": "Functions (1), (5), (6), (8)."
+  },
+  {
+    "ID": "60",
+    "Questions": "Draw the graph of the periodic function of period T= 1 which is given in the semi-open interval [0, 1) by\n(1) y = x; (2) y = x².",
+    "Answers": "For the graphs see Fig. 80 and 81."
+  },
+  {
+    "ID": "61",
+    "Questions": "State the intervals in which the following functions are increasing, decreasing and constant:\n(1) y = |x|; (2) y = |x| - x.",
+    "Answers": "(1) Decreasing in the interval (-∞, 0), increasing in (0, +∞);\n(2) decreasing in the interval (-∞, 0), retaining the constant value zero in the interval (0, +∞)."
+  },
+  {
+    "ID": "62",
+    "Questions": "Give the maxima and minima of the functions\n(1) y = sin x²; (2) y = cos x³; (3) y = 1 - sin x; (4) y = 2^(x²).",
+    "Answers": "(1) Maximum = 1, minimum = 0; (2) maximum = 1, minimum = -1; (3) maximum = 2, minimum = 0; (4) there is no maximum value, the minimum = 1."
+  },
+  {
+    "ID": "65",
+    "Questions": "Given that the current I = 0.8a when the voltage E = 2.4 V, use Ohm's law to express analytically the relationship between the current and voltage; draw the graph of the function obtained.",
+    "Answers": "I = E/3."
+  },
+  {
+    "ID": "66",
+    "Questions": "A vessel of arbitrary shape is filled with liquid. At a depth h = 25.3 cm the pressure of the liquid is p = 18.4 g/cm².\n(a) Obtain the function expressing the relationship between the pressure and the depth;\n(b) find the pressure at depth h = 14.5 cm;\n(c) at what depth does the pressure become 26.5 g/cm²?",
+    "Answers": "(a) p = 0.727h; (b) 10.5 g/cm²; (c) 36.4 cm."
+  },
+  {
+    "ID": "67",
+    "Questions": "Starting from Newton's law, obtain the function giving the relationship between the force F and acceleration w if the force performs work A = 32 ergs at an acceleration of 12 cm/sec² over a path s = 15 cm.",
+    "Answers": "F = (8/45)ω."
+  },
+  {
+    "ID": "68",
+    "Questions": "Find the linear function y = ax + b from the following data:\n(1) x=0, y=4; x=3, y=6\n(2) x=2.4, y=-1.6; x=-3, y=0\n(3) x=2.5, y=7.2; x=3.2, y=6.8",
+    "Answers": "(1) y = (2/3)x + 4; (2) y = 1.195x + 1.910; (3) y = -0.57x + 8.63."
+  },
+  {
+    "ID": "69",
+    "Questions": "A certain quantity of gas occupies a volume 107 cm³ at 20° C, and 114 cm³ at 40° C.\n(a) Starting from the Gay-Lussac law, obtain the function giving the relationship between the volume V of the gas and its temperature t.\n(b) What is the volume at 0° C?",
+    "Answers": "(a) V = 100 + 0.35t; (b) 100 cm³."
+  },
+  {
+    "ID": "70",
+    "Questions": "A particle in uniform motion is at a distance of 32.7 cm from the initial point after 12 sec; after 20 sec from the initial instant the distance is 43.4 cm. Find the distance s as a function of time t.",
+    "Answers": "S = 16.6 + 1.34t."
+  },
+  {
+    "ID": "71",
+    "Questions": "The voltage in a circuit falls uniformly (with a linear law). The voltage at the start is 12 V, and falls to 6.4 V at the end of the experiment lasting 8 sec. Express the voltage V as a function of time t and draw the graph of the function.",
+    "Answers": "V = 12 - 0.7t."
+  },
+  {
+    "ID": "72",
+    "Questions": "Find the increment of the linear function y = 2x - 7 when the independent variable x passes from the value x₁ = 3 to x₂ = 6.",
+    "Answers": "Δy = 6."
+  },
+  {
+    "ID": "73",
+    "Questions": "Find the increment of the linear function y = -3x + 1 corresponding to an increment Δx = 2 of the independent variable.",
+    "Answers": "Δy = -6."
+  },
+  {
+    "ID": "74",
+    "Questions": "The function y = 2.5x + 4 has received the increment Δy = 10. Find the increment of the argument.",
+    "Answers": "Δx = 4."
+  },
+  {
+    "ID": "75",
+    "Questions": "Given the function y = (x-a)/(a²-b²) and the initial value of the independent variable x₁ = a - b, for what finite value x₂ of the independent variable x is the increment Δy = 1/(a-b)?",
+    "Answers": "For the finite value of the argument x₂ = 2a."
+  },
+  {
+    "ID": "76",
+    "Questions": "Function φ(x) is given by: φ(x) = (1/2)x + 2 for -∞ < x ≤ 2; φ(x) = 5 - x for 2 ≤ x < +∞. Find the roots of φ(x) = 2x - 4 analytically and graphically.",
+    "Answers": "x = 3; the solution is found graphically by seeking the point of intersection of the graph of y = φ(x) and the straight line y = 2x - 4."
+  },
+  {
+    "ID": "78",
+    "Questions": "78*. For what values of x does the inequality hold: |f(x) + φ(x)| < |f(x)| + |φ(x)|, if f(x) = x - 3 and φ(x) = 4 - x.",
+    "Answers": "It should be remarked that the sign of equality is excluded by hypothesis from the relationship |f(x) + φ(x)| ≤ |f(x)| + |φ(x)| which always holds: f(x) and φ(x) must have opposite signs by hypothesis; by considering the two possible cases, we get x < 3 and x > 4. The problem can be solved by drawing the graphs of functions Φ(x) = |f(x) + φ(x)| and ψ(x) = |f(x)| + |φ(x)|."
+  },
+  {
+    "ID": "79",
+    "Questions": "79*. For what values of x does the inequality hold: |f(x) - φ(x)| > |f(x)| - |φ(x)|, if f(x) = x and φ(x) = x - 2.",
+    "Answers": "x < 2. See the hint on the solution of problem 78*."
+  },
+  {
+    "ID": "82",
+    "Questions": "The graph of a single-valued function defined in the interval (—∞, 6] consists of: points of Ox with abscissae less than —3; points of a parabola symmetric about Oy and passing through the points A (—3,0), B (0,5); points of the straight line CD, with C (3,0) and D (6,2). Form the analytic expression for the function.",
+    "Answers": "y =\n  0, in the interval (—∞; -3),\n  -(5/9)x² + 5, in the interval [-3; 3],\n  (2/3)x - 2, in the interval [3; 6]."
+  },
+  {
+    "ID": "83",
+    "Questions": "Find the maxima of:\n(1) y = -2x² + x - 1; (2) y = -x² - 3x + 2;\n(3) y = 5 - x²; (4) y = -2x² + ax - a²;\n(5) y = a²x - b²x².",
+    "Answers": "(1) y = -7/8 for x = 1/4; (2) y = 17/4 for x = -3/2;\n(3) y = 5 for x = 0; (4) y = -7a²/8 for x = a/4; (5) y = a⁴/(4b²) for x = a²/(2b²)."
+  },
+  {
+    "ID": "84",
+    "Questions": "Find the minima of:\n(1) y = x² + 4x - 2; (2) y = 2x² - 1.5x + 0.6;\n(3) y = 1 - 3x + 6x²; (4) y = a²x² + a⁴;\n(5) y = (ax + b)(ax - 2b).",
+    "Answers": "(1) y = -6 for x = -2; (2) y = 0.31875 for x = 3/8;\n(3) y = 5/8 for x = 1/4; (4) y = a⁴ for x = 0; (5) y = -9b²/4 for x = b/(2a)."
+  },
+  {
+    "ID": "85",
+    "Questions": "Express the number a as the sum of two terms such that their product is a maximum.",
+    "Answers": "a = a/2 + a/2."
+  },
+  {
+    "ID": "86",
+    "Questions": "Express the number a as a sum of two terms such that the sum of their squares is a minimum.",
+    "Answers": "a = a/2 + a/2."
+  },
+  {
+    "ID": "87",
+    "Questions": "We want to build a wooden fence so as to enclose a rectangular piece of ground next to a stone wall. The total length of the fence is 8 m. What must be the length of the part of the fence parallel to the wall for the enclosed area to be a maximum?",
+    "Answers": "4 m."
+  },
+  {
+    "ID": "88",
+    "Questions": "In a triangle ABC angle A = 30° and the sum of the sides including this angle is 100 cm. What must be the length of side AB for the area of the triangle to be a maximum?",
+    "Answers": "50 cm."
+  },
+  {
+    "ID": "89",
+    "Questions": "Which of the cylinders with axial section of given perimeter P = 100 cm has the greatest lateral surface?",
+    "Answers": "The one for which the axial section is square."
+  },
+  {
+    "ID": "90",
+    "Questions": "Which of the cones with axial sections of perimeter P has the greatest lateral surface?",
+    "Answers": "The smaller the height of the cone, the greater its lateral surface; the function has a maximum for a base radius equal to P/4, i.e. when the cone degenerates to a plane disc."
+  },
+  {
+    "ID": "91",
+    "Questions": "A body consists of a right circular cylinder with a cone (of the same base) mounted on it. The angle at the vertex of the cone is 60°. The perimeter of the axial section of the body is 100 cm. What must be the radius of the cylinder for the lateral surface of the body to be a maximum?",
+    "Answers": "12.5 cm."
+  },
+  {
+    "ID": "92",
+    "Questions": "A rectangle is inscribed in an isosceles triangle of base a and height h, as shown in Fig. 8. What must be the height of the rectangle for its area to be a maximum?",
+    "Answers": "The height of the rectangle must be equal to half the height of the triangle."
+  ,"images":["Img1/Berman_8.png"]},
+  {
+    "ID": "93",
+    "Questions": "A cylinder is inscribed in a right circular cone such that the planes and centres of the circular bases of the cylinder and cone are the same. What is the ratio of the base radii of cylinder and cone for the lateral surface of the cylinder to be a maximum?",
+    "Answers": "The radius of the cylinder must be equal to half the radius of the cone."
+  },
+  {
+    "ID": "94",
+    "Questions": "A cylinder is inscribed in a given right circular cone of base radius R and height H, such that the planes and centres of the circular bases of cone and cylinder coincide. What must be the radius of the cylinder for its total surface area to be a maximum? Consider the cases H > 2R, H ≤ 2R.",
+    "Answers": "For H > 2R, the radius of the cylinder must be equal to RH/(2(H-R)); for H ≤ 2R the total surface of the inscribed cylinder will be the greater, the greater the radius of its base."
+  },
+  {
+    "ID": "95",
+    "Questions": "What must be the radius of a circle for the area of a sector of given perimeter P to be a maximum?",
+    "Answers": "P/2."
+  },
+  {
+    "ID": "96",
+    "Questions": "A window is in the form of a rectangle with an equilateral triangle on top. The perimeter of the window is P. What must be the base a of the rectangle for the window to have maximum area?",
+    "Answers": "a = P/(6-√3)."
+  },
+  {
+    "ID": "97",
+    "Questions": "A window is in the form of a rectangle with a semi-circle on top. What must be the base of the rectangle for the window to have maximum area when its perimeter is 2 m?",
+    "Answers": "4/(π+4)."
+  },
+  {
+    "ID": "98",
+    "Questions": "We want to cut out the corners from a rectangular piece of card-board of 30x50 cm² so that, on bending along the dotted lines (Fig. 9), a box is obtained with the greatest lateral surface. Find the side of the squares cut out.",
+    "Answers": "The side must be equal to 10 cm."
+  ,"images":["Img1/Berman_9.png"]},
+  {
+    "ID": "99",
+    "Questions": "Using a piece of wire of length 120 cm, we want to make a model of a rectangular parallelepiped with a square base. What must be the side of the base for the total area of the parallelepiped to be a maximum?",
+    "Answers": "The side of the base and the lateral ribs must be 10 cm."
+  },
+  {
+    "ID": "100",
+    "Questions": "A piece of wire of length a cm is to be cut in two; a square is made from one piece and an equilateral triangle from the other. How must the wire be cut for the sum of the areas of the figures thus obtained to be a minimum?",
+    "Answers": "The side of the triangle must be equal to 3a/(9+4√3) cm."
+  },
+  {
+    "ID": "101",
+    "Questions": "Find the point on the straight line y = x such that the sum of the squares of its distances from the points (—a, 0), (a, 0) and (0, b) is a minimum.",
+    "Answers": "The point is (b/6, b/6)."
+  },
+  {
+    "ID": "102",
+    "Questions": "Find the point on the straight line y = x + 2 such that the sum of the squares of its distances from the straight lines 3x - 4y + 8 = 0 and 3x - y - 1 = 0 is a minimum.",
+    "Answers": "The point is (15/11, 37/11)."
+  },
+  {
+    "ID": "104",
+    "Questions": "Trace the parabola y = x² and use it for graphical solution of the following equations:\n(1) x² - x - 2.25 = 0; (2) 2x² - 3x - 5 = 0;\n(3) 3.1x² - 14x + 5.8 = 0; (4) 4x² - 12x + 9 = 0;\n(5) 3x² - 8x + 7 = 0.",
+    "Answers": "(1) x₁ ≈ -1.1, x₂ ≈ 2.1; (2) x₁ = -1, x₂ = 5/2; (3) x₁ ≈ 0.5, x₂ ≈ 4.1; (4) x₁ = x₂ = 3/2; (5) there are no real roots."
+  },
+  {
+    "ID": "105",
+    "Questions": "Function φ(x) is given by: φ(x) = (1/2)x - 1/2 for -∞ < x ≤ 11/3; φ(x) = 1 + x for 11/3 ≤ x < +∞. Find analytically and graphically all the real roots of the equation [φ(x)]² = 7x + 25.",
+    "Answers": "x₁ = -3, x₂ = 8. To find the solution graphically we seek the point of intersection of the graph of y = φ(x) and the parabola y² = 7x + 25."
+  },
+  {
+    "ID": "106",
+    "Questions": "Give the domain of definition of the function y = log (ax² + bx + c).",
+    "Answers": "If b² - 4ac > 0 and a > 0, the function is defined throughout the real axis except for the interval x₁ ≤ x ≤ x₂, where x₁ and x₂ are the roots of the trinomial. If b² - 4ac > 0 and a < 0, the function is defined only for x₁ < x < x₂. If b² - 4ac ≤ 0 and a > 0, the function is defined throughout the real axis. If b² - 4ac ≤ 0 and a < 0, the function is defined nowhere. Finally, if b² - 4ac = 0, the function will be defined throughout the real axis except for the single point x = -b/(2a), if a > 0, and is nowhere defined if a < 0."
+  },
+  {
+    "ID": "107",
+    "Questions": "Find f(x + 1), given that f(x - 1) = 2x² - 3x + 1.",
+    "Answers": "f(x + 1) = 2x² + 5x + 3."
+  },
+  {
+    "ID": "108",
+    "Questions": "108*. Show that the function f(x) = (x² + 2x + c)/(x² + 4x + 3c) takes any real value if 0 < c ≤ 1.",
+    "Answers": "Let (x² + 2x + c)/(x² + 4x + 3c) = m, where m is an arbitrary real number; then (m - 1)x² + 2(2m - 1)x + c(3m - 1) = 0. The argument x must be a real number, consequently (2m - 1)² - (m - 1)c(3m-1) ≥ 0 or (4 - 3c)m² + 4(c - 1)m - (c - 1) ≥ 0; but since m is real, this inequality is in turn only valid for\n{4 - 3c > 0,\n{4(c - 1)² + (4 - 3c)(c - 1) ≤ 0;\nhence 0 ≤ c ≤ 1; but c ≠ 0 by hypothesis, so that 0 < c ≤ 1."
+  },
+  {
+    "ID": "109",
+    "Questions": "Starting from the Boyle-Mariotte law, find the function showing how the volume of a gas depends on the pressure at t = const, if it is known that the volume is 2.3 l. at 760 mm pressure. Trace the graph of the function.",
+    "Answers": "pv = 1748."
+  },
+  {
+    "ID": "110",
+    "Questions": "The variable x is inversely proportional to y, y is inversely proportional to z, and z in turn is inversely proportional to v. What is the relationship between x and v?",
+    "Answers": "x is inversely proportional to v."
+  },
+  {
+    "ID": "111",
+    "Questions": "Variable x is inversely proportional to y, y is directly proportional to z, z is directly proportional to u, u is inversely proportional to v. What is the relationship between x and v?",
+    "Answers": "x is directly proportional to v."
+  },
+  {
+    "ID": "112",
+    "Questions": "During electrolysis the quantity of material separated at the electrode is proportional to the current, the current is proportional to the conductivity of the electrolyte, the conductivity is proportional to the concentration of electrolyte, the concentration for a given quantity of material is inversely proportional to the volume of solvent. How does the quantity of material separated at the electrode depend on the volume of solvent?",
+    "Answers": "The amount of material separated out is inversely proportional to the volume of the solvent."
+  },
+  {
+    "ID": "114",
+    "Questions": "Find graphically the maxima and minima of the following linear rational functions in the stated intervals:\n(1) y = 4/x, [1, 5]; (2) y = x/(2x-5), [-1, 2];\n(3) y = (1-x)/(1+x), [0, 4].",
+    "Answers": "(1) for x = 1, y = 4 is the maximum value; for x = 5, y = 4/5 is the minimum value;\n(2) for x = -1, y = 1/7 is the maximum value; for x = 2, y = -2 is the minimum value;\n(3) for x = 0, y = 1 is the maximum value; for x = 4, y = -3/5 is the minimum value."
+  },
+  {
+    "ID": "117",
+    "Questions": "Find the inverses of the following functions:\n(1) y = x; (2) y = 2x; (3) y = 1 - 3x;\n(4) y = x² + 1; (5) y = 1/x; (6) y = 1/(1-x);\n(7) y = x² - 2x; (8) y = ³√x² + 1; (9) y = 10^(x+1);\n(10) y = 1 + log(x+2); (11) y = logx 2;\n(12) y = 2^x / (1 + 2^x); (13) y = (10^x - 10^(-x))/(10^x + 10^(-x)) + 1;\n(14) y = 2 sin 3x; (15) y = 1 + 2 sin((x-1)/(x+1));\n(16) y = 4 arc sin √1 - x².",
+    "Answers": "(1) y = x; (2) y = x/2; (3) y = (1-x)/3; (4) y = ±√x-1;\n(5) y = 1/x; (6) y = (x-1)/x; (7) y = 1 ± √x+1;\n(8) y = ±√(x³-1); (9) y = log(x/10); (10) y = -2 + 10^(x-1);\n(11) y = 2^(1/x); (12) y = log₂(x/(1-x)); (13) y = (1/2)log((2-x)/x);\n(14) y = (1/3)arc sin(x/2);\n(15) y = (1+arc sin((x-1)/2))/(1-arc sin((x-1)/2)); (16) y = ±cos(x/4) (0 ≤ x ≤ 2π)."
+  },
+  {
+    "ID": "122",
+    "Questions": "A function y of x is given by the equation y² + log₂(x - 1) = 0. Find the domain of definition of the function and write down its inverse.",
+    "Answers": "1 < x ≤ 3; y = 1 + 2^(1-x³)."
+  },
+  {
+    "ID": "123",
+    "Questions": "A function y of x is given by the equation y² + sin³x - y + 2 = 0. Find the inverse of the function.",
+    "Answers": "y = arc sin ³√x - x² - 2."
+  },
+  {
+    "ID": "125",
+    "Questions": "Find graphically the approximate values of the real roots of the equation x + 3 = 4³√x².",
+    "Answers": "x₁ ≈ -0.5, x₂ = 1, x₃ ≈ 54.5."
+  },
+  {
+    "ID": "126",
+    "Questions": "126*. Draw the graph of the cubical parabola y = x³ and use the graph to find graphically the solutions of the equations:\n(1) x³ + x - 4 = 0; (2) x³ - 3x² - x + 3 = 0;\n(3) x³ - 6x² + 9x - 4 = 0;\n(4) x³ + 3x² + 6x + 4 = 0.",
+    "Answers": "(1) x₁ ≈ 1.4, the remaining roots are imaginary; x₁ is the abscissa of the point of intersection of the graphs of the cubical and linear functions y = x³ and y = -x + 4.\n(2) x₁ = 1, x₂ = -1, x₃ = 3; the substitution x = x' + a should be made, and a chosen so that the coefficient of x'² vanishes; further details as in (1);\n(3) x₁ = 4, x₂ = x₃ = 1; see the hint on (2);\n(4) x₁ = -1, the remaining roots are imaginary; see hint on (2)."
+  },
+  {
+    "ID": "127",
+    "Questions": "Given the following data, form the corresponding equation and solve it graphically:\n(1) The square of a number is equal to the sum of the number and its reciprocal.\n(2) A wooden sphere of radius 10 cm and density 0.8 g/cm³ floats on water. Find the height of the segment submerged in the water.\n(3) A wooden cube and a pyramid with square base together weigh 0.8 kg. The side of the cube is equal to the side of the base of the pyramid, the height of which is 45 cm. Find the side of the cube. The specific gravity of wood is 0.8.",
+    "Answers": "(1) 1.465...; (2) ≈14.26 cm; (3) almost 6.8 cm."
+  },
+  {
+    "ID": "128",
+    "Questions": "For what values of x has the function y = xⁿ, x > 0, values greater than those of its inverse, and for what x has it smaller values?",
+    "Answers": "If y₁ = xⁿ, y₂ = ⁿ√x, then\nfor n > 1 and 0 < x < 1, y₁ < y₂, but for 1 < x < ∞, y₁ > y₂;\nfor 0 < n < 1 and 0 < x < 1, y₁ > y₂, but for 1 < x < ∞, y₁ < y₂;\nfor -1 < n < 0 and 0 < x < 1, y₁ < y₂, but for 1 < x < ∞, y₁ > y₂;\nfor n < -1 and 0 < x < 1, y₁ > y₂, but for 1 < x < ∞, y₁ < y₂."
+  },
+  {
+    "ID": "133",
+    "Questions": "Solve graphically: 2x - 2x = 0.",
+    "Answers": "x₁ = 1, x₂ = 2."
+  },
+  {
+    "ID": "134",
+    "Questions": "Draw on millimetre paper the figure bounded by the curves y = 2x, y = (1+x)/x, and x = 3. Find approximately from the graph the coordinates of the points of intersection of these curves.",
+    "Answers": "The points of intersection are: (1, 2); (3, 8); (3, 4/3); (-1.5, 0.3)."
+  },
+  {
+    "ID": "135",
+    "Questions": "Find the greatest possible value of n for which 2x > xⁿ for all x ≥ 100 (n is an integer).",
+    "Answers": "n = 15."
+  },
+  {
+    "ID": "136",
+    "Questions": "Show that y = sinh x and y = tanh x are odd functions, and y = cosh x even (see the Course, sec. 22). Are these functions periodic?",
+    "Answers": "It can be shown by starting from the definition of the hyperbolic functions that sinh(-x) = -sinh x, tanh(-x) = -tanh x, cosh(-x) = cosh x. These functions are not periodic."
+  },
+  {
+    "ID": "140",
+    "Questions": "Use graphical addition to draw the graph of the function y = x + log(1/x) and use the graph to find the minima of the function in the interval (0, 2].",
+    "Answers": "Ymin ≈ 0.8 for x ≈ 0.4."
+  },
+  {
+    "ID": "141",
+    "Questions": "Show that the graph of y = logₐ(x + √x² + 1) is symmetric about the origin. Find the inverse function.",
+    "Answers": "y = (a^x - a^(-x))/2."
+  },
+  {
+    "ID": "143",
+    "Questions": "Give the amplitude and period of the following harmonic oscillations:\n(1) y = sin 3x; (2) y = 5 cos 2x;\n(3) y = 4 sin πx; (4) y = 2 sin(x/2);\n(5) y = sin(3πx/4); (6) y = 3 sin(5x/8).",
+    "Answers": "(1) A = 1, T = 2π/3; (2) A = 5, T = π; (3) A = 4, T = 2; (4) A = 2, T = 4π; (5) A = 1, T = 8/3; (6) A = 3, T = 16π/5."
+  },
+  {
+    "ID": "144",
+    "Questions": "Give the amplitude, period, frequency and initial phase of the harmonic oscillations:\n(1) y = 2 sin (3x + 5); (2) y = cos((x-1)/2);\n(3) y = (1/3)sin(2π(ωt - 1/6)); (4) y = sin((2t+3)/(6π)).",
+    "Answers": "(1) 2; 2π/3; 3/(2π); 5; (2) 1; 4π; 1/(4π); -1/2; (3) 1/3; 1/ω; ω; -π/3; (4) 1; 6π²; 1/(6π²); 3/(2π)."
+  },
+  {
+    "ID": "146",
+    "Questions": "A triangle has sides of 1 cm and 2 cm. Draw the graph of the area of the triangle as a function of the angle x between these two sides. Find the domain of definition of this function and the value of argument x for which the area is a maximum.",
+    "Answers": "The domain of definition is (0, π). The area is a maximum for x = π/2."
+  },
+  {
+    "ID": "147",
+    "Questions": "A particle moves uniformly on a circle of radius R with centre at the origin anticlockwise with linear velocity v cm/sec. The abscissa of the particle at the initial instant was a. Form the equation of the harmonic oscillation of the abscissa (see Course, sec. 25).",
+    "Answers": "x = R sin((vt/R) + arc cos(a/R))."
+  },
+  {
+    "ID": "148",
+    "Questions": "A point moves uniformly along the circle x² + y² = 1. At time t₀ its ordinate is y₀, at time t₁ the ordinate is y₁. Find the ordinate of the point as a function of the period and initial phase of the vibration and time.",
+    "Answers": "y = sin[((t-t₀)/(t₁-t₀))(arc sin y₁ - arc sin y₀) + arc sin y₀];\nT = 2π(t₁-t₀)/(arc sin y₁ - arc sin y₀); φ_init = (t₁ arc sin y₀ - t₀ arc sin y₁)/(t₁-t₀)."
+  },
+  {
+    "ID": "149",
+    "Questions": "Figure 13 illustrates a crank mechanism. The radius of the fly-wheel is R, the length of the connecting-rod a. The fly-wheel rotation is clockwise and uniform, at a rate of n revolutions per second. At the instant t = 0, when the connecting-rod and crank form a straight line (the 'dead' position), the cross-head (A) is at point 0. Find the displacement x of the cross-head (A) as a function of time t.",
+    "Answers": "x = R(1 - cos φ) + a - √a² - R²sin²φ, where φ = 2πnt."
+  },
+  {
+    "ID": "151",
+    "Questions": "Solve graphically the equations:\n(1) x = 2 sin x; (2) x = tan x; (3) x - cos x = 0;\n(4) 4 sin x = 4 - x; (5) 2⁻ˣ = cos x.",
+    "Answers": "(1) x₁ = 0, x₂,₃ ≈ ±1.9; (2) x = 0; ±4.5; ±7.72; further, we can take fairly accurately x ≈ ±(2n+1)π/2 (n > 3);\n(3) x ≈ 0.74; (4) x₁ = 0.9, x₂ = 2.85, x₃ = 5.8; (5) there is an infinite set of roots; x₁ = 0, x₂ slightly under π/2, x₃ slightly over 3π/2 and so on."
+  },
+  {
+    "ID": "152",
+    "Questions": "Find the periods of the compound harmonic vibrations:\n(1) y = 2 sin 3x + 3 sin 2x; (2) y = sin t + cos 2t;\n(3) y = sin(πt/3) + sin(πt/4);\n(4) y = sin(2πt + π/3) + 2 sin(3πt + π/4) + 3 sin 5πt.",
+    "Answers": "(1) 2π; (2) 2π; (3) 24; (4) 2."
+  },
+  {
+    "ID": "155",
+    "Questions": "155*. Give the periods and draw the graphs of:\n(1) y = |sin x| + |cos x|;\n(2) y = (1/2)(|sin x|/cos x + sin x/|cos x|).",
+    "Answers": "(1) Period π/2. The function can be written in the interval [0, 2π] as: y = sin x + cos x in the interval [0, π/2], y = sin x - cos x in the interval [π/2, π], y = -sin x - cos x in the interval [π, 3π/2], y = -sin x + cos x in the interval [3π/2, 2π].\n(2) Period 2π. The function can be written in the interval [0, 2π] as: y = tan x in the interval [0, π/2), y = 0 in the interval (π/2, π), y = -tan x in the interval [π, 3π/2), y = 0 in the interval (3π/2, 2π)."
+  ,"images":["Img1/Berman_14.png"]},
+  {
+    "ID": "156",
+    "Questions": "Find the domain of definition and indicate the shape of the graph of:\n(1) y = log sin x; (2) y = √log sin x;\n(3) y = √log|sin x|.",
+    "Answers": "(1) The domain of definition consists of the infinite set of intervals of the form (2nπ, (2n+1)π), where n=0, ±1, ±2...; neither even nor odd; periodic, of period 2π. In the interval (0, π/2), the sine increases from 0 to 1, so that log sin x increases to 0 whilst remaining negative. The sine decreases from 1 to 0 in the interval (π/2, π), so that log sin x also decreases. The sine has negative values in the interval (π, 2π), so that log sin x is undefined.\n(2) The domain of definition consists of the individual points of the form x = π/2 + 2nπ, where n=0, ±1, ±2,... At these points y=0. The graph consists of individual points of the axis of abscissae.\n(3) The function is defined throughout the real axis, except for the points x = nπ, where n=0, ±1, ±2,..."
+  },
+  {
+    "ID": "158",
+    "Questions": "A circular sector with central angle α is folded into a cone. Find the angle ω at the vertex of the cone as a function of angle α and draw the graph of the function.",
+    "Answers": "ω = 2 arc sin(α/2π)."
+  },
+  {
+    "ID": "159",
+    "Questions": "A painting of height a m hangs at a slope against a wall so that the dihedral angle between them is φ. The lower edge of the painting is at b m above the eye-level of the observer, who stands at a distance l m from the wall. Find the relationship between the angle γ at which the observer sees the painting and the angle φ.",
+    "Answers": "γ = arc tan((a(l cos φ + b sin φ))/(b² + l² + a(b cos φ - l sin φ)))."
+  },
+  {
+    "ID": "160",
+    "Questions": "Give the relationship between the angle α of rotation of the crank and the displacement x of the cross-head for the crank mechanism (see Fig. 13, problem 149).",
+    "Answers": "α = arc cos(1 - (x(2a-x))/(2R(a+R-x)))."
+  },
+  {
+    "ID": "161",
+    "Questions": "Indicate the domains of x in which the identities hold:\n(1) arc sin x + arc cos x = π/2;\n(2) arc sin √x + arc cos √x = π/2;\n(3) arc cos √1-x² = arc sin x;\n(4) arc cos √1-x² = -arc sin x;\n(5) arc tan x = arc cot(1/x);\n(6) arc tan x = arc cot(1/x) - π;\n(7) arc cos((1-x²)/(1+x²)) = 2 arc tan x;\n(8) arc cos((1-x²)/(1+x²)) = -2 arc tan x;\n(9) arc tan x + arc tan 1 = arc tan((1+x)/(1-x));\n(10) arc tan x + arc tan 1 = π + arc tan((1+x)/(1-x)).",
+    "Answers": "(1) -1 ≤ x ≤ 1; (2) 0 ≤ x ≤ 1; (3) 0 ≤ x ≤ 1; (4) -1 ≤ x ≤ 0;\n(5) 0 < x < ∞; (6) -∞ < x < 0; (7) 0 ≤ x < ∞;\n(8) -∞ < x ≤ 0; (9) -∞ < x < 1; (10) 1 < x < ∞."
+  },
+  {
+    "ID": "162",
+    "Questions": "Using the identities of problem 161, find the domain of definition and draw the graph of:\n(1) y = arc cos √1-x²;\n(2) y = arc sin √1-x + arc sin √x;\n(3) y = arc cos((1-x²)/(1+x²));\n(4) y = arc tan x - arc cot(1/x).",
+    "Answers": "(1) -1 ≤ x ≤ 1; (2) 0 ≤ x ≤ 1; (3) -∞ < x < ∞;\n(4) defined everywhere except for x = 0."
+  },
+  {
+    "ID": "163",
+    "Questions": "163*. Draw the graph of y = arc sin(sin x). Show that this is a periodic function.",
+    "Answers": "Period 2π. For the graph see Fig. 82. Hint. In the interval -π/2 ≤ x ≤ π/2, y = arc sin(sin x) = x by definition of the function arc sin x. To obtain the graph of the function in the interval π/2 ≤ x ≤ 3π/2, we put z = x - π, so that x = π + z, -π/2 ≤ z ≤ π/2, y = arc sin(sin x) = arc sin sin(z+π) = -arc sin(sin z) = -z; y = π - x and so on."
+  },
+  {
+    "ID": "167",
+    "Questions": "Draw the graph of y = x³ + 2x² - 4x + 7 in the interval [-4, 2] for values of x at intervals of 0.2; use an ordinate scale 20 times smaller than the abscissa scale. Find from the graph the maxima and minima of the function in the interval [-3, 2]. What is the point of transition from increase to decrease of the function? Find the zero of the function in [-4, 2]. The accuracy of the evaluation to be 0.1.",
+    "Answers": "Ymax ≈ 15, Ymin ≈ 5.5; the function passes from increase to decrease at x = -2. The zero of the function is at x ≈ -3.6."
+  },
+  {
+    "ID": "169",
+    "Questions": "Draw the parabola y = ax² + bx + c through three given points M₁(1,8), M₂(5, 6), M₃(9, 3). Find the zeros of ax² + bx + c. The required accuracy is 0.01.",
+    "Answers": "y = (1/32)(267 - 10x - x²) or y = -0.0312x² - 0.3125x + 8.344; zeros of the function: x₁ ≈ -22.09, x₂ ≈ 12.09. To obtain the roots to an accuracy of 0.01, the coefficients must be taken to an accuracy of 0.0001."
+  },
+  {
+    "ID": "170",
+    "Questions": "We require to cut out equal squares from the corners of a square sheet of tin 30x30 cm² so that a box of capacity 1600 cm³ can be made by bending the remainder. What must be the length of side x of the squares cut out? The required accuracy is 0.01.",
+    "Answers": "x₁ ≈ 2.60 cm, x₂ ≈ 7.87 cm."
+  },
+  {
+    "ID": "171",
+    "Questions": "Show that, if we put x² = y in the equation x⁴ + px² + qx + s = 0, this can be replaced by the system\nx² = y,\n(y - y₀)² + (x - x₀)² = r²,\nwhere y₀ = (1-p)/2, x₀ = -q/2 and r² = y₀² + x₀² - s.\nUsing this method, solve graphically the equation x⁴ - 3x² - 8x - 29 = 0. The required accuracy is 0.1.",
+    "Answers": "x₁ ≈ -2.3, x₂ ≈ 3; the remaining roots are imaginary."
+  },
+  {
+    "ID": "172",
+    "Questions": "172*. Using the method indicated in problem 171, show that, with the aid of the further substitution x = x' + α, every fourth degree equation x⁴ + ax³ + bx² + cx + d = 0 can be solved graphically by drawing a circle and the parabola y = x'².\nUsing this method, solve graphically the equation x⁴ + 1.2x³ - 22x² - 39x + 31 = 0. The required accuracy is 0.1.",
+    "Answers": "Choose α so that the coefficient of x'³ vanishes; x₁ ≈ -3.6, x₂ ≈ -2.9, x₃ ≈ 0.6, x₄ ≈ 4.8."
+  },
+  {
+    "ID": "173",
+    "Questions": "Find graphically the roots of the equation eˣ sin x = 1, e ≈ 2.718, lying between 0 and 10; give an approximate general formula for the remaining roots. The accuracy required is 0.01.",
+    "Answers": "x₁ ≈ 0.59, x₂ ≈ 3.10, x₃ ≈ 6.29, x₄ ≈ 9.43; in general x ≈ nπ (n > 2)."
+  },
+  {
+    "ID": "174",
+    "Questions": "Solve graphically the system: x + y² = 1; 16x² + y = 4. The required accuracy is 0.01.",
+    "Answers": "x₁ ≈ -0.57, y₁ ≈ -1.26; x₂ ≈ -0.42, y₂ ≈ 1.19; x₃ ≈ 0.46, y₃ ≈ 0.74; x₄ ≈ 0.54, y₄ ≈ -0.68."
+  },
+  
+  {
+    "ID": "176",
+    "Questions": "A function of an integral argument takes the values u₁ = 0.9; u₂ = 0.99; u₃ = 0.999; ..., uₙ = 0.999...9 (n times); ...\nWhat is the value of lim uₙ as n→∞? What must be the value of n for the absolute value of the difference between uₙ and its limit not to exceed 0.0001?",
+    "Answers": "lim uₙ = 1, n ≥ 4."
+  },
+  {
+    "ID": "177",
+    "Questions": "The function uₙ takes the values u₁ = 1; u₂ = 1/4; u₃ = 1/9; ...; uₙ = 1/n²; ...\nFind lim uₙ as n→∞. What must n be for the difference between uₙ and its limit to be less than a given positive ε?",
+    "Answers": "lim uₙ = 0; n > 1/√ε."
+  },
+  {
+    "ID": "178",
+    "Questions": "Show that uₙ = (n-1)/(n+1) tends to unity as n increases indefinitely. As from what n is the absolute value of the difference between uₙ and unity not greater than 10⁻⁴?",
+    "Answers": "n ≥ 19,999."
+  },
+  {
+    "ID": "179",
+    "Questions": "The function vₙ takes the values v₁ = cos(π/2)/1; v₂ = cos(π)/2; v₃ = cos(3π/2)/3; ...; vₙ = cos(nπ/2)/n; ...\nFind lim vₙ as n→∞. What must n be for the absolute value of the difference between vₙ and its limit not to exceed 0.001?\nDoes vₙ take the value of its limit?",
+    "Answers": "lim vₙ = 0; n ≥ 1000. vₙ is sometimes greater than, sometimes less than, and sometimes equal to its limit (the last when n = 2k+1, where k = 0, 1, 2, ...)."
+  },
+  {
+    "ID": "180",
+    "Questions": "The general term of the sequence u₁ = 1/2, u₂ = 5/4, u₃ = 7/8, u₄ = 17/16, ... has the form (2ⁿ-1)/2ⁿ if n is odd, and (2ⁿ+1)/2ⁿ if n is even. Find lim uₙ as n→∞. What must n be for the absolute value of the difference between uₙ and its limit not to exceed (i) 10⁻⁴; (ii) a given ε?",
+    "Answers": "lim uₙ = 1; n ≥ 14; n ≥ log₂(1/ε)."
+  },
+  {
+    "ID": "181",
+    "Questions": "Show that the sequence uₙ = (4n²+1)/(3n²+2) tends to a limit equal to 4/3 whilst increasing monotonically on indefinite increase of n. As from what n is 4/3 - uₙ not greater than a given positive ε?",
+    "Answers": "n ≥ (1/3)√((5/ε) - 6), if ε ≤ 5/6; n = 0, if ε > 5/6."
+  },
+  {
+    "ID": "182",
+    "Questions": "Show that uₙ = √(n²+a²)/n has a limit equal to unity as n increases indefinitely. As from what n is |1 - uₙ| not greater than a given positive ε? What is the nature of the variation of variable uₙ in the limit?",
+    "Answers": "n ≥ a/√(ε(2+ε)); the sequence is decreasing."
+  },
+  {
+    "ID": "183",
+    "Questions": "A function vₙ takes the values ('binomial coefficients') v₁ = m, v₂ = m(m-1)/1·2, v₃ = m(m-1)(m-2)/1·2·3, ..., vₙ = m(m-1)(m-2)...[m-(n-1)] / 1·2·3...n, ..., where m is a positive integer. Find lim vₙ as n→∞.",
+    "Answers": "lim vₙ = 0; vₙ reaches its limit with n = m+1, since, as from this value, vₙ = 0."
+  },
+  {
+    "ID": "184",
+    "Questions": "Show that the sequence uₙ = 1 + (-1)ⁿ has no limit as n increases indefinitely.",
+    "Answers": "0."
+  },
+  {
+    "ID": "185",
+    "Questions": "Show that the sequence uₙ = (2ⁿ + (-2)ⁿ)/2ⁿ has no limit as n increases indefinitely, whilst the sequence vₙ = (2ⁿ + (-2)ⁿ)/3ⁿ has a limit.",
+    "Answers": "0."
+  },
+  {
+    "ID": "186",
+    "Questions": "Do the following sequences have limits? (1) uₙ = n sin(nπ/2); (2) uₙ = sin(nπ/2)/log n (n>1)?",
+    "Answers": "(1) No. (2) Yes."
+  },
+  {
+    "ID": "189",
+    "Questions": "The sequence u₁, u₂, ..., uₙ, ... has limit a ≠ 0. Show that lim (uₙ₊₁/uₙ) as n→∞ = 1. What can be said about this limit if a = 0? (Give examples.)",
+    "Answers": "With a=0 this limit can equal any number or be nonexistent."
+  },
+  {
+    "ID": "190",
+    "Questions": "Given y = x², when x→2, y→4. What must δ be for |x-2| < δ to imply |y-4| < ε = 0.001?",
+    "Answers": "δ < √(4+ε) - 2; δ < 0.00025."
+  },
+  {
+    "ID": "191",
+    "Questions": "Let y = (x²-1)/(x²+1). When x→2, we have y→3/5. What must δ be for |x-2| < δ to imply |y - 3/5| < 0.1?",
+    "Answers": "δ < 2 - √3."
+  },
+  {
+    "ID": "192",
+    "Questions": "Let y = (x-1)/(2(x+1)). When x→3, we have y→1/4. What must δ be for |x-3| < δ to imply |1/4 - y| < 0.01?",
+    "Answers": "δ < 2/13."
+  },
+  {
+    "ID": "193",
+    "Questions": "Show that sin x tends to unity as x→π/2. What condition must x satisfy in the neighbourhood of the point x=π/2 for 1-sin x < 0.01?",
+    "Answers": "|x - π/2| < π/2 - arc sin 0.99 ≈ 0.136."
+  },
+  {
+    "ID": "194",
+    "Questions": "When x increases indefinitely the function y = 1/(x²+1) tends to zero: lim (1/(x²+1)) as x→∞ = 0. What must N be for |x| > N to imply y < ε?",
+    "Answers": "N ≥ √((1/ε) - 1), if ε ≤ 1; N = 0, if ε > 1."
+  },
+  {
+    "ID": "195",
+    "Questions": "As x→∞, y = (x²-1)/(x²+3) → 1. What must N be for |x| > N to imply |y-1| < ε?",
+    "Answers": "N ≥ √((4/ε) - 3), if ε ≤ 4/3; N = 0, if ε > 4/3."
+  },
+  {
+    "ID": "196",
+    "Questions": "A function uₙ takes the values u₁=3, u₂=5, u₃=7, ..., uₙ=2n+1, ... Prove that uₙ is a large order magnitude as n→∞. As from what n is uₙ greater than N?",
+    "Answers": "n > (N-1)/2."
+  },
+  {
+    "ID": "197",
+    "Questions": "Show that the general term uₙ of any arithmetic progression is a large order magnitude as n→∞. (When is it positive and when negative?) Does this statement hold for any geometric progression?",
+    "Answers": "uₙ is a positive large order magnitude if the difference of the progression d > 0, and is negative if d < 0. The statement holds for a geometric progression only when the denominator of the progression has an absolute value greater than 1."
+  },
+  {
+    "ID": "198",
+    "Questions": "As x→0, we have y = (1+2x)/x → ∞. What condition must x satisfy for the inequality |y| > 10⁴ to hold?",
+    "Answers": "1/(10⁴ + 2) < x < 1/(10⁴ - 2)."
+  },
+  {
+    "ID": "199",
+    "Questions": "Show that the function y = x/(x-3) is of large order as x→3. What must x be for |y| to be greater than 1000?",
+    "Answers": "3000/1001 < x < 3000/999."
+  },
+  {
+    "ID": "200",
+    "Questions": "When x tends to unity, the function y = 1/(x-1)² increases indefinitely. What must δ be for |x-1|<δ to imply 1/(x-1)² > N=10⁴?",
+    "Answers": "δ < 1/√N = 0.01."
+  },
+  {
+    "ID": "201",
+    "Questions": "The function y = 1/(2x-1) is infinitely large as x→0. What inequality must x satisfy for |y| to be greater than 100?",
+    "Answers": "log₂ 0.99 < x < log₂ 1.01."
+  },
+  {
+    "ID": "202",
+    "Questions": "As x→∞, we have y=log x → ∞. What must M be for x > M to imply y > N=100?",
+    "Answers": "M ≥ 10ᴺ = 10¹⁰⁰."
+  },
+  {
+    "ID": "203",
+    "Questions": "Which of the basic elementary functions are bounded throughout their domain of definition?",
+    "Answers": "sin x, cos x and all the inverse trigonometric functions."
+  },
+  {
+    "ID": "205",
+    "Questions": "Is the function y = x²/(1+x⁵) bounded throughout the real axis? Is it bounded in the interval (0, ∞)?",
+    "Answers": "No; yes."
+  },
+  {
+    "ID": "206",
+    "Questions": "Is the function y=log sin x bounded throughout its domain of existence? Answer the same question for y=log cos x.",
+    "Answers": "No."
+  },
+  {
+    "ID": "207",
+    "Questions": "Show that the functions y=x sin x and y=x cos x are not bounded as x→∞ (indicate for each of them at least one sequence of xₙ such that yₙ→∞). Do the functions become infinitely large? Sketch the graphs of the functions.",
+    "Answers": "For example, xₙ = π/2 + 2nπ, xₙ' = 2nπ; no."
+  },
+  {
+    "ID": "209",
+    "Questions": "For what values of a is the function y = aˣ sin x unbounded as x→+∞ (x→-∞)?",
+    "Answers": "If a > 1, the function is unbounded (but not infinitely large) as x → +∞; it tends to zero as x → -∞. If 0 < a < 1, the function is unbounded as x → -∞ (but is not infinitely large); it tends to zero as x → +∞. With a = 1 the function is bounded throughout the real axis."
+  },
+  {
+    "ID": "210",
+    "Questions": "Are the following functions unbounded? \n(1) f(x) = (1/x)cos(1/x) as x→0; \n(2) f(x) = x arc tan x as x→∞; \n(3) f(x) = 2ˣ arc sin(sin x) as x→+∞; \n(4) f(x) = (2+sin x)log x as x→+∞; \n(5) f(x) = (1+sin x)log x as x→+∞.",
+    "Answers": "(1), (3) and (5) — No; (2) and (4) — Yes."
+  },
+  {
+    "ID": "213",
+    "Questions": "Show that y = x/(x+1) → 0 as x→0. What condition must x satisfy for the inequality |y| < 10⁻⁴ to hold?",
+    "Answers": "-1/10,001 < x < 1/9999."
+  },
+  {
+    "ID": "214",
+    "Questions": "Prove that the function y = √(x+1) - √x tends to zero as x→∞. What must N be for x>N to imply y<ε?",
+    "Answers": "N ≥ (1-ε²)/(2ε)²."
+  },
+  {
+    "ID": "215",
+    "Questions": "Write each of the following functions, which has a limit as x→∞, as the sum of a constant (equal to the limit) and a function; prove that the latter function is an infinitesimal as x→∞: (1) y = x³/(x³-1); (2) y = x²/(2x²+1); (3) y = (1-x²)/(1+x²).",
+    "Answers": "(1) y = 1 + 1/(x³-1); (2) y = 1/2 - 1/(2(2x²+1)); (3) y = -1 + 2/(1+x²)."
+  },
+  {
+    "ID": "216*",
+    "Questions": "uₙ takes the values u₁ = 1/4, u₂ = 1/4 + 1/10, u₃ = 1/4 + 1/10 + 1/28, ..., uₙ = 1/(3+1) + 1/(3²+1) + ... + 1/(3ⁿ+1), ... Show that uₙ tends to a limit as n→∞.",
+    "Answers": "Compare uₙ with the sum of the terms of the geometric progression 1/3, 1/9, 1/27, ..., 1/3ⁿ."
+  },
+  {
+    "ID": "220",
+    "Questions": "Show that the sequence uₙ: u₁=√6, u₂=√(6+u₁), ..., uₙ=√(6+uₙ₋₁)... has a limit and find the limit.",
+    "Answers": "3."
+  },
+  {
+    "ID": "221",
+    "Questions": "A function is defined as follows: y=0 for x<0; y=x for 0≤x<1; y=-x²+4x-2 for 1≤x<3; y=4-x for x≥3. Is this function continuous?",
+    "Answers": "Yes."
+  },
+  {
+    "ID": "222",
+    "Questions": "Three cylinders of the same height 5 m and base radii 3, 2 and 1 m respectively are set up end to end. Express the cross-sectional area of the figure obtained as a function of the distance of the section from the lower base of the bottom cylinder. Is this function continuous? Draw its graph.",
+    "Answers": "f(x) = 9π for 0 ≤ x ≤ 5; f(x) = 4π for 5 < x ≤ 10; f(x) = π for 10 < x ≤ 15. The function is discontinuous at x = 5 and x = 10."
+  },
+  {
+    "ID": "223",
+    "Questions": "Let f(x) = { x+1, if x≤1; 3-ax², if x>1. For what choice of number a is f(x) continuous? (Draw its graph.)",
+    "Answers": "a = 1."
+  },
+  {
+    "ID": "224",
+    "Questions": "Let f(x) = { -2sin x, if x ≤ -π/2; A sin x + B, if -π/2 < x < π/2; cos x, if x ≥ π/2. Choose the numbers A and B so that f(x) is continuous; draw its graph.",
+    "Answers": "A = -1, B = 1."
+  },
+  {
+    "ID": "225",
+    "Questions": "At what points have the functions y = 1/(x-2) and y = 1/(x+2)² discontinuities? Draw the graphs of the functions. Describe the difference in the behaviour of the functions close to their discontinuities.",
+    "Answers": "x = 2; x = -2."
+  },
+  {
+    "ID": "226",
+    "Questions": "The function f(x) = (x²-1)/(x³-1) is not defined at x=1. What value must we give f(1) in order to make f(x) continuous at x=1?",
+    "Answers": "2/3."
+  },
+  {
+    "ID": "227",
+    "Questions": "What sort of discontinuities do the functions y = (sin x)/x and y = (cos x)/x have at x=0? Show the nature of the graphs of the functions in the neighbourhood of x=0.",
+    "Answers": "The function y = sin(x)/x has a removable discontinuity at the point x = 0, y = cos(x)/x has a discontinuity of the second kind (infinite)."
+  },
+  {
+    "ID": "228",
+    "Questions": "Investigate the continuity of the function given by: y = |x|/x at x≠0, y=0 at x=0. Draw the graph of the function.",
+    "Answers": "The function is discontinuous for x = 0."
+  },
+  {
+    "ID": "229",
+    "Questions": "How many discontinuities (and of what kind) has the function y = 1/log|x|? Sketch its graph.",
+    "Answers": "The function has three points of discontinuity. At x = 0 the discontinuity is removable, whilst it is of the second kind (infinite) at x = ±1."
+  },
+  {
+    "ID": "230",
+    "Questions": "The function y = arc tan(1/x) is not defined at x=0. Is it possible to further define f(x) at x=0 in such a way that the function is continuous at this point? Sketch the graph of the function.",
+    "Answers": "No. As x→0 from the right, f(x) → π/2, whilst as x→0 from the left, f(x) → -π/2."
+  },
+  {
+    "ID": "231",
+    "Questions": "Investigate the continuity of the function given by f(x) = sin(π/(2x)) at x≠0, f(0)=1. Sketch the graph of the function.",
+    "Answers": "The function is discontinuous at x = 0."
+  },
+  {
+    "ID": "232",
+    "Questions": "Sketch the graph of f(x) = x sin(π/x). What value must we give f(0) in order to make the function continuous everywhere?",
+    "Answers": "0."
+  },
+  {
+    "ID": "234",
+    "Questions": "Investigate the character of the discontinuity of the function y = 2^(-2^(1/(1-x))) at x=1. Could y be defined at x=1 in such a way that the function would become continuous at x=1?",
+    "Answers": "No. As x → 1 from the right, y→ 1, whilst as x → 1 from the left, y→ 0."
+  },
+  {
+    "ID": "235",
+    "Questions": "Investigate the nature of the discontinuity of the function y = (2^(1/x)-1)/(2^(1/x)+1) at the point x=0.",
+    "Answers": "As x→0 from the right, y→ 1, whilst as x→0 from the left, y→ -1."
+  },
+  {
+    "ID": "236",
+    "Questions": "A function f(x) is defined as follows: f(x) = (x+1)2^(-(|x|+1/x)) for x≠0 and f(0)=0. Verify that the values of f(x) lie exclusively between f(-2) and f(2) in the interval -2≤x≤2 and that f(x) is nevertheless discontinuous (at what point?). Sketch its graph.",
+    "Answers": "The function is discontinuous at x = 0 (discontinuity of the first kind)."
+  },
+  {
+    "ID": "237",
+    "Questions": "Investigate the continuity of the function y = 1/(1+2^(tan x)). What sort of graph has the function?",
+    "Answers": "The function has discontinuities of the first kind at the points x = (π/2)(2k + 1)."
+  },
+  {
+    "ID": "238",
+    "Questions": "A function is defined thus: if x is a rational number, f(x)=0; if x is irrational, f(x)=x. For what value of x is the function continuous?",
+    "Answers": "The function is continuous at x = 0, and is discontinuous for x ≠ 0."
+  },
+  {
+    "ID": "239",
+    "Questions": "Investigate the continuity and draw the graphs of: (1) y = x - E(x); (2) y = 1/(x-E(x)); (3) y = (-1)^(E(x)). Function E(x) is equal to the greatest integer not greater than x (see also problem 59).",
+    "Answers": "All three functions are discontinuous when x is equal to an integer (positive or negative) or zero."
+  },
+  {
+    "ID": "241*",
+    "Questions": "Prove that: (a) a polynomial of odd degree has at least one real root; (b) a polynomial of even degree has at least two real roots if it takes at least one value of opposite sign to its first coefficient.",
+    "Answers": "Write the polynomial in the form xⁿ(a₀ + a₁/x + ... + aₙ/xⁿ) and investigate its behaviour as x → ±∞."
+  },
+  {
+    "ID": "244*",
+    "Questions": "Show that the equation a₁/(x-λ₁) + a₂/(x-λ₂) + a₃/(x-λ₃) = 0, where a₁>0, a₂>0, a₃>0 and λ₁<λ₂<λ₃, has two real roots in the intervals (λ₁, λ₂) and (λ₂, λ₃).",
+    "Answers": "Draw schematically the graph of the function y = a₁/(x-λ₁) + a₂/(x-λ₂) + a₃/(x-λ₃), and investigate its behaviour in the neighbourhood of points λ₁, λ₂ and λ₃."
+  },
+  {
+    "ID": "245",
+    "Questions": "Find the limit: lim (n+1)/n as n→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "246",
+    "Questions": "Find the limit: lim (n+1)²/(2n²) as n→∞",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "247",
+    "Questions": "Find the limit: lim ((n+1)³-(n-1)³)/((n+1)²+(n-1)²) as n→∞",
+    "Answers": "3."
+  },
+  {
+    "ID": "248",
+    "Questions": "Find the limit: lim (n³-100n²+1)/(100n²+15n) as n→∞",
+    "Answers": "∞."
+  },
+  {
+    "ID": "249",
+    "Questions": "Find the limit: lim (1000n³+3n²)/(0.001n⁴-100n³+1) as n→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "250",
+    "Questions": "Find the limit: lim ((n+1)⁴-(n-1)⁴)/((n+1)⁴+(n-1)⁴) as n→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "251",
+    "Questions": "Find the limit: lim ((2n+1)⁴-(n-1)⁴)/((2n+1)⁴+(n-1)⁴) as n→∞",
+    "Answers": "15/17."
+  },
+  {
+    "ID": "252",
+    "Questions": "Find the limit: lim (³√(n³+2n-1))/(n+2) as n→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "253",
+    "Questions": "Find the limit: lim (³√(n²+n))/(n+1) as n→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "254",
+    "Questions": "Find the limit: lim (√(n²+1)+n)²/(³√(n⁶+1)) as n→∞",
+    "Answers": "4."
+  },
+  {
+    "ID": "255",
+    "Questions": "Find the limit: lim (³√(n³-2n²+1) + ⁴√(n⁴+1))/(⁵√(n⁶+6n⁵+2) - √(n⁷+3n³+1)) as n→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "256",
+    "Questions": "Find the limit: lim (⁴√(n⁵+2) - ³√(n²+1))/(⁵√(n⁴+2) - √(n³+1)) as n→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "257",
+    "Questions": "Find the limit: lim n!/((n+1)!-n!) as n→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "258",
+    "Questions": "Find the limit: lim ((n+2)!+(n+1)!)/((n+3)!) as n→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "259",
+    "Questions": "Find the limit: lim ((n+2)!+(n+1)!)/((n+2)!-(n+1)!) as n→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "260",
+    "Questions": "Find the limit: lim (1 + 1/2 + 1/4 + ... + 1/2ⁿ) as n→∞",
+    "Answers": "2."
+  },
+  {
+    "ID": "261",
+    "Questions": "Find the limit: lim (1 + 1/3 + 1/9 + ... + 1/3ⁿ) as n→∞",
+    "Answers": "3/2."
+  },
+  {
+    "ID": "262",
+    "Questions": "Find the limit: lim (1/n²) * (1+2+3+...+n) as n→∞",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "263",
+    "Questions": "Find the limit: lim ((1+2+3+...+n)/(n+2) - n/2) as n→∞",
+    "Answers": "-1/2."
+  },
+  {
+    "ID": "264*",
+    "Questions": "Find the limit: lim (1/(1·2) + 1/(2·3) + ... + 1/((n-1)n)) as n→∞",
+    "Answers": "1. Notice that 1/((n-1)n) = 1/(n-1) - 1/n."
+  },
+  {
+    "ID": "265",
+    "Questions": "Find the limit: lim (1/(1·3) + 1/(3·5) + ... + 1/((2n-1)(2n+1))) as n→∞",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "266",
+    "Questions": "Find the limit: lim (2ⁿ-1)/(2ⁿ+1) as n→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "267",
+    "Questions": "Find the limit: lim (2^(1/n)-1)/(2^(1/n)+1) as n→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "268",
+    "Questions": "Find the limit: lim (x²+5)/(x²-3) as x→2",
+    "Answers": "9."
+  },
+  {
+    "ID": "269",
+    "Questions": "Find the limit: lim (x³-3x+1)/(x-4) as x→0",
+    "Answers": "-1/4."
+  },
+  {
+    "ID": "270",
+    "Questions": "Find the limit: lim x/(1-√x) as x→1",
+    "Answers": "∞."
+  },
+  {
+    "ID": "271",
+    "Questions": "Find the limit: lim (x-3)/(x³+x²+1) as x→√3",
+    "Answers": "0."
+  },
+  {
+    "ID": "272",
+    "Questions": "Find the limit: lim (x²-2x+1)/(x³-x) as x→-1",
+    "Answers": "0."
+  },
+  {
+    "ID": "273",
+    "Questions": "Find the limit: lim (x³+3x²+2x)/(x²-x-6) as x→-2",
+    "Answers": "-2/5."
+  },
+  {
+    "ID": "274",
+    "Questions": "Find the limit: lim (x-1)(√2-x)/(x²-1) as x→1",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "275",
+    "Questions": "Find the limit: lim (8x³-1)/(6x²-5x+1) as x→1/2",
+    "Answers": "6."
+  },
+  {
+    "ID": "276",
+    "Questions": "Find the limit: lim (x³+x-2)/(x³-x²-x+1) as x→1",
+    "Answers": "∞."
+  },
+  {
+    "ID": "277",
+    "Questions": "Find the limit: lim (1/(1-x) - 3/(1-x³)) as x→1",
+    "Answers": "-1."
+  },
+  {
+    "ID": "278",
+    "Questions": "Find the limit: lim [ 1/(x(x-2)²) - 1/(x²-3x+2) ] as x→2",
+    "Answers": "∞."
+  },
+  {
+    "ID": "279",
+    "Questions": "Find the limit: lim [ (x+2)/(x²-5x+4) + (x-4)/(3(x²-3x+2)) ] as x→1",
+    "Answers": "0."
+  },
+  {
+    "ID": "280",
+    "Questions": "Find the limit: lim (xᵐ-1)/(xⁿ-1) (m and n are integers) as x→1",
+    "Answers": "m/n."
+  },
+  {
+    "ID": "281",
+    "Questions": "Find the limit: lim (x³+x)/(x⁴-3x²+1) as x→-∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "282",
+    "Questions": "Find the limit: lim (x⁴-5x)/(x²-3x+1) as x→∞",
+    "Answers": "∞."
+  },
+  {
+    "ID": "283",
+    "Questions": "Find the limit: lim (x²-1)/(2x²+1) as x→∞",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "284",
+    "Questions": "Find the limit: lim (1+x-3x³)/(1+x²+3x³) as x→∞",
+    "Answers": "-1."
+  },
+  {
+    "ID": "285",
+    "Questions": "Find the limit: lim (x³/(x²+1) - x) as x→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "286",
+    "Questions": "Find the limit: lim (x³/(2x²-1) - x²/ (2x+1)) as x→+∞",
+    "Answers": "1/4."
+  },
+  {
+    "ID": "287",
+    "Questions": "Find the limit: lim [ 3x²/(2x+1) - (2x-1)(3x²+x+2)/(4x²) ] as x→∞",
+    "Answers": "-1/2."
+  },
+  {
+    "ID": "288",
+    "Questions": "Find the limit: lim ((x+1)¹⁰+(x+2)¹⁰+...+(x+100)¹⁰)/(x¹⁰+10¹⁰) as x→∞",
+    "Answers": "100."
+  },
+  {
+    "ID": "289",
+    "Questions": "Find the limit: lim (⁴√(x²+1)+√x)/(⁴√(x³+x)-x) as x→+∞",
+    "Answers": "-1."
+  },
+  {
+    "ID": "290",
+    "Questions": "Find the limit: lim (³√(x²+1)-⁵√(x³+1))/(⁴√(x⁴+1)-√(x²+1)) as x→-∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "291",
+    "Questions": "Find the limit: lim (⁵√(x⁷+3)+⁴√(2x³-1))/(⁶√(x⁸+x⁷+1)-x) as x→+∞",
+    "Answers": "∞."
+  },
+  {
+    "ID": "292",
+    "Questions": "Find the limit: lim (³√(x⁴+3)-⁵√(x³+4))/(³√(x⁷+1)) as x→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "293",
+    "Questions": "Find the limit: lim (√(1+x²)-1)/x² as x→0",
+    "Answers": "0."
+  },
+  {
+    "ID": "294",
+    "Questions": "Find the limit: lim (√(1+x)-1)/x as x→0",
+    "Answers": "∞."
+  },
+  {
+    "ID": "295",
+    "Questions": "Find the limit: lim (√(x²+1)-1)/(√(x²+16)-4) as x→0",
+    "Answers": "4."
+  },
+  {
+    "ID": "296",
+    "Questions": "Find the limit: lim (√(x-1)-2)/(x-5) as x→5",
+    "Answers": "1/4."
+  },
+  {
+    "ID": "297",
+    "Questions": "Find the limit: lim (x-√x)/(√x-1) as x→1",
+    "Answers": "1."
+  },
+  {
+    "ID": "298",
+    "Questions": "Find the limit: lim (√(x+h)-√x)/h as h→0",
+    "Answers": "1/(2√x) if x > 0; ∞ if x = 0."
+  },
+  {
+    "ID": "299",
+    "Questions": "Find the limit: lim (³√(1+x²)-1)/x² as x→0",
+    "Answers": "1/3."
+  },
+  {
+    "ID": "300",
+    "Questions": "Find the limit: lim (³√(1+x) - ³√(1-x))/x as x→0",
+    "Answers": "2/3."
+  },
+  {
+    "ID": "301",
+    "Questions": "Find the limit: lim (√(x-b)-√(a-b))/(x²-a²) as x→a (a>b).",
+    "Answers": "1/(4a√(a-b))."
+  },
+  {
+    "ID": "302",
+    "Questions": "Find the limit: lim (ⁿ√x-1)/(ᵐ√x-1) (n and m are integers) as x→1",
+    "Answers": "m/n."
+  },
+  {
+    "ID": "303*",
+    "Questions": "Find the limit: lim (⁴√(1+x²) - ⁴√(1-2x))/(x+x²) as x→0",
+    "Answers": "1/2. Add and subtract unity from the numerator."
+  },
+  {
+    "ID": "304",
+    "Questions": "Find the limit: lim (³√(7+x³) - ³√(3+x²))/(x-1) as x→1",
+    "Answers": "-1/4."
+  },
+  {
+    "ID": "305",
+    "Questions": "How do the roots of the quadratic equation ax²+bx+c=0 vary when b and c remain constant (b≠0) and a tends to zero?",
+    "Answers": "One root tends to -c/b, the other to ∞."
+  },
+  {
+    "ID": "306",
+    "Questions": "Find the limit: lim (√(x+a)-√x) as x→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "307",
+    "Questions": "Find the limit: lim (√(x²+1)-√(x²-1)) as x→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "308",
+    "Questions": "Find the limit: lim (√(x²+1) - x)† as x→±∞. († In problems where we indicate x→±∞, the cases x→+∞ and x→-∞ have to be considered separately.)",
+    "Answers": "0 if x → +∞; ∞ if x → -∞."
+  },
+  {
+    "ID": "309",
+    "Questions": "Find the limit: lim x(√(x²+1)-x) as x→+∞",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "310",
+    "Questions": "Find the limit: lim (√((x+a)(x+b))-x) as x→+∞",
+    "Answers": "(a+b)/2."
+  },
+  {
+    "ID": "311",
+    "Questions": "Find the limit: lim (³√(x³-2x-1) - ³√(x³-7x+3)) as x→+∞",
+    "Answers": "± 5/2."
+  },
+  {
+    "ID": "312",
+    "Questions": "Find the limit: lim (³√((x+1)²) - ³√((x-1)²)) as x→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "313",
+    "Questions": "Find the limit: lim x²(³√(x³+1) - ³√(x³-1)) as x→+∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "314",
+    "Questions": "Find the limit: lim (sin 3x)/x as x→0",
+    "Answers": "3."
+  },
+  {
+    "ID": "315",
+    "Questions": "Find the limit: lim (tan kx)/x as x→0",
+    "Answers": "k."
+  },
+  {
+    "ID": "316",
+    "Questions": "Find the limit: lim (sin αx)/(sin βx) as x→0",
+    "Answers": "α/β."
+  },
+  {
+    "ID": "317",
+    "Questions": "Find the limit: lim (tan 2x)/(sin 5x) as x→0",
+    "Answers": "2/5."
+  },
+  {
+    "ID": "318",
+    "Questions": "Find the limit: lim (sin(xⁿ))/((sin x)ᵐ) as x→0 (n and m are positive integers).",
+    "Answers": "0 if n > m; 1 if n = m; ∞ if n < m."
+  },
+  {
+    "ID": "319",
+    "Questions": "Find the limit: lim (2 arc sin x)/(3x) as x→0",
+    "Answers": "2/3."
+  },
+  {
+    "ID": "320",
+    "Questions": "Find the limit: lim (2x - arc sin x)/(2x + arc tan x) as x→0",
+    "Answers": "1/3."
+  },
+  {
+    "ID": "321",
+    "Questions": "Find the limit: lim (1-cos x)/x² as x→0",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "322",
+    "Questions": "Find the limit: lim (1-cos³ x)/(x sin 2x) as x→0",
+    "Answers": "3/4."
+  },
+  {
+    "ID": "323",
+    "Questions": "Find the limit: lim tan α / (³√((1-cos α)²)) as α→0",
+    "Answers": "∞."
+  },
+  {
+    "ID": "324",
+    "Questions": "Find the limit: lim (1+sin x - cos x)/(1-sin x - cos x) as x→0",
+    "Answers": "-1."
+  },
+  {
+    "ID": "325",
+    "Questions": "Find the limit: lim (tan α - sin α)/α³ as α→0",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "326",
+    "Questions": "Find the limit: lim (1-cos α)² / (tan³ α - sin³ α) as α→0",
+    "Answers": "∞."
+  },
+  {
+    "ID": "327",
+    "Questions": "Find the limit: lim (1/sin x - 1/tan x) as x→0",
+    "Answers": "0."
+  },
+  {
+    "ID": "328",
+    "Questions": "Find the limit: lim (1-sin x) / ((π/2) - x)² as x→π/2",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "329",
+    "Questions": "Find the limit: lim cos x / (³√((1-sin x)²)) as x→π/2",
+    "Answers": "∞."
+  },
+  {
+    "ID": "330",
+    "Questions": "Find the limit: lim (sin 3x)/(sin 2x) as x→π",
+    "Answers": "-3/2."
+  },
+  {
+    "ID": "331",
+    "Questions": "Find the limit: lim ((π/2)-x) tan x as x→π/2",
+    "Answers": "1."
+  },
+  {
+    "ID": "332",
+    "Questions": "Find the limit: lim (sin α)/(1 - α²/π²) as α→π",
+    "Answers": "π/2."
+  },
+  {
+    "ID": "333",
+    "Questions": "Find the limit: lim (1-z) tan(πz/2) as z→1",
+    "Answers": "2/π."
+  },
+  {
+    "ID": "334",
+    "Questions": "Find the limit: lim (sin(y-a)/2) tan(πy/2a) as y→a",
+    "Answers": "-a/π."
+  },
+  {
+    "ID": "335",
+    "Questions": "Find the limit: lim (cos x - sin x)/(cos 2x) as x→π/4",
+    "Answers": "√2/2."
+  },
+  {
+    "ID": "336",
+    "Questions": "Find the limit: lim (sin(x-π/6))/(√3/2 - cos x) as x→π/6",
+    "Answers": "2."
+  },
+  {
+    "ID": "337",
+    "Questions": "Find the limit: lim ((1-sin(x/2))/(cos(x/2))) * (cos(x/4)-sin(x/4)) as x→π",
+    "Answers": "√2/2."
+  },
+  {
+    "ID": "338",
+    "Questions": "Find the limit: lim (2x tan x - π)/(cos x) as x→π/2",
+    "Answers": "-2."
+  },
+  {
+    "ID": "339",
+    "Questions": "Find the limit: lim (cos(a+x) - cos(a-x))/x as x→0",
+    "Answers": "-2 sin a."
+  },
+  {
+    "ID": "340",
+    "Questions": "Find the limit: lim (cos αx - cos βx)/x² as x→0",
+    "Answers": "(β²-α²)/2."
+  },
+  {
+    "ID": "341",
+    "Questions": "Find the limit: lim (sin(a+x) - sin(a-x))/(tan(a+x) - tan(a-x)) as x→0",
+    "Answers": "cos³ α."
+  },
+  {
+    "ID": "342",
+    "Questions": "Find the limit: lim (sin²α - sin²β)/(α²-β²) as α→β",
+    "Answers": "(sin 2β)/(2β)."
+  },
+  {
+    "ID": "343",
+    "Questions": "Find the limit: lim (sin(a+2h) - 2sin(a+h) + sin a)/h² as h→0",
+    "Answers": "-sin a."
+  },
+  {
+    "ID": "344",
+    "Questions": "Find the limit: lim (tan(a+2h) - 2tan(a+h) + tan a)/h² as h→0",
+    "Answers": "(2 sin a)/(cos³ a)."
+  },
+  {
+    "ID": "345",
+    "Questions": "Find the limit: lim (√2 - √(1+cos x))/sin²x as x→0",
+    "Answers": "√2/8."
+  },
+  {
+    "ID": "346",
+    "Questions": "Find the limit: lim (√(1+sin x) - √(1-sin x))/tan x as x→0",
+    "Answers": "1."
+  },
+  {
+    "ID": "347",
+    "Questions": "Find the limit: lim (√(1+x sin x) - √cos 2x)/(tan²(x/2)) as x→0",
+    "Answers": "6."
+  },
+  {
+    "ID": "348",
+    "Questions": "Find the limit: lim (1-cos x √cos 2x)/x² as x→0",
+    "Answers": "3/2."
+  },
+  {
+    "ID": "349",
+    "Questions": "Find the limit: lim (³√(1+arctan 3x) - ³√(1-arcsin 3x))/(³√(1-arcsin 2x) - ³√(1+arctan 2x)) as x→0",
+    "Answers": "-1."
+  },
+  {
+    "ID": "350*",
+    "Questions": "Find the limit: lim (√π - √arccos x)/√(x+1) as x→-1",
+    "Answers": "1/√(2π). Put arc cos x = y."
+  },
+  {
+    "ID": "351",
+    "Questions": "Find the limit: lim (x/(1+x))ˣ as x→∞",
+    "Answers": "1/e."
+  },
+  {
+    "ID": "352",
+    "Questions": "Find the limit: lim (1 - 1/x)ˣ as x→∞",
+    "Answers": "1/e."
+  },
+  {
+    "ID": "353",
+    "Questions": "Find the limit: lim (1 + 1/x)ˣ⁺¹ as x→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "354",
+    "Questions": "Find the limit: lim (1 + k/x)ᵐˣ as x→∞",
+    "Answers": "e^(mk)."
+  },
+  {
+    "ID": "355",
+    "Questions": "Find the limit: lim ((x+1)/(x-2))²ˣ⁻¹ as x→∞",
+    "Answers": "e⁶."
+  },
+  {
+    "ID": "356",
+    "Questions": "Find the limit: lim ((3x-4)/(3x+2))⁽ˣ⁺¹⁾/³ as x→∞",
+    "Answers": "e⁻⅔."
+  },
+  {
+    "ID": "357",
+    "Questions": "Find the limit: lim ((x²+1)/(x²-1))ˣ² as x→∞",
+    "Answers": "e²."
+  },
+  {
+    "ID": "358",
+    "Questions": "Find the limit: lim ((x+1)/(2x-1))ˣ as x→±∞",
+    "Answers": "0 if x → +∞; ∞ if x → -∞."
+  },
+  {
+    "ID": "359",
+    "Questions": "Find the limit: lim ((2x+1)/(x-1))ˣ as x→±∞",
+    "Answers": "∞ if x → +∞; 0 if x → -∞."
+  },
+  {
+    "ID": "360",
+    "Questions": "Find the limit: lim (1 + 1/x²)ˣ as x→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "361",
+    "Questions": "Find the limit: lim (1 + 1/x)ˣ² as x→±∞",
+    "Answers": "∞, if x → +∞; 0, if x → -∞."
+  },
+  {
+    "ID": "362",
+    "Questions": "Find the limit: lim ((x²-2x+1)/(x²-4x+2))ˣ as x→∞",
+    "Answers": "e²."
+  },
+  {
+    "ID": "363",
+    "Questions": "Find the limit: lim (1+sin x)^(cosec x) as x→0",
+    "Answers": "e."
+  },
+  {
+    "ID": "364",
+    "Questions": "Find the limit: lim (1+tan²√x)^(1/(2x)) as x→0",
+    "Answers": "√e."
+  },
+  {
+    "ID": "365",
+    "Questions": "Find the limit: lim (ln(1+kx))/x as x→0",
+    "Answers": "k."
+  },
+  {
+    "ID": "366",
+    "Questions": "Find the limit: lim (ln(a+x)-ln a)/x as x→0",
+    "Answers": "1/a."
+  },
+  {
+    "ID": "367",
+    "Questions": "Find the limit: lim {x[ln(x+a)-ln x]} as x→∞",
+    "Answers": "a."
+  },
+  {
+    "ID": "368",
+    "Questions": "Find the limit: lim (ln x - 1)/(x-e) as x→e",
+    "Answers": "1/e."
+  },
+  {
+    "ID": "369",
+    "Questions": "Find the limit: lim (aʰ-1)/h as h→0",
+    "Answers": "ln a."
+  },
+  {
+    "ID": "370",
+    "Questions": "Find the limit: lim (eˣ-1)/(3x) as x→0",
+    "Answers": "1/3."
+  },
+  {
+    "ID": "371",
+    "Questions": "Find the limit: lim (eˣ-e)/(x-1) as x→1",
+    "Answers": "e."
+  },
+  {
+    "ID": "372*",
+    "Questions": "Find the limit: lim (e^(x²)-cos x)/x² as x→0",
+    "Answers": "3/2; add and subtract unity from the numerator."
+  },
+  {
+    "ID": "373",
+    "Questions": "Find the limit: lim (eˣ-e⁻ˣ)/sin x as x→0",
+    "Answers": "2."
+  },
+  {
+    "ID": "374",
+    "Questions": "Find the limit: lim (e^(sin 2x) - e^(sin x))/x as x→0",
+    "Answers": "1."
+  },
+  {
+    "ID": "375",
+    "Questions": "Find the limit: lim (e^(ax)-e^(bx))/x as x→0",
+    "Answers": "a-b."
+  },
+  {
+    "ID": "376",
+    "Questions": "Find the limit: lim x(e^(1/x)-1) as x→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "377",
+    "Questions": "Find the limit: lim (cosh x - sinh x) as x→+∞",
+    "Answers": "0 if x→+∞; ∞ if x→-∞."
+  },
+  {
+    "ID": "378",
+    "Questions": "Find the limit: lim tanh x as x→+∞",
+    "Answers": "1 if x→+∞; -1 if x→-∞."
+  },
+  {
+    "ID": "379",
+    "Questions": "Find the limits in problems 379-401:\nlim (ax+1)ⁿ/(xⁿ+A) as x→∞. Consider the cases separately when (1) n is a positive integer, (2) n is a negative integer, (3) n is zero.",
+    "Answers": "(1) aⁿ; (2) 0 if A≠0, aⁿ if A=0 and a≠0, and ∞ if A=a=0; (3) 1/(1+A)."
+  },
+  {
+    "ID": "380",
+    "Questions": "Find the limit: lim x(√(x²+√(x⁴+1)) - x√2) as x→+∞",
+    "Answers": "0 if x→+∞; -∞ if x→-∞."
+  },
+  {
+    "ID": "381",
+    "Questions": "Find the limit: lim aˣ/(aˣ+1) as x→±∞ (a>0).",
+    "Answers": "With a > 1, the limit is equal to 1 if x→+∞, and 0 if x→-∞. With a < 1, the limit is equal to 0 if x→+∞, and 1 if x→-∞. With a = 1 the limit is equal to 1/2."
+  },
+  {
+    "ID": "382",
+    "Questions": "Find the limit: lim (aˣ-a⁻ˣ)/(aˣ+a⁻ˣ) as x→±∞ (a>0).",
+    "Answers": "With a > 1 the limit is equal to 1 if x→+∞, and -1 if x→-∞. With a < 1, vice versa. With a = 1 the limit is 0."
+  },
+  {
+    "ID": "383",
+    "Questions": "Find the limit: lim (sin x)/x as x→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "384",
+    "Questions": "Find the limit: lim (arc tan x)/x as x→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "385",
+    "Questions": "Find the limit: lim (x+sin x)/(x+cos x) as x→∞",
+    "Answers": "1."
+  },
+  {
+    "ID": "386",
+    "Questions": "Find the limit: lim (arc sin x)/tan(πx/2) as x→1",
+    "Answers": "0."
+  },
+  {
+    "ID": "387",
+    "Questions": "Find the limit: lim (sin(a+3h)-3sin(a+2h)+3sin(a+h)-sin a)/h³ as h→0",
+    "Answers": "-cos a."
+  },
+  {
+    "ID": "388",
+    "Questions": "Find the limit: lim tan²x(√(2sin²x+3sin x+4) - √(sin²x+6sin x+2)) as x→π/2",
+    "Answers": "1/12."
+  },
+  {
+    "ID": "389",
+    "Questions": "Find the limit: lim (1-cos(1-cos x))/x⁴ as x→0",
+    "Answers": "1/8."
+  },
+  {
+    "ID": "390*",
+    "Questions": "Find the limit: lim (cos(x/2)cos(x/4)...cos(x/2ⁿ)) as n→∞",
+    "Answers": "(sin x)/x. Multiply and divide by sin(x/2ⁿ)."
+  },
+  {
+    "ID": "391",
+    "Questions": "Find the limit: lim x²(1-cos(1/x)) as x→∞",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "392",
+    "Questions": "Find the limit: lim (cos√(x+1) - cos√x) as x→∞",
+    "Answers": "0."
+  },
+  {
+    "ID": "393*",
+    "Questions": "Find the limit: lim x(arc tan((x+1)/(x+2)) - π/4) as x→+∞",
+    "Answers": "-1/2. Use the formula arc tan b - arc tan a = arc tan((b-a)/(1+ab))."
+  },
+  {
+    "ID": "394",
+    "Questions": "Find the limit: lim x(arc tan((x+1)/(x+2)) - arc tan((x)/(x+2))) as x→+∞",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "395*",
+    "Questions": "Find the limit: lim (arc sin x - arc tan x)/x³ as x→0",
+    "Answers": "1/2. Replace arc sin x by arc tan(x/√(1-x²)) and use the hint on problem 393."
+  },
+  {
+    "ID": "396",
+    "Questions": "Find the limit: lim (1+1/x)^(xⁿ) as x→+∞ (n>0).",
+    "Answers": "∞ if n < 1; e if n = 1; 1 if n > 1."
+  },
+  {
+    "ID": "397*",
+    "Questions": "Find the limit: lim (cos x)^(1/sin x) as x→0",
+    "Answers": "1. Take the expression 1-(1-cos x) instead of cos x."
+  },
+  {
+    "ID": "398",
+    "Questions": "Find the limit: lim (ln cos x)/x² as x→0",
+    "Answers": "-1/2."
+  },
+  {
+    "ID": "399",
+    "Questions": "Find the limit: lim ((sin x)/x)^(sin x/(x-sin x)) as x→0",
+    "Answers": "1/e."
+  },
+  {
+    "ID": "400",
+    "Questions": "Find the limit: lim (cos x + sin x)^(1/x) as x→0",
+    "Answers": "e."
+  },
+  {
+    "ID": "401",
+    "Questions": "Find the limit: lim (cos x + a sin bx)^(1/x) as x→0",
+    "Answers": "e^(ab)."
+  },
+  {
+    "ID": "402",
+    "Questions": "An infinitesimal uₙ takes the values u₁=1, u₂=1/2, u₃=1/3, ..., uₙ=1/n, ..., whilst the corresponding values of infinitesimal vₙ are v₁=1, v₂=1/2!, v₃=1/3!, ..., vₙ=1/n!, ... Compare uₙ and vₙ; which is of the higher order of smallness?",
+    "Answers": "vₙ is of the higher order of smallness."
+  },
+  {
+    "ID": "403",
+    "Questions": "The function uₙ takes the values u₁=0, u₂=3/8, u₃=8/27, ..., uₙ=(n²-1)/n³, ... whilst the corresponding values of vₙ are v₁=2, v₂=5/8, v₃=10/27, ..., vₙ=(n²+1)/n³, ... Compare these infinitesimals.",
+    "Answers": "uₙ and vₙ are equivalent infinitesimals."
+  },
+  {
+    "ID": "404",
+    "Questions": "An infinitesimal uₙ takes the values u₁=0, u₂=1/4, u₃=2/9, ..., uₙ=(n-1)/n², ..., whilst the corresponding values of infinitesimal vₙ are v₁=3, v₂=5/4, v₃=7/9, ..., vₙ=(2n+1)/n², ... Show that uₙ and vₙ are infinitesimals of the same order but are non-equivalent.",
+    "Answers": "(Solution not provided, requires proof)."
+  },
+  {
+    "ID": "405",
+    "Questions": "Functions y=(1-x)/(1+x) and y=1-√x are infinitesimals as x→1. Which has the higher order?",
+    "Answers": "Of the same order."
+  },
+  {
+    "ID": "406",
+    "Questions": "Given the function y=x³, show that Δy and Δx are in general infinitesimals of the same order as Δx→0. For what value of x will the order of smallness of the increments be different? For what values of x are increments Δx and Δy equivalent?",
+    "Answers": "The order of smallness is different at x = 0. Δy and Δx are equivalent for x = ±1/√3."
+  },
+  {
+    "ID": "407",
+    "Questions": "Show that 1-x and 1-³√x are infinitesimals of the same order as x→1. Are they equivalent?",
+    "Answers": "No."
+  },
+  {
+    "ID": "408",
+    "Questions": "Let x→0. Then √(a+x²) - √a (a>0) is an infinitesimal. Find its order with respect to x.",
+    "Answers": "Of the third order."
+  },
+  {
+    "ID": "409",
+    "Questions": "Find the order with respect to x of the following infinitesimals as x→0: (1) x³+1000x²; (2) ³√(x²)-√x; (3) x(x+1)/(1+√x); (4) 7x¹⁰/(x³+1).",
+    "Answers": "(1) 2; (2) 1/2; (3) 1; (4) 10."
+  },
+  {
+    "ID": "410",
+    "Questions": "Show that the increments of functions y=a√x and v=bx² are of the same order of smallness for x>0 and the common increment Δx→0. For what value of x are they equivalent (a and b differ from zero)?",
+    "Answers": "x = ³√(a²/16b²)."
+  },
+  {
+    "ID": "411",
+    "Questions": "Show that, as x→1, the infinitesimals 1-x and a(1-ᵏ√x), where a≠0 and k is a positive integer, are of the same order. For what value of a are they equivalent?",
+    "Answers": "a = k."
+  },
+  {
+    "ID": "412",
+    "Questions": "Prove that sec x - tan x and π-2x are infinitesimals of the same order as x→π/2. Are they equivalent?",
+    "Answers": "No."
+  },
+  {
+    "ID": "413",
+    "Questions": "Prove that the infinitesimals e²ˣ - eˣ and sin 2x - sin x are equivalent as x→0.",
+    "Answers": "(Solution not provided, requires proof)."
+  },
+  {
+    "ID": "414",
+    "Questions": "Find the order with respect to x of the following functions, infinitesimal as x→0: (1) ³√(1+√x)-1; (2) ³√(1+2x-1)-√x; (3) e^(√x)-1; (4) e^(sin x)-1; (5) ln(1+√x sin x); (6) √(1+x²)tan(πx/2); (7) eˣ-cos x; (8) e^(cos x)-cos x; (9) cos x - ³√cos x; (10) sin(√(1+x)-1); (11) ln(1+x²)-2√(ex-1)²; (12) arc sin(√(4+x²)-2).",
+    "Answers": "(1) 1/2; (2) 1/3; (3) 1/2; (4) an equivalent infinitesimal; (5) an equivalent infinitesimal; (6) 1; (7) an equivalent infinitesimal; (8) 2; (9) 2; (10) 1; (11) 2/3; (12) 2."
+  },
+  {
+    "ID": "415",
+    "Questions": "Starting from an equilateral triangle of side a, a new triangle is constructed from the three heights of the first triangle, and so on n times; find the limit of the sum of the areas of all the triangles as n→∞.",
+    "Answers": "a²√3."
+  },
+  {
+    "ID": "416",
+    "Questions": "A square is inscribed in a circle of radius R, a circle is inscribed in the square, then a square in this circle, and so on n times. Find the limit of the sum of the areas of all the circles and the limit of the sum of the areas of all the squares as n→∞.",
+    "Answers": "2πR²; 4R²."
+  },
+  {
+    "ID": "417",
+    "Questions": "A step figure is inscribed as shown in Fig. 15 in a right-angled isosceles triangle, the base of which is divided into 2n equal parts. Show that the difference between the area of the triangle and that of the step figure is an infinitesimal as n increases indefinitely.",
+    "Answers": "(Solution not provided, requires proof)."
+  ,"images":["Img1/Berman_15.png"]},
+  {
+    "ID": "418",
+    "Questions": "The hypotenuse of a right-angled isosceles triangle of adjacent side a is divided into n equal parts and straight lines drawn from the points of subdivision parallel to the adjacent sides. The step line AKLMNOPQRTB (Fig. 16) is thus obtained. The length of this step line is equal to 2a for any n, i.e. the limit of its length is equal to 2a. But on the other hand, as n increases indefinitely the step line approaches indefinitely the hypotenuse. Consequently the length of the hypotenuse is equal to the sum of the lengths of the adjacent sides. Find the error in this argument.",
+    "Answers": "It does not follow from the fact that the step line tends to merge with the straight line (in the sense of their points approximating) that the length of the step line tends to the length of the segment."
+  ,"images":["Img1/Berman_16.png"]},
+  {
+    "ID": "419",
+    "Questions": "The straight line AB of length a is divided into equal parts by n points, and lines are drawn from these points at angles π/(2n) (Fig. 17). Find the limit of the length of the step line obtained as n increases indefinitely. Compare with the result of the previous problem.",
+    "Answers": "a."
+  ,"images":["Img1/Berman_17.png"]},
+  {
+    "ID": "420",
+    "Questions": "The straight line AB of length a is divided into n equal parts. An arc of a circle equal to π/n radians is erected on each part of AB (Fig. 18). Find the limit of the length of the resulting curve as n→∞. How does the result change if semicircles are erected on each subdivision?",
+    "Answers": "a, aπ/2."
+  ,"images":["Img1/Berman_18.png"]},
+  {
+    "ID": "421",
+    "Questions": "A circle of radius R is divided into equal parts by n points. Taking the points as centres, arcs of circles of radius r are drawn to their intersections with neighbouring arcs (Fig. 19). Find the limit of the length of the resulting closed curve when n increases indefinitely.",
+    "Answers": "2π(R+r)."
+  ,"images":["Img1/Berman_19.png"]},
+  {
+    "ID": "422",
+    "Questions": "Two circles of radii R and r (R>r) are located to the right of OY and touch it at the origin (Fig. 20). As x→0, of what order with respect to x are the infinitesimal segment MM' and the infinitesimal angle α?",
+    "Answers": "Both the segment and the angle are of order 1/2."
+  },
+  {
+    "ID": "423",
+    "Questions": "The straight line OP joins the centre of a circle to a point P lying outside the circle. A tangent PT is drawn to the circle from P and a perpendicular TN dropped from T to OP. Prove that segments AP and AN, where A is the point of intersection of OP with the circle, are equivalent infinitesimals as P→A.",
+    "Answers": "(Solution not provided, requires proof)."
+  ,"images":["Img1/Berman_20.png"]},
+  {
+    "ID": "424",
+    "Questions": "Tangents are drawn at the ends and mid-point of the arc AB of a circle and points A and B are joined by a chord. Show that the ratio of the areas of the two triangles thus formed tends to 4 as arc AB diminishes indefinitely.",
+    "Answers": "(Solution not provided, requires proof)."
+  },
+  {
+    "ID": "425",
+    "Questions": "Starting from the equivalence of functions √(1+x)-1 and (1/2)x (see Course, sec. 40) as x→0, evaluate approximately: (1) √105; (2) √912; (3) √260; (4) √1632; (5) √0.31; (6) √0.021.",
+    "Answers": "(1) 10.25; (2) 30.2; (3) 16.125; (4) 40.4; (5) 0.558; (6) 0.145."
+  },
+  {
+    "ID": "426",
+    "Questions": "Prove that ⁿ√(1+x)-1 and x/n are equivalent infinitesimals as x→0. Use this fact to find approximately the roots: (1) ³√1047; (2) ³√8144; (3) ⁵√1.1; (4) ⁵√1080. Find the same roots from logarithmic tables. Compare the results.",
+    "Answers": "(1) 10.16; (2) 20.12; (3) 1.02; (4) 4.04."
+  },
+  {
+    "ID": "427",
+    "Questions": "Use the equivalence of ln(1+x) and x as x→0 for approximate evaluation of the natural logarithms of the following numbers: 1.01; 1.02; 1.1; 1.2. Find the logarithms to base ten of the same numbers and compare with the tables.",
+    "Answers": "ln 1.01 ≈ 0.01, ln 1.02 ≈ 0.02, ln 1.1 ≈ 0.1, ln 1.2 ≈ 0.2."
+  },
+  {
+    "ID": "428",
+    "Questions": "A particle moves in a straight line according to the law s=5t+6. Find the average velocity: (a) during the first six seconds, (b) during the interval from the end of the third to the end of the sixth second.",
+    "Answers": "(a) 5; (b) 5."
+  },
+  {
+    "ID": "429",
+    "Questions": "A particle M moves away from a fixed point A so that the distance AM increases proportionally to the square of time. After 2 min from the initial instant distance AM is equal to 12m. Find the average velocity: (a) during the first 5 min, (b) during the interval from t=4 min to t=7 min, (c) during the interval from t=t₁ to t=t₂.",
+    "Answers": "(a) v = 15 m/min; (b) v = 33 m/min; (c) 3(t₁+t₂) m/min."
+  },
+  {
+    "ID": "430",
+    "Questions": "The equation of a rectilinear motion is s=t³+3/t. Find the average velocity during the interval from t=4 to t=4+Δt, putting Δt=2, 1, 0.1, 0.03.",
+    "Answers": "75.88; 60.85; 49.03; 48.05."
+  },
+  {
+    "ID": "431",
+    "Questions": "A freely falling body moves according to the law s=gt²/2, where g (=980 cm/sec²) is the acceleration due to gravity. Find the average velocity during the interval from t=5 sec to (t+Δt) sec, putting Δt = 1 sec, 0.1 sec, 0.05 sec, 0.001 sec. Find the velocity at the end of the fifth second and at the end of the tenth second. Obtain the formula for the velocity of the falling body at any instant t.",
+    "Answers": "53.9 m/sec; 49.49 m/sec; 49.25 m/sec; 49.005 m/sec; v₅ = 49.0 m/sec; v₁₀ = 98.0 m/sec; v = 9.8t m/sec."
+  },
+  {
+    "ID": "432",
+    "Questions": "AB is a thin non-homogeneous rod of length L=20cm. The mass of a piece AM increases proportionally to the square of the distance of point M from point A, and we know that the mass of AM=2cm is equal to 8g. Find: (a) the average linear density of the piece of rod AM=2cm, (b) of the whole rod, (c) the density of the rod at point M.",
+    "Answers": "(a) 4 g/cm; (b) 40 g/cm; (c) 4l g/cm, where l is the length of segment AM."
+  },
+  {
+    "ID": "433",
+    "Questions": "The mass (in g) of a thin non-homogeneous rod AB of length 30cm is distributed according to the law m=3l²+5l, where l is the length of a piece of rod measured from A. Find: (1) the average linear density of the rod, (2) the linear density: (a) at the point distant l=5cm from A, (b) at point A itself, (c) at the end of the rod.",
+    "Answers": "(1) 95 g/cm; (2) (a) 35 g/cm; (b) 5 g/cm; (c) 185 g/cm."
+  },
+  {
+    "ID": "434",
+    "Questions": "The amount of heat Q required to raise unit mass of water from 0 to t° C is given by Q=t+0.00002t²+0.0000003t³ (cal/g). Find the specific heat of water at t=30°, t=100°.",
+    "Answers": "(1) 1.00201; (2) 1.013."
+  },
+  {
+    "ID": "435*",
+    "Questions": "The angular velocity of a uniform rotation is defined as the ratio of the angle of rotation to the corresponding time interval. Give the definition of the angular velocity of a non-uniform rotation.",
+    "Answers": "Introduce the mean angular velocity, then obtain the required quantity by passage to the limit. (See Course, sec. 50.)"
+  },
+  {
+    "ID": "438",
+    "Questions": "The thermal coefficient of linear expansion of a rod is the increase in unit length per 1°C rise in temperature if we assume uniform expansion. The process is in fact non-uniform. Let l=f(t), where l is the length of the rod, t the temperature. Define the coefficient of linear expansion.",
+    "Answers": "k = f'(t)/f(t), where k is the coefficient of linear expansion."
+  },
+  {
+    "ID": "439",
+    "Questions": "The coefficient of extension of a spring is defined as the increase in unit length of the spring under the action of unit force acting per square centimetre of the spring cross-section. It is assumed here that the extension is proportional to the force (Hooke's law). Define the coefficient of extension k when there is a deviation from Hooke's law. (Let l be the spring length, S the cross-sectional area, P the extending force and l=φ(P).)",
+    "Answers": "K = S * φ'(P)/φ(P)."
+  },
+  {
+    "ID": "440",
+    "Questions": "Find the increment of the function y=x³ at the point x₁=2 when the increment Δx of the independent variable is (1) 2, (2) 1, (3) 0.5, (4) 0.1.",
+    "Answers": "(1) 56; (2) 19; (3) 7.625; (4) 1.261."
+  },
+  {
+    "ID": "441",
+    "Questions": "Find the ratio Δy/Δx for the functions: (1) y=2x³-x²+1 for x=1; Δx=0.1; (2) y=1/x for x=2; Δx=0.01; (3) y=√x for x=4; Δx=0.4. Show that, as Δx→0, the ratio tends in the first case to 4, in the second to -1/4, in the third to 1/4.",
+    "Answers": "(1) 4.52; (2) -0.249; (3) 0.245."
+  },
+  {
+    "ID": "442",
+    "Questions": "Given the function y=x², find approximate numerical values for the derivative at x=3 when Δx is equal to (a) 0.5, (b) 0.1, (c) 0.01, (d) 0.001.",
+    "Answers": "(a) 6.5; (b) 6.1; (c) 6.01; (d) 6.001."
+  },
+  {
+    "ID": "443",
+    "Questions": "f(x)=x²; find f'(5); f'(-2); f'(-3/2).",
+    "Answers": "f'(5)=10; f'(-2)=-4; f'(-3/2)=-3."
+  },
+  {
+    "ID": "444",
+    "Questions": "f(x)=x³; find f'(1); f'(0); f'(-√2); f'(1/3).",
+    "Answers": "3; 0; 6; 1/3."
+  },
+  {
+    "ID": "445",
+    "Questions": "f(x)=x². At what point does f(x)=f'(x)?",
+    "Answers": "x₁=0, x₂=2."
+  },
+  {
+    "ID": "446",
+    "Questions": "Given f(x)=x², show that f'(a+b)=f'(a)+f'(b). Does the same equation hold for f(x)=x³?",
+    "Answers": "Does not hold for f(x)=x³."
+  },
+  {
+    "ID": "447",
+    "Questions": "Find the numerical value of the derivative of y=sin x at x=0.",
+    "Answers": "1."
+  },
+  {
+    "ID": "448",
+    "Questions": "Find the numerical value of the derivative of y=log x at x=1.",
+    "Answers": "0.4343."
+  },
+  {
+    "ID": "449",
+    "Questions": "Find the numerical value of the derivative of y=10ˣ at x=0.",
+    "Answers": "2.303."
+  },
+  {
+    "ID": "450",
+    "Questions": "What is the limit of f(x)/x as x→0 if f(0)=0?",
+    "Answers": "The limit is equal to f'(0)."
+  },
+  {
+    "ID": "453",
+    "Questions": "Find the derivatives of the functions: (1) x⁵; (2) x¹⁰; (3) x^(1/3); (4) ³√x²; (5) √x; (6) x⁻³; (7) 1/x; (8) ⁵√(1/x³); (9) x√x⁴; (10) 0.7x⁵; (11) 1/¹²√x; (12) ax⁻⁷; (13) ⁿ√x; (14) p/x; (15) ax^(-2/3).",
+    "Answers": "(1) 5x⁴; (2) 10x⁹; (3) (1/3)x^(-2/3); (4) (2/3)x^(-1/3); (5) 1/(2√x); (6) -3x⁻⁴; (7) -1/x²; (8) (-3/5)x^(-8/5); (9) (7/4)x^(3/4); (10) 3.5x⁴; (11) (-1/12)x^(-13/12); (12) -7ax⁻⁸; (13) (1/n)x^((1-n)/n); (14) -p/x²; (15) (-2/3)ax^(-5/3)."
+  },
+  {
+    "ID": "454",
+    "Questions": "Find the slope of the tangent to the parabola y=x²: (1) at the origin, (2) at the point (3,9), (3) at the point (-2,4), (4) at its points of intersection with the straight line y=3x-2.",
+    "Answers": "(1) 0; (2) 6; (3) -4; (4) k₁=2, k₂=4."
+  },
+  {
+    "ID": "455",
+    "Questions": "At what points is the slope of the tangent to the cubical parabola y=x³ equal to 3?",
+    "Answers": "(1, 1); (-1, -1)."
+  },
+  {
+    "ID": "456",
+    "Questions": "At what point is the tangent to the parabola y=x²: (1) parallel to Ox, (2) at an angle of 45° to Ox?",
+    "Answers": "(1) (0, 0); (2) (1/2, 1/4)."
+  },
+  {
+    "ID": "457",
+    "Questions": "Can the tangent to the cubical parabola y=x³ form an obtuse angle with Ox?",
+    "Answers": "It cannot."
+  },
+  {
+    "ID": "458",
+    "Questions": "At what angle does the parabola y=x² cut the straight line 3x-y-2=0?",
+    "Answers": "α₁=arc tan(1/7), α₂=arc tan(1/13)."
+  },
+  {
+    "ID": "459",
+    "Questions": "At what angles do the parabolas y=x² and y²=x intersect?",
+    "Answers": "α₁=π/2, α₂=arc tan(3/4)."
+  },
+  {
+    "ID": "460",
+    "Questions": "At what angles do the hyperbola y=1/x and the parabola y=√x intersect?",
+    "Answers": "arc tan 3."
+  },
+  {
+    "ID": "461",
+    "Questions": "Write down the equations of the tangent and normal to y=x³ at the point with abscissa 2. Find the subtangent and subnormal.",
+    "Answers": "y=12x-16; x+12y-98=0; the subtangent is equal to 2/3, the subnormal to 96."
+  },
+  {
+    "ID": "462",
+    "Questions": "For what values of the independent variable are the tangents to y=x² and y=x³ parallel?",
+    "Answers": "For x=0 and for x=2/3."
+  },
+  {
+    "ID": "463",
+    "Questions": "At what point is the tangent to the parabola y=x²: (1) parallel to the straight line y=4x-5; (2) perpendicular to the straight line 2x-6y+5=0; (3) at an angle of 45° to the straight line 3x-y+1=0?",
+    "Answers": "(1) (2, 4); (2) (-3/2, 9/4); (3) (-1, 1) and (1/4, 1/16)."
+  },
+  {
+    "ID": "466",
+    "Questions": "Differentiate the following functions (x,y,z,t,u,v are independent variables; a,b,c,m,n,p,q are constants): (1) 3x²-5x+1; (2) x⁴-1/3x³+2.5x²-0.3x+0.1; (3) ax²+bx+c; (4) √x + ³√x + ⁴√x",
+    "Answers": "(1) 6x-5; (2) 4x³-x²+5x-0.3; (3) 2ax+b; (4) 1/(2√x) + 1/(3³√x²) + 1/(4⁴√x³)."
+  },
+  {
+    "ID": "467",
+    "Questions": "f(x)=3x-2√x. Find: f(1); f'(1); f(4); f'(4); f(a²); f'(a²).",
+    "Answers": "f(1)=1; f'(1)=2; f(4)=8; f'(4)=2.5; f(a²)=3a²-2|a|; f'(a²)=3-1/|a|."
+  },
+  {
+    "ID": "468",
+    "Questions": "f(t)=(t²-5t-1)/t³. Find: f(-1); f'(-1); f'(2); f'(1/a).",
+    "Answers": "f(-1)=-5; f'(-1)=-8; f'(2)=19/16; f'(1/a)=3a⁴+10a³-a²."
+  },
+  {
+    "ID": "469",
+    "Questions": "f(z)=(2z³-3z+√z-1)/z. Find: f'(1/4).",
+    "Answers": "13."
+  },
+  {
+    "ID": "471",
+    "Questions": "Differentiate the functions of problems 471-489 (x,y,z,t,u,v,s are variables; a,b,c,d,m are constants). (1) y=(x²-3x+3)(x²+2x-1)",
+    "Answers": "(1) 4x³-3x²-8x+9"
+  },
+  {
+    "ID": "472",
+    "Questions": "y=(x+1)/(x-1)",
+    "Answers": "-2/(x-1)²"
+  },
+  {
+    "ID": "473",
+    "Questions": "y=x/(x²+1)",
+    "Answers": "(1-x²)/(1+x²)²"
+  },
+  {
+    "ID": "474",
+    "Questions": "s=(3t²+1)/(t-1)",
+    "Answers": "(3t²-6t-1)/(t-1)²"
+  },
+  {
+    "ID": "475",
+    "Questions": "u=(v³-2v)/(v²+v+1)",
+    "Answers": "(v⁴+2v³+5v²-2)/(v²+v-1)²"
+  },
+  {
+    "ID": "476",
+    "Questions": "y=(ax+b)/(cx+d)",
+    "Answers": "(ad-bc)/(cx+d)²"
+  },
+  {
+    "ID": "477",
+    "Questions": "z=(x²+1)/(3(x²-1)) + (x²-1)(1-x)",
+    "Answers": "-4x/(3(x²-1)²) + 1+2x-3x²"
+  },
+  {
+    "ID": "478",
+    "Questions": "u=v⁵/(v³-2)",
+    "Answers": "2v⁴(v³-5)/(v³-2)²"
+  },
+  {
+    "ID": "479",
+    "Questions": "y=(1-x³)/(1+x³)",
+    "Answers": "-6x²/(1+x³)²"
+  },
+  {
+    "ID": "480",
+    "Questions": "y=2/(x³-1)",
+    "Answers": "-6x²/(x³-1)²"
+  },
+  {
+    "ID": "481",
+    "Questions": "u=(v²-v+1)/(a²-3)",
+    "Answers": "(2v-1)/(a²-3)"
+  },
+  {
+    "ID": "482",
+    "Questions": "y=(1-x³)/√π",
+    "Answers": "-3x²/√π"
+  },
+  {
+    "ID": "483",
+    "Questions": "z=1/(t²+t+1)",
+    "Answers": "-(2t+1)/(t²+t+1)²"
+  },
+  {
+    "ID": "484",
+    "Questions": "s=1/(t²-3t+6)",
+    "Answers": "-(2t-3)/(t²-3t+6)²"
+  },
+  {
+    "ID": "485",
+    "Questions": "y=2x⁴/(b²-x²)",
+    "Answers": "4x³(2b²-x²)/(b²-x²)²"
+  },
+  {
+    "ID": "486",
+    "Questions": "y=(x²+x-1)/(x³+1)",
+    "Answers": "(1+2x+3x²-2x³-x⁴)/(1+x³)²"
+  },
+  {
+    "ID": "487",
+    "Questions": "y=(1-x²)(1-2x³)⁻¹",
+    "Answers": "6x(1+3x-5x³)/((1-x²)²(1-2x³)²)"
+  },
+  {
+    "ID": "488",
+    "Questions": "y=(ax+bx²)/(am+bm²)",
+    "Answers": "(a+2bx)/(m(a+bm))"
+  },
+  {
+    "ID": "489",
+    "Questions": "y=a²b²c²/((x-a)(x-b)(x-c))",
+    "Answers": "-a²b²c²[(x-b)(x-c)+(x-c)(x-a)+(x-a)(x-b)]/((x-a)²(x-b)²(x-c)²)"
+  },
+  {
+    "ID": "490",
+    "Questions": "f(x)=(x²+x+1)(x²-x+1); find f'(0) and f'(1).",
+    "Answers": "f'(0)=0; f'(1)=6."
+  },
+  {
+    "ID": "491",
+    "Questions": "F(x)=(x-1)(x-2)(x-3); find F'(0); F'(1) and F'(2).",
+    "Answers": "F'(0)=11; F'(1)=2; F'(2)=-1."
+  },
+  {
+    "ID": "492",
+    "Questions": "F(x)=1/(x+2) + 3/(x²+1); find F'(0) and F'(-1).",
+    "Answers": "F'(0)=-1/4; F'(-1)=-1/2."
+  },
+  {
+    "ID": "493",
+    "Questions": "s(t)=3/(5-t) + t²/5; find s'(0) and s'(2).",
+    "Answers": "s'(0)=3/25; s'(2)=17/15."
+  },
+  {
+    "ID": "494",
+    "Questions": "y(x)=(1+x²)(5-1/x²); find y'(1) and y'(a).",
+    "Answers": "y'(1)=16; y'(a)=15a²+2/a³."
+  },
+  {
+    "ID": "495",
+    "Questions": "ρ(φ)=φ/(1-φ²); find ρ'(2) and ρ'(0).",
+    "Answers": "ρ'(2)=5/9; ρ'(0)=1."
+  },
+  {
+    "ID": "496",
+    "Questions": "φ(z)=(a-z)/(1+z); find φ'(1).",
+    "Answers": "-(a+1)/4."
+  },
+  {
+    "ID": "497",
+    "Questions": "z(t)=(√t³+1)t; find z'(0).",
+    "Answers": "1."
+  },
+  {
+    "ID": "498",
+    "Questions": "Differentiate the functions of problems 498-515:\n(1) (x-a)(x-b)(x-c)(x-d);\n(2) (x²+1)⁴;\n(3) (1-x)²⁰;\n(4) (1+2x)³⁰;\n(5) (1-x²)¹⁰;\n(6) (5x³+x²-4)⁵;\n(7) (x³-x)⁶;\n(8) (7x²-4/x+6)⁶;\n(9) s=(1/t³-1/t+3)⁴;\n(10) y=((x+1)/(x-1))²;\n(11) y=((1+x²)/(1+x))⁵;\n(12) y=(2x³+3x²+6x+1)⁴.",
+    "Answers": "(1) 4x³-3x²(a+b+c+d)+2x(ab+ac+ad+bc+bd+cd)-(abc+abd+acd+bcd); (2) 8x(x²+1)³; (3) -20(1-x)¹⁹; (4) 60(1+2x)²⁹; (5) -20x(1-x²)⁹; (6) 5(15x²+2x)(5x³+x²-4)⁴; (7) 6(3x²-1)(x³-x)⁵; (8) 6(14x+4/x²)(7x²-4/x+6)⁵; (9) 4(3t²+1/t⁴)(1/t³-1/t+3)³; (10) -4(x+1)/(x-1)³; (11) 5(x²+2x-1)(1+x²)⁴/(1+x)⁶; (12) 24(x²+x+1)(2x³+3x²+6x+1)³."
+  },
+  {
+    "ID": "499",
+    "Questions": "v=(s+4)²/(s+3)",
+    "Answers": "(s+2)(s+4)/(s+3)²."
+  },
+  {
+    "ID": "500",
+    "Questions": "s=t³/(1-t)²",
+    "Answers": "(3-t)t²/((1-t)³)."
+  }
+]

@@ -1,0 +1,2495 @@
+{
+  "quiz_title": "Electrostatics",
+  "problem_types": [
+    {
+      "type_name": "True / False",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 1,
+          "question_number": 1,
+          "type": "true_false",
+          "question_text": "The work done in carrying a point charge from one point to another in an electrostatic field depends on the path along which the point charge is carried.",
+          "year": 1981
+        },
+        {
+          "id": 2,
+          "question_number": 2,
+          "type": "true_false",
+          "question_text": "A small metal ball is suspended in a uniform electric field with the help of an insulated thread. If high energy X-ray beam falls on the ball, the ball will be deflected in the direction of the field.",
+          "year": 1983
+        },
+        {
+          "id": 3,
+          "question_number": 3,
+          "type": "true_false",
+          "question_text": "Two identical metallic spheres of exactly equal masses are taken. One is given a positive charge Q coulomb and the other an equal negative charge. Their masses after charging are different.",
+          "year": 1983
+        },
+        {
+          "id": 4,
+          "question_number": 4,
+          "type": "true_false",
+          "question_text": "Two protons A and B are placed in between the two plates of a parallel plate capacitor charged to a potential difference V as shown in the figure. The forces on the two protons are identical.",
+          "image_present": true,
+          "year": 1986,
+          "images":["arihant_images_ch14/arihant_ch14_1.png"]
+        },
+        {
+          "id": 5,
+          "question_number": 5,
+          "type": "true_false",
+          "question_text": "A ring of radius R carries a uniformly distributed charge +Q. A point charge -q is placed on the axis of the ring at a distance 2R from the centre of the ring and released from rest. The particle executes a simple harmonic motion along the axis of the ring.",
+          "year": 1988
+        },
+        {
+          "id": 6,
+          "question_number": 6,
+          "type": "true_false",
+          "question_text": "An electric line of force in the x-y plane is given by the equation x² + y² = 1. A particle with unit positive charge, initially at rest at the point x = 1, y = 0 in the x-y plane, will move along the circular line of force.",
+          "year": 1988
+        }
+      ]
+    },
+    {
+      "type_name": "Assertion and Reason",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 7,
+          "question_number": 7,
+          "type": "assertion_reason",
+          "instructions": "Mark your answer as\n(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion.\n(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion.\n(c) If Assertion is true; Reason is false.\n(d) If Assertion is false; Reason is true.",
+          "assertion": "For practical purposes, the earth is used as a reference at zero potential in electrical circuits.",
+          "reason": "The electrical potential of a sphere of radius R with charge Q uniformly distributed on the surface is given by Q / (4πε₀R).",
+          "options": ["(a)", "(b)", "(c)", "(d)"],
+          "year": 2008
+        }
+      ]
+    },
+    {
+      "type_name": "Fill in the Blanks",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 8,
+          "question_number": 8,
+          "type": "fill_in_the_blank",
+          "question_text": "Figure shows lines of constant potential in a region in which an electric field is present. The values of the potential are written in brackets. Of the points A, B and C, the magnitude of the electric field is greatest at the point.......",
+          "image_present": true,
+          "year": 1984,
+          "images":["arihant_images_ch14/arihant_ch14_2.png"]
+        },
+        {
+          "id": 9,
+          "question_number": 9,
+          "type": "fill_in_the_blank",
+          "question_text": "Five identical capacitor plates, each of area A, are arranged such that adjacent plates are at a distance d apart, the plates are connected to a source of emf V as shown in the figure. The charge on plate 1 is ...... and on plate 4 is .......",
+          "image_present": true,
+          "year": 1984,
+          "images":["arihant_images_ch14/arihant_ch14_3.png"]
+        },
+        {
+          "id": 10,
+          "question_number": 10,
+          "type": "fill_in_the_blank",
+          "question_text": "Two small balls having equal positive charges Q (coulomb) on each are suspended by two insulating strings of equal length L (metre) from a hook fixed to a stand. The whole setup is taken in a satellite into space where there is no gravity (state of weightlessness). The angle between the strings is ...... and the tension in each string is ......newton.",
+          "year": 1986
+        },
+        {
+          "id": 11,
+          "question_number": 11,
+          "type": "fill_in_the_blank",
+          "question_text": "Two parallel plate capacitors of capacitances C and 2C are connected in parallel and charged to a potential difference V. The battery is then disconnected and the region between the plates of capacitor C is completely filled with a material of dielectric constant K. The potential difference across the capacitors now becomes....",
+          "year": 1988
+        },
+        {
+          "id": 12,
+          "question_number": 12,
+          "type": "fill_in_the_blank",
+          "question_text": "A point charge q moves from point P to point S along the path PQRS (Fig.) in a uniform electric field E pointing parallel to the positive direction of the X-axis. The coordinates of points P, Q, R and S are (a, b, 0), (2a, 0, 0) (a, –b, 0) (0,0,0) respectively. The work done by the field in the above process is given by the expression ...... .",
+          "image_present": true,
+          "year": 1989,
+          "images":["arihant_images_ch14/arihant_ch14_4.png"]
+        },
+        {
+          "id": 13,
+          "question_number": 13,
+          "type": "fill_in_the_blank",
+          "question_text": "Five point charges, each of value +q coulomb, are placed on five vertices of a regular hexagon of side L metre. The magnitude of the force on the point charge of value -q coulomb placed at the centre of the hexagon is ......newton.",
+          "image_present": true,
+          "year": 1992,
+          "images":["arihant_images_ch14/arihant_ch14_5.png"]
+        },
+        {
+          "id": 14,
+          "question_number": 14,
+          "type": "fill_in_the_blank",
+          "question_text": "The electric potential V at any point x, y, z (all in metre) in space is given by V = 4x² volt. The electric field at the point (1m, 0, 2 m) is ......V/m.",
+          "year": 1992
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 15,
+          "question_number": 15,
+          "type": "multiple_choice",
+          "question_text": "An alpha particle of energy 5 MeV is scattered through 180° by a fixed uranium nucleus. The distance of closest approach is of the order of",
+          "options": [
+            "1 Å",
+            "10⁻¹⁰ cm",
+            "10⁻¹² cm",
+            "10⁻¹⁵ cm"
+          ],
+          "year": 1981
+        },
+        {
+          "id": 16,
+          "question_number": 16,
+          "type": "multiple_choice",
+          "question_text": "A hollow metal sphere of radius 5 cm is charged such that the potential on its surface is 10 V. The potential at the centre of the sphere is",
+          "options": [
+            "zero",
+            "10 V",
+            "same as at a point 5 cm away from the surface",
+            "same as at a point 25 cm away from the surface"
+          ],
+          "year": 1983
+        },
+        {
+          "id": 17,
+          "question_number": 17,
+          "type": "multiple_choice",
+          "question_text": "Two equal negative charges -q are fixed at points (0, -a) and (0, a) on y-axis. A positive charge Q is released from rest at the point (2a, 0) on the x-axis. The charge Q will",
+          "options": [
+            "execute simple harmonic motion about the origin",
+            "move to the origin and remain at rest",
+            "move to infinity",
+            "execute oscillatory but not simple harmonic motion"
+          ],
+          "year": 1984
+        },
+        {
+          "id": 18,
+          "question_number": 18,
+          "type": "multiple_choice",
+          "question_text": "A charge q is placed at the centre of the line joining two equal charges Q. The system of the three charges will be in equilibrium if q is equal to",
+          "options": [
+            "-Q/2",
+            "-Q/4",
+            "+Q/4",
+            "+Q/2"
+          ],
+          "year": 1987
+        },
+        {
+          "id": 19,
+          "question_number": 19,
+          "type": "multiple_choice",
+          "question_text": "A solid conducting sphere having a charge Q is surrounded by an uncharged concentric conducting hollow spherical shell. Let the potential difference between the surface of the solid sphere and that of the outer surface of the hollow shell be V. If the shell is now given a change of -3Q, the new potential difference between the same two surfaces is",
+          "options": [
+            "V",
+            "2V",
+            "4V",
+            "-2V"
+          ],
+          "year": 1989
+        },
+        {
+          "id": 20,
+          "question_number": 20,
+          "type": "multiple_choice",
+          "question_text": "Seven capacitors each of capacitance 2µF are connected in a configuration to obtain an effective capacitance 10/11 µF. Which of the following combination will achieve the desired result?",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 1990
+        },
+        {
+          "id": 21,
+          "question_number": 21,
+          "type": "multiple_choice",
+          "question_text": "Two identical thin rings, each of radius R, are coaxially placed a distance R apart. If Q₁ and Q₂ are respectively the charges uniformly spread on the two rings, the work done in moving a charge q from the centre of one ring to that of the other is",
+          "options": [
+            "zero",
+            "q(Q₁ - Q₂)(√2 - 1) / (√2 * 4πε₀R)",
+            "q√2(Q₁ + Q₂) / (4πε₀R)",
+            "q(Q₁/Q₂)(√2 + 1) / (√2 * 4πε₀R)"
+          ],
+          "year": 1992
+        },
+        {
+          "id": 22,
+          "question_number": 22,
+          "type": "multiple_choice",
+          "question_text": "Two point charges +q and -q are held fixed at (-d, 0) and (d, 0) respectively of a x-y co-ordinate system. Then",
+          "options": [
+            "the electric field E at all points on the x-axis has the same direction.",
+            "work has to be done in bringing a test charge from ∞ to the origin.",
+            "electric field at all point on y-axis is along x-axis.",
+            "the dipole moment is 2qd along the x-axis."
+          ],
+          "year": 1995
+        },
+        {
+          "id": 23,
+          "question_number": 23,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor of capacitance C is connected to a battery and is charged to a potential difference V. Another capacitor of capacitance 2C is similarly charged to a potential difference 2V. The charging battery is now disconnected and the capacitors are connected in parallel to each other in such a way that the positive terminal of one is connected to the negative terminal of the other. The final energy of the configuration is",
+          "options": [
+            "zero",
+            "(3/2)CV²",
+            "(25/6)CV²",
+            "(9/2)CV²"
+          ],
+          "year": 1995
+        },
+        {
+          "id": 24,
+          "question_number": 24,
+          "type": "multiple_choice",
+          "question_text": "The magnitude of electric field E in the annular region of a charged cylindrical capacitor",
+          "options": [
+            "is same throughout.",
+            "is higher near the outer cylinder than near the inner cylinder.",
+            "varies as 1/r where r is the distance from the axis.",
+            "varies as 1/r² where r is the distance from the axis."
+          ],
+          "year": 1996
+        },
+        {
+          "id": 25,
+          "question_number": 25,
+          "type": "multiple_choice",
+          "question_text": "A metallic solid sphere is placed in a uniform electric field. The lines of force follow the path(s) shown in figure as",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "image_present": true,
+          "year": 1996,
+          "images":["arihant_images_ch14/arihant_ch14_6.png"]
+        },
+        {
+          "id": 26,
+          "question_number": 26,
+          "type": "multiple_choice",
+          "question_text": "An electron of mass mₑ, initially at rest, moves through a certain distance in a uniform electric field in time t₁. A proton of mass mₚ, also, initially at rest, takes time t₂ to move through an equal distance in this uniform electric field. Neglecting the effect of gravity, the ratio t₂/t₁ is nearly equal to",
+          "options": [
+            "1",
+            "(mₚ/mₑ)¹/²",
+            "(mₑ/mₚ)¹/²",
+            "1836"
+          ],
+          "year": 1997
+        },
+        {
+          "id": 27,
+          "question_number": 27,
+          "type": "multiple_choice",
+          "question_text": "A non-conducting ring of radius 0.5 m carries a total charge of 1.11×10⁻¹⁰ C distributed non-uniformly on its circumference producing an electric field E everywhere in space. The value of the integral ∫(l=∞ to l=0) -E·dl (l=0 being centre of the ring) in volt is",
+          "options": [
+            "+2",
+            "-1",
+            "-2",
+            "zero"
+          ],
+          "year": 1997
+        },
+        {
+          "id": 28,
+          "question_number": 28,
+          "type": "multiple_choice",
+          "question_text": "A parallel combination of 0.1 MΩ resistor and a 10 µF capacitor is connected across a 1.5 V source of negligible resistance. The time required for the capacitor to get charged upto 0.75 V is approximately (in second)",
+          "options": [
+            "infinite",
+            "logₑ 2",
+            "log₁₀ 2",
+            "zero"
+          ],
+          "year": 1997
+        },
+        {
+          "id": 29,
+          "question_number": 29,
+          "type": "multiple_choice",
+          "question_text": "A charge +q is fixed at each of the points x = x₀, x = 3x₀, x = 5x₀, ... ∞ on the x-axis and a charge -q is fixed at each of the points x = 2x₀, x = 4x₀, x = 6x₀, ..., ∞. Here, x₀ is a positive constant. Take the electric potential at a point due to a charge Q at a distance r from it to be Q/4πε₀r. Then the potential at the origin due to the above system of charges is",
+          "options": [
+            "zero",
+            "(q / (8πε₀x₀)) * ln(2)",
+            "infinite",
+            "(q * ln(2)) / (4πε₀x₀)"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 30,
+          "question_number": 30,
+          "type": "multiple_choice",
+          "question_text": "Two identical metal plates are given positive charges Q₁ and Q₂ (<Q₁) respectively. If they are now brought close together to form a parallel plate capacitor with capacitance C, the potential difference between them is",
+          "options": [
+            "(Q₁ + Q₂)/2C",
+            "(Q₁ + Q₂)/C",
+            "(Q₁ - Q₂)/C",
+            "(Q₁ - Q₂)/2C"
+          ],
+          "year": 1999
+        },
+        {
+          "id": 31,
+          "question_number": 31,
+          "type": "multiple_choice",
+          "question_text": "For the circuit shown, which of the following statements is true?",
+          "options": [
+            "With S₁ closed, V₁ = 15V, V₂ = 20V",
+            "With S₃ closed, V₁ = V₂ = 25V",
+            "With S₁ and S₂ closed, V₁ = V₂ = 0",
+            "With S₁ and S₃ closed, V₁ = 30V, V₂ = 20V"
+          ],
+          "image_present": true,
+          "year": 1999,
+          "images":["arihant_images_ch14/arihant_ch14_7.png"]
+        },
+        {
+          "id": 32,
+          "question_number": 32,
+          "type": "multiple_choice",
+          "question_text": "Three charges Q, +q and +q are placed at the vertices of a right angle triangle (isosceles triangle) as shown. The net electrostatic energy of the configuration is zero, if Q is equal to",
+          "options": [
+            "-q / (1 + √2)",
+            "-2q / (2 + √2)",
+            "-2q",
+            "+q"
+          ],
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch14/arihant_ch14_8.png"]
+        },
+        {
+          "id": 33,
+          "question_number": 33,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor of area A, plate separation d and capacitance C is filled with three different dielectric materials having dielectric constants K₁, K₂ and K₃ as shown. If a single dielectric material is to be used to have the same capacitance C in this capacitor then its dielectric constant K is given by",
+          "options": [
+            "1/K = 1/K₁ + 1/K₂ + 1/(2K₃)",
+            "1/K = 1/(K₁ + K₂) + 1/(2K₃)",
+            "K = (K₁K₂)/(K₁ + K₂) + 2K₃",
+            "K = (K₁K₃)/(K₁ + K₃) + (K₂K₃)/(K₂ + K₃)"
+          ],
+          "image_present": true,
+          "year": 2000,
+          "images":["arihant_images_ch14/arihant_ch14_9.png"]
+        },
+        {
+          "id": 34,
+          "question_number": 34,
+          "type": "multiple_choice",
+          "question_text": "A uniform electric field pointing in positive x-direction exists in a region. Let A be the origin, B be the point on the x-axis at x = +1cm and C be the point on the y-axis at y = +1cm. Then the potentials at the points A, B and C satisfy",
+          "options": [
+            "V_A < V_B",
+            "V_A > V_B",
+            "V_A < V_C",
+            "V_A > V_C"
+          ],
+          "year": 2001
+        },
+        {
+          "id": 35,
+          "question_number": 35,
+          "type": "multiple_choice",
+          "question_text": "Three positive charges of equal value q are placed at the vertices of an equilateral triangle. The resulting lines of force should be sketched as in",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2001
+        },
+        {
+          "id": 36,
+          "question_number": 36,
+          "type": "multiple_choice",
+          "question_text": "Consider the situation shown in the figure. The capacitor A has a charge q on it whereas B is uncharged. The charge appearing on the capacitor B a long time after the switch is closed is",
+          "options": [
+            "zero",
+            "q/2",
+            "q",
+            "2q"
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch14/arihant_ch14_10.png"]
+        },
+        {
+          "id": 37,
+          "question_number": 37,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, with steady current, the potential difference across the capacitor must be",
+          "options": [
+            "V",
+            "V/2",
+            "V/3",
+            "2V/3"
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images":["arihant_images_ch14/arihant_ch14_11.png"]
+        },
+        {
+          "id": 38,
+          "question_number": 38,
+          "type": "multiple_choice",
+          "question_text": "Two identical capacitors, have the same capacitance C. One of them is charged to potential V₁ and the other to V₂. Likely charged plates are then connected. Then, the decrease in energy of the combined system is",
+          "options": [
+            "(1/4)C(V₁² - V₂²)",
+            "(1/4)C(V₁² + V₂²)",
+            "(1/4)C(V₁ - V₂)²",
+            "(1/4)C(V₁ + V₂)²"
+          ],
+          "year": 2002
+        },
+        {
+          "id": 39,
+          "question_number": 39,
+          "type": "multiple_choice",
+          "question_text": "Two equal point charges are fixed at x = -a and x = +a on the x-axis. Another point charge Q is placed at the origin. The change in the electrical potential energy of Q, when it is displaced by a small distance x along the x-axis, is approximately proportional to",
+          "options": [
+            "x",
+            "x²",
+            "x³",
+            "1/x"
+          ],
+          "year": 2002
+        },
+        {
+          "id": 40,
+          "question_number": 40,
+          "type": "multiple_choice",
+          "question_text": "A metallic shell has a point charge q kept inside its cavity. Which one of the following diagrams correctly represents the electric lines of forces?",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2003
+        },
+        {
+          "id": 41,
+          "question_number": 41,
+          "type": "multiple_choice",
+          "question_text": "Six charges, three positive and three negative of equal magnitude are to be placed at the vertices of a regular hexagon such that the electric field at O is double the electric field when only one positive charge of same magnitude is placed at R. Which of the following arrangements of charge is possible for P, Q, R, S, T and U respectively?",
+          "options": [
+            "+, -, +, -, -, +",
+            "+, -, +, -, +, -",
+            "+, +, -, +, -, -",
+            "-, +, +, -, +, -"
+          ],
+          "image_present": true,
+          "year": 2004,
+          "images":["arihant_images_ch14/arihant_ch14_12.png"]
+        },
+        {
+          "id": 42,
+          "question_number": 42,
+          "type": "multiple_choice",
+          "question_text": "Assume that an electric field E = 30x²î exists in space. Then, the potential difference V_A - V₀, where V₀ is the potential at the origin and V_A the potential at x = 2 m is",
+          "options": [
+            "120 V",
+            "-120 V",
+            "-80 V",
+            "80 V"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 43,
+          "question_number": 43,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, charge Q₂ on the 2µF capacitor changes as C is varied from 1µF to 3µF. Q₂ as a function of C is given properly by (figures are drawn schematically and are not to scale)",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2015
+        },
+        {
+          "id": 44,
+          "question_number": 44,
+          "type": "multiple_choice",
+          "question_text": "A capacitor is charged using an external battery with a resistance x in series. The dashed line shows the variation of ln(I) with respect to time. If the resistance is changed to 2x, the new graph will be (NOTE: Here I is the charging current)",
+          "options": [
+            "P",
+            "Q",
+            "R",
+            "S"
+          ],
+          "image_present": true,
+          "year": 2004,
+          "images":["arihant_images_ch14/arihant_ch14_13.png"]
+        },
+        {
+          "id": 45,
+          "question_number": 45,
+          "type": "multiple_choice",
+          "question_text": "Three infinitely long charge sheets are placed as shown in figure. The electric field at point P is",
+          "options": [
+            "(2σ/ε₀)k̂",
+            "(-2σ/ε₀)k̂",
+            "(4σ/ε₀)k̂",
+            "(-4σ/ε₀)k̂"
+          ],
+          "image_present": true,
+          "year": 2005,
+          "images":["arihant_images_ch14/arihant_ch14_14.png"]
+        },
+        {
+          "id": 46,
+          "question_number": 46,
+          "type": "multiple_choice",
+          "question_text": "A 4µF capacitor and a resistance of 2.5 MΩ are in series with 12 V battery. Find the time after which the potential difference across the capacitor is 3 times the potential difference across the resistor. [Given, ln(2) = 0.693]",
+          "options": [
+            "13.86 s",
+            "6.93 s",
+            "7 s",
+            "14 s"
+          ],
+          "year": 2005
+        },
+        {
+          "id": 47,
+          "question_number": 47,
+          "type": "multiple_choice",
+          "question_text": "Find the time constant for the given RC circuits in correct order (in µs). R₁=1Ω, R₂=2Ω, C₁=4µF, C₂=2µF.",
+          "options": [
+            "18, 4, 8/9",
+            "18, 8/9, 4",
+            "4, 18, 8/9",
+            "4, 8/9, 18"
+          ],
+          "image_present": true,
+          "year": 2006,
+          "images":["arihant_images_ch14/arihant_ch14_15.png"]
+        },
+        {
+          "id": 48,
+          "question_number": 48,
+          "type": "multiple_choice",
+          "question_text": "Positive and negative point charges of equal magnitude are kept at (0, 0, a/2) and (0, 0, -a/2), respectively. The work done by the electric field when another positive point charge in moved from (-a, 0, 0) to (0, a, 0) is",
+          "options": [
+            "positive",
+            "negative",
+            "zero",
+            "depends on the path connecting the initial and final positions"
+          ],
+          "year": 2007
+        },
+        {
+          "id": 49,
+          "question_number": 49,
+          "type": "multiple_choice",
+          "question_text": "Consider a neutral conducting sphere. A positive point charge is placed outside the sphere. The net charge on the sphere is then",
+          "options": [
+            "negative and distributed uniformly over the surface of the sphere",
+            "negative and appears only at the point on the sphere closest to the point charge",
+            "negative and distributed non-uniformly over the entire surface of the sphere",
+            "zero"
+          ],
+          "image_present": true,
+          "year": 2007,
+          "images":["arihant_images_ch14/arihant_ch14_16.png"]
+        },
+        {
+          "id": 50,
+          "question_number": 50,
+          "type": "multiple_choice",
+          "question_text": "A circuit is connected as shown in the figure with the switch S open. When the switch is closed, the total amount of charge that flows from Y to X is",
+          "options": [
+            "zero",
+            "54 µC",
+            "27 µC",
+            "81 µC"
+          ],
+          "image_present": true,
+          "year": 2007,
+          "images":["arihant_images_ch14/arihant_ch14_17.png"]
+        },
+        {
+          "id": 51,
+          "question_number": 51,
+          "type": "multiple_choice",
+          "question_text": "A spherical portion has been removed from a solid sphere having a charge distributed uniformly in its volume as shown in the figure. The electric field inside the emptied space is",
+          "options": [
+            "zero everywhere",
+            "non-zero and uniform",
+            "non-uniform",
+            "zero only at its centre"
+          ],
+          "image_present": true,
+          "year": 2007,
+          "images":["arihant_images_ch14/arihant_ch14_18.png"]
+        },
+        {
+          "id": 52,
+          "question_number": 52,
+          "type": "multiple_choice",
+          "question_text": "A long, hollow conducting cylinder is kept co-axially inside another long, hollow conducting cylinder of larger radius. Both the cylinders are initially electrically neutral.",
+          "options": [
+            "A potential difference appears between the two cylinders when a charge density is given to the inner cylinder.",
+            "A potential difference appears between the two cylinders when a charge density is given to the outer cylinder.",
+            "No potential difference appears between the two cylinders when a uniform line charge is kept along the axis of the cylinders.",
+            "No potential difference appears between the two cylinders when same charge density is given to both the cylinders."
+          ],
+          "year": 2007
+        },
+        {
+          "id": 53,
+          "question_number": 53,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor C with plates of unit area and separation d is filled with a liquid of dielectric constant K=2. The level of liquid is d/3 initially. Suppose the liquid level decreases at a constant speed v, the time constant as a function of time t is",
+          "options": [
+            "(6ε₀R) / (5d + 3vt)",
+            "((15d + 9vt)ε₀R) / (2d² - 3dvt - 9v²t²)",
+            "(6ε₀R) / (5d - 3vt)",
+            "((15d - 9vt)ε₀R) / (2d² + 3dvt - 9v²t²)"
+          ],
+          "image_present": true,
+          "year": 2008,
+          "images":["arihant_images_ch14/arihant_ch14_19.png"]
+        },
+        {
+          "id": 54,
+          "question_number": 54,
+          "type": "multiple_choice",
+          "question_text": "Three concentric metallic spherical shells of radii R, 2R and 3R are given charges Q₁, Q₂ and Q₃, respectively. It is found that the surface charge densities on the outer surfaces of the shells are equal. Then, the ratio of the charges given to the shells, Q₁:Q₂:Q₃, is",
+          "options": [
+            "1:2:3",
+            "1:3:5",
+            "1:4:9",
+            "1:8:18"
+          ],
+          "year": 2009
+        },
+        {
+          "id": 55,
+          "question_number": 55,
+          "type": "multiple_choice",
+          "question_text": "A 2µF capacitor is charged as shown in the figure. The percentage of its stored energy dissipated after the switch S is turned to position 2 is",
+          "options": [
+            "0%",
+            "20%",
+            "75%",
+            "80%"
+          ],
+          "image_present": true,
+          "year": 2011,
+          "images":["arihant_images_ch14/arihant_ch14_20.png"]
+        },
+        {
+          "id": 56,
+          "question_number": 56,
+          "type": "multiple_choice",
+          "question_text": "Consider a thin spherical shell of radius R with its centre at the origin, carrying uniform positive surface charge density. The variation of the magnitude of the electric field |E(r)| and the electric potential V(r) with the distance r from the centre, is best represented by which graph?",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2012
+        },
+        {
+          "id": 57,
+          "question_number": 57,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, a charge of +80 µC is given to the upper plate of the 4 µF capacitor. Then in the steady state, the charge on the upper plate of the 3 µF capacitor is",
+          "options": [
+            "+32 µC",
+            "+40 µC",
+            "+48 µC",
+            "+80 µC"
+          ],
+          "image_present": true,
+          "year": 2012,
+          "images":["arihant_images_ch14/arihant_ch14_21.png"]
+        },
+        {
+          "id": 58,
+          "question_number": 58,
+          "type": "multiple_choice",
+          "question_text": "Two large vertical and parallel metal plates having a separation of 1 cm are connected to a DC voltage source of potential difference X. A proton is released at rest midway between the two plates. It is found to move at 45° to the vertical just after release. Then X is nearly",
+          "options": [
+            "1×10⁻⁵ V",
+            "1×10⁻⁷ V",
+            "1×10⁻⁹ V",
+            "1×10⁻¹⁰ V"
+          ],
+          "year": 2012
+        },
+        {
+          "id": 59,
+          "question_number": 59,
+          "type": "multiple_choice",
+          "question_text": "Two charges, each equal to q, are kept at x = -a and x = a on the x-axis. A particle of mass m and charge q₀ = -q/2 is placed at the origin. If charge q₀ is given a small displacement y (y << a) along the y-axis, the net force acting on the particle is proportional to",
+          "options": [
+            "y",
+            "-y",
+            "1/y",
+            "-1/y"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 60,
+          "question_number": 60,
+          "type": "multiple_choice",
+          "question_text": "A charge Q is uniformly distributed over a long rod AB of length L as shown in the figure. The electric potential at the point O lying at distance L from the end A is",
+          "options": [
+            "Q / (8πε₀L)",
+            "3Q / (4πε₀L)",
+            "(Q / (4πε₀L)) * ln(2)",
+            "Q / (4πε₀L)"
+          ],
+          "image_present": true,
+          "year": 2013,
+          "images":["arihant_images_ch14/arihant_ch14_22.png"]
+        },
+        {
+          "id": 61,
+          "question_number": 61,
+          "type": "multiple_choice",
+          "question_text": "Charges Q, 2Q and 4Q are uniformly distributed in three dielectric solid spheres 1, 2 and 3 of radii R/2, R and 2R respectively, as shown in figure. If magnitudes of the electric fields at point P at a distance R from the centre of spheres 1, 2 and 3 are E₁, E₂ and E₃ respectively, then",
+          "options": [
+            "E₁ > E₂ > E₃",
+            "E₃ > E₁ > E₂",
+            "E₂ > E₁ > E₃",
+            "E₃ > E₂ > E₁"
+          ],
+          "image_present": true,
+          "year": 2014,
+          "images":["arihant_images_ch14/arihant_ch14_23.png"]
+        },
+        {
+          "id": 62,
+          "question_number": 62,
+          "type": "multiple_choice",
+          "question_text": "Assume that an electric field E = 30x²î exists in space. Then, the potential difference V_A - V₀, where V₀ is the potential at the origin and V_A the potential at x = 2 m is",
+          "options": [
+            "120 V",
+            "-120 V",
+            "-80 V",
+            "80 V"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 63,
+          "question_number": 63,
+          "type": "multiple_choice",
+          "question_text": "A long cylindrical shell carries positive surface charge σ in the upper half and negative surface charge –σ in the lower half. The electric field lines around the cylinder will look like figure given in (figures are schematic and not drawn to scale)",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2015
+        },
+        {
+          "id": 64,
+          "question_number": 64,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor having plates of area S and plate separation d, has capacitance C₁ in air. When two dielectrics of different relative permittivities (ε₁=2 and ε₂=4) are introduced between the two plates as shown in the figure, the capacitance becomes C₂. The ratio C₂/C₁ is",
+          "options": [
+            "6/5",
+            "5/3",
+            "7/5",
+            "7/3"
+          ],
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch14/arihant_ch14_24.png"]
+        },
+        {
+          "id": 65,
+          "question_number": 65,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, charge Q₂ on the 2µF capacitor changes as C is varied from 1µF to 3µF. Q₂ as a function of C is given properly by (figures are drawn schematically and are not to scale)",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2015
+        },
+        {
+          "id": 66,
+          "question_number": 66,
+          "type": "multiple_choice",
+          "question_text": "A combination of capacitors is set-up as shown in the figure. The magnitude of the electric field, due to a point charge Q (having a charge equal to the sum of the charges on the 4µF and 9µF capacitors), at a point distant 30 m from it, would equal to",
+          "options": [
+            "240 N/C",
+            "360 N/C",
+            "420 N/C",
+            "480 N/C"
+          ],
+          "image_present": true,
+          "year": 2016,
+          "images":["arihant_images_ch14/arihant_ch14_25.png"]
+        },
+        {
+          "id": 67,
+          "question_number": 67,
+          "type": "multiple_choice",
+          "question_text": "An electric dipole has a fixed dipole moment P, which makes angle θ with respect to X-axis. When subjected to an electric field E₁ = Eî, it experiences a torque T₁ = τk̂. When subjected to another electric field E₂ = √3E₁ĵ, it experiences a torque T₂ = -T₁. The angle θ is",
+          "options": [
+            "45°",
+            "60°",
+            "90°",
+            "30°"
+          ],
+          "year": 2017
+        },
+        {
+          "id": 68,
+          "question_number": 68,
+          "type": "multiple_choice",
+          "question_text": "A capacitance of 2µF is required in an electrical circuit across a potential difference of 1kV. A large number of 1µF capacitors are available which can withstand a potential difference of not more than 300 V. The minimum number of capacitors required to achieve this is",
+          "options": [
+            "16",
+            "24",
+            "32",
+            "2"
+          ],
+          "year": 2017
+        },
+        {
+          "id": 69,
+          "question_number": 69,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit diagram, when the current reaches steady state in the circuit, the charge on the capacitor of capacitance C will be",
+          "options": [
+            "CE(r₁ / (r₁ + r))",
+            "CE(r₂ / (r₂ + r))",
+            "CE",
+            "CE(r₁ / (r₂ + r))"
+          ],
+          "image_present": true,
+          "year": 2017,
+          "images":["arihant_images_ch14/arihant_ch14_26.png"]
+        },
+        {
+          "id": 70,
+          "question_number": 70,
+          "type": "multiple_choice",
+          "question_text": "Three concentric metal shells A, B and C of respective radii a, b and c (a < b < c) have surface charge densities +σ, -σ and +σ, respectively. The potential of shell B is",
+          "options": [
+            "(σ/ε₀) * ((b²-c²)/c + a)",
+            "(σ/ε₀) * ((a²-b²)/a + c)",
+            "(σ/ε₀) * ((a²-b²)/b + a)",
+            "(σ/ε₀) * ((b²-c²)/b + a)"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 71,
+          "question_number": 71,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor of capacitance 90 pF is connected to a battery of emf 20 V. If a dielectric material of dielectric constant K = 5/3 is inserted between the plates, the magnitude of the induced charge will be",
+          "options": [
+            "0.9 µC",
+            "1.2 µC",
+            "0.3 µC",
+            "2.4 µC"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 72,
+          "question_number": 72,
+          "type": "multiple_choice",
+          "question_text": "Four point charges -q, +q, +q and -q are placed on Y-axis at y=-2d, y=-d, y=+d and y=+2d, respectively. The magnitude of the electric field E at a point on the X-axis at x=D, with D >> d, will behave as",
+          "options": [
+            "E ∝ 1/D",
+            "E ∝ 1/D³",
+            "E ∝ 1/D²",
+            "E ∝ 1/D⁴"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 73,
+          "question_number": 73,
+          "type": "multiple_choice",
+          "question_text": "Two point charges q₁ (√10 µC) and q₂ (-25 µC) are placed on the x-axis at x=1m and x=4m, respectively. The electric field (in V/m) at a point y=3m on Y-axis is (Take, 1/(4πε₀) = 9×10⁹ N-m² C⁻²)",
+          "options": [
+            "(63î - 27ĵ) × 10²",
+            "(81î - 81ĵ) × 10²",
+            "(-81î + 81ĵ) × 10²",
+            "(-63î + 27ĵ) × 10²"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 74,
+          "question_number": 74,
+          "type": "multiple_choice",
+          "question_text": "Three charges +Q, q, +Q are placed respectively at distance 0, d/2 and d from the origin on the X-axis. If the net force experienced by +Q placed at x=0 is zero, then value of q is",
+          "options": [
+            "+Q/2",
+            "+Q/4",
+            "-Q/2",
+            "-Q/4"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 75,
+          "question_number": 75,
+          "type": "multiple_choice",
+          "question_text": "In free space, a particle A of charge 1µC is held fixed at a point P. Another particle B of the same charge and mass 4 µkg is kept at a distance of 1 mm from P. If B is released, then its velocity at a distance of 9 mm from P is (Take, 1/(4πε₀) = 9×10⁹ N-m² C⁻²)",
+          "options": [
+            "1.5 × 10² m/s",
+            "3.0 × 10⁴ m/s",
+            "1.0 m/s",
+            "2.0 × 10³ m/s"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 76,
+          "question_number": 76,
+          "type": "multiple_choice",
+          "question_text": "A system of three charges are placed as shown in the figure. If D >> d, the potential energy of the system is best given by",
+          "options": [
+            "(1/4πε₀) * [(-q²/d) + (2qQd/D²)]",
+            "(1/4πε₀) * [(q²/d) + (qQd/D²)]",
+            "(1/4πε₀) * [(-q²/d) - (qQd/2D²)]",
+            "(1/4πε₀) * [(-q²/d) - (qQd/D²)]"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_27.png"]
+        },
+        {
+          "id": 77,
+          "question_number": 77,
+          "type": "multiple_choice",
+          "question_text": "A positive point charge is released from rest at a distance r₀ from a positive line charge with uniform density. The speed (v) of the point charge, as a function of instantaneous distance r from line charge, is proportional to",
+          "options": [
+            "v ∝ √(ln(r/r₀))",
+            "v ∝ e^(-r/r₀)",
+            "v ∝ ln(r/r₀)",
+            "v ∝ r/r₀"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_28.png"]
+        },
+        {
+          "id": 78,
+          "question_number": 78,
+          "type": "multiple_choice",
+          "question_text": "The electric field in a region is given by E = (Ax + B)î, where E is in NC⁻¹ and x is in metres. The values of constants are A = 20 SI unit and B = 10 SI unit. If the potential at x=1 is V₁ and that at x=-5 is V₂, then V₁ - V₂ is",
+          "options": [
+            "-48 V",
+            "-520 V",
+            "180 V",
+            "320 V"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 79,
+          "question_number": 79,
+          "type": "multiple_choice",
+          "question_text": "Three charges Q, +q and +q are placed at the vertices of a right angle isosceles triangle as shown below. The net electrostatic energy of the configuration is zero, if the value of Q is",
+          "options": [
+            "-2q",
+            "-q / (1 + √2)",
+            "+q",
+            "-√2q / (√2 + 1)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_29.png"]
+        },
+        {
+          "id": 80,
+          "question_number": 80,
+          "type": "multiple_choice",
+          "question_text": "Four equal point charges Q each are placed in the xy-plane at (0, 2), (4, 2), (4, -2) and (0, -2). The work required to put a fifth charge Q at the origin of the coordinate system will be",
+          "options": [
+            "(Q²/4πε₀)",
+            "(Q²/4πε₀) * (1 + 1/√3)",
+            "(Q²/2√2πε₀)",
+            "(Q²/4πε₀) * (1 + 1/√5)"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 81,
+          "question_number": 81,
+          "type": "multiple_choice",
+          "question_text": "A charge Q is distributed over three concentric spherical shells of radii a, b, c (a<b<c) such that their surface charge densities are equal to one another. The total potential at a point at distance r from their common centre, where r<a would be",
+          "options": [
+            "Q(a² + b² + c²) / (4πε₀(a³ + b³ + c³))",
+            "Q(a + b + c) / (4πε₀(a² + b² + c²))",
+            "Q / (4πε₀(a + b + c))",
+            "Q / (12πε₀) * ((ab+bc+ca)/abc)"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 82,
+          "question_number": 82,
+          "type": "multiple_choice",
+          "question_text": "A uniformly charged ring of radius 3a and total charge q is placed in xy-plane centred at origin. A point charge q is moving towards the ring along the Z-axis and has speed v at z = 4a. The minimum value of v such that it crosses the origin is",
+          "options": [
+            "√(2/m * (2q²/15πε₀a))",
+            "√(2/m * (4q²/15πε₀a))",
+            "√(2/m * (q²/5πε₀a))",
+            "√(2/m * (q²/15πε₀a))"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 83,
+          "question_number": 83,
+          "type": "multiple_choice",
+          "question_text": "Shown in the figure is a shell made of a conductor. It has inner radius a and outer radius b and carries charge Q. At its centre is a dipole p as shown. In this case,",
+          "options": [
+            "surface charge density on the inner surface is uniform and equal to -p / (4πa²)",
+            "electric field outside the shell is the same as that of a point charge at the centre of the shell",
+            "surface charge density on the outer surface depends on |p|",
+            "surface charge density on the inner surface of the shell is zero everywhere"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_30.png"]
+        },
+        {
+          "id": 84,
+          "question_number": 84,
+          "type": "multiple_choice",
+          "question_text": "A solid conducting sphere, having a charge Q, is surrounded by an uncharged conducting hollow spherical shell. Let the potential difference between the surface of the solid sphere and that of the outer surface of the hollow shell be V. If the shell is now given a charge of -4Q, the new potential difference between the same two surfaces is",
+          "options": [
+            "-2V",
+            "2V",
+            "4V",
+            "V"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 85,
+          "question_number": 85,
+          "type": "multiple_choice",
+          "question_text": "The given graph shows variation (with distance r from centre) of",
+          "options": [
+            "electric field of a uniformly charged spherical shell",
+            "potential of a uniformly charged spherical shell",
+            "electric field of a uniformly charged sphere",
+            "potential of a uniformly charged sphere"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_31.png"]
+        },
+        {
+          "id": 86,
+          "question_number": 86,
+          "type": "multiple_choice",
+          "question_text": "A point dipole p = -p₀k̂ is kept at the origin. The potential and electric field due to this dipole on the Y-axis at a distance d are, respectively [Take, V = 0 at infinity]",
+          "options": [
+            "p / (4πε₀d²), -p / (4πε₀d³)",
+            "0, p / (4πε₀d³)",
+            "0, -p / (4πε₀d³)",
+            "p / (4πε₀d²), p / (4πε₀d³)"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 87,
+          "question_number": 87,
+          "type": "multiple_choice",
+          "question_text": "Determine the electric dipole moment of the system of three charges, placed on the vertices of an equilateral triangle as shown in the figure.",
+          "options": [
+            "√3ql * (ĵ-î)/√2",
+            "2qlĵ",
+            "-√3qlĵ",
+            "(ql) * (î+ĵ)/√2"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_32.png"]
+        },
+        {
+          "id": 88,
+          "question_number": 88,
+          "type": "multiple_choice",
+          "question_text": "An electric field of 1000 V/m is applied to an electric dipole at angle of 45°. The value of electric dipole moment is 10⁻²⁹ C-m. What is the potential energy of the electric dipole?",
+          "options": [
+            "-9 × 10⁻²⁰ J",
+            "-10 × 10⁻²⁹ J",
+            "-20 × 10⁻¹⁸ J",
+            "-7 × 10⁻²⁷ J"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 89,
+          "question_number": 89,
+          "type": "multiple_choice",
+          "question_text": "Two electric dipoles, A, B with respective dipole moments d_A = -4qaî and d_B = -2qaî are placed on the X-axis with a separation R, as shown in the figure. The distance from A at which both of them produce the same potential is",
+          "options": [
+            "√2R / (√2+1)",
+            "√2R / (√2-1)",
+            "R / (√2+1)",
+            "R / (√2-1)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_33.png"]
+        },
+        {
+          "id": 90,
+          "question_number": 90,
+          "type": "multiple_choice",
+          "question_text": "For a uniformly charged ring of radius R, the electric field on its axis has the largest magnitude at a distance h from its centre. Then, value of h is",
+          "options": [
+            "R/√2",
+            "R√2",
+            "R",
+            "R/√5"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 91,
+          "question_number": 91,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, the charge on 4µF capacitor will be",
+          "options": [
+            "5.4 µC",
+            "9.6 µC",
+            "13.4 µC",
+            "24 µC"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_34.png"]
+        },
+        {
+          "id": 92,
+          "question_number": 92,
+          "type": "multiple_choice",
+          "question_text": "A simple pendulum of length L is placed between the plates of a parallel plate capacitor having electric field E, as shown in figure. Its bob has mass m and charge q. The time period of the pendulum is given by",
+          "options": [
+            "2π * √(L / (g² + (qE/m)²))",
+            "2π * √(L / √(g² - (qE/m)²))",
+            "2π * √(L / (g + qE/m))",
+            "2π * √(L / (g - qE/m))"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_35.png"]
+        },
+        {
+          "id": 93,
+          "question_number": 93,
+          "type": "multiple_choice",
+          "question_text": "Figure shows charge (q) versus voltage (V) graph for series and parallel combination of two given capacitors. The capacitances are",
+          "options": [
+            "60 µF and 40 µF",
+            "50 µF and 30 µF",
+            "20 µF and 30 µF",
+            "40 µF and 10 µF"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_36.png"]
+        },
+        {
+          "id": 94,
+          "question_number": 94,
+          "type": "multiple_choice",
+          "question_text": "The parallel combination of two air filled parallel plate capacitors of capacitance C and nC is connected to a battery of voltage, V. When the capacitors are fully charged, the battery is removed and after that a dielectric material of dielectric constant K is placed between the two plates of the first capacitor. The new potential difference of the combined system is",
+          "options": [
+            "(n+1)V / (K+n)",
+            "nV / (K+n)",
+            "V",
+            "V / (K+n)"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 95,
+          "question_number": 95,
+          "type": "multiple_choice",
+          "question_text": "A capacitor with capacitance 5µF is charged to 5µC. If the plates are pulled apart to reduce the capacitance to 2µF, how much work is done?",
+          "options": [
+            "6.25 × 10⁻⁶ J",
+            "2.16 × 10⁻⁶ J",
+            "2.55 × 10⁻⁶ J",
+            "3.75 × 10⁻⁶ J"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 96,
+          "question_number": 96,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor has 1µF capacitance. One of its two plates is given +2µC charge and the other plate +4µC charge. The potential difference developed across the capacitor is",
+          "options": [
+            "1 V",
+            "5 V",
+            "2 V",
+            "3 V"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 97,
+          "question_number": 97,
+          "type": "multiple_choice",
+          "question_text": "Voltage rating of a parallel plate capacitor is 500 V. Its dielectric can withstand a maximum electric field of 10⁶ V/m. The plate area is 10⁻⁴ m². What is the dielectric constant, if the capacitance is 15 pF? (Take, ε₀ = 8.86 × 10⁻¹² C²/N-m²)",
+          "options": [
+            "3.8",
+            "8.5",
+            "4.5",
+            "6.2"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 98,
+          "question_number": 98,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown, find C if the effective capacitance of the whole circuit is to be 0.5 µF. All values in the circuit are in µF.",
+          "options": [
+            "6/5 µF",
+            "4/7 µF",
+            "7/10 µF",
+            "7/11 µF"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_37.png"]
+        },
+        {
+          "id": 99,
+          "question_number": 99,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor with plates of area 1 m² each, are at a separation of 0.1 m. If the electric field between the plates is 100 N/C, the magnitude of charge on each plate is (Take, ε₀ = 8.85 × 10⁻¹² C²/N-m²)",
+          "options": [
+            "9.85 × 10⁻¹⁰ C",
+            "8.85 × 10⁻¹⁰ C",
+            "7.85 × 10⁻¹⁰ C",
+            "6.85 × 10⁻¹⁰ C"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 100,
+          "question_number": 100,
+          "type": "multiple_choice",
+          "question_text": "The charge on a capacitor plate in a circuit as a function of time is shown in the figure. What is the value of current at t = 4 s?",
+          "options": [
+            "2 µA",
+            "1.5 µA",
+            "Zero",
+            "3 µA"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_38.png"]
+        },
+        {
+          "id": 101,
+          "question_number": 101,
+          "type": "multiple_choice",
+          "question_text": "In the figure shown, after the switch 'S' is turned from position 'A' to position 'B', the energy dissipated in the circuit in terms of capacitance 'C' and total charge 'Q' is",
+          "options": [
+            "(3/4) * (Q²/C)",
+            "(5/8) * (Q²/C)",
+            "(1/8) * (Q²/C)",
+            "(3/8) * (Q²/C)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_39.png"]
+        },
+        {
+          "id": 102,
+          "question_number": 102,
+          "type": "multiple_choice",
+          "question_text": "In the figure shown below, the charge on the left plate of the 10µF capacitor is -30µC. The charge on the right plate of the 6µF capacitor is",
+          "options": [
+            "+12 µC",
+            "+18 µC",
+            "-12 µC",
+            "-18 µC"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_40.png"]
+        },
+        {
+          "id": 103,
+          "question_number": 103,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor having capacitance 12 pF is charged by a battery to a potential difference of 10 V between its plates. The charging battery is now disconnected and a porcelain slab of dielectric constant 6.5 is slipped between the plates. The work done by the capacitor on the slab is",
+          "options": [
+            "560 pJ",
+            "508 pJ",
+            "692 pJ",
+            "600 pJ"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 104,
+          "question_number": 104,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor is of area 6 cm² and a separation 3 mm. The gap is filled with three dielectric materials of equal thickness (see figure) with dielectric constants K₁=10, K₂=12 and K₃=14. The dielectric constant of a material which give same capacitance when fully inserted in above capacitor, would be",
+          "options": [
+            "4",
+            "36",
+            "12",
+            "14"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_41.png"]
+        },
+        {
+          "id": 105,
+          "question_number": 105,
+          "type": "multiple_choice",
+          "question_text": "An electric dipole is formed by two equal and opposite charges q with separation d. The charges have same mass m. It is kept in a uniform electric field E. If it is slightly rotated from its equilibrium orientation, then its angular frequency ω is",
+          "options": [
+            "√(2qE/md)",
+            "2√(qE/md)",
+            "√(qE/md)",
+            "√(qE/(2md))"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 106,
+          "question_number": 106,
+          "type": "multiple_choice",
+          "question_text": "The bob of a simple pendulum has mass 2g and a charge of 5.0 µC. It is at rest in a uniform horizontal electric field of intensity 2000 V/m. At equilibrium, the angle that the pendulum makes with the vertical is (take g = 10 m/s²)",
+          "options": [
+            "tan⁻¹(2.0)",
+            "tan⁻¹(0.2)",
+            "tan⁻¹(5.0)",
+            "tan⁻¹(0.5)"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 107,
+          "question_number": 107,
+          "type": "multiple_choice",
+          "question_text": "Two isolated conducting spheres S₁ and S₂ of radii (2/3)R and (1/3)R, have charges 12µC and -3µC respectively, and are at a large distance from each other. They are now connected by a conducting wire. A long time after this is done, the charges on S₁ and S₂ respectively, are",
+          "options": [
+            "4.5 µC on both",
+            "+4.5 µC and -4.5 µC",
+            "3 µC and 6 µC",
+            "6 µC and 3 µC"
+          ],
+          "year": 2020
+        },
+        {
+          "id": 108,
+          "question_number": 108,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown in the figure, the total charge is 750 µC and the voltage across capacitor C₂ is 20 V. Then, the charge on capacitor C₂ is",
+          "options": [
+            "450 µC",
+            "590 µC",
+            "160 µC",
+            "650 µC"
+          ],
+          "image_present": true,
+          "year": 2020,
+          "images":["arihant_images_ch14/arihant_ch14_42.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 109,
+          "question_number": 109,
+          "type": "multiple_select",
+          "question_text": "A parallel plate air capacitor is connected to a battery. The quantities charge, voltage, electric field and energy associated with this capacitor are given by Q₀, V₀, E₀ and U₀ respectively. A dielectric slab is now introduced to fill the space between the plates with the battery still in connection. The corresponding quantities now given by Q, V, E and U are related to the previous one as",
+          "options": [
+            "Q > Q₀",
+            "V > V₀",
+            "E > E₀",
+            "U > U₀"
+          ],
+          "year": 1985
+        },
+        {
+          "id": 110,
+          "question_number": 110,
+          "type": "multiple_select",
+          "question_text": "A parallel plate capacitor is charged and the charging battery is then disconnected. If the plates of the capacitor are moved farther apart by means of insulating handles",
+          "options": [
+            "the charge on the capacitor increases",
+            "the voltage across the plates increases",
+            "the capacitance increases",
+            "the electrostatic energy stored in the capacitor increases"
+          ],
+          "year": 1987
+        },
+        {
+          "id": 111,
+          "question_number": 111,
+          "type": "multiple_select",
+          "question_text": "Capacitor C₁ of capacitance 1µF and capacitor C₂ of capacitance 2µF are separately charged fully by a common battery. The two capacitors are then separately allowed to discharge through equal resistors at time t=0.",
+          "options": [
+            "The currents in each of the two discharging circuits is zero at t=0",
+            "The currents in the two discharging circuits at t=0 are equal but not zero",
+            "The currents in the two discharging circuits at t=0 are unequal",
+            "Capacitor C₁ loses 50% of its initial charge sooner than C₂ loses 50% of its initial charge"
+          ],
+          "year": 1989
+        },
+        {
+          "id": 112,
+          "question_number": 112,
+          "type": "multiple_select",
+          "question_text": "A parallel plate capacitor of plate area A and plate separation d is charged to potential difference V and then the battery is disconnected. A slab of dielectric constant K is then inserted between the plates of the capacitor so as to fill the space between the plates. If Q, E and W denote respectively, the magnitude of charge on each plate, the electric field between the plates (after the slab is inserted), and work done on the system, in question, in the process of inserting the slab, then",
+          "options": [
+            "Q = (ε₀AV)/d",
+            "Q = (Kε₀AV)/d",
+            "E = V/Kd",
+            "W = (ε₀AV²)/(2d) * [1 - 1/K]"
+          ],
+          "year": 1991
+        },
+        {
+          "id": 113,
+          "question_number": 113,
+          "type": "multiple_select",
+          "question_text": "A non-conducting solid sphere of radius R is uniformly charged. The magnitude of the electric field due to the sphere at a distance r from its centre",
+          "options": [
+            "increases as r increases for r < R",
+            "decreases as r increases for 0 < r < ∞",
+            "decreases as r increases for R < r < ∞",
+            "is discontinuous at r = R"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 114,
+          "question_number": 114,
+          "type": "multiple_select",
+          "question_text": "A dielectric slab of thickness d is inserted in a parallel plate capacitor whose negative plate is at x=0 and positive plate is at x=3d. The slab is equidistant from the plates. The capacitor is given some charge. As x goes from 0 to 3d",
+          "options": [
+            "the magnitude of the electric field remains the same.",
+            "the direction of the electric field remains the same.",
+            "the electric potential increases continuously.",
+            "the electric potential increases at first, then decreases and again increases."
+          ],
+          "year": 1998
+        },
+        {
+          "id": 115,
+          "question_number": 115,
+          "type": "multiple_select",
+          "question_text": "A positively charged thin metal ring of radius R is fixed in the x-y plane with its centre at the origin O. A negatively charged particle P is released from rest at the point (0, 0, z₀) where z₀ > 0. Then the motion of P is",
+          "options": [
+            "periodic for all values of z₀ satisfying 0 < z₀ < ∞",
+            "simple harmonic for all values of z₀ satisfying 0 < z₀ ≤ R",
+            "approximately simple harmonic provided z₀ << R",
+            "such that P crosses O and continues to move along the negative z-axis towards z = -∞"
+          ],
+          "year": 1998
+        },
+        {
+          "id": 116,
+          "question_number": 116,
+          "type": "multiple_select",
+          "question_text": "An elliptical cavity is carved within a perfect conductor. A positive charge q is placed at the centre of the cavity. The points A and B are on the cavity surface as shown in the figure. Then",
+          "options": [
+            "electric field near A in the cavity = electric field near B in the cavity.",
+            "charge density at A = charge density at B",
+            "potential at A = potential at B",
+            "total electric field flux through the surface of the cavity is q/ε₀"
+          ],
+          "image_present": true,
+          "year": 1999,
+          "images":["arihant_images_ch14/arihant_ch14_43.png"]
+        },
+        {
+          "id": 117,
+          "question_number": 117,
+          "type": "multiple_select",
+          "question_text": "Under the influence of the coulomb field of a fixed charge +Q, a charge -q is moving around it in an elliptical orbit. Find out the correct statement(s).",
+          "options": [
+            "The angular momentum of the charge -q is constant",
+            "The linear momentum of the charge -q is constant",
+            "The angular velocity of the charge -q is constant",
+            "The linear speed of the charge -q is constant"
+          ],
+          "year": 2009
+        },
+        {
+          "id": 118,
+          "question_number": 118,
+          "type": "multiple_select",
+          "question_text": "A few electric field lines for a system of two charges Q₁ and Q₂ fixed at two different points on the x-axis are shown in the figure. These lines suggest that",
+          "options": [
+            "|Q₁| > |Q₂|",
+            "|Q₁| < |Q₂|",
+            "at a finite distance to the left of Q₁, the electric field is zero",
+            "at a finite distance to the right of Q₂, the electric field is zero"
+          ],
+          "image_present": true,
+          "year": 2010,
+          "images":["arihant_images_ch14/arihant_ch14_44.png"]
+        },
+        {
+          "id": 119,
+          "question_number": 119,
+          "type": "multiple_select",
+          "question_text": "Two non-conducting solid spheres of radii R and 2R, having uniform volume charge densities ρ₁ and ρ₂ respectively, touch each other. The net electric field at a distance 2R from the centre of the smaller sphere, along the line joining the centre of the spheres, is zero. The ratio ρ₁/ρ₂ can be",
+          "options": [
+            "-4",
+            "-32/25",
+            "32/25",
+            "4"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 120,
+          "question_number": 120,
+          "type": "multiple_select",
+          "question_text": "In the circuit shown in the figure, there are two parallel plate capacitors each of capacitance C. The switch S₁ is pressed first to fully charge the capacitor C₁ and then released. The switch S₂ is then pressed to charge the capacitor C₂. After some time, S₂ is released and then S₃ is pressed. After some time",
+          "options": [
+            "the charge on the upper plate of C₁ is 2CV₀",
+            "the charge on the upper plate of C₁ is CV₀",
+            "the charge on the upper plate of C₂ is 0",
+            "the charge on the upper plate of C₂ is -CV₀"
+          ],
+          "image_present": true,
+          "year": 2013,
+          "images":["arihant_images_ch14/arihant_ch14_45.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Passage Based Questions",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 121,
+          "type": "passage",
+          "passage_title": "Passage",
+          "passage_text": "The nuclear charge (Ze) is non-uniformly distributed within a nucleus of radius R. The charge density ρ(r) (charge per unit volume) is dependent only on the radial distance r from the centre of the nucleus as shown in figure. The electric field is only along the radial direction.",
+          "image_present": true,
+          "images":["arihant_images_ch14/arihant_ch14_46.png"],
+          "associated_questions": [
+            {
+              "id": 122,
+              "question_number": 121,
+              "type": "multiple_choice",
+              "question_text": "The electric field at r = R is",
+              "options": [
+                "independent of a",
+                "directly proportional to a",
+                "directly proportional to a²",
+                "inversely proportional to a"
+              ],
+              "year": 2008
+            },
+            {
+              "id": 123,
+              "question_number": 122,
+              "type": "multiple_choice",
+              "question_text": "For a=0, the value of d (maximum value of ρ as shown in the figure) is",
+              "options": [
+                "3Ze / (4πR³)",
+                "3Ze / (πR³)",
+                "4Ze / (3πR³)",
+                "Ze / (3πR³)"
+              ],
+              "year": 2008
+            },
+            {
+              "id": 124,
+              "question_number": 123,
+              "type": "multiple_choice",
+              "question_text": "The electric field within the nucleus is generally observed to be linearly dependent on r. This implies",
+              "options": [
+                "a = 0",
+                "a = R/2",
+                "a = R",
+                "a = 2R/3"
+              ],
+              "year": 2008
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Questions",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 125,
+          "question_number": 124,
+          "type": "descriptive",
+          "question_text": "A pendulum bob of mass 80 mg and carrying a charge of 2x10⁻⁸ C is at rest in a horizontal uniform electric field of 20,000 V/m. Find the tension in the thread of the pendulum and the angle it makes with the vertical. (Take g = 9.8 ms⁻²)",
+          "year": 1979
+        },
+        {
+          "id": 126,
+          "question_number": 125,
+          "type": "descriptive",
+          "question_text": "A charged particle is free to move in an electric field. Will it always move along an electric line of force?",
+          "year": 1979
+        },
+        {
+          "id": 127,
+          "question_number": 126,
+          "type": "descriptive",
+          "question_text": "Find the potential difference between the points A and B and between the points B and C in the steady state.",
+          "image_present": true,
+          "year": 1980,
+          "images":["arihant_images_ch14/arihant_ch14_47.png"]
+        },
+        {
+          "id": 128,
+          "question_number": 127,
+          "type": "descriptive",
+          "question_text": "A charge Q is distributed over two concentric hollow spheres of radii r and R (>r) such that the surface densities are equal. Find the potential at the common centre.",
+          "year": 1981
+        },
+        {
+          "id": 129,
+          "question_number": 128,
+          "type": "descriptive",
+          "question_text": "Calculate the steady state current in the 2Ω resistor shown in the circuit (see figure). The internal resistance of the battery is negligible and the capacitance of the condenser C is 0.2 µF.",
+          "image_present": true,
+          "year": 1982,
+          "images":["arihant_images_ch14/arihant_ch14_48.png"]
+        },
+        {
+          "id": 130,
+          "question_number": 129,
+          "type": "descriptive",
+          "question_text": "Eight point charges are placed at the corners of a cube of edge a as shown in figure. Find the work done in disassembling this system of charges.",
+          "image_present": true,
+          "year": 2003,
+          "images":["arihant_images_ch14/arihant_ch14_49.png"]
+        },
+        {
+          "id": 131,
+          "question_number": 130,
+          "type": "descriptive",
+          "question_text": "A particle of mass 10⁻³ kg and charge 1.0 C is initially at rest. At time t=0, the particle comes under the influence of an electric field E(t) = E₀sin(ωt)î, where E₀ = 1.0 NC⁻¹ and ω = 10³ rad s⁻¹. Consider the effect of only the electrical force on the particle. Then, the maximum speed in ms⁻¹, attained by the particle at subsequent times is ......",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 132,
+          "question_number": 1,
+          "type": "multiple_choice",
+          "question_text": "A disc of radius a/4 having a uniformly distributed charge 6C is placed in the x-y plane with its centre at (-a/2, 0, 0). A rod of length a carrying a uniformly distributed charge 8C is placed on the x-axis from x=a/4 to x=5a/4. Two point charges -7C and 3C are placed at (-3a/4, -a/4, 0) and (a/4, -a/4, 0) respectively. Consider a cubical surface formed by six surfaces x=±a/2, y=±a/2, z=±a/2. The electric flux through this cubical surface is",
+          "options": [
+            "-2C/ε₀",
+            "2C/ε₀",
+            "10C/ε₀",
+            "12C/ε₀"
+          ],
+          "image_present": true,
+          "year": 2009,
+          "images":["arihant_images_ch14/arihant_ch14_50.png"]
+        },
+        {
+          "id": 133,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "A uniformly charged thin spherical shell of radius R carries uniform surface charge density of σ per unit area. It is made of two hemispherical shells, held together by pressing them with force F (see figure). F is proportional to",
+          "options": [
+            "(1/ε₀)σ²R²",
+            "(1/ε₀)σ²R",
+            "(1/ε₀)σ²/R",
+            "(1/ε₀)σ²/R²"
+          ],
+          "image_present": true,
+          "year": 2010,
+          "images":["arihant_images_ch14/arihant_ch14_51.png"]
+        },
+        {
+          "id": 134,
+          "question_number": 3,
+          "type": "multiple_choice",
+          "question_text": "A tiny spherical oil drop carrying a net charge q is balanced in still air with a vertical uniform electric field of strength (81π/7)×10⁵ Vm⁻¹. When the field is switched off, the drop is observed to fall with terminal velocity 2×10⁻³ ms⁻¹. Given g=9.8 ms⁻², viscosity of the air = 1.8×10⁻⁵ Ns m⁻² and the density of oil = 900 kg m⁻³, the magnitude of q is",
+          "options": [
+            "1.6 × 10⁻¹⁹ C",
+            "3.2 × 10⁻¹⁹ C",
+            "4.8 × 10⁻¹⁹ C",
+            "8.0 × 10⁻¹⁹ C"
+          ],
+          "year": 2010
+        },
+        {
+          "id": 135,
+          "question_number": 4,
+          "type": "multiple_choice",
+          "question_text": "Consider an electric field E = E₀x̂, where E₀ is a constant. The flux through the shaded area (as shown in the figure) due to this field is",
+          "options": [
+            "2E₀a²",
+            "√2E₀a²",
+            "E₀a²",
+            "E₀a²/√2"
+          ],
+          "image_present": true,
+          "year": 2011,
+          "images":["arihant_images_ch14/arihant_ch14_52.png"]
+        },
+        {
+          "id": 136,
+          "question_number": 5,
+          "type": "multiple_choice",
+          "question_text": "The figures below depict two situations in which two infinitely long static line charges of constant positive line charge density λ are kept parallel to each other. In their resulting electric field, point charges q and -q are kept in equilibrium between them. The point charges are confined to move in the x direction only. If they are given a small displacement about their equilibrium positions, then the correct statements is/are",
+          "options": [
+            "both charges execute simple harmonic motion.",
+            "both charges will continue moving in the direction of their displacement.",
+            "charge +q executes simple harmonic motion while charge -q continues moving in the direction of its displacement.",
+            "charge -q executes simple harmonic motion while charge +q continues moving in the direction of its displacement."
+          ],
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch14/arihant_ch14_53.png"]
+        },
+        {
+          "id": 137,
+          "question_number": 6,
+          "type": "multiple_choice",
+          "question_text": "The region between two concentric spheres of radii a and b, respectively (see the figure), has volume charge density ρ = A/r, where A is a constant and r is the distance from the centre. At the centre of the spheres is a point charge Q. The value of A, such that the electric field in the region between the spheres will be constant, is",
+          "options": [
+            "Q/(2πa²)",
+            "Q/(2π(b²-a²))",
+            "2Q/(π(a²-b²))",
+            "2Q/(πa²)"
+          ],
+          "image_present": true,
+          "year": 2016,
+          "images":["arihant_images_ch14/arihant_ch14_54.png"]
+        },
+        {
+          "id": 138,
+          "question_number": 7,
+          "type": "multiple_choice",
+          "question_text": "Let a total charge 2Q be distributed in a sphere of radius R, with the charge density given by ρ(r) = kr, where r is the distance from the centre. Two charges A and B, of -Q each, are placed on diametrically opposite points, at equal distance a, from the centre. If A and B do not experience any force, then",
+          "options": [
+            "a = 8⁻¹/⁴ R",
+            "a = 3R / (2¹/⁴)",
+            "a = 2⁻¹/⁴ R",
+            "a = R/√3"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 139,
+          "question_number": 8,
+          "type": "multiple_choice",
+          "question_text": "Charge is distributed within a sphere of radius R with a volume charge density ρ(r) = (A/r²)e^(-2r/a), where A and a are constants. If Q is the total charge of this charge distribution, the radius R is",
+          "options": [
+            "a log(1 - Q/(2πaA))",
+            "a log(1/(1 - Q/(2πaA)))",
+            "(a/2) * log(1 - Q/(2πaA))",
+            "(a/2) * log(1/(1 - Q/(2πaA)))"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 140,
+          "question_number": 9,
+          "type": "multiple_choice",
+          "question_text": "Charges -q and +q located at A and B, respectively, constitute an electric dipole. Distance AB = 2a, O is the mid point of the dipole and OP is perpendicular to AB. A charge Q is placed at P, where OP = y and y >> 2a. The charge Q experiences an electrostatic force F. If Q is now moved along the equatorial line to P' such that OP' = y/3, the force on Q will be close to (y/3 >> 2a)",
+          "options": [
+            "F/3",
+            "3F",
+            "9F",
+            "27F"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_55.png"]
+        },
+        {
+          "id": 141,
+          "question_number": 10,
+          "type": "multiple_choice",
+          "question_text": "Two identical parallel plate capacitors of capacitance C each, have plates of area A, separated by a distance d. The space between the plates of the two capacitors is filled with three dielectrics of equal thickness and dielectric constants K₁, K₂ and K₃. The first capacitor is filled as shown in Fig. I, and the second one is filled as shown in Fig. II. If these two modified capacitors are charged by the same potential V, the ratio of the energy stored in the two, would be (E₁ refers to capacitor (I) and E₂ to capacitor (II)):",
+          "options": [
+            "E₁/E₂ = (K₁K₂K₃) / ((K₁+K₂+K₃)(K₂K₃+K₃K₁+K₁K₂))",
+            "E₁/E₂ = ((K₁+K₂+K₃)(K₂K₃+K₃K₁+K₁K₂)) / (K₁K₂K₃)",
+            "E₁/E₂ = (9K₁K₂K₃) / ((K₁+K₂+K₃)(K₂K₃+K₃K₁+K₁K₂))",
+            "E₁/E₂ = ((K₁+K₂+K₃)(K₂K₃+K₃K₁+K₁K₂)) / (9K₁K₂K₃)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_56.png"]
+        },
+        {
+          "id": 142,
+          "question_number": 11,
+          "type": "multiple_choice",
+          "question_text": "A parallel plate capacitor is made of two square plates of side 'a' separated by a distance d (d<<a). The lower triangular portion is filled with a dielectric of dielectric constant k, as shown in the figure. Capacitance of this capacitor is",
+          "options": [
+            "(kε₀a²/d) * ln(k)",
+            "(kε₀a²ln(k)) / (d(k-1))",
+            "(kε₀a²) / (2d(k+1))",
+            "(1/2) * (kε₀a²/d)"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_57.png"]
+        },
+        {
+          "id": 143,
+          "question_number": 12,
+          "type": "multiple_choice",
+          "question_text": "There is uniform spherically symmetric surface charge density at a distance R₀ from the origin. The charge distribution is initially at rest and starts expanding because of mutual repulsion. The figure that represents best the speed v[R(t)] of the distribution as a function of its instantaneous radius R(t) is",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 144,
+          "question_number": 13,
+          "type": "multiple_select",
+          "question_text": "For spherical symmetrical charge distribution, variation of electric potential with distance from centre is given in diagram. Given that V = q/(4πε₀R₀) for r ≤ R₀ and V = q/(4πε₀r) for r ≥ R₀. Then, which option(s) are correct",
+          "options": [
+            "Total charge within 2R₀ is q",
+            "Total electrostatic energy for r ≤ R₀ is zero",
+            "At r = R₀ electric field is discontinuous",
+            "There will be no charge anywhere except at r = R₀"
+          ],
+          "image_present": true,
+          "year": 2006,
+          "images":["arihant_images_ch14/arihant_ch14_58.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 1,
+          "question_number": 14,
+          "type": "multiple_select",
+          "question_text": "Which of the following statement(s) is/are correct?",
+          "options": [
+            "If the electric field due to a point charge varies as r⁻²·⁵ instead of r⁻², then the Gauss's law will still be valid",
+            "The Gauss's law can be used to calculate the field distribution around an electric dipole",
+            "If the electric field between two point charges is zero somewhere, then the sign of the two charges is the same",
+            "The work done by the external force in moving a unit positive charge from point A at potential V_A to point B at potential V_B is (V_B - V_A)"
+          ],
+          "year": 2011
+        },
+        {
+          "id": 2,
+          "question_number": 15,
+          "type": "multiple_select",
+          "question_text": "A spherical metal shell A of radius R_A and a solid metal sphere B of radius R_B (< R_A) are kept far apart and each is given charge +Q. Now they are connected by a thin metal wire. Then",
+          "options": [
+            "E_inside_A = 0",
+            "Q_A > Q_B",
+            "σ_A / σ_B = R_B / R_A",
+            "E_on_surface_A < E_on_surface_B"
+          ],
+          "year": 2011
+        },
+        {
+          "id": 3,
+          "question_number": 16,
+          "type": "multiple_select",
+          "question_text": "Six point charges are kept at the vertices of a regular hexagon of side L and centre O as shown in the figure. Given that K = (1/4πε₀) * (q/L²), which of the following statements(s) is(are) correct.",
+          "options": [
+            "The electric field at O is 6K along OD",
+            "The potential at O is zero",
+            "The potential at all points on the line PR is same",
+            "The potential at all points on the line ST is same"
+          ],
+          "image_present": true,
+          "year": 2012,
+          "images":["arihant_images_ch14/arihant_ch14_59.png"]
+          
+        },
+        {
+          "id": 4,
+          "question_number": 17,
+          "type": "multiple_select",
+          "question_text": "A cubical region of side a has its centre at the origin. It encloses three fixed point charges, -q at (0, -a/4, 0), +3q at (0, 0, 0) and -q at (0, +a/4, 0). Choose the correct option(s).",
+          "options": [
+            "The net electric flux crossing the plane x = +a/2 is equal to the net electric flux crossing the plane x = -a/2",
+            "The net electric flux crossing the plane y = +a/2 is more than the net electric flux crossing the plane y = -a/2",
+            "The net electric flux crossing the entire region is q/ε₀",
+            "The net electric flux crossing the plane z = +a/2 is equal to the net electric flux crossing the plane x = +a/2"
+          ],
+          "image_present": true,
+          "year": 2012,
+          "images":["arihant_images_ch14/arihant_ch14_60.png"]
+        },
+        {
+          "id": 5,
+          "question_number": 18,
+          "type": "multiple_select",
+          "question_text": "Two non-conducting spheres of radii R₁ and R₂ and carrying uniform volume charge densities +ρ and -ρ, respectively, are placed such that they partially overlap, as shown in the figure. At all points in the overlapping region",
+          "options": [
+            "the electrostatic field is zero.",
+            "the electrostatic potential is constant.",
+            "the electrostatic field is constant in magnitude.",
+            "the electrostatic field has same direction."
+          ],
+          "image_present": true,
+          "year": 2013,
+          "images":["arihant_images_ch14/arihant_ch14_61.png"]
+        },
+        {
+          "id": 6,
+          "question_number": 19,
+          "type": "multiple_select",
+          "question_text": "A parallel plate capacitor has a dielectric slab of dielectric constant K between its plates that covers 1/3 of the area of its plates, as shown in the figure. The total capacitance of the capacitor is C while that of the portion with dielectric in between is C₁. When the capacitor is charged, the plate area covered by the dielectric gets charge Q₁ and the rest of the area gets charge Q₂. The electric field in the dielectric is E₁ and that in the other portion is E₂. Choose the correct option/options, ignoring edge effects.",
+          "options": [
+            "E₁/E₂ = 1",
+            "E₁/E₂ = 1/K",
+            "Q₁/Q₂ = 3/K",
+            "C/C₁ = (2+K)/K"
+          ],
+          "image_present": true,
+          "year": 2014,
+          "images":["arihant_images_ch14/arihant_ch14_62.png"]
+        },
+        {
+          "id": 7,
+          "question_number": 20,
+          "type": "multiple_select",
+          "question_text": "Let E₁(r), E₂(r) and E₃(r) be the respective electric fields at a distance r from a point charge Q, an infinitely long wire with constant linear charge density λ, and an infinite plane with uniform surface charge density σ. If E₁(r₀) = E₂(r₀) = E₃(r₀) at a given distance r₀, then",
+          "options": [
+            "Q = 4σπr₀²",
+            "λ = Q/(2πr₀)",
+            "E₁(r₀/2) = 2E₂(r₀/2)",
+            "E₂(r₀/2) = 4E₃(r₀/2)"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 8,
+          "question_number": 21,
+          "type": "multiple_select",
+          "question_text": "A uniformly charged solid sphere of radius R has potential V₀ (measured with respect to ∞) on its surface. For this sphere, the equipotential surfaces with potentials 3V₀/2, 5V₀/4, 3V₀/4 and V₀/4 have radius R₁, R₂, R₃, and R₄ respectively. Then,",
+          "options": [
+            "R₁ ≠ 0 and (R₂ - R₁) > (R₄ - R₃)",
+            "R₁ = 0 and R₂ > (R₄ - R₃)",
+            "2R < R₄",
+            "R₁ = 0 and R₂ < (R₄ - R₃)"
+          ],
+          "year": 2015
+        },
+        {
+          "id": 9,
+          "question_number": 22,
+          "type": "multiple_select",
+          "question_text": "A point charge +Q is placed just outside an imaginary hemispherical surface of radius R as shown in the figure. Which of the following statements is/are correct?",
+          "options": [
+            "The electric flux passing through the curved surface of the hemisphere is -Q/(2ε₀) * (1 - 1/√2)",
+            "The component of the electric field normal to the flat surface is constant over the surface",
+            "Total flux through the curved and the flat surfaces is Q/ε₀",
+            "The circumference of the flat surface is an equipotential"
+          ],
+          "image_present": true,
+          "year": 2017,
+          "images":["arihant_images_ch14/arihant_ch14_63.png"]
+        },
+        {
+          "id": 10,
+          "question_number": 23,
+          "type": "multiple_select",
+          "question_text": "An infinitely long thin non-conducting wire is parallel to the Z-axis and carries a uniform line charge density λ. It pierces a thin non-conducting spherical shell of radius R in such a way that the arc PQ subtends an angle 120° at the centre O of the spherical shell, as shown in the figure. The permittivity of free space is ε₀. Which of the following statements is (are) true?",
+          "options": [
+            "The electric flux through the shell is √3Rλ/ε₀",
+            "The z-component of the electric field is zero at all the points on the surface of the shell",
+            "The electric flux through the shell is √2Rλ/ε₀",
+            "The electric field is normal to the surface of the shell at all points"
+          ],
+          "image_present": true,
+          "year": 2018,
+          "images":["arihant_images_ch14/arihant_ch14_64.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Match the Column",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 11,
+          "question_number": 24,
+          "type": "matching",
+          "question_text": "Four charges Q₁, Q₂, Q₃ and Q₄ of same magnitude are fixed along the x-axis at x=-2a, -a, +a and +2a respectively. A positive charge q is placed on the positive y-axis at a distance b > 0. Four options of the signs of these charges are given in Column I. The direction of the forces on the charge q is given in Column II. Match Column I with Column II and select the correct answer using the code given below the lists.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "A. Q₁, Q₂, Q₃, Q₄ all positive",
+              "B. Q₁, Q₂ positive; Q₃, Q₄ negative",
+              "C. Q₁, Q₄ positive; Q₂, Q₃ negative",
+              "D. Q₁, Q₃ positive; Q₂, Q₄ negative"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "p. +x",
+              "q. -x",
+              "r. +y",
+              "s. -y"
+            ]
+          },
+          "image_present": true,
+          "year": 2014
+        },
+        {
+          "id": 12,
+          "question_number": 25,
+          "type": "matching",
+          "question_text": "The electric field E is measured at a point P(0,0,d) generated due to various charge distributions and the dependence of E on d is found to be different for different charge distributions. Column I contains different relations between E and d. Column II describes different electric charge distributions, along with their locations. Match the functions in Column I with the related charge distributions in Column II.",
+          "column_1": {
+            "name": "Column I",
+            "items": [
+              "A. E is independent of d",
+              "B. E ∝ 1/d",
+              "C. E ∝ 1/d²",
+              "D. E ∝ 1/d³"
+            ]
+          },
+          "column_2": {
+            "name": "Column II",
+            "items": [
+              "p. A point charge Q at the origin",
+              "q. A small dipole with point charges Q at (0,0,l) and -Q at (0,0,-l). (Take 2l << d)",
+              "r. An infinite line charge coincident with the X-axis, with uniform linear charge density λ.",
+              "s. Two infinite wires carrying a uniform linear charge density parallel to the X-axis. The one along (y=0, z=l) has a charge density +λ and the one along (y=0, z=-l) has a charge density -λ. (Take 2l << d)",
+              "t. Infinite plane charge coincident with the xy-plane with uniform surface charge density."
+            ]
+          },
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 13,
+          "question_number": 26,
+          "type": "integer_answer",
+          "question_text": "A solid sphere of radius R has a charge Q distributed in its volume with a charge density ρ = krᵃ, where k and a are constants and r is the distance from its centre. If the electric field at r = R/2 is 1/8 times that at r = R, find the value of a.",
+          "year": 2009
+        },
+        {
+          "id": 14,
+          "question_number": 27,
+          "type": "integer_answer",
+          "question_text": "At time t=0, a battery of 10 V is connected across points A and B in the given circuit. If the capacitors have no charge initially, at what time (in second) does the voltage across them become 4 V? [Take: ln 5 = 1.6, ln 3 = 1.1]",
+          "image_present": true,
+          "year": 2010,
+          "images":["arihant_images_ch14/arihant_ch14_65.png"]
+        },
+        {
+          "id": 15,
+          "question_number": 28,
+          "type": "integer_answer",
+          "question_text": "Four point charges, each of +q, are rigidly fixed at the four corners of a square planar soap film of side a. The surface tension of the soap film is γ. The system of charges and planar film are in equilibrium, and a = k[q²/γ]^(1/N), where k is a constant. Then N is",
+          "year": 2011
+        },
+        {
+          "id": 16,
+          "question_number": 29,
+          "type": "integer_answer",
+          "question_text": "An infinitely long solid cylinder of radius R has a uniform volume charge density ρ. It has a spherical cavity of radius R/2 with its centre on the axis of the cylinder, as shown in the figure. The magnitude of the electric field at the point P, which is at a distance 2R from the axis of the cylinder, is given by the expression 23ρR / (16kε₀). The value of k is",
+          "image_present": true,
+          "year": 2012,
+          "images":["arihant_images_ch14/arihant_ch14_66.png"]
+        },
+        {
+          "id": 17,
+          "question_number": 30,
+          "type": "integer_answer",
+          "question_text": "An infinitely long uniform line charge distribution of charge per unit length λ lies parallel to the y-axis in the y-z plane at z = (√3/2)a (see figure). If the magnitude of the flux of the electric field through the rectangular surface ABCD lying in the x-y plane with its centre at the origin is λL / (nε₀) (ε₀ = permittivity of free space), then the value of n is",
+          "image_present": true,
+          "year": 2015,
+          "images":["arihant_images_ch14/arihant_ch14_67.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Questions",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 18,
+          "question_number": 31,
+          "type": "descriptive",
+          "question_text": "Three identical capacitors C₁, C₂ and C₃ have a capacitance of 1.0 µF each and they are uncharged initially. They are connected in a circuit as shown in the figure and C₁ is then filled completely with a dielectric material of relative permittivity εᵣ. The cell electromotive force (emf) V₀ = 8V. First the switch S₁ is closed while the switch S₂ is kept open. When the capacitor C₁ is fully charged, S₁ is opened and S₂ is closed simultaneously. When all the capacitors reach equilibrium, the charge on C₃ is found to be 5 µC. The value of εᵣ = ...",
+          "image_present": true,
+          "year": 2018,
+          "images":["arihant_images_ch14/arihant_ch14_68.png"]
+        },
+        {
+          "id": 19,
+          "question_number": 32,
+          "type": "descriptive",
+          "question_text": "A rigid insulated wire frame in the form of a right angled triangle ABC, is set in a vertical plane as shown in figure. Two beads of equal masses m each and carrying charges q₁ and q₂ are connected by a cord of length l and can slide without friction on the wires. Considering the case when the beads are stationary determine (a) (i) The angle α (ii) The tension in the cord (iii) The normal reaction on the beads (b) If the cord is now cut what are the value of the charges for which the beads continue to remain stationary?",
+          "image_present": true,
+          "year": 1978,
+          "images":["arihant_images_ch14/arihant_ch14_69.png"]
+        },
+        {
+          "id": 20,
+          "question_number": 33,
+          "type": "descriptive",
+          "question_text": "The figure shows two identical parallel plate capacitors A and B connected to a battery with the switch S closed. The switch is now opened and the free space between the plates of the capacitors is filled with a dielectric of dielectric constant (or relative permittivity) 3. Find the ratio of the total electrostatic energy stored in both capacitors before and after the introduction of the dielectric.",
+          "image_present": true,
+          "year": 1983,
+          "images":["arihant_images_ch14/arihant_ch14_70.png"]
+        },
+        {
+          "id": 21,
+          "question_number": 34,
+          "type": "descriptive",
+          "question_text": "Two fixed, equal, positive charges, each of magnitude q = 5×10⁻⁵ C are located at points A and B separated by a distance of 6 m. An equal and opposite charge moves towards them along the line COD, the perpendicular bisector of the line AB. The moving charge, when reaches the point C at a distance of 4 m from O, has a kinetic energy of 4 J. Calculate the distance of the farthest point D which the negative charge will reach before returning towards C.",
+          "image_present": true,
+          "year": 1985,
+          "images":["arihant_images_ch14/arihant_ch14_71.png"]
+        },
+        {
+          "id": 22,
+          "question_number": 35,
+          "type": "descriptive",
+          "question_text": "A part of circuit in a steady state along with the currents flowing in the branches, the values of resistances etc, is shown in the figure. Calculate the energy stored in the capacitor C (4µF).",
+          "image_present": true,
+          "year": 1986,
+          "images":["arihant_images_ch14/arihant_ch14_72.png"]
+        },
+        {
+          "id": 23,
+          "question_number": 36,
+          "type": "descriptive",
+          "question_text": "Three point charges q, 2q and 8q are to be placed on a 9 cm long straight line. Find the positions where the charges should be placed such that the potential energy of this system is minimum. In this situation, what is the electric field at the position of the charge q due to the other two charges?",
+          "year": 1987
+        },
+        {
+          "id": 24,
+          "question_number": 37,
+          "type": "descriptive",
+          "question_text": "Three particles, each of mass 1 g and carrying a charge q, are suspended from a common point by insulated massless strings, each 100 cm long. If the particles are in equilibrium and are located at the corners of an equilateral triangle of side length 3 cm, calculate the charge q on each particle. (Take g = 10 m/s²).",
+          "year": 1988
+        },
+        {
+          "id": 25,
+          "question_number": 38,
+          "type": "descriptive",
+          "question_text": "Three concentric spherical metallic shells, A, B and C of radii a, b and c (a<b<c) have surface charge densities σ, -σ and σ respectively.\n(a) Find the potential of the three shells A, B and C.\n(b) If the shells A and C are at the same potential, obtain the relation between the radii a, b and c.",
+          "year": 1990
+        },
+        {
+          "id": 26,
+          "question_number": 39,
+          "type": "descriptive",
+          "question_text": "In the given circuit, E₁ = 3E₂ = 2E₃ = 6V and R₁ = 2R₄ = 6Ω, R₃ = 2R₂ = 4Ω, C = 5µF. Find the current in R₃ and the energy stored in the capacitor.",
+          "image_present": true,
+          "year": 1988,
+          "images":["arihant_images_ch14/arihant_ch14_73.png"]
+        },
+        {
+          "id": 27,
+          "question_number": 40,
+          "type": "descriptive",
+          "question_text": "Two fixed charges -2Q and Q are located at the points with coordinates (-3a, 0) and (+3a, 0) respectively in the x-y plane.\n(a) Show that all points in the x-y plane where the electric potential due to the two charges is zero, lie on a circle. Find its radius and the location of its centre.\n(b) Give the expression V(x) at a general point on the x-axis and sketch the function V(x) on the whole x-axis.\n(c) If a particle of charge +q starts from rest at the centre of the circle, show by a short quantitative argument that the particle eventually crosses the circle. Find its speed when it does so.",
+          "year": 1991
+        },
+        {
+          "id": 28,
+          "question_number": 41,
+          "type": "descriptive",
+          "question_text": "(a) If the same charge of Q as in part (a) above is given to a spherical conductor of the same radius R, what will be the energy of the system?\n(b) A charge of Q is uniformly distributed over a spherical volume of radius R. Obtain an expression for the energy of the system. Assume the earth to be a sphere of uniform mass density. Calculate this energy, given the product of the mass and the radius of the earth to be 2.5 × 10³¹ kg-m.\n(c) What will be the corresponding expression for the energy needed to completely disassemble the planet earth against the gravitational pull amongst its constituent particles?",
+          "year": 1992
+        },
+        {
+          "id": 29,
+          "question_number": 42,
+          "type": "descriptive",
+          "question_text": "A circular ring of radius R with uniform positive charge density λ per unit length is located in the y-z plane with its centre at the origin O. A particle of mass m and positive charge q is projected from the point P(R√3, 0, 0) on the positive x-axis directly towards O, with an initial speed v. Find the smallest (non-zero) value of the speed v such that the particle does not return to P.",
+          "year": 1993
+        },
+        {
+          "id": 30,
+          "question_number": 43,
+          "type": "descriptive",
+          "question_text": "Two parallel plate capacitors A and B have the same separation d = 8.85 × 10⁻⁴ m between the plates. The plate areas of A and B are 0.04 m² and 0.02 m² respectively. A slab of dielectric constant K=9 has dimensions such that it can exactly fill the space between the plates of capacitor B.\n(a) The dielectric slab is placed inside A as shown in figure (i). A is then charged to a potential difference of 110 V. Calculate the capacitance of A and the energy stored in it.\n(b) The battery is disconnected and then the dielectric slab is removed from A. Find the work done by the external agency in removing the slab from A.\n(c) The same dielectric slab is now placed inside B, filling it completely. The two capacitors A and B are then connected as shown in figure (iii). Calculate the energy stored in the system.",
+          "image_present": true,
+          "year": 1993,
+          "images":["arihant_images_ch14/arihant_ch14_74.png"]
+        },
+        {
+          "id": 31,
+          "question_number": 44,
+          "type": "descriptive",
+          "question_text": "Two square metal plates of side 1 m are kept 0.01 m apart like a parallel plate capacitor in air in such a way that one of their edges is perpendicular to an oil surface in a tank filled with an insulating oil. The plates are connected to a battery of emf 500 V. The plates are then lowered vertically into the oil at a speed of 0.001 ms⁻¹. Calculate the current drawn from the battery during the process. (Dielectric constant of oil = 11, ε₀ = 8.85 × 10⁻¹² C²N⁻¹m⁻²).",
+          "year": 1994
+        },
+        {
+          "id": 32,
+          "question_number": 45,
+          "type": "descriptive",
+          "question_text": "The capacitance of a parallel plate capacitor with plate area A and separation d, is C. The space between the plates is filled with two wedges of dielectric constants K₁ and K₂ respectively (figure). Find the capacitance of the resulting capacitor.",
+          "image_present": true,
+          "year": 1996,
+          "images":["arihant_images_ch14/arihant_ch14_75.png"]
+        },
+        {
+          "id": 33,
+          "question_number": 46,
+          "type": "descriptive",
+          "question_text": "Two capacitors A and B with capacities 3µF and 2µF are charged to a potential difference of 100 V and 180 V respectively. The plates of the capacitors are connected as shown in the figure with one wire of each capacitor free. The upper plate of A is positive and that of B is negative. An uncharged 2µF capacitor C with lead wires falls on the free ends to complete the circuit. Calculate\n(a) the final charge on the three capacitors and\n(b) the amount of electrostatic energy stored in the system before and after completion of the circuit.",
+          "image_present": true,
+          "year": 1997,
+          "images":["arihant_images_ch14/arihant_ch14_76.png"]
+        },
+        {
+          "id": 34,
+          "question_number": 47,
+          "type": "descriptive",
+          "question_text": "Two isolated metallic solid spheres of radii R and 2R are charged such that both of these have same charge density σ. The spheres are located far away from each other and connected by a thin conducting wire. Find the new charge density on the bigger sphere.",
+          "year": 1996
+        },
+        {
+          "id": 35,
+          "question_number": 48,
+          "type": "descriptive",
+          "question_text": "A leaky parallel plate capacitor is filled completely with a material having dielectric constant K=5 and electrical conductivity σ = 7.4 × 10⁻¹² Ω⁻¹m⁻¹. If the charge on the capacitor at instant t=0 is q₀ = 8.85 µC, then calculate the leakage current at the instant t=12 s.",
+          "year": 1997
+        },
+        {
+          "id": 36,
+          "question_number": 49,
+          "type": "descriptive",
+          "question_text": "In the circuit shown in figure, the battery is an ideal one, with emf V. The capacitor is initially uncharged. The switch S is closed at time t=0.\n(a) Find the charge Q on the capacitor at time t.\n(b) Find the current in AB at time t. What is its limiting value as t → ∞?",
+          "image_present": true,
+          "year": 1998,
+          "images":["arihant_images_ch14/arihant_ch14_77.png"]
+        },
+        {
+          "id": 37,
+          "question_number": 50,
+          "type": "descriptive",
+          "question_text": "A conducting sphere S₁ of radius r is attached to an insulating handle. Another conducting sphere S₂ of radius R is mounted on an insulating stand. S₂ is initially uncharged. S₁ is given a charge Q, brought into contact with S₂ and removed. S₁ is recharged such that the charge on it is again Q and it is again brought into contact with S₂ and removed. This procedure is repeated n times.\n(a) Find the electrostatic energy of S₂ after n such contacts with S₁.\n(b) What is the limiting value of this energy as n → ∞?",
+          "year": 1998
+        },
+        {
+          "id": 38,
+          "question_number": 51,
+          "type": "descriptive",
+          "question_text": "A non-conducting disc of radius a and uniform positive surface charge density σ is placed on the ground with its axis vertical. A particle of mass m and positive charge q is dropped, along the axis of the disc from a height H with zero initial velocity. The particle has q/m = 4ε₀g/σ.\n(a) Find the value of H if the particle just reaches the disc.\n(b) Sketch the potential energy of the particle as a function of its height and find its equilibrium position.",
+          "year": 1999
+        },
+        {
+          "id": 39,
+          "question_number": 52,
+          "type": "descriptive",
+          "question_text": "Four point charges +8µC, -1µC, -1µC and +8µC are fixed at the points -√27/2 m, -√3/2 m, +√3/2 m and +√27/2 m respectively on the y-axis. A particle of mass 6×10⁻⁴ kg and charge +0.1µC moves along the x-direction. Its speed at x = +∞ is v₀. Find the least value of v₀ for which the particle will cross the origin. Find also the kinetic energy of the particle at the origin. Assume that space is gravity free. (1/4πε₀ = 9×10⁹ Nm²/C²).",
+          "year": 2000
+        },
+        {
+          "id": 40,
+          "question_number": 53,
+          "type": "descriptive",
+          "question_text": "A small ball of mass 2×10⁻³ kg having a charge of 1µC is suspended by a string of length 0.8 m. Another identical ball having the same charge is kept at the point of suspension. Determine the minimum horizontal velocity which should be imparted to the lower ball, so that it can make complete revolution.",
+          "year": 2001
+        },
+        {
+          "id": 41,
+          "question_number": 54,
+          "type": "descriptive",
+          "question_text": "A positive point charge q is fixed at origin. A dipole with a dipole moment p is placed along the x-axis far away from the origin with p pointing along positive x-axis. Find: (a) the kinetic energy of the dipole when it reaches a distance d from the origin, and (b) the force experienced by the charge q at this moment.",
+          "year": 2003
+        },
+        {
+          "id": 42,
+          "question_number": 55,
+          "type": "descriptive",
+          "question_text": "There are two large parallel metallic plates S₁ and S₂ carrying surface charge densities σ₁ and σ₂ respectively (σ₁ > σ₂) placed at a distance d apart in vacuum. Find the work done by the electric field in moving a point charge q a distance a (a<d) from S₁ towards S₂ along a line making an angle π/4 with the normal to the plates.",
+          "year": 2004
+        },
+        {
+          "id": 43,
+          "question_number": 56,
+          "type": "descriptive",
+          "question_text": "A conducting bubble of radius a, thickness t (t<<a) has potential V. Now the bubble collapses into a droplet. Find the potential of the droplet.",
+          "year": 2005
+        },
+        {
+          "id": 44,
+          "question_number": 57,
+          "type": "descriptive",
+          "question_text": "At t=0, switch S is closed. The charge on the capacitor is varying with time as Q = Q₀(1-e⁻ᵃᵗ). Obtain the value of Q₀ and α in the given circuit parameters.",
+          "image_present": true,
+          "year": 2005,
+          "images":["arihant_images_ch14/arihant_ch14_78.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 45,
+          "question_number": 1,
+          "type": "multiple_choice",
+          "question_text": "An infinite line charge of uniform electric charge density λ lies along the axis of an electrically conducting infinite cylindrical shell of radius R. At time t=0, the space inside the cylinder is filled with a material of permittivity ε and electrical conductivity σ. The electrical conduction in the material follows Ohm's law. Which one of the following graphs best describes the subsequent variation of the magnitude of current density j(t) at any point in the material?",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2016
+        },
+        {
+          "id": 46,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "Shown in the figure is a shell made of a conductor. It has inner radius a and outer radius b and carries charge Q. At its centre is a dipole p as shown. In this case,",
+          "options": [
+            "surface charge density on the inner surface is uniform and equal to -p/(4πa²)",
+            "electric field outside the shell is the same as that of a point charge at the centre of the shell",
+            "surface charge density on the outer surface depends on |p|",
+            "surface charge density on the inner surface of the shell is zero everywhere"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images":["arihant_images_ch14/arihant_ch14_79.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 47,
+          "question_number": 3,
+          "type": "multiple_select",
+          "question_text": "Two capacitors C₁ and C₂ are charged to 120 V and 200 V respectively. It is found that by connecting them together the potential on each one can be made zero. Then",
+          "options": [
+            "5C₁ = 3C₂",
+            "3C₁ = 5C₂",
+            "3C₁ + 5C₂ = 0",
+            "9C₁ = 4C₂"
+          ],
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "type_name": "Passage Based Questions",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 48,
+          "type": "passage",
+          "passage_title": "Passage",
+          "passage_text": "Consider an evacuated cylindrical chamber of height h having rigid conducting plates at the ends and an insulating curved surface as shown in the figure. A number of spherical balls made of a light weight and soft material and coated with a conducting material are placed on the bottom plate. The balls have a radius r << h. Now, a high voltage source (HV) connected across the conducting plates such that the bottom plate is at +V₀ and the top plate at -V₀. Due to their conducting surface, the balls will get charge, will become equipotential with the plate and are repelled by it. The balls will eventually collide with the top plate, where the coefficient of restitution can be taken to be zero due to the soft nature of the material of the balls. The electric field in the chamber can be considered to be that of a parallel plate capacitor. Assume that there are no collisions between the balls and the interaction between them is negligible. (Ignore gravity)",
+          "image_present": true,
+          "images":["arihant_images_ch14/arihant_ch14_80.png"],
+          "associated_questions": [
+            {
+              "id": 49,
+              "question_number": 4,
+              "type": "multiple_choice",
+              "question_text": "Which one of the following statement is correct?",
+              "options": [
+                "The balls will execute simple harmonic motion between the two plates.",
+                "The balls will bounce back to the bottom plate carrying the same charge they went up with.",
+                "The balls will stick to the top plate and remain there.",
+                "The balls will bounce back to the bottom plate carrying the opposite charge they went up with."
+              ],
+              "year": 2016
+            },
+            {
+              "id": 50,
+              "question_number": 5,
+              "type": "multiple_choice",
+              "question_text": "The average current in the steady state registered by the ammeter in the circuit will be",
+              "options": [
+                "proportional to V₀",
+                "proportional to the potential V₀",
+                "zero",
+                "proportional to V₀^(1/2)"
+              ],
+              "year": 2016
+            }
+          ]
+        }
+      ]
+    }
+    
+  ]
+}

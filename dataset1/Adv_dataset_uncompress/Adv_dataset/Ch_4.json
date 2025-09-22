@@ -1,0 +1,542 @@
+{
+    "section-A": [
+        {
+            "question_number": 1,
+            "question": "Assertion: A block of mass m starts moving on a rough horizontal surface with a velocity v. It stops due to friction between the block and the surface after moving through a certain distance. The surface is now tilted to an angle of 30° with the horizontal and the same block is made to go up on the surface with the same initial velocity v. The decrease in the mechanical energy in the second situation is smaller than that in the first situation. Reason: The coefficient of friction between the block and the surface decreases with the increase in the angle of inclination.",
+            "year": 2007,
+            "question_type": "assertion and reason",
+            "options": [
+                "(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion",
+                "(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion",
+                "(c) If Assertion is true; Reason is false",
+                "(d) If Assertion is false; Reason is true"
+            ]
+        },
+        {
+            "question_number": 2,
+            "question": "Two masses of 1 g and 4 g are moving with equal kinetic energies. The ratio of the magnitudes of their momenta is:",
+            "year": 1980,
+            "question_type": "mcq",
+            "options": [
+                "(a) 4 : 1",
+                "(b) √2 : 1",
+                "(c) 1 : 2",
+                "(d) 1 : 16"
+            ]
+        },
+        {
+            "question_number": 3,
+            "question": "A body is moved along a straight line by a machine delivering constant power. The distance moved by the body in time t is proportional to:",
+            "year": 1984,
+            "question_type": "mcq",
+            "options": [
+                "(a) t^1/2",
+                "(b) t^3/4",
+                "(c) t^3/2",
+                "(d) t^2"
+            ]
+        },
+        {
+            "question_number": 4,
+            "question": "A uniform chain of length L and mass M is lying on a smooth table and one-third of its length is hanging vertically down over the edge of the table. If g is acceleration due to gravity, the work required to pull the hanging part on to the table is:",
+            "year": 2002,
+            "question_type": "mcq",
+            "options": [
+                "(a) MgL",
+                "(b) MgL/3",
+                "(c) MgL/9",
+                "(d) MgL/18"
+            ]
+        },
+        {
+            "question_number": 5,
+            "question": "A particle of mass m is moving in a circular path of constant radius r such that its centripetal acceleration ac is varying with time t as ac = k²r t², where k is a constant. The power delivered to the particle by the force acting on it is:",
+            "year": 1994,
+            "question_type": "mcq",
+            "options": [
+                "(a) 2πmk²r²",
+                "(b) mk²r² t²",
+                "(c) (mk⁴r² t⁵) / 3",
+                "(d) zero"
+            ]
+        },
+        {
+            "question_number": 6,
+            "question": "A stone tied to a string of length L is whirled in a vertical circle with the other end of the string at the centre. At a certain instant the stone is at its lowest position, and has a speed u. The magnitude of the change in its velocity as it reaches a position, where the string is horizontal, is:",
+            "year": 1998,
+            "question_type": "mcq",
+            "options": [
+                "(a) √u² - 2gL",
+                "(b) √2gL",
+                "(c) √2(u² - gL)",
+                "(d) √2(u² - gL)"
+            ]
+        },
+        {
+            "question_number": 7,
+            "question": "A force F = -k (yî + xĵ) (where k is a positive constant) acts on a particle moving in the x-y plane. Starting from the origin, the particle is taken along the positive X-axis to the point (a, 0) and then parallel to the Y-axis to the point (a, a). The total work done by the force F on the particle is:",
+            "year": 1998,
+            "question_type": "mcq",
+            "options": [
+                "(a) -2ka²",
+                "(b) 2ka²",
+                "(c) -ka²",
+                "(d) ka²"
+            ]
+        },
+        {
+            "question_number": 8,
+            "question": "A spring of force constant k is cut into two pieces such that one piece is double the length of the other. Then, the long piece will have a force constant of:",
+            "year": 1999,
+            "question_type": "mcq",
+            "options": [
+                "(a) (2/3)k",
+                "(b) (3/2)k",
+                "(c) 3k",
+                "(d) 6k"
+            ]
+        },
+        {
+            "question_number": 9,
+            "question": "A particle, which is constrained to move along x-axis, is subjected to a force in the same direction which varies with the distance x of the particle from the origin as F(x) = -kx + ax³. Here, k and a are positive constants. For x ≥ 0, the functional form of the potential energy U(x) of the particle is:",
+            "year": 2002,
+            "question_type": "mcq",
+            "options": [
+                "(a) U(x) = ∫F(x) dx",
+                "(b) U(x) = -∫F(x) dx",
+                "(c) U(x) = kx² + ax⁴",
+                "(d) U(x) = -kx² + ax⁴"
+            ]
+        },
+        {
+            "question_number": 10,
+            "question": "A smooth pendulum is oscillating without damping. When the displacement of the bob is less than maximum, its acceleration vector is correctly shown in the figure.",
+            "year": 2002,
+            "question_type": "mcq",
+            "options": [
+                "(a) Correct",
+                "(b) Incorrect",
+                "(c) Sometimes correct",
+                "(d) None"
+            ]
+        },
+        {
+            "question_number": 11,
+            "question": "An ideal spring with spring constant k is hung from the ceiling and a block of mass M is attached to its lower end. The mass is released with the spring initially unstretched. Then the maximum extension in the spring is:",
+            "year": 2002,
+            "question_type": "mcq",
+            "options": [
+                "(a) 4Mg/k",
+                "(b) 2Mg/k",
+                "(c) Mg/k",
+                "(d) Mg/2k"
+            ]
+        },
+        {
+            "question_number": 12,
+            "question": "If W₁, W₂ and W₃ represent the work done in moving a particle from A to B along three different paths 1, 2 and 3 respectively in the gravitational field of a point mass m. Find the correct relation between W₁, W₂ and W₃.",
+            "year": 2003,
+            "question_type": "mcq",
+            "options": [
+                "(a) W₁ > W₂ > W₃",
+                "(b) W₁ = W₂ = W₃",
+                "(c) W₃ > W₁ > W₂",
+                "(d) W₃ = W₂ > W₁"
+            ],
+            "images":["arihant_images_ch4/arihant_1.png"]
+        },
+        {
+            "question_number": 13,
+            "question": "A particle is placed at the origin and a force F = -kx is acting on it (where k is a positive constant). If U(0) = 0, the graph of U(x) versus x will be:",
+            "year": 2004,
+            "question_type": "mcq",
+            "options": [
+                "(a) U(x) = x²",
+                "(b) U(x) = -kx²",
+                "(c) U(x) = kx²",
+                "(d) U(x) = -kx"
+            ]
+        },
+        {
+            "question_number": 14,
+            "question": "A bob of mass M is suspended by a massless string of length L. The horizontal velocity v at position A is just sufficient to make it reach the point B. The angle θ at which the speed of the bob is half of that at A, satisfies:",
+            "year": 2008,
+            "question_type": "mcq",
+            "options": [
+                "(a) θ = π/4",
+                "(b) π/4 < θ < π/2",
+                "(c) π/2 < θ < 3π/4",
+                "(d) 3π/4 < θ < π"
+            ],
+            "images":["arihant_images_ch4/arihant_2.png"]
+        },
+        {
+            "question_number": 15,
+            "question": "A block (B) is attached to two unstretched springs S₁ and S₂ with spring constants k and 4k, respectively. The other ends are attached to two supports M₁ and M₂ not attached to the walls. The springs and supports have negligible mass. There is no friction anywhere.",
+            "year": 2008,
+            "question_type": "mcq",
+            "options": [
+                "(a) 4",
+                "(b) 1/2",
+                "(c) 1",
+                "(d) 1/4"
+            ],
+            "images":["arihant_images_ch4/arihant_3.png","arihant_images_ch4/arihant_4.png"]
+        },
+        {
+            "question_number": 16,
+            "question": "A block of mass 2 kg is free to move along the x-axis. It is at rest and from t = 0 onwards it is subjected to a time-dependent force F(t) in the x-direction. The force F(t) varies with t as shown in the figure. The kinetic energy of the block after 4.5 s is:",
+            "year": 2010,
+            "question_type": "mcq",
+            "options": [
+                "(a) 4.50 J",
+                "(b) 7.50 J",
+                "(c) 5.06 J",
+                "(d) 14.06 J"
+            ],
+            "images":["arihant_images_ch4/arihant_5.png"]
+        },
+        {
+            "question_number": 17,
+            "question": "A wire, which passes through the hole in a small bead, is bent in the form of a quarter of a circle. The wire is fixed vertically on ground as shown in the figure. The bead is released from near the top of the wire and it slides along the wire without friction. As the bead moves from A to B, the force it applies on the wire is:",
+            "year": 2014,
+            "question_type": "mcq",
+            "options": [
+                "(a) always radially outwards",
+                "(b) always radially inwards",
+                "(c) radially outwards initially and radially inwards later",
+                "(d) radially inwards initially and radially outwards later"
+            ],
+            "images":["arihant_images_ch4/arihant_6.png"]
+        },
+        {
+            "question_number": 18,
+            "question": "When a rubber band is stretched by a distance x, it exerts a restoring force of magnitude F = ax + bx², where a and b are constants. The work done in stretching the unstretched rubber band by L is:",
+            "year": 2014,
+            "question_type": "mcq",
+            "options": [
+                "(a) aL² + bL³",
+                "(b) 1/2 (aL² + bL³)",
+                "(c) aL²/2 + bL³/3",
+                "(d) 1/2 (aL²/2 + bL³/3)"
+            ]
+        },
+        {
+            "question_number": 19,
+            "question": "A point particle of mass m, moves along the uniformly rough track PQR as shown in the figure. The coefficient of friction between the particle and the rough track equals μ.",
+            "year": 2016,
+            "question_type": "mcq",
+            "options": [
+                "(a) 0.2 and 6.5 m",
+                "(b) 0.29 and 3.5 m",
+                "(c) 0.29 and 6.5 m",
+                "(d) 0.29 and 6.5 m"
+            ],
+            "images":["arihant_images_ch4/arihant_7.png"]
+        },
+        {
+            "question_number": 20,
+            "question": "A body of mass m = 10² kg is moving in a medium and experiences a frictional force F = -kx². Its initial speed is v₀ = 10 m/s. If, after 10 s, its velocity is 1/8 m/s, the value of k will be:",
+            "year": 2017,
+            "question_type": "mcq",
+            "options": [
+                "(a) 10³ kg·s⁻¹",
+                "(b) 10⁴ kg·m⁻¹·s⁻²",
+                "(c) 10¹ kg·m·s⁻¹",
+                "(d) 10³ kg·m·s"
+            ]
+        },
+        {
+            "question_number": 21,
+            "question": "A time dependent force F = 6t acts on a particle of mass 1 kg. If the particle starts from rest, the work done by this force in the first 5 seconds is:",
+            "year": 2017,
+            "question_type": "mcq",
+            "options": [
+                "(a) 22 J",
+                "(b) 6 J",
+                "(c) 18 J",
+                "(d) 4.5 J"
+            ]
+        },
+        {
+            "question_number": 22,
+            "question": "A uniform cable of mass M and length L is placed on a horizontal surface such that its one-half part is hanging below the edge of the surface. To lift the hanging part of the cable upto the surface, the work done should be:",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 2MgL²/n²",
+                "(b) MgL²/n²",
+                "(c) MgL²",
+                "(d) MgL²/2"
+            ]
+        },
+        {
+            "question_number": 23,
+            "question": "A block of mass m is kept on a platform which starts from rest with constant acceleration g/2 upwards as shown in figure. Work done by normal reaction on block in time t is:",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) mg t²/2",
+                "(b) 3mg t²/2",
+                "(c) mg t²/8",
+                "(d) mg t²"
+            ],
+            "images":["arihant_images_ch4/arihant_8.png"]
+        },
+        {
+            "question_number": 24,
+            "question": "A force acts on a 12 kg object, so that its position is given as a function of time as x = x³ + 3t² + 5. What is the work done by this force in first 5 seconds?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 850 J",
+                "(b) 900 J",
+                "(c) 950 J",
+                "(d) 875 J"
+            ]
+        },
+        {
+            "question_number": 25,
+            "question": "A smooth wire of length 2πr is bent into a circle and kept in a vertical plane. A bead can slide smoothly on the wire. When the circle is rotating with angular speed ω about the vertical diameter AB, as shown in figure, the bead is at rest with respect to the circular ring at position P as shown. Then, the value of ω² is equal to:",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) √3g/2r",
+                "(b) 2g/(√3r)",
+                "(c) g√(3)/r",
+                "(d) 2g/r"
+            ],
+            "images":["arihant_images_ch4/arihant_9.png"]
+        },
+        {
+            "question_number": 26,
+            "question": "A particle moves in one dimension from rest under the influence of a force that varies with the distance travelled by the particle as shown in the figure. The kinetic energy of the particle after it has travelled 3 m is:",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 4 J",
+                "(b) 2.5 J",
+                "(c) 6.5 J",
+                "(d) 5 J"
+            ],
+            "images":["arihant_images_ch4/arihant_10.png"]
+        },
+        {
+            "question_number": 27,
+            "question": "A particle which is experiencing a force, is given by F = 3î - 12ĵ, undergoes a displacement of d = 4î. If the particle had a kinetic energy of 3 J at the beginning of the displacement, what is its kinetic energy at the end of the displacement?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "(a) 9 J",
+                "(b) 15 J",
+                "(c) 12 J",
+                "(d) 10 J"
+            ]
+        },
+        {
+            "question_number": 28,
+            "question": "A particle is acted upon by a force of constant magnitude which is always perpendicular to the velocity of the particle. The motion of the particle takes place in a plane. It follows that",
+            "year": 1987,
+            "question_type": "mcq",
+            "options": [
+                "(a) its velocity is constant",
+                "(b) its acceleration is constant",
+                "(c) its kinetic energy is constant",
+                "(d) it moves in a circular path"
+            ]
+        },
+        {
+            "question_number": 31,
+            "question": "A particle of mass 0.2 kg is moving in one dimension under a force that delivers a constant power 0.5 W to the particle. If the initial speed (in m/s) of the particle is zero, the speed (in m/s) after 5 s is",
+            "year": 2013,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 32,
+            "question": "A body of mass 2 kg is being dragged with a uniform velocity of 2 m/s on a rough horizontal plane. The coefficient of friction between the body and the surface is 0.20, μ = 4.2 J/cal and g = 9.8m/s². Calculate the amount of heat generated in 5 s.",
+            "year": 1980,
+            "question_type": "analytical"
+        },
+        {
+            "question_number": 33,
+            "question": "The displacement x of a particle moving in one dimension, under the action of a constant force is related to the time t by the equation x = √(t). Find: (a) the displacement of the particle when its velocity is zero, and (b) the work done by the force in the first 6 s.",
+            "year": 1980,
+            "question_type": "analytical"
+        },
+        {
+            "question_number": 34,
+            "question": "A lead bullet just melts when stopped by an obstacle. Assuming that 25 per cent of the heat is absorbed by the obstacle, find the velocity of the bullet if its initial temperature is 27°C. (Melting point of lead = 327°C, specific heat of lead = 0.03 cal/g°C, latent heat of fusion of lead = 6 cal/g, and g = 4.2 J/cal).",
+            "year": 1981,
+            "question_type": "analytical"
+        },
+        {
+            "question_number": 35,
+            "question": "A particle of mass 10² kg is moving along the positive X-axis under the influence of a force F(x) = -k / 2x² where k = 10² Nm². At time t = 0, it is at x = 1.0 m and its velocity v = 0. (a) Find its velocity when it reaches x = 0.5 m. (b) Find the time at which it reaches x = 0.25 m.",
+            "year": 1998,
+            "question_type": "analytical"
+        },
+        {
+            "question_number": 36,
+            "question": "A light inextensible string that goes over a smooth fixed pulley as shown in the figure connects two blocks of masses 0.36 kg and 0.72 kg. Taking g = 10 m/s², find the work done (in joule) by string on the block of mass 0.36 kg during the first second after the system is released from rest.",
+            "year": 2009,
+            "question_type": "analytical",
+            "images":["arihant_images_ch4/arihant_11.png"]
+
+        }
+
+        
+
+    ],
+    "section-2": [
+        {
+            "question_number": 1,
+            "question": "The work done on a particle of mass m by a force, K[(x² + y²)^(3/2)] i + [(x² + y²)^(3/2)] j (K being a constant of appropriate dimensions), when the particle is taken from the point (a, 0) to the point (0, a) along a circular path of radius a about the origin in the x-y plane is",
+            "year": 2013,
+            "question_type": "mcq",
+            "options": [
+                "(a) 2Kπa",
+                "(b) Kπa",
+                "(c) Kπa/2",
+                "(d) 0"
+            ]
+        },
+        {
+            "question_number": 2,
+            "question": "A particle of mass m is initially at rest at the origin. It is subjected to a force and starts moving along the X-axis. Its kinetic energy K changes with time as dK/dt = γt, where γ is a positive constant of appropriate dimensions. Which of the following statements is/are true?",
+            "year": 2018,
+            "question_type": "mcq",
+            "options": [
+                "(a) The force applied on the particle is constant",
+                "(b) The speed of the particle is proportional to time",
+                "(c) The distance of the particle from the origin increases linearly with time",
+                "(d) The force is conservative"
+            ]
+        },
+        {
+            "question_number": 3,
+            "question": "A bob of mass m, suspended by a string of length l, is given a minimum velocity required to complete a full circle in the vertical plane. At the highest point, it collides elastically with another bob of mass m suspended by a string of length l2, which is initially at rest. Both the strings are massless and inextensible. If the second bob, after collision acquires the minimum speed required to complete a full circle in the vertical plane, the ratio l1 / l2 is",
+            "year": 2013,
+            "question_type": "integer"
+        },
+        {
+            "question_number": 4,
+            "question": "Consider an elliptically shaped rail PQ in the vertical plane with OP = 3 m and OQ = 4 m. A block of mass 1 kg is pulled along the rail from P to Q with a force of 18 N, which is always parallel to line PQ (see figure). Assuming no frictional losses, the kinetic energy of the block when it reaches Q is (n × 10) J. The value of n is (take acceleration due to gravity = 10 m/s²)",
+            "year": 2014,
+            "question_type": "integer",
+            "images":["arihant_images_ch4/arihant_12.png"]
+        },
+        {
+            "question_number": 5,
+            "question": "A cricket ball of mass 0.15 kg is thrown vertically up by a bowling machine, so that it rises to a maximum height of 20 m after leaving the machine. If the part pushing the ball applies a constant force F on the ball and moves horizontally a distance of 0.2 m, while launching the ball, the value of F (in N) is (Take, g = 10 m/s²)",
+            "year": 2015,
+            "question_type": "integer"
+        },
+        {
+            "question_number": 6,
+            "question": "In the figures (a) and (b) AC, DG, and GF are fixed inclined planes, BC = EF = x and AB = DE = y. A small block of mass M is released from the point A. It slides down AC and reaches C with a speed vC. The same block is released from rest from the point D. It slides down DGF and reaches the point F with speed vF. The coefficients of kinetic frictions between the block and both the surfaces AC and DGF are μ. Calculate vC and vF.",
+            "year": 1980,
+            "question_type": "Analytical & Descriptive",
+            "images":["arihant_images_ch4/arihant_13.png","arihant_images_ch4/arihant_14.png"]
+        },
+        {
+            "question_number": 7,
+            "question": "Two blocks A and B are connected to each other by a string and a spring. The string passes over a frictionless pulley. Block B slides over the horizontal top surface of a stationary block C, and the block A slides along the vertical side of C, both with the same uniform speed. The coefficient of friction between the surfaces of blocks A and B is 0.2. Calculate the mass of block B and the energy stored in the spring.",
+            "year": 1982,
+            "question_type": "Analytical & Descriptive",
+            "images":["arihant_images_ch4/arihant_15.png"]
+          },
+          {
+            "question_number": 8,
+            "question": "A 0.5 kg block slides from the point A on a horizontal track with initial speed 3 m/s towards a weighted horizontal spring of length 1 m and force constant 2 N/m. The part AB of the track is frictionless and the part BC has coefficients of kinetic friction 0.22 and 0.4, respectively. If the distances AB and BD are 2 m and 2.14 m respectively, find the total distance through which the block moves before it comes to rest completely.",
+            "year": 1983,
+            "question_type": "Analytical & Descriptive",
+            "images":["arihant_images_ch4/arihant_16.png"]
+          },
+          {
+            "question_number": 9,
+            "question": "A string of negligible mass is attached to a point on a rigid wall, passing over a fixed frictionless pulley and connected to the block M = 2 kg. A mass m = 0.5 kg is attached at the free end. The string is horizontal between the wall and pulley and vertical between the pulley and block. Find the speed with which the mass M will hit the wall when m is released.",
+            "year": 1985,
+            "question_type": "Analytical & Descriptive",
+            "images":["arihant_images_ch4/arihant_17.png"]
+          },
+          {
+            "question_number": 10,
+            "question": "A bullet of mass M is fired with a velocity of 50 m/s at an angle θ with the horizontal. At the highest point of its trajectory, it collides head-on with a bob of mass 3M suspended by a massless string of length 10/3 m and gets embedded in the bob. After the collision, the string moves through an angle of 120°. Find:\n(a) The angle θ\n(b) The vertical and horizontal coordinates of the initial position of the bullet with respect to the point of firing of the bullet.",
+            "year": 1988,
+            "question_type": "Analytical & Descriptive"
+          },
+          {
+            "question_number": 11,
+            "question": "A particle is suspended vertically from a point O by an inextensible massless string of length L. A vertical line AB is at a distance L/8 from O as shown in the figure. The object is given a horizontal velocity u. At some point, its motion ceases to be circular and eventually the object passes through the line AB. At the instant of crossing AB, its velocity is horizontal. Find u.",
+            "year": 1999,
+            "question_type": "Analytical & Descriptive",
+            "images":["arihant_images_ch4/arihant_18.png"]
+          },
+          {
+            "question_number": 12,
+            "question": "A spherical ball of mass m is kept at the highest point in the space between two fixed, concentric spheres A and B (see fig.). The smaller sphere A has a radius R and the space between the two spheres has a width d. The ball has a diameter very slightly less than d. All surfaces are frictionless. The ball is given a gentle push (towards the right in the figure). The angle made by the radius vector of the ball with the upward vertical is denoted by θ.\n(a) Express the total normal reaction force exerted by the spheres on the ball as a function of angle θ.\n(b) Let N₁ and N₂ denote the magnitudes of the normal reaction forces on the ball exerted by the spheres A and B, respectively. Sketch the variations of N₁ and N₂ as a function of cos θ in the answer box, taking cos θ on the horizontal axis.",
+            "year": 2002,
+            "question_type": "Analytical & Descriptive",
+            "images":["arihant_images_ch4/arihant_19.png"]
+          }
+          
+
+    ],
+    "section-3": [
+    {
+      "question_number": 1,
+      "question": "If a machine is lubricated with oil,",
+      "year": 1980,
+      "question_type": "mcq",
+      "options": [
+        "(a) the mechanical advantage of the machine increases",
+        "(b) the mechanical efficiency of the machine increases",
+        "(c) both its mechanical advantage and efficiency increases",
+        "(d) its efficiency increases, but its mechanical advantage decreases"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "A wind-powered generator converts wind energy into electrical energy. Assume that the generator converts a fixed fraction of the wind energy intercepted by its blades into electrical energy. For wind speed v, the electrical power output will be proportional to",
+      "year": 2000,
+      "question_type": "mcq",
+      "options": [
+        "(a) v",
+        "(b) v²",
+        "(c) v³",
+        "(d) v⁴"
+      ]
+    },
+    {
+      "question_number": 3,
+      "question": "A person trying to loose weight by burning fat lifts a mass of 10 kg upto a height of 1 m 1000 times. Assume that the potential energy lost each time he lowers the mass is dissipated. How much fat will he use up considering his work done only when the weight is lifted up? Fat supplies 3.8 × 10⁷ J of energy per kg which is converted to mechanical energy with a 20% efficiency rate. (Take, g = 9.8 m/s²)",
+      "year": 2016,
+      "question_type": "integer answer",
+      "options": [
+        "(a) 2.45 × 10⁵ kg",
+        "(b) 6.45 × 10⁵ kg",
+        "(c) 9.89 × 10⁵ kg",
+        "(d) 12.89 × 10⁵ kg"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "A particle of unit mass is moving along the x-axis under the influence of a force and its total energy is conserved. Four possible forms of the potential energy of the particle are given in Column I (a and U₀ are constants). Match the potential energies in Column I to the corresponding statements in Column II.",
+      "year": 2015,
+      "question_type": "match the column",
+      "column_I": [
+        "A. U₁(x) = U₀ / 2 [ 1 - (x² / a²) ]",
+        "B. U₂(x) = U₀ / 2 (x² / a²)",
+        "C. U₃(x) = U₀ / 2 [ (x² / a²) - exp( - (x² / a²) ) ]",
+        "D. U₄(x) = U₀ / 2 [ 1 - |x / a| - (x³ / a³) ]"
+      ],
+      "column_II": [
+        "p. The force acting on the particle is zero at x = a",
+        "q. The force acting on the particle is zero at x = 0",
+        "r. The force acting on the particle is zero at x = -a",
+        "s. The particle experiences an attractive force towards x = 0 in the region |x| < a",
+        "t. The particle with total energy E₀ can oscillate about the point x = -a"
+      ]
+    }
+  ]
+}

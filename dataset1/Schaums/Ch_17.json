@@ -1,0 +1,163 @@
+[
+  {
+    "question_number": 17.1,
+    "Questions": "Ordinary nitrogen gas consists of molecules of N₂. Find the mass of one such molecule. The molecular mass is 28 kg/kmol.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "m₀ = 4.7 × 10⁻²⁶ kg"
+  },
+  {
+    "question_number": 17.2,
+    "Questions": "Helium gas consists of separate He atoms rather than molecules. How many helium atoms, He, are there in 2.0 g of helium? M = 4.0 kg/kmol for He.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Method 1: Number of atoms = 3.0 × 10²³; Method 2: Number in 2.0 g = 3.0 × 10²³"
+  },
+  {
+    "question_number": 17.3,
+    "Questions": "A droplet of mercury has a radius of 0.50 mm. How many mercury atoms are in the droplet? For Hg, M = 202 kg/kmol and ρ = 13,600 kg/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The number of atoms in the droplet is 2.1 × 10¹⁹."
+  },
+  {
+    "question_number": 17.4,
+    "Questions": "How many molecules are there in 70 mL of benzene? For benzene, ρ = 0.88 g/cm³ and M = 78 kg/kmol.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 4.8 × 10²³"
+  },
+  {
+    "question_number": 17.5,
+    "Questions": "Find the rms speed of a nitrogen molecule (M = 28 kg/kmol) in air at 0°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "rms = 0.49 km/s"
+  },
+  {
+    "question_number": 17.6,
+    "Questions": "A gas molecule at the surface of the Earth happens to have the rms speed for that gas at exactly 0°C. If it were to go straight up without colliding with other molecules, how high would it rise?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "h = 12.4 km"
+  },
+  {
+    "question_number": 17.7,
+    "Questions": "Air at room temperature has a density of about 1.29 kg/m³. Assuming it to be entirely one gas, find v₋rms for its molecules.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "v₋rms ≈ 480 m/s"
+  },
+  {
+    "question_number": 17.8,
+    "Questions": "Find the translational kinetic energy of one gram mole of any ideal gas at 0°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "KE = 3.4 kJ"
+  },
+  {
+    "question_number": 17.9,
+    "Questions": "There is about one hydrogen atom per cm³ in outer space, where the temperature (in the shade) is about 3.5 K. Find the rms speed of these atoms and the pressure they exert.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "v₋rms = 295 m/s; P = 5 × 10⁻¹⁷ Pa"
+  },
+  {
+    "question_number": 17.10,
+    "Questions": "Find the following ratios for hydrogen (M = 2.0 kg/kmol) and nitrogen (M = 28 kg/kmol) gases at the same temperature: (a) (KEₖ/KEₙ) and (b) (rms speed)ₖ/(rms speed)ₙ.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 1.0; (b) 3.7"
+  },
+  {
+    "question_number": 17.11,
+    "Questions": "Certain ideal gas molecules behave like spheres of radius 3.0 × 10⁻¹⁰ m. Find the mean free path of these molecules under S.T.P.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Mean free path = 2.4 × 10⁻⁸ m"
+  },
+  {
+    "question_number": 17.12,
+    "Questions": "At what pressure will the mean free path be 50 cm for spherical molecules of radius 3.0 × 10⁻¹⁰ m? Assume an ideal gas at 20°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "P = 5.1 mPa"
+  },
+  {
+    "question_number": 17.13,
+    "Questions": "Find the mass of a neon atom. The atomic mass of neon is 20.2 kg/kmol.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 3.36 × 10⁻²⁶ kg"
+  },
+  {
+    "question_number": 17.14,
+    "Questions": "A typical polymer molecule in polyethylene might have a molecular mass of 15 × 10⁻²³. (a) What is the mass in kilograms of such a molecule? (b) How many such molecules would make up 2 g of polymer?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 2.5 × 10⁻²³ kg; (b) 8 × 10¹⁹"
+  },
+  {
+    "question_number": 17.15,
+    "Questions": "A certain strain of tobacco mosaic virus has M = 4.0 × 10⁷ kg/kmol. How many molecules of the virus are present in 1.0 mL of a solution that contains 0.10 mg of virus per mL?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.5 × 10¹²"
+  },
+  {
+    "question_number": 17.16,
+    "Questions": "An electronic vacuum tube was sealed off during manufacture at a pressure of 1.2 × 10⁷ mmHg at 27°C. Its volume is 100 cm³. (a) What is the pressure in the tube (in Pa)? (b) How many gas molecules remain in the tube?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 1.6 × 10⁵ Pa; (b) 3.8 × 10¹¹"
+  },
+  {
+    "question_number": 17.17,
+    "Questions": "The pressure of helium gas in a tube is 0.200 mmHg. If the temperature of the gas is 20°C, what is the density of the gas? (Use Mₐ = 4.0 kg/kmol.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 4.4 × 10⁻⁵ kg/m³"
+  },
+  {
+    "question_number": 17.18,
+    "Questions": "At what temperature will the molecules of an ideal gas have twice the rms speed they have at 20°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1170 K = 900°C"
+  },
+  {
+    "question_number": 17.19,
+    "Questions": "An object must have a speed of at least 11.2 km/s to escape from the Earth's gravitational field. At what temperature will v₋rms for H₂ molecules equal the escape speed? Repeat for N₂ molecules. (M_H₂ = 2.0 kg/kmol and M_N₂ = 28 kg/kmol.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.0 × 10⁴ K; 1.4 × 10⁵ K"
+  },
+  {
+    "question_number": 17.20,
+    "Questions": "In a certain region of outer space there are an average of only five molecules per cm³. The temperature there is about 3 K. What is the average pressure of this very dilute gas?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2 × 10⁻¹⁶ Pa"
+  },
+  {
+    "question_number": 17.21,
+    "Questions": "A cube of aluminum has a volume of 1.0 cm³ and a mass of 2.7 g. (a) How many aluminum atoms are there in the cube? (b) How large a volume is associated with each atom? (c) If each atom were a cube, what would be its edge length? M = 108 kg/kmol for aluminum.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 1.5 × 10²²; (b) 6.6 × 10⁻²⁹ m³; (c) 4.0 × 10⁻¹⁰ m"
+  },
+  {
+    "question_number": 17.22,
+    "Questions": "The rms speed of nitrogen molecules in the air at S.T.P. is about 490 m/s. Find their mean free path and the average time between collisions. The radius of a nitrogen molecule can be taken to be 2.0 × 10⁻¹⁰ m.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 5.2 × 10⁻⁸ m, 1.1 × 10⁻¹⁰ s"
+  },
+  {
+    "question_number": 17.23,
+    "Questions": "What is the mean free path of a gas molecule (radius 2.5 × 10⁻¹⁰ m) in an ideal gas at 500°C when the pressure is 7.0 × 10⁻⁶ mmHg?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 10 m"
+  }
+]

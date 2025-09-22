@@ -1,0 +1,667 @@
+{
+  "section-1": [
+    {
+      "question_number": 3,
+      "question": "A particle executes simple harmonic motion with a frequency f. The frequency with which its kinetic energy oscillates is",
+      "year": 1987,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) f/2",
+        "(b) f",
+        "(c) 2f",
+        "(d) 4f"
+      ]
+      
+    },
+    {
+      "question_number": 4,
+      "question": "Two bodies M and N of equal masses are suspended from two separate massless springs of spring constants k1 and k2 respectively. If the two bodies oscillate vertically such that their maximum velocities are equal, the ratio of the amplitude of M to that of N is",
+      "year": 1988,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) k1/k2",
+        "(b) √(k2/k1)",
+        "(c) k2/k1",
+        "(d) √(k1/k2)"
+      ]
+    },
+    {
+        "question_number": 5,
+        "question": "A uniform cylinder of length L and mass M having cross-sectional area A is suspended, with its length vertical, from a fixed point by a massless spring, such that it is half-submerged in a liquid of density ρ at equilibrium position. When the cylinder is given a small downward push and released it starts oscillating vertically with a small amplitude. If the force constant of the spring is k, the frequency of oscillation of the cylinder is",
+        "year": 1990,
+        "question_type": "Objective Question I (Only one correct option)",
+        "options": [
+            "(a) 1 / 2π √(k − Aρg / M)",
+            "(b) 1 / 2π √(k + Aρg / M)",
+            "(c) 1 / 2π √(k + ρgL² / M)",
+            "(d) 1 / 2π √(k + Aρg / Aρg)"
+        ]
+    },
+    {
+        "question_number": 6,
+        "question": "A highly rigid cubical block A of small mass M and side L is fixed rigidly on to another cubical block B of the same dimensions and of low modulus of rigidity η such that the lower face of A completely covers the upper face of B. The lower face of B is rigidly held on a horizontal surface. A small force F is applied perpendicular to one of the side faces of A. After the force is withdrawn, block A executes small oscillations, the time period of which is given by",
+        "year": 1992,
+        "question_type": "Objective Question I (Only one correct option)",
+        "options": [
+            "(a) 2π √(MηL)",
+            "(b) 2π √(Mη / L)",
+            "(c) 2π √(ML / η)",
+            "(d) 2π √(M / ηL)"
+        ]
+    },
+    {
+        "question_number": 7,
+        "question": "One end of a long metallic wire of length L is tied to the ceiling. The other end is tied to a massless spring of spring constant k. A mass m hangs freely from the free end of the spring. The area of cross-section and the Young’s modulus of the wire are A and Y respectively. If the mass is slightly pulled down and released, it will oscillate with a time period T equal to",
+        "year": 1993,
+        "question_type": "Objective Question I (Only one correct option)",
+        "options": [
+            "(a) 2π (m/k)^(1/2)",
+            "(b) 2π √(m(YA + kL) / YAk)",
+            "(c) 2π [(mYA/kL)]^(1/2)",
+            "(d) 2π (mL / YA)^(1/2)"
+        ]
+    },
+    {
+      "question_number": 8,
+      "question": "A spring of force constant k is cut into two pieces such that one piece is double the length of the other. Then, the long piece will have a force constant of",
+      "year": 1999,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 2k/3",
+        "(b) 3k/2",
+        "(c) 3k",
+        "(d) 6k"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "The period of oscillation of simple pendulum of length L suspended from the roof of the vehicle which moves without friction, down an inclined plane of inclination α, is given by",
+      "year": 2000,
+      "question_type": "Objective Question I (Only one correct option)",
+      "options": [
+        "(a) 2π √(L/g cos α)",
+        "(b) 2π √(L/g sin α)",
+        "(c) 2π √(L / g)",
+        "(d) 2π √(L /gtan α)"
+      ]
+    },
+    {
+    "question_number": 10,
+    "question": "A particle executes simple harmonic motion between x = - A and x = + A. The time taken for it to go from O to A/2 is T1 and to go from A/2 to A is T2, then",
+    "year": 2001,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) T1 < T2",
+      "(b) T1 > T2",
+      "(c) T1 = T2",
+      "(d) T1 = 2T2"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question": "For a particle executing SHM the displacement x is given by x = A cos ωt. Identify the graph which represents the variation of potential energy (PE) as a function of time t and displacement x.",
+    "year": 2003,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) I, III",
+      "(b) II, IV",
+      "(c) II, III",
+      "(d) I, IV"
+    ],
+    "images":["arihant_images_ch8/arihant_1.png","arihant_images_ch8/arihant_2.png"]
+  },
+  {
+    "question_number": 12,
+    "question": "A block P of mass m is placed on a horizontal frictionless plane. A second block of same mass m is placed on it and is connected to a spring of spring constant k, the two blocks are pulled by a distance A. Block Q oscillates without slipping. What is the maximum value of frictional force between the two blocks?",
+    "year": 2004,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) kA/2",
+      "(b) kA",
+      "(c) μs * mg",
+      "(d) Zero"
+    ],
+    "images":["arihant_images_ch8/arihant_3.png"]
+  },
+  {
+    "question_number": 13,
+    "question": "A simple pendulum has time period T1. The point of suspension is now moved upward according to the relation y = kt^2 (k = 1m/s^2), where y is the vertical displacement. The time period now becomes T2. The ratio of T1^2 / T2^2 is",
+    "year": 2005,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 6/5",
+      "(b) 5/6",
+      "(c) 1",
+      "(d) 4/5"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question": "The x-t graph of a particle undergoing simple harmonic motion is shown below. The acceleration of the particle at t = 4/3 s is",
+    "year": 2009,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) √3/32 π^2 cms^-2",
+      "(b) −π^2 / 32 cms^-2",
+      "(c) π^2 / 32 cms^-2",
+      "(d) −√3/32 π^2 cms^-2"
+    ],
+    "images":["arihant_images_ch8/arihant_4.png"]
+  },
+  {
+    "question_number": 15,
+    "question": "A uniform rod of length L and mass M is pivoted at the centre. Its two ends are attached to two springs of equal spring constants k. The springs are fixed to rigid supports as shown in the figure, and the rod is free to oscillate in the horizontal plane. The rod is gently pushed through a small angle θ in one direction and released. The frequency of oscillation is",
+    "year": 2009,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 1/2π √2k/M",
+      "(b) 1/2π √k/M",
+      "(c) 1/2π √6k/M",
+      "(d) 1/2π √24k/M"
+    ],
+    "images":["arihant_images_ch8/arihant_5.png"]
+  },
+  {
+    "question_number": 16,
+    "question": "A point mass is subjected to two simultaneous sinusoidal displacements in x-direction, x1(t) = A sin(ωt) and x3(t) = A sin(ωt + φ). Adding a third sinusoidal displacement x3(t) = B sin(ωt + φ) brings the mass to a complete rest. The values of B and φ are",
+    "year": 2011,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) √3A, 4π/3",
+      "(b) 4π/3, 3π/4",
+      "(c) √3A, 5π/6",
+      "(d) A, π/3"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question": "A wooden block performs SHM on a frictionless surface with frequency v0. The block carries a charge +Q on its surface. If now a uniform electric field E is switched-on as shown, then the SHM of the block will be",
+    "year": 2011,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) of the same frequency and with shifted mean position",
+      "(b) of the same frequency and with the same mean position",
+      "(c) of changed frequency and with shifted mean position",
+      "(d) of changed frequency and with the same mean position"
+    ],
+    "images":["arihant_images_ch8/arihant_6.png"]
+  },
+  {
+    "question_number": 18,
+    "question": "A particle moves with simple harmonic motion in a straight line. In first sec, after starting from rest it travels a distance a and in next t sec, it travels 2a, in same direction, then",
+    "year": 2014,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) amplitude of motion is 3a",
+      "(b) time period of oscillations is 8πt",
+      "(c) amplitude of motion is 4a",
+      "(d) time period of oscillations is 6πt"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question": "For a simple pendulum, a graph is plotted between its Kinetic Energy (KE) and Potential Energy (PE) against its displacement x. Which one of the following represents these correctly? (graphs are schematic and not drawn to scale)",
+    "year": 2015,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) KE vs x",
+      "(b) KE vs PE",
+      "(c) PE vs x",
+      "(d) PE vs KE"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question": "A student measures the time period of 100 oscillations of a simple pendulum four times. The data set is 90s, 91s, 92s and 95s. If the minimum division in the measuring clock is 1s, the reported mean time should be",
+    "year": 2016,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 92 ± 2 s",
+      "(b) 92 ± 5 s",
+      "(c) 92 ± 1.8 s",
+      "(d) 92 ± 3 s"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question": "A particle performs simple harmonic motion with amplitude A. Its speed is trebled at the instant that it is at a distance 2A/3 from equilibrium position. The new amplitude of the motion is",
+    "year": 2016,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) A√41/3",
+      "(b) 3A",
+      "(c) √3A",
+      "(d) 7/3A"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question": "A particle is executing simple harmonic motion with a time period T. At time t = 0, it is at its equilibrium position. The kinetic energy-time graph of the particle will look like",
+    "year": 2017,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) T/4",
+      "(b) T/2",
+      "(c) T/3",
+      "(d) T/1"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question": "A silver atom in a solid, oscillates in simple harmonic motion in some direction with a frequency of 10¹² per second. What is the force constant of the bonds connecting one atom with the other? (Take, molecular weight of silver = 108 and Avogadro number = 6.02 x 10²³ gm mol⁻¹)",
+    "year": 2018,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 5.5 N/m",
+      "(b) 6.4 N/m",
+      "(c) 7.1 N/m",
+      "(d) 2.2 N/m"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question": "A pendulum is executing simple harmonic motion and its maximum kinetic energy is K₁. If the length of the pendulum is doubled and it performs simple harmonic motion with the same amplitude as in the first case, its maximum kinetic energy is K₂. Then",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) K₂ = 2K₁",
+      "(b) K₂ = K₁/2",
+      "(c) K₂ = K₁/4",
+      "(d) K₂ = K₁"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question": "A particle is executing simple harmonic motion (SHM) of amplitude A, along the X-axis, about x = 0 when its potential energy (PE) equals kinetic energy (KE), the position of the particle will be",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) A",
+      "(b) A/2",
+      "(c) A/2√2",
+      "(d) A/√2"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question": "The displacement of a damped harmonic oscillator is given by x(t) = e^(-αt) cos(10πt + φ). Here, t is in seconds. The time taken for its amplitude of vibration to drop to half of its initial value is close to",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 27 s",
+      "(b) 13 s",
+      "(c) 7 s",
+      "(d) 4 s"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question": "A simple harmonic motion is represented by y = 5 sin(3πt + √3cos3πt) cm. The amplitude and time period of the motion are",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 10 cm, 3/2 s",
+      "(b) 5 cm, 2/3 s",
+      "(c) 5 cm, 3/2 s",
+      "(d) 10 cm, 2/3 s"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question": "A particle executes simple harmonic motion with an amplitude of 5 cm. When the particle is at 4 cm from the mean position, the magnitude of its velocity in SI units is equal to that of its acceleration. Then, its period time (in seconds) is",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 4π/3",
+      "(b) 8π/3",
+      "(c) 7π/3",
+      "(d) 3π/8"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question": "A spring whose unstretched length is l has a force constant K. The spring is cut into two pieces of unstretched lengths l₁ and l₂, where l₁ = n l and n is an integer. The ratio k₁ / k₂ of the corresponding force constants k₁ and k₂ will be",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) n",
+      "(b) n²",
+      "(c) 1/n",
+      "(d) n²"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question": "Two light identical springs of spring constant k are attached horizontally at the two ends of an uniform horizontal rod AB of length l and mass m. The rod is pivoted at its centre 'O' and can rotate freely in horizontal plane. The other ends of the two springs are fixed to rigid supports as shown in figure. The rod is gently pushed through a small angle and released. The frequency of resulting oscillation is",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+        "(a) 1/2π √(2k/m)",
+        "(b) 1/2π √(3k/m)",
+        "(c) 1/2π √(6k/m)",
+        "(d) 1/2π √(k/m)"
+    ],
+    "images":["arihant_images_ch8/arihant_7.png"]
+    },
+    {
+    "question_number": 31,
+    "question": "A block of mass m lying on a smooth horizontal surface is attached to a spring (of negligible mass) of spring constant k. The other end of the spring is fixed as shown in the figure. The block is initially at rest in its equilibrium position. If now the block is pulled with a constant force F, the maximum speed of the block is",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) F/√mk",
+      "(b) F/mk",
+      "(c) 2F/√mk",
+      "(d) F/π√mk"
+    ],
+    "images":["arihant_images_ch8/arihant_8.png"]
+  },
+  {
+    "question_number": 32,
+    "question": "A simple pendulum oscillating in air has period T. The bob of the pendulum is completely immersed in a non-viscous liquid. The density of the liquid is 1/16 the material of the bob. If the bob is inside liquid all the time, its period of oscillation in this liquid is",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 2T √1/10",
+      "(b) 2T √1/14",
+      "(c) 4T √1/14",
+      "(d) 4T √1/15"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question": "A damped harmonic oscillator has a frequency of 5 oscillations per second. The amplitude drops to half its value for every 10 oscillations. The time it will take to drop to 1/1000 of the original amplitude is close to",
+    "year": 2019,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) 20 s",
+      "(b) 50 s",
+      "(c) 100 s",
+      "(d) 10 s"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question": "A linear harmonic oscillator of force constant 2 × 10^6 N/m and amplitude 0.01m has a total mechanical energy of 160 J. Its maximum potential energy is",
+    "year": 1989,
+    "question_type": "Objective Question II (One or more correct option)",
+    "options": [
+      "(a) maximum potential energy is 100 J",
+      "(b) maximum kinetic energy is 100 J",
+      "(c) maximum potential energy is 160 J",
+      "(d) maximum potential energy is zero"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question": "Three simple harmonic motions in the same direction having the same amplitude and same period are superposed. If each differ in phase from the next by 45°, then",
+    "year": 1999,
+    "question_type": "Objective Question I (Only one correct option)",
+    "options": [
+      "(a) the resultant amplitude is (1+√2) a",
+      "(b) the phase of the resultant motion relative to the first is 90°",
+      "(c) the energy associated with the resulting motion is (3+√2) times the energy associated with any single motion",
+      "(d) the resulting motion is not simple harmonic"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question": "Function x = A sin2ωt + B cos2ωt + C sinωt or cosωt represents SHM",
+    "year": 2006,
+    "question_type": "Objective Question II (One or more correct option)",
+    "options": [
+      "(a) For any value of A, B and C (except C = 0)",
+      "(b) If A = − B, C = 2B, amplitude = |B/√2|",
+      "(c) If A = B; C = 0",
+      "(d) If A = B ; C = 2B, amplitude = |B|"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question": "A point mass m is suspended at the end of a massless wire of length L and cross-sectional area A. If Y is the Young’s modulus of elasticity of the material of the wire, obtain the expression for the frequency of the simple harmonic motion along the vertical line.",
+    "year": 1978,
+    "question_type": "Analytical & Descriptive Questions",
+    "options": []
+  },
+  {
+    "question_number": 38,
+    "question": "A mass M attached to a spring oscillates with a period of 2 s. If the mass is increased by 2 kg the period increases by one sec. Find the initial mass M assuming that Hooke’s law is obeyed.",
+    "year": 1979,
+    "question_type": "Analytical & Descriptive Questions",
+    "options": []
+  },
+  {
+    "question_number": 39,
+    "question": "Two masses m1 and m2 are suspended together by a massless spring of spring constant k. When the masses are in equilibrium, m1 is removed without disturbing the system. Find the angular frequency and amplitude of oscillation of m2.",
+    "year": 1981,
+    "question_type": "Analytical & Descriptive Questions",
+    "options": [],
+    "images":["arihant_images_ch8/arihant_9.png"]
+  }
+  ],
+  "section-2": [
+    {
+      "question_number": 1,
+      "question": "A particle free to move along the X-axis has potential energy given by U(x) = k[1 − exp (−x² / S²)] for −∞ ≤ x ≤ +∞, where k is a positive constant of appropriate dimensions. Then",
+      "year": 1999,
+      "question_type": "mcq",
+      "options": [
+        "(a) at points away from the origin, the particle is in unstable equilibrium",
+        "(b) for any finite non-zero value of x, there is a force directed away from the origin",
+        "(c) if its total mechanical energy is k / 2, it has its minimum kinetic energy at the origin",
+        "(d) for small displacements from x = 0, the motion is simple harmonic"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "The mass M shown in the figure oscillates in simple harmonic motion with amplitude A. The amplitude of the point P is",
+      "year": 2009,
+      "question_type": "mcq",
+      "options": [
+        "(a) k₁A / k₂",
+        "(b) k₂A / k₁",
+        "(c) k₁ A/ (k₁ + k₂)",
+        "(d) k₂ A / (k₁ + k₂)"
+      ],
+      "images":["arihant_images_ch8/arihant_10.png"]
+    },
+    {
+      "question_number": 3,
+      "question": "A small block is connected to one end of a massless spring of unstretched length 4.9 m. The other end of the spring (see the figure) is fixed. The system lies on a horizontal frictionless surface. The block is stretched by 0.2 m and released from rest at t = 0. It then executes simple harmonic motion with angular frequency ω = 3 rad/s. Simultaneously at t = 0, a small pebble is projected with speed v from point P at an angle of 45° as shown in the figure.",
+      "year": 2012,
+      "question_type": "mcq",
+      "options": [
+        "(a) √50 m/s",
+        "(b) √51 m/s",
+        "(c) √52 m/s",
+        "(d) √53 m/s"
+      ],
+      "images":["arihant_images_ch8/arihant_11.png"]
+    },
+    {
+      "question_number": 4,
+      "question": "A particle of mass m is attached to one end of a massless spring of force constant k, lying on a frictionless horizontal plane. The other end of the spring is fixed. The particle starts moving horizontally from its equilibrium position at time t = 0 with an initial velocity u₀. When the speed of the particle is u₀, it collides elastically with a rigid wall. After this collision",
+      "year": 2013,
+      "question_type": "mcq",
+      "options": [
+        "(a) the speed of the particle when it returns to its equilibrium position is u₀",
+        "(b) the time at which the particle passes through the equilibrium position for the first time is t = π√(m/k)",
+        "(c) the time at which the maximum compression of the spring occurs is t = 4π/3 √(m/k)",
+        "(d) the time at which the particle passes through the equilibrium position for the second time is t = 5π/3 √(m/k)"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "Two independent harmonic oscillators of equal masses are oscillating about the origin with angular frequencies ω₁ and ω₂, and have total energies E₁ and E₂, respectively. The variations of their momenta p with positions x are shown in the figures. If r₁ = r₂ and a = r, then the correct equations is/are",
+      "year": 2015,
+      "question_type": "mcq",
+      "options": [
+        "(a) E₁ω₁ = E₂ω₂",
+        "(b) ω₂ / ω₁ = n²",
+        "(c) ω₁ ω₂ = n²",
+        "(d) E₁ / ω₁ = E₂ / ω₂"
+      ],
+      "images":["arihant_images_ch8/arihant_12.png","arihant_images_ch8/arihant_13.png"]
+    },
+    {
+      "question_number": 6,
+      "question": "A block with mass M is connected by a massless spring with stiffness constant k to a rigid wall and moves without friction on a horizontal surface. The block oscillates with small amplitude A about an equilibrium position x₀. Consider two cases: (i) when the block is at x₀ and (ii) when the block is at x = x₀ + A. In both the cases, a particle with mass m (m < M) is softly placed on the block after which they stick to each other. Which of the following statement(s) is (are) true about the motion after the mass m is placed on the mass M?",
+      "year": 2016,
+      "question_type": "mcq",
+      "options": [
+        "(a) The amplitude of oscillation in the first case changes by a factor of (M / (m + M))^1/2",
+        "(b) The final time period of oscillation in both the cases is same",
+        "(c) The total energy decreases in both the cases",
+        "(d) The instantaneous speed at x₀ of the combined masses decreases in both the cases"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "Column I describes some situations in which a small object moves. Column II describes some characteristics of these motions. Match the situations in Column I with the characteristics in Column II.",
+      "year": 2007,
+      "question_type": "match_the_columns",
+      "column_I": {
+        "A": "The object moves on the x-axis under a conservative force in such a way that its speed and position satisfy v = c₁√(c₂ − x²), where c₁ and c₂ are positive constants.",
+        "B": "The object moves on the x-axis in such a way that its velocity and its displacement from the origin satisfy v = −kx, where k is a positive constant.",
+        "C": "The object is attached to one end of a mass-less spring of a given spring constant. The other end of the spring is attached to the ceiling of an elevator. Initially everything is at rest. The elevator starts going upwards with a constant acceleration a. The motion of the object is observed from the elevator during the period it maintains this acceleration.",
+        "D": "The object is projected from the earth’s surface vertically upwards with a speed 2√(GMe / Re), where Me is the mass of the earth and Re is the radius of the earth. Neglect forces from objects other than the earth."
+      },
+      "column_II": {
+        "p": "The object executes a simple harmonic motion.",
+        "q": "The object does not change its direction.",
+        "r": "The kinetic energy of the object keeps on decreasing.",
+        "s": "The object can change its direction only once."
+      }
+    },
+    {
+      "question_number": 11,
+      "question": "Column I gives a list of possible set of parameters measured in some experiments. The variations of the parameters in the form of graphs are shown in Column II. Match the set of parameters given in Column I with the graphs given in Column II.",
+      "year": 2008,
+      "question_type": "match_the_columns",
+      "column_I": {
+        "A": "Potential energy of a simple pendulum (Y-axis) as a function of displacement (X-axis).",
+        "B": "Displacement (Y-axis) as a function of time (X-axis) for a one dimensional motion at zero or constant acceleration when the body is moving along the positive x-direction.",
+        "C": "Range of a projectile (Y-axis) as a function of its velocity (X-axis) when projected at a fixed angle.",
+        "D": "The square of the time period (Y-axis) of a simple pendulum as a function of its length (X-axis)."
+      },
+      "column_II": {
+        "p": "Parabolic curve opening upwards",
+        "q": "Linear graph with positive slope through origin",
+        "r": "Piecewise linear graph with initial slope then flat",
+        "s": "Square root curve"
+      },
+      "images":["arihant_images_ch8/arihant_14.png","arihant_images_ch8/arihant_15.png","arihant_images_ch8/arihant_16.png","arihant_images_ch8/arihant_17.png"]
+    },
+    {
+      "question_number": 12,
+      "question": "A 0.1 kg mass is suspended from a wire of negligible mass. The length of the wire is 1 m and its cross-sectional area is 4.9 × 10^−7 m². If the mass is pulled a little in the vertically downward direction and released, it performs simple harmonic motion of angular frequency 140 rad s^−1. If the Young’s modulus of the material of the wire is n × 10^9 Nm^−2, the value of n is.",
+      "year": 2010,
+      "question_type": "integer"
+    },
+    {
+      "question_number": 13,
+      "question": "A spring block system is resting on a frictionless floor as shown in the figure. The spring constant is 2.0 Nm^−1 and the mass of the block is 2.0 kg. Ignore the mass of the spring. Initially, the spring is in an unstretched condition. Another block of mass 1.0 kg moving with a speed of 2.0 ms^−1 collides elastically with the first block. The collision is such that the 2.0 kg block does not hit the wall. The distance, in metres, between the two blocks when the spring returns to its unstretched position for the first time after the collision is ............ .",
+      "year": 2018,
+      "question_type": "integer",
+      "images":["arihant_images_ch8/arihant_18.png"]
+    },
+    {
+      "question_number": 14,
+      "question": "An ideal gas is enclosed in a vertical cylindrical container and supports a freely moving piston of mass M. The piston and the cylinder have equal cross-sectional area A. Atmospheric pressure is p₀ and when the piston is in equilibrium, the volume of the gas is V₀. The piston is now displaced slightly from its equilibrium position. Assuming that the system is completely isolated from its surroundings, show that the piston executes simple harmonic motion and find the frequency of oscillation.",
+      "year": 1981,
+      "question_type": "Analytical & Descriptive Question",
+      "options": []
+    },
+    {
+      "question_number": 15,
+      "question": "A thin fixed ring of radius 1 m has a positive charge 1 × 10⁻⁵ C uniformly distributed over it. A particle of mass 0.9 g and having a negative charge of 1 × 10⁻⁶ C is placed on the axis at a distance of 1 cm from the centre of the ring. Show that the motion of the negatively charged particle is approximately simple harmonic. Calculate the time period of oscillations.",
+      "year": 1982,
+      "question_type": "Analytical & Descriptive Question",
+      "options": []
+    },
+    {
+      "question_number": 16,
+      "question": "Two light springs of force constants k₁ and k₂ and a block of mass m are in one line AB on a smooth horizontal table such that one end of each spring is fixed on rigid supports and the other end is free as shown in the figure.\n\nThe distance CD between the free ends of the spring is 60 cm. If the block moves along AB with a velocity 120 cm/s in between the springs, calculate the period of oscillation of the block. (Take, k₁ = 1.8 N/m, k₂ = 3.2 N/m, m = 200 g)",
+      "year": 1985,
+      "question_type": "Analytical & Descriptive Question",
+      "options": [],
+      "images":["arihant_images_ch8/arihant_19.png"]
+    },
+    {
+      "question_number": 17,
+      "question": "A point particle of mass M attached to one end of a massless rigid non-conducting rod of length L. Another point particle of the same mass is attached to the other end of the rod. The two particles carry charges +q and −q respectively. This arrangement is held in a region of a uniform electric field E such that the rod makes a small angle θ (say of about 5 degrees) with the field direction. Find an expression for the minimum time needed for the rod to become parallel to the field after it is set free.",
+      "year": 1989,
+      "question_type": "Analytical & Descriptive Question",
+      "options": [],
+      "images":["arihant_images_ch8/arihant_20.png"]
+    },
+    {
+      "question_number": 18,
+      "question": "Two non-viscous, incompressible and immiscible liquids of densities ρ and 1.5 ρ are poured into the two limbs of a circular tube of radius R and small cross-section kept fixed in a vertical plane as shown in figure. Each liquid occupies one-fourth the circumference of the tube.\n(a) Find the angle θ that the radius to the interface makes with the vertical in equilibrium position.\n(b) If the whole liquid column is given a small displacement from its equilibrium position, show that the resulting oscillations are simple harmonic. Find the time period of these oscillations.",
+      "year": 1991,
+      "question_type": "Analytical & Descriptive Question",
+      "options": [],
+      "images":["arihant_images_ch8/arihant_21.png"]
+    },
+    {
+      "question_number": 19,
+      "question": "Two identical balls A and B, each of mass 0.1 kg, are attached to two identical massless springs. The spring-mass system is constrained to move inside a rigid smooth pipe bent in the form of a circle as shown in figure. The pipe is fixed in a horizontal plane. The centres of the balls can move in a circle of radius 0.06 m. Each spring has a natural length of 0.067 m and spring constant 0.1 N/m. Initially, both the balls are displaced by an angle θ = π/6 rad with respect to the diameter PQ of the circle (as shown in figure) and released from rest. (a) Calculate the frequency of oscillation of ball B. (b) Find the speed of ball A when A and B are at the two ends of the diameter PQ. (c) What is the total energy of the system?",
+      "year": 1993,
+      "question_type": "Analytical & Descriptive Question",
+      "options": [],
+      "images":["arihant_images_ch8/arihant_22.png"]
+    },
+    {
+      "question_number": 20,
+      "question": "A thin rod of length L and uniform cross-section is pivoted at its lowest point P inside a stationary homogeneous and non-viscous liquid. The rod is free to rotate in a vertical plane about a horizontal axis passing through P. The density d1 of the material of the rod is smaller than the density d2 of the liquid. The rod is displaced by small angle θ from its equilibrium position and then released. Show that the motion of the rod is simple harmonic and determine its angular frequency in terms of the given parameters.",
+      "year": 1996,
+      "question_type": "Analytical & Descriptive Question",
+      "options": [],
+      "images":["arihant_images_ch8/arihant_23.png"]
+    },
+    {
+      "question_number": 21,
+      "question": "A solid sphere of radius R is floating in a liquid of density ρ with half of its volume submerged. If the sphere is slightly pushed and released, it starts performing simple harmonic motion. Find the frequency of these oscillations.",
+      "year": 2004,
+      "question_type": "Analytical & Descriptive Question",
+      "options": []
+    },
+    {
+      "question_number": 22,
+      "question": "A mass m is undergoing SHM in the vertical direction about the mean position y₀ with amplitude A and angular frequency ω. At a distance y from the mean position, the mass detaches from the spring. Assume that the spring contracts and does not obstruct the motion of m. Find the distance y (measured from the mean position) such that the height h attained by the block is maximum. (Aω² > g).",
+      "year": 2005,
+      "question_type": "Analytical & Descriptive Question",
+      "options": [],
+      "images":["arihant_images_ch8/arihant_24.png"]
+    }
+
+  ],
+  
+  "section-3": [
+    {
+      "question_number": 1,
+      "question": "A particle of mass m is executing oscillation about the origin on the X-axis. Its potential energy is U(x) = k |x|³, where k is a positive constant. If the amplitude of oscillation is a, then its time period T is",
+      "year": 1998,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) proportional to 1 / √a",
+        "(b) independent of a",
+        "(c) proportional to √a",
+        "(d) proportional to a^(3/2)"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "A metal rod of length L and mass m is pivoted at one end. A thin disc of mass M and radius R (< L) is attached at its centre to the free end of the rod. Consider two ways the disc is attached. Case A—the disc is not free to rotate about its centre and Case B—the disc is free to rotate about its centre. The rod-disc system performs SHM in vertical plane after being released from the same displaced position. Which of the following statement(s) is/are true?",
+      "year": 2011,
+      "question_type": "Objective Questions II (One or more correct option)",
+      "options": [
+        "(a) Restoring torque in case A = Restoring torque in case B",
+        "(b) Restoring torque in case A < Restoring torque in case B",
+        "(c) Angular frequency for case A > Angular frequency for case B",
+        "(d) Angular frequency for case A < Angular frequency for case B"
+      ],
+      "images":["arihant_images_ch8/arihant_25.png"]
+    }
+  ]
+}

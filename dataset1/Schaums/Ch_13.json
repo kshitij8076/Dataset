@@ -1,0 +1,360 @@
+[
+    {
+        "question_number": 13.1,
+        "Questions": "An 80-kg metal cylinder, 2.0 m long and with each end of area 25 cm², stands vertically on one end. What pressure does the cylinder exert on the floor?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Pressure = 3.1 x 10⁶ Pa."
+    },
+    {
+        "question_number": 13.2,
+        "Questions": "Atmospheric pressure is about 1.0 x 10⁵ Pa. How large a force does the still air in a room exert on the inside of a window pane that is 40 cm x 80 cm?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Force = 3.2 x 10⁴ N."
+    },
+    {
+        "question_number": 13.3,
+        "Questions": "Find the pressure due to the fluid at a depth of 76 cm in still (a) water (ρ = 1.00 g/cm³) and (b) mercury (ρ = 13.6 g/cm³).",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) P = 7.5 kPa, (b) P = 1.0 atm."
+    },
+    {
+        "question_number": 13.4,
+        "Questions": "When a submarine dives to a depth of 120 m, to how large a total pressure is its exterior surface subjected? The density of seawater is about 1.03 g/cm³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Total pressure = 1.31 MPa."
+    },
+    {
+        "question_number": 13.5,
+        "Questions": "How high would water rise in the pipes of a building if the water pressure gauge shows the pressure at the ground floor to be 270 kPa (about 40 lb/in²)?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Water rise = 27.5 m."
+    },
+    {
+        "question_number": 13.6,
+        "Questions": "A reservoir dam holds an 8.00-km² lake behind it. Just behind the dam, the lake is 12.0 m deep. What is the water pressure (a) at the base of the dam and (b) at a point 3.0 m down from the lake's surface?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) P = 118 kPa, (b) P = 29 kPa."
+    },
+    {
+        "question_number": 13.7,
+        "images":["images/arihant_ch16_117.png"],
+        "Questions": "A weighted piston confines a fluid density ρ in a closed container, as shown in Fig. 13.1. The combined weight of piston and weight is 200 N, and the cross-sectional area of the piston is A = 8.00 cm². Find the total pressure at point B if the fluid is mercury and h = 25 cm (ρHg = 13,600 kg/m³). What would an ordinary pressure gauge read at B?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Total pressure at B = 3.8 x 10⁶ Pa, Gauge pressure at B = 2.8 x 10⁶ Pa."
+    },
+    {
+        "question_number": 13.8,
+        "images":["images/arihant_ch16_118.png"],
+        "Questions": "In a hydraulic press such as the one shown in Fig. 13-2, the large piston has cross-sectional area A₁ = 200 cm² and the small piston has cross-sectional area A₂ = 5.0 cm². If a force of 250 N is applied to the small piston, find the force F₁ on the large piston.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "F₁ = 10 kN."
+    },
+    {
+        "question_number": 13.9,
+        "images":["images/arihant_ch16_119.png"],
+        "Questions": "For the system shown in Fig. 13-3, the cylinder on the left, at L, has a mass of 600 kg and a cross-sectional area of 800 cm². The piston on the right, at S, has a cross-sectional area of 25 cm² and a negligible weight. If the apparatus is filled with oil (ρ = 0.78 g/cm³), find the force F required to hold the system in equilibrium as shown.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Force F = 31 N."
+    },
+    {
+        "question_number": 13.10,
+        "Questions": "A barrel will rupture when the gauge pressure within it reaches 350 kPa. It is attached to the lower end of a vertical pipe, with the pipe and barrel filled with oil (ρ = 890 kg/m³). How long can the pipe be if the barrel is not to rupture?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Height = 40.1 m."
+    },
+    {
+        "question_number": 13.11,
+        "Questions": "A vertical test tube has 2.0 cm of oil (ρ = 0.80 g/cm³) floating on 8.0 cm of water. What is the pressure at the bottom of the tube due to the fluid in it?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Pressure = 0.94 kPa."
+    },
+    {
+        "question_number": 13.12,
+        "images":["images/arihant_ch16_120.png"],
+        "Questions": "As shown in Fig. 13-4, a column of water 40 cm high supports a 31-cm column of an unknown fluid. What is the density of the unknown fluid?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of unknown fluid = 1.3 x 10³ kg/m³."
+    },
+    {
+        "question_number": 13.13,
+        "images":["images/arihant_ch16_121.png"],
+        "Questions": "The U-tube device connected to the tank in Fig. 13-5 is called a manometer. As you can see, the mercury in the tube stands higher in one side than the other. What is the pressure in the tank if atmospheric pressure is 76 cm of mercury? The density of mercury is 13.6 g/cm³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Pressure in the tank = 95 kPa."
+    },
+    {
+        "question_number": 13.14,
+        "Questions": "The mass of a block of aluminum is 25.0 g. (a) What is its volume? (b) What will be the tension in a string that suspends the block when the block is totally submerged in water? The density of aluminum is 2700 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) Volume = 9.26 cm³, (b) Tension = 0.154 N."
+    },
+    {
+        "question_number": 13.15,
+        "images":["images/arihant_ch16_122.png"],
+        "Questions": "A piece of alloy has a measured mass of 86 g in air and 73 g when immersed in water. Find its volume and its density.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume = 1.3 x 10⁻⁵ m³, Density = 6.6 x 10³ kg/m³."
+    },
+    {
+        "question_number": 13.16,
+        "Questions": "A solid aluminum cylinder with ρ = 2700 kg/m³ has a measured mass of 67 g in air and 45 g when immersed in turpentine. Determine the density of turpentine.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of turpentine = 8.9 x 10³ kg/m³."
+    },
+    {
+        "question_number": 13.17,
+        "Questions": "A glass stopper has a mass of 2.50 g when measured in air, 1.50 g in water, and 0.70 g in sulfuric acid. What is the density of the acid? Its specific gravity?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of acid = 1.8 x 10³ kg/m³, Specific gravity = 1.8."
+    },
+    {
+        "question_number": 13.18,
+        "Questions": "The density of ice is 917 kg/m³. What fraction of the volume of a piece of ice will be above water when floating in fresh water?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Fraction of volume above water = 0.917."
+    },
+    {
+        "question_number": 13.19,
+        "Questions": "A 60-kg rectangular box, open at the top, has base dimensions 1.0 m by 0.80 m and depth 0.50 m. (a) How deep will it sink in fresh water? (b) What weight F₆₄ will cause it to sink to a depth of 30 cm?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) Sink depth = 0.075 m, (b) Weight of ballast = 180 kg."
+    },
+    {
+        "question_number": 13.20,
+        "Questions": "A foam plastic (ρp = 0.58 g/cm³) is to be used as a life preserver. What volume of plastic must be used if it is to keep 20 percent (by volume) of an 80-kg man above water in a lake? The average density of the man is 1.04 g/cm³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume of plastic = 1.8 x 10⁻² m³."
+    },
+    {
+        "question_number": 13.21,
+        "Questions": "A partly filled beaker of water sits on a scale, and its weight is 2.30 N. When a piece of metal suspended from a thread is totally immersed in the beaker (but not touching bottom), the scale reads 2.75 N. What is the volume of the metal?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume of metal = 46 cm³."
+    },
+    {
+        "question_number": 13.22,
+        "Questions": "A piece of pure gold (ρ = 19.3 g/cm³) is suspected to have a hollow center. It has a mass of 38.25 g in air and 36.22 g in water. What is the volume of the central hole in the gold?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume of central hole = 0.048 cm³."
+    },
+    {
+        "question_number": 13.23,
+        "Questions": "A wooden cylinder has mass m and base area A. It floats in water with its axis vertical. Show that the cylinder undergoes SHM if given a small vertical displacement. Find the frequency of its motion.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Frequency of motion = 1/2π √(k/m) = 1/2π √(ρgA/m)."
+    },
+    {
+        "question_number": 13.24,
+        "Questions": "What must be the volume V of a 5.0-kg balloon filled with helium (ρHe = 0.178 kg/m³) if it is to lift a 30-kg load? Use ρair = 1.29 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume of balloon = 32 m³."
+    },
+    {
+        "question_number": 13.25,
+        "Questions": "Find the density ρ of a fluid at a depth h in terms of its density ρ₀ at the surface.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "ρ = ρ₀ / (1 - (P/ρ₀B))"
+    },
+    {
+        "question_number": 13.26,
+        "Questions": "A 60-kg performer balances on a cane. The end of the cane in contact with the floor has an area of 0.92 cm². Find the pressure exerted on the floor by the cane.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Pressure = 6.4 MPa."
+    },
+    {
+        "question_number": 13.27,
+        "Questions": "A certain town receives its water directly from a water tower. If the top of the water in the tower is 26.0 m above the water faucet in a house, what should be the water pressure at the faucet? (Neglect the effects of other water users.)",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Water pressure = 255 kPa."
+    },
+    {
+        "question_number": 13.28,
+        "Questions": "At a height of 10 km (33,000 ft) above sea level, atmospheric pressure is about 210 mm of mercury. What is the resultant normal force on a 600 cm² window of an airplane flying at this height? Assume the pressure inside the plane is 760 mm of mercury.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Normal force = 4.4 kN."
+    },
+    {
+        "question_number": 13.29,
+        "Questions": "A narrow tube is sealed onto a tank as shown in Fig. 13-7. The base of the tank has an area of 80 cm². (a) Find the force on the bottom of the tank due to oil when the tank and capillary are filled with oil (ρ = 0.72 g/cm³) to the height h₁. (b) Repeat for h₂.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 1.1 N downward, (b) 2.0 N downward."
+    },
+    {
+        "question_number": 13.30,
+        "Questions": "Repeat Problem 13.29, but now find the force on the top wall of the tank due to the oil. (a) 1.1 N upward; (b) 9.6 N upward.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 1.1 N upward, (b) 9.6 N upward."
+    },
+    {
+        "question_number": 13.31,
+        "images":["images/arihant_ch16_123.png"],
+        "Questions": "Compute the pressure required for a water supply system that will raise water 50.0 m vertically.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Pressure required = 490 kPa."
+    },
+    {
+        "question_number": 13.32,
+        "Questions": "The area of a piston of a force pump is 8.0 cm². What force must be applied to the piston to raise oil (ρ = 0.78 g/cm³) to a height of 6.0 m? Assume the upper end of the oil is open to the atmosphere.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Force = 37 N."
+    },
+    {
+        "question_number": 13.33,
+        "Questions": "The diameter of the large piston of a hydraulic press is 20 cm, and the area of the small piston is 0.50 cm². If a force of 400 N is applied to the small piston, (a) what is the resulting force exerted on the large piston? (b) What is the increase in pressure underneath the small piston? (c) Underneath the large piston?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 2.5 x 10⁵ N; (b) 8.0 MPa; (c) 8.0 MPa."
+    },
+    {
+        "question_number": 13.34,
+        "Questions": "A metal cube, 2.00 cm on each side, has a density of 6600 kg/m³. Find its apparent mass when it is totally submerged in water.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Apparent mass = 44.8 g."
+    },
+    {
+        "question_number": 13.35,
+        "Questions": "A solid wooden cube, 30.0 cm on each edge, can be totally submerged in water if it is pushed downward with a force of 54.0 N. What is the density of the wood?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of wood = 800 kg/m³."
+    },
+    {
+        "question_number": 13.36,
+        "Questions": "A metal object ‘weighs’ 26.0 g in air and 21.48 g when totally immersed in water. What is the volume of the object? Its mass density?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume = 4.55 cm³, Density = 5.72 x 10³ kg/m³."
+    },
+    {
+        "question_number": 13.37,
+        "Questions": "A solid piece of aluminum (ρ = 2.70 g/cm³) has a mass of 3.35 g when measured in air. If it is hung from a thread and submerged in a vat of oil (ρ = 0.75 g/cm³), what will be the tension in the thread?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Tension = 0.059 N."
+    },
+    {
+        "question_number": 13.38,
+        "Questions": "A beaker contains oil of density 0.80 g/cm³. By means of a thread, a 16-cm cube of aluminum (ρ = 2.70 g/cm³) is submerged in the oil. Find the tension in the thread.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Tension = 0.076 N."
+    },
+    {
+        "question_number": 13.39,
+        "Questions": "A tank containing oil of sp gr = 0.80 rests on a scale and weighs 78.6 N. By means of a wire, a 6.0 cm cube of aluminum, sp gr = 2.70, is submerged in the oil. Find (a) the tension in the wire and (b) the scale reading if none of the oil overflows.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 4.0 N; (b) 50 N."
+    },
+    {
+        "question_number": 13.40,
+        "Questions": "Downward forces of 45.0 N and 15.0 N, respectively, are required to keep a plastic block totally immersed in water and in oil. If the volume of the block is 8000 cm³, find the density of the oil.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of oil = 620 kg/m³."
+    },
+    {
+        "question_number": 13.41,
+        "Questions": "Determine the unbalanced force acting on an iron ball (r = 1.5 cm, ρ = 7.8 g/cm³) when just released while totally immersed in (a) water and (b) mercury (ρ = 13.6 g/cm³). What will be the initial acceleration of the ball in each case?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 0.94 N downward, 8.6 m/s² downward; (b) 0.80 N up, 7.3 m/s² up."
+    },
+    {
+        "question_number": 13.42,
+        "Questions": "A balloon and its gondola have a total (empty) mass of 200 kg. When filled, the balloon contains 900 m³ of helium at a density of 0.183 kg/m³. Find the added load, in addition to its own weight, that the balloon can lift. The density of air is 1.29 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Added load = 7.8 kN."
+    },
+    {
+        "question_number": 13.43,
+        "Questions": "A certain piece of metal has a measured mass of 5.00 g in air, 3.00 g in water, and 3.24 g in benzene. Determine the mass density of the metal and of the benzene.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of metal = 2.50 x 10³ kg/m³, Density of benzene = 880 kg/m³."
+    },
+    {
+        "question_number": 13.44,
+        "Questions": "A spring, which may be either bronze (sp gr 8.8) or brass (sp gr 8.4), has a mass of 1.26 g when measured in air and 1.11 g in water. Which is it?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Brass."
+    },
+    {
+        "question_number": 13.45,
+        "Questions": "What fraction of the volume of a piece of quartz (ρ = 2.65 g/cm³) will be submerged when it is floating in a container of mercury (ρ = 13.6 g/cm³)?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Fraction = 0.195."
+    },
+    {
+        "question_number": 13.46,
+        "Questions": "A cube of wood floating in water supports a 200-g mass resting on the center of its top face. When the mass is removed, the cube rises 2.00 cm. Determine the volume of the cube.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume of cube = 1.00 x 10³ cm³."
+    },
+    {
+        "question_number": 13.47,
+        "Questions": "A cork has a measured mass of 5.0 g in air. A sinker has a measured mass of 86 g in water. The cork is attached to the sinker and both together have a measured mass of 71 g when under water. What is the density of the cork?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of cork = 2.5 x 10³ kg/m³."
+    },
+    {
+        "question_number": 13.48,
+        "Questions": "A glass of water has a 10-cm³ ice cube floating in it. The glass is filled to the brim with cold water. By the time the ice cube has completely melted, how much water will have flowed out of the glass? The sp gr of ice is 0.92.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "None."
+    },
+    {
+        "question_number": 13.49,
+        "Questions": "A glass tube is bent into the form of a U. A 50.0 cm height of olive oil in one arm is found to balance 46.0 cm of water in the other. What is the density of the olive oil?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of olive oil = 920 kg/m³."
+    },
+    {
+        "question_number": 13.50,
+        "Questions": "On a day when the pressure of the atmosphere is 1.000 x 10⁵ Pa, a chemist distills a liquid under slightly reduced pressure. The pressure within the distillation chamber is read by an oil-filled manometer (density of oil = 0.78 g/cm³). The difference in heights on the two sides of the manometer is 7 cm. What is the pressure in the distillation chamber?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Pressure in distillation chamber = 98 kPa."
+    }
+    
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "question_number": 35.1,
+    "Questions": "A sinusoidal, 60.0-Hz, ac voltage is read to be 120 V by an ordinary voltmeter. (a) What is the maximum value the voltage takes on during a cycle? (b) What is the equation for the voltage?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 170 V, (b) v = v₀ sin 2πft = (170 V) sin 120πt"
+  },
+  {
+    "question_number": 35.2,
+    "Questions": "A voltage v = (60.0 V) sin 120πt is applied across a 20.0-Ω resistor. What will an ac ammeter in series with the resistor read?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "I = 2.12 A"
+  },
+  {
+    "question_number": 35.3,
+    "Questions": "A 120-V ac voltage source is connected across a 2.0-μF capacitor. Find the current to the capacitor if the frequency of the source is (a) 60 Hz and (b) 60 kHz. (c) What is the power loss in the capacitor?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.090 A, (b) 90 A, (c) Power loss = 0 W"
+  },
+  {
+    "question_number": 35.4,
+    "Questions": "A 120-V ac voltage source is connected across a pure 0.700-H inductor. Find the current through the inductor if the frequency of the source is (a) 60.0 Hz and (b) 60.0 kHz. (c) What is the power loss in the inductor?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.455 A, (b) 0.455 A, (c) Power loss = 0 W"
+  },
+  {
+    "question_number": 35.5,
+    "Questions": "A coil having inductance 0.14 H and resistance 12 Ω is connected across a 110-V, 25-Hz line. Compute (a) the current in the coil, (b) the phase angle between the current and the supply voltage, (c) the power factor, and (d) the power absorbed by the coil.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 4.4 A, (b) φ = 61°, (c) 0.48, (d) 0.23 kW"
+  },
+  {
+    "question_number": 35.6,
+    "Questions": "A capacitor is in series with a resistance of 30 Ω and is connected to a 220-V ac line. The reactance of the capacitor is 40 Ω. Determine (a) the current in the circuit, (b) the phase angle between the current and the supply voltage, and (c) the power loss in the circuit.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 4.4 A, (b) φ = -53°, (c) Power loss = 0.58 kW"
+  },
+  {
+    "question_number": 35.7,
+    "Questions": "A series circuit consisting of a 100-Ω noninductive resistor, a coil with a 0.10-H inductance and negligible resistance, and a 20-μF capacitor is connected across a 110-V, 60-Hz power source. Find (a) the current in the circuit, (b) the power loss, (c) the phase angle between the current and the source voltage, and (d) the voltmeter readings across the three elements.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.79 A, (b) 63 W, (c) φ = -44°, (d) VR = 79 V, VC = 0.11 kV, VL = 30 V"
+  },
+  {
+    "question_number": 35.8,
+    "Questions": "A 5.00-Ω resistance is in a series circuit with a 0.200-H pure inductance and a 40.0-nF pure capacitance. The combination is placed across a 30.0-V, 1780-Hz power supply. Find (a) the current in the circuit, (b) the phase angle between source voltage and current, (c) the power loss in the circuit, and (d) the voltmeter reading across each element of the circuit.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 6.00 A, (b) φ = 0°, (c) 180 W, (d) VR = 30 V, VC = 13.4 kV, VL = 13.4 kV"
+  },
+  {
+    "question_number": 35.9,
+    "Questions": "As shown in Fig. 35-3, a series circuit connected across a 200-V, 60-Hz line consists of a capacitor of capacitive reactance 30 Ω, a noninductive resistor of 44 Ω, and a coil of inductive reactance 90 Ω and resistance 36 Ω. Determine (a) the current in the circuit, (b) the potential difference across each element, (c) the power factor of the circuit, and (d) the power absorbed by the circuit.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_99.png",
+    "solution": "(a) 2.0 A, (b) VC = 60 V, VR = 88 V, VL = 0.19 kV, (c) 0.80, (d) 0.32 kW"
+  },
+  {
+    "question_number": 35.10,
+    "Questions": "Calculate the resonant frequency of a circuit of negligible resistance containing an inductance of 40.0 mH and a capacitance of 600 pF.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "32.5 kHz"
+  },
+  {
+    "question_number": 35.11,
+    "Questions": "A step-up transformer is used on a 120-V line to furnish 1800 V. The primary has 100 turns. How many turns are on the secondary?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "N₂ = 1500 turns"
+  },
+  {
+    "question_number": 35.12,
+    "Questions": "A transformer used on a 120-V line delivers 2.0 A at 900 V. What current is drawn from the line? Assume 100 percent efficiency.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "15 A"
+  },
+  {
+    "question_number": 35.13,
+    "Questions": "A step-down transformer operates on a 2.5-kV line and supplies a load with 80 A. The ratio of the primary winding to the secondary winding is 20:1. Assuming 100 percent efficiency, determine the secondary voltage V₂, the primary current I₁, and the power output P₂.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "V₂ = 0.13 kV, I₁ = 4.0 A, P₂ = 10 kW"
+  },
+  {
+    "question_number": 35.14,
+    "Questions": "A voltmeter reads 80.0 V when it is connected across the terminals of a sinusoidal power source with f = 1000 Hz. Write the equation for the instantaneous voltage provided by the source.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "v = (113 V) sin 2000πt for t in seconds"
+  },
+  {
+    "question_number": 35.15,
+    "Questions": "An ac current in a 10 Ω resistance produces thermal energy at the rate of 360 W. Determine the effective values of the current and voltage.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "6.0 A, 60 V"
+  },
+  {
+    "question_number": 35.16,
+    "Questions": "A 40.0-Ω resistor is connected across a 15.0-V variable-frequency electronic oscillator. Find the current through the resistor when the frequency is (a) 100 Hz and (b) 100 kHz.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 0.375 A; (b) 0.375 A"
+  },
+  {
+    "question_number": 35.17,
+    "Questions": "Solve Problem 35.16 if the 40.0-Ω resistor is replaced by a 2.00-mH inductor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 11.9 A; (b) 19 mA"
+  },
+  {
+    "question_number": 35.18,
+    "Questions": "Solve Problem 35.16 if the 40.0-Ω resistor is replaced by 0.300-μF capacitor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 2.83 mA; (b) 2.83 A"
+  },
+  {
+    "question_number": 35.19,
+    "Questions": "A coil has resistance 20 Ω and inductance 0.35 H. Compute its reactance and its impedance to an alternating current of 25 cycles/s.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "55 Ω, 59 Ω"
+  },
+  {
+    "question_number": 35.20,
+    "Questions": "A current of 30 mA is taken by a 4.0-μF capacitor connected across an alternating current line having a frequency of 500 Hz. Compute the reactance of the capacitor and the voltage across the capacitor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "80 Ω, 2.4 V"
+  },
+  {
+    "question_number": 35.21,
+    "Questions": "A coil has an inductance of 0.100 H and a resistance of 12.0 Ω. It is connected to a 110-V, 60.0-Hz line. Determine (a) the reactance of the coil, (b) the impedance of the coil, (c) the current through the coil, (d) the phase angle between current and supply voltage, (e) the power factor of the circuit, and (f) the reading of a wattmeter connected in the circuit.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 37.7 Ω, (b) 39.6 Ω, (c) 2.78 A, (d) φ = 72.3°, (e) 0.303, (f) 92.6 W"
+  },
+  {
+    "question_number": 35.22,
+    "Questions": "A 100.0-μF capacitor is in series with a 40.0-Ω resistance, and the combination is connected to a 110-V, 60.0-Hz line. Calculate (a) the capacitive reactance, (b) the impedance of the circuit, (c) the current in the circuit, (d) the phase angle between current and supply voltage, and (e) the power factor for the circuit.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 266 Ω, (b) 269 Ω, (c) 0.49 A, (d) φ = 81.4°, (e) 0.149"
+  },
+  {
+    "question_number": 35.23,
+    "Questions": "A circuit having a resistance, an inductance, and a capacitance in series is connected to a 110-V ac line. For the circuit, R = 9.0 Ω, XL = 28 Ω, and XC = 16 Ω. Compute (a) the impedance of the circuit, (b) the current, (c) the phase angle between the current and the supply voltage, and (d) the power factor of the circuit.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 15.0 Ω, (b) 7.3 A, (c) voltage leads by 53°, (d) 0.60"
+  },
+  {
+    "question_number": 35.24,
+    "Questions": "An experimenter has a coil of inductance 3.0 mH and wishes to construct a circuit whose resonant frequency is 1.0 MHz. What should be the value of the capacitor used?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "8.4 pF"
+  },
+  {
+    "question_number": 35.25,
+    "Questions": "A circuit has a resistance of 11 Ω, a coil of inductive reactance 120 Ω, and a capacitor with a 120-Ω reactance, all connected in series with a 110-V, 60-Hz power source. What is the potential difference across each circuit element?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "VR = 0.11 kV, VL = 1.2 kV, VC = 1.2 kV"
+  },
+  {
+    "question_number": 35.26,
+    "Questions": "A 120-V, 60-Hz power source is connected across an 800-Ω noninductive resistance and an unknown capacitance in series. The voltage drop across the resistor is 102 V. (a) What is the voltage drop across the capacitor? (b) What is the reactance of the capacitor?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 63 V, (b) 0.50 kΩ"
+  },
+  {
+    "question_number": 35.27,
+    "Questions": "A coil of negligible resistance is connected in series with a 90-Ω resistor across a 120-V, 60-Hz line. A voltmeter reads 36 V across the resistance. Find the voltage across the coil and the inductance of the coil.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.11 kV, 0.76 H"
+  },
+  {
+    "question_number": 35.28,
+    "Questions": "A step-down transformer is used on a 2.2-kV line to deliver 110 V. How many turns are on the primary winding if the secondary has 25 turns?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.0 × 10² turns"
+  },
+  {
+    "question_number": 35.29,
+    "Questions": "A step-down transformer is used on a 1650-V line to deliver 45 A at 110 V. What current is drawn from the line? Assume 100 percent efficiency.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "3.0 A"
+  },
+  {
+    "question_number": 35.30,
+    "Questions": "A step-up transformer operates on a 110-V line and supplies a load with 2.0 A. The ratio of the primary and secondary windings is 1:25. Determine the secondary voltage, the primary current, and the power output. Assume a resistive load and 100 percent efficiency.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "28 kV, 50 A, 5.5 kW"
+  }
+]

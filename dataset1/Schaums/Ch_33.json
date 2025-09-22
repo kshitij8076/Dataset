@@ -1,0 +1,152 @@
+[
+  {
+    "question_number": 33.1,
+    "Questions": "An ac generator produces an output voltage of ℰ = 170 sin 377t volts, where t is in seconds. What is the frequency of the ac voltage?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Since ℰ = 2πNABf cos 2πft, we have 377t = 2πft, so frequency f = 60 Hz."
+  },
+  {
+    "question_number": 33.2,
+    "Questions": "How fast must a 1000-loop coil (each with 20 cm² area) turn in the Earth’s magnetic field of 0.70 G to generate a voltage that has a maximum value (i.e., an amplitude) of 0.50 V?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "f = 0.50 V / [2π × (1000) × (20 × 10⁻⁴ m²) × (7.0 × 10⁻⁵ T)] = 0.57 kHz"
+  },
+  {
+    "question_number": 33.3,
+    "Questions": "When turning at 1500 rev/min, a certain generator produces 100.0 V. What must be its angular speed if it is to produce 120.0 V?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "f₂ = (1500 rev/min)(120.0 V / 100.0 V) = 1800 rev/min"
+  },
+  {
+    "question_number": 33.4,
+    "Questions": "A certain generator has armature resistance 0.080 Ω and develops an induced emf of 120 V when driven at its rated speed. What is its terminal voltage when 50.0 A is being drawn from it?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Terminal p.d. = (emf) − Ir = 120 V − (50.0 A)(0.080 Ω) = 116 V"
+  },
+  {
+    "question_number": 33.5,
+    "Questions": "Some generators, called shunt generators, use electromagnets in place of permanent magnets, with the field coils for the electromagnets excited by the induced voltage. The magnet coil is in parallel with the armature coil (it shunts the armature). As shown in Fig. 33-3, a certain shunt generator has armature resistance 0.060 Ω and shunt resistance 100 Ω. What power is developed when the generator delivers 40 kW at 250 V to an external circuit?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_95.png",
+    "solution": "42 kW"
+  },
+  {
+    "question_number": 33.6,
+    "Questions": "The resistance of the armature in the motor shown in Fig. 33-2 is 2.30 Ω. It draws a current of 1.60 A when operating on 120 V. What is its back emf under these circumstances?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Back emf = 120 V − (1.60 A)(2.30 Ω) = 116 V"
+  },
+  {
+    "question_number": 33.7,
+    "Questions": "A 0.250-hp motor (like that in Fig. 33-2) has a resistance of 0.500 Ω. (a) How much current does it draw on 110 V when its output is 0.250 hp? (b) What is its back emf?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) I = 1.695 A, (b) Back emf = 110 V − (1.695 A)(0.500 Ω) = 109 V"
+  },
+  {
+    "question_number": 33.8,
+    "Questions": "In a shunt motor, the permanent magnet is replaced by an electromagnet activated by a field coil that shunts the armature. The shunt motor shown in Fig. 33-4 has armature resistance 0.050 Ω and is connected to 120 V mains. (a) What is the armature current at the starting instant, i.e., before the armature develops any back emf? (b) What starting rheostat resistance R, in series with the armature, will limit the starting current to 60 A? (c) With no starting resistance, what back emf is generated when the armature current is 20 A? (d) If this machine were running as a generator, what would be the total induced emf developed by the armature when the armature current is 20 A at 120 V to the external circuit?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_96.png",
+    "solution": "(a) 2.4 kA, (b) R = 2.0 Ω, (c) Back emf = 119 V, (d) Induced emf = 121 V"
+  },
+  {
+    "question_number": 33.9,
+    "Questions": "The shunt motor shown in Fig. 33-5 has armature resistance of 0.25 Ω and field resistance of 150 Ω. It is connected across 120-V mains and is generating a back emf of 115 V. Compute: (a) the armature current Iₐ, the field current I_f, and the total current Iₜ taken by the motor; (b) the total power taken by the motor; (c) the power lost in heat in the armature and field circuits; (d) the electrical efficiency of this machine (when only heat losses in the armature and field are considered).",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_97.png",
+    "solution": "(a) Iₐ = 20 A, I_f = 0.80 A, Iₜ = 21 A; (b) 2.5 kW; (c) losses = 0.10 kW + 96 W; (d) Efficiency = 92%"
+  },
+  {
+    "question_number": 33.10,
+    "Questions": "A motor has a back emf of 110 V and an armature current of 90 A when running at 1500 rpm. Determine the power and the torque developed within the armature.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Power = 9.9 kW; Torque = 63 N·m"
+  },
+  {
+    "question_number": 33.11,
+    "Questions": "A motor armature develops a torque of 100 N·m when it draws 40 A from the line. Determine the torque developed if the armature current is increased to 70 A and the magnetic field strength is reduced to 80 percent of its initial value.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Torque = 0.14 kN·m"
+  },
+  {
+    "question_number": 33.16,
+    "Questions": "A 120-V generator is run by a windmill that has blades 2.0 m long. The wind, moving at 12 m/s, is slowed to 7.0 m/s after passing the windmill. The density of air is 1.29 kg/m³. If the system has no losses, what is the largest current the generator can produce? (Hint: How much energy does the wind lose per second?)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "77 A"
+  },
+  {
+    "question_number": 33.17,
+    "Questions": "A generator has an armature with 500 loops, which cut a flux of 8.00 mWb during each rotation. Compute the back emf it develops when run as a motor at 1500 rpm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "100 V"
+  },
+  {
+    "question_number": 33.18,
+    "Questions": "The active length of each armature conductor of a motor is 30 cm, and the conductors are in a field of 0.40 Wb/m². A current of 15 A flows in each conductor. Determine the force acting on each conductor.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.8 N"
+  },
+  {
+    "question_number": 33.19,
+    "Questions": "A shunt motor with armature resistance 0.080 Ω is connected to 120 V mains. With 50 A in the armature, what are the back emf and the mechanical power developed within the armature?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.12 kV, 5.8 kW"
+  },
+  {
+    "question_number": 33.20,
+    "Questions": "A shunt motor is connected to a 110-V line. When the armature generates a back emf of 104 V, the armature current is 15 A. Compute the armature resistance.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.40 Ω"
+  },
+  {
+    "question_number": 33.21,
+    "Questions": "A shunt dynamo has an armature resistance of 0.120 Ω. (a) If it is connected across 220-V mains and is running as a motor, what is the induced (back) emf when the armature current is 50.0 A? (b) If this machine is running as a generator, what is the induced emf when the armature is delivering 50.0 A at 220 V to the shunt field and external circuit?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 214 V; (b) 226 V"
+  },
+  {
+    "question_number": 33.22,
+    "Questions": "A shunt motor has a speed of 900 rpm when it is connected to 120-V mains and delivering 12 hp. The total losses are 1048 W. Compute the power input, the line current, and the motor torque.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "10 kW, 83.49 A, 93 N·m"
+  },
+  {
+    "question_number": 33.23,
+    "Questions": "A shunt motor has armature resistance 0.20 Ω and field resistance 150 Ω, and draws 30 A when connected to a 120-V supply line. Determine the field current, the armature current, the back emf, the mechanical power developed within the armature, and the electrical efficiency of the machine.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.80 A, 29 A, 0.11 kV, 3.3 kW, 93%"
+  },
+  {
+    "question_number": 33.24,
+    "Questions": "A shunt motor develops 80 N·m of torque when the flux density in the air gap is 1.0 Wb/m² and the armature current is 15 A. What is the torque when the flux density is 1.3 Wb/m² and the armature current is 18 A?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.13 kN·m"
+  },
+  {
+    "question_number": 33.25,
+    "Questions": "A shunt motor has a field resistance of 200 Ω and an armature resistance of 0.50 Ω and is connected to 120-V mains. The motor draws a current of 4.6 A when running at full speed. What current will be drawn by the motor if the speed is reduced to 90 percent of full speed by application of a load?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "28 A"
+  }
+]

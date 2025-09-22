@@ -1,0 +1,3004 @@
+[
+  {
+    "id": 1,
+    "Question": "What is the value of the Ramsey number R(5, 5), the smallest integer n such that any 2-coloring of the edges of K_n must contain a monochromatic K_5?",
+    "Solution": "The exact value of R(5, 5) is unknown. It is one of the most famous open problems in Ramsey theory. The current known bounds are 43 ≤ R(5, 5) ≤ 48."
+  },
+  {
+    "id": 2,
+    "Question": "Calculate the number of non-isomorphic graphs on 10 vertices.",
+    "Solution": "This requires Pólya Enumeration Theorem applied to the pair group of the symmetric group S_10. The value is 12,005,168."
+  },
+  {
+    "id": 3,
+    "Question": "What is the maximum number of edges in a graph on 100 vertices that does not contain a triangle (K_3)?",
+    "Solution": "By Turan's theorem for r=3, the maximum is achieved by the complete bipartite graph K_50,50. The number of edges is 50 * 50 = 2500."
+  },
+  {
+    "id": 4,
+    "Question": "A Steiner system S(5, 8, 24) is a set of 24 points and a collection of 8-element subsets called blocks, where any 5 points are in exactly one block. How many blocks are there?",
+    "Solution": "The number of blocks 'b' is given by b = C(v, t) / C(k, t). For S(5, 8, 24), this is C(24, 5) / C(8, 5) = 42504 / 56 = 759. This structure is related to the Mathieu group M_24."
+  },
+  {
+    "id": 5,
+    "Question": "What is the value of the party problem number R(3, 3, 3), the smallest n such that any 3-coloring of the edges of K_n must contain a monochromatic triangle?",
+    "Solution": "This is the multicolor Ramsey number R_3(3). The exact value is 17. The lower bound comes from a specific coloring of K_16 based on the finite field GF(16)."
+  },
+  {
+    "id": 6,
+    "Question": "How many ways can the integer 100 be expressed as a sum of positive integers? (i.e., calculate the partition number p(100)).",
+    "Solution": "This is the partition function p(100), which equals 190,569,292. It is calculated using the Hardy-Ramanujan-Rademacher asymptotic formula, as simple recursion is too slow."
+  },
+  {
+    "id": 7,
+    "Question": "What is the smallest number of points in the plane in general position that guarantees the existence of a convex hexagon (The Happy Ending Problem for n=6)?",
+    "Solution": "This is the Erdős–Szekeres number ES(6). The value is 17. It was proven by Szekeres and Peters in 2006 using a massive computer search."
+  },
+  {
+    "id": 8,
+    "Question": "Let ex(n, C_4) be the maximum number of edges in a graph on n vertices with no 4-cycle. Estimate ex(101, C_4).",
+    "Solution": "The maximum number of edges in a C_4-free graph is asymptotically (1/2)n^(3/2). For n=101 (a prime power squared plus one), a construction from a projective plane gives exactly 505 edges."
+  },
+  {
+    "id": 9,
+    "Question": "Calculate the number of Standard Young Tableaux of shape (5, 4, 3, 2, 1) corresponding to a partition of 15.",
+    "Solution": "The number of standard Young tableaux of a given shape is calculated by the Hook Length Formula. For the shape (5, 4, 3, 2, 1), the number is 15! divided by the product of all hook lengths, which equals 2,862,860."
+  },
+  {
+    "id": 10,
+    "Question": "What is the van der Waerden number W(2, 6), the smallest n such that any 2-coloring of {1, ..., n} must contain a monochromatic arithmetic progression of length 6?",
+    "Solution": "This is the van der Waerden number W(2, 6). The exact value is 1132. Proving this required extensive computational search and sophisticated algorithms."
+  },
+  {
+    "id": 11,
+    "Question": "What is the value of the Ramsey number R(4, 5)?",
+    "Solution": "This is the smallest n for which any 2-coloring of the edges of K_n contains a red K_4 or a blue K_5. The value is 25. The proof required extensive computer-assisted case analysis."
+  },
+  {
+    "id": 12,
+    "Question": "What is the chromatic number of the Kneser graph KG(10, 3), whose vertices are the 3-element subsets of a 10-element set, with edges connecting disjoint subsets?",
+    "Solution": "By the Lovász-Kneser theorem, the chromatic number of KG(n, k) is n - 2k + 2. For KG(10, 3), the chromatic number is 10 - 2*3 + 2 = 6."
+  },
+  {
+    "id": 13,
+    "Question": "How many Latin squares of order 7 are there? (up to relabeling of symbols).",
+    "Solution": "This is the number of reduced Latin squares of order 7. The exact number is 16,942,080. It was determined through extensive, verified computation by McKay and Rogoyski."
+  },
+  {
+    "id": 14,
+    "Question": "What is the dimension n required for Graham's number problem, i.e., the smallest dimension of a hypercube such that any 2-coloring of its edges must contain a monochromatic planar K_4?",
+    "Solution": "The problem asks for the upper bound N* from the original paper, for which Graham's number G was a (very weak) upper bound. The actual value is unknown, but known to be between 13 and a number much smaller than G. The original G is a famous example of a large number."
+  },
+  {
+    "id": 15,
+    "Question": "Calculate the number of distinct tilings of a 4x10 rectangle with 2x1 dominoes.",
+    "Solution": "This can be solved using the Kasteleyn-Temperley-Fisher algorithm. The number of tilings of an m x n grid (m even) is given by a product formula involving cosines. For a 4x10 grid, the number is 4145."
+  },
+  {
+    "id": 16,
+    "Question": "What is the order of the smallest non-Desarguesian projective plane?",
+    "Solution": "A projective plane has order n if it has n^2 + n + 1 points. Projective planes exist for all prime power orders. The smallest order for a finite non-Desarguesian plane is 9. An example is the Hughes plane of order 9."
+  },
+  {
+    "id": 17,
+    "Question": "What is the value of the Ramsey number R(3, 9)?",
+    "Solution": "This is the smallest n for which any 2-coloring of the edges of K_n contains a red K_3 or a blue K_9. The value is exactly 36. This result was proven by Grinstead and Roberts in 1982."
+  },
+  {
+    "id": 18,
+    "Question": "What is the number of alternating sign matrices of order 6?",
+    "Solution": "An alternating sign matrix is a square matrix of 0, 1, and -1 where row/column sums are 1 and non-zero entries alternate in sign. For order n, the number is given by a product formula. For n=6, the number is 7,436."
+  },
+  {
+    "id": 19,
+    "Question": "Find the number of plane partitions of the integer 10.",
+    "Solution": "This is the number of ways to write 10 as a sum of integers in a 2D array, non-increasing across rows/columns. The value can be found using generating functions related to MacMahon's formula. The number is 42."
+  },
+  {
+    "id": 20,
+    "Question": "What is the size of the largest cap set in the affine space AG(6, 3), i.e., the largest set of points with no three on a line?",
+    "Solution": "This is a central problem in additive combinatorics. The cap set problem was recently bounded by Ellenberg and Gijswijt. For AG(6,3), the exact maximum is unknown, but the best construction (by Edel) gives a set of size 112."
+  },
+  {
+    "id": 21,
+    "Question": "What is the Ramsey number for hypergraphs R_3(4, 4), the smallest n where any 2-coloring of the 3-element subsets of an n-element set has a monochromatic set of size 4?",
+    "Solution": "This is a hypergraph Ramsey number. Its value is 13. The lower bound comes from a specific coloring of the 3-subsets of a 12-element set, and the upper bound proof is extremely complex."
+  },
+  {
+    "id": 22,
+    "Question": "Calculate the Tutte polynomial T_G(x,y) for the complete graph K_5, evaluated at (2,2).",
+    "Solution": "The Tutte polynomial for K_n has a known, complex formula. For K_5 at (2,2), the value represents the number of acyclic orientations times 2^n. The value is 3072."
+  },
+  {
+    "id": 23,
+    "Question": "Find the number of unlabeled rooted trees with 15 nodes.",
+    "Solution": "This is a classic enumeration problem whose values are in OEIS (A000081). There is a recursive formula based on partitions, but no simple closed form. The value for n=15 is 2,374."
+  },
+  {
+    "id": 24,
+    "Question": "What is the value of the van der Waerden number W(3, 4), the smallest n such that any 3-coloring of {1, ..., n} must contain a monochromatic arithmetic progression of length 4?",
+    "Solution": "This is W(3, 4) and its value is 76. This was proven in 1995. The lower bound requires a specific coloring of {1,...,75} without the desired property."
+  },
+  {
+    "id": 25,
+    "Question": "What is the smallest number of cliques needed to cover all edges of the complete graph K_10?",
+    "Solution": "This is the edge clique cover number. For K_n, this is equivalent to finding the minimum number of complete subgraphs whose edges cover all edges of K_n. For K_10, the answer is 9, related to the Graham-Pollak theorem for bipartite graphs."
+  },
+  {
+    "id": 26,
+    "Question": "How many ways can a 12-sided polygon be triangulated?",
+    "Solution": "The number of triangulations of an n-gon is given by the Catalan number C_(n-2). For a 12-gon (n=12), the number is C_10 = (1/11) * C(20, 10) = 16,796."
+  },
+  {
+    "id": 27,
+    "Question": "What is the value of the Ramsey number R(3, 10)?",
+    "Solution": "This is the smallest n for which any 2-coloring of the edges of K_n contains a red K_3 or a blue K_10. The value is exactly 40, a result that settled a long-standing question."
+  },
+  {
+    "id": 28,
+    "Question": "Find the number of partitions of a 10-element set, i.e., the 10th Bell number B_10.",
+    "Solution": "The Bell numbers B_n count the number of ways to partition a set of n elements. They can be computed recursively using the Bell triangle. B_10 = 115,975."
+  },
+  {
+    "id": 29,
+    "Question": "What is the maximum number of edges in a graph on 50 vertices that does not contain a K_4 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is achieved by the Turan graph T(50, 3). This is a complete 3-partite graph with partitions of size 17, 17, 16. The number of edges is 17*17 + 17*16 + 16*17 = 833."
+  },
+  {
+    "id": 30,
+    "Question": "Let a(n) be the number of ways to tile a 3 x 2n rectangle with 2x1 dominoes. Calculate a(6).",
+    "Solution": "This sequence follows a linear recurrence relation a(n) = 4a(n-1) - a(n-2). With a(1)=3, we find a(2)=11, a(3)=41, a(4)=153, a(5)=571, and a(6)=2131."
+  },
+  {
+    "id": 31,
+    "Question": "What is the value of the Dedekind number M(6)?",
+    "Solution": "The Dedekind number M(n) counts the number of monotone Boolean functions of n variables. These numbers grow extremely rapidly. M(6) = 7,828,354. M(9) is the last known value, computed in 2023."
+  },
+  {
+    "id": 32,
+    "Question": "What is the Ramsey number R(6, 6)?",
+    "Solution": "The exact value is unknown and a major open problem. The current best bounds are 102 ≤ R(6, 6) ≤ 161. Proving either bound is an extremely deep result in Ramsey theory."
+  },
+  {
+    "id": 33,
+    "Question": "Find the number of derangements of 10 items, D_10.",
+    "Solution": "A derangement is a permutation with no fixed points. D_n = n! * sum_{i=0 to n} (-1)^i / i!. For n=10, D_10 is the integer closest to 10!/e, which is 1,334,961."
+  },
+  {
+    "id": 34,
+    "Question": "How many non-isomorphic semi-simple algebras of dimension 8 over the complex numbers exist?",
+    "Solution": "By the Artin-Wedderburn theorem, this is equivalent to partitioning the integer 8. The number of partitions of 8, p(8), is 22. Therefore, there are 22 such non-isomorphic algebras."
+  },
+  {
+    "id": 35,
+    "Question": "Calculate the chromatic polynomial of the Petersen graph at k=4.",
+    "Solution": "The chromatic polynomial for the Petersen graph is P(k) = k(k-1)(k-2)(k^7 - 12k^6 + 67k^5 - 230k^4 + 529k^3 - 814k^2 + 775k - 352). At k=4, P(4) = 4*3*2*24 = 576."
+  },
+  {
+    "id": 36,
+    "Question": "How many ways are there to place 8 non-attacking rooks on a standard 8x8 chessboard, if 3 are red, 3 blue, and 2 green?",
+    "Solution": "First, place the 8 rooks in 8! ways. Then, choose positions for the colors using the multinomial coefficient C(8; 3,3,2) = 8!/(3!3!2!). The total is 8! * (8!/72) = 40320 * 560 = 22,579,200."
+  },
+  {
+    "id": 37,
+    "Question": "What is the number of integer partitions of 60 into exactly 5 parts?",
+    "Solution": "This is equivalent to the number of partitions of 60-5=55 into at most 5 parts. This can be calculated with generating functions or dynamic programming. The value is 3056."
+  },
+  {
+    "id": 38,
+    "Question": "Calculate the number of non-isomorphic posets on 6 elements.",
+    "Solution": "Enumerating posets is a notoriously difficult problem. The number is known via computation and is stored in OEIS (A000112). For n=6, there are 318 distinct posets."
+  },
+  {
+    "id": 39,
+    "Question": "What is the value of the Ramsey number R(4, 6)?",
+    "Solution": "The value of R(4, 6) is not known exactly. The current bounds are 35 <= R(4, 6) <= 41. Determining this value is a major challenge in Ramsey theory."
+  },
+  {
+    "id": 40,
+    "Question": "How many ways can you make change for $2.00 using US coins (1, 5, 10, 25, 50, 100)?",
+    "Solution": "This is a classic change-making problem. The generating function is 1/((1-x)(1-x^5)(1-x^10)(1-x^25)(1-x^50)(1-x^100)). The coefficient of x^200 is 2436."
+  },
+  {
+    "id": 41,
+    "Question": "What is the order of the sporadic simple group known as the Baby Monster Group?",
+    "Solution": "The Baby Monster group B is the second-largest of the sporadic groups. Its order is 4,154,781,481,226,426,191,177,580,544,000,000, which is approximately 4.15 x 10^33."
+  },
+  {
+    "id": 42,
+    "Question": "Calculate the value of the Stirling number of the second kind S(15, 4).",
+    "Solution": "S(n, k) is the number of ways to partition a set of n elements into k non-empty subsets. It can be computed with the recurrence S(n,k) = k*S(n-1,k) + S(n-1,k-1). S(15, 4) = 1,931,884,025."
+  },
+  {
+    "id": 43,
+    "Question": "What is the smallest odd integer n>3 such that the complete graph K_n can be decomposed into edge-disjoint copies of the Petersen graph?",
+    "Solution": "The Petersen graph has 10 vertices and 15 edges. For a decomposition to exist, 15 must divide |E(K_n)| = n(n-1)/2. The smallest odd n>3 satisfying this is n=15. However, existence is not guaranteed and this is an open research problem."
+  },
+  {
+    "id": 44,
+    "Question": "What is the smallest number of colors needed to color the plane such that no two points at distance 1 have the same color (the Hadwiger-Nelson problem)?",
+    "Solution": "This is the chromatic number of the plane. The value is unknown. In 2018, Aubrey de Grey proved the lower bound is 5. The upper bound has been 7 for decades. So the answer is 5, 6, or 7."
+  },
+  {
+    "id": 45,
+    "Question": "How many non-isomorphic Steiner Triple Systems of order 15, S(2, 3, 15), exist?",
+    "Solution": "A Steiner Triple System of order v, STS(v), is an S(2,3,v). They exist iff v = 1 or 3 (mod 6). For v=15, there are exactly 80 non-isomorphic systems. This was a major classification result."
+  },
+  {
+    "id": 46,
+    "Question": "What is the maximum number of edges in a graph on 20 vertices with no 5-cycle (C_5)?",
+    "Solution": "This is an unsolved extremal problem ex(20, C_5). There is no Turan-type result for odd cycles. The best known construction gives a graph with 68 edges."
+  },
+  {
+    "id": 47,
+    "Question": "What is the value of the 'folkman number' F(3, 3; 4), the smallest n such that any 2-edge-coloring of K_n has a monochromatic K_3, and K_n is K_4-free?",
+    "Solution": "These numbers are extremely hard to compute. F(3,3;4) is the smallest K_4-free graph that is not 2-edge-colorable without a monochromatic triangle. The value is known to be 19, which is the order of the Greenwood-Gleason graph for R(3,3,3)."
+  },
+  {
+    "id": 48,
+    "Question": "What is the number of permutations pi in S_10 such that pi^2 is the identity?",
+    "Solution": "These are involutions, permutations consisting only of fixed points and 2-cycles. The number is given by the 10th telephone number, T(10). T(10) can be calculated by the recurrence T(n) = T(n-1) + (n-1)T(n-2), which gives T(10) = 9,496."
+  },
+  {
+    "id": 49,
+    "Question": "What is the Ramsey number R(3,3,3,3), the smallest n such that any 4-coloring of the edges of K_n must contain a monochromatic triangle?",
+    "Solution": "This is a multicolor Ramsey number R_4(3). The exact value is unknown. The current bounds are 51 <= R_4(3) <= 62. The lower bound comes from a specific coloring of K_50."
+  },
+  {
+    "id": 50,
+    "Question": "What is the maximum number of permutations in the symmetric group S_10 such that any two of them have at least 2 common non-fixed points?",
+    "Solution": "This is a problem in extremal set theory on permutations. This is a very complex open area. No simple formula exists, but bounds can be derived from the Deza-Frankl theorem. The maximum size is likely related to (n-t)! but the 'non-fixed' condition complicates it."
+  },
+  {
+    "id": 51,
+    "Question": "Calculate the number of non-isomorphic graphs with 11 vertices.",
+    "Solution": "This requires Pólya Enumeration Theorem and is a large-scale computation. The number is 1,018,997,864."
+  },
+  {
+    "id": 52,
+    "Question": "What is the maximum number of edges in a graph on 200 vertices that does not contain a K_5 subgraph?",
+    "Solution": "By Turan's theorem for r=5, the maximum is achieved by the complete 4-partite Turan graph T(200, 4). The partitions are all of size 50. The number of edges is C(4,2) * 50^2 = 6 * 2500 = 15,000."
+  },
+  {
+    "id": 53,
+    "Question": "A Steiner system S(4, 7, 23) is given. How many blocks contain a given pair of points?",
+    "Solution": "The number of blocks 'lambda_t' containing a given t-subset of points is C(v-t, k-t) / C(k-t, t-t). For t=2, this is lambda_2 = C(21, 5) / C(5, 2) = 20349 / 10 = 2034.9, which is impossible. The correct formula is lambda_i = lambda * C(v-i, t-i)/C(k-i, t-i). For S(4,7,23) with lambda=1, lambda_2=C(21,2)/C(5,2) = 210/10=21."
+  },
+  {
+    "id": 54,
+    "Question": "How many ways can the integer 200 be expressed as a sum of distinct positive integers?",
+    "Solution": "This is the partition function q(n). Its generating function is the product of (1+x^k). The value for n=200 is 4,157,449,850,654."
+  },
+  {
+    "id": 55,
+    "Question": "What is the smallest number of points in the plane in general position that guarantees the existence of a convex heptagon (n=7)?",
+    "Solution": "This is the Erdős–Szekeres number ES(7). The value is not known. The current conjecture is ES(n) = 2^(n-2) + 1, which would imply ES(7) = 33. The best known bounds are 33 <= ES(7) <= 127."
+  },
+  {
+    "id": 56,
+    "Question": "What is the value of the van der Waerden number W(2, 7)?",
+    "Solution": "W(2,k) is the smallest n such that any 2-coloring of {1..n} has a monochromatic arithmetic progression of length k. W(2,7) is unknown. The current lower bound is > 3703."
+  },
+  {
+    "id": 57,
+    "Question": "What is the chromatic number of the Kneser graph KG(11, 4)?",
+    "Solution": "By the Lovász-Kneser theorem, the chromatic number of KG(n, k) is n - 2k + 2. For KG(11, 4), the chromatic number is 11 - 2*4 + 2 = 5."
+  },
+  {
+    "id": 58,
+    "Question": "How many reduced Latin squares of order 8 are there?",
+    "Solution": "The number of reduced Latin squares is known via extensive computation. For n=8, the number is 535,281,401,856."
+  },
+  {
+    "id": 59,
+    "Question": "Calculate the number of distinct tilings of a 6x6 rectangle with 2x1 dominoes.",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, the number of tilings of an m x n grid (both even) can be calculated. For a 6x6 grid, the number is 6728."
+  },
+  {
+    "id": 60,
+    "Question": "What is the value of the Ramsey number R(3, 11)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_11). The exact value is 47. This was proven by Goedgebeur and Radziszowski in 2017."
+  },
+  {
+    "id": 61,
+    "Question": "Find the 12th Bell number, B_12.",
+    "Solution": "The Bell numbers B_n can be computed recursively. B_12 = 4,213,597."
+  },
+  {
+    "id": 62,
+    "Question": "What is the maximum number of edges in a graph on 61 vertices with no K_5 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is achieved by T(61, 4). The partitions have sizes 16, 15, 15, 15. The number of edges is 1395."
+  },
+  {
+    "id": 63,
+    "Question": "Let a(n) be the number of ways to tile a 4x(2n) rectangle with 2x2 squares. Calculate a(5).",
+    "Solution": "This is a simple case where tiling is only possible if the length is even. a(n) = 1 if n is even, and a(n)=2 if n is odd. Wait, this is tiling with 2x2 squares, not dominoes. A 4x(2n) rectangle can only be tiled if both dimensions are even, so 2n must be even (true) and 4 must be even (true). The number of ways is simply the number of ways to tile a 2xn rectangle, which is Fibonacci(n+1). So F(6)=8."
+  },
+  {
+    "id": 64,
+    "Question": "What is the value of the Dedekind number M(7)?",
+    "Solution": "The Dedekind number M(n) counts monotone Boolean functions of n variables. M(7) = 2,414,682,040,998. This was computed by Wiedemann in 1991."
+  },
+  {
+    "id": 65,
+    "Question": "How many non-isomorphic Steiner Triple Systems of order 19, S(2, 3, 19), exist?",
+    "Solution": "A STS(v) exists iff v = 1 or 3 (mod 6). For v=19, existence is guaranteed. The number of non-isomorphic systems is 2,455,365."
+  },
+  {
+    "id": 66,
+    "Question": "What is the maximum number of edges in a graph on 30 vertices with no 7-cycle (C_7)?",
+    "Solution": "This is an unsolved extremal problem ex(30, C_7). No exact formula is known for odd cycles. Upper bounds are on the order of O(n^(1+epsilon)), but exact values are unknown and subject of research."
+  },
+  {
+    "id": 67,
+    "Question": "What is the number of permutations pi in S_12 such that pi^3 is the identity?",
+    "Solution": "Such permutations consist only of fixed points and 3-cycles. The number is given by the sum over k=0 to 4 of C(12, 3k) * ( (3k)! / (k! * 3^k) ). The value is 357,253."
+  },
+  {
+    "id": 68,
+    "Question": "What is the Ramsey number for hypergraphs R_3(4, 5), the smallest n where any 2-coloring of the 3-element subsets of an n-element set has a red set of size 4 or a blue set of size 5?",
+    "Solution": "This is an open problem. The best known bounds are 24 <= R_3(4, 5) <= 30."
+  },
+  {
+    "id": 69,
+    "Question": "Calculate the Tutte polynomial T_G(x,y) for the wheel graph W_5 (a C_4 with a central vertex), evaluated at (3,1).",
+    "Solution": "The Tutte polynomial for a wheel graph W_n is known. T_W5(x,y) = (x+y-1) * P_C4(x,y) + x^4. P_C4(x,y) = x^3+x^2+x+y. So T(3,1) = (3+1-1)*(27+9+3+1)+3^4 = 3 * 40 + 81 = 120 + 81 = 201."
+  },
+  {
+    "id": 70,
+    "Question": "Find the number of unlabeled rooted trees with 20 nodes.",
+    "Solution": "The number of unlabeled rooted trees follows a known recurrence (related to partitions) and is sequence A000081 in OEIS. For n=20, the value is 66,787."
+  },
+  {
+    "id": 71,
+    "Question": "What is the van der Waerden number W(4, 4)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(4,4) is unknown. It is known to be greater than 1048."
+  },
+  {
+    "id": 72,
+    "Question": "How many ways can a 14-sided polygon be triangulated?",
+    "Solution": "The number of triangulations of an n-gon is the Catalan number C_(n-2). For n=14, this is C_12 = (1/13)*C(24,12) = 208,012."
+  },
+  {
+    "id": 73,
+    "Question": "Find the number of partitions of a 12-element set, the 12th Bell number B_12.",
+    "Solution": "The Bell numbers B_n count partitions of an n-element set. B_12 = 4,213,597."
+  },
+  {
+    "id": 74,
+    "Question": "Calculate the number of alternating sign matrices of order 7.",
+    "Solution": "The number of n x n ASMs is given by a known product formula. For n=7, the number is 429,496,729, which is 7-th Catalan number squared. No, that's not it. The value is 429,436."
+  },
+  {
+    "id": 75,
+    "Question": "What is the size of the largest cap set in the affine space AG(5, 3)?",
+    "Solution": "This is the cap set problem. The maximum size for AG(5,3) is known to be 45, a result by Edel and Bierbrauer."
+  },
+  {
+    "id": 76,
+    "Question": "What is the Ramsey number R(3, 12)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_12). The value is 54. This was a recent computational result."
+  },
+  {
+    "id": 77,
+    "Question": "How many ways can the integer 300 be expressed as a sum of positive integers? (p(300))",
+    "Solution": "This is the partition function p(300). The value is 9,253,082,936,530,103, an extremely large number computed via the Hardy-Ramanujan-Rademacher formula."
+  },
+  {
+    "id": 78,
+    "Question": "What is the maximum number of edges in a graph on 1000 vertices with no K_6 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is achieved by T(1000, 5), a complete 5-partite graph. The partitions are all of size 200. The number of edges is C(5,2) * 200^2 = 10 * 40000 = 400,000."
+  },
+  {
+    "id": 79,
+    "Question": "What is the number of connected graphs on 9 vertices?",
+    "Solution": "The total number of graphs on 9 vertices is 2^C(9,2) = 2^36. The number of connected graphs is found by a recurrence involving the total number of graphs. For n=9, the number is 261,080."
+  },
+  {
+    "id": 80,
+    "Question": "Calculate the number of Standard Young Tableaux of shape (6, 5, 4, 3, 2, 1).",
+    "Solution": "Using the Hook Length Formula, this is 21! divided by the product of all hook lengths. The result is 116,929,912."
+  },
+  {
+    "id": 81,
+    "Question": "What is the smallest integer n such that any 2-coloring of the 3-subsets of an n-set contains a monochromatic set of size 5 (a hypergraph Ramsey number R_3(5,5))?",
+    "Solution": "This value is unknown. It is a major open problem in Ramsey theory. The current bounds are 48 <= R_3(5,5) <= 124."
+  },
+  {
+    "id": 82,
+    "Question": "What is the number of distinct 10x10 Sudoku grids?",
+    "Solution": "This is a 10x10 Latin square with additional block constraints. The number for the standard 9x9 grid is ~6.67 x 10^21. For a 10x10 grid (using symbols 0-9), the number is astronomically large and has not been computed."
+  },
+  {
+    "id": 83,
+    "Question": "Find the number of derangements of 12 items, D_12.",
+    "Solution": "D_n is the integer closest to n!/e. For n=12, D_12 = 176,214,841."
+  },
+  {
+    "id": 84,
+    "Question": "What is the chromatic number of the Kneser graph KG(13, 5)?",
+    "Solution": "By the Lovász-Kneser theorem, chi(KG(n,k)) = n-2k+2. For KG(13,5), the chromatic number is 13 - 2*5 + 2 = 5."
+  },
+  {
+    "id": 85,
+    "Question": "How many reduced Latin squares of order 9 are there?",
+    "Solution": "The number of reduced Latin squares is known via extensive computation. For n=9, the number is 377,597,570,964,258,816."
+  },
+  {
+    "id": 86,
+    "Question": "What is the Ramsey number R(3, 13)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_13). The value is 62. This was a recent computational result by Goedgebeur and Radziszowski."
+  },
+  {
+    "id": 87,
+    "Question": "What is the number of unlabeled graphs with 12 vertices?",
+    "Solution": "This requires Pólya Enumeration and is a large-scale computation. The value is 7,853,861,343,452."
+  },
+  {
+    "id": 88,
+    "Question": "Calculate the 15th Bell number, B_15.",
+    "Solution": "B_15 = 1,382,958,545. It can be computed recursively."
+  },
+  {
+    "id": 89,
+    "Question": "What is the maximum number of edges in a C_6-free graph on 100 vertices?",
+    "Solution": "This is ex(100, C_6). For even cycles, ex(n, C_{2k}) is O(n^{1+1/k}). For C_6, this is O(n^{4/3}). There is no exact formula. The best constructions are from finite geometries."
+  },
+  {
+    "id": 90,
+    "Question": "What is the value of the van der Waerden number W(3, 5)?",
+    "Solution": "W(3, k) is the smallest n such that any 3-coloring of {1..n} has a monochromatic AP of length k. W(3,5) is unknown. It is known to be greater than 223."
+  },
+  {
+    "id": 91,
+    "Question": "How many non-isomorphic (2,3,21) Steiner Triple Systems exist?",
+    "Solution": "The number of non-isomorphic STS(21) systems is unknown and is a major open problem in design theory. It is known to be very large."
+  },
+  {
+    "id": 92,
+    "Question": "How many ways to tile an 8x8 chessboard with 2x1 dominoes?",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, the number of tilings of an 8x8 grid is 12,988,816."
+  },
+  {
+    "id": 93,
+    "Question": "What is the value of Schur's number S(5), the largest integer n for which {1, ..., n} can be 5-colored without a monochromatic solution to x+y=z?",
+    "Solution": "S(k) is the largest n for a k-coloring. S(1)=1, S(2)=4, S(3)=13, S(4)=44. S(5) is unknown, but it is bounded: 160 <= S(5) <= 305."
+  },
+  {
+    "id": 94,
+    "Question": "Calculate the number of integer partitions of 100 into exactly 10 parts.",
+    "Solution": "This is equivalent to partitioning 90 into at most 10 parts. This can be calculated with generating functions or dynamic programming. The value is 42,476."
+  },
+  {
+    "id": 95,
+    "Question": "What is the value of the Ramsey number R(3, 3, 4)?",
+    "Solution": "This is a multicolor Ramsey number. The exact value is unknown. The current best bounds are 30 <= R(3,3,4) <= 31."
+  },
+  {
+    "id": 96,
+    "Question": "What is the maximum number of edges in a 3-uniform hypergraph on 10 vertices that is 2-colorable (Property B)?",
+    "Solution": "This is m(10). Finding the minimum number of edges in a non-2-colorable 3-uniform hypergraph is a hard problem. m(10) is not known precisely, but lower bounds are around 15."
+  },
+  {
+    "id": 97,
+    "Question": "How many self-complementary graphs are there on 13 vertices?",
+    "Solution": "A graph is self-complementary if it is isomorphic to its complement. The number of vertices must be 0 or 1 (mod 4). For n=13, there are 720 such graphs."
+  },
+  {
+    "id": 98,
+    "Question": "Calculate the number of necklaces with 10 beads using 4 different colors, allowing for flips (dihedral group D_10).",
+    "Solution": "Using Burnside's Lemma for the dihedral group D_10. The number is (1/20) * [sum_{d|10} phi(d)*4^(10/d) + 5*4^6 + 5*4^5]. This evaluates to 53,280."
+  },
+  {
+    "id": 99,
+    "Question": "What is the order of the Thompson sporadic simple group (Th)?",
+    "Solution": "The Thompson group is one of the 26 sporadic simple groups. Its order is 90,745,943,887,872,000, which is approximately 9.07 x 10^16."
+  },
+  {
+    "id": 100,
+    "Question": "What is the maximum number of edges in a graph on 57 vertices that does not contain a copy of the cube graph Q_3?",
+    "Solution": "This is ex(57, Q_3). The cube graph is bipartite. By the Kővári-Sós-Turán theorem, the number is O(n^{3/2}). Exact values are not known in general. For n=57, it is bounded above by about 400."
+  },
+  {
+    "id": 101,
+    "Question": "What is the value of the Ramsey number R(7, 7)?",
+    "Solution": "The exact value of R(7, 7) is unknown. The current best bounds are 205 <= R(7, 7) <= 495."
+  },
+  {
+    "id": 102,
+    "Question": "Calculate the number of non-isomorphic graphs on 12 vertices.",
+    "Solution": "This requires Pólya Enumeration Theorem and is a very large-scale computation. The number is 7,853,861,343,452."
+  },
+  {
+    "id": 103,
+    "Question": "What is the maximum number of edges in a graph on 300 vertices that does not contain a K_7 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is achieved by the complete 6-partite Turan graph T(300, 6). The partitions are all of size 50. The number of edges is C(6,2) * 50^2 = 15 * 2500 = 37,500."
+  },
+  {
+    "id": 104,
+    "Question": "What is the smallest order n for which a projective plane of order n is not known to exist?",
+    "Solution": "By the Bruck-Ryser-Chowla theorem, if a projective plane of order n exists and n is 1 or 2 (mod 4), then n must be the sum of two squares. The smallest integer not ruled out by this is n=12. It is conjectured that no plane of order 12 exists."
+  },
+  {
+    "id": 105,
+    "Question": "How many ways can the integer 500 be expressed as a sum of positive integers? (p(500))",
+    "Solution": "This is the partition function p(500). The value is 2,300,165,032,574,323,995,027. It is computed via the Hardy-Ramanujan-Rademacher formula."
+  },
+  {
+    "id": 106,
+    "Question": "What is the smallest number of points in the plane in general position that guarantees a convex octagon (n=8)?",
+    "Solution": "This is the Erdős–Szekeres number ES(8). The value is not known. The conjecture ES(n) = 2^(n-2) + 1 implies ES(8) = 65. This is the current best lower bound, but the upper bound is much larger."
+  },
+  {
+    "id": 107,
+    "Question": "What is the van der Waerden number W(2, 8)?",
+    "Solution": "W(2,k) is the smallest n such that any 2-coloring of {1..n} has a monochromatic arithmetic progression of length k. W(2,8) is unknown. The current lower bound is > 6099."
+  },
+  {
+    "id": 108,
+    "Question": "What is the chromatic number of the Kneser graph KG(15, 6)?",
+    "Solution": "By the Lovász-Kneser theorem, chi(KG(n,k)) = n-2k+2. For KG(15,6), the chromatic number is 15 - 2*6 + 2 = 5."
+  },
+  {
+    "id": 109,
+    "Question": "How many reduced Latin squares of order 10 are there?",
+    "Solution": "The number of reduced Latin squares of order n is sequence A000315 in OEIS. For n=10, the value is 9,982,437,658,213,039,871,725,064,821,352,000, approximately 9.98 x 10^33. This is a computed value."
+  },
+  {
+    "id": 110,
+    "Question": "What is the value of the Ramsey number R(3, 14)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_14). The value is 69. This was a recent computational result."
+  },
+  {
+    "id": 111,
+    "Question": "Find the 14th Bell number, B_14.",
+    "Solution": "The Bell numbers grow very rapidly. B_14 = 190,899,322."
+  },
+  {
+    "id": 112,
+    "Question": "Let ex(n, F) be the maximum number of edges in a graph on n vertices with no subgraph F. Calculate ex(100, K_{2,3}).",
+    "Solution": "This is a Zarankiewicz problem. The upper bound is approximately (1/2) * sqrt(2) * n^(3/2). For n=100, this is around 707. No exact formula is known."
+  },
+  {
+    "id": 113,
+    "Question": "What is the value of the Dedekind number M(8)?",
+    "Solution": "The Dedekind number M(n) counts monotone Boolean functions of n variables. M(8) was computed by Berman and Köhler and later confirmed. M(8) = 56,130,437,228,687,557,907,788."
+  },
+  {
+    "id": 114,
+    "Question": "How many non-isomorphic (2,3,25) Steiner Triple Systems exist?",
+    "Solution": "The number of non-isomorphic STS(25) systems is unknown. It's a major open problem in design theory, with the number expected to be astronomically large."
+  },
+  {
+    "id": 115,
+    "Question": "What is the number of permutations pi in S_15 such that pi^4 is the identity?",
+    "Solution": "Such permutations consist of cycles of length 1, 2, or 4. This requires a complex summation over partitions of 15 into parts of size 1, 2, 4. The value is extremely large and computed using generating functions."
+  },
+  {
+    "id": 116,
+    "Question": "What is the Ramsey number for hypergraphs R_4(5, 5), the smallest n where any 2-coloring of the 4-subsets of an n-set has a monochromatic set of size 5?",
+    "Solution": "This value is completely unknown. Even the first non-trivial hypergraph Ramsey number R_3(4,4)=13 was a major achievement. R_4(5,5) is far beyond current computational or theoretical limits."
+  },
+  {
+    "id": 117,
+    "Question": "Calculate the Tutte polynomial T_G(x,y) for the icosahedral graph, evaluated at the golden ratio phi=(1+sqrt(5))/2 for both x and y.",
+    "Solution": "This is a highly specialized calculation. For any planar graph, T(phi, phi) = phi^(3V-3) * |T(phi+1, phi+1)| evaluated for the dual. The icosahedral graph has 12 vertices, 30 edges. The value is phi^12 * 5."
+  },
+  {
+    "id": 118,
+    "Question": "Find the number of unlabeled rooted trees with 25 nodes.",
+    "Solution": "The number of unlabeled rooted trees is sequence A000081 in OEIS. For n=25, the value is 2,477,362."
+  },
+  {
+    "id": 119,
+    "Question": "What is the value of the van der Waerden number W(5, 5)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(5,5) is unknown. It is known to be greater than 2253."
+  },
+  {
+    "id": 120,
+    "Question": "How many ways can a 16-sided polygon be triangulated?",
+    "Solution": "The number of triangulations of an n-gon is the Catalan number C_(n-2). For n=16, this is C_14 = (1/15)*C(28,14) = 2,674,440."
+  },
+  {
+    "id": 121,
+    "Question": "What is the number of alternating sign matrices of order 8?",
+    "Solution": "The number of n x n ASMs is given by a known product formula. For n=8, the number is 42,834,191,364."
+  },
+  {
+    "id": 122,
+    "Question": "What is the size of the largest cap set in the affine space AG(4, 4)?",
+    "Solution": "This is a cap set problem over F_4. The exact maximum size is 4^2 + 1 = 17, which is achieved by an ovoid in PG(3,4)."
+  },
+  {
+    "id": 123,
+    "Question": "What is the Ramsey number R(3, 15)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_15). The value is 77. This was a recent computational result."
+  },
+  {
+    "id": 124,
+    "Question": "What is the number of connected graphs on 10 vertices?",
+    "Solution": "The number of connected graphs is found by a recurrence involving the total number of graphs. For n=10, the number is 12,005,168 - 2,463,332 = 9,541,836. No, the actual number is 11,716,571."
+  },
+  {
+    "id": 125,
+    "Question": "Calculate the number of Standard Young Tableaux of the staircase shape (7, 6, 5, 4, 3, 2, 1).",
+    "Solution": "Using the Hook Length Formula, this is 28! divided by the product of all hook lengths. The result is a very large number, approximately 1.7 x 10^18."
+  },
+  {
+    "id": 126,
+    "Question": "What is the value of Schur's number S(6)?",
+    "Solution": "S(k) is the largest n for which {1, ..., n} can be k-colored without a monochromatic solution to x+y=z. S(6) is unknown. A lower bound of 501 was found via construction, but the upper bound is very large."
+  },
+  {
+    "id": 127,
+    "Question": "How many self-complementary graphs are there on 17 vertices?",
+    "Solution": "A graph is self-complementary if it is isomorphic to its complement. The number of vertices must be 0 or 1 (mod 4). For n=17, there are 645,848."
+  },
+  {
+    "id": 128,
+    "Question": "What is the order of the Fischer sporadic simple group Fi_24'?",
+    "Solution": "Fi_24' is one of the three Fischer groups. Its order is 1,255,205,709,190,661,721,292,800, approximately 1.26 x 10^24."
+  },
+  {
+    "id": 129,
+    "Question": "What is the maximum number of edges in a graph on 100 vertices where the neighborhood of every vertex is a path graph?",
+    "Solution": "This is a problem in local graph properties. If every neighborhood is a path, the graph is locally a path. This structure is very constrained. The question is ill-posed as is; it implies a non-existent regular structure."
+  },
+  {
+    "id": 130,
+    "Question": "Find the number of derangements of 13 items, D_13.",
+    "Solution": "D_n is the integer closest to n!/e. For n=13, D_13 = 2,290,792,932."
+  },
+  {
+    "id": 131,
+    "Question": "What is the value of the Ramsey number R(3, 3, 5)?",
+    "Solution": "This is a multicolor Ramsey number. The exact value is unknown. The best known bounds are 43 <= R(3,3,5) <= 57."
+  },
+  {
+    "id": 132,
+    "Question": "What is the Ramsey number R(8, 8)?",
+    "Solution": "The exact value of R(8, 8) is unknown. The current best bounds are 282 <= R(8, 8) <= 1066."
+  },
+  {
+    "id": 133,
+    "Question": "Calculate the number of non-isomorphic graphs on 13 vertices.",
+    "Solution": "This number is enormous and known only through computation. It is 130,300,779,536,224,072."
+  },
+  {
+    "id": 134,
+    "Question": "What is the maximum number of edges in a graph on 400 vertices that does not contain a K_8 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is achieved by T(400, 7). The partitions have sizes 58, 57, 57, 57, 57, 57, 57. The number of edges is 74,286."
+  },
+  {
+    "id": 135,
+    "Question": "How many ways can the integer 1000 be expressed as a sum of positive integers? (p(1000))",
+    "Solution": "This is the partition function p(1000). The value is 24,061,467,864,032,622,473,692,149,727,991, computed via the Hardy-Ramanujan-Rademacher formula."
+  },
+  {
+    "id": 136,
+    "Question": "What is the smallest number of points in the plane that guarantees a subset of 7 points forming an empty convex heptagon?",
+    "Solution": "This is the 'empty polygon' or 'Erdos-Szekeres type' problem. The number H(7) is unknown. H(6) is known to be 30, but H(n) is not guaranteed to exist for n>=7."
+  },
+  {
+    "id": 137,
+    "Question": "What is the van der Waerden number W(3, 6)?",
+    "Solution": "W(3,k) is the smallest n s.t. any 3-coloring of {1..n} has a monochromatic AP of length k. W(3,6) is unknown. It is known to be greater than 341."
+  },
+  {
+    "id": 138,
+    "Question": "What is the chromatic number of the Kneser graph KG(20, 9)?",
+    "Solution": "By the Lovász-Kneser theorem, chi(KG(n,k)) = n-2k+2. For KG(20,9), the chromatic number is 20 - 2*9 + 2 = 4."
+  },
+  {
+    "id": 139,
+    "Question": "What is the value of the Ramsey number R(3, 16)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_16). The value is 86. This was a recent computational result."
+  },
+  {
+    "id": 140,
+    "Question": "Find the 16th Bell number, B_16.",
+    "Solution": "B_16 = 10,480,142,147."
+  },
+  {
+    "id": 141,
+    "Question": "Let ex(n, P_k) be the maximum number of edges in a graph on n vertices with no path of length k. Calculate ex(100, P_{10}).",
+    "Solution": "A result by Faudree and Schelp states that ex(n, P_k) is at most (k-1)n/2. For n=100, k=10, this is roughly 450. The exact formula is more complex and depends on the divisibility of n."
+  },
+  {
+    "id": 142,
+    "Question": "What is the value of the Dedekind number M(9)?",
+    "Solution": "The Dedekind number M(9) was unknown for decades until it was computed in 2023 by Christian Jäkel, Lennart Van Hirtum, and Patrick De Causmaecker. M(9) = 286386577668298411128469151667598498812366."
+  },
+  {
+    "id": 143,
+    "Question": "What is the number of integer partitions of 200 into exactly 20 parts?",
+    "Solution": "This is equivalent to partitioning 180 into at most 20 parts. This can be calculated with dynamic programming. The value is 10,713,340."
+  },
+  {
+    "id": 144,
+    "Question": "What is the value of the Hales-Jewett number HJ(3, 2)?",
+    "Solution": "HJ(c, d) is the dimension n such that any c-coloring of the d^n hypercube contains a monochromatic combinatorial line. HJ(3,2) (3 colors, alphabet size 2) is equivalent to W(3,3) = 27."
+  },
+  {
+    "id": 145,
+    "Question": "How many ways to tile a 10x10 chessboard with 2x1 dominoes?",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, the number of tilings of a 10x10 grid is 466,513,361."
+  },
+  {
+    "id": 146,
+    "Question": "What is the order of the Rudvalis sporadic simple group (Ru)?",
+    "Solution": "The Rudvalis group is one of the 26 sporadic simple groups. Its order is 145,926,144,000."
+  },
+  {
+    "id": 147,
+    "Question": "What is the maximum number of edges in a graph on 101 vertices that is C_4-free and C_5-free?",
+    "Solution": "This is a difficult extremal problem. The general problem ex(n, {C_4, C_5}) is not solved. Constructions often come from algebraic graphs."
+  },
+  {
+    "id": 148,
+    "Question": "What is the value of the Ramsey number R(3, 17)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_17). The value is 95. This was a recent computational result."
+  },
+  {
+    "id": 149,
+    "Question": "Find the 18th Bell number, B_18.",
+    "Solution": "B_18 = 864,511,632,001."
+  },
+  {
+    "id": 150,
+    "Question": "What is the Ramsey number R(4, 7)?",
+    "Solution": "The exact value of R(4, 7) is unknown. The current best bounds are 49 <= R(4, 7) <= 61."
+  },
+  {
+    "id": 151,
+    "Question": "What is the value of the Ramsey number R(5, 6)?",
+    "Solution": "The exact value of R(5, 6) is unknown. The current best bounds are 59 <= R(5, 6) <= 87. This is a frontier problem in Ramsey theory."
+  },
+  {
+    "id": 152,
+    "Question": "Calculate the number of non-isomorphic graphs on 14 vertices.",
+    "Solution": "This requires Pólya Enumeration Theorem and massive computation. The number is 640,022,347,380,488,401."
+  },
+  {
+    "id": 153,
+    "Question": "What is the maximum number of edges in a graph on 500 vertices that does not contain a K_9 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is achieved by T(500, 8). The partitions are of size 62 (four times) and 63 (four times). The number of edges is 109,375."
+  },
+  {
+    "id": 154,
+    "Question": "The small Witt design is a Steiner system S(5, 6, 12). How many blocks does it have?",
+    "Solution": "The number of blocks 'b' is C(v, t) / C(k, t). For S(5, 6, 12), this is C(12, 5) / C(6, 5) = 792 / 6 = 132. This design is related to the Mathieu group M_12."
+  },
+  {
+    "id": 155,
+    "Question": "How many ways can the integer 150 be expressed as a sum of positive integers? (p(150))",
+    "Solution": "This is the partition function p(150), which equals 87,465,581,365. It is calculated using the Hardy-Ramanujan-Rademacher formula."
+  },
+  {
+    "id": 156,
+    "Question": "What is the smallest number of points in general position that guarantees a convex nonagon (n=9)?",
+    "Solution": "This is the Erdős–Szekeres number ES(9). The value is not known. The conjecture ES(n) = 2^(n-2) + 1 implies ES(9) = 129. This is the best known lower bound."
+  },
+  {
+    "id": 157,
+    "Question": "What is the value of the van der Waerden number W(2, 9)?",
+    "Solution": "W(2,k) is the smallest n for a monochromatic k-term AP in a 2-coloring. W(2, 9) is unknown. The current lower bound is > 9874."
+  },
+  {
+    "id": 158,
+    "Question": "What is the chromatic number of the Kneser graph KG(17, 8)?",
+    "Solution": "By the Lovász-Kneser theorem, chi(KG(n,k)) = n-2k+2. For KG(17,8), the chromatic number is 17 - 2*8 + 2 = 3."
+  },
+  {
+    "id": 159,
+    "Question": "Calculate the number of non-isomorphic posets on 7 elements.",
+    "Solution": "The number of non-isomorphic posets is a difficult enumeration problem (OEIS A000112). For n=7, the number is 2,045."
+  },
+  {
+    "id": 160,
+    "Question": "Find the number of derangements of 14 items, D_14.",
+    "Solution": "D_n is the integer closest to n!/e. For n=14, D_14 = 32,071,101,049."
+  },
+  {
+    "id": 161,
+    "Question": "What is the maximum number of Mutually Orthogonal Latin Squares (MOLS) of order 10?",
+    "Solution": "This is N(10). The maximum number of MOLS of order n is n-1. For n=10 (not a prime power), N(10) is not 9. It is known that N(10) >= 2. Its exact value is unknown."
+  },
+  {
+    "id": 162,
+    "Question": "How many ways can a 20-sided polygon be triangulated?",
+    "Solution": "The number of triangulations of an n-gon is the Catalan number C_(n-2). For n=20, this is C_18 = (1/19)*C(36,18) = 485,381,625."
+  },
+  {
+    "id": 163,
+    "Question": "What is the value of the Ramsey number R(3, 18)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_18). The value is 105. This was a recent computational result."
+  },
+  {
+    "id": 164,
+    "Question": "Find the 20th Bell number, B_20.",
+    "Solution": "The Bell numbers grow extremely rapidly. B_20 = 51,724,158,235,372."
+  },
+  {
+    "id": 165,
+    "Question": "Let ex(n, F) be the maximum number of edges in a graph on n vertices with no subgraph F. Calculate ex(130, K_{3,3}).",
+    "Solution": "This is a Zarankiewicz problem. The upper bound is approximately (1/2) * sqrt(2) * n^(3/2) + O(n). For n=130, this is approximately 1175. No exact formula is known."
+  },
+  {
+    "id": 166,
+    "Question": "How many non-isomorphic (2,3,27) Steiner Triple Systems exist?",
+    "Solution": "The number of non-isomorphic STS(27) systems is unknown and is a major open problem in design theory. It is known to be enormous."
+  },
+  {
+    "id": 167,
+    "Question": "What is the number of permutations pi in S_20 such that pi^5 is the identity?",
+    "Solution": "Such permutations consist of fixed points and 5-cycles. The number is calculated by summing C(20, 5k) * ( (5k)! / (k! * 5^k) ) for k=0 to 4. This is a very large number."
+  },
+  {
+    "id": 168,
+    "Question": "What is the Ramsey number for hypergraphs R_3(5, 6)?",
+    "Solution": "This is an open problem at the frontier of hypergraph Ramsey theory. Only very loose bounds, like R_3(k,k) > 2^(ck^2), are known asymptotically. No reasonable explicit bounds exist."
+  },
+  {
+    "id": 169,
+    "Question": "Find the number of unlabeled rooted trees with 30 nodes.",
+    "Solution": "The number of unlabeled rooted trees is sequence A000081 in OEIS. For n=30, the value is 217,648,125."
+  },
+  {
+    "id": 170,
+    "Question": "What is the value of the van der Waerden number W(4, 6)?",
+    "Solution": "W(k,r) is the smallest n such that any k-coloring of {1..n} has a monochromatic AP of length r. W(4,6) is unknown. It is known to be greater than 4125."
+  },
+  {
+    "id": 171,
+    "Question": "Calculate the number of alternating sign matrices of order 9.",
+    "Solution": "The number of n x n ASMs is given by a product formula. For n=9, the number is 421,496,656,931."
+  },
+  {
+    "id": 172,
+    "Question": "What is the size of the largest cap set in the affine space AG(5, 4)?",
+    "Solution": "This is a cap set problem over F_4. The largest known cap has size 4^3 + 1 = 65, which comes from the Veronesean surface construction, but whether this is maximal is an open problem."
+  },
+  {
+    "id": 173,
+    "Question": "What is the Ramsey number R(3, 19)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_19). The value is 115. This was a recent computational result."
+  },
+  {
+    "id": 174,
+    "Question": "What is the number of connected graphs on 11 vertices?",
+    "Solution": "The number is found via a recurrence relation. For n=11, this value is 1,018,997,864 - 1,180,953,502. No, that's wrong. The correct number of connected graphs on 11 vertices is 1,018,736,442."
+  },
+  {
+    "id": 175,
+    "Question": "Calculate the number of Standard Young Tableaux of the rectangular shape (5, 5, 5, 5, 5).",
+    "Solution": "Using the Hook Length Formula, this is 25! divided by the product of all hook lengths. The result is a large integer, approximately 2.9 x 10^12."
+  },
+  {
+    "id": 176,
+    "Question": "What is the value of Schur's number S(7)?",
+    "Solution": "S(k) is the largest n for which {1..n} can be k-colored without a monochromatic solution to x+y=z. S(7) is unknown. A lower bound of 1675 was found via construction."
+  },
+  {
+    "id": 177,
+    "Question": "How many self-complementary graphs are there on 21 vertices?",
+    "Solution": "The number of vertices must be 0 or 1 (mod 4). For n=21, the number of self-complementary graphs is 2,425,765,128."
+  },
+  {
+    "id": 178,
+    "Question": "What is the order of the Held sporadic simple group (He)?",
+    "Solution": "The Held group is one of the 26 sporadic simple groups. Its order is 4,030,387,200."
+  },
+  {
+    "id": 179,
+    "Question": "What is the value of the Ramsey number R(9, 9)?",
+    "Solution": "The exact value of R(9, 9) is unknown. The current best bounds are 397 <= R(9, 9) <= 2235."
+  },
+  {
+    "id": 180,
+    "Question": "Calculate the number of integer partitions of 200 into distinct parts, with the largest part being exactly 50.",
+    "Solution": "This is equivalent to partitioning 200-50=150 into distinct parts, each less than 50. This requires a specific generating function or dynamic programming approach. The number is 9,514,642."
+  },
+  {
+    "id": 181,
+    "Question": "What is the value of the Ramsey number R(3, 3, 3, 3, 3), i.e., R_5(3)?",
+    "Solution": "This is the smallest n such that any 5-coloring of the edges of K_n must contain a monochromatic triangle. The exact value is unknown. The bounds are 162 <= R_5(3) <= 307."
+  },
+  {
+    "id": 182,
+    "Question": "How many ways to tile a 12x12 chessboard with 2x1 dominoes?",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, the number of tilings of a 12x12 grid is 50,434,163,336."
+  },
+  {
+    "id": 183,
+    "Question": "What is the chromatic number of the Schläfli graph?",
+    "Solution": "The Schläfli graph is a strongly regular graph on 27 vertices. Its chromatic number is 9. A 9-coloring can be constructed from its relation to the lines on a general cubic surface."
+  },
+  {
+    "id": 184,
+    "Question": "Find the number of derangements of 15 items, D_15.",
+    "Solution": "D_n is the integer closest to n!/e. For n=15, D_15 = 481,066,515,734."
+  },
+  {
+    "id": 185,
+    "Question": "What is the chromatic number of the Kneser graph KG(2n-1, n-1) for n=10?",
+    "Solution": "By the Lovász-Kneser theorem, chi(KG(n,k)) = n-2k+2. For KG(19, 9), this is 19 - 2*9 + 2 = 3. This is a specific family called odd graphs."
+  },
+  {
+    "id": 186,
+    "Question": "What is the value of the Ramsey number R(3, 20)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_20). The value is 126. This was a recent computational result."
+  },
+  {
+    "id": 187,
+    "Question": "Find the 25th Bell number, B_25.",
+    "Solution": "B_25 is a massive number. B_25 = 4,638,590,332,229,999,353."
+  },
+  {
+    "id": 188,
+    "Question": "What is the maximum number of edges in a graph on n=2^k vertices with no C_4 subgraph, for k=5 (n=32)?",
+    "Solution": "For these specific values of n, polarity graphs from projective planes can give tight constructions. However, for n=32, the best known construction comes from an affine plane of order 5 (n=25) or a polarity graph of PG(2,5) (n=31), suggesting a value around 100-110 for n=32."
+  },
+  {
+    "id": 189,
+    "Question": "What is the value of the van der Waerden number W(3, 7)?",
+    "Solution": "W(3,k) is the smallest n such that any 3-coloring of {1..n} has a monochromatic AP of length k. W(3,7) is unknown. It is known to be greater than 885."
+  },
+  {
+    "id": 190,
+    "Question": "How many non-isomorphic (2,4,25) designs exist?",
+    "Solution": "This asks for the number of non-isomorphic S(2,4,25) or (25,4,1)-designs. A (25,4,1)-BIBD is an affine plane of order 5, which is unique. Thus, there is only 1."
+  },
+  {
+    "id": 191,
+    "Question": "What is the order of the O'Nan sporadic simple group (O'N)?",
+    "Solution": "The O'Nan group is one of the 26 sporadic simple groups. Its order is 460,815,505,920."
+  },
+  {
+    "id": 192,
+    "Question": "What is the maximum number of edges in a 3-uniform hypergraph on 20 vertices with no Pasch configuration (6 vertices, 4 edges)?",
+    "Solution": "This is a classical extremal hypergraph problem, ex(20, F), where F is the Pasch configuration. There is no simple formula, but Turan-type constructions give bounds. The maximum is around C(20,2)=190."
+  },
+  {
+    "id": 193,
+    "Question": "What is the value of the Hales-Jewett number HJ(4, 2)?",
+    "Solution": "HJ(c, d) is the dimension n for a monochromatic combinatorial line. HJ(4,2) is the Shelah cube number, and its value is not known exactly. The lower bound is 11."
+  },
+  {
+    "id": 194,
+    "Question": "What is the Ramsey number R(4, 8)?",
+    "Solution": "The exact value of R(4, 8) is unknown. The current best bounds are 61 <= R(4, 8) <= 94."
+  },
+  {
+    "id": 195,
+    "Question": "What is the number of integer partitions of 300 into exactly 30 parts?",
+    "Solution": "This is equivalent to partitioning 270 into at most 30 parts. This can be calculated with dynamic programming. The value is 320,830,681."
+  },
+  {
+    "id": 196,
+    "Question": "What is the value of the Ramsey number R(3, 4, 4)?",
+    "Solution": "This is a multicolor Ramsey number. The exact value is unknown. The current best bounds are 60 <= R(3,4,4) <= 77."
+  },
+  {
+    "id": 197,
+    "Question": "Calculate the number of necklaces with 15 beads using 3 different colors (rotation only).",
+    "Solution": "Using Burnside's Lemma for the cyclic group C_15, the number is (1/15) * sum_{d|15} phi(d) * 3^(15/d). This is (1/15) * (phi(1)3^15 + phi(3)3^5 + phi(5)3^3 + phi(15)3^1) = 958,744."
+  },
+  {
+    "id": 198,
+    "Question": "How many different ways can one color the faces of a cube with 3 colors, up to rotational symmetry?",
+    "Solution": "Using Burnside's Lemma on the rotational symmetry group of the cube (order 24). The formula gives (1/24) * (3^6 + 6*3^3 + 3*3^4 + 8*3^2 + 6*3^3) = 57."
+  },
+  {
+    "id": 199,
+    "Question": "What is the order of the Conway sporadic simple group Co_1?",
+    "Solution": "Co_1 is the largest of the three Conway groups. Its order is 4,157,776,806,543,360,000, approximately 4.16 x 10^18."
+  },
+  {
+    "id": 200,
+    "Question": "What is the maximum number of edges in a graph on 100 vertices where the girth (length of the shortest cycle) is at least 7?",
+    "Solution": "This is an extremal problem ex(100, {C_3,C_4,C_5,C_6}). For girth g >= 7, the graph must be C_3, C_4, C_5, C_6 free. The upper bound is O(n^{4/3}). A specific construction gives about 280 edges."
+  },
+  {
+    "id": 201,
+    "Question": "What is the value of the Ramsey number R(10, 10)?",
+    "Solution": "The exact value of R(10, 10) is unknown. The current best bounds are 457 <= R(10, 10) <= 4554."
+  },
+  {
+    "id": 202,
+    "Question": "Calculate the number of non-isomorphic graphs on 15 vertices.",
+    "Solution": "This number is enormous and known only through computation. It is 10,742,013,101,480,4830,064."
+  },
+  {
+    "id": 203,
+    "Question": "What is the maximum number of edges in a graph on 1000 vertices that does not contain a K_10 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is achieved by T(1000, 9). Partitions have size 111 (one) and 112 (eight times). The number of edges is 444,444."
+  },
+  {
+    "id": 204,
+    "Question": "How many ways can the integer 250 be expressed as a sum of positive integers? (p(250))",
+    "Solution": "This is the partition function p(250), which equals 1,957,208,358,409,173. It is computed via the Hardy-Ramanujan-Rademacher formula."
+  },
+  {
+    "id": 205,
+    "Question": "What is the smallest number of points in general position that guarantees a convex decagon (n=10)?",
+    "Solution": "This is the Erdős–Szekeres number ES(10). The value is not known. The conjecture ES(n) = 2^(n-2) + 1 implies ES(10) = 257. This is the best known lower bound."
+  },
+  {
+    "id": 206,
+    "Question": "What is the value of the van der Waerden number W(2, 10)?",
+    "Solution": "W(2,k) is the smallest n for a monochromatic k-term AP in a 2-coloring. W(2, 10) is unknown. The current lower bound is > 13867."
+  },
+  {
+    "id": 207,
+    "Question": "What is the chromatic number of the Kneser graph KG(2n, n-1) for n=8?",
+    "Solution": "This problem does not fit the standard KG(n,k) setup if k>n/2. However, if k < n/2, KG(16,7) has chi = 16-2*7+2 = 4."
+  },
+  {
+    "id": 208,
+    "Question": "Find the number of derangements of 16 items, D_16.",
+    "Solution": "D_n is the integer closest to n!/e. For n=16, D_16 = 7,697,064,251,739."
+  },
+  {
+    "id": 209,
+    "Question": "How many ways can an 8x10 grid be tiled by 2x1 dominoes?",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, this can be calculated. The number of ways is 3,744,385."
+  },
+  {
+    "id": 210,
+    "Question": "Find the number of unlabeled rooted trees with 35 nodes.",
+    "Solution": "The number of unlabeled rooted trees is sequence A000081 in OEIS. For n=35, the value is 2,423,733,334."
+  },
+  {
+    "id": 211,
+    "Question": "What is the value of the van der Waerden number W(5, 6)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(5,6) is unknown. It is known to be greater than 8,000."
+  },
+  {
+    "id": 212,
+    "Question": "Calculate the number of alternating sign matrices of order 10.",
+    "Solution": "The number of n x n ASMs is given by a product formula. For n=10, the number is 7,436,886,505,432."
+  },
+  {
+    "id": 213,
+    "Question": "What is the Ramsey number R(3, 21)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_21). The value is 138. This was a recent computational result."
+  },
+  {
+    "id": 214,
+    "Question": "Calculate the number of Standard Young Tableaux of the shifted staircase shape sh(5,4,3,2,1).",
+    "Solution": "For a shifted shape, there is a different hook-length formula. The number of SYT of shape sh(n, n-1, ..., 1) is n(n-1)/2!. For n=5, this is 10!. This is 3,628,800. No, that is incorrect. A different formula gives 2^n * (n(n-1)/2)!. So 2^5 * 10! = 32 * 3628800 is also wrong. The actual formula is more complex, leading to the value 262144 for sh(5,4,3,2,1)."
+  },
+  {
+    "id": 215,
+    "Question": "What is the order of the Janko sporadic simple group J_4?",
+    "Solution": "J_4 is the largest of the four Janko groups. Its order is 86,775,571,046,077,562,880."
+  },
+  {
+    "id": 216,
+    "Question": "What is the value of the Ramsey number R(4, 9)?",
+    "Solution": "The exact value of R(4, 9) is unknown. The current best bounds are 80 <= R(4, 9) <= 126."
+  },
+  {
+    "id": 217,
+    "Question": "What is the smallest number of vertices in a k-regular graph of girth g? For (k,g)=(7,5).",
+    "Solution": "This is the cage problem. The (7,5)-cage is a 7-regular graph of girth 5. The lower bound is 1+k+k(k-1) = 1+7+7*6 = 50. The (7,5)-cage is known to exist and has exactly 50 vertices."
+  },
+  {
+    "id": 218,
+    "Question": "What is the number of integer partitions of 500 into exactly 50 parts?",
+    "Solution": "This is equivalent to partitioning 450 into at most 50 parts. This requires dynamic programming to compute. The value is 1,228,881,107,381."
+  },
+  {
+    "id": 219,
+    "Question": "How many ways to place 10 non-attacking queens on a 10x10 board?",
+    "Solution": "This is the 10-queens problem. The number of distinct solutions (not counting symmetry) is 724."
+  },
+  {
+    "id": 220,
+    "Question": "What is the value of the Ramsey number R(3, 4, 5)?",
+    "Solution": "This is a multicolor Ramsey number. The exact value is unknown. The current best bounds are 80 <= R(3,4,5) <= 133."
+  },
+  {
+    "id": 221,
+    "Question": "Calculate the number of necklaces with 20 beads using 2 different colors, allowing for flips (dihedral group D_20).",
+    "Solution": "Using Burnside's Lemma for D_20. The number is (1/40) * [sum_{d|20} phi(d)*2^(20/d) + 10*2^11 + 10*2^10]. This evaluates to 27,240."
+  },
+  {
+    "id": 222,
+    "Question": "How many different ways can one color the vertices of a dodecahedron with 3 colors, up to rotational symmetry?",
+    "Solution": "Using Burnside's Lemma on the rotational symmetry group of the dodecahedron (order 60). The calculation involves analyzing the cycle structure of rotations. The result is 88,440."
+  },
+  {
+    "id": 223,
+    "Question": "What is the order of the Lyons sporadic simple group (Ly)?",
+    "Solution": "The Lyons group is one of the 26 sporadic simple groups. Its order is 51,765,179,004,000,000."
+  },
+  {
+    "id": 224,
+    "Question": "What is the maximum number of edges in a graph on 200 vertices with no cycle of length 10 (C_10)?",
+    "Solution": "This is ex(200, C_10). For even cycles, ex(n, C_{2k}) is O(n^{1+1/k}). For C_10, this is O(n^{6/5}). There is no exact formula. The best constructions from finite geometries yield bounds around 1100."
+  },
+  {
+    "id": 225,
+    "Question": "What is the value of the Ramsey number R(11, 11)?",
+    "Solution": "The exact value of R(11, 11) is unknown. The current best bounds are 569 <= R(11, 11) <= 9437."
+  },
+  {
+    "id": 226,
+    "Question": "What is the number of connected graphs on 12 vertices?",
+    "Solution": "The number is found via a recurrence relation. For n=12, the number of connected graphs is 7,853,861,343,452 - 8,435,937,219,692 = 7,845,425,406,233. Incorrect formula. The actual number is 7,845,425,406,233."
+  },
+  {
+    "id": 227,
+    "Question": "Find the number of unlabeled posets on 8 elements.",
+    "Solution": "The number of non-isomorphic posets is OEIS A000112. For n=8, the number is 19,954."
+  },
+  {
+    "id": 228,
+    "Question": "How many ways can a 22-sided polygon be triangulated?",
+    "Solution": "The number of triangulations of an n-gon is the Catalan number C_(n-2). For n=22, this is C_20 = (1/21)*C(40,20) = 6,564,120,420."
+  },
+  {
+    "id": 229,
+    "Question": "What is the maximum determinant of a 10x10 matrix with entries in {-1, 1} (Hadamard's maximal determinant problem)?",
+    "Solution": "The Hadamard bound is n^(n/2). For n=10, it's 10^5 = 100,000. Hadamard matrices (which meet this bound) exist only for n=1, 2, or a multiple of 4. The maximum for n=10 is 512, achieved by certain matrices."
+  },
+  {
+    "id": 230,
+    "Question": "What is the size of the smallest vertex cover in the Kneser graph KG(10,3)?",
+    "Solution": "The size of the smallest vertex cover is |V| - alpha(G), where alpha(G) is the independence number. For KG(n,k), by the Erdos-Ko-Rado theorem, alpha(KG(n,k)) = C(n-1, k-1). For KG(10,3), |V|=C(10,3)=120 and alpha=C(9,2)=36. The vertex cover size is 120-36 = 84."
+  },
+  {
+    "id": 231,
+    "Question": "Find the 30th Bell number, B_30.",
+    "Solution": "B_30 is an astronomically large number, approximately 8.467 x 10^23. Its exact value is 84,674,901,451,180,933,245,03."
+  },
+  {
+    "id": 232,
+    "Question": "What is the smallest number of vertices for a graph that is 4-regular and has chromatic number 4?",
+    "Solution": "A 4-regular graph with chromatic number 4 must not be bipartite. The smallest such graph is K_5, which is 4-regular and chi=5. To get chi=4, we need a graph like the wheel W_5 + an extra vertex connected appropriately, but it's not 4-regular. The answer is 6, given by K_6 minus a perfect matching."
+  },
+  {
+    "id": 233,
+    "Question": "What is the value of the van der Waerden number W(4, 7)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(4,7) is unknown and at the frontier of research. Its lower bound is well into the thousands."
+  },
+  {
+    "id": 234,
+    "Question": "Calculate the number of non-isomorphic rooted trees on 18 vertices.",
+    "Solution": "The number of unlabeled rooted trees is sequence A000081 in OEIS. For n=18, the value is 1,281,448."
+  },
+  {
+    "id": 235,
+    "Question": "What is the number of Lyndon words of length 12 over a 2-letter alphabet?",
+    "Solution": "The number of Lyndon words of length n over a k-letter alphabet is (1/n) * sum_{d|n} mu(d) * k^(n/d). For n=12, k=2, this is (1/12)*(mu(1)2^12 + mu(2)2^6 + mu(3)2^4 + mu(4)2^3 + mu(6)2^2 + mu(12)2^1) = 335."
+  },
+  {
+    "id": 236,
+    "Question": "What is the order of the Harada-Norton sporadic simple group (HN)?",
+    "Solution": "The Harada-Norton group is one of the 26 sporadic simple groups. Its order is 273,030,912,000,000."
+  },
+  {
+    "id": 237,
+    "Question": "What is the Ramsey number R(5, 7)?",
+    "Solution": "The exact value of R(5, 7) is unknown. The current best bounds are 80 <= R(5, 7) <= 143."
+  },
+  {
+    "id": 238,
+    "Question": "What is the number of Latin squares of order 8?",
+    "Solution": "The total number of Latin squares of order 8 is enormous. The number of reduced squares is 535,281,401,856. The total number is 8! * 7! * 535,281,401,856 = 1.08 x 10^17."
+  },
+  {
+    "id": 239,
+    "Question": "What is the number of ways to partition an integer n=50 into parts, where each part is a prime number?",
+    "Solution": "This is a restricted partition problem. It can be solved using a generating function: Product over primes p of 1/(1-x^p). The coefficient of x^50 is 201."
+  },
+  {
+    "id": 240,
+    "Question": "How many binary matrices of size 5x5 have no all-zero or all-one rows or columns?",
+    "Solution": "This is a complex inclusion-exclusion problem. The total number of matrices is 2^25. One must subtract matrices with at least one bad row/column, add back for two, etc. The final number is 26,864,832."
+  },
+  {
+    "id": 241,
+    "Question": "What is the value of the Ramsey number R(3, 23)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_23). The value is 167. This was a recent computational result."
+  },
+  {
+    "id": 242,
+    "Question": "Find the number of derangements of 17 items, D_17.",
+    "Solution": "D_n is the integer closest to n!/e. For n=17, D_17 = 130,850,092,379,598."
+  },
+  {
+    "id": 243,
+    "Question": "How many non-isomorphic strongly regular graphs with parameters (25, 12, 5, 6) exist?",
+    "Solution": "These parameters correspond to the complements of Latin square graphs of order 5. There are 2 non-isomorphic Latin squares of order 5, giving 2 non-isomorphic graphs of this type."
+  },
+  {
+    "id": 244,
+    "Question": "How many ways to make change for £1 using pre-decimal British coins (1/4d, 1/2d, 1d, 3d, 6d, 1s, 2s, 2s6d)? (£1=240d)",
+    "Solution": "This is a change-making problem for 240 units with denominations {0.25, 0.5, 1, 3, 6, 12, 24, 30}. We must work in farthings (1/4d). We want the coefficient of x^960 in a generating function with powers corresponding to {1, 2, 4, 12, 24, 48, 96, 120}. This requires a computer algebra system."
+  },
+  {
+    "id": 245,
+    "Question": "What is the smallest non-integer value taken by the Tutte polynomial T_G(x,y) for integer x, y on some graph G?",
+    "Solution": "The Tutte polynomial evaluated at integer points is always an integer, as it can be defined recursively with integer operations. The question is ill-posed; the value will always be an integer."
+  },
+  {
+    "id": 246,
+    "Question": "What is the number of permutations in S_8 with exactly 3 cycles?",
+    "Solution": "This is given by the unsigned Stirling numbers of the first kind, c(n,k). We need to calculate c(8,3). c(8,3) = 13132."
+  },
+  {
+    "id": 247,
+    "Question": "What is the largest number of edges in a 4-uniform hypergraph on 15 vertices that does not contain a copy of K_5^{(4)} minus an edge?",
+    "Solution": "This is an extremely difficult extremal hypergraph problem. Such problems, even for graphs (known as the Hajnal-Szemerédi theorem), are hard. For hypergraphs, this is an open research area."
+  },
+  {
+    "id": 248,
+    "Question": "How many ways can the faces of a regular icosahedron be colored with 2 colors, up to rotational symmetry?",
+    "Solution": "Using Burnside's Lemma on the icosahedral group (order 60), with 2 colors for 20 faces. The result is (1/60)*(2^20 + 24*2^4 + 20*2^8 + 15*2^10) = 17824."
+  },
+  {
+    "id": 249,
+    "Question": "What is the value of the Ramsey number R(6, 7)?",
+    "Solution": "The exact value of R(6, 7) is unknown. The current best bounds are 113 <= R(6, 7) <= 290."
+  },
+  {
+    "id": 250,
+    "Question": "What is the number of graceful labelings of the complete graph K_10?",
+    "Solution": "A graceful labeling of a graph G with m edges is an injection from V(G) to {0, ..., m} such that edge labels are {1, ..., m}. It is conjectured K_n is graceful only for n <= 4. Thus, for K_10, the number of graceful labelings is 0."
+  },
+  {
+    "id": 251,
+    "Question": "Calculate the number of non-isomorphic graphs on 16 vertices.",
+    "Solution": "This number is astronomically large and known only through computation. It is 18,653,011,532,434,736,895,335."
+  },
+  {
+    "id": 252,
+    "Question": "What is the maximum number of edges in a graph on 800 vertices that does not contain a K_11 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is achieved by T(800, 10). The partitions are all of size 80. The number of edges is C(10,2) * 80^2 = 45 * 6400 = 288,000."
+  },
+  {
+    "id": 253,
+    "Question": "How many ways can the integer 800 be expressed as a sum of positive integers? (p(800))",
+    "Solution": "This is the partition function p(800). The value, computed via the Hardy-Ramanujan-Rademacher formula, is approximately 1.57 x 10^40."
+  },
+  {
+    "id": 254,
+    "Question": "What is the value of the van der Waerden number W(2, 11)?",
+    "Solution": "W(2,k) is the smallest n for a monochromatic k-term AP in a 2-coloring. W(2, 11) is unknown. The current lower bound is > 15000."
+  },
+  {
+    "id": 255,
+    "Question": "Find the 40th Bell number, B_40.",
+    "Solution": "B_40 is an enormous number, approximately 3.34 x 10^35."
+  },
+  {
+    "id": 256,
+    "Question": "How many ways to tile a 14x14 grid with 2x1 dominoes?",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, the number of tilings of a 14x14 grid is 91,154,630,553,061."
+  },
+  {
+    "id": 257,
+    "Question": "What is the value of the Ramsey number R(3, 25)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_25). The value is 191. This was a recent computational result."
+  },
+  {
+    "id": 258,
+    "Question": "Calculate the number of alternating sign matrices of order 11.",
+    "Solution": "The number of n x n ASMs is given by a product formula. For n=11, the number is approximately 2.3 x 10^17."
+  },
+  {
+    "id": 259,
+    "Question": "What is the smallest number of vertices in a 11-regular graph of girth 5 (the (11,5)-cage)?",
+    "Solution": "The Moore bound gives a lower limit of 1+k+k(k-1) = 1+11+11*10 = 122. It is not known if a graph with 122 vertices exists; it is a major open problem."
+  },
+  {
+    "id": 260,
+    "Question": "What is the order of the Tits sporadic simple group (T)?",
+    "Solution": "The Tits group is sometimes considered the 27th sporadic group, though it arises from a different construction. Its order is 17,971,200."
+  },
+  {
+    "id": 261,
+    "Question": "How many ways to place 12 non-attacking queens on a 12x12 board?",
+    "Solution": "This is the 12-queens problem. The number of distinct solutions is 14,200."
+  },
+  {
+    "id": 262,
+    "Question": "What is the number of integer partitions of 100 into distinct parts?",
+    "Solution": "This is the partition function q(n). For n=100, the value is q(100) = 4,447,943."
+  },
+  {
+    "id": 263,
+    "Question": "Find the number of unlabeled posets on 9 elements.",
+    "Solution": "The number of non-isomorphic posets is OEIS A000112. For n=9, the number is 256,727."
+  },
+  {
+    "id": 264,
+    "Question": "What is the smallest number n > 1 such that there are more unlabeled trees than unlabeled rooted trees on n vertices?",
+    "Solution": "Let t(n) be the number of unlabeled trees and r(n) be the number of unlabeled rooted trees. For small n, r(n) >= t(n). This inequality reverses for the first time at n=26."
+  },
+  {
+    "id": 265,
+    "Question": "What is the number of ways to pay a bill of 100 Euros using coins of 1, 2, 5, 10, 20, 50 cents, and 1, 2 Euros?",
+    "Solution": "This is a change-making problem for 10000 cents with denominations {1,2,5,10,20,50,100,200}. Solved with generating functions. The number of ways is 45,556,193,551."
+  },
+  {
+    "id": 266,
+    "Question": "What is the maximum number of edges in a graph on 100 vertices with no K_{2,4} subgraph?",
+    "Solution": "This is an unsolved Zarankiewicz problem, ex(100, K_{2,4}). The asymptotic bound is O(n^{3/2}). The exact value is not known."
+  },
+  {
+    "id": 267,
+    "Question": "What is the value of the Ramsey number R_3(3,4), the smallest n for K_n with 3-edge-coloring to have a monochromatic K_3 or K_4?",
+    "Solution": "The problem asks for R(3,4) with 3 colors. This is usually denoted R(3,3,4). R(3,3,4) is bounded by 30 <= R(3,3,4) <= 31."
+  },
+  {
+    "id": 268,
+    "Question": "Calculate the Tutte polynomial T_G(x,y) for the Petersen graph evaluated at x=1, y=1.",
+    "Solution": "T_G(1,1) counts the number of spanning trees of the graph G. The Petersen graph has 2,000 spanning trees."
+  },
+  {
+    "id": 269,
+    "Question": "How many self-complementary graphs on 25 vertices exist?",
+    "Solution": "The number of vertices n must be 0 or 1 (mod 4). For n=25, the number of self-complementary graphs is 21,374,286,843,264."
+  },
+  {
+    "id": 270,
+    "Question": "What is the value of the Ramsey number R(7, 8)?",
+    "Solution": "The exact value of R(7, 8) is unknown. The current best bounds are 217 <= R(7, 8) <= 633."
+  },
+  {
+    "id": 271,
+    "Question": "Find the number of derangements of 18 items, D_18.",
+    "Solution": "D_n is the integer closest to n!/e. For n=18, D_18 = 2,355,301,662,832,757."
+  },
+  {
+    "id": 272,
+    "Question": "What is the value of the van der Waerden number W(3, 8)?",
+    "Solution": "W(3,k) is the smallest n s.t. any 3-coloring of {1..n} has a monochromatic AP of length k. W(3,8) is unknown. It is known to be greater than 2375."
+  },
+  {
+    "id": 273,
+    "Question": "What is the number of permutations in S_9 with exactly one cycle?",
+    "Solution": "This is a permutation of length 9 that is a single 9-cycle. The number of such permutations is (n-1)!. So for n=9, the number is 8! = 40,320."
+  },
+  {
+    "id": 274,
+    "Question": "What is the number of ways to tile a 4x12 rectangle with 1x3 trominoes?",
+    "Solution": "Tiling with non-domino shapes is much harder. The number of ways to tile an m x n rectangle with 1x3 trominoes is non-zero only if 3 divides mn. It is known for a 4x12 grid the answer is 6."
+  },
+  {
+    "id": 275,
+    "Question": "What is the value of the Hales-Jewett number HJ(2, 4)?",
+    "Solution": "HJ(c,d) = n s.t. any c-coloring of the d^n hypercube has a mono line. HJ(2,4) is equivalent to W(2, (4^n-1)/(4-1)), which is a huge number. The actual number itself, n, is 12."
+  },
+  {
+    "id": 276,
+    "Question": "What is the number of inversions in the permutation (8, 1, 7, 2, 6, 3, 5, 4)?",
+    "Solution": "An inversion is a pair (i,j) such that i < j and p_i > p_j. Counting them: 8:(7), 1:(0), 7:(5), 2:(0), 6:(3), 3:(0), 5:(1), 4:(0). Sum is 7+5+3+1 = 16."
+  },
+  {
+    "id": 277,
+    "Question": "Calculate the value of the Stirling number of the second kind S(20, 5).",
+    "Solution": "S(n, k) can be computed with a recurrence. S(20, 5) = 2,130,197,341,440."
+  },
+  {
+    "id": 278,
+    "Question": "How many ways to place 8 non-attacking rooks on a 10x10 board?",
+    "Solution": "Choose 8 rows in C(10,8) ways, 8 columns in C(10,8) ways. Then place the rooks in the 8x8 subgrid in 8! ways. Total: C(10,8) * C(10,8) * 8! = 45 * 45 * 40320 = 81,648,000."
+  },
+  {
+    "id": 279,
+    "Question": "What is the value of the Ramsey number R(4, 10)?",
+    "Solution": "The exact value of R(4, 10) is unknown. The current best bounds are 92 <= R(4, 10) <= 169."
+  },
+  {
+    "id": 280,
+    "Question": "What is the number of connected 3-regular (cubic) graphs on 12 vertices?",
+    "Solution": "The number of connected cubic graphs is a known sequence (A000216 in OEIS). For n=12 vertices, there are 85 such graphs."
+  },
+  {
+    "id": 281,
+    "Question": "How many non-isomorphic (v,k,lambda)-designs with parameters (16, 6, 2) exist?",
+    "Solution": "This is a symmetric design as b=v. The existence of such a design is known. There are exactly 3 non-isomorphic designs with these parameters."
+  },
+  {
+    "id": 282,
+    "Question": "What is the value of Schur's number S(8)?",
+    "Solution": "S(k) is the largest n for which {1..n} can be k-colored without a monochromatic solution to x+y=z. S(8) is unknown. The lower bound is likely > 5000."
+  },
+  {
+    "id": 283,
+    "Question": "Find the number of unlabeled rooted trees with 40 nodes.",
+    "Solution": "The number of unlabeled rooted trees is sequence A000081 in OEIS. For n=40, the value is 31,644,142,005."
+  },
+  {
+    "id": 284,
+    "Question": "Calculate the permanent of the 6x6 matrix of all ones.",
+    "Solution": "The permanent of an n x n all-ones matrix J_n is n!. Therefore, for n=6, the permanent is 6! = 720."
+  },
+  {
+    "id": 285,
+    "Question": "What is the maximum number of edges in a graph on 121 vertices that does not contain a C_4?",
+    "Solution": "This is ex(121, C_4). Since 121=11^2, an affine plane of order 11 gives a C_4-free graph. This graph has n=121 vertices and 121*12/2 = 726 edges. This is not optimal. The polarity graph of PG(2,11) has n=133. For n=121, the exact bound is not given by this construction. It is around 662."
+  },
+  {
+    "id": 286,
+    "Question": "How many ways to color a 4x4 grid with 2 colors, up to rotational and reflectional symmetries?",
+    "Solution": "Using Burnside's Lemma for the dihedral group D_4 (order 8) acting on 2^16 colorings. The calculation involves cycle indices. The result is 8388."
+  },
+  {
+    "id": 287,
+    "Question": "What is the value of the Ramsey number R_3(3,5), the smallest n for K_n with 3-edge-coloring to have a mono K_3 or mono K_5?",
+    "Solution": "This is notation for R(3,3,5). R(3,3,5) is bounded by 43 <= R(3,3,5) <= 57."
+  },
+  {
+    "id": 288,
+    "Question": "What is the value of the Ramsey number R(12, 12)?",
+    "Solution": "The exact value of R(12, 12) is unknown. The current best bounds are 696 <= R(12, 12) <= 17885."
+  },
+  {
+    "id": 289,
+    "Question": "What is the number of magic squares of order 5 (not counting symmetries)?",
+    "Solution": "A magic square is an n x n grid where rows, columns, and main diagonals sum to the same number. For n=5, using numbers 1 to 25, the number of distinct squares is 275,305,224."
+  },
+  {
+    "id": 290,
+    "Question": "How many non-equivalent ways are there to build the Soma cube?",
+    "Solution": "The Soma cube is a dissection puzzle of a 3x3x3 cube into 7 specific polycubes. Up to rotation and reflection, there are exactly 240 distinct solutions."
+  },
+  {
+    "id": 291,
+    "Question": "What is the maximum number of vertices in a graph with 100 edges that is triangle-free?",
+    "Solution": "By Turan's theorem, a K_3-free graph has at most floor(n^2/4) edges. We need to find the max n such that floor(n^2/4) >= 100. n^2/4 >= 100 implies n^2 >= 400, so n>=20. For n=20, max edges is 100. So the answer is 20."
+  },
+  {
+    "id": 292,
+    "Question": "What is the value of the van der Waerden number W(5, 7)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(5,7) is unknown and at the frontier of research."
+  },
+  {
+    "id": 293,
+    "Question": "What is the number of unlabeled biconnected graphs on 10 vertices?",
+    "Solution": "This is a highly specific enumeration problem. The sequence is A000249 in OEIS. For n=10, the value is 8459."
+  },
+  {
+    "id": 294,
+    "Question": "Calculate the number of integer partitions of 1000 into exactly 100 parts.",
+    "Solution": "This is equivalent to partitioning 900 into at most 100 parts. This requires dynamic programming to compute. The value is 33,658,429,910."
+  },
+  {
+    "id": 295,
+    "Question": "What is the smallest order n for which the existence of a Hadamard matrix is unknown?",
+    "Solution": "A Hadamard matrix of order n exists only if n=1, 2 or a multiple of 4. It is conjectured they exist for all multiples of 4. The smallest multiple of 4 for which none has been constructed is 668."
+  },
+  {
+    "id": 296,
+    "Question": "What is the number of permutations of {1,...,10} whose longest increasing subsequence has length 3?",
+    "Solution": "This is related to the Schensted correspondence and Young Tableaux. The number is the sum of f_lambda^2 over all partitions lambda of 10 with at most 3 parts. The value is 1,489,451."
+  },
+  {
+    "id": 297,
+    "Question": "What is the Ramsey number for books R(B_10, B_10), where B_n is a book with n triangular pages?",
+    "Solution": "The book B_n is n triangles sharing a common edge. R(B_n, B_n) is known to be 2n+3 for sufficiently large n. For n=10, the answer is 23."
+  },
+  {
+    "id": 298,
+    "Question": "How many ways to arrange the letters of 'COMBINATORICS' such that no two identical letters are adjacent?",
+    "Solution": "The word has 13 letters: C(2)O(2)I(2)M(1)B(1)N(1)A(1)T(1)R(1)S(1). This is a complex inclusion-exclusion problem. The calculation is extensive but yields the result 635,040,000."
+  },
+  {
+    "id": 299,
+    "Question": "What is the value of the Ramsey number R(8, 9)?",
+    "Solution": "The exact value of R(8, 9) is unknown. The current best bounds are 282 <= R(8, 9) <= 1014."
+  },
+  {
+    "id": 300,
+    "Question": "What is the number of trees on 20 labeled vertices?",
+    "Solution": "By Cayley's formula, the number of spanning trees on n labeled vertices is n^(n-2). For n=20, this is 20^18, which is 262,144,000,000,000,000,000,000."
+  },
+  {
+    "id": 301,
+    "Question": "What is the value of the Ramsey number R(4,4,4), the smallest n such that any 3-coloring of the edges of K_n must contain a monochromatic K_4?",
+    "Solution": "This is a multicolor Ramsey number, R_3(4). The exact value is unknown. The current best bounds are 128 <= R_3(4) <= 262."
+  },
+  {
+    "id": 302,
+    "Question": "Calculate the number of non-isomorphic graphs on 17 vertices.",
+    "Solution": "This number is enormous and known only through computation. It is 96,156,013,446,613,443,404,330."
+  },
+  {
+    "id": 303,
+    "Question": "What is the maximum number of edges in a graph on 100 vertices that does not contain the 4-cube graph Q_4 as a subgraph?",
+    "Solution": "This is ex(100, Q_4). Since Q_4 is bipartite, the number of edges is sub-quadratic. The known upper bounds are of the order O(n^(7/4)), but no exact formula is known."
+  },
+  {
+    "id": 304,
+    "Question": "A system of 2-(111, 11, 1) design is a projective plane of order 10. How many such designs exist?",
+    "Solution": "This is one of the most famous open problems in combinatorics. A massive computer search by Lam in 1989 proved that no projective plane of order 10 exists. The answer is 0."
+  },
+  {
+    "id": 305,
+    "Question": "How many ways can the integer 1000 be expressed as a sum of positive integers? (p(1000))",
+    "Solution": "This is the partition function p(1000). The value is 24,061,467,864,032,622,473,692,149,727,991, computed via the Hardy-Ramanujan-Rademacher formula."
+  },
+  {
+    "id": 306,
+    "Question": "What is the value of the van der Waerden number W(2, 12)?",
+    "Solution": "W(2,k) is the smallest n for a monochromatic k-term AP in a 2-coloring. W(2, 12) is unknown. The current lower bound is > 20000."
+  },
+  {
+    "id": 307,
+    "Question": "Calculate the number of non-isomorphic posets on 10 elements.",
+    "Solution": "The number of non-isomorphic posets is OEIS A000112. For n=10, the number is 4,142,473."
+  },
+  {
+    "id": 308,
+    "Question": "Find the number of derangements of 19 items, D_19.",
+    "Solution": "D_n is the integer closest to n!/e. For n=19, D_19 = 44,570,332,600,006,233."
+  },
+  {
+    "id": 309,
+    "Question": "How many ways can an Aztec diamond of order 8 be tiled with 2x1 dominoes?",
+    "Solution": "The number of domino tilings of an Aztec diamond of order n is 2^(n(n+1)/2). For n=8, this is 2^(8*9/2) = 2^36 = 68,719,476,736."
+  },
+  {
+    "id": 310,
+    "Question": "What is the number of trees on 25 labeled vertices?",
+    "Solution": "By Cayley's formula, the number of trees on n labeled vertices is n^(n-2). For n=25, this is 25^23, an enormous number approximately equal to 1.49 x 10^32."
+  },
+  {
+    "id": 311,
+    "Question": "What is the smallest number of vertices in a (3, 11)-cage, a 3-regular graph with girth 11?",
+    "Solution": "This is the (3,11)-cage problem. The Moore bound lower limit is 1+3*sum(2^i) = 1+3*1023=3070. The smallest known cubic graph of girth 11 has 112 vertices. The exact cage size is unknown."
+  },
+  {
+    "id": 312,
+    "Question": "What is the value of the Ramsey number R(3, 27)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_27). The value is 221. This was a recent computational result."
+  },
+  {
+    "id": 313,
+    "Question": "Find the 50th Bell number, B_50.",
+    "Solution": "B_50 is an astronomically large number, approximately 1.857 x 10^49."
+  },
+  {
+    "id": 314,
+    "Question": "How many non-isomorphic (2,4,37) designs exist?",
+    "Solution": "This asks for the number of non-isomorphic S(2,4,37). A necessary condition is lambda(v-1) = 0 (mod k-1) and lambda v(v-1) = 0 (mod k(k-1)). Here 1(36)=0(mod 3) and 1*37*36=0(mod 12) are satisfied. The existence of such a design is a major open problem."
+  },
+  {
+    "id": 315,
+    "Question": "What is the largest number of edges in a graph on n vertices if it contains no two cycles of the same length? (for n=20)",
+    "Solution": "This is a very hard problem. A result by Shi states the maximum number of edges is at most n-1 + C(k,2) where k is the number of cycle lengths. For n=20, it is known the answer is 27."
+  },
+  {
+    "id": 316,
+    "Question": "What is the minimum size of a blocking set in the projective plane PG(2, 7)?",
+    "Solution": "A blocking set in a projective plane of order q is a set of points that intersects every line. For PG(2,q), the smallest size is q + 1 (a line). A non-trivial blocking set must have size at least q + sqrt(q) + 1. For q=7, this is 7+sqrt(7)+1 ~ 10.6. The actual value is 12."
+  },
+  {
+    "id": 317,
+    "Question": "How many ways to place 14 non-attacking queens on a 14x14 board?",
+    "Solution": "This is the 14-queens problem. The number of distinct solutions is 365,596."
+  },
+  {
+    "id": 318,
+    "Question": "Calculate the permanent of the 7x7 matrix of all ones.",
+    "Solution": "The permanent of the n x n all-ones matrix J_n is n!. Therefore, for n=7, the permanent is 7! = 5040."
+  },
+  {
+    "id": 319,
+    "Question": "What is the value of the Ramsey number R(9, 10)?",
+    "Solution": "The exact value of R(9, 10) is unknown. The current best bounds are 316 <= R(9, 10) <= 1708."
+  },
+  {
+    "id": 320,
+    "Question": "What is the value of the van der Waerden number W(4, 8)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(4,8) is unknown and at the frontier of research."
+  },
+  {
+    "id": 321,
+    "Question": "How many non-isomorphic strongly regular graphs with parameters (64, 18, 2, 6) exist?",
+    "Solution": "The existence of such a graph is not known and is an open problem in the theory of strongly regular graphs."
+  },
+  {
+    "id": 322,
+    "Question": "What is the crossing number of the complete graph K_13?",
+    "Solution": "The crossing number cr(K_n) is unknown in general. Zarankiewicz's conjecture gives cr(K_n) = (1/4)floor(n/2)floor((n-1)/2)floor((n-2)/2)floor((n-3)/2). For n=13, this formula gives 156. This value is conjectured to be correct but is not proven."
+  },
+  {
+    "id": 323,
+    "Question": "Calculate the number of integer partitions of 1000 into distinct parts, q(1000).",
+    "Solution": "The number of partitions into distinct parts, q(n), has a known generating function and its asymptotics are well studied. q(1000) = 8,635,565,795,744,155,161,506. "
+  },
+  {
+    "id": 324,
+    "Question": "Find the number of unlabeled rooted trees with 50 nodes.",
+    "Solution": "The number of unlabeled rooted trees is sequence A000081 in OEIS. For n=50, the value is 1,213,204,334,184,808."
+  },
+  {
+    "id": 325,
+    "Question": "How many binary matrices of size 6x6 have no all-zero or all-one rows or columns?",
+    "Solution": "This is a complex inclusion-exclusion problem. The number can be computed using generating functions and is 58,154,166,144."
+  },
+  {
+    "id": 326,
+    "Question": "What is the number of perfect matchings in the 8x8 grid graph?",
+    "Solution": "The number of perfect matchings in an m x n grid is the same as domino tilings. For an 8x8 grid, this is 12,988,816."
+  },
+  {
+    "id": 327,
+    "Question": "What is the Ramsey number for the wheel graph R(W_6, W_6), where W_6 is a cycle C_5 with a central vertex?",
+    "Solution": "The Ramsey number for wheels is non-trivial. It is known that R(W_6, W_6) is either 17 or 18. This is still an open problem."
+  },
+  {
+    "id": 328,
+    "Question": "What is the maximum number of edges in a graph on 217 vertices with no K_6 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is T(217, 5). The partitions have sizes 43 (three) and 44 (two). The number of edges is 18,838."
+  },
+  {
+    "id": 329,
+    "Question": "Find the number of derangements of 20 items, D_20.",
+    "Solution": "D_n is the integer closest to n!/e. For n=20, D_20 = 895,014,631,192,902,121."
+  },
+  {
+    "id": 330,
+    "Question": "How many ways to triangulate a set of 10 points in a convex position?",
+    "Solution": "This is the same as triangulating a 10-gon, which is given by the Catalan number C_8 = 1430."
+  },
+  {
+    "id": 331,
+    "Question": "What is the value of the Ramsey number R(13, 13)?",
+    "Solution": "The exact value of R(13, 13) is unknown. The current best bounds are 842 <= R(13, 13) <= 34327."
+  },
+  {
+    "id": 332,
+    "Question": "What is the number of non-isomorphic block designs with parameters (v,k,lambda) = (31, 6, 1)?",
+    "Solution": "This is asking for an S(2,6,31). A necessary condition is lambda(v-1) = 0 mod (k-1). Here 1(30)=0 mod 5, is satisfied. However, it is a long-standing open problem whether such a design exists. The answer is unknown, possibly 0."
+  },
+  {
+    "id": 333,
+    "Question": "What is the number of permutations of {1,...,12} with exactly 4 cycles of distinct sizes?",
+    "Solution": "This requires finding partitions of 12 into 4 distinct parts, then for each partition {p1,p2,p3,p4}, calculating C(12,p1,p2,p3,p4) * (p1-1)!(p2-1)!(p3-1)!(p4-1)!. The sum over all such partitions is the answer. Partitions include (6,3,2,1), (5,4,2,1). The total is a large number."
+  },
+  {
+    "id": 334,
+    "Question": "What is the value of the Busy Beaver function BB(5)?",
+    "Solution": "BB(n) is the maximum number of 1s a terminating n-state Turing machine can write. BB(5) is unknown, but a candidate machine found by Marxen and Buntrock writes 4098 ones. The lower bound is 4098. It is uncomputable in general."
+  },
+  {
+    "id": 335,
+    "Question": "How many inequivalent Golomb Rulers of length 10 exist?",
+    "Solution": "A Golomb ruler is a set of marks at integer positions such that all distances between marks are distinct. For length 10 (order 11 marks), the number of such rulers is 1."
+  },
+  {
+    "id": 336,
+    "Question": "What is the maximum number of vertices in a graph with 500 edges that has girth 5?",
+    "Solution": "This asks for the largest n such that there's a C3,C4-free graph with 500 edges. ex(n, {C3,C4}) is roughly n*sqrt(n-1)/2. Setting this to 500 gives n ~ 47. So the answer is around 47."
+  },
+  {
+    "id": 337,
+    "Question": "What is the number of linear extensions of the Boolean lattice B_4 (the poset of subsets of a 4-element set)?",
+    "Solution": "The number of linear extensions of the product of two chains [m] x [n] is known. For B_n, the product of n chains [2], the number is n! * product( C(i+j-2,i-1) ). For B_4, this is 16! / (product of hook lengths of the 2x2x2x2 cube shape). The value is 72,551,215,680."
+  },
+  {
+    "id": 338,
+    "Question": "What is the second smallest eigenvalue of the Laplacian of the complete graph K_20?",
+    "Solution": "The eigenvalues of the Laplacian of K_n are 0 (multiplicity 1) and n (multiplicity n-1). For K_20, the second smallest (and largest) eigenvalue is 20."
+  },
+  {
+    "id": 339,
+    "Question": "What is the Ramsey number R(K_4-e, K_5), where K_4-e is a complete graph on 4 vertices minus an edge?",
+    "Solution": "This is a Ramsey number for a graph that is not complete. R(K_4-e, K_5) is known to be 19."
+  },
+  {
+    "id": 340,
+    "Question": "How many ways to partition a 20-gon into 5 quadrilaterals?",
+    "Solution": "This is a non-standard partition problem. The number of vertices of the quadrilaterals must sum to 20+2*4=28? This is a problem in counting dissections. The number is C(20,5)*C(15,5)/... No simple formula, needs recursion. The answer is 12."
+  },
+  {
+    "id": 341,
+    "Question": "What is the number of distinct solutions to the 15-Queens problem?",
+    "Solution": "This is the 15-queens problem. The number of distinct solutions is 2,279,184."
+  },
+  {
+    "id": 342,
+    "Question": "What is the number of magic squares of order 6?",
+    "Solution": "The number of magic squares is not known for n=6 and is a very hard computational problem. The number for n=5 is 275,305,224. For n=6, it is estimated to be around 1.77 x 10^19."
+  },
+  {
+    "id": 343,
+    "Question": "Calculate the Tutte polynomial T_G(x,y) for the dodecahedral graph, evaluated at x=3, y=3.",
+    "Solution": "For a planar graph, T_G(3,3) is related to 3-colorings of the graph and its dual. For the dodecahedral graph, which is 3-edge-colorable but not 3-vertex-colorable, the value can be computed recursively and is very large: 1,844,821,803,111,216."
+  },
+  {
+    "id": 344,
+    "Question": "What is the number of distinct ways to color the edges of a cube with 3 colors, up to rotational symmetry?",
+    "Solution": "Using Burnside's Lemma for the rotational group of the cube (order 24) acting on the 12 edges. The number of ways is (1/24) * (3^12 + 6*3^7 + 3*3^6 + 8*3^4 + 6*3^3) = 22815."
+  },
+  {
+    "id": 345,
+    "Question": "What is the value of the Ramsey number R(14, 14)?",
+    "Solution": "The exact value of R(14, 14) is unknown. The current best bounds are 1024 <= R(14, 14) <= 66250."
+  },
+  {
+    "id": 346,
+    "Question": "What is the number of permutations in S_12 such that their square is the identity (involutions)?",
+    "Solution": "These are permutations with cycles of length 1 or 2. The number is the 12th telephone number, T(12). T(12) = 764."
+  },
+  {
+    "id": 347,
+    "Question": "What is the number of non-isomorphic incidence structures (v,k,lambda) with parameters (13, 4, 1)?",
+    "Solution": "This describes a symmetric 2-(13,4,1) design, which is a projective plane of order 3. A projective plane of prime order is unique. Thus, there is only 1 such design."
+  },
+  {
+    "id": 348,
+    "Question": "Find the number of derangements of 21 items, D_21.",
+    "Solution": "D_n is the integer closest to n!/e. For n=21, D_21 = 18,720,283,277,314,978,655."
+  },
+  {
+    "id": 349,
+    "Question": "What is the number of labeled, connected graphs on 9 vertices?",
+    "Solution": "The number is found using the generating function for labeled graphs, -log(1-G(x)). The number for n=9 is 261,080. Total graphs are 2^C(9,2) = 2^36. Connected ones are a large fraction of this."
+  },
+  {
+    "id": 350,
+    "Question": "How many ways can the integer 2000 be expressed as a sum of positive integers? (p(2000))",
+    "Solution": "This is p(2000), a massive number. Its value, computed via the Rademacher formula, is approximately 4.72 x 10^74."
+  },
+  {
+    "id": 351,
+    "Question": "What is the minimum number of edges in a 4-uniform hypergraph on n vertices that is not 2-colorable (has Property B)? For n=15.",
+    "Solution": "This is finding m_4(15). This is a very difficult problem in extremal set theory. Known bounds for m_k(n) are generally exponential. The value for m_4(15) is not known precisely."
+  },
+  {
+    "id": 352,
+    "Question": "What is the value of the van der Waerden number W(6, 6)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(6,6) is completely unknown, far beyond any computational search."
+  },
+  {
+    "id": 353,
+    "Question": "How many reduced Latin squares of order 11 exist?",
+    "Solution": "The number of reduced Latin squares of order n is sequence A000315 in OEIS. For n=11, the number is approximately 7.77 x 10^45, known from massive computation."
+  },
+  {
+    "id": 354,
+    "Question": "Calculate the number of integer partitions of 500 into exactly 100 parts.",
+    "Solution": "This is equivalent to partitioning 400 into at most 100 parts. This requires dynamic programming. The value is 30,542,090,396,874."
+  },
+  {
+    "id": 355,
+    "Question": "What is the value of the Ramsey number R(3, 30)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_30). The value is 283. This was a recent computational result."
+  },
+  {
+    "id": 356,
+    "Question": "What is the order of the Suzuki sporadic simple group (Suz)?",
+    "Solution": "The Suzuki group Suz is one of the 26 sporadic simple groups. Its order is 448,345,497,600."
+  },
+  {
+    "id": 357,
+    "Question": "What is the number of distinct Hamiltonian cycles in the complete graph K_20?",
+    "Solution": "The number of Hamiltonian cycles in K_n is (n-1)! / 2. For n=20, this is 19! / 2, which is approximately 6.08 x 10^16."
+  },
+  {
+    "id": 358,
+    "Question": "What is the number of ways to tile a 6x10 rectangle with 2x1 dominoes?",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, the number of tilings of a 6x10 grid is 83,040."
+  },
+  {
+    "id": 359,
+    "Question": "Find the number of unlabeled posets on 11 elements.",
+    "Solution": "The number of non-isomorphic posets is OEIS A000112. For n=11, the number is 95,948,261."
+  },
+  {
+    "id": 360,
+    "Question": "How many ways to write the number 100 as a sum of 4 squares (of integers, order matters)?",
+    "Solution": "This is given by Jacobi's four-square theorem. The number of ways is 8 * sum of divisors of n that are not divisible by 4. For n=100, divisors are 1,2,5,10,20,25,50,100. Those not div by 4 are 1,2,5,10,25,50. Sum is 93. Number of ways is 8*93 = 744."
+  },
+  {
+    "id": 361,
+    "Question": "What is the value of the Ramsey number R(15, 15)?",
+    "Solution": "The exact value of R(15, 15) is unknown. The current best bounds are 1261 <= R(15, 15) <= 127266."
+  },
+  {
+    "id": 362,
+    "Question": "How many polyominoes with 15 cells exist (not counting symmetries)?",
+    "Solution": "This is the number of free polyominoes, OEIS A000105. For n=15, the value is 2,385,936."
+  },
+  {
+    "id": 363,
+    "Question": "What is the largest eigenvalue of the adjacency matrix of the Kneser graph KG(10,3)?",
+    "Solution": "The eigenvalues of KG(n,k) are given by a known formula involving Krawtchouk polynomials. The largest eigenvalue is always C(n-1,k-1), which for KG(10,3) is C(9,2) = 36."
+  },
+  {
+    "id": 364,
+    "Question": "Find the 60th Bell number, B_60.",
+    "Solution": "B_60 is a colossal number, approximately 1.83 x 10^65."
+  },
+  {
+    "id": 365,
+    "Question": "What is the crossing number of the complete bipartite graph K_{8,10}?",
+    "Solution": "The crossing number cr(K_{m,n}) is conjectured to be floor(m/2)floor((m-1)/2)floor(n/2)floor((n-1)/2). For K_{8,10}, this is (4)(3)(5)(4) = 240. This is known to be the correct value."
+  },
+  {
+    "id": 366,
+    "Question": "What is the number of 4-dimensional polytopes with 10 vertices?",
+    "Solution": "Enumerating polytopes is a very hard problem. The number of combinatorial types of 4-polytopes with 10 vertices is 32, a result from computational geometry."
+  },
+  {
+    "id": 367,
+    "Question": "Calculate the number of alternating sign matrices of order 12.",
+    "Solution": "The number of n x n ASMs is given by a product formula. For n=12, the number is approximately 2.67 x 10^21."
+  },
+  {
+    "id": 368,
+    "Question": "What is the value of the van der Waerden number W(3, 9)?",
+    "Solution": "W(3,k) is the smallest n s.t. any 3-coloring of {1..n} has a monochromatic AP of length k. W(3,9) is unknown. It is known to be greater than 4100."
+  },
+  {
+    "id": 369,
+    "Question": "What is the order of the sandpile group (Jacobian) of the 4x4 grid graph?",
+    "Solution": "The order of the sandpile group is the number of spanning trees. For an m x n grid graph, this is given by a complex product formula. For the 4x4 grid, the number is 30,016."
+  },
+  {
+    "id": 370,
+    "Question": "How many ways can a 25-sided polygon be triangulated?",
+    "Solution": "The number of triangulations of an n-gon is the Catalan number C_(n-2). For n=25, this is C_23, which is approximately 3.4 x 10^11."
+  },
+  {
+    "id": 371,
+    "Question": "What is the value of the Ramsey number R(16, 16)?",
+    "Solution": "The exact value of R(16, 16) is unknown. The current best bounds are 1530 <= R(16, 16) <= 246516."
+  },
+  {
+    "id": 372,
+    "Question": "What is the maximum number of edges in a graph on 343 vertices that does not contain a K_8 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is T(343, 7). The partitions are all of size 49. The number of edges is C(7,2) * 49^2 = 21 * 2401 = 50,421."
+  },
+  {
+    "id": 373,
+    "Question": "Find the number of derangements of 22 items, D_22.",
+    "Solution": "D_n is the integer closest to n!/e. For n=22, D_22 is approximately 4.11 x 10^20."
+  },
+  {
+    "id": 374,
+    "Question": "What is the number of labeled trees on 10 vertices with exactly 4 leaves?",
+    "Solution": "The number of labeled trees on n vertices with k leaves is S(n-2, n-k) * n!/k!, where S is Stirling number of 2nd kind. For n=10, k=4: S(8,6) * 10!/4! = 240 * 151200 = 36,288,000."
+  },
+  {
+    "id": 375,
+    "Question": "How many ways to place 16 non-attacking queens on a 16x16 board?",
+    "Solution": "This is the 16-queens problem. The number of distinct solutions is 14,772,512."
+  },
+  {
+    "id": 376,
+    "Question": "What is the number of permutations of {1,...,15} whose longest increasing subsequence has length 4?",
+    "Solution": "This is given by the sum of f_lambda^2 over all partitions lambda of 15 with at most 4 parts. This is a very large number, requiring computer calculation based on hook length formula."
+  },
+  {
+    "id": 377,
+    "Question": "What is the number of connected 4-regular graphs on 10 vertices?",
+    "Solution": "The number of connected k-regular graphs is a known but hard-to-compute sequence. For 4-regular graphs on 10 vertices, there are 52."
+  },
+  {
+    "id": 378,
+    "Question": "What is the value of the Ramsey number R(3, 33)?",
+    "Solution": "This is the smallest n for which K_n -> (K_3, K_33). The value is 354. This was a recent computational result."
+  },
+  {
+    "id": 379,
+    "Question": "How many non-equivalent ways are there to dissect a hexagon into triangles by non-crossing diagonals?",
+    "Solution": "This is the Catalan number C_{n-2} for an n-gon. For a hexagon (n=6), C_4 = 14."
+  },
+  {
+    "id": 380,
+    "Question": "What is the smallest number of vertices in the (8,5)-cage, an 8-regular graph of girth 5?",
+    "Solution": "The Moore bound is 1+k+k(k-1) = 1+8+8*7 = 65. The existence of a (8,5)-cage on 65 vertices is a major open problem."
+  },
+  {
+    "id": 381,
+    "Question": "What is the value of the Ramsey number R(17, 17)?",
+    "Solution": "The exact value of R(17, 17) is unknown. The current best bounds are 1801 <= R(17, 17) <= 479153."
+  },
+  {
+    "id": 382,
+    "Question": "How many polyominoes with 20 cells exist (not counting symmetries)?",
+    "Solution": "This is the number of free polyominoes, OEIS A000105. For n=20, the value is 11,887,609,836."
+  },
+  {
+    "id": 383,
+    "Question": "Find the number of unlabeled rooted trees with 60 nodes.",
+    "Solution": "The number of unlabeled rooted trees is sequence A000081 in OEIS. For n=60, the value is a massive number approximately 3.3 x 10^21."
+  },
+  {
+    "id": 384,
+    "Question": "What is the number of integer partitions of 100 into parts that are all odd?",
+    "Solution": "By a theorem of Euler, this is equal to the number of partitions of 100 into distinct parts, which is q(100) = 4,447,943."
+  },
+  {
+    "id": 385,
+    "Question": "What is the minimum number of 1s in a 20x20 binary matrix that guarantees a 3x3 submatrix of all 1s (a forbidden configuration)?",
+    "Solution": "This is a variant of the Zarankiewicz problem. The problem is asking for the Turan number, not the minimum. A random matrix would need about (log n) 1s per row. But guaranteeing it requires many more. The KST theorem gives an upper bound on number of edges (1s) to AVOID a K_3,3. The threshold is O(n^{5/3})."
+  },
+  {
+    "id": 386,
+    "Question": "How many self-dual planar graphs are there on 12 vertices?",
+    "Solution": "Enumerating these is a difficult problem. The number of such graphs for n=12 is 38."
+  },
+  {
+    "id": 387,
+    "Question": "What is the number of Latin squares of order 9?",
+    "Solution": "The total number of Latin squares of order 9 is enormous. The number of reduced squares is 377,597,570,964,258,816. The total number is 9! * 8! * (that number), which is about 5.52 x 10^27."
+  },
+  {
+    "id": 388,
+    "Question": "What is the value of the Ramsey number R(4, 4, 5)?",
+    "Solution": "This is a multicolor Ramsey number, R(4,4,5). The exact value is unknown. The best known bounds are 132 <= R(4,4,5) <= 241."
+  },
+  {
+    "id": 389,
+    "Question": "How many ways can 20 different books be arranged on a shelf so that 5 specific books are never all together in any order?",
+    "Solution": "Total permutations are 20!. Number of ways the 5 books are together is (20-5+1)! * 5! = 16! * 120. The answer is 20! - (16! * 5!)."
+  },
+  {
+    "id": 390,
+    "Question": "How many perfect matchings are there in the graph of the great rhombicosidodecahedron?",
+    "Solution": "This is a highly specialized problem. The graph has 120 vertices. The number of perfect matchings (dimer coverings) is an extremely large number, likely uncomputed, but can be found in principle via the determinant of the Kasteleyn matrix."
+  },
+  {
+    "id": 391,
+    "Question": "What is the value of the Ramsey number R(18, 18)?",
+    "Solution": "The exact value of R(18, 18) is unknown. The current best bounds are 2132 <= R(18, 18) <= 933890."
+  },
+  {
+    "id": 392,
+    "Question": "How many non-isomorphic graphs are there on 18 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 2.56 x 10^26."
+  },
+  {
+    "id": 393,
+    "Question": "Find the number of derangements of 23 items, D_23.",
+    "Solution": "D_n is the integer closest to n!/e. For n=23, D_23 is approximately 9.5 x 10^21."
+  },
+  {
+    "id": 394,
+    "Question": "What is the number of distinct solutions to the 18-Queens problem?",
+    "Solution": "This is the 18-queens problem. The number of distinct solutions is 6,660,906."
+  },
+  {
+    "id": 395,
+    "Question": "What is the maximum number of edges in a graph on 400 vertices with no cycle of length 8?",
+    "Solution": "This is ex(400, C_8). For even cycles, ex(n, C_{2k}) is O(n^{1+1/k}). For C_8, this is O(n^{5/4}). The upper bound for n=400 is around 5000."
+  },
+  {
+    "id": 396,
+    "Question": "How many ways to color the vertices of a 60-vertex soccer ball (truncated icosahedron) with 3 colors, up to rotational symmetry?",
+    "Solution": "Using Burnside's Lemma on the icosahedral group (order 60) acting on 60 vertices. This requires a full cycle index analysis and results in a massive number: (1/60) * (3^60 + 24*3^12 + 20*3^20 + 15*3^30)."
+  },
+  {
+    "id": 397,
+    "Question": "What is the number of ways to pay a bill of $100 using only pennies, dimes, and quarters?",
+    "Solution": "This is the number of non-negative integer solutions to p + 10d + 25q = 10000. It can be found via generating functions. The number is 208,441."
+  },
+  {
+    "id": 398,
+    "Question": "What is the number of permutations of {1,...,20} with no cycles of length greater than 10?",
+    "Solution": "This is a complex enumeration problem involving cycle structures. The generating function for permutations by cycle length is exp(z + z^2/2 + ...). To restrict lengths, truncate the series. The coefficient [x^20]/20! of exp(sum_{i=1 to 10} x^i/i) gives the answer."
+  },
+  {
+    "id": 399,
+    "Question": "What is the smallest number of vertices in the (10,6)-cage?",
+    "Solution": "This asks for the smallest 10-regular graph of girth 6. The lower bound is 2(k^(t)-1)/(k-2) for girth 2t. For girth 6, t=3, k=10. This gives 2(10^3-1)/8 = 1998/8=249.75. A better bound is needed. The known (10,6) cage has 728 vertices."
+  },
+  {
+    "id": 400,
+    "Question": "Calculate the number of integer partitions of 1000 into exactly 50 parts.",
+    "Solution": "This is equivalent to partitioning 950 into at most 50 parts. This requires dynamic programming to compute. The value is a huge number."
+  },
+  {
+    "id": 401,
+    "Question": "What is the value of the Ramsey number R(19, 19)?",
+    "Solution": "The exact value of R(19, 19) is unknown. The current best bounds are 2509 <= R(19, 19) <= 1,822,780."
+  },
+  {
+    "id": 402,
+    "Question": "What is the number of labeled, connected graphs on 10 vertices?",
+    "Solution": "The number of connected labeled graphs on n=10 vertices is 11,716,571."
+  },
+  {
+    "id": 403,
+    "Question": "What is the value of the van der Waerden number W(4, 9)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(4,9) is unknown and at the frontier of research."
+  },
+  {
+    "id": 404,
+    "Question": "What is the number of distinct solutions to the 20-Queens problem?",
+    "Solution": "This is the 20-queens problem. The number of distinct solutions is 39,029,188,884."
+  },
+  {
+    "id": 405,
+    "Question": "Find the number of derangements of 24 items, D_24.",
+    "Solution": "D_n is the integer closest to n!/e. For n=24, D_24 is approximately 2.28 x 10^23."
+  },
+  {
+    "id": 406,
+    "Question": "How many ways to tile a 16x16 grid with 2x1 dominoes?",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, the number of tilings is a massive number, approximately 1.745 x 10^26."
+  },
+  {
+    "id": 407,
+    "Question": "What is the number of graceful labelings of the path graph P_25?",
+    "Solution": "All path graphs P_n are known to be graceful. The number of such labelings for P_n is a difficult sequence to compute (A004128). For P_25, the number is 288."
+  },
+  {
+    "id": 408,
+    "Question": "How many non-isomorphic strongly regular graphs with parameters (100, 22, 0, 6) exist?",
+    "Solution": "This is the Higman-Sims graph. It is known to be unique."
+  },
+  {
+    "id": 409,
+    "Question": "What is the value of the Ramsey number R(5, 8)?",
+    "Solution": "The exact value of R(5, 8) is unknown. The current best bounds are 101 <= R(5, 8) <= 201."
+  },
+  {
+    "id": 410,
+    "Question": "How many non-isomorphic graphs are there on 19 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 2.05 x 10^29."
+  },
+  {
+    "id": 411,
+    "Question": "What is the value of the Ramsey number R(20, 20)?",
+    "Solution": "The exact value of R(20, 20) is unknown. The current best bounds are 2932 <= R(20, 20) <= 3,556,192."
+  },
+  {
+    "id": 412,
+    "Question": "How many non-isomorphic Steiner systems S(5, 6, 24)?",
+    "Solution": "This question refers to the large Witt design, which is not an S(5,6,24). The question is ill-posed. There is an S(5,8,24) (the M_24 design, unique) and an S(5,6,12) (the M_12 design, unique)."
+  },
+  {
+    "id": 413,
+    "Question": "What is the value of the van der Waerden number W(5, 8)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(5,8) is unknown and at the frontier of research."
+  },
+  {
+    "id": 414,
+    "Question": "What is the number of distinct solutions to the 21-Queens problem?",
+    "Solution": "This is the 21-queens problem. The number of distinct solutions is 100,328,011,424."
+  },
+  {
+    "id": 415,
+    "Question": "Find the number of derangements of 25 items, D_25.",
+    "Solution": "D_n is the integer closest to n!/e. For n=25, D_25 is approximately 5.71 x 10^24."
+  },
+  {
+    "id": 416,
+    "Question": "What is the number of 5x5x5 Latin cubes (no two identical symbols in any line)?",
+    "Solution": "This is a very difficult enumeration problem. The number is not known exactly, but lower and upper bounds have been established through computational searches."
+  },
+  {
+    "id": 417,
+    "Question": "What is the number of permutations of {1,...,10} having no subsequences of the form a < b > c (alternating up-down)?",
+    "Solution": "These are permutations that can be split into an increasing sequence followed by a decreasing sequence. The number is 2^n - n - 1. For n=10, it is 1024 - 11 = 1013."
+  },
+  {
+    "id": 418,
+    "Question": "What is the size of the smallest affine plane?",
+    "Solution": "An affine plane of order n has n^2 points. The smallest order for which one exists is n=2 (prime). The plane has 4 points."
+  },
+  {
+    "id": 419,
+    "Question": "What is the value of the Ramsey number R(6, 8)?",
+    "Solution": "The exact value of R(6, 8) is unknown. The current best bounds are 132 <= R(6, 8) <= 495."
+  },
+  {
+    "id": 420,
+    "Question": "What is the maximum determinant of a 20x20 matrix with entries in {-1, 1} (Hadamard problem)?",
+    "Solution": "The Hadamard bound is n^(n/2). For n=20, it is 20^10. A Hadamard matrix of order 20 exists (since 20 is a multiple of 4). Thus, the maximal determinant is exactly 20^10 = 10,240,000,000,000."
+  },
+  {
+    "id": 421,
+    "Question": "How many ways to place 20 non-attacking rooks on a 20x20 board, with 10 red and 10 blue rooks?",
+    "Solution": "Place the 20 rooks in 20! ways. Then choose which 10 positions get red rooks in C(20,10) ways. The total is 20! * C(20,10) which is a very large number, approx 4.49 x 10^23."
+  },
+  {
+    "id": 422,
+    "Question": "What is the value of the Ramsey number R(4,4,6)?",
+    "Solution": "This is a multicolor Ramsey number. Its value is unknown and is far beyond current computational limits. Only loose asymptotic bounds apply."
+  },
+  {
+    "id": 423,
+    "Question": "How many integer partitions of 100 are there into 5 parts?",
+    "Solution": "This is the number of partitions of 95 into at most 5 parts. It can be computed by dynamic programming. The value is 1083."
+  },
+  {
+    "id": 424,
+    "Question": "How many polyiamonds (made of equilateral triangles) with 10 cells exist?",
+    "Solution": "This is sequence A000577 in OEIS. For n=10 cells, there are 1928 distinct free polyiamonds."
+  },
+  {
+    "id": 425,
+    "Question": "What is the number of trees on 30 labeled vertices?",
+    "Solution": "By Cayley's formula, the number of trees on n labeled vertices is n^(n-2). For n=30, this is 30^28, an enormous number approximately equal to 2.25 x 10^41."
+  },
+  {
+    "id": 426,
+    "Question": "Find the number of unlabeled posets on 12 elements.",
+    "Solution": "The number of non-isomorphic posets is OEIS A000112. For n=12, the number is 535,282,103."
+  },
+  {
+    "id": 427,
+    "Question": "What is the value of the Ramsey number R_4(5), i.e., R(5,5,5,5)?",
+    "Solution": "This multicolor Ramsey number is unknown and likely will be for a very long time. The lower bound from a construction is 236."
+  },
+  {
+    "id": 428,
+    "Question": "How many ways to triangulate a torus with 10 vertices?",
+    "Solution": "The enumeration of triangulations on surfaces other than the sphere is a highly complex topic in topological graph theory. The number is not given by a simple formula and depends on the specific embedding. The number is very large."
+  },
+  {
+    "id": 429,
+    "Question": "What is the size of the smallest generating set for the Monster Group?",
+    "Solution": "The Monster Group M is the largest sporadic simple group. It is known to be a 2-generator group, so the size of the smallest generating set is 2."
+  },
+  {
+    "id": 430,
+    "Question": "How many non-isomorphic designs (v,k,lambda) with parameters (21, 5, 1)?",
+    "Solution": "This asks for an S(2,5,21). The necessary conditions 1(20)=0 mod 4 and 1*21*20 = 0 mod 20 are satisfied. The existence of such a design is known. There is a unique such design, the projective plane of order 4 from which one point has been removed (a pierced plane)."
+  },
+  {
+    "id": 431,
+    "Question": "What is the maximum number of edges in a graph on 50 vertices with no path of length 15?",
+    "Solution": "This is ex(50, P_15). A result by Faudree and Schelp gives an exact value for specific n,k. For n=50, k=15, the bound is (15-1)*50/2 = 350. The exact bound is likely slightly lower."
+  },
+  {
+    "id": 432,
+    "Question": "What is the number of integer partitions of 200 into parts which are powers of 2?",
+    "Solution": "This is equivalent to writing 200 in binary. Since 200 = 128+64+8, the parts are {128, 64, 8}. This corresponds to writing it as a sum of distinct powers of 2, so only 1 way. The question as stated allows repeated parts (e.g. 1+1+...). This is equivalent to partitions of 100. Answer is 1."
+  },
+  {
+    "id": 433,
+    "Question": "How many ways to choose 10 cards from a standard 52-card deck so that there is at least one card of each of the 4 suits?",
+    "Solution": "Using inclusion-exclusion. Total ways C(52,10). Subtract ways missing at least one suit C(4,1)C(39,10). Add back missing two suits C(4,2)C(26,10). Subtract missing three C(4,3)C(13,10). Final answer: 12,796,559,280."
+  },
+  {
+    "id": 434,
+    "Question": "What is the number of 10-bead necklaces with 5 colors, up to rotation and reflection (Dihedral group D_10)?",
+    "Solution": "Using Burnside's Lemma for D_10. The number is (1/20) * [sum_{d|10} phi(d)*5^(10/d) + 5*5^6 + 5*5^5]. This evaluates to 498,078."
+  },
+  {
+    "id": 435,
+    "Question": "What is the number of labeled eulerian graphs on 8 vertices?",
+    "Solution": "A graph is Eulerian if and only if all its vertices have even degree. The number of such graphs on n labeled vertices is 2^C(n-1,2). For n=8, this is 2^C(7,2) = 2^21 = 2,097,152."
+  },
+  {
+    "id": 436,
+    "Question": "What is the value of the Ramsey number R(25, 25)?",
+    "Solution": "The exact value of R(25, 25) is unknown. The bounds are on the order of 4^25 / sqrt(25), making the lower bound gigantic, and the upper bound even larger."
+  },
+  {
+    "id": 437,
+    "Question": "What is the maximum number of minimal vertex covers in a graph with 20 vertices?",
+    "Solution": "This problem relates to the number of maximal independent sets. A result by Moon and Moser shows this is at most 3^(n/3). For n=20, this bound is 3^(20/3) which is roughly 1944. The exact number is a hard problem."
+  },
+  {
+    "id": 438,
+    "Question": "Find the number of derangements of 26 items, D_26.",
+    "Solution": "D_n is the integer closest to n!/e. For n=26, D_26 is approximately 1.48 x 10^26."
+  },
+  {
+    "id": 439,
+    "Question": "How many non-isomorphic strongly regular graphs with parameters (243, 22, 1, 2) exist?",
+    "Solution": "These parameters arise in the context of generalized quadrangles and finite geometries. It is known that at least one such graph, the Berlekamp-van Lint-Seidel graph, exists. Uniqueness is a difficult question."
+  },
+  {
+    "id": 440,
+    "Question": "What is the number of ways to choose a committee of 5 people from a group of 20, if the chair is one of the 5?",
+    "Solution": "Choose the chair in 20 ways. Then choose the other 4 members from the remaining 19 people in C(19,4) ways. Total = 20 * C(19,4) = 20 * 3876 = 77,520."
+  },
+  {
+    "id": 441,
+    "Question": "How many ways can the integer 3000 be expressed as a sum of positive integers? (p(3000))",
+    "Solution": "This is p(3000), a massive number. Its value, computed via the Rademacher formula, is approximately 2.45 x 10^95."
+  },
+  {
+    "id": 442,
+    "Question": "What is the value of the van der Waerden number W(4, 10)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(4,10) is unknown and at the frontier of research."
+  },
+  {
+    "id": 443,
+    "Question": "What is the number of distinct solutions to the 22-Queens problem?",
+    "Solution": "This is the 22-queens problem. The number of distinct solutions is 273,819,309,886."
+  },
+  {
+    "id": 444,
+    "Question": "What is the smallest number of vertices in the (13,5)-cage?",
+    "Solution": "This is the (13,5)-cage problem. The Moore bound is 1+13+13*12 = 170. It is unknown if this bound is achieved; this is an open problem."
+  },
+  {
+    "id": 445,
+    "Question": "What is the number of distinct tilings of a 5x12 rectangle with 1x2 dominoes?",
+    "Solution": "Since one dimension (5) is odd, the rectangle cannot be tiled by 1x2 dominoes as the total area (60) is even, but coloring the grid like a chessboard shows there are unequal numbers of black and white squares. The answer is 0."
+  },
+  {
+    "id": 446,
+    "Question": "What is the value of the Ramsey number R(7, 9)?",
+    "Solution": "The exact value of R(7, 9) is unknown. The current best bounds are 233 <= R(7, 9) <= 806."
+  },
+  {
+    "id": 447,
+    "Question": "What is the maximum number of edges in a graph on 1000 vertices that is triangle-free and C_4-free?",
+    "Solution": "This is ex(1000, {C_3, C_4}). The upper bound is O(n^{3/2}). A polarity graph from PG(2,q) where q^2+q+1 is about 1000 (q=31) gives a construction. The bound is around 16000."
+  },
+  {
+    "id": 448,
+    "Question": "What is the number of non-isomorphic graphs on 20 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 6.47 x 10^32."
+  },
+  {
+    "id": 449,
+    "Question": "How many ways to select 6 integers from {1, 2, ..., 30} so that no two are consecutive?",
+    "Solution": "This is a stars and bars problem. Let x_i be the selected numbers. Let y_1 = x_1, y_2=x_2-1, ... y_6=x_6-5. We choose 6 numbers {y_i} from {1..25}. C(25, 6) = 177,100."
+  },
+  {
+    "id": 450,
+    "Question": "What is the smallest n for which the sunflower lemma constant is known to be non-linear?",
+    "Solution": "The Erdos-Rado sunflower lemma states that a family of k-sets of size > k!(w-1)^k has a sunflower of size w. The constant k! was recently improved to a C^k for some C. The original question is a bit ill-posed. A recent breakthrough by Alweiss, Lovett, Wu, and Zhang showed a much better bound. The problem showed the constant is poly(k log(k))."
+  },
+  {
+    "id": 451,
+    "Question": "What is the number of non-isomorphic strongly regular graphs with parameters (28, 9, 0, 4)?",
+    "Solution": "The existence of such a graph is ruled out by the integrality condition on eigenvalues. The eigenvalues would be non-integers, which is impossible for a graph adjacency matrix. The number is 0."
+  },
+  {
+    "id": 452,
+    "Question": "What is the value of the Ramsey number R(4, 4, 4, 4), or R_4(4)?",
+    "Solution": "This is a multicolor Ramsey number for K_4. Its value is completely unknown and is far beyond any current computational or theoretical techniques. The lower bounds are in the hundreds."
+  },
+  {
+    "id": 453,
+    "Question": "Calculate the number of integer partitions of 100 into parts, where each part is a perfect square.",
+    "Solution": "This requires the generating function Product(1/(1-x^(k^2))) for k>=1. The coefficient of x^100 is computed to be 294."
+  },
+  {
+    "id": 454,
+    "Question": "What is the number of distinct solutions to the 23-Queens problem?",
+    "Solution": "This is a classic computational problem. The number of distinct (fundamental) solutions for n=23 is 7,508,349,493."
+  },
+  {
+    "id": 455,
+    "Question": "How many ways to tile an Aztec diamond of order 10 with 2x1 dominoes?",
+    "Solution": "The number of domino tilings of an Aztec diamond of order n is 2^(n(n+1)/2). For n=10, this is 2^(10*11/2) = 2^55, which is approximately 3.6 x 10^16."
+  },
+  {
+    "id": 456,
+    "Question": "Find the number of derangements of 27 items, D_27.",
+    "Solution": "D_n is the integer closest to n!/e. For n=27, D_27 is approximately 4.00 x 10^27."
+  },
+  {
+    "id": 457,
+    "Question": "What is the number of ways to arrange the letters of 'MISSISSIPPI' such that no two 'S's are consecutive?",
+    "Solution": "Arrange the other 7 letters (MIIIPPI) first: 7!/(4!2!) = 105 ways. This creates 8 slots to place the 4 'S's. Choose 4 slots in C(8,4) ways. Total = 105 * 70 = 7,350."
+  },
+  {
+    "id": 458,
+    "Question": "What is the value of the Ramsey number R(6, 9)?",
+    "Solution": "The exact value of R(6, 9) is unknown. The current best bounds are 169 <= R(6, 9) <= 714."
+  },
+  {
+    "id": 459,
+    "Question": "What is the number of non-isomorphic graphs on 21 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 2.65 x 10^35."
+  },
+  {
+    "id": 460,
+    "Question": "How many 1s are in the binary representation of the 1000th Bell number, B_1000?",
+    "Solution": "This is an extraordinarily difficult problem. B_1000 is a number with thousands of digits. Calculating it and then its binary representation is computationally massive and not feasible for standard analysis."
+  },
+  {
+    "id": 461,
+    "Question": "What is the value of the van der Waerden number W(5, 9)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(5,9) is unknown and at the frontier of research."
+  },
+  {
+    "id": 462,
+    "Question": "How many non-isomorphic symmetric (v,k,lambda)-designs with parameters (45, 12, 3) exist?",
+    "Solution": "Existence is guaranteed by the Bruck-Ryser-Chowla theorem. At least 78 such designs are known, but the total number is unknown and an open problem."
+  },
+  {
+    "id": 463,
+    "Question": "What is the number of permutations in S_10 that are a single cycle (a 10-cycle)?",
+    "Solution": "The number of n-cycles in S_n is (n-1)!. For n=10, the answer is 9! = 362,880."
+  },
+  {
+    "id": 464,
+    "Question": "What is the value of the Ramsey number R(22, 22)?",
+    "Solution": "The exact value of R(22, 22) is unknown. The best current bounds are approximately 3583 <= R(22, 22) <= 13,000,000."
+  },
+  {
+    "id": 465,
+    "Question": "How many non-isomorphic cubic (3-regular) graphs are there on 20 vertices?",
+    "Solution": "The number of cubic graphs is a known but difficult sequence (OEIS A000216). For n=20 vertices, there are 510,489."
+  },
+  {
+    "id": 466,
+    "Question": "What is the threshold probability p for a random graph G(n,p) on n=100 vertices to contain a K_4 subgraph?",
+    "Solution": "The threshold for containing a subgraph H with v vertices and e edges is p = n^(-v/e). For K_4, v=4, e=6, so the threshold is n^(-4/6) = n^(-2/3). For n=100, this is 100^(-2/3) which is approximately 0.046."
+  },
+  {
+    "id": 467,
+    "Question": "How many ways to partition the set {1, ..., 10} into two non-empty sets A and B, such that the sum of elements in A is equal to the sum of elements in B?",
+    "Solution": "The sum of elements is 10*11/2 = 55. This is an odd number, so it cannot be partitioned into two integer sums. The number of ways is 0."
+  },
+  {
+    "id": 468,
+    "Question": "What is the number of labeled, 2-connected graphs on 8 vertices?",
+    "Solution": "This requires a complex generating function manipulation involving connected graphs. The total number of labeled graphs on 8 vertices is 2^28. The number of 2-connected graphs is 804,960."
+  },
+  {
+    "id": 469,
+    "Question": "What is the value of the Ramsey number R(7, 10)?",
+    "Solution": "The exact value of R(7, 10) is unknown. The current best bounds are 262 <= R(7, 10) <= 1066."
+  },
+  {
+    "id": 470,
+    "Question": "How many ways to arrange 3 identical chemistry books, 4 identical physics books, and 5 identical math books on a shelf?",
+    "Solution": "This is a multinomial coefficient problem. Total books = 12. The number of distinct arrangements is 12! / (3! * 4! * 5!) = 27,720."
+  },
+  {
+    "id": 471,
+    "Question": "Find the number of unlabeled posets on 13 elements.",
+    "Solution": "The number of non-isomorphic posets is OEIS A000112. For n=13, the number is 443,450,152,701."
+  },
+  {
+    "id": 472,
+    "Question": "What is the smallest number of vertices in the (57,5)-cage?",
+    "Solution": "This would be a 57-regular graph of girth 5. The Moore bound is 1+57+57*56 = 3250. It is a famous open problem whether such a graph (a Moore graph) exists. It is strongly conjectured not to exist."
+  },
+  {
+    "id": 473,
+    "Question": "How many binary rooted trees are there with 10 internal nodes?",
+    "Solution": "The number of binary trees with n internal nodes is the nth Catalan number, C_n. For n=10, C_10 = (1/11)*C(20,10) = 16,796."
+  },
+  {
+    "id": 474,
+    "Question": "What is the number of distinct solutions to the 24-Queens problem?",
+    "Solution": "This is a classic computational problem. The number of distinct solutions for n=24 is 227,514,171,973,736."
+  },
+  {
+    "id": 475,
+    "Question": "Find the number of derangements of 28 items, D_28.",
+    "Solution": "D_n is the integer closest to n!/e. For n=28, D_28 is approximately 1.12 x 10^29."
+  },
+  {
+    "id": 476,
+    "Question": "What is the maximum number of edges in a graph on 512 vertices that does not contain a K_9 subgraph?",
+    "Solution": "By Turan's theorem, the maximum is T(512, 8). The partitions are all of size 64. The number of edges is C(8,2) * 64^2 = 28 * 4096 = 114,688."
+  },
+  {
+    "id": 477,
+    "Question": "How many non-equivalent perfect Golomb Rulers of order 12 (12 marks, length 66) exist?",
+    "Solution": "Perfect Golomb rulers fill all integers up to their length. It is known that no perfect Golomb ruler exists for order greater than 4. The number is 0."
+  },
+  {
+    "id": 478,
+    "Question": "What is the number of integer solutions to x_1 + x_2 + x_3 + x_4 = 50, where each x_i >= i?",
+    "Solution": "Let y_1=x_1-1, y_2=x_2-2, etc. The equation becomes (y_1+1)+(y_2+2)+(y_3+3)+(y_4+4) = 50, so y_1+y_2+y_3+y_4 = 40. By stars and bars, the number of non-negative solutions is C(40+4-1, 4-1) = C(43,3) = 12,341."
+  },
+  {
+    "id": 479,
+    "Question": "What is the value of the Ramsey number R(8, 10)?",
+    "Solution": "The exact value of R(8, 10) is unknown. The current best bounds are 296 <= R(8, 10) <= 1708."
+  },
+  {
+    "id": 480,
+    "Question": "How many meanders of order 10 (a closed curve crossing a line 20 times) exist?",
+    "Solution": "The number of meanders is a notoriously difficult open enumeration problem (OEIS A000531). For order n=10, the number of meanders M_10 is 4,020."
+  },
+  {
+    "id": 481,
+    "Question": "What is the number of labeled outerplanar graphs on 10 vertices?",
+    "Solution": "The enumeration of labeled outerplanar graphs is complex. The number is given by a known but complicated formula. For n=10, the value is 1,232,968,896."
+  },
+  {
+    "id": 482,
+    "Question": "Find the value of the Tutte-Berge formula for a 7x7 grid graph.",
+    "Solution": "The Tutte-Berge formula gives the size of a maximum matching. For a 7x7 grid, there are 49 vertices. A perfect matching is not possible. The maximum matching size is floor(49/2) = 24."
+  },
+  {
+    "id": 483,
+    "Question": "What is the number of distinct solutions to the 25-Queens problem?",
+    "Solution": "This is a classic computational problem. The number of distinct solutions for n=25 is 2,059,209,791,330,064."
+  },
+  {
+    "id": 484,
+    "Question": "How many ways can the integer 5000 be expressed as a sum of positive integers? (p(5000))",
+    "Solution": "This is p(5000). Its value, computed via the Rademacher formula, is an enormous number with 127 digits, starting 6.96... x 10^126."
+  },
+  {
+    "id": 485,
+    "Question": "What is the value of the van der Waerden number W(6, 7)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(6,7) is unknown and completely beyond current techniques."
+  },
+  {
+    "id": 486,
+    "Question": "How many ways to choose 20 people from a room of 15 men and 15 women, if you must choose at least 8 men and 8 women?",
+    "Solution": "Case 1: 8M, 12W -> C(15,8)C(15,12). Case 2: 9M, 11W -> C(15,9)C(15,11). Case 3: 10M, 10W -> C(15,10)C(15,10). ... Case 5: 12M, 8W. Sum these 5 values. The result is 150,004,875."
+  },
+  {
+    "id": 487,
+    "Question": "What is the value of the Ramsey number R(23, 23)?",
+    "Solution": "The exact value of R(23, 23) is unknown. The current best bounds are approximately 4153 <= R(23, 23) <= 25,000,000."
+  },
+  {
+    "id": 488,
+    "Question": "What is the maximum number of edges in a graph on 100 vertices such that it does not contain a 4-cycle and a 6-cycle?",
+    "Solution": "This is ex(100, {C_4, C_6}). This is an open research problem. The constructions providing good lower bounds often come from polarity graphs in finite geometries."
+  },
+  {
+    "id": 489,
+    "Question": "How many non-isomorphic graphs are there on 22 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 2.19 x 10^38."
+  },
+  {
+    "id": 490,
+    "Question": "Find the number of derangements of 29 items, D_29.",
+    "Solution": "D_n is the integer closest to n!/e. For n=29, D_29 is approximately 3.23 x 10^30."
+  },
+  {
+    "id": 491,
+    "Question": "What is the smallest number of vertices in a graph that is not 3-colorable but every proper subgraph is? (i.e., a 4-critical graph) with minimum degree 5.",
+    "Solution": "The smallest 4-critical graph is K_4. To have min degree 5, the graph must be much larger. A known construction by Toft gives a 4-critical graph with minimum degree k for any k. For k=5, the construction gives a graph on 16 vertices."
+  },
+  {
+    "id": 492,
+    "Question": "How many necklaces with 30 beads and 2 colors exist up to rotation only?",
+    "Solution": "Using Burnside's Lemma for C_30, the number is (1/30) * sum_{d|30} phi(d)*2^(30/d). This includes terms for d=1,2,3,5,6,10,15,30. The value is 35,791,394."
+  },
+  {
+    "id": 493,
+    "Question": "What is the number of permutations of {1,...,10} such that the sum of any two adjacent numbers is at most 15?",
+    "Solution": "This is a very difficult path-counting problem on a graph where vertices are {1..10} and edges connect pairs with sum <= 15. One must find the number of Hamiltonian paths. This requires bespoke computational algorithms."
+  },
+  {
+    "id": 494,
+    "Question": "What is the size of the smallest code with distance 3 for binary words of length 7? (The sphere packing bound).",
+    "Solution": "Let C be the code. The sphere packing (Hamming) bound says |C| * (C(n,0)+C(n,1)) <= 2^n. Here, |C| * (1+7) <= 128, so |C|<=16. The (7,4) Hamming code achieves this bound. So the size is 16."
+  },
+  {
+    "id": 495,
+    "Question": "How many spanning trees does the 10x10 grid graph have?",
+    "Solution": "This requires evaluating the product formula for the number of spanning trees in an m x n grid. The number for a 10x10 grid is a massive 101,308,010,432,649,873,341,241,123,549,438,105,600."
+  },
+  {
+    "id": 496,
+    "Question": "What is the value of the van der Waerden number W(4, 5)?",
+    "Solution": "The value of W(4, 5) is unknown and represents the frontier of research in this area. It is known to be greater than 2000, but no tight upper bound is known."
+  },
+  {
+    "id": 497,
+    "Question": "Calculate the number of necklaces with 12 beads using 3 different colors, where two necklaces are the same if one can be rotated to match the other.",
+    "Solution": "Using Burnside's Lemma for the cyclic group C_12, the number is (1/12) * sum_{d|12} phi(d) * 3^(12/d). This evaluates to 44,368."
+  },
+  {
+    "id": 498,
+    "Question": "What is the largest number of edges in a 3-uniform hypergraph on 10 vertices that does not contain a Fano plane?",
+    "Solution": "This is an extremal problem for hypergraphs, ex(10, Fano). The Fano plane has 7 vertices and 7 edges. The exact value is difficult. The Turan number is known to be 31."
+  },
+  {
+    "id": 499,
+    "Question": "What is the number of permutations pi in S_15 such that pi^3 is the identity? (Number of elements of order dividing 3).",
+    "Solution": "Such permutations consist only of fixed points and 3-cycles. The number is given by summing over k=0 to 5 of C(15, 3k) * ( (3k)! / (k! * 3^k) ). The result is 23,435,341."
+  },
+  {
+    "id": 500,
+    "Question": "What is the value of the Ramsey number R(6, 6)?",
+    "Solution": "The exact value of R(6, 6) is unknown and is a major open problem. The current best bounds are 102 <= R(6, 6) <= 161."
+  },
+  {
+    "id": 501,
+    "Question": "What is the number of 6x6x6 Latin cubes?",
+    "Solution": "The number of n-dimensional Latin hypercubes is an extremely difficult open problem. Even for 3 dimensions (cubes), the number is not known for n>=6. It is estimated to be on the order of 10^176."
+  },
+  {
+    "id": 502,
+    "Question": "What is the number of integer partitions of 200 into exactly 50 parts?",
+    "Solution": "This is equivalent to partitioning 150 into at most 50 parts. This can be calculated with dynamic programming. The value is 3,246,734."
+  },
+  {
+    "id": 503,
+    "Question": "What is the chromatic number of the unit distance graph of Q^3 (rational points in 3D space)?",
+    "Solution": "This is a variant of the Hadwiger-Nelson problem. It is known that the chromatic number of Q^n is at least 2n+1 for n>=2. For Q^3, the lower bound is 7. It is conjectured to be much larger, possibly infinite."
+  },
+  {
+    "id": 504,
+    "Question": "What is the number of distinct solutions to the 26-Queens problem?",
+    "Solution": "This is a classic computational problem. The number of distinct (fundamental) solutions for n=26 is 22,317,699,616,364,044."
+  },
+  {
+    "id": 505,
+    "Question": "How many ways to tile a 20x20 grid with 2x1 dominoes?",
+    "Solution": "Using the Kasteleyn-Temperley-Fisher algorithm, the number of tilings of a 20x20 grid is an immense number, approximately 1.44 x 10^52."
+  },
+  {
+    "id": 506,
+    "Question": "Find the number of derangements of 30 items, D_30.",
+    "Solution": "D_n is the integer closest to n!/e. For n=30, D_30 is approximately 9.77 x 10^31."
+  },
+  {
+    "id": 507,
+    "Question": "What is the smallest n for which there are more than 10^12 non-isomorphic graphs?",
+    "Solution": "The number of non-isomorphic graphs on n vertices grows doubly exponentially. n_g(14) is about 10^13, while n_g(13) is about 10^11. So the answer is n=14."
+  },
+  {
+    "id": 508,
+    "Question": "What is the value of the Ramsey number R(9, 11)?",
+    "Solution": "The exact value of R(9, 11) is unknown. The current best bounds are 347 <= R(9, 11) <= 2235."
+  },
+  {
+    "id": 509,
+    "Question": "How many non-isomorphic graphs are there on 23 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 1.05 x 10^42."
+  },
+  {
+    "id": 510,
+    "Question": "What is the value of the Hales-Jewett number HJ(3, 3)?",
+    "Solution": "HJ(3,3) is the dimension n needed to guarantee a monochromatic combinatorial line in any 3-coloring of a 3^n grid. The value is unknown. Lower bounds are around 6, but it is a difficult problem."
+  },
+  {
+    "id": 511,
+    "Question": "What is the value of the van der Waerden number W(7, 7)?",
+    "Solution": "W(k,r) is the smallest n s.t. any k-coloring of {1..n} has a monochromatic AP of length r. W(7,7) is unknown and completely beyond current techniques."
+  },
+  {
+    "id": 512,
+    "Question": "What is the number of 4x4 matrices over GF(3) with determinant 1?",
+    "Solution": "This is the order of the special linear group SL(4, 3). The formula for |SL(n,q)| is well-known. |SL(4,3)| = 155,271,360."
+  },
+  {
+    "id": 513,
+    "Question": "How many ways to dissect a 12-gon into a 5-gon and a 9-gon with a common edge?",
+    "Solution": "This is not possible. The sum of interior angles does not match. In a dissection, the number of vertices adds up differently. A dissection into an m-gon and k-gon requires m+k=n+2. Here 5+9=14, but n+2=14. We have C(12, 1) ways to choose the edge, but it may not be a valid geometric split."
+  },
+  {
+    "id": 514,
+    "Question": "Find the number of unlabeled posets on 14 elements.",
+    "Solution": "The number of non-isomorphic posets is OEIS A000112. For n=14, the number is 42,347,034,242,081."
+  },
+  {
+    "id": 515,
+    "Question": "What is the number of distinct solutions to the 27-Queens problem?",
+    "Solution": "This is the last n for which the exact number of solutions is known. The number of fundamental solutions is 214,354,039,431,562."
+  },
+  {
+    "id": 516,
+    "Question": "What is the number of non-isomorphic (v,k,lambda)-designs with parameters (51, 10, 2)?",
+    "Solution": "This asks for a BIBD(51,10,2). The necessary conditions on divisibility hold. However, the existence of such a design is a long-standing open problem. The answer is unknown, possibly 0."
+  },
+  {
+    "id": 517,
+    "Question": "How many ways to seat 10 married couples around a round table so that no person is next to their spouse?",
+    "Solution": "This is a complex inclusion-exclusion problem (a menage problem variant). The number can be found using the menage numbers M_n. The final formula is complex but gives the result 20! * Sum_{k=0 to 10} (-1)^k C(10,k) (20-k)!/20! etc. which is approx 3.99 x 10^17."
+  },
+  {
+    "id": 518,
+    "Question": "What is the minimum number of edges in a graph on 100 vertices such that any 2-coloring of the edges yields a monochromatic path of length 10?",
+    "Solution": "This is a size Ramsey number problem, denoted R_size(P_10). The value is not known precisely but is linear in n. It is bounded by around 9n."
+  },
+  {
+    "id": 519,
+    "Question": "What is the value of the Ramsey number R(10, 12)?",
+    "Solution": "The exact value of R(10, 12) is unknown. The current best bounds are 397 <= R(10, 12) <= 2860."
+  },
+  {
+    "id": 520,
+    "Question": "How many ways can the faces of a regular icosahedron be colored with 4 colors, up to rotational symmetry?",
+    "Solution": "Using Burnside's Lemma on the icosahedral group (order 60), with 4 colors for 20 faces. The result is (1/60)*(4^20 + 24*4^4 + 20*4^8 + 15*4^10), which is a massive number."
+  },
+  {
+    "id": 521,
+    "Question": "Find the number of derangements of 31 items, D_31.",
+    "Solution": "D_n is the integer closest to n!/e. For n=31, D_31 is approximately 9.68 x 10^32."
+  },
+  {
+    "id": 522,
+    "Question": "How many unlabeled and connected series-parallel graphs are there on 12 vertices?",
+    "Solution": "The enumeration of series-parallel graphs is a specific problem. The sequence is A000078. For n=12, the number is 490."
+  },
+  {
+    "id": 523,
+    "Question": "How many permutations of length 20 avoid the pattern 132?",
+    "Solution": "The number of permutations of length n avoiding a single pattern of length 3 is the nth Catalan number, C_n. For n=20, this is C_20 = (1/21)C(40,20) = 6,564,120,420."
+  },
+  {
+    "id": 524,
+    "Question": "What is the number of integer partitions of 1000 into exactly 10 parts?",
+    "Solution": "This is equivalent to partitioning 990 into at most 10 parts. This can be computed using dynamic programming. The value is 397,558,411."
+  },
+  {
+    "id": 525,
+    "Question": "What is the number of integer partitions of 100 such that no part is a multiple of 3?",
+    "Solution": "This is given by the generating function Product_{k not mult of 3} 1/(1-x^k). The coefficient of x^100 is 10,747,381."
+  },
+  {
+    "id": 526,
+    "Question": "What is the value of the Ramsey number R(24, 24)?",
+    "Solution": "The exact value of R(24, 24) is unknown. The best current bounds are approximately 4880 <= R(24, 24) <= 50,000,000."
+  },
+  {
+    "id": 527,
+    "Question": "What is the maximum number of edges in a graph on 100 vertices where the chromatic number is 4?",
+    "Solution": "To maximize edges for a fixed chromatic number k, one should use a Turan graph T(n,k) and add edges within partitions carefully. The maximum is C(100,2) - C(floor(100/4),2)*3 - C(ceil(100/4),2)*1 = 4950 - 3*300 = 4050. No, this logic is wrong. It is simply ex(100, K_5) = 15000 from Turan's theorem on K_5 free graphs. T(100,4) has chi=4."
+  },
+  {
+    "id": 528,
+    "Question": "How many ways can the number 1,000,000 be written as a product of three ordered factors?",
+    "Solution": "1,000,000 = 10^6 = 2^6 * 5^6. This is equivalent to finding the number of solutions to x1+x2+x3=6 for powers of 2 (C(8,2)=28) and y1+y2+y3=6 for powers of 5 (C(8,2)=28). Total is 28*28 = 784."
+  },
+  {
+    "id": 529,
+    "Question": "How many polycubes with 8 cells exist (fixed polycubes)?",
+    "Solution": "This is sequence A000162. The number of fixed polycubes made of 8 cubes is 1,646."
+  },
+  {
+    "id": 530,
+    "Question": "What is the number of integer partitions of 500 such that all parts are distinct and odd?",
+    "Solution": "This is a highly restricted partition problem. It can be computed with a specialized generating function. The value is 26,634,801."
+  },
+  {
+    "id": 531,
+    "Question": "What is the number of non-isomorphic graphs on 24 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 6.5 x 10^45."
+  },
+  {
+    "id": 532,
+    "Question": "How many binary matrices of size 4x4 are there where the permanent equals the determinant?",
+    "Solution": "This is a hard computational problem. There is no simple formula. It requires iterating through all 2^16 = 65536 matrices and checking the condition. The number is 9976."
+  },
+  {
+    "id": 533,
+    "Question": "Find the number of derangements of 32 items, D_32.",
+    "Solution": "D_n is the integer closest to n!/e. For n=32, D_32 is approximately 9.69 x 10^34."
+  },
+  {
+    "id": 534,
+    "Question": "What is the value of the Ramsey number R(11, 13)?",
+    "Solution": "The exact value is unknown. Bounds can be derived: 569 <= R(11,13) <= 4901."
+  },
+  {
+    "id": 535,
+    "Question": "What is the value of the van der Waerden number W(8, 8)?",
+    "Solution": "This number is unknown and fantastically large, completely beyond current techniques."
+  },
+  {
+    "id": 536,
+    "Question": "What is the smallest order n for which the number of reduced Latin squares exceeds 10^20?",
+    "Solution": "We look at OEIS A000315. L_8 is ~5x10^11, L_9 is ~3.7x10^17, L_10 is ~9.9x10^24. So the answer is n=10."
+  },
+  {
+    "id": 537,
+    "Question": "How many ways to seat 25 knights at a round table, if each knight is friends with the two people next to them and the two people opposite them? What kind of graph is this?",
+    "Solution": "This is describing the vertex connections, not a seating problem. This defines a 4-regular circulant graph on 25 vertices. The number of such distinct seating arrangements is (25-1)!/2 if there are no other constraints."
+  },
+  {
+    "id": 538,
+    "Question": "How many ways to partition a set of 20 elements into 4 sets of 5 elements each?",
+    "Solution": "Choose 5 for the first set: C(20,5). Choose 5 for the second: C(15,5). C(10,5). C(5,5). Since the sets are indistinguishable, divide by 4!. Total: C(20,5)C(15,5)C(10,5)/4! = 2,548,245."
+  },
+  {
+    "id": 539,
+    "Question": "What is the value of the Ramsey number R(25, 25)?",
+    "Solution": "The exact value of R(25, 25) is unknown. The best current bounds are approximately 5731 <= R(25, 25) <= 100,000,000."
+  },
+  {
+    "id": 540,
+    "Question": "What is the largest number of edges in a graph on 25 vertices where every edge is in exactly one triangle?",
+    "Solution": "Such graphs are related to Steiner triple systems. For n=25, it is not clear if such a graph can exist. If it did, edges e = 3 * (number of triangles). And v(v-1) must be divisible by 3*2 etc. The max number is likely related to embedding a system on v=25."
+  },
+  {
+    "id": 541,
+    "Question": "What is the smallest number of vertices of a graph with chromatic number 6 and girth 6?",
+    "Solution": "Erdos proved that graphs with arbitrarily high girth and chromatic number exist. The standard construction using probability is non-explicit. The smallest known graph with chi=6, girth=6 is very large, possibly in the hundreds of vertices."
+  },
+  {
+    "id": 542,
+    "Question": "What is the value of the Busy Beaver function BB(6)?",
+    "Solution": "BB(6) is unknown. A candidate machine found in 2022 writes more than 10^^15 ones (using Knuth's up-arrow notation), making it a colossal number. It is uncomputable in general."
+  },
+  {
+    "id": 543,
+    "Question": "Find the number of derangements of 33 items, D_33.",
+    "Solution": "D_n is the integer closest to n!/e. For n=33, D_33 is approximately 3.19 x 10^36."
+  },
+  {
+    "id": 544,
+    "Question": "How many non-isomorphic 4-regular simple graphs are there on 13 vertices?",
+    "Solution": "The number of k-regular graphs is a known sequence. For 4-regular graphs on 13 vertices, there are 556 such graphs."
+  },
+  {
+    "id": 545,
+    "Question": "How many ways to color the vertices of the Petersen graph with 5 colors, such that adjacent vertices have different colors?",
+    "Solution": "This is the value of the chromatic polynomial P(k) at k=5. For the Petersen graph, P(5) = 5*4*3 * (5^7 - 12*5^6 + ... - 352). This value is 12960."
+  },
+  {
+    "id": 546,
+    "Question": "What is the value of the Ramsey number R(12, 14)?",
+    "Solution": "The exact value is unknown. Bounds can be derived: 696 <= R(12,14) <= 8000."
+  },
+  {
+    "id": 547,
+    "Question": "What is the number of integer partitions of 200 such that all parts are prime?",
+    "Solution": "This requires a generating function with prime denominations. The coefficient of x^200 needs to be computed. The value is 44,795."
+  },
+  {
+    "id": 548,
+    "Question": "How many ways can the number 210 be written as a product of 4 ordered factors greater than 1?",
+    "Solution": "210 = 2*3*5*7. We need to partition the set of prime factors {2,3,5,7} into 4 non-empty subsets. This is the Stirling number of the second kind, S(4,4) = 1. So there is only 1 way (up to ordering the primes themselves, which isn't the question)."
+  },
+  {
+    "id": 549,
+    "Question": "What is the number of integer solutions to x+y+z+w=100 with 0 <= x,y,z,w <= 30?",
+    "Solution": "This is a restricted composition problem solvable with inclusion-exclusion on the total solutions C(103,3). Subtract cases where one variable is >30, etc. The final answer is 12,061."
+  },
+  {
+    "id": 550,
+    "Question": "What is the number of labeled trees on 50 vertices?",
+    "Solution": "By Cayley's formula, the number of trees on n labeled vertices is n^(n-2). For n=50, this is 50^48, a number with about 81 digits."
+  },
+  {
+    "id": 551,
+    "Question": "What is the Ramsey number R(K_5-P_3, K_5-P_3), where K_5-P_3 is K_5 with a path of length 2 removed?",
+    "Solution": "This is a non-trivial graph Ramsey number. These are very hard to compute. This specific value is not known."
+  },
+  {
+    "id": 552,
+    "Question": "How many self-complementary graphs on 29 vertices exist?",
+    "Solution": "The number of vertices n must be 0 or 1 (mod 4). For n=29, the number of self-complementary graphs is enormous, approximately 1.1 x 10^31."
+  },
+  {
+    "id": 553,
+    "Question": "What is the maximum number of edges in a graph with 200 vertices, if its complement is triangle-free?",
+    "Solution": "If the complement is triangle-free, by Turan's theorem, the complement has at most floor(200^2/4) = 10000 edges. Total edges in K_200 is C(200,2)=19900. The graph has at least 19900 - 10000 = 9900 edges."
+  },
+  {
+    "id": 554,
+    "Question": "Find the number of derangements of 34 items, D_34.",
+    "Solution": "D_n is the integer closest to n!/e. For n=34, D_34 is approximately 1.08 x 10^38."
+  },
+  {
+    "id": 555,
+    "Question": "What is the number of non-isomorphic graphs on 25 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 2.85 x 10^49."
+  },
+  {
+    "id": 556,
+    "Question": "What is the value of the Ramsey number R(13, 15)?",
+    "Solution": "The exact value is unknown. Bounds can be derived: 842 <= R(13,15) <= 127266."
+  },
+  {
+    "id": 557,
+    "Question": "How many ways can you tile a 3x3x3 cube with 1x1x2 'domino' bricks and one 1x1x1 cube?",
+    "Solution": "A 3x3x3 cube has 27 cells. A 1x1x2 brick takes 2 cells. So we can use 13 bricks (26 cells) and one 1x1x1 cube. By a coloring argument (chessboard style), it's impossible to tile the 26-cell region. The number of ways is 0."
+  },
+  {
+    "id": 558,
+    "Question": "What is the smallest number of vertices of a graph of girth 8 and minimum degree 3?",
+    "Solution": "This is the (3,8)-cage. The lower bound is 2(2^4-1)/(2-1) = 30. This is the Tutte-Coxeter graph, and it is the unique (3,8)-cage. The answer is 30."
+  },
+  {
+    "id": 559,
+    "Question": "How many ways to write 1000 as a sum of consecutive positive integers?",
+    "Solution": "1000 = n*a + n(n-1)/2, where a is the start. 2000 = n(2a+n-1). n and (2a+n-1) must be factors of 2000=16*125 and have different parity. Number of divisors of 125 is 4. These give 3 valid solutions (n=5,16,25). Answer is 3."
+  },
+  {
+    "id": 560,
+    "Question": "How many paths of length 5 are there in the complete graph K_10?",
+    "Solution": "Choose 6 vertices in C(10,6) ways. For each set of 6, arrange them in 6! ways. Divide by 2 because paths are undirected. P(10,6)/2 = (10!/4!)/2 = 75,600."
+  },
+  {
+    "id": 561,
+    "Question": "What is the number of Hamiltonian decompositions of the complete graph K_15?",
+    "Solution": "A Hamiltonian decomposition of K_2k+1 exists. K_15 has C(15,2)=105 edges. A cycle has 15 edges. So a decomposition has 105/15 = 7 cycles. The number of such non-isomorphic decompositions is unknown for n=15."
+  },
+  {
+    "id": 562,
+    "Question": "What is the number of ways to pay $10 using any combination of $1, $2, and $5 bills?",
+    "Solution": "This is a simple change-making problem. It can be solved by enumeration. Using x $5 bills, y $2 bills, z $1 bills: 5x+2y+z=10. This gives 10 ways."
+  },
+  {
+    "id": 563,
+    "Question": "How many permutations of length 25 avoid the pattern 123?",
+    "Solution": "The number of n-permutations avoiding 123 is C_n. For n=25, this is C_25, a massive number approx 2 x 10^12."
+  },
+  {
+    "id": 564,
+    "Question": "What is the number of connected components in the Kneser graph KG(10, 4)?",
+    "Solution": "The Kneser graph KG(n,k) is connected if and only if n > 2k. Here, 10 > 2*4=8. So the graph is connected. The number of components is 1."
+  },
+  {
+    "id": 565,
+    "Question": "Find the number of derangements of 35 items, D_35.",
+    "Solution": "D_n is the integer closest to n!/e. For n=35, D_35 is approximately 3.79 x 10^39."
+  },
+  {
+    "id": 566,
+    "Question": "How many ways to place 5 indistinguishable rooks on a 5x5 board so none can attack another, and none are on the main diagonal?",
+    "Solution": "This is the number of derangements of 5 items, D_5. D_5 = 44."
+  },
+  {
+    "id": 567,
+    "Question": "What is the maximum number of edges in a graph on 20 vertices with an independent set of size 10?",
+    "Solution": "If there is an independent set of size 10, no edges exist within these 10 vertices. The maximum number of edges is formed by making the other 10 vertices a K_10, and connecting all of them to the independent set. C(10,2) + 10*10 = 45+100=145."
+  },
+  {
+    "id": 568,
+    "Question": "How many ways to write 60 as a sum of four distinct positive integers?",
+    "Solution": "This is a restricted partition problem. It can be solved with generating functions. The value is 1140."
+  },
+  {
+    "id": 569,
+    "Question": "What is the value of the Ramsey number R(14, 16)?",
+    "Solution": "The exact value is unknown. Bounds can be derived: 1024 <= R(14,16) <= 246516."
+  },
+  {
+    "id": 570,
+    "Question": "What is the number of ways to tile a 3 x 20 rectangle with 2x1 dominoes?",
+    "Solution": "Let a(n) be the ways for a 3x2n rectangle. The recurrence is a(n) = 4a(n-1) - a(n-2). For n=10, the value is a(10) = 45841."
+  },
+  {
+    "id": 571,
+    "Question": "What is the number of Latin squares of order 10?",
+    "Solution": "The total number is enormous. Number of reduced squares L_10 ~ 9.98x10^24. Total number is 10! * 9! * L_10, which is approximately 1.3 x 10^37."
+  },
+  {
+    "id": 572,
+    "Question": "How many ways can a 30-sided polygon be triangulated?",
+    "Solution": "The number of triangulations of an n-gon is C_(n-2). For n=30, this is C_28, which is approx 3.1 x 10^15."
+  },
+  {
+    "id": 573,
+    "Question": "Find the number of unlabeled rooted trees with 70 nodes.",
+    "Solution": "The number is given by OEIS A000081. For n=70, the value is an immense number around 1.1 x 10^28."
+  },
+  {
+    "id": 574,
+    "Question": "What is the value of the Ramsey number R_3(6), or R(6,6,6)?",
+    "Solution": "This is a multicolor Ramsey number. The value is unknown, but a lower bound from a construction is 5383."
+  },
+  {
+    "id": 575,
+    "Question": "What is the minimum degree of the Kneser Graph KG(100, 40)?",
+    "Solution": "The Kneser graph KG(n,k) is regular. Its degree is C(n-k, k). For KG(100,40), the degree is C(60,40) = C(60,20), which is a massive number (~10^15)."
+  },
+  {
+    "id": 576,
+    "Question": "How many permutations in S_10 have order 6?",
+    "Solution": "A permutation has order 6 if its cycle type's lcm is 6. Types: (6,1,1,1,1), (6,2,1,1), (6,3,1), (6,4), (3,2,1,1,1,1,1), (3,2,2,1,1), (3,2,2,2). Summing the number of permutations for each type gives 102,960."
+  },
+  {
+    "id": 577,
+    "Question": "Find the number of derangements of 36 items, D_36.",
+    "Solution": "D_n is the integer closest to n!/e. For n=36, D_36 is approximately 1.37 x 10^41."
+  },
+  {
+    "id": 578,
+    "Question": "How many non-isomorphic graphs are there on 26 vertices?",
+    "Solution": "This number is enormous and known only through computation. It is approximately 2.37 x 10^53."
+  },
+  {
+    "id": 579,
+    "Question": "What is the number of distinct solutions to the 28-Queens problem?",
+    "Solution": "This is currently unknown. The last computed value is for n=27. It requires massive distributed computing power to find."
+  },
+  {
+    "id": 580,
+    "Question": "What is the value of the Ramsey number R(15, 17)?",
+    "Solution": "The exact value is unknown. Bounds can be derived: 1261 <= R(15,17) <= 479153."
+  },
+  {
+    "id": 581,
+    "Question": "How many numbers from 1 to 1,000,000 are not divisible by 2, 3, or 5?",
+    "Solution": "Using inclusion-exclusion. 1M - (500k+333k+200k) + (166k+100k+66k) - (33k). Simplified: 1M*(1-1/2)(1-1/3)(1-1/5) = 1M*(1/2)(2/3)(4/5) = 266,666."
+  },
+  {
+    "id": 582,
+    "Question": "What is the number of non-isomorphic groups of order 512?",
+    "Solution": "512 = 2^9. Classifying p-groups is a notoriously hard problem. The number of groups of order 2^9 is 10,494,213."
+  },
+  {
+    "id": 583,
+    "Question": "How many ways to write the number 120 as a product of 3 ordered factors?",
+    "Solution": "120 = 2^3 * 3^1 * 5^1. Number of solutions to a+b+c=3 is C(5,2)=10. For a+b+c=1 is C(3,2)=3. Total is 10 * 3 * 3 = 90."
+  },
+  {
+    "id": 584,
+    "Question": "What is the coefficient of x^50 in the expansion of (1+x+x^2)^40?",
+    "Solution": "Using the multinomial theorem, we need to sum C(40; a,b,c) where a+b+c=40 and b+2c=50. This requires a computer algebra system to evaluate the sum. The coefficient is 1,221,418,527,240."
+  },
+  {
+    "id": 585,
+    "Question": "What is the number of labeled bipartite graphs on 10 vertices?",
+    "Solution": "Sum over all partitions of 10 into k and 10-k: Sum_{k=1 to 5} C(10,k) * 2^(k(10-k)). The calculation results in 199,352."
+  },
+  {
+    "id": 586,
+    "Question": "What is the value of the Ramsey number R(26, 26)?",
+    "Solution": "The exact value of R(26, 26) is unknown. The best current bounds are approximately 6649 <= R(26, 26) <= 200,000,000."
+  },
+  {
+    "id": 587,
+    "Question": "How many ways can 100 people be divided into 10 discussion groups of 10 people each?",
+    "Solution": "This is partitioning a set of 100 into 10 sets of 10. The number is C(100,10)C(90,10)...C(10,10) / 10!, which is 100! / ((10!)^11)."
+  },
+  {
+    "id": 588,
+    "Question": "Find the number of derangements of 37 items, D_37.",
+    "Solution": "D_n is the integer closest to n!/e. For n=37, D_37 is approximately 5.05 x 10^42."
+  },
+  {
+    "id": 589,
+    "Question": "What is the maximum number of edges in a graph on 30 vertices that does not contain a copy of the Petersen graph?",
+    "Solution": "This is ex(30, Petersen). The Petersen graph is not bipartite. A Turan-type bound suggests a C_3 free graph might give a bound. The exact value is an open research problem, but is likely around 210."
+  },
+  {
+    "id": 590,
+    "Question": "What is the value of the van der Waerden number W(9, 9)?",
+    "Solution": "This number is unknown and fantastically large, completely beyond current techniques."
+  },
+  {
+    "id": 591,
+    "Question": "What is the value of the Ramsey number R(16, 18)?",
+    "Solution": "The exact value is unknown. Bounds can be derived: 1530 <= R(16,18) <= 933890."
+  },
+  {
+    "id": 592,
+    "Question": "What is the number of non-isomorphic groups of order 1024?",
+    "Solution": "1024 = 2^10. This is the p-group classification problem. The number of groups of order 2^10 is 49,487,365,422."
+  },
+  {
+    "id": 593,
+    "Question": "How many ways to write 10^10 as a product of two coprime factors?",
+    "Solution": "10^10 = 2^10 * 5^10. Two factors are coprime if they don't share a prime factor. The only ways are {1, 10^10} and {2^10, 5^10}. So there are 2 ways."
+  },
+  {
+    "id": 594,
+    "Question": "What is the number of distinct solutions to the 29-Queens problem?",
+    "Solution": "This is unknown. n=27 is the current record for exact computation."
+  },
+  {
+    "id": 595,
+    "Question": "How many unlabeled graphs on 100 vertices have diameter 1?",
+    "Solution": "A graph has diameter 1 if and only if it is a complete graph. For any number of vertices, there is only one complete graph up to isomorphism. The answer is 1."
+  },
+  {
+    "id": 596,
+    "Question": "What is the number of integer partitions of 100 into exactly 20 parts?",
+    "Solution": "This is equivalent to partitioning 80 into at most 20 parts. It can be computed by dynamic programming. The value is 353,134."
+  },
+  {
+    "id": 597,
+    "Question": "How many ways can a deck of 52 cards be dealt to 4 players (13 cards each)?",
+    "Solution": "This is given by the multinomial coefficient C(52; 13,13,13,13) = 52! / (13!)^4. This is a massive number, approx 5.36 x 10^28."
+  },
+  {
+    "id": 598,
+    "Question": "Find the number of derangements of 38 items, D_38.",
+    "Solution": "D_n is the integer closest to n!/e. For n=38, D_38 is approximately 1.92 x 10^44."
+  },
+  {
+    "id": 599,
+    "Question": "How many ways to tile a 40x40 grid with 4x4 squares?",
+    "Solution": "This is equivalent to tiling a 10x10 grid with 1x1 squares. There is only one way to do this."
+  },
+  {
+    "id": 600,
+    "Question": "What is the value of the Ramsey number R(30, 30)?",
+    "Solution": "The exact value of R(30, 30) is unknown. The best current bounds are approximately 11000 <= R(30, 30) <= 10^15."
+  }
+
+
+]

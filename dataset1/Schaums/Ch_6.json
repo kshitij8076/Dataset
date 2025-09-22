@@ -1,0 +1,382 @@
+[
+  {
+    "question_number": 6.1,
+    "images":["images/arihant_ch16_72.png"],
+    "Questions": "In Fig. 6-1, assume that the object is being pulled along the ground by a 75-N force directed 28° above the horizontal. How much work does the force do in pulling the object 8.0 m?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "W = (75 N)(cos 28°)(8.0 m) = 0.53 kJ"
+  },
+  {
+    "question_number": 6.2,
+    "images":["images/arihant_ch16_73.png"],
+    "Questions": "A block moves up a 30° incline under the action of certain forces shown in Fig. 6-2. Determine the work done by each force as the block moves 80 cm up the incline.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Work by F₁ = (40 N)(cos 30°)(0.80 m) = 28 J; Work by F₂ = 0; Work by F₃ = (30 N)(0.80 m) = 24 J"
+  },
+  {
+    "question_number": 6.3,
+    "Questions": "A 300-g object slides 80 cm along a horizontal tabletop. How much work is done in overcoming friction if the coefficient of kinetic friction is 0.20?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F_f = μ_k * F_N = (0.20)(0.300 kg)(9.81 m/s²) = 0.588 N; Work = (0.588 N)(0.80 m)(-1) = -0.47 J"
+  },
+  {
+    "question_number": 6.4,
+    "Questions": "How much work is done against gravity in lifting a 3.0-kg object through a vertical distance of 40 cm?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Work = (3.0 kg)(9.81 m/s²)(0.40 m) = 12 J"
+  },
+  {
+    "question_number": 6.5,
+    "Questions": "How much work is done on an object by the force that supports it as the object is lowered through a vertical distance h? How much work does the gravitational force on it do in this same process?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Supporting force: W = -mgh; Gravity: W = mgh"
+  },
+  {
+    "question_number": 6.6,
+    "Questions": "A ladder 3.0 m long and weighing 200 N has its center of gravity 120 cm from the bottom. At its top end is a 50-N weight. Compute the work required to raise the ladder from a horizontal to vertical position.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Work = (200 N)(1.20 m) + (50 N)(3.0 m) = 0.39 kJ"
+  },
+  {
+    "question_number": 6.7,
+    "Questions": "Compute the work done against gravity by a pump that discharges 600 liters of fuel oil into a tank 20 m above the pump’s intake. The density of the oil is 0.82 g/cm³.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Mass = 492 kg; Work = (492 kg)(9.81 m/s²)(20 m) = 96 kJ"
+  },
+  {
+    "question_number": 6.8,
+    "Questions": "A 2.0-kg mass falls 400 cm. (a) How much work was done on it by the gravitational force? (b) How much PE_G did it lose?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) Work = (2.0 kg)(9.81 m/s²)(4.00 m) = 78 J; (b) PE_G = -78 J"
+  },
+  {
+    "question_number": 6.9,
+    "Questions": "A force of 1.50 N acts on a 0.20-kg cart to accelerate it along an air track. The track and force are horizontal. How fast is the cart going after accelerating from rest through 30 cm, if friction is negligible?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "v = √(2*1.50*0.30 / 0.20) = 2.1 m/s"
+  },
+  {
+    "question_number": 6.10,
+    "Questions": "A 0.50-kg block slides across a tabletop with an initial velocity of 20 cm/s and comes to rest in a distance of 70 cm. Find the average friction force that retarded its motion.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F_f = 0.014 N"
+  },
+  {
+    "question_number": 6.11,
+    "Questions": "A car going 15 m/s is brought to rest in a distance of 2.0 m. What average force is exerted by seatbelts on a 90-kg passenger as the car is stopped?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F = 5.1 kN"
+  },
+  {
+    "question_number": 6.12,
+    "Questions": "A projectile is shot upward with speed 20 m/s. How high is it when its speed is 8.0 m/s?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "h = (20² - 8²)/(2*9.81) = 17 m"
+  },
+  {
+    "question_number": 6.13,
+    "Questions": "In an Atwood machine, one mass is 800 g and the other is 700 g. The system is released from rest. How fast is the 800-g mass moving after it has fallen 120 cm?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "v = 1.25 m/s"
+  },
+  {
+    "question_number": 6.14,
+    "images":["images/arihant_ch16_74.png"],
+    "Questions": "If friction forces are negligible and the bead has a speed of 2.0 m/s at A, what will be its speed (a) at point B? (b) at point C?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) v = 4.4 m/s; (b) v = 3.1 m/s"
+  },
+  {
+    "question_number": 6.15,
+    "Questions": "The bead in Fig. 6-3 has a mass of 15 g and a speed of 2.0 m/s at A. It stops at point C. How large an average friction force opposed the motion?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F_f = 0.030 N"
+  },
+  {
+    "question_number": 6.16,
+    "images":["images/arihant_ch16_75.png"],
+    "Questions": "A 1200-kg car is coasting down a 30° hill at 12 m/s. It comes to a stop after 100 m. What constant force opposed the motion?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F = 6.7 kN"
+  },
+  {
+    "question_number": 6.17,
+    "images":["images/arihant_ch16_76.png"],
+    "Questions": "A ball swings on a 180-cm string at 400 cm/s. (a) How high will it rise before stopping? (b) What angle does it make with the vertical?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) h = 0.816 m; (b) θ = 56.9°"
+  },
+  {
+    "question_number": 6.18,
+    "images":["images/arihant_ch16_77.png"],
+    "Questions": "A 500-g block is shot up a 25° incline with an initial speed of 200 cm/s. How far will it go if the coefficient of friction is 0.150?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "D = 0.365 m"
+  },
+  {
+    "question_number": 6.19,
+    "Questions": "A 60,000-kg train is pulled up a 1.0% grade by a drawbar pull of 3.0 kN. The friction force is 4.0 kN. If it slows from 12 m/s to 9.0 m/s, how far does it move?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "s = 275 m = 0.28 km"
+  },
+  {
+    "question_number": 6.20,
+    "Questions": "A 1200-kg car accelerates from rest to 25 m/s in 8.0 s. What average power must the motor produce, ignoring friction?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Power = 47 kW = 63 hp"
+  },
+  {
+    "question_number": 6.21,
+    "Questions": "A 0.25-hp motor lifts a load at 5.0 cm/s. How great a load can it lift at this speed?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "m = 381 kg"
+  },
+  {
+    "question_number": 6.22,
+    "Questions": "Repeat Problem 6.20 for a car going up a 20° incline.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Work = 0.78 × 10³ kJ"
+  },
+  {
+    "question_number": 6.23,
+    "Questions": "An elevator lifts grain at a rate of 2.0 kg/s, raising it 12 m at 3.0 m/s. What is the minimum horsepower required?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Power = 0.24 kW"
+  },
+  {
+    "question_number": 6.24,
+    "Questions": "A force of 3.0 N acts through a distance of 12 m in the direction of the force. Find the work done.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Work = 3.0 N × 12 m = 36 J"
+  },
+  {
+    "question_number": 6.25,
+    "Questions": "A 4.0-kg object is lifted 1.5 m. (a) How much work is done against the Earth’s gravity? (b) Repeat if the object is lowered instead of lifted.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) W = mgh = (4.0 kg)(9.81 m/s²)(1.5 m) = 59 J; (b) -59 J"
+  },
+  {
+    "question_number": 6.26,
+    "Questions": "A uniform rectangular marble slab is 3.4 m long and 2.0 m wide. It has a mass of 180 kg. If it is originally lying on the flat ground, how much work is needed to stand it on end?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "W = mgh = (180 kg)(9.81 m/s²)(1.7 m) = 3.0 kJ"
+  },
+  {
+    "question_number": 6.27,
+    "Questions": "How large a force is required to accelerate a 1300-kg car from rest to a speed of 20 m/s in a distance of 80 m?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F = (0.5)(1300 kg)(20 m/s)² / 80 m = 3.3 kN"
+  },
+  {
+    "question_number": 6.28,
+    "Questions": "A 1200-kg car going 30 m/s applies its brakes and skids to rest. If the friction force between the sliding tires and the pavement is 6000 N, how far does the car skid before coming to rest?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "W = ΔKE = 0.5 × 1200 × 30² = 540,000 J ⇒ d = W/F = 540,000/6000 = 90 m"
+  },
+  {
+    "question_number": 6.29,
+    "Questions": "A proton (m = 1.67 × 10⁻²⁷ kg) with speed of 5.0 × 10⁶ m/s passes through a metal film of thickness 0.010 mm and emerges with a speed of 2.0 × 10⁶ m/s. How large an average force opposed its motion through the film?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F = ΔKE/d = 1.8 × 10⁻¹⁵ N"
+  },
+  {
+    "question_number": 6.30,
+    "Questions": "A 200-kg cart is pushed slowly up an incline. How much work does the pushing force do in moving the cart up to a platform 1.5 m above the starting point if friction is negligible?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "W = mgh = (200 kg)(9.81 m/s²)(1.5 m) = 2.9 kJ"
+  },
+  {
+    "question_number": 6.31,
+    "Questions": "Repeat Problem 6.30 if the distance along the incline to the platform is 7.0 m and a friction force of 150 N opposes the motion.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "W = 2.9 kJ + (150 N)(7.0 m) = 4.0 kJ"
+  },
+  {
+    "question_number": 6.32,
+    "Questions": "A 50,000-kg freight car is pulled 800 m up along a 1.20 percent grade at constant speed. (a) Find the work done against gravity by the drawbar pull. (b) If the friction force retarding the motion is 1500 N, find the total work done.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) W = (50000 kg)(9.81 m/s²)(0.012×800 m) = 4.70 MJ; (b) W_total = 4.70 MJ + (1500 N)(800 m) = 5.90 MJ"
+  },
+  {
+    "question_number": 6.33,
+    "Questions": "A 60-kg woman walks up a flight of stairs that connects two floors 3.0 m apart. (a) How much lifting work is done on the woman? (b) How much lifting work is done by the woman? (c) By how much does the woman’s PE_G change?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) (b) (c) W = mgh = (60 kg)(9.81 m/s²)(3.0 m) = 1.8 kJ"
+  },
+  {
+    "question_number": 6.34,
+    "Questions": "A pump lifts water from a lake to a large tank 20 m above the lake. How much work against gravity does the pump do as it transfers 5.0 m³ of water to the tank?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "W = mgh = (5000 kg)(9.81 m/s²)(20 m) = 9.8 × 10⁵ J"
+  },
+  {
+    "question_number": 6.35,
+    "Questions": "Just before striking the ground, a 2.0-kg mass has 400 J of KE. If friction can be ignored, from what height was it dropped?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "h = KE / (mg) = 400 J / (2.0 kg × 9.81 m/s²) = 20.0 m"
+  },
+  {
+    "question_number": 6.36,
+    "Questions": "A 0.50-kg ball falls past a window that is 1.50 m in vertical length. (a) How much did the KE of the ball increase as it fell past the window? (b) If its speed was 3.0 m/s at the top of the window, what was its speed at the bottom?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) ΔKE = mgh = 0.50 × 9.81 × 1.50 = 7.4 J; (b) v = √(3² + 2gh) = 6.2 m/s"
+  },
+  {
+    "question_number": 6.37,
+    "Questions": "A nitrogen molecule has translational KE of 6.2 × 10⁻²¹ J and mass 4.7 × 10⁻²⁶ kg. (a) If shot vertically, how high would it rise? (b) What is its initial speed?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) h = KE/mg = 6.2e-21 / (4.7e-26 × 9.81) = 14 km; (b) v = √(2KE/m) = 0.51 km/s"
+  },
+  {
+    "question_number": 6.38,
+    "Questions": "A 900-kg car moving at 25 m/s begins to skid to a stop with μ = 0.80. How far will it go before stopping?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "d = v² / (2μg) = 25² / (2×0.8×9.81) = 40 m"
+  },
+  {
+    "question_number": 6.39,
+    "images":["images/arihant_ch16_78.png"],
+    "Questions": "In Fig. 6-7, a pendulum is released from A. (a) What will be the speed at C? (b) What is the ball’s speed at B?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) v_C = √(2gh) = 3.8 m/s; (b) v_B = √(2g(h_A - h_B)) = 3.4 m/s"
+  },
+  {
+    "question_number": 6.40,
+    "Questions": "A 1200-kg car coasts down a 20° driveway, 15 m long. (a) Find its speed at the bottom if no friction. (b) If a 3000-N force opposes it, find the speed.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) v = √(2gh) = 10 m/s; (b) v = 5.1 m/s"
+  },
+  {
+    "question_number": 6.41,
+    "Questions": "A 1200-kg car slows from 20 m/s to 15 m/s over 130 m. How large a force opposes the motion?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F = ΔKE / d = 0.5 × 1200 × (20² - 15²) / 130 = 0.81 kN"
+  },
+  {
+    "question_number": 6.42,
+    "Questions": "A 2000-kg elevator rises 25 m to the fourth floor. If it reaches 3.0 m/s and faces 500 N friction, find the work done by the mechanism.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "W = mgh + KE + friction × d = 0.51 MJ"
+  },
+  {
+    "question_number": 6.43,
+    "images":["images/arihant_ch16_79.png"],
+    "Questions": "Fig. 6-8 shows a bead sliding. What height h₁ is needed if the bead at rest at A reaches 200 cm/s at B?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "h = v² / (2g) = 20.4 cm"
+  },
+  {
+    "question_number": 6.44,
+    "Questions": "In Fig. 6-8, h₁ = 50.0 cm, h₂ = 30.0 cm, and the length along the wire from A to C is 400 cm. A 3.00-g bead released at A coasts to C and stops. How large an average friction force opposed its motion?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F_f = (mgh_loss) / s = [(3.00 g)(9.81)(0.20)] / 4.00 m = 1.47 mN"
+  },
+  {
+    "question_number": 6.45,
+    "Questions": "In Fig. 6-8, h₁ = 200 cm, h₂ = 150 cm, and at A the 3.00-g bead has a downward speed of 800 cm/s. (a) How fast is the bead moving at point B if friction is negligible? (b) How much energy did the bead lose to friction if it rises to a height of 20.0 cm above C after it leaves the wire?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) v_B = √(v₀² + 2gΔh) = 10.2 m/s; (b) W_friction = mgh_loss + ΔKE = 105 mJ"
+  },
+  {
+    "question_number": 6.46,
+    "Questions": "Calculate the average horsepower required to raise a 150-kg drum to a height of 20 m in a time of 1.0 minute.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "P = W / t = (150×9.81×20)/60 s = 0.66 hp"
+  },
+  {
+    "question_number": 6.47,
+    "Questions": "Compute the power output of a machine that lifts a 500-kg crate through a height of 20.0 m in a time of 60.0 s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "P = (500 kg)(9.81)(20 m) / 60 s = 1.63 kW"
+  },
+  {
+    "question_number": 6.48,
+    "Questions": "An engine expends 40.0 hp in propelling a car along a level track at 15.0 m/s. How large is the total retarding force acting on the car?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F = Power / speed = (40.0 × 746 W) / 15.0 m/s = 1.99 kN"
+  },
+  {
+    "question_number": 6.49,
+    "Questions": "A 1000-kg auto travels up a 3.0 percent grade at 20 m/s. Find the horsepower required, neglecting friction.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "P = mgh/t = (1000×9.81×0.03×20) = 7.9 hp"
+  },
+  {
+    "question_number": 6.50,
+    "Questions": "A 900-kg car whose motor delivers a maximum power of 40.0 hp to its wheels can maintain a steady speed of 130 km/h on a horizontal roadway. How large is the friction force that impedes its motion at this speed?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F = Power / speed = (40 × 746) / (130 × 1000 / 3600) = 826 N"
+  },
+  {
+    "question_number": 6.51,
+    "Questions": "Water flows from a reservoir at the rate of 3000 kg/min, to a turbine 120 m below. If the efficiency of the turbine is 80 percent, compute the horsepower output of the turbine. Neglect friction in the pipe and the small KE of the water leaving the turbine.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "P = (0.8)(mgh/t) = (0.8)(3000/60)(9.81)(120) / 746 = 63 hp"
+  },
+  {
+    "question_number": 6.52,
+    "Questions": "Find the mass of the largest box that a 40-hp engine can pull along a level road at 15 m/s if the friction coefficient between road and box is 0.15.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "m = P / (μg × v) = (40 × 746) / (0.15 × 9.81 × 15) = 1.4 × 10³ kg"
+  },
+  {
+    "question_number": 6.53,
+    "Questions": "A 1300-kg car is to accelerate from rest to a speed of 30.0 m/s in a time of 12.0 s as it climbs a 15.0° hill. Assuming uniform acceleration, what minimum horsepower is needed to accelerate the car in this way?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "P = (132 kW) = 132 hp"
+  }
+
+]

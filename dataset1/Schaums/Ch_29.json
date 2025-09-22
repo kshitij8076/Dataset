@@ -1,0 +1,97 @@
+[
+  {
+    "question_number": 29.1,
+    "Questions": "Find the currents in the circuit shown in Fig. 29-1.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_59.png",
+    "solution": "Using Kirchhoff’s rules: Apply node rule at b: I1 + I2 + I3 = 0. Loop abda: –7.0I1 + 6.0 + 4.0 = 0 → I1 = 10.0 / 7.0 A. Loop abca: –4.0 – 8.0 + 5.0I2 = 0 → I2 = 12.0 / 5.0 A. Then I3 = –I1 – I2 = –(10.0/7.0 + 12.0/5.0) = –3.8 A. The negative sign indicates I3 is in the opposite direction to that shown in the figure."
+  },
+  {
+    "question_number": 29.2,
+    "Questions": "In Fig. 29-2, find I1, I2, and I3 if switch S is (a) open and (b) closed.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_60.png",
+    "solution": "(a) S open: I3 = 0. Use node: I1 = I2. Loop acbda: –12.0 + 7.0I1 + 8.0I1 + 9.0 = 0 → 15.0I1 = 3.0 → I1 = I2 = 0.20 A. (b) S closed: Node: I1 + I3 = I2. Loops: acba → –12.0 + 7.0I1 – 4.0I3 = 0; adba → –9.0 – 8.0I2 – 4.0I3 = 0. Solve: I3 = –2.0I2 – 2.25; I1 = 3.0I2 + 2.25. Sub into node: I1 – I2 = I3 = –1.37 A, I2 = –0.44 A, I1 = 0.93 A."
+  },
+  {
+    "question_number": 29.3,
+    "Questions": "Each of the cells shown in Fig. 29-3 has an emf of 1.50 V and a 0.075 Ω internal resistance. Find I1, I2, and I3.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_61.png",
+    "solution": "Node rule: I1 = I2 + I3. Loops: abcea and adeca → 3.00I1 + 0.15I2 = 3.00 and 3.00I1 + 0.15I3 = 3.00. From symmetry: I2 = I3; hence I1 = 2I2. Substituting: 6.00I2 + 0.15I2 = 3.00 → I2 = I3 = 0.488 A, I1 = 0.976 A."
+  },
+  {
+    "question_number": 29.4,
+    "Questions": "The currents are steady in the circuit of Fig. 29-4. Find I1, I2, I3, I4, I5, and the charge on the capacitor.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_62.png",
+    "solution": "I5 = 0 (capacitor blocks DC). Loop acba: –8.0 + 4.0I2 = 0 → I2 = 2.0 A. Loop adeca: –3.0I1 – 9.0 + 8.0 = 0 → I1 = –0.33 A. At point c: I1 + I5 + I2 = I3 → I3 = 1.67 A. At point a: I3 = I4 + I2 → I4 = –0.33 A. Loop dfgecd: V_fg = –1.0 V, Q = CV = (5.0 μF)(1.0 V) = 5.0 μC."
+  },
+  {
+    "question_number": 29.5,
+    "Questions": "For the circuit shown in Fig. 29-5, the resistance R is 5.0 Ω and ε = 20 V. Find the readings of the ammeter and the voltmeter. Assume the meters to be ideal.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_63.png",
+    "solution": "Loops: cdefc: 5.0I1 + 7.0I2 = 4.0 (1); cdeac: 5.0I1 – 2.0I3 = 32.0 (2); Node at e: I1 + I3 = I2 (3). Sub (3) into (1) gives 5.0I1 + 7.0(I1 + I3) = 4.0. Solve: I1 = 3.9 A (ammeter), I2 = –2.2 A, I3 = 6.1 A. Loop abca: V_ab – 7.0I2 – ε = 0 → V_ab = 4.3 V (voltmeter)."
+  },
+  {
+    "question_number": 29.6,
+    "Questions": "In the circuit in Fig. 29-5, I1 = 0.20 A and R = 5.0 Ω. Find ε.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_63.png",
+    "solution": "Loop cdefc: –5.0(0.20) + 12.0 – 8.0 – 7.0I2 = 0 → I2 = 0.43 A. Node: I1 + I3 = I2 → I3 = 0.23 A. Loop cdeac: –5.0(0.20) + 12.0 + 2.0(0.23) + ε = 0 → ε = –11.5 V."
+  },
+  {
+    "question_number": 29.7,
+    "Questions": "For the circuit shown in Fig. 29-6, find the current in the 0.96-Ω resistor and the terminal voltages of the batteries.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_64.png",
+    "solution": "Ans. 5.0 A, 4.8 V, 4.8 V"
+  },
+  {
+    "question_number": 29.8,
+    "Questions": "For the network shown in Fig. 29-7, determine (a) the three currents I1, I2, and I3, and (b) the terminal voltages of the three batteries.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_65.png",
+    "solution": "Ans. (a) I1 = 2 A, I2 = 1 A, I3 = –3 A; (b) V_16 = 14 V, V_4 = 3.8 V, V_10 = 8.5 V"
+  },
+  {
+    "question_number": 29.9,
+    "Questions": "Refer back to Fig. 29-5. If the voltmeter reads 16.0 V (with point b at the higher potential) and I2 = 0.20 A, find ε, R and the ammeter reading.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_63.png",
+    "solution": "Ans. 14.6 V, 0.21 Ω, 12 A"
+  },
+  {
+    "question_number": 29.10,
+    "Questions": "Find I1, I2, I3, and the potential difference between point b to point e in Fig. 29-8.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_66.png",
+    "solution": "Ans. I1 = 2.0 A, I2 = –8.0 A, I3 = 6.0 A, V_be = –13.0 V"
+  },
+  {
+    "question_number": 29.11,
+    "Questions": "In Fig. 29-9, R = 10.0 Ω and ε = 13 V. Find the readings of the ideal ammeter and voltmeter.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_67.png",
+    "solution": "Ans. 8.4 A, 27 V with point a positive"
+  },
+  {
+    "question_number": 29.12,
+    "Questions": "In Fig. 29-9, the voltmeter reads 14 V (with point a at the higher potential) and the ammeter reads 4.5 A. Find ε and R.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. ε = 0, R = 3.2 Ω"
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "question_number": 16.1,
+    "Questions": "A mass of oxygen occupies 0.0200 m³ at atmospheric pressure, 101 kPa, and 5.0°C. Determine its volume if its pressure is increased to 108 kPa while its temperature is changed to 30°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "V₂ = (0.0200 m³)(101/108)(303/278) = 0.0204 m³"
+  },
+  {
+    "question_number": 16.2,
+    "Questions": "On a day when atmospheric pressure is 76 cmHg, the pressure gauge on a tank reads the pressure inside to be 400 cmHg. The gas in the tank has a temperature of 9°C. If the tank is heated to 31°C by the Sun, and if no gas exits from it, what will the pressure gauge read?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The gauge will read 513 cmHg − 76 cmHg = 437 cmHg"
+  },
+  {
+    "question_number": 16.3,
+    "Questions": "The gauge pressure in a car tire is 305 kPa when its temperature is 15°C. After running at high speed, the tire has heated up and its pressure is 360 kPa. What is then the temperature of the gas in the tire? Assume atmospheric pressure to be 101 kPa.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The final temperature of the tire is 327 − 273 = 54°C."
+  },
+  {
+    "question_number": 16.4,
+    "Questions": "Gas at room temperature and pressure is confined to a cylinder by a piston. The piston is now pushed in so as to reduce the volume to one-eighth of its original value. After the gas temperature has returned to room temperature, what is the gauge pressure of the gas in kPa? Local atmospheric pressure is 740 mm of mercury.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Gauge pressure = 5920 mmHg − 740 mmHg = 5180 mmHg = 690 kPa"
+  },
+  {
+    "question_number": 16.5,
+    "Questions": "An ideal gas has a volume of exactly 1 liter at 1.00 atm and −20°C. To how many atmospheres must it be subjected to be compressed to 0.500 liter when the temperature is 40°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "P₂ = 2.47 atm"
+  },
+  {
+    "question_number": 16.6,
+    "Questions": "A certain mass of hydrogen gas occupies 370 mL at 16°C and 150 kPa. Find its volume at −21°C and 420 kPa.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "V₂ = 115 mL"
+  },
+  {
+    "question_number": 16.7,
+    "Questions": "The density of nitrogen is 1.25 kg/m³ at S.T.P. Determine the density of nitrogen at 42°C and 730 mm of mercury.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ρ₂ = 1.04 kg/m³"
+  },
+  {
+    "question_number": 16.8,
+    "Questions": "A 3.0-liter tank contains oxygen gas at 20°C and a gauge pressure of 25 × 10⁵ Pa. What mass of oxygen is in the tank? The molecular mass of oxygen gas is 32 kg/kmol. Assume atmospheric pressure to be 1 × 10⁵ Pa.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "m = 0.10 kg"
+  },
+  {
+    "question_number": 16.9,
+    "Questions": "Determine the volume occupied by 4.0 g of oxygen (M = 32 kg/kmol) at S.T.P.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "V = 2.8 × 10⁻³ m³"
+  },
+  {
+    "question_number": 16.10,
+    "Questions": "A 2.0-mg droplet of liquid nitrogen is present in a 30 mL tube as it is sealed off at very low temperature. What will be the nitrogen pressure in the tube when it is warmed to 20°C? Express your answer in atmospheres. (M for nitrogen is 28 kg/kmol.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "P = 0.057 atm"
+  },
+  {
+    "question_number": 16.11,
+    "Questions": "A tank of volume 590 liters contains oxygen at 20°C and 5.0 atm pressure. Calculate the mass of oxygen in the tank. M = 32 kg/kmol for oxygen.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "m = 3.9 kg"
+  },
+  {
+    "question_number": 16.12,
+    "Questions": "At 18°C and 765 mmHg, 1.29 liters of an ideal gas has a mass of 2.71 g. Compute the molecular mass of the gas.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "M = 50.0 kg/kmol"
+  },
+  {
+    "question_number": 16.13,
+    "Questions": "Compute the volume of 8.0 g of helium (M = 4.0 kg/kmol) at 15°C and 480 mmHg.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "V = 75 liters"
+  },
+  {
+    "question_number": 16.14,
+    "Questions": "Find the density of methane (M = 16 kg/kmol) at 20°C and 5.0 atm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ρ = 3.3 kg/m³"
+  },
+  {
+    "question_number": 16.15,
+    "Questions": "A fish emits a 2.0 mm³ bubble at a depth of 15 m in a lake. Find the volume of the bubble as it reaches the surface. Assume its temperature does not change.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "V₂ = 4.9 mm³"
+  },
+  {
+    "question_number": 16.16,
+    "Questions": "A 15 cm long test tube of uniform bore is lowered, open end down, into a fresh-water lake. How far below the surface of the lake must the water level be in the tube if one-third of the tube is to be filled with water?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "h = 5.1 m"
+  },
+  {
+    "question_number": 16.17,
+    "Questions": "A tank contains 18 kg of N₂ gas (M = 28 kg/kmol) at a pressure of 4.50 atm. How much H₂ gas (M = 2.0 kg/kmol) at 3.50 atm would the same tank contain?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.0 kg"
+  },
+  {
+    "question_number": 16.18,
+    "Questions": "In a gaseous mixture at 20°C the partial pressures of the components are as follows: hydrogen, 200 mmHg; carbon dioxide, 150 mmHg; methane, 320 mmHg; ethylene, 105 mmHg. What are (a) the total pressure of the mixture and (b) the mass fraction of hydrogen? (M_H = 2.0 kg/kmol, M_CO₂ = 44 kg/kmol, M_methane = 16 kg/kmol, M_ethylene = 30 kg/kmol.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) Total pressure = 775 mmHg; (b) mass fraction of hydrogen = 0.026"
+  },
+  {
+    "question_number": 16.19,
+    "Questions": "A certain mass of an ideal gas occupies a volume of 4.00 m³ at 758 mmHg. Compute its volume at 635 mmHg if the temperature remains unchanged.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 4.77 m³"
+  },
+  {
+    "question_number": 16.20,
+    "Questions": "A given mass of ideal gas occupies 38 mL at 20°C. If its pressure is held constant, what volume does it occupy at a temperature of 45°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 41 mL."
+  },
+  {
+    "question_number": 16.21,
+    "Questions": "On a day when atmospheric pressure is 75.83 cmHg, a pressure gauge on a tank of gas reads a pressure of 258.5 cmHg. What is the absolute pressure (in atmospheres and kPa) of the gas in the tank?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 334.3 cmHg = 4.398 atm = 445.6 kPa"
+  },
+  {
+    "question_number": 16.22,
+    "Questions": "A tank of ideal gas is sealed off at 20°C and 1.00 atm pressure. What will be the pressure (in kPa and mmHg) in the tank if the gas temperature is decreased to −35°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 82 kPa = 6.2 × 10² mmHg"
+  },
+  {
+    "question_number": 16.23,
+    "Questions": "Given 1000 mL of helium at 15°C and 763 mmHg, determine its volume at −6°C and 420 mmHg.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.68 × 10³ mL"
+  },
+  {
+    "question_number": 16.24,
+    "Questions": "One kilomole of ideal gas occupies 22.4 m³ at 0°C and 1 atm. (a) What pressure is required to compress 1.00 kmol into a 5.00 m³ container at 100°C? (b) If 1.00 kmol was to be sealed in a 5.00 m³ tank that could withstand a gauge pressure of only 3.00 atm, what would be the maximum temperature of the gas if the tank was not to burst?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 6.12 atm; (b) −30°C"
+  },
+  {
+    "question_number": 16.25,
+    "Questions": "Air is trapped in the sealed lower end of a capillary tube by a mercury column as shown in Fig. 16-1. The top of the tube is open. The temperature is 14°C, and atmospheric pressure is 740 mmHg. What length would the trapped air column have if the temperature were 30°C and atmospheric pressure were 760 mmHg?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 12.4 cm",
+    "images" : "images_1/Schaums_ch16_to_46_1.png"
+  },
+  {
+    "question_number": 16.26,
+    "Questions": "Air is trapped in the sealed lower part of the vertical capillary tube shown in Fig. 16-1 by an 8.0 cm long mercury column. The top is open, and the system is at equilibrium. What will be the length of the trapped air column if the tube is now tilted so it makes an angle of 65° to the vertical? Take P₁ = 76 cmHg.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.13 m"
+  },
+  {
+    "question_number": 16.27,
+    "Questions": "On a day when the barometer reads 75.23 cm, a reaction vessel holds 250 mL of ideal gas at 20°C. An oil manometer (ρ = 810 kg/m³) reads the pressure in the vessel to be 41.0 cm of oil and below atmospheric pressure. What volume will the gas occupy under S.T.P.?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 233 mL"
+  },
+  {
+    "question_number": 16.28,
+    "Questions": "A 5000-cm³ tank contains an ideal gas (M = 40 kg/kmol) at a gauge pressure of 530 kPa and a temperature of 25°C. Assuming atmospheric pressure to be 100 kPa, what mass of gas is in the tank?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.051 kg"
+  },
+  {
+    "question_number": 16.29,
+    "Questions": "The pressure of air in a reasonably good vacuum might be 2.0 × 10⁻⁵ mmHg. What mass of air exists in a 250 mL volume at this pressure and 25°C? Take M = 28 kg/kmol for air.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 7.5 × 10⁻¹² kg"
+  },
+  {
+    "question_number": 16.30,
+    "Questions": "What volume will 1.216 g of SO₂ gas (M = 64.1 kg/kmol) occupy at 18.0°C and 755 mmHg if it acts like an ideal gas?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 457 mL."
+  },
+  {
+    "question_number": 16.31,
+    "Questions": "Compute the density of H₂S gas (M = 34.1 kg/kmol) at 27°C and 2.00 atm, assuming it to be ideal.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2.76 kg/m³"
+  },
+  {
+    "question_number": 16.32,
+    "Questions": "A 30-mL tube contains 0.25 g of water vapor (M = 18 kg/kmol) at a temperature of 340°C. Assuming the gas to be ideal, what is its pressure?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2.4 MPa"
+  },
+  {
+    "question_number": 16.33,
+    "Questions": "One method for estimating the temperature at the center of the Sun is based on the Ideal Gas Law. If the center is assumed to consist of gases whose average M is 0.70 kg/kmol, and if the density and pressure are 90 x 10³ kg/m³ and 1.4 x 10¹¹ atm, respectively, calculate the temperature.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.3 × 10⁷ K"
+  },
+  {
+    "question_number": 16.34,
+    "Questions": "A 500-mL sealed flask contains nitrogen at a pressure of 76.00 cmHg. A tiny glass tube lies at the bottom of the flask. Its volume is 0.50 mL and it contains hydrogen gas at a pressure of 4.5 atm. Suppose the glass tube is now broken so that the hydrogen fills the flask. What is the new pressure in the flask?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 76.34 cmHg"
+  },
+  {
+    "question_number": 16.35,
+    "Questions": "As shown in Fig. 16-2, two flasks are connected by an initially closed stopcock. One flask contains krypton gas at 500 mmHg, while the other contains helium at 950 mmHg. The stopcock is now opened so that the gases mix. What is the final pressure in the system? Assume constant temperature.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 789 mmHg",
+    "images" : "images_1/Schaums_ch16_to_46_2.png"
+  },
+  {
+    "question_number": 16.36,
+    "Questions": "An air bubble of volume V₀ is released near the bottom of a lake at a depth of 11.0 m. What will be its new volume at the surface? Assume its temperature to be 4.0°C at the release point and 12°C at the surface. The water has a density of 1000 kg/m³, and atmospheric pressure is 75 cmHg.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2.1 V₀"
+  },
+  {
+    "question_number": 16.37,
+    "Questions": "A cylindrical diving bell (a vertical cylinder with open bottom end and closed top end) 12.0 m high is lowered in a lake until water within the bell rises 8.0 m from the bottom end. Determine the distance from the top of the bell to the surface of the lake. (Atmospheric pressure = 1.00 atm.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 20.6 m − 4.0 m = 16.6 m"
+  }
+]

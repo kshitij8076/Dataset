@@ -1,0 +1,164 @@
+[
+  {
+    "question_number": 15.1,
+    "Questions": "A copper bar is 80 cm long at 15°C. What is the increase in length when it is heated to 35°C? The linear expansion coefficient for copper is 1.7 x 10⁻⁵ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ΔL = αL₀ΔT = (1.7 x 10⁻⁵ °C⁻¹)(0.80m)[(35 — 15) °C] = 2.7 x 10⁻⁴ m"
+  },
+  {
+    "question_number": 15.2,
+    "Questions": "A cylinder of diameter 1.00000 cm at 30°C is to be slid into a hole in a steel plate. The hole has a diameter of 0.99970 cm at 30°C. To what temperature must the plate be heated? For steel, α = 1.1 x 10⁻⁵ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The temperature of the plate must be 30 + 27 = 57°C."
+  },
+  {
+    "question_number": 15.3,
+    "Questions": "A steel tape is calibrated at 20°C. On a cold day when the temperature is —15°C, what will be the percent error in the tape? α_steel = 1.1 x 10⁻⁵ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "For a temperature change from 20°C to —15°C, we have ΔT = —35°C. ΔL/L₀ = (1.1 x 10⁻⁵ °C⁻¹)(-35°C) = -3.9 x 10⁻⁴ = -0.039%."
+  },
+  {
+    "question_number": 15.4,
+    "Questions": "A copper rod (α = 1.70 x 10⁻⁵ °C⁻¹) is 20 cm longer than an aluminum rod (α = 2.20 x 10⁻⁵ °C⁻¹). How long should the copper rod be if the difference in their lengths is to be independent of temperature?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Solving, we find that L₀ = 0.88 m."
+  },
+  {
+    "question_number": 15.5,
+    "Questions": "At 20.0°C a steel ball (α = 1.10 x 10⁻⁵ °C⁻¹) has a diameter of 0.9000 cm, while the diameter of a hole in an aluminum plate (α = 2.20 x 10⁻⁵ °C⁻¹) is 0.8990 cm. At what temperature (the same for both) will the ball just pass through the hole?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "At a temperature ΔT higher than 20.0°C, we wish the diameters of the ball and the hole to be equal. The final temperature is 121°C."
+  },
+  {
+    "question_number": 15.6,
+    "Questions": "A steel tape measures the length of a copper rod as 90.00 cm when both are at 10°C, the calibration temperature for the tape. What would the tape read for the length of the rod when both are at 30°C? α_steel = 1.1 x 10⁻⁵ °C⁻¹; α_copper = 1.7 x 10⁻⁵ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The tape will read 90.01 cm."
+  },
+  {
+    "question_number": 15.7,
+    "Questions": "A glass flask is filled \"to the mark\" with 50.00 cm³ of mercury at 18°C. If the flask and its contents are heated to 38°C, how much mercury will be above the mark? α_glass = 9.0 x 10⁻⁶ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We find that the mercury above the mark will be 0.15 cm³."
+  },
+  {
+    "question_number": 15.8,
+    "Questions": "The density of mercury at exactly 0°C is 13,600 kg/m³, and its volume expansion coefficient is 1.82 x 10⁻⁴ °C⁻¹. Calculate the density of mercury at 50.0°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The density at 50.0°C is 13.5 x 10³ kg/m³."
+  },
+  {
+    "question_number": 15.9,
+    "Questions": "Show that the density of a liquid or solid changes in the following way with temperature: Δρ = -ρβΔT.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We find that Δρ ≈ −ρ₀βΔT."
+  },
+  {
+    "question_number": 15.10,
+    "Questions": "Solve Problem 15.8 using the result of Problem 15.9.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ρ₀ρ₀ = 13.5 x 10³ kg/m³."
+  },
+  {
+    "question_number": 15.11,
+    "Questions": "A steel wire of 2.0 mm² cross-section is held straight (but under no tension) by attaching it firmly to two points a distance 1.50 m apart at 30°C. If the temperature now decreases to —10°C, and if the two tie points remain fixed, what will be the tension in the wire? For steel, α = 1.1 x 10⁻⁵ °C⁻¹ and Y = 2.0 x 10¹¹ N/m².",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The tension in the wire will be 176 N = 0.18 kN."
+  },
+  {
+    "question_number": 15.12,
+    "Questions": "When a building is constructed at —10°C, a steel beam (cross-sectional area 45 cm²) is put in place with its ends cemented in pillars. If the sealed ends cannot move, what will be the compressional force in the beam when the temperature is 25°C? For this kind of steel, α = 1.1 x 10⁻⁵ °C⁻¹ and Y = 2.0 x 10¹¹ N/m².",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The compressional force in the beam will be 3.5 x 10⁵ N."
+  },
+  {
+    "question_number": 15.13,
+    "Questions": "Compute the increase in length of 50 m of copper wire when its temperature changes from 12°C to 32°C. For copper, α = 1.7 x 10⁻⁵ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.7 cm"
+  },
+  {
+    "question_number": 15.14,
+    "Questions": "A rod 3.0 m long is found to have expanded 0.091 cm in length after a temperature rise of 60°C. What is α for the material of the rod?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 5.1 x 10⁻⁶ °C⁻¹"
+  },
+  {
+    "question_number": 15.15,
+    "Questions": "At 15.0°C, a bare wheel has a diameter of 30.000 cm, and the inside diameter of a steel rim is 29.930 cm. To what temperature must the rim be heated so as to slip over the wheel? For this type of steel, α = 1.10 x 10⁻⁵ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 227°C"
+  },
+  {
+    "question_number": 15.16,
+    "Questions": "An iron ball has a diameter of 6 cm and is 0.010 mm too large to pass through a hole in a brass plate when the ball and plate are at a temperature of 30°C. At what temperature (the same for ball and plate) will the ball just pass through the hole? α = 1.2 x 10⁻⁵ °C⁻¹ and 1.9 x 10⁻⁵ °C⁻¹ for iron and brass, respectively.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 54°C"
+  },
+  {
+    "question_number": 15.17,
+    "Questions": "(a) An aluminum measuring rod, which is correct at 5.0°C, measures a certain distance as 88.42 cm at 35.0°C. Determine the error in measuring the distance due to the expansion of the rod. (b) If this aluminum rod measures a length of steel as 88.42 cm at 35.0°C, what is the correct length of the steel at 35°C? The coefficient of linear expansion of aluminum is 22 x 10⁻⁶ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. (a) 0.058 cm; (b) 88 cm"
+  },
+  {
+    "question_number": 15.18,
+    "Questions": "A solid sphere of mass m and radius b is spinning freely on its axis with angular velocity ω₀. When heated by an amount ΔT, its angular velocity changes to ω. Find ω/ω₀ if the linear expansion coefficient for the material of the sphere is α.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1 + 2αΔT + (αΔT)²"
+  },
+  {
+    "question_number": 15.19,
+    "Questions": "Calculate the increase in volume of 100 cm³ of mercury when its temperature changes from 10°C to 35°C. The volume coefficient of expansion of mercury is 0.00018°C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.45 cm³"
+  },
+  {
+    "question_number": 15.20,
+    "Questions": "The coefficient of linear expansion of glass is 9.0 x 10⁻⁶ °C⁻¹. If a specific gravity bottle holds 50,000 mL at 15°C, find its capacity at 25°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 50.014 mL"
+  },
+  {
+    "question_number": 15.21,
+    "Questions": "Determine the change in volume of a block of cast iron 5.0 cm x 10 cm x 6.0 cm, when the temperature changes from 15°C to 47°C. The coefficient of linear expansion of cast iron is 0.000010°C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.29 cm³"
+  },
+  {
+    "question_number": 15.22,
+    "Questions": "A glass vessel is filled with exactly 1 liter of turpentine at 20°C. What volume of the liquid will overflow if the temperature is raised to 86°C? The coefficient of linear expansion of the glass is 9.0 x 10⁻⁶ °C⁻¹; the coefficient of volume expansion of turpentine is 97 x 10⁻⁶ °C⁻¹.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 62 mL"
+  },
+  {
+    "question_number": 15.23,
+    "Questions": "The density of gold is 19.30 g/cm³ at 20.0°C, and the coefficient of linear expansion is 14.3 x 10⁻⁶ °C⁻¹. Compute the density of gold at 90.0°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 19.2 g/cm³"
+  }
+
+]

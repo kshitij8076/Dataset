@@ -1,0 +1,115 @@
+[
+  {
+    "question_number": 43.1,
+    "Questions": "What wavelength does a hydrogen atom emit as its excited electron falls from the n = 5 state to the n = 2 state? Give your answer to three significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Since Eₙ = -13.6/n² eV, we have E₅ = -0.54 eV and E₂ = -3.40 eV. The energy difference between these states is 3.40 - 0.54 = 2.86 eV. Because 1240 nm corresponds to 1.00 eV in an inverse proportion, we have, for the wavelength of the emitted photon, λ = (1.00 eV / 2.86 eV)(1240 nm) = 434 nm."
+  },
+  {
+    "question_number": 43.2,
+    "Questions": "When a hydrogen atom is bombarded, the atom may be raised into a higher energy state. As the excited electron falls back to the lower energy levels, light is emitted. What are the three longest-wavelength spectral lines emitted by the hydrogen atom as it returns to the n = 1 state from higher energy states? Give your answers to three significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We are interested in the following transitions: n = 2 → n = 1 : ΔE₂,₁ = -3.4 - (-13.6) = 10.2 eV, n = 3 → n = 1 : ΔE₃,₁ = -1.5 - (-13.6) = 12.1 eV, n = 4 → n = 1 : ΔE₄,₁ = -0.85 - (-13.6) = 12.8 eV. To find the corresponding wavelengths, we use ΔE = hf = hc / λ. For example, for the n = 2 to n = 1 transition, λ = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (10.2 eV)(1.602 x 10⁻¹⁹ J/eV) = 1.22 nm. The other lines are found in the same way to be 102 nm and 96.9 nm. These are the first three lines of the Lyman series."
+  },
+  {
+    "question_number": 43.3,
+    "Questions": "The series limit wavelength of the Balmer series is emitted as the electron in the hydrogen atom falls from the n = ∞ state to the n = 2 state. What is the wavelength of this line (to three significant figures)?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Since Eₙ = -13.6/n² eV, E∞ = 0 eV and E₂ = -3.40 eV. The energy difference is ΔE = 3.40 eV. We can use ΔE = hc / λ to find the wavelength: λ = hc / ΔE = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (3.40 eV)(1.602 x 10⁻¹⁹ J/eV) = 365 nm."
+  },
+  {
+    "question_number": 43.4,
+    "Questions": "What is the energy and wavelength of the photon emitted when a hydrogen atom goes from the n = 2 to the n = 1 state?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "ΔE = 13.6 eV - 3.4 eV = 10.2 eV. λ = hc / ΔE = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (10.2 eV)(1.602 x 10⁻¹⁹ J/eV) = 122 nm."
+  },
+  {
+    "question_number": 43.5,
+    "Questions": "The energy levels for singly ionized helium atoms (atoms from which one of the two electrons has been removed) are given by Eₙ = (-54.4/n²) eV. Construct the energy-level diagram for this system.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_132.png",
+    "solution": "Energy-level diagram: n = ∞, E = 0 eV; n = 4, E = -3.4 eV; n = 3, E = -6.04 eV; n = 2, E = -13.6 eV; n = 1, E = -54.4 eV."
+  },
+  {
+    "question_number": 43.6,
+    "Questions": "What are the two longest wavelengths of the Balmer series for singly ionized helium atoms?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The pertinent energy-level diagram is shown in Fig. 43-3. Recall that the Balmer series corresponds to transitions from higher states to the n = 2 state. From the diagram, the two smallest-energy transitions to the n = 2 states are: n = 3 → n = 2 : ΔE₃₂ = 13.6 - 6.04 = 7.6 eV, n = 4 → n = 2 : ΔE₄₂ = 13.6 - 3.4 = 10.2 eV. Using the fact that 1 eV corresponds to 1240 nm, we find the corresponding wavelengths to be 163 nm and 122 nm, both in the far ultraviolet or long X-ray region."
+  },
+  {
+    "question_number": 43.7,
+    "Questions": "Unexcited hydrogen atoms are bombarded with electrons that have been accelerated through 12.0 V. What wavelengths will the atoms emit?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "When an atom in the ground state is given 12.0 eV of energy, the most electrons can supply, the atom can be excited no higher than 12.0 eV above the ground state. Only one state exists in this energy region, the n = 2 state. Hence the only transition possible is n = 2 → n = 1 : ΔE₂,₁ = 13.6 - 3.4 = 10.2 eV. The only emitted wavelength will be λ = (1240 nm)(1.00 eV / 10.2 eV) = 122 nm."
+  },
+  {
+    "question_number": 43.8,
+    "Questions": "Unexcited hydrogen gas is an electrical insulator because it contains no free electrons. What maximum-wavelength photon beam incident on the gas can cause the gas to conduct electricity?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The photons in the beam must ionize the atom so as to produce free electrons. (This is called the atomic photoelectric effect.) To do this, the photon energy must be at least 13.6 eV, and so the maximum wavelength is λ = (1240 nm)(1.00 eV / 13.6 eV) = 91.2 nm, which is the series limit for the Lyman series."
+  },
+  {
+    "question_number": 43.9,
+    "Questions": "One spectral line in the hydrogen spectrum has a wavelength of 821 nm. What is the energy difference between the two states that gives rise to this line?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.51 eV"
+  },
+  {
+    "question_number": 43.10,
+    "Questions": "What are the energies of the two longest-wavelength lines in the Paschen series for hydrogen? What are the corresponding wavelengths? Give your answers to two significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.66 eV and 0.97 eV, 1.9 x 10⁻⁶ m and 1.3 x 10⁻⁶ m"
+  },
+  {
+    "question_number": 43.11,
+    "Questions": "What is the wavelength of the series limit line for the hydrogen Paschen series?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 821 nm"
+  },
+  {
+    "question_number": 43.12,
+    "Questions": "The lithium atom has a nuclear charge of +3e. Find the energy required to remove the third electron from a lithium atom that has already lost two of its electrons. Assume the third electron to be initially in the ground state.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 122 eV"
+  },
+  {
+    "question_number": 43.13,
+    "Questions": "Electrons in an electron beam are accelerated through a potential difference V and are incident on hydrogen atoms in their ground state. What is the maximum value for V if the collisions are to be perfectly elastic?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. < 10.2 V"
+  },
+  {
+    "question_number": 43.14,
+    "Questions": "What are the three longest wavelengths that singly ionized helium atoms (in their ground state) will absorb strongly? (See Fig. 43-3.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 30.4 nm, 25.6 nm, 24.3 nm"
+  },
+  {
+    "question_number": 43.15,
+    "Questions": "How much energy is required to remove the second electron from a singly ionized helium atom? What is the maximum wavelength of an incident photon that could tear this electron from the ion?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 54.4 eV, 22.8 nm"
+  },
+  {
+    "question_number": 43.16,
+    "Questions": "In the spectrum of singly ionized helium, what is the series limit for its Balmer series?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 91 nm"
+  }
+]

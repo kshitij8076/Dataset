@@ -1,0 +1,334 @@
+[
+  {
+    "question_number": 23.1,
+    "Questions": "An explosion occurs at a distance of 6.00 km from a person. How long after the explosion does the person hear it? Assume the temperature is 14.0°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Because the speed of sound increases by 0.61 m/s for each 1.0°C, we have\nv = 331 m/s + (0.61)(14) m/s = 340 m/s.\nUsing s = vt, we find that the time taken is\n t = s / v = 6000 m / 340 m/s = 17.6 s."
+  },
+  {
+    "question_number": 23.2,
+    "Questions": "To find how far away a lightning flash is, a rough rule is the following: “Divide the time in seconds between the flash and the sound, by three. The result equals the distance in km to the flash.” Justify this.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The speed of sound is v ≈ 333 m/s ≈ 3 km/s, so the distance to the flash is\ns = vt ≈ l / 3.\nwhere t, the travel time of the sound, is in seconds and s is in kilometers. The light from the flash travels so fast, 3 × 10⁸ m/s, that it reaches the observer almost instantaneously. Hence t is essentially equal to the time between seeing the flash and hearing the thunder. Thus the rule."
+  },
+  {
+    "question_number": 23.3,
+    "Questions": "Compute the speed of sound in neon gas at 27.0°C. For neon, M = 20.18 kg/kmol.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Neon, being monatomic, has γ ≈ 1.67. Therefore,\nv = √(γRT / M) = √[(1.67)(8314 J/kmol·K)(300 K) / 20.18 kg/kmol] = 454 m/s."
+  },
+  {
+    "question_number": 23.4,
+    "Questions": "Find the speed of sound in a diatomic ideal gas that has a density of 3.50 kg/m³ and a pressure of 215 kPa.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We know that v = √(γRT / M). From the gas law PV = (m/M)RT, so\nv = √(P / ρ) = √[(1.40)(215 × 10³ Pa) / 3.50 kg/m³] = 293 m/s."
+  },
+  {
+    "question_number": 23.5,
+    "Questions": "A metal rod 60 cm long is clamped at its center. It resonates in its fundamental to longitudinal waves of 3.00 kHz. What is Young’s modulus for the material of the rod? The density of the metal is 8700 kg/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "This same rod was discussed in Problem 22.11. We found there that the speed of longitudinal waves in it is 36 km/s. We know that v = √(Y / ρ), and so\nY = ρv² = (8700 kg/m³)(3600 m/s)² = 1.1 × 10¹¹ N/m²."
+  },
+  {
+    "question_number": 23.6,
+    "Questions": "What is the speed of compression waves (sound waves) in water? The bulk modulus for water is 2.2 × 10⁹ N/m².",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "v = √(bulk modulus / density) = √(2.2 × 10⁹ N/m² / 1000 kg/m³) = 1.5 km/s."
+  },
+  {
+    "question_number": 23.7,
+    "Questions": "A tuning fork oscillates at 284 Hz in air. Compute the wavelength of the tone emitted at 25°C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "At 25°C, v = 331 m/s + (0.61)(25) m/s = 346 m/s.\nUsing λ = v / f gives λ = 346 m/s / 284 s⁻¹ = 1.22 m."
+  },
+  {
+    "question_number": 23.8,
+    "Questions": "An organ pipe whose length is held constant resonates at a frequency of 224.0 Hz when the air temperature is 15°C. What will be its resonant frequency when the air temperature is 24°C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The resonant wavelength must have the same value at each temperature because it depends only on the length of the pipe. (Its nodes and antinodes must fit properly within the pipe.) But λ = v / f, and so v/f must be the same at the two temperatures. We thus have\nv₁ / f₁ = v₂ / f₂\n224 Hz = (224 Hz)(v₂ / v₁) = (v₂ / v₁)(331 + (0.61)(24)) / (331 + (0.61)(15)) = 0.228 kHz."
+  },
+  {
+    "question_number": 23.9,
+    "Questions": "An uncomfortably loud sound might have an intensity of 0.54 W/m². Find the maximum displacement of the molecules of air in a sound wave if its frequency is 800 Hz. Take the density of air to be 1.29 kg/m³ and the speed of sound to be 340 m/s.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "From I = 2π²f²ρvA², we have\nA = √[I / (2π²f²ρv)] = √[0.54 W/m² / (800 s⁻¹)²(1.29 kg/m³)(340 m/s)] = 9.9 × 10⁻⁶ m."
+  },
+  {
+    "question_number": 23.10,
+    "Questions": "A sound has an intensity of 3.00 × 10⁻⁸ W/m². What is the sound level in dB?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "β = 10 log(I / I₀) = 10 log(3.00 × 10⁻⁸ W/m² / 1.00 × 10⁻¹² W/m²) = 85.0 dB."
+  },
+  {
+    "question_number": 23.11,
+    "Questions": "A noise-level meter reads the sound level in a room to be 85.0 dB. What is the sound intensity in the room?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "β = 10 log(I / I₀) = 85.0 dB\nlog(I / 1.00 × 10⁻¹² W/m²) = 8.50\nI = (1.00 × 10⁻¹² W/m²)(10)⁸ = 3.16 × 10⁻⁴ W/m²."
+  },
+  {
+    "question_number": 23.12,
+    "Questions": "Two sound waves have intensities of 10 and 500 μW/cm². What is the difference in their intensity levels?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "βₐ = 10 log(Iₐ / I₀) = 10 log(10 / 1) = 10 log(10) = 10 dB,\nβ_b = 10 log(I_b / I₀) = 10 log(500 / 1) = 10 log(500) = 10(2.70) = 27 dB.\nThe difference in intensity levels is β_b - β_a = 17 dB."
+  },
+  {
+    "question_number": 23.13,
+    "Questions": "Find the ratio of the intensities of two sounds if one is 8.0 dB louder than the other.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "βₐ - β_b = 10 log(I_b / Iₐ),\n8.0 = 10 log(I_b / Iₐ),\nlog(I_b / Iₐ) = 0.8,\nI_b / Iₐ = 10⁰.8 = 6.3."
+  },
+  {
+    "question_number": 23.14,
+    "Questions": "A tiny sound source emits sound uniformly in all directions. The intensity level at a distance of 2.0 m is 100 dB. How much sound power is the source emitting?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The energy emitted by a point source can be considered to flow out through a spherical surface which has the source at its center. Hence, if we find the rate of flow through such a surface, it will equal the flow from the source. Take a concentric sphere of radius 2.0 m. We know that the sound level on its surface is 100 dB. This corresponds to I = 0.010 W/m². The total energy flowing each second through each m² of surface is then I(4πr²), where r = 2.0 m: Power from source = (0.010 W/m²)(4π)(2 m)² = 0.50 W."
+  },
+  {
+    "question_number": 23.15,
+    "Questions": "One typist typing furiously in a room gives rise to an average sound level of 60.0 dB. What will be the decibel level when three equally noisy typists are working?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "If each typist emits the same amount of sound energy, then the final sound intensity Iₓ should be three times the initial intensity Iₓ. We have\nβₓ = βᵢ + 10 log(3).\n60.0 dB = 60.0 dB + log 3 = 60.5 dB."
+  },
+  {
+    "question_number": 23.16,
+    "Questions": "An automobile moving at 30.0 m/s is approaching a factory whistle that has a frequency of 500 Hz. (a) If the speed of sound in air is 340 m/s, what is the apparent frequency of the whistle as heard by the driver? (b) Repeat for the case of the car leaving the factory at the same speed.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) fₒ = fₓ(v + vₑ) / (v - vₛ) = (500 Hz)(340 m/s + 30.0 m/s) / (340 m/s - 0) = 544 Hz.\n(b) fₒ = fₓ(v + vₑ) / (v - vₛ) = (500 Hz)(340 m/s + 0) / (340 m/s - 30.0 m/s) = 456 Hz."
+  },
+  {
+    "question_number": 23.17,
+    "Questions": "A car moving at 20 m/s with its horn blowing (f = 1200 Hz) is chasing another car going at 15 m/s. What is the apparent frequency of the horn as heard by the driver being chased? Take the speed of sound to be 340 m/s.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "fₒ = fₓ(v + vₑ) / (v - vₛ) = (1200 Hz)(340 m/s + 30.0 m/s) / (340 m/s - 20 m/s) = 1.22 kHz."
+  },
+  {
+    "question_number": 23.18,
+    "Questions": "When two tuning forks are sounded simultaneously, they produce one beat every 0.30 s. (a) By how much do their frequencies differ? (b) A tiny piece of chewing gum is placed on a prong of one fork. Now there is one beat every 0.40 s. Was this tuning fork the lower- or the higher-frequency fork?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) The number of beats per second equals the frequency difference.\nFrequency difference = 1 / 0.30 s = 3.3 Hz.\n(b) The frequency difference = 1 / 0.40 s = 2.5 Hz.\nAdding gum to the prong increases its mass and thereby decreases its vibrational frequency. This lowering of frequency caused it to come closer to the frequency of the other fork. Hence the fork in question had the higher frequency."
+  },
+  {
+    "question_number": 23.19,
+    "Questions": "A tuning fork of frequency 400 Hz is moved away from an observer and toward a flat wall with a speed of 2.0 m/s. What is the apparent frequency (a) of the unreflected sound waves coming directly to the observer, and (b) of the sound waves coming to the observer after reflection? (c) How many beats per second are heard? Assume the speed of sound in air to be 340 m/s.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) fₒ = fₓ(v + vₑ) / (v - vₛ) = (400 Hz)(340 m/s + 0) / (340 m/s - 2.0 m/s) = 397.7 Hz = 398 Hz.\n(b) The wave crests reaching the wall are closer together than normally because the fork is moving toward the wall. Therefore, the reflected wave appears to come from an approaching source:\nfₒ = fₓ(v + vₑ) / (v - vₛ) = (400 Hz)(340 m/s + 0) / (340 m/s - 2.0 m/s) = 402.4 Hz = 402 Hz.\n(c) Beats per second = difference between frequencies = (402.4 - 397.7) Hz = 4.7 beats per second."
+  },
+  {
+    "question_number": 23.20,
+    "Questions": "In Fig. 23-1, S₁ and S₂ are identical sound sources. They send out their wave crests simultaneously (the sources are in phase). For what values of L₁ - L₂ will constructive interference obtain and a loud sound be heard at point P?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_17.png",
+    "solution": "If L₁ = L₂, the waves from the two sources will take equal times to reach P. Crests from one will arrive there at the same times as crests from the other. The waves will therefore be in phase at P and an interference maximum will result.\nIf L₁ = L₂ + λ, then the wave from S₁ will be one wavelength behind the one from S₂ when they reach P. But because the wave repeats each wavelength, a crest from S₁ will still reach P at the same time a crest from S₂ does. Once again the waves are in phase at P and an interference maximum will exist there.\nIn general, a loud sound will be heard at P when L₁ - L₂ = ±nλ, where n is an integer."
+  },
+  {
+    "question_number": 23.21,
+    "Questions": "The two sound sources in Fig. 23-1 vibrate in-phase. A loud sound is heard at P when L₁ = L₂. As L₁ is slowly increased, the weakest sound is heard when L₁ - L₂ has the values 20.0 cm, 60.0 cm, and 100 cm. What is the frequency of the sound source if the speed of sound is 340 m/s?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The weakest sound will be heard at P when a crest from S₁ and a trough from S₂ reach there at the same time. This will happen if L₁ - L₂ is λ/2, or 3λ/2, or 5λ/2, and so on. Hence the increase in L₁ between weakest sounds is λ, and from the data we see that λ = 0.400 m. Then, from λ = v / f, f = v / λ = 340 m/s / 0.400 m = 850 Hz."
+  },
+  {
+    "question_number": 23.22,
+    "Questions": "Three seconds after a gun is fired, the person who fired the gun hears an echo. How far away was the surface that reflected the sound of the shot? Use 340 m/s for the speed of sound.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.23,
+    "Questions": "What is the speed of sound in air when the air temperature is 31 °C?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.24,
+    "Questions": "A shell fired at a target 800 m distant was heard to strike it 5.0 s after leaving the gun. Compute the average horizontal velocity of the shell. The air temperature is 20 °C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.25,
+    "Questions": "In an experiment to determine the speed of sound, two observers, A and B, were stationed 5.00 km apart. Each was equipped with gun and stopwatch. Observer A heard the report of B’s gun 15.5 s after seeing its flash. Later, A fired his gun and B heard the report 14.5 s after seeing the flash. Determine the speed of sound and the component of the speed of the wind along the line joining A to B.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.26,
+    "Questions": "A disk has 40 holes around its circumference and is rotating at 1200 rpm. Determine the frequency and wavelength of the tone produced by the disk when a jet of air is blown against it. The temperature is 15 °C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.27,
+    "Questions": "Determine the speed of sound in carbon dioxide (M = 44 kg/kmol, γ = 1.30) at a pressure of 0.50 atm and a temperature of 400 °C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.28,
+    "Questions": "Compute the molecular mass M of a gas for which γ = 1.40 and in which the speed of sound is 1260 m/s at precisely 0 °C.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.29,
+    "Questions": "At S.T.P., the speed of sound in air is 331 m/s. Determine the speed of sound in hydrogen at S.T.P. if the specific gravity of hydrogen relative to air is 0.069 0 and if γ = 1.40 for both gases.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.30,
+    "Questions": "Helium is a monatomic gas that has a density of 0.179 kg/m³ at a pressure of 76.0 cm of mercury and a temperature of precisely 0 °C. Find the speed of compression waves (sound) in helium at this temperature and pressure.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.31,
+    "Questions": "A bar of dimensions 1.00 cm² × 200 cm and mass 2.00 kg is clamped at its center. When vibrating longitudinally it emits its fundamental tone in unison with a tuning fork making 1000 vibrations/s. How much will the bar be elongated if, when clamped at one end, a stretching force of 980 N is applied at the other end?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.32,
+    "Questions": "Find the speed of compression waves in a metal rod if the material of the rod has a Young’s modulus of 1.20 × 10¹⁰ N/m² and a density of 8920 kg/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.33,
+    "Questions": "An increase in pressure of 100 kPa causes a certain volume of water to decrease by 5 × 10⁻³ percent of its original volume. (a) What is the bulk modulus of water? (b) What is the speed of sound (compression waves) in water?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.34,
+    "Questions": "A sound has an intensity of 5.0 × 10⁻⁷ W/m². What is its intensity level?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.35,
+    "Questions": "A person riding a power mower may be subjected to a sound of intensity 2.00 × 10⁻² W/m². What is the intensity level to which the person is subjected?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.36,
+    "Questions": "A rock band might easily produce a sound level of 107 dB in a room. To two significant figures, what is the sound intensity at 107 dB?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.37,
+    "Questions": "A whisper has an intensity level of about 15 dB. What is the corresponding intensity of the sound?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.38,
+    "Questions": "What sound intensity is 3.0 dB louder than a sound of intensity of 10 μW/cm²?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.39,
+    "Questions": "Calculate the intensity of a sound wave in air at precisely 0 °C and 1.00 atm if its amplitude is 0.0020 mm and its wavelength is 66.2 cm. The density of air at S.T.P. is 1.293 kg/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.40,
+    "Questions": "What is the amplitude of vibration in a 8000 Hz sound beam if its intensity level is 62 dB? Assume that the air is at 15 °C and its density is 1.29 kg/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.41,
+    "Questions": "One sound has an intensity level of 75.0 dB while a second has an intensity level of 72.0 dB. What is the intensity level when the two sounds are combined?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.42,
+    "Questions": "A certain organ pipe is tuned to emit a frequency of 196.00 Hz. When it and the G string of a violin are sounded together, ten beats are heard in a time of exactly 8 s. The beats become slower as the violin string is slowly tightened. What was the original frequency of the violin string?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.43,
+    "Questions": "A locomotive moving at 30.0 m/s approaches and passes a person standing beside the track. Its whistle is emitting a note of frequency 2.00 kHz. What frequency will the person hear (a) as the train approaches and (b) as it recedes? The speed of sound is 340 m/s.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.44,
+    "Questions": "Two cars are heading straight at each other with the same speed. The horn of one (f = 3.0 kHz) is blowing, and is heard to have a frequency of 3.4 kHz by the people in the other car. Find the speed at which each car is moving if the speed of sound is 340 m/s.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.45,
+    "Questions": "To determine the speed of a harmonic oscillator, a beam of sound is sent along the line of the oscillator’s motion. The sound, which is emitted at a frequency of 8000.0 Hz, is reflected straight back by the oscillator to a detector system. The detector observes that the reflected beam varies in frequency between the limits of 8003.1 Hz and 7996.9 Hz. What is the maximum speed of the oscillator? Take the speed of sound to be 340 m/s.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.46,
+    "Questions": "In Fig. 23-1 are shown two identical sound sources sending waves to point P. They send out wave crests simultaneously (they are in-phase), and the wavelength of the wave is 60 cm. If L₂ = 200 cm, give the values of L₁ for which (a) maximum sound is heard at P and (b) minimum sound is heard at P.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 23.47,
+    "Questions": "The two sources shown in Fig. 23-2 emit identical beams of sound (λ = 80 cm) toward one another. Each sends out a crest at the same time as the other (the sources are in-phase). Point P is a position of maximum intensity, that is, loud sound. As one moves from P toward Q, the sound decreases in intensity. (a) How far from P will a sound minimum first be heard? (b) How far from P will a loud sound be heard once again?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_18.png",
+    "solution": null
+  }
+  
+]

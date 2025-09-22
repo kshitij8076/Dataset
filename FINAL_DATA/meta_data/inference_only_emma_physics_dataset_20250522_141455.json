@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "phy_1",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_2",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "phy_3",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_4",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_5",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_6",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_7",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Atomic Physics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_8",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_9",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_10",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_11",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_12",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_13",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_14",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_15",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_16",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_17",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_18",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_19",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_20",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_21",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_22",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_23",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_24",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_25",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_26",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_27",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_28",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_29",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_30",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_31",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_32",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_33",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_34",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_35",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_36",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_37",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_38",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_39",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_40",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_41",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_42",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_43",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_44",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_45",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_46",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_47",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_48",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_49",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_50",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_51",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_52",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_53",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_54",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_55",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_56",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_57",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_58",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_59",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_60",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_61",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_62",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_63",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_64",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_65",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_66",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_67",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_68",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_69",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_70",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Open Ended",
+      "subfield": "Fluid Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_71",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_72",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_73",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_74",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_75",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_76",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_77",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_78",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_79",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_80",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_81",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_82",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_83",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_84",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_85",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_86",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_87",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_88",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_89",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_90",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_91",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_92",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_93",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_94",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_95",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_96",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_97",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_98",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_99",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_100",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_101",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_102",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_103",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_104",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_105",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "phy_106",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_107",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_108",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_109",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_110",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_111",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_112",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_113",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_114",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_115",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_116",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_117",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_118",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_119",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_120",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_121",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_122",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_123",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_124",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_125",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_126",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_127",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_128",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_129",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_130",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_131",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_132",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_133",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_134",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_135",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_136",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_137",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_138",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_139",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_140",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_141",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_142",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_143",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "phy_144",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_145",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_146",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_147",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Modern Physics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_148",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_149",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Nuclear Physics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_150",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_151",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "phy_152",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Waves",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_153",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "phy_154",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_155",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "phy_156",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  }
+]

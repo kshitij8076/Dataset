@@ -1,0 +1,128 @@
+[
+  {
+    "question_number": 7.1,
+    "Questions": "In a particular hoist system, the load is lifted 10 cm for each 70 cm of movement of the rope that operates the device. What is the smallest input force that could possibly lift a 5.0-kN load?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F = (5.0 kN)(1/7) = 0.71 kN"
+  },
+  {
+    "question_number": 7.2,
+    "Questions": "A hoisting machine lifts a 3000-kg load a height of 8.00 m in a time of 20.0 s. The power supplied to the engine is 18.0 hp. Compute (a) the work output, (b) the power output and power input, and (c) the efficiency of the engine and hoist system.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) Work = (3000 kg)(9.81 m/s²)(8.00 m) = 235 kJ; (b) Power out = 235 kJ / 20 s = 11.8 kW; Power in = 18 hp = 13.4 kW; (c) Efficiency = 11.8 / 13.4 = 88%"
+  },
+  {
+    "question_number": 7.3,
+    "Questions": "What power in kW is supplied to a 12.0-hp motor having an efficiency of 90.0 percent when it is delivering its full rated output?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Power input = 12.0 hp / 0.90 × 0.746 kW/hp = 9.95 kW"
+  },
+  {
+    "question_number": 7.4,
+    "images":["images/arihant_ch16_80.png"],
+    "Questions": "For the three levers shown in Fig. 7-1, determine the vertical forces F₁, F₂, and F₃ required to support the load F_W = 90 N. Neglect the weights of the levers. Also find the IMA, AMA, and efficiency for each system.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F₁ = 45 N, F₂ = 30 N, F₃ = 42 N; IMA: 2.0, 3.0, 2.2; AMA: 2.0, 3.0, 2.1; Efficiency: 1.0"
+  },
+  {
+    "question_number": 7.5,
+    "images":["images/arihant_ch16_81.png"],
+    "Questions": "Determine the force F required to lift a 100-N load F_W with each of the pulley systems shown in Fig. 7-2. Neglect friction and the weights of the pulleys.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) F = 50 N; (b) F = 50 N; (c) F = 25 N; (d) F = 25 N; (e) F = 25 N"
+  },
+  {
+    "question_number": 7.6,
+    "images":["images/arihant_ch16_82.png"],
+    "Questions": "Using the wheel and axle shown in Fig. 7-3, a 400-N load can be raised by a force of 50 N applied to the rim of the wheel. The radii of the wheel and axle are 85 cm and 6.0 cm, respectively. Determine the IMA, AMA, and efficiency of the machine.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "IMA = 85/6 = 14.2; AMA = 400/50 = 8.0; Efficiency = 8.0 / 14.2 = 56%"
+  },
+  {
+    "question_number": 7.7,
+    "images":["images/arihant_ch16_83.png"],
+    "Questions": "The inclined plane shown in Fig. 7-4 is 15 m long and rises 3.0 m. (a) What force F parallel to the plane is required to slide a 20-kg box up the plane if friction is neglected? (b) What is the IMA of the plane? (c) Find the AMA and efficiency if a 64-N force is actually required.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) F = (20 kg)(9.81)(3.0)/15 = 39 N; (b) IMA = 15 / 3.0 = 5.0; (c) AMA = 196 / 64 = 3.06; Efficiency = 3.06 / 5.0 = 61%"
+  },
+  {
+    "question_number": 7.8,
+    "images":["images/arihant_ch16_84.png"],
+    "Questions": "As shown in Fig. 7-5, a jackscrew has a lever arm of 40 cm and a pitch of 5.0 mm. If the efficiency is 30 percent, what horizontal force F applied perpendicularly at the end of the lever arm is required to lift a load F_W of 270 kg?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "IMA = 2π(0.40 m)/0.005 m = 502; AMA = 0.30 × 502 = 151; F = (270 kg × 9.81) / 151 = 18 N"
+  },
+  {
+    "question_number": 7.9,
+    "images":["images/arihant_ch16_85.png"],
+    "Questions": "A differential pulley (chain hoist) is shown in Fig. 7-6. Two toothed pulleys of radii r = 10 cm and R = 11 cm are fastened together and turn on the same axle. A continuous chain passes over the smaller (10 cm) pulley, then around the movable pulley at the bottom, and finally around the 11 cm pulley. The operator exerts a downward force F on the chain to lift the load F_W. (a) Determine the IMA. (b) What is the efficiency of the machine if an applied force of 50 N is required to lift a load of 700 N?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) IMA = 2R / (R - r) = 22; (b) AMA = 700 / 50 = 14; Efficiency = 14 / 22 = 64%"
+  },
+  {
+    "question_number": 7.10,
+    "Questions": "A motor furnishes 120 hp to a device that lifts a 5000-kg load to a height of 13.0 m in a time of 20 s. Find the efficiency of the machine.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Efficiency = (5000 × 9.81 × 13.0) / (120 × 746 × 20) = 36%"
+  },
+  {
+    "question_number": 7.11,
+    "Questions": "Refer back to Fig. 7-2(d). If a force of 200 N is required to lift a 50-kg load, find the IMA, AMA, and efficiency for the system.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "IMA = 4, AMA = (50 × 9.81)/200 = 2.5, Efficiency = 2.5 / 4 = 61%"
+  },
+  {
+    "question_number": 7.12,
+    "images":["images/arihant_ch16_86.png"],
+    "Questions": "In Fig. 7-7, the 300-N load is balanced by a force F in both systems. Assuming efficiencies of 100 percent, how large is F in each system?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) F = 300 / 3 = 100 N; (b) F = 300 / 4 = 75 N"
+  },
+  {
+    "question_number": 7.13,
+    "Questions": "With a certain machine, the applied force moves 3.3 m to raise a load 8.0 cm. Find the (a) IMA and (b) AMA if the efficiency is 60 percent. What load can be lifted by an applied force of 50 N if the efficiency is (c) 100 percent and (d) 60 percent?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) IMA = 3.3 / 0.08 = 41.25 ≈ 41; (b) AMA = 0.60 × IMA = 25; (c) Load = 50 × IMA = 2.1 kN; (d) Load = 50 × 25 = 1.2 kN"
+  },
+  {
+    "question_number": 7.14,
+    "Questions": "With a wheel and axle, a force of 80 N applied to the rim of the wheel can lift a load of 640 N. The diameters of the wheel and axle are 36 cm and 4.0 cm, respectively. Determine the AMA, IMA, and efficiency of the machine.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "AMA = 640 / 80 = 8.0; IMA = 36 / 4 = 9.0; Efficiency = 8.0 / 9.0 = 89%"
+  },
+  {
+    "question_number": 7.15,
+    "Questions": "A certain hydraulic jack in a gas station lifts a 900-kg car a distance of 0.25 cm when a force of 150 N pushes a piston through a distance of 20 cm. Find the IMA, AMA, and efficiency.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "IMA = 20 / 0.25 = 80; AMA = (900 × 9.81) / 150 = 59; Efficiency = 59 / 80 = 74%"
+  },
+  {
+    "question_number": 7.16,
+    "Questions": "The screw of a certain press has a pitch of 0.20 cm. The diameter of the wheel to which a tangential turning force F is applied is 55 cm. If the efficiency is 40 percent, how large must F be to produce a force of 12 kN in the press?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "IMA = πD / pitch = π × 55 / 0.20 ≈ 864. Efficiency = 0.40 ⇒ AMA = 0.4 × 864 = 346 ⇒ F = 12000 / 346 ≈ 35 N"
+  },
+  {
+    "question_number": 7.17,
+    "Questions": "The diameters of the two upper pulleys of a chain hoist (Fig. 7-6) are 18 cm and 16 cm. If the efficiency of the hoist is 45 percent, what force is required to lift a 400-kg crate?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "IMA = 2R / (R - r) = 2×18 / (18 - 16) = 18; AMA = 0.45 × 18 = 8.1; F = (400×9.81)/8.1 = 0.48 kN"
+  }
+]

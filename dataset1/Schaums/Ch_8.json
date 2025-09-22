@@ -1,0 +1,301 @@
+[
+  {
+    "question_number": 8.1,
+    "Questions": "An 8.0-g bullet is fired horizontally into a 9.00-kg cube of wood, which is at rest, and sticks in it. The cube is free to move and has a speed of 40 cm/s after impact. Find the initial velocity of the bullet.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(0.008 kg)v_bx = (9.008 kg)(0.40 m/s) => v_bx = 0.45 km/s"
+  },
+  {
+    "question_number": 8.2,
+    "Questions": "A 16-g mass moving in +x-direction at 30 cm/s collides head-on with a 4.0-g mass moving in −x-direction at 50 cm/s. They stick together. Find their velocity after the collision.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(0.016 kg)(0.30 m/s) + (0.004 kg)(−0.50 m/s) = (0.020 kg)v_x => v_x = +0.14 m/s"
+  },
+  {
+    "question_number": 8.3,
+    "Questions": "A 2.0-kg brick is moving at a speed of 6.0 m/s. How large a force F is needed to stop the brick in a time of 7.0 × 10⁻⁴ s?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F(7.0 × 10⁻⁴ s) = (2.0 kg)(6.0 m/s) => F = −1.7 × 10⁴ N"
+  },
+  {
+    "question_number": 8.4,
+    "Questions": "A 15-g bullet moving at 300 m/s passes through a 2.0 cm thick sheet of foam plastic and emerges with a speed of 90 m/s. What average force impeded its motion through the plastic?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Δt = 1.026 × 10⁻⁴ s; F = (0.015 kg)(90 m/s - 300 m/s)/Δt => F = −3.1 × 10⁴ N"
+  },
+  {
+    "question_number": 8.5,
+    "Questions": "A nucleus of mass 3.80 × 10⁻²⁵ kg at rest ejects a 6.6 × 10⁻²⁷ kg particle at 1.5 × 10⁷ m/s. Find the recoil speed of the remaining nucleus.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "0 = (3.73 × 10⁻²⁵ kg)v_rf + (6.6 × 10⁻²⁷ kg)(1.5 × 10⁷ m/s) => v_rf = −2.7 × 10⁵ m/s"
+  },
+  {
+    "question_number": 8.6,
+    "Questions": "A 0.25-kg ball moving at 13 m/s is hit by a bat and rebounds at 19 m/s in opposite direction in 0.010 s. Find the average force F on the ball.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F(0.010 s) = (0.25 kg)(−19 m/s) − (0.25 kg)(13 m/s) => F = −0.80 kN"
+  },
+  {
+    "question_number": 8.7,
+    "Questions": "Two girls on roller skates push off each other. If girl 2 moves at v₂, what is the recoil speed v₁ of girl 1?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "m₁v₁ = −m₂v₂ => v₁ = −(m₂/m₁)v₂"
+  },
+  {
+    "question_number": 8.8,
+    "images":["images/arihant_ch16_87.png"],
+    "Questions": "A 15-g bullet is fired into a 3.000-kg block suspended by a cord, causing it to swing 10 cm upward. Find the speed of the bullet.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Using conservation: (0.015 kg)v = (3.015 kg)V, and ½(3.015 kg)V² = (3.015 kg)(9.81 m/s²)(0.10 m), => v = 0.28 km/s"
+  },
+  {
+    "question_number": 8.9,
+    "Questions": "Three masses are placed on the -x-axis: 200 g at x = 0, 500 g at x = 30 cm, and 400 g at x = 70 cm. Find their center of mass.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "x_cm = [(0)(0.20 kg) + (0.30 m)(0.50 kg) + (0.70 m)(0.40 kg)] / (0.20 + 0.50 + 0.40) kg = 0.39 m"
+  },
+  {
+    "question_number": 8.10,
+    "Questions": "A system consists of masses: 4.0 kg at (0, 5.0 m), 7.0 kg at (3.0 m, 8.0 m), and 5.0 kg at (−3.0 m, −6.0 m). Find the center of mass.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "x_cm = [0 + 3.0(7.0) + (-3.0)(5.0)] / 16 = 0.38 m, y_cm = [5.0(4.0) + 8.0(7.0) + (−6.0)(5.0)] / 16 = 2.9 m"
+  },
+  {
+    "question_number": 8.11,
+    "Questions": "Two identical railroad cars sit on a horizontal track with a distance D between them. A winch pulls them together. (a) Describe their motion. (b) Repeat if one car is three times the mass of the other.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) If m₁ = m₂, then x₁ = -x₂; they meet at the midpoint.\n(b) If m₁ = 3m₂, then x₁ = -x₂/3 and x₂ = 3D/4, x₁ = D/4"
+  },
+  {
+    "question_number": 8.12,
+    "images":["images/arihant_ch16_88.png"],
+    "Questions": "A pendulum of mass m strikes a block of mass M and rebounds. The block slides distance D before stopping due to friction 0.20Mg. Find D if the ball rebounds to an angle of 20°.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "V = (m/M)(0.981√gL), D = 2.4(m/M)²L"
+  },
+  {
+    "question_number": 8.13,
+    "Questions": "Two balls of equal mass collide: one moving at 2.00 m/s along +y and one at 3.00 m/s along −x. After the collision, one ball moves at 1.20 m/s along +x. Find the velocity components of the other ball.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Using momentum conservation: v_x = 1.80 m/s, v_y = −2.00 m/s"
+  },
+  {
+    "question_number": 8.14,
+    "images":["images/arihant_ch16_89.png"],
+    "Questions": "A 7500-kg truck traveling at 5.0 m/s east collides with a 1500-kg car moving at 20 m/s in a direction 30° south of west. The two vehicles remain tangled together after the collision. Find the speed and direction of the wreckage.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "East: (7500 kg)(5.0 m/s) − (1500 kg)(20 m/s)cos(30°) = Mv_E; North: −(1500 kg)(20 m/s)sin(30°) = Mv_N; Mv = √[(1.67)² + (1.28)²] => v = 2.1 m/s, θ = arctan(1.67 / 1.28) = 53°"
+  },
+  {
+    "question_number": 8.15,
+    "Questions": "Two identical balls collide head-on. One moves at 0.75 m/s east, the other at 0.43 m/s west. Find the final velocity of each ball if the collision is perfectly elastic.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Using conservation of momentum and energy: v₁ = −0.43 m/s, v₂ = 0.75 m/s"
+  },
+  {
+    "question_number": 8.16,
+    "Questions": "A 1.0-kg ball moving at 12 m/s collides head-on with a 2.0-kg ball moving at −24 m/s. Find motion of each after impact if (a) e = 2/3, (b) balls stick together, (c) perfectly elastic collision.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) v₂ = −4.0 m/s, v₁ = −28 m/s; (b) v = −12 m/s; (c) v₂ = 0, v₁ = −36 m/s"
+  },
+  {
+    "question_number": 8.17,
+    "Questions": "A ball dropped from height h rebounds to height 0.65h. Find the coefficient of restitution between ball and floor.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "e = √(1.30gh) / √(2gh) = √0.65 = 0.81"
+  },
+  {
+    "question_number": 8.18,
+    "images":["images/arihant_ch16_90.png"],
+    "Questions": "(a) Two balls collide and bounce off. What is the final velocity of the 500-g ball if the 800-g ball has a speed of 15 cm/s after collision? (b) Is the collision perfectly elastic?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) v = 0.26 m/s, θ = arctan(0.120 / 0.228) = 28°; (b) KE before = 0.099 J, KE after = 0.026 J — not perfectly elastic"
+  },
+  {
+    "question_number": 8.19,
+    "images":["images/arihant_ch16_91.png"],
+    "Questions": "A water jet hits a stationary flat plate perpendicularly at 80 cm/s. If 30 mL of water hits each second, find the force on the plate.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F = (0.030 kg)(0 − 0.80 m/s)/1.00 s = −0.024 N"
+  },
+  {
+    "question_number": 8.20,
+    "Questions": "A rocket ejects gas at 50 km/s at 1500 kg/s rate. What is the maximum mass the rocket can have if it lifts off?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "F = (50,000 m/s)(1500 kg/s) = 75 MN => M_rocket = 75 × 10⁶ N / 9.81 m/s² = 7.7 × 10⁶ kg"
+  },
+  {
+    "question_number": 8.21,
+    "Questions": "A tennis ball is struck at 51 m/s and has a mass of 0.058 kg. What is the change in its momentum?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Δp = mv = (0.058 kg)(51 m/s) = 3.0 kg·m/s"
+  },
+  {
+    "question_number": 8.22,
+    "Questions": "A soccer ball (0.425 kg), initially at rest, is kicked to 26 m/s. If the impact lasted 8.0 ms, what was the average force?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F = Δp/Δt = (0.425 kg)(26 m/s) / (8.0 × 10⁻³ s) = 1.4 kN"
+  },
+  {
+    "question_number": 8.23,
+    "Questions": "A 40,000-kg freight car at 5.0 m/s hits a 30,000-kg stationary freight car and couples. Find speed after impact.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "v = (40,000 kg)(5.0 m/s) / (70,000 kg) = 2.9 m/s"
+  },
+  {
+    "question_number": 8.24,
+    "Questions": "An empty 15,000-kg coal car moving at 5.0 m/s receives 5000 kg of coal vertically. Find final speed.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "v = (15,000 kg)(5.0 m/s) / (20,000 kg) = 3.75 m/s"
+  },
+  {
+    "question_number": 8.25,
+    "Questions": "Sand drops at 2000 kg/min onto a belt moving horizontally at 250 m/min. Find the force needed to drive the conveyer.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F = dp/dt = (2000 kg/min)(250 m/min) / 60 = 139 N"
+  },
+  {
+    "question_number": 8.26,
+    "Questions": "Two masses: 8 kg at 11 m/s (x-dir) and 4 kg at −7 m/s (x-dir), collide and stick. Find final velocity.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "v = (8×11 + 4×−7)/(8+4) = 5 m/s"
+  },
+  {
+    "question_number": 8.27,
+    "Questions": "A 1200-kg gun fires an 8.00-kg projectile at 600 m/s, 30° above horizontal. Find gun’s horizontal recoil speed.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "v = (8.00 kg)(600 m/s)cos(30°)/(1200 kg) = 3.46 m/s"
+  },
+  {
+    "question_number": 8.28,
+    "Questions": "Three masses: 2 kg at y = 300 cm, 6 kg at y = 150 cm, 4 kg at y = −75 cm. Find y-coordinate of center of mass.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "y_cm = (2×300 + 6×150 + 4×−75)/(2+6+4) = 1 m"
+  },
+  {
+    "question_number": 8.29,
+    "Questions": "Four masses in xy-plane: 300 g at (0,2.0 m), 500 g at (−2.0 m, −3.0 m), 700 g at (50 cm, 30 cm), 900 g at (−80 cm, 150 cm). Find center of mass.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "x = −0.57 m, y = 0.28 m"
+  },
+  {
+    "question_number": 8.30,
+    "Questions": "A ball of mass m at origin explodes into two pieces. One of 0.270m is at x = 70 cm. Where is the other?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "x = −26 cm"
+  },
+  {
+    "question_number": 8.31,
+    "Questions": "A ball of mass m at rest at the origin explodes into three pieces. One is at x = 40 cm, another at x = 20 cm, y = −60 cm. Find the third piece's position.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "x = −60 cm, y = 60 cm"
+  },
+  {
+    "question_number": 8.32,
+    "Questions": "A 2.0-kg block rests on a table. A 5.0-g bullet at 150 m/s embeds in the block and slides 270 cm. (a) Find speed after impact. (b) Find friction force.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 0.37 m/s; (b) 0.052 N"
+  },
+  {
+    "question_number": 8.33,
+    "Questions": "A 2.0-kg wood block is on a table. A 7.0-g bullet is shot up through a hole. Block lifts 25 cm. How fast was bullet going?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "0.64 km/s"
+  },
+  {
+    "question_number": 8.34,
+    "Questions": "A 6000-kg truck at 5.0 m/s north hits a 4000-kg truck at 15 m/s west. Find their speed and direction after locking together.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "6.7 m/s at 27° north of west"
+  },
+  {
+    "question_number": 8.35,
+    "Questions": "What average force must act on a 3.0-kg mass to reduce speed from 65 cm/s to 15 cm/s in 0.20 s?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "7.5 N"
+  },
+  {
+    "question_number": 8.36,
+    "Questions": "A 7.00-g bullet hits a 150-g can and emerges. Can moves at 180 cm/s. What was the bullet's speed after impact?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "161 m/s"
+  },
+  {
+    "question_number": 8.37,
+    "Questions": "Two equal-mass balls moving at 3 m/s collide head-on. Find their speed after impact if (a) they stick, (b) perfectly elastic, (c) e = 1/3.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 0 m/s; (b) 3 m/s; (c) 1 m/s"
+  },
+  {
+    "question_number": 8.38,
+    "Questions": "A 90-g ball at 100 cm/s collides with 10-g stationary ball. Find their speeds after impact for (a) stick, (b) elastic, (c) e = 0.90.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 90 cm/s; (b) 80 cm/s, 1.8 m/s; (c) 81 cm/s, 1.7 m/s"
+  },
+  {
+    "question_number": 8.39,
+    "Questions": "A ball is dropped and bounces to 81 cm after first hitting from 144 cm. (a) Find coefficient of restitution. (b) Find height on 3rd bounce.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 0.75; (b) 46 cm"
+  },
+  {
+    "question_number": 8.40,
+    "Questions": "Two identical balls collide. Ball 1: (vₓ, vᵧ) = (40, 0) cm/s, Ball 2: (−30, 20) cm/s. Ball 1 is stopped. Find final velocity of Ball 2.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "vₓ = 10 cm/s, vᵧ = 20 cm/s"
+  },
+  {
+    "question_number": 8.41,
+    "Questions": "Two balls of equal mass moving at 30 cm/s collide elastically. After collision, one moves at 30° above −x. Find speeds of both balls.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "30 cm/s, 30 cm/s at 30° below −x"
+  },
+  {
+    "question_number": 8.42,
+    "Questions": "(a) What thrust must engines of a 2.0 × 10⁵ kg rocket exert to lift it? (b) If ejecting gas at 20 kg/s, how fast must gases exit?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 20 × 10⁵ N; (b) 98 km/s"
+  }
+]

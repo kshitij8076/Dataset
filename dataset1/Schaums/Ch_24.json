@@ -1,0 +1,262 @@
+[
+  {
+    "question_number": 24.1,
+    "Questions": "Two coins lie 1.5 m apart on a table. They carry identical charges. Approximately how large is the charge on each if a coin experiences a force of 2 N?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 24.2,
+    "Questions": "Repeat Problem 24.1 if the coins are separated by a distance of 1.5 m in a large vat of water. The dielectric constant of water is about 80.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 24.3,
+    "Questions": "A helium nucleus has charge +2e, and a neon nucleus +10e, where e is the quantum of charge, 1.60 × 10⁻¹⁹ C. Find the repulsive force exerted on one by the other when they are 3.0 nanometers apart. Assume the system to be in vacuum.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 24.4,
+    "Questions": "In the Bohr model of the hydrogen atom, an electron (q = -e) circles a proton (q' = +e) in an orbit of radius 5.3 × 10⁻¹¹ m. Find (a) the force of electrical attraction between the particles and (b) the electron’s speed. Assume the electron mass is 9.1 × 10⁻³¹ kg.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 24.5,
+    "Questions": "Three point charges are placed on the x-axis as shown in Fig. 24-1. Find the net force on the –5 µC charge due to the other two charges.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_19.png",
+    "solution": null
+  },
+  {
+    "question_number": 24.6,
+    "Questions": "Find the ratio of the Coulomb electric force F_E to the gravitational force F_G between two electrons in vacuum.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 24.7,
+    "Questions": "As shown in Fig. 24-2, two identical balls, each of mass 0.10 g, carry identical charges and are suspended by two threads of equal length. At equilibrium they position themselves as shown. Find the charge on either ball.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_20.png",
+    "solution": null
+  },
+  {
+    "question_number": 24.8,
+    "Questions": "The charges shown in Fig. 24-3 are stationary. Find the force on the 4.0 µC charge due to the other two.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_21.png",
+    "solution": null
+  },
+  {
+    "question_number": 24.9,
+    "Questions": "Two charges are placed on the x-axis: +3.0 µC at x = 0 and –5.0 µC at x = 40 cm. Where must a third charge q be placed if the force it experiences is to be zero?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_22.png",
+    "solution": null
+  },
+  {
+    "question_number": 24.10,
+    "Questions": "Compute (a) the electric field E in air at a distance of 30 cm from a point charge q₁ = 5.0 × 10⁻⁹ C, (b) the force on a charge q₂ = 4.0 × 10⁻¹⁰ C placed 30 cm from q₁, and (c) the force on a charge q₃ = –4.0 × 10⁻¹⁰ C placed 30 cm from q₁ (in the absence of q₂).",
+    "year": null,
+    "question_type": "Problem",
+    "solution": null
+  },
+  {
+    "question_number": 24.11,
+    "Questions": "For the situation shown in Fig. 24-5, find (a) the electric field E at point P, (b) the force on a –4.0 × 10⁻⁸ C charge placed at P, and (c) where in the region the electric field would be zero (in the absence of the –4.0 × 10⁻⁸ C charge).",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_23.png",
+    "solution": "E = 9.0 × 10⁵ N/C, F = –0.036 N, field is zero at d = 0.10 m right of –5.0 × 10⁻⁸ C"
+  },
+  {
+    "question_number": 24.12,
+    "Questions": "Three charges are placed on three corners of a square, as shown in Fig. 24-6. Each side of the square is 30.0 cm. Compute E at the fourth corner. What would be the force on a 6.00 µC charge placed at the vacant corner?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_24.png",
+    "solution": "E = 2.47 × 10⁵ N at 118°, F = 1.48 N at 118°"
+  },
+  {
+    "question_number": 24.13,
+    "Questions": "Two charged metal plates in vacuum are 15 cm apart. The electric field between the plates is uniform and has a strength of E = 3000 N/C. An electron is released from rest at point P just outside the negative plate. (a) How long will it take to reach the other plate? (b) How fast will it be going just before it hits?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_25.png",
+    "solution": "(a) 2.4 × 10⁻⁸ s; (b) 1.3 × 10⁷ m/s"
+  },
+  {
+    "question_number": 24.14,
+    "Questions": "Suppose in Fig. 24-7 an electron is shot straight upward from point P with a speed of 5.0 × 10⁶ m/s. How far above A will it strike the positive plate?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.12 m"
+  },
+  {
+    "question_number": 24.15,
+    "Questions": "In Fig. 24-7 a proton is shot with speed 2.00 × 10⁵ m/s toward P from A. What will be its speed just before hitting the plate at P?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "356 km/s"
+  },
+  {
+    "question_number": 24.16,
+    "Questions": "Two identical tiny metal balls have charges q₁ and q₂. The repulsive force one exerts on the other when they are 20 cm apart is 1.35 × 10⁻⁴ N. After the balls are touched together and then separated again to 20 cm, the repulsive force is found to be 1.406 × 10⁻⁴ N. Find q₁ and q₂.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "q₁ = 20 nC, q₂ = 30 nC"
+  },
+  {
+    "question_number": 24.17,
+    "Questions": "How many electrons are contained in 1.0 C of charge? What is the mass of the electrons in 1.0 C of charge?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "6.2 × 10¹⁸ electrons, 5.7 × 10⁻¹² kg"
+  },
+  {
+    "question_number": 24.18,
+    "Questions": "If two equal charges, each of 1 C, were separated in air by a distance of 1 km, what would be the force between them?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "9 kN repulsion"
+  },
+  {
+    "question_number": 24.19,
+    "Questions": "Determine the force between two free electrons spaced 1.0 angstrom (10⁻¹⁰ m) apart.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "23 nN repulsion"
+  },
+  {
+    "question_number": 24.20,
+    "Questions": "What is the force of repulsion between two argon nuclei that are separated by 1.0 nm (10⁻⁹ m)? The charge on an argon nucleus is +18e.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "75 nN"
+  },
+  {
+    "question_number": 24.21,
+    "Questions": "Two equally charged balls are 3 cm apart in air and repel each other with a force of 40 µN. Compute the charge on each ball.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "2 nC"
+  },
+  {
+    "question_number": 24.22,
+    "Questions": "Three point charges are placed at the following points on the x-axis: +2.0 µC at x = 0, –3.0 µC at x = 40 cm, –5.0 µC at x = 120 cm. Find the force (a) on the –3.0 µC charge, (b) on the –5.0 µC charge.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) –0.55 N; (b) 0.15 N"
+  },
+  {
+    "question_number": 24.23,
+    "Questions": "Four equal point charges of +3.0 nC are placed at the four corners of a square that is 40 cm on a side. Find the force on any one of the charges.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.97 N outward along the diagonal"
+  },
+  {
+    "question_number": 24.24,
+    "Questions": "Four equal-magnitude point charges (3.0 µC) are placed at the corners of a square that is 40 cm on a side. Two, diagonally opposite each other, are positive, and the other two are negative. Find the force on either negative charge.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.46 N inward along the diagonal"
+  },
+  {
+    "question_number": 24.25,
+    "Questions": "Charges of +2.0 µC, +3.0 µC, and –8.0 µC are placed at the vertices of an equilateral triangle of side 10 cm. Calculate the magnitude of the force acting on the –8.0 µC charge due to the other two charges.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "31 N"
+  },
+  {
+    "question_number": 24.26,
+    "Questions": "One charge of (+5.0 µC) is placed at exactly x = 0, and a second charge (+7.0 µC) at x = 100 cm. Where can a third be placed so as to experience zero net force due to the other two?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "at x = 46 cm"
+  },
+  {
+    "question_number": 24.27,
+    "Questions": "Two identical tiny metal balls carry charges of +3 nC and –12 nC. They are 3 m apart. (a) Compute the force of attraction. (b) The balls are now touched together and then separated to 3 cm. Describe the forces on them now.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 4 × 10⁻⁴ N attraction; (b) 2 × 10⁻⁴ N repulsion"
+  },
+  {
+  "question_number": 24.28,
+  "Questions": "A charge of +6.0 µC experiences a force of 2.0 mN in the +x-direction at a certain point in space. (a) What was the electric field there before the charge was placed there? (b) Describe the force a –2.0 µC charge would experience if it were used in place of the +6.0 µC charge.",
+  "year": null,
+  "question_type": "Problem",
+  "solution": "(a) 0.33 kN/C in +x-direction; (b) 0.67 mN in –x-direction"
+  },
+  {
+    "question_number": 24.29,
+    "Questions": "A point charge of –3.0 × 10⁻⁵ C is placed at the origin of coordinates. Find the electric field at the point x = 5.0 m on the x-axis.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "11 kN/C in –x-direction"
+  },
+  {
+    "question_number": 24.30,
+    "Questions": "Four equal-magnitude (4.0 µC) charges are placed at the four corners of a square that is 20 cm on each side. Find the electric field at the center of the square (a) if the charges are all positive, (b) if the charges alternate in sign around the perimeter of the square, (c) if the charges have the following sequence around the square: plus, plus, minus, minus.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) zero; (b) zero; (c) 5.1 MN/C toward the negative side"
+  },
+  {
+    "question_number": 24.31,
+    "Questions": "A 0.200-g ball hangs from a thread in a vertical electric field of 3.00 kN/C directed upward. What is the charge on the ball if the tension in the thread is (a) zero and (b) 4.00 mN?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) +653 nC; (b) –680 nC"
+  },
+  {
+    "question_number": 24.32,
+    "Questions": "Determine the acceleration of a proton (q = +e, m = 1.67 × 10⁻²⁷ kg) in an electric field of strength 0.50 kN/C. How many times is this acceleration greater than that due to gravity?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "4.8 × 10¹⁰ m/s², 4.9 × 10⁹"
+  },
+  {
+    "question_number": 24.33,
+    "Questions": "A tiny, 0.60-g ball carries a charge of magnitude 8.0 µC. It is suspended by a thread in a downward 300 N/C electric field. What is the tension in the thread if the charge on the ball is (a) positive, (b) negative?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) 8.3 mN; (b) 3.5 mN"
+  },
+  {
+    "question_number": 24.34,
+    "Questions": "The tiny ball at the end of the thread shown in Fig. 24-8 has a mass of 0.60 g and is in a horizontal electric field of strength 700 N/C. It is in equilibrium in the position shown. What are the magnitude and sign of the charge on the ball?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_26.png",
+    "solution": "–3.1 µC"
+  },
+  {
+    "question_number": 24.35,
+    "Questions": "An electron (q = –e, mₑ = 9.1 × 10⁻³¹ kg) is projected out along the +x-axis with an initial speed of 3.0 × 10⁶ m/s. It goes 45 cm and stops due to a uniform electric field in the region. Find the magnitude and direction of the field.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "57 N/C in –x-direction"
+  },
+  {
+    "question_number": 24.36,
+    "Questions": "A particle of mass m and charge –e is projected with horizontal speed v into an electric field (E) directed downward. Find (a) the horizontal and vertical components of its acceleration, aₓ and aᵧ; (b) its horizontal and vertical displacements, x and y, after time t; (c) the equation of its trajectory.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) aₓ = 0, aᵧ = Ee/m; (b) x = vt, y = ½aᵧt² = ½(Ee/m)t²; (c) y = ½(Ee/mv²)x² (a parabola)"
+  }
+]

@@ -1,0 +1,1530 @@
+[
+  {
+    "question_number": "ILLUSTRATION 2.1",
+    "question": "A quarter cylinder of radius R and refractive index 1.5 is placed on a table. A point object P is kept at a distance of mR from it. Find the value of m for which a ray from P will emerge parallel to the table as shown in figure.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_1.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.2",
+    "question": "A glass sphere of radius 2R, refractive index n has a spherical cavity of radius R, concentric with it. A black spot on the inner surface of the hollow sphere is viewed from the left as well as right. Obtain the shift in position of the object.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_2.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.3",
+    "question": "A parallel beam of light travelling in water (refractive index = 4/3) is refracted by a spherical air bubble of radius 2 mm situated in water. Assuming the light rays to be paraxial.\n(a) Find the position of image due to refraction at first surface and position of the final image.\n(b) Draw a ray diagram showing the position of both images.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": []
+  },
+  {
+    "question_number": "ILLUSTRATION 2.4",
+    "question": "A beam of light rays converges to a point O(x = 0) on x-axis as shown. The angle of convergence is small. A cube of glass of refractive index μ = 1.5 and side length 40 cm containing a concentric spherical air cavity of radius 10 cm is to be placed in the path of the converging beam so that the beam emerging from the cube is parallel to x-axis.\nAt what point C on x-axis should the centre of the cube be placed to achieve this? Give the x coordinate of C.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_3.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.5",
+    "question": "A transparent sphere of radius 20 cm and refractive index 1.6 is fixed in a hole of the partition separating the two media: A (refractive index n₁ = 1.2) and B (refractive index n₃ = 1.7).\nA luminous point object is placed 120 cm from the surface of the sphere in medium A. It is viewed from D in medium B in a direction normal to the sphere. Find the position and nature of the image formed by the rays in the direction OD.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_4.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.6",
+    "question": "A thin rod is kept at a distance of 15 cm from a concave mirror of R = 20 cm. A convex refracting surface at R' = 50 cm and refractive index μ = 1.5 is kept at a distance of 20 cm from the mirror. Find the (a) nature and position of the final image (b) lateral magnification of the final image.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_5.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.7",
+    "question": "Figure shows an irregular block of material of refractive index √2. A ray of light strikes the face AB. After refraction, it is incident on a spherical surface CD of radius of curvature 0.4 m and enters a medium of refractive index 1.514 to meet PQ at E. Find the distance OE up to two decimal.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_6.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.8",
+    "question": "A thin plano-convex lens of focal length f is split into two halves, one of the halves is shifted along the optical axis. The separation between object and image plane is 1.8 m. The magnification of the image formed by one of the half lenses is 2. Find the focal length of the lens and separation between the halves. Draw the ray diagram for image formation.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_7.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.9",
+    "question": "A convex lens of focal length 15 cm and a concave mirror of focal length 30 cm are kept with their optic axes PQ and RS parallel but separated in vertical direction by 0.6 cm as shown in figure. The distance between the lens and mirror is 30 cm. An upright object AB of height 1.2 cm is placed on the optics axis PQ of the lens at a distance of 20 cm from the lens. If A'B' is the image after refraction from the lens and reflection from the mirror, find the distance of A'B' from the pole of the mirror and obtain its magnification. Also, locate positions of A' and B' with respect to the optic axis RS.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_8.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.10",
+    "question": "Figure shows the optical axis (XY) of a lens, the P is a point source of light and Q is its image. The separation between P and Q are separated by 20 cm along the axis, draw a ray diagram to locate the lens and its focus point and find the focal length of the lens.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_9.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.11",
+    "question": "Two identical convex lenses (L₁ and L₂) each of focal length 10 cm are separated by 30 cm and placed along common principal axis. A plane mirror is placed behind the two lenses as shown in the figure. Where should a point object be placed in front of the first lens (L₁) so that it images on to itself?",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_10.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.12",
+    "question": "A lens is made of three thin different mediums. Radius of curvature and refractive index of each medium is shown in figure. Surface AB is straight. An object is placed at some distance from the lens by which a real image is formed on the screen placed at a distance 10 cm from the lens. Find\n(a) the distance of the object from the lens.\n(b) A slab of thickness 1.5 cm and refractive index 1.5 is introduced between image and the lens, find new position of the object so that image is again formed on the screen.\n(c) Find the position of the image when same slab is placed on the other side of the lens (as in part (b)) with object in the position of part (a).",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_11.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.13",
+    "question": "In figure L is half part of an equiconvex glass lens (μ = 1.5) whose surface have radius of curvature r = 40 cm and its right surface is silvered. Normal to its principal axis a plane mirror M is placed on right of lens. Distance between lens L and mirror M is b. A small object O is placed on left of the lens such that there is no parallax between final images formed by the lens and mirror.\nIf transverse length of final image formed by lens is twice that of image formed by the mirror, calculate distance a between lens and object and distance b.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": [],
+    "images":["GO2_images/arihant_12.png"]
+  },
+  {
+    "question_number": "ILLUSTRATION 2.14",
+    "question": "Focal length of a thin convex lens in air is 10 cm. Now, medium on one side of the lens is replaced by a medium of refractive index μ₂ = 2. The radius of curvature of the surface of lens, in contact with the medium, is 20 cm. Find the new focal length.",
+    "year": null,
+    "question_type": "Solved Examples",
+    "options": []
+  },
+  {
+    "question_number": "1",
+    "question": "You are given two identical plano-convex lenses. When you place an object 20 cm to the left of a single plano-convex lens, the image appears 40 cm to the right of the lens. You then arrange the two plano-convex lenses back to back to form a double convex lens. If the object is 20 cm to the left of this new lens, what is the approximate location of the image?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 10 cm to the right of the lens",
+      "(2) 20 cm to the right of the lens",
+      "(3) 80 cm to the right of the lens",
+      "(4) 80 cm to the left of the lens"
+    ],
+    "images":["GO2_images/arihant_13.png"]
+  },
+  {
+    "question_number": "2",
+    "question": "A thin equiconvex lens (μ = 3/2) of focal length 10 cm is cut and separated and a material of refractive index 3 is filled between them. What is the focal length of the combination?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) -10 cm",
+      "(2) -10/4 cm",
+      "(3) -10/3 cm",
+      "(4) None of these"
+    ],
+    "images":["GO2_images/arihant_14.png"]
+  },
+  {
+    "question_number": "3",
+    "question": "Behind a thin converging lens having both the surfaces of the same radius 10 cm, a plane mirror has been placed. The image of an object at a distance of 40 cm from the lens is formed at the same position. What is the refractive index of the lens ?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 1.5",
+      "(2) 5/3",
+      "(3) 9/8",
+      "(4) None of these"
+    ],
+    "images":["GO2_images/arihant_15.png"]
+  },
+  {
+    "question_number": "4",
+    "question": "What should be the value of distance d so that final image is formed on the object itself. (Focal lengths of the lenses are written on the lenses.)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 10 cm",
+      "(2) 20 cm",
+      "(3) 5 cm",
+      "(4) None of these"
+    ],
+    "images":["GO2_images/arihant_16.png"]
+  },
+  {
+    "question_number": "5",
+    "question": "Consider an equiconvex lens of radius of curvature R and focal length f. If f> R, the refractive index μ of the material of the lens",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) is greater than zero but less than 1.5",
+      "(2) is greater than 1.5 but less than 2.0",
+      "(3) is greater than 1.0 but less than 1.5",
+      "(4) none of these"
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "A plano-convex lens when silvered on the plane side behaves like a concave mirror of focal length 60 cm. However, when silvered on the convex side, it behaves like a concave mirror of focal length 20 cm. Then, the refractive index of the lens is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 3.0",
+      "(2) 1.5",
+      "(3) 1.0",
+      "(4) 2.0"
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "Two thin lenses are placed 5 cm apart along the same axis and illuminated with a beam of light parallel to that axis. The first lens in the path of the beam is a converging lens of focal length 10 cm whereas the second is a diverging lens of focal length 5 cm. If the second lens is now moved toward the first, the emergent light",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) remains parallel",
+      "(2) remains convergent",
+      "(3) remains divergent",
+      "(4) changes from parallel to divergent"
+    ]
+  },
+  {
+    "question_number": "8",
+    "question": "A lens forms a real image of an object. The distance from the object to the lens is x cm and that from the lens to the image is y cm. The graph (see figure) shows the variation of y with x. It can be deduced that the lens is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) converging and of focal length 10 cm",
+      "(2) converging and of focal length 20 cm",
+      "(3) converging and of focal length 40 cm",
+      "(4) diverging and of focal length 20 cm"
+    ],
+    "images":["GO2_images/arihant_17.png"]
+  },
+  {
+    "question_number": "9",
+    "question": "A plastic hemisphere has a radius of curvature of 8 cm and an index of refraction of 1.6. On the axis halfway between the plane surface and the spherical one (4 cm from each) is a small object O. The distance between the two images when viewed along the axis from the two sides of the hemisphere is approximately",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 1.0 cm",
+      "(2) 1.5 cm",
+      "(3) 3.75 cm",
+      "(4) 2.5 cm"
+    ],
+    "images":["GO2_images/arihant_18.png"]
+  },
+  {
+    "question_number": "10",
+    "question": "A ray of light falls on a transparent sphere with centre at C as shown in figure. The ray emerges from the sphere parallel to line AB. The refractive index of the sphere is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) √2",
+      "(2) √3",
+      "(3) 3/2",
+      "(4) 1/2"
+    ],
+    "images":["GO2_images/arihant_19.png"]
+  },
+  {
+    "question_number": "11",
+    "question": "A ray of light is incident on a glass sphere of refractive index 3/2. What should be the angle of incidence so that the ray which enters the sphere does not come out of the sphere?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) tan⁻¹ (2/3)",
+      "(2) 60°",
+      "(3) 90°",
+      "(4) 30°"
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "Two identical glass (μg = 3/2) equiconvex lenses of focal length f are kept in contact. The space between the two lenses is filled with water (μw = 4/3). The focal length of the combination is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f",
+      "(2) f/2",
+      "(3) 4f/3",
+      "(4) 3f/4"
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "An object is kept at a distance of 16 cm from a thin lens and the image formed is real. If the object is kept at a distance of 6 cm from the same lens, the image formed is virtual. If the sizes of the images formed are equal, the focal length of the lens will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 15 cm",
+      "(2) 17 cm",
+      "(3) 21 cm",
+      "(4) 11 cm"
+    ]
+  },
+  {
+    "question_number": "14",
+    "question": "Point object O is placed on the principal axis of a convex lens of focal length 20 cm at a distance of 40 cm to the left of it. The diameter of the lens is 10 cm. If the eye is placed 60 cm to the right of the lens at a distance h below the principal axis, then the maximum value of h to see the image will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 0",
+      "(2) 5 cm",
+      "(3) 2.5 cm",
+      "(4) 10 cm"
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "A hollow double concave lens is made of very thin transparent material. It can be filled with air or either of two liquids L₁ or L₂ having refractive indices n₁ and n₂, respectively (n₂ > n₁ > 1). The lens will diverge parallel beam of light if it is filled with",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) air and placed in air",
+      "(2) air and immersed in L₁",
+      "(3) L₁ and immersed in L₂",
+      "(4) L₂ and immersed in L₁"
+    ]
+  },
+  {
+    "question_number": "16",
+    "question": "A convex lens of focal length 20 cm and a concave lens of focal length f are mounted coaxially 5 cm apart. Parallel beam of light incident on the convex lens emerges from the concave lens as a parallel beam. Then, f in cm is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 35",
+      "(2) 25",
+      "(3) 20",
+      "(4) 15"
+    ]
+  },
+  {
+    "question_number": "17",
+    "question": "An equiconvex lens is made from glass of refractive index 1.5. If the radius of each surface is changed from 5 cm to 6 cm, then the power",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) remains unchanged",
+      "(2) increases by 3.33 D",
+      "(3) decreases by 3.33 D",
+      "(4) decreases by 5.5 D"
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "An object is put at a distance of 5 cm from the first focus of a convex lens of focal length 10 cm. If a real image is formed, its distance from the lens will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 15 cm",
+      "(2) 20 cm",
+      "(3) 25 cm",
+      "(4) 30 cm"
+    ]
+  },
+  {
+    "question_number": "19",
+    "question": "Refraction takes place at a convex spherical boundary separating glass-air medium. For the image to be real, the object distance (μg = 3/2) should be/is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) greater than three times the radius of curvature of the refracting surface",
+      "(2) greater than two times the radius of curvature of the refracting surface",
+      "(3) greater than the radius of curvature of the refracting surface",
+      "(4) independent of the radius of curvature of the refracting surface"
+    ]
+  },
+  {
+    "question_number": "20",
+    "question": "A plano-convex lens fits exactly into a plano-concave lens. Their plane surfaces are parallel to each other. If the lenses are made of different material of refractive indices μ₁ and μ₂ and R is the radius of curvature of the curved surface of the lenses, then focal length of the combination is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) R / (μ₁ - μ₂)",
+      "(2) 2R / (μ₂ - μ₁)",
+      "(3) R / 2(μ₁ - μ₂)",
+      "(4) R / 2 - (μ₁ + μ₂)"
+    ]
+  },
+  {
+    "question_number": "21",
+    "question": "A parallel beam of light is incident on the system of two convex lenses of focal lengths f₁ = 20 cm and f₂ = 10 cm. What should be the distance between the two lenses so that rays after refraction from both the lenses pass undeviated?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 60 cm",
+      "(2) 30 cm",
+      "(3) 90 cm",
+      "(4) 40 cm"
+    ],
+    "images":["GO2_images/arihant_20.png"]
+  },
+  {
+    "question_number": "22",
+    "question": "A point object is placed at a distance of 25 cm from a convex lens of focal length 20 cm. If a glass slab of thickness t and refractive index 1.5 is inserted between the lens and the object, the image is formed at infinity. The thickness t is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 10 cm",
+      "(2) 5 cm",
+      "(3) 20 cm",
+      "(4) 15 cm"
+    ]
+  },
+  {
+    "question_number": "23",
+    "question": "A convex lens of focal length 10 cm is painted black at the middle portion as shown in figure. An object is placed at a distance of 20 cm from the lens. Then,",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) only one image will be formed by the lens",
+      "(2) the distance between the two images formed by such a lens is 6 mm",
+      "(3) the distance between the images is 4 mm",
+      "(4) the distance between the images is 2 mm"
+    ],
+    "images":["GO2_images/arihant_21.png"]
+  },
+  {
+    "question_number": "24",
+    "question": "A lens forms a virtual, diminished image of an object placed at 2 m from it. The size of image is half of the object. Which one of the following statements is correct regarding the nature and focal length of the lens?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) Concave, |f| = 1 m",
+      "(2) Convex, |f| = 1 m",
+      "(3) Concave, |f| = 2 m",
+      "(4) Convex, |f| = 2 m"
+    ]
+  },
+  {
+    "question_number": "25",
+    "question": "Two convex lenses placed in contact form the image of a distant object at P. If the lens B is moved to the right, the image will",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) move to the left",
+      "(2) move to the right",
+      "(3) remain at P",
+      "(4) move either to the left or right, depending upon focal lengths of the lenses"
+    ],
+    "images":["GO2_images/arihant_22.png"]
+  },
+  {
+    "question_number": "26",
+    "question": "An equiconvex lens is cut into two halves along (i) XOX' and (ii) YOY' as shown in figure. Let f, f', f'' be the focal length of the lens, of each half in case (i), and of each half in case (ii), respectively. Choose the correct statement from the following:",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f' = f, f'' = 2f",
+      "(2) f' = 2f, f'' = f",
+      "(3) f' = f, f'' = f",
+      "(4) f' = 2f, f'' = 2f"
+    ],
+    "images":["GO2_images/arihant_23.png"]
+  },
+  {
+    "question_number": "27",
+    "question": "An object 15 cm high is placed 10 cm from the optical center of a thin lens. Its image is formed 25 cm from the optical center on the same side of the lens as the object. The height of the image is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 2.5 cm",
+      "(2) 0.2 cm",
+      "(3) 16.7 cm",
+      "(4) 37.5 cm"
+    ]
+  },
+  {
+    "question_number": "28",
+    "question": "A convex lens of power +6 dioptre is placed in contact with a concave lens of power -4 dioptre. What will be the nature and focal length of this combination?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) Concave, 25 cm",
+      "(2) Convex, 50 cm",
+      "(3) Concave, 20 cm",
+      "(4) Convex, 100 cm"
+    ]
+  },
+  {
+    "question_number": "29",
+    "question": "A convex lens of focal length 1.0 m and a concave lens of focal length 0.25 m are 0.75 m apart. A parallel beam of light is incident on the convex lens. The beam emerging after refraction from both lenses is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) parallel to the principal axis",
+      "(2) convergent",
+      "(3) divergent",
+      "(4) none of the above"
+    ]
+  },
+  {
+    "question_number": "30",
+    "question": "A convex lens A of focal length 20 cm and a concave lens G of focal length 5 cm are kept along the same axis with the distance d between them. If a parallel beam of light falling on A leaves B as a parallel beam, then distance d in cm will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 25",
+      "(2) 15",
+      "(3) 30",
+      "(4) 50"
+    ]
+  },
+  {
+    "question_number": "31",
+    "question": "A convex lens forms an image of an object placed 20 cm away from it at a distance of 20 cm on the other side of the lens. If the object is moves 5 cm toward the lens, the image will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 5 cm toward the lens",
+      "(2) 5 cm away from the lens",
+      "(3) 10 cm toward the lens",
+      "(4) 10 cm away from the lens"
+    ]
+  },
+  {
+    "question_number": "32",
+    "question": "An object is placed at a distance of 15 cm from a convex lens of focal length 10 cm. On the other side of the lens, a convex mirror is placed at its focus such that the image formed by the combination coincides with the object itself. The focal length of the convex mirror is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 20 cm",
+      "(2) 10 cm",
+      "(3) 15 cm",
+      "(4) 30 cm"
+    ]
+  },
+  {
+    "question_number": "33",
+    "question": "The lateral magnification of the lens with an object located at two different positions u₁ and u₂ are m₁ and m₂, respectively. Then the focal length of the lens is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f = m₁m₂ (u₂ - u₁)",
+      "(2) f = √m₁m₂ (u₂ + u₁)",
+      "(3) (u₂ - u₁) / (m₂ - m₁)",
+      "(4) (u₂ - u₁) / ((m₂)⁻¹ - (m₁)⁻¹)"
+    ]
+  },
+  {
+    "question_number": "34",
+    "question": "A parallel beam of light falls axially on a thin converging lens of focal length 20 cm. The emergent light falls or a screen placed 30 cm beyond the lens. An opaque plate with a triangular aperture, side 1 cm, is in contact with the lens [see Figs. (a) and (b)]. Which one of the following diagrams best shows to appearance of the patch of light seen on the screen?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) Inverted triangle, base 1.5 cm",
+      "(2) Inverted triangle, base 1.0 cm",
+      "(3) Upright triangle, base 1.0 cm",
+      "(4) Upright triangle, base 0.5 cm"
+    ]
+  },
+  {
+    "question_number": "35",
+    "question": "A liquid of refractive index 1.6 is contained in the cavity of a glass specimen of refractive index 1.5 as shown in figure. If each of the curved surfaces has a radius of curvature of 0.20 m, the arrangement behaves as a",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) converging lens of focal length 0.25 m",
+      "(2) diverging lens of focal length 0.25 m",
+      "(3) diverging lens of focal length 0.17 m",
+      "(4) converging lens of focal length 0.72 m"
+    ],
+    "images":["GO2_images/arihant_24.png"]
+  },
+  {
+    "question_number": "36",
+    "question": "Figure (a) shows two plano-convex lenses in contact as shown. The combination has focal length 24 cm. Figure (b) shows the same with a liquid introduced between them. If refractive index of glass of the lenses is 1.50 and that of the liquid is 1.60, the focal length of system in Fig. (b) will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) -120 cm",
+      "(2) 120 cm",
+      "(3) -24 cm",
+      "(4) 24 cm"
+    ],
+    "images":["GO2_images/arihant_25.png"]
+  },
+  {
+    "question_number": "37",
+    "question": "In a slide show programme, the image on the screen has an area 900 times that of the slide. If the distance between the slide and the screen is x times the distance between the slide and the projector lens, then",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) x = 30",
+      "(2) x = 31",
+      "(3) x = 500",
+      "(4) x = 1/30"
+    ]
+  },
+  {
+    "question_number": "38",
+    "question": "An object is placed 1 m in front of the curved surface of a plano-convex lens whose plane surface is silvered. A real image is formed in front of the lens at a distance of 120 cm. Then, the focal length of the lens is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 100 cm",
+      "(2) 120 cm",
+      "(3) 109.1 cm",
+      "(4) 110.0 cm"
+    ]
+  },
+  {
+    "question_number": "39",
+    "question": "The apparent thickness of a thick plano-convex lens is measured once with the plane face upward and then with the convex face upward. The value will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) more in the first case",
+      "(2) same in the two cases",
+      "(3) more in the second case",
+      "(4) any of the above depending on the value of its actual thickness"
+    ]
+  },
+  {
+    "question_number": "40",
+    "question": "Two point sources S₁ and S₂ are 24 cm apart. Where should a convex lens of focal length 9 cm be placed in between them so that the images of both sources are formed at the same place?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 6 cm from S₁",
+      "(2) 15 cm from S₁",
+      "(3) 10 cm from S₁",
+      "(4) 12 cm from S₁"
+    ]
+  },
+  {
+    "question_number": "41",
+    "question": "Two thin symmetrical lenses of different nature and of different material have equal radii of curvature R = 15 cm. The lenses are put close together and immersed in water (μw = 4/3). The focal length of the system in water is 30 cm. The difference between refractive indices of the two lenses is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 1/2",
+      "(2) 1/4",
+      "(3) 1/3",
+      "(4) 3/4"
+    ]
+  },
+  {
+    "question_number": "42",
+    "question": "A glass sphere of radius R = 10 cm is kept inside water. A point object O is placed at 20 cm from A as shown in the figure. Find the position and nature of the image when seen from other side of the sphere. Given μg = 3/2 and μw = 4/3.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 200 cm, virtual",
+      "(2) 100 cm, real",
+      "(3) 100 cm, virtual",
+      "(4) 300 cm, virtual"
+    ],
+    "images":["GO2_images/arihant_26.png"]
+  },
+  {
+    "question_number": "43",
+    "question": "A spherical convex surface separates object and image spaces of refractive indices 1.0 and 4/3. If radius of curvature of the surface is 10 cm, find its power.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 3.5 D",
+      "(2) 2.5 D",
+      "(3) 25 D",
+      "(4) 1.5 D"
+    ]
+  },
+  {
+    "question_number": "44",
+    "question": "A luminous object and a screen are at a fixed distance D apart. A converging lens of focal length f is placed between the object and screen. A real image of the object in formed on the screen for two lens positions if they are separated by a distance d equal to",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) √D(D+4f)",
+      "(2) √D(D-4f)",
+      "(3) √2D(D-4f)",
+      "(4) √D²+4f"
+    ]
+  },
+  {
+    "question_number": "45",
+    "question": "For the same statement as above, the ratio of the two image sizes for these two positions of the lens is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) [(D-d)/(D+d)]²",
+      "(2) [(D+d)/(D-d)]²",
+      "(3) [(D-2d)/(D+2d)]²",
+      "(4) [(D+2d)/(D-2d)]²"
+    ]
+  },
+  {
+    "question_number": "46",
+    "question": "For statement of question 44, if the heights of the two images are h₁ and h₂, respectively, then the height of the object (h) is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) h₁ + h₂",
+      "(2) √h₁h₂",
+      "(3) h₁h₂",
+      "(4) h₁/h₂"
+    ]
+  },
+  {
+    "question_number": "47",
+    "question": "The focal length of the lens used in question 44 is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) (D² + d²) / 2D",
+      "(2) (D² - d²) / 4D",
+      "(3) (D² - d²) / 2D",
+      "(4) (D² + d²) / d"
+    ]
+  },
+  {
+    "question_number": "48",
+    "question": "In question 44, if m₁ and m₂ are the magnifications for two positions of the lens, then",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f = d / (m₁ + m₂)",
+      "(2) f = -2d / (m₁ + m₂)",
+      "(3) f = 3d / (m₁ - m₂)",
+      "(4) f = d / (m₁ - m₂)"
+    ]
+  },
+  {
+    "question_number": "49",
+    "question": "Figure shows a concavo-convex lens μ₂. What is the condition on the refractive indices so that the lens is diverging?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 2μ₂ < μ₁ + μ₃",
+      "(2) 2μ₂ > μ₁ + μ₃",
+      "(3) μ₂ > 2(μ₁ - μ₃)",
+      "(4) None of these"
+    ],
+    "images":["GO2_images/arihant_27.png"]
+  },
+  {
+    "question_number": "50",
+    "question": "A plano-concave lens is placed on a paper on which a flower is drawn. How far above its actual position does the flower appear to be? Radius of curvature = 20 cm, Air, μ = 3/2, T = 20 cm.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 10 cm",
+      "(2) 15 cm",
+      "(3) 50 cm",
+      "(4) None of these"
+    ],
+    "images":["GO2_images/arihant_28.png"]
+  },
+  {
+    "question_number": "51",
+    "question": "The distance between an object and the screen is 100 cm. A lens produces an image on the screen when the lens is placed at either of the positions 40 cm apart. The power of the lens is nearly",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 3 diopter",
+      "(2) 5 diopter",
+      "(3) 2 diopter",
+      "(4) 9 diopter"
+    ]
+  },
+  {
+    "question_number": "52",
+    "question": "In figure, a point object O is placed in air. A spherical boundary separates two media. AB is the principal axis. The refractive index above AB is 1.6 and below AB is 2.0. The separation between the images formed due to refraction at the spherical surface is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 12 m",
+      "(2) 20 m",
+      "(3) 14 m",
+      "(4) 10 m"
+    ],
+    "images":["GO2_images/arihant_29.png"]
+  },
+  {
+    "question_number": "53",
+    "question": "The given lens is broken into four parts rearranged as shown. If the initial focal length is f, then after rearrangement the equivalent focal length is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f",
+      "(2) f/2",
+      "(3) f/4",
+      "(4) 4f"
+    ],
+    "images":["GO2_images/arihant_30.png"]
+  },
+  {
+    "question_number": "54",
+    "question": "A concave refractive surface of a medium having refractive index μ produces a real image of an object (located outside the medium) irrespective of its location. Choose the correct option from the following.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) Always",
+      "(2) May be if refractive index of surrounding medium is greater than μ",
+      "(3) May be if refractive index of surrounding medium is less than μ",
+      "(4) None of the above"
+    ]
+  },
+  {
+    "question_number": "55",
+    "question": "A convex spherical refracting surface with radius R separates a medium having refractive index 5/2 from air. As an object is moved towards the surface from far away from the surface along the principal axis, its image",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) changes from real to virtual when it is at a distance R from the surface",
+      "(2) changes from virtual to real when it is at a distance R from the surface",
+      "(3) changes from real to virtual when it is at a distance 2R/3 from the surface",
+      "(4) changes from virtual to real when it is at a distance 2R/3 from the surface"
+    ]
+  },
+  {
+    "question_number": "56",
+    "question": "A concave spherical refractive surface with radius R separates a medium of refractive index 5/2 from air. As an object is approaching the surface from far away along the central axis, its image",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) always remains real",
+      "(2) always remains virtual",
+      "(3) changes from real to virtual at a distance 2R/3 from the surface",
+      "(4) changes from virtual to real at a distance 2R/3 from the surface"
+    ]
+  },
+  {
+    "question_number": "57",
+    "question": "Two lenses shown in figure are illuminated by a beam of parallel light from the left. Lens B is then moved slowly toward lens A. The beam emerging from lens B is (Lens A: f=50cm, Lens B: f=25cm, separation 25cm)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) always diverging",
+      "(2) initially parallel and then diverging",
+      "(3) always parallel",
+      "(4) initially converging and then parallel"
+    ],
+    "images":["GO2_images/arihant_31.png"]
+  },
+  {
+    "question_number": "58",
+    "question": "Rays from a lens are converging toward a point P, as shown in figure. How much thick glass plate having refractive index 1.6 must be located between the lens and point P, so that the image will be formed at P' (PP' = 0.3cm)?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 0.8 cm",
+      "(2) 1.6 cm",
+      "(3) 5 cm",
+      "(4) 2.4 cm"
+    ],
+    "images":["GO2_images/arihant_32.png"]
+  },
+  {
+    "question_number": "59",
+    "question": "When an object is placed 15 cm from a lens, a virtual image is formed. Mark the correct statements.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) The lens may be convex or concave.",
+      "(2) If the lens is diverging, the image distance has to be less than 15 cm.",
+      "(3) If the lens is converging, then its focal length has to be greater than 15 cm.",
+      "(4) All of these."
+    ]
+  },
+  {
+    "question_number": "60",
+    "question": "A glass hemisphere of radius R and of material having refractive index 1.5 is silvered on its flat face as shown in figure. A small object of height h is located at a distance 2R from the surface of hemisphere as shown in the figure. The final image will form",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) at a distance of R from silvered surface, on the right side",
+      "(2) on the object itself",
+      "(3) at hemisphere surface",
+      "(4) at a distance of 2R from the silvered surface, on left side"
+    ],
+    "images":["GO2_images/arihant_33.png"]
+  },
+  {
+    "question_number": "61",
+    "question": "A lens of focal length 20.0 cm and aperture radius 2.0 cm is placed at a distance 30.0 cm from a point source of light. On the other side a screen is placed at a distance 50.0 cm from the lens. The radius of spot of light formed on screen is (neglect spherical aberration through lens)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 1/2 cm",
+      "(2) 1/3 cm",
+      "(3) 1/5 cm",
+      "(4) 1.0 cm"
+    ]
+  },
+  {
+    "question_number": "62",
+    "question": "A diverging lens of focal length 10 cm is placed 10 cm away in front of a plane mirror as shown in figure. Light from a very far away source falls on the lens. An observer is situated some where in between lens and mirror, and observer is looking towards mirror. The observer will see the image behind the mirror at a distance",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 10 cm from the mirror",
+      "(2) infinite away from mirror",
+      "(3) 20 cm from mirror",
+      "(4) no image will be formed behind mirror."
+    ],
+    "images":["GO2_images/arihant_34.png"]
+  },
+  {
+    "question_number": "63",
+    "question": "An object starts moving at an angle of 45° with the principal axis as shown in figure in front of a biconvex lens of focal length +10 cm. If θ denotes the angle at which image starts to move with principal axis, then (object at 20cm)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) θ = 3π/4",
+      "(2) θ = π/2",
+      "(3) θ = π/4",
+      "(4) θ = -π/4"
+    ],
+    "images":["GO2_images/arihant_35.png"]
+  },
+  {
+    "question_number": "64",
+    "question": "A converging beam of rays is incident on a diverging lens. Having passed through the lens the rays intersect at a point 15 cm from the lens. If lens is removed the point where the rays meet will move 5 cm closer towards the mounting that holds the lens. The focal length of lens is",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f = -10 cm",
+      "(2) f = -15 cm",
+      "(3) f = -30 cm",
+      "(4) f = -40 cm"
+    ]
+  },
+  {
+    "question_number": "65",
+    "question": "Consider a sphere of radius R made of glass of refractive index μ. A small object moves along the diameter with constant velocity u. Find the velocity of the image as seen by an observer outside when the object passes through center.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) u",
+      "(2) μu",
+      "(3) u/μ",
+      "(4) zero"
+    ]
+  },
+  {
+    "question_number": "66",
+    "question": "A ray of light AO is incident on a diverging lens as shown in figure. The focal plane of the lens is also given. The possible direction of the refracted ray will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4) None of these"
+    ]
+  },
+  {
+    "question_number": "67",
+    "question": "In the arrangement shown in figure, O is the object. An observer is to the left of convex lens and looking towards lens. The observer will see an image (Object at 20cm, lens, then mirror 12cm away)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) behind the mirror",
+      "(2) between lens and mirror",
+      "(3) to the left of lens",
+      "(4) no image will be seen"
+    ],
+    "images":["GO2_images/arihant_36.png"]
+  },
+  {
+    "question_number": "68",
+    "question": "An equiconcave diverging lens of focal length F is cut into two equal halves. The two halves are turned around and joined with some liquid between them. The lens obtained is converging with focal length F. If the refractive index of the liquid is 3 then what is the refractive index of the lens?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 4",
+      "(2) 2",
+      "(3) 5",
+      "(4) 1.5"
+    ],
+    "images":["GO2_images/arihant_37.png"]
+  },
+  {
+    "question_number": "69",
+    "question": "In an optics experiment, with the position of the object fixed, a student varies the position of a convex lens and for each position, the screen is adjusted to get a clear image of the object. A graph between the object distance u and the image distance v, from the lens, is plotted using the same scale for the two axes. A straight line passing through the origin and making an angle of 45° with the x-axis meets the experimental curve at P. The coordinates of P will be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) (2f, 2f)",
+      "(2) (f/2, f/2)",
+      "(3) (f, f)",
+      "(4) (4f, 4f)"
+    ]
+  },
+  {
+    "question_number": "70",
+    "question": "A convex lens of focal length 20 cm and another plano convex lens of focal length 40 cm are placed co-axially (see figure). The plano convex lens is silvered on plane surface. What should be the distance d (in cm) so that final image of the object 'O' (at 10cm from first lens) is formed on O itself.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 10 cm",
+      "(2) 40 cm",
+      "(3) 20 cm",
+      "(4) 80 cm"
+    ],
+    "images":["GO2_images/arihant_38.png"]
+  },
+  {
+    "question_number": "71",
+    "question": "A light ray hits the pole of a thin biconvex lens as shown in figure. The angle made by the emergent ray with the optic axis will be approximately (incident angle 2°, μ values μ, 3μ, 2μ across interfaces)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 0°",
+      "(2) (1/3)°",
+      "(3) (2/3)°",
+      "(4) 2°"
+    ],
+    "images":["GO2_images/arihant_39.png"]
+  },
+  {
+    "question_number": "72",
+    "question": "A lens forms a diminished and erect image of an object. The magnification is 1/4. Find ratio of distances between object and focus and focus and image.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 4 : 1",
+      "(2) 1 : 4",
+      "(3) 8 : 1",
+      "(4) 2 : 1"
+    ]
+  },
+  {
+    "question_number": "73",
+    "question": "When an object is placed on the principal axis of a convex lens at two different positions, it produces the images with magnifications +2 and -4 respectively. How many times more away from the lens the image will be formed in the second position as compared to the first position?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 2",
+      "(2) 4",
+      "(3) 5",
+      "(4) 10"
+    ]
+  },
+  {
+    "question_number": "74",
+    "question": "A convex lens of focal length f cut into parts first horizontally and then vertically. Find the focal length of part A of the lens, as shown.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f/2",
+      "(2) f",
+      "(3) 4f",
+      "(4) 2f"
+    ],
+    "images":["GO2_images/arihant_40.png"]
+  },
+  {
+    "question_number": "75",
+    "question": "Find the distance of object placed in the slab of refractive index μ from point P of the curved surface of radius R so that image is formed at infinity.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) (μ-1)R / μ",
+      "(2) μR / (μ-1)",
+      "(3) R / (μ-1)",
+      "(4) (μ-1)R / 2μ"
+    ],
+    "images":["GO2_images/arihant_41.png"]
+  },
+  {
+    "question_number": "76",
+    "question": "An object is placed at f/2 away from first focus of a convex lens where f is the focal length of the lens. Its image is formed at a distance 3f/2 in a slab of refractive index 3/2, from the face of the slab facing the lens. Find the distance of this face of the slab from the second focus of the lens.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f/2",
+      "(2) 3f/2",
+      "(3) 2f",
+      "(4) f"
+    ],
+    "images":["GO2_images/arihant_42.png"]
+  },
+  {
+    "question_number": "77",
+    "question": "A fish in a lake (refractive index 4/3 for water) is viewed through a convex lens. From water surface, the lens is placed in air at half of the distance of the fish from the water surface, so that the image is formed at the fish itself. The focal length of the lens is how many times the depth of fish in water?",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 4",
+      "(2) 6",
+      "(3) 7.5",
+      "(4) 9"
+    ]
+  },
+  {
+    "question_number": "78",
+    "question": "Figure shows an object and its image formed by a thin lens. Then the nature and focal length of lens is (Object height 6.5mm, object dist 5cm, image dist 3cm, image inverted)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) f = 4.8 cm, converging lens",
+      "(2) f = -4.8 cm, diverging lens",
+      "(3) f = 2.18 cm, converging lens",
+      "(4) f = -2.18 cm, diverging lens"
+    ],
+    "images":["GO2_images/arihant_43.png"]
+  },
+  {
+    "question_number": "79",
+    "question": "A hollow double concave lens is made of very thin transparent material. It can be filled with air or either of two liquids L₁ or L₂ having refractive indices μ₁ and μ₂, respectively (μ₂ > μ₁ > 1). The lens will diverge a parallel beam of light if it is filled with",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) air and placed in air",
+      "(2) air and immersed in L₁",
+      "(3) L₁ and immersed in L₂",
+      "(4) L₂ and immersed in L₁."
+    ]
+  },
+  {
+    "question_number": "80",
+    "question": "The size of the image of an object, which is at infinity, as formed by a convex lens of focal length 30 cm is 2 cm. If a concave lens of focal length 20 cm is placed between the convex lens and the image at a distance of 26 cm from the convex lens, calculate the new size of the image.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 1.25 cm",
+      "(2) 2.5 cm",
+      "(3) 1.05 cm",
+      "(4) 2 cm"
+    ]
+  },
+  {
+    "question_number": "81",
+    "question": "Focal length of the plano-convex lens is 15 cm. A small object is placed at A as shown in figure. The plane surface is silvered. The image will form at (A is 20cm from lens)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 60 cm to the left of lens",
+      "(2) 12 cm to the left of lens",
+      "(3) 60 cm to the right of lens",
+      "(4) 30 cm to the left of lens"
+    ],
+    "images":["GO2_images/arihant_44.png"]
+  },
+  {
+    "question_number": "82",
+    "question": "The graph shows relationship between object distance and image distance for an equiconvex lens. Then, focal length of the lens is (u,v points like (-30,10), (0,0), (9,9), (-10,30) etc.)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 0.50 ± 0.05 cm",
+      "(2) 0.50 ± 0.10 cm",
+      "(3) 5.00 ± 0.05 cm",
+      "(4) 5.00 ± 0.10 cm"
+    ],
+    "images":["GO2_images/arihant_45.png"]
+  },
+  {
+    "question_number": "83",
+    "question": "A double convex lens which is made of a material of refractive index μ₁, is placed inside two liquids of refractive indices μ₂ and μ₃. The upper half of the lens is submerged in liquid of refractive index μ₂ while the lower half is submerged in liquid of refractive index μ₃ as shown. It is given, μ₂ > μ₁ > μ₃. A wide, parallel beam of light is incident on the lens from the left. The lens will give rise to",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) a single convergent beam",
+      "(2) two different convergent beams",
+      "(3) two different divergent beams",
+      "(4) a convergent and a divergent beam"
+    ],
+    "images":["GO2_images/arihant_46.png"]
+  },
+  {
+    "question_number": "84",
+    "question": "Look at the ray diagram shown, what will be the focal length of the 1st and the 2nd lens, if the incident light ray passes without any deviation? (incident ray parallel, passes through 1st lens, then 2nd lens, emerges parallel, lenses 5cm apart)",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) -5 cm and +10 cm",
+      "(2) +5 cm and +10 cm",
+      "(3) -5 cm and +5 cm",
+      "(4) +5 cm and -5 cm"
+    ],
+    "images":["GO2_images/arihant_47.png"]
+  },
+  {
+    "question_number": "85",
+    "question": "A convex lens of focal length 20 cm and another plano convex lens of focal length 40 cm are placed co-axially (see figure). The plano convex lens is silvered on plane surface. What should be the distance d (in cm) so that final image of the object 'O' (at 10cm from first lens) is formed on O itself.",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 10 cm",
+      "(2) 40 cm",
+      "(3) 20 cm",
+      "(4) 80 cm"
+    ],
+    "images":["GO2_images/arihant_48.png"]
+  },
+  {
+    "question_number": "86",
+    "question": "A convex lens cut symmetrically into two equal halves are separated laterally by a distance h as shown in figure. An object O is placed at a distance 30 cm, from the lens halves. The cut parts of the lens forms two real images separated by a distance d. A graph d versus h is plotted as shown in figure (d=3cm when h=1cm, d=0 when h=0). The focal length of the lens should be",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) 60 cm",
+      "(2) 50 cm",
+      "(3) 40 cm",
+      "(4) 30 cm"
+    ],
+    "images":["GO2_images/arihant_49.png"]
+  },
+  {
+    "question_number": "87",
+    "question": "A diminished image of an object is to be obtained on a screen 1.0 m from it. This can be achieved by appropriately placing",
+    "year": null,
+    "question_type": "Single Correct Answer Type",
+    "options": [
+      "(1) a concave mirror of suitable focal length",
+      "(2) a convex mirror of suitable focal length",
+      "(3) a convex lens of focal length less than 0.25 m",
+      "(4) a concave lens of suitable focal length."
+    ]
+  },
+  {
+    "question_number": "1",
+    "question": "In displacement method, the distance between object and screen is 96 cm. The ratio of lengths of two images formed by a converging lens placed between them is 4. Then,",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) ratio of the length of object to the length of shorter image is 2",
+      "(2) distance between the two positions of the lens is 32 cm",
+      "(3) focal length of the lens is 64/3 cm",
+      "(4) when the shorter image is formed on screen, distance of the lens from the screen is 32 cm"
+    ]
+  },
+  {
+    "question_number": "2",
+    "question": "The distance between an electric lamp and a screen is d = 1 m. A convergent lens of focal length f = 21 cm is placed between the lamp and the lens such that a sharp image of the lamp filament is formed on the screen.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) The positions of the lens from the lamp for which sharp images are formed on the screen are 35 cm and 65 cm",
+      "(2) The positions of the lens from the lamp for which sharp images are formed on the screen are 30 cm and 70 cm",
+      "(3) Magnitude of the difference in magnification is 40/21",
+      "(4) The size of the lamp filament for which there are two sharp images of 4.5 cm and 2 cm, is 3 cm"
+    ]
+  },
+  {
+    "question_number": "3",
+    "question": "A lens of focal length f is placed in between an object and screen at a distance D. The lens forms two real images of object on the screen for two of its different positions, a distance x apart. The two real images have magnifications m₁ and m₂, respectively (m₁ > m₂). Then,",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) f = x/(m₁ - m₂)",
+      "(2) m₁m₂ = 1",
+      "(3) f = (D² - x²)/4D",
+      "(4) D ≥ 4f"
+    ]
+  },
+  {
+    "question_number": "4",
+    "question": "An image of a bright square is obtained on a screen with the aid of a convergent lens. The distance between the square and the lens is 40 cm. The area of the image is nine times larger than that of the square. Select the correct statement(s).",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) Image is formed at a distance of 120 cm from the lens.",
+      "(2) Image is formed at a distance of 360 cm from the lens.",
+      "(3) Focal length of the lens is 30 cm.",
+      "(4) Focal length of the lens is 36 cm."
+    ]
+  },
+  {
+    "question_number": "5",
+    "question": "When a real object is placed 25 cm from a lens, a real image is formed. Mark the correct statement(s) from the following.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) The lens is a converging lens.",
+      "(2) The image may be magnified or diminished.",
+      "(3) The focal length of the lens is less than 25 cm.",
+      "(4) The focal length of the lens may be greater than 25 cm."
+    ]
+  },
+  {
+    "question_number": "6",
+    "question": "Two converging lenses of focal lengths f₁ = 10 cm and f₂ = 20 cm are placed at some separation. A parallel beam of light is incident on first lens. Then,",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) for emergent beam from second lens to be parallel, the separation between the lenses has to be 30 cm",
+      "(2) for emergent beam from second lens to be parallel, the separation between the lenses has to be 60 cm",
+      "(3) if lenses are placed at such a separation that emergent beam from second lens is parallel, then the emergent beam width is 2 cm if original beam has a width of 1 cm",
+      "(4) if lenses are placed at such a separation that emergent beam from second lens is parallel, then the emergent beam width is 4 cm if original beam width is 1 cm"
+    ]
+  },
+  {
+    "question_number": "7",
+    "question": "A thin, symmetric double convex lens of power P is cut into three parts A, B, and C as shown in figure. The power of",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) A is P",
+      "(2) A is 2P",
+      "(3) B is P/2",
+      "(4) C is P/4"
+    ],
+    "images":["GO2_images/arihant_50.png"]
+  },
+  {
+    "question_number": "8",
+    "question": "A diverging lens of focal length f₁ is placed in front of and coaxially with a concave mirror of focal length f₂. Their separation is d. A parallel beam of light incident on the lens returns as a parallel beam from the arrangement. Then,",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) the beam diameters of the incident and reflected beams must be the same",
+      "(2) d = 2|f₂| - |f₁|",
+      "(3) d = |f₂| - |f₁|",
+      "(4) if the entire arrangement is immersed in water, the conditions will remain unaltered"
+    ]
+  },
+  {
+    "question_number": "9",
+    "question": "A converging lens of focal length f₁ is placed in front of and coaxially with a convex mirror of focal length f₂. Their separation is d. A parallel beam of light incident on the lens returns as a parallel beam from the arrangement. Then,",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) the beam diameters of the incident and reflected beams must be the same",
+      "(2) d = f₁ - 2|f₂|",
+      "(3) d = f₁ - |f₂|",
+      "(4) if the entire arrangement is immersed in water, the conditions will remain unaltered"
+    ]
+  },
+  {
+    "question_number": "10",
+    "question": "An object is placed in front of a converging lens at a distance equal to twice the focal length f₁ of the lens. On the other side of the lens is a concave mirror of focal length f₂, separated from the lens by a distance 2(f₁ + f₂). Light from the object passes rightward through the lens, reflects from the mirror, passes leftward through the lens, and forms a final image of the object.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) The distance between the lens and the final image is equal to 2f₁.",
+      "(2) The distance between the lens and the final image is equal to 2(f₁ + f₂).",
+      "(3) The final image is real, inverted and of same size as that of the object.",
+      "(4) The final image is real, erect and of same size as that of the object."
+    ],
+    "images":["GO2_images/arihant_51.png"]
+  },
+  {
+    "question_number": "11",
+    "question": "A convex lens made of glass (μg = 3/2) has focal length f in air. The image of an object placed in front of it is inverted, real and magnified. Now the whole arrangement is immersed in water (μw = 4/3) without changing the distance between object and lens. Then",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) the new focal length will become 4f",
+      "(2) the new focal length will become f/4",
+      "(3) new image will be virtual and magnified",
+      "(4) new image will be real, inverted and smaller in size"
+    ]
+  },
+  {
+    "question_number": "12",
+    "question": "A plano-convex lens of focal length 20 cm has its plane side silvered.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) The radius of curvature of curved surface of given plano-convex lens is equal to half of radius of curvature of a surface of equiconvex lens of focal length 20 cm",
+      "(2) An object placed at 15 cm on the axis on the convex side of silvered plano-convex lens gives rise to an image at a distance of 30 cm from it",
+      "(3) An object placed at a distance of 20 cm on the axis on the convex side of silvered plano-convex lens gives rise to an image at 40 cm from it",
+      "(4) Silvered plano-convex lens acts as a concave mirror of focal length 10 cm."
+    ]
+  },
+  {
+    "question_number": "13",
+    "question": "A linear object of size 1.5 cm placed at 10 cm from a lens of focal length 20 cm. The optic centre of lens and the object are displaced a distance Δ = 5cm. The magnification of the image formed is m (Take optic centre as origin). The coordinates of image of A and B are (x₁, y₁) and (x₂, y₂) respectively. Then",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) (x₁, y₁) = (-20 cm, -1 cm)",
+      "(2) (x₂, y₂) = (-20 cm, 2 cm)",
+      "(3) m = 3",
+      "(4) m = 2"
+    ],
+    "images":["GO2_images/arihant_52.png"]
+  },
+  {
+    "question_number": "14",
+    "question": "A combination of two thin convex lenses of equal focal lengths, is kept separated along the optical axis by a distance of 20 cm between them. The combination behaves as a lens system of infinite focal length,",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) if an object is kept on the common optic axis at a distance of 10 cm from the first lens, its final image will be formed at a distance of 10 cm from the next lens.",
+      "(2) if an object is kept on the common optic axis at a distance of 10 cm from the first lens, its final image will be formed at a distance of 30 cm from the next lens.",
+      "(3) if an object is kept on the common optic axis at a distance of 30 cm from the first lens, its final image will be formed at a distance of 10 cm from the next lens.",
+      "(4) if an object is kept on the common optic axis at a distance of 30 cm from the first lens, its final image will be formed at a distance of 20 cm from the next lens."
+    ]
+  },
+  {
+    "question_number": "15",
+    "question": "A parallel beam of light is incident on a lens of focal length 10 cm. A parallel slab of refractive index 1.5 and thickness 3 cm is placed on the other side of the lens. The nature of the final image from the lens slab combination is (Assume rays to be paraxial)",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) at distance of 11 cm and image is virtual if x = 12 cm.",
+      "(2) at distance of 11 cm and image is real if x = 14 cm.",
+      "(3) at the distance of 11 cm and image is virtual if x = 16 cm.",
+      "(4) at distance of 11 cm and image is real if x = 5 cm."
+    ],
+    "images":["GO2_images/arihant_53.png"]
+  },
+  {
+    "question_number": "16",
+    "question": "An upright object is placed at a distance in front of a converging lens equal to twice the focal length 20 cm of the lens. On the other side there is a concave mirror of focal length 15 cm separated from the lens by a distance of 70 cm. Then select the correct statements from the following (object distance 40cm)",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) Magnification for the system is -1/2",
+      "(2) Magnification for the system is -1",
+      "(3) Final image by the system will real and at distance of 110 cm from spherical mirror",
+      "(4) Magnification for the system is +1/2"
+    ],
+    "images":["GO2_images/arihant_54.png"]
+  },
+  {
+    "question_number": "17",
+    "question": "A convex lens forms inverted image of a real object on a fixed screen. The size of image is 12 cm When lens is displaced 20 cm along principal axis it again forms a real image of size 3 cm on the screen. Choose the correct options. (Assume image formation only by paraxial rays)",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) Focal length of the lens is 40/3 cm",
+      "(2) Focal length of the lens is 80/3 cm",
+      "(3) Size of object is 6 cm",
+      "(4) Size of object is 9 cm"
+    ]
+  },
+  {
+    "question_number": "18",
+    "question": "Two converging lenses have focal length f₁ and f₂ (f₁ > f₂). The optical axis of the two lenses coincide. This lens system is used to form an image of real object. It is observed that final magnification of the image does not depend on the distance x. Whole arrangement is shown in figure. Choose the correct options.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) Final magnification is -f₁/f₂",
+      "(2) Final magnification is -f₂/f₁",
+      "(3) Distance between the lenses is f₁f₂ / (f₁ + f₂)",
+      "(4) Distance between the lenses is f₁ + f₂"
+    ],
+    "images":["GO2_images/arihant_55.png"]
+  },
+  {
+    "question_number": "19",
+    "question": "A plano-convex lens is made of a material of refractive index n. When a small object is placed 30 cm away from the curved surface of the lens, an image of double the size of the object is produced. Due to reflection from the convex surface of the lens, another faint image is observed at a distance of 10 cm away from the lens. Which of the following statement (s) is(are) true?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) The refractive index of the lens is 2.5.",
+      "(2) The radius of curvature of the convex surface is 45 cm.",
+      "(3) The faint image is erect and real.",
+      "(4) The focal length of the lens is 20 cm."
+    ]
+  },
+  {
+    "question_number": "20",
+    "question": "A point source of light S is placed on the axis of a lens of focal length 20 cm as shown (S at 25cm from lens). A screen is placed normal to the axis of lens at a distance x from it. Treat all rays as paraxial. Mark the correct statements.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) As x is increased from zero, intensity continuously decreases.",
+      "(2) As x is increased from zero, intensity first increases and then decreases.",
+      "(3) Intensity at centre of screen for x = 90 cm and x = 110 cm is same.",
+      "(4) Radius of bright circle obtained on screen is equal to 1 cm for x = 200 cm."
+    ],
+    "images":["GO2_images/arihant_56.png"]
+  },
+  {
+    "question_number": "21",
+    "question": "In the figure shown a point object O is placed in air on the principal axis. The radius of curvature of the spherical surface is 60 cm. I₁ is the final image formed after all the refractions and reflections. (ng = 3/2, water surrounding part of sphere, d1, d2 specified)",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) If d₁ = 120 cm, then 'I₁' is formed on 'O' for any value of d₂.",
+      "(2) If d₁ = 240 cm, then 'I₁' is formed on 'O' only if d₂ = 360 cm.",
+      "(3) If d₁ = 240 cm, then 'I₁' is formed on 'O' for all values of d₂.",
+      "(4) If d₁ = 240 cm, then 'I₁' cannot be formed on 'O'."
+    ],
+    "images":["GO2_images/arihant_57.png"]
+  },
+  {
+    "question_number": "22",
+    "question": "Two refracting media are separated by a spherical interface as shown in the figure. PP' is the principal axis, μ₁ and μ₂ are the refractive indices of medium of incidence and medium of refraction respectively. If",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) μ₂ > μ₁, there cannot be a real image of real object.",
+      "(2) μ₂ > μ₁, there cannot be a real image of virtual object.",
+      "(3) μ₁ > μ₂, there cannot be a virtual image of virtual object.",
+      "(4) μ₁ > μ₂, there cannot be a real image of real object."
+    ],
+    "images":["GO2_images/arihant_58.png"]
+  },
+  {
+    "question_number": "23",
+    "question": "A luminous point object is placed at O, whose image is formed at I as shown in the figure. AB is the optical axis. Which of the following statements are correct?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) If a lens is used to obtain an image, the lens must be converging.",
+      "(2) If a mirror is used to obtain an image, the mirror must be a convex mirror having pole at the point of intersection of lines OI and AB.",
+      "(3) Position of principal focus of mirror cannot be found.",
+      "(4) I is a real image."
+    ],
+    "images":["GO2_images/arihant_59.png"]
+  },
+  {
+    "question_number": "24",
+    "question": "A convex lens is placed in the XYZ coordinate system such that its optical centre is at the origin and principal axis is along the x-axis. The focal length of the lens is 20 cm. A point object has been placed at the point (-40 cm, +1 cm, -1 cm). Which of the following are correct about coordinates of the image?",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) x = 40 cm",
+      "(2) y = +1 cm",
+      "(3) z = + 1 cm",
+      "(4) z = -1 cm"
+    ]
+  },
+  {
+    "question_number": "25",
+    "question": "A convex lens forms an image of an object on a screen. The height of the image is 9 cm. The lens is now displaced until an image is again obtained on the screen. The height of this image is 4 cm. The distance between the object and the screen is 90 cm.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) The distance between the two positions of the lens is 30 cm.",
+      "(2) The distance of the object from the lens in its first position is 36 cm.",
+      "(3) The height of the object is 6 cm.",
+      "(4) The focal length of the lens is 21.6 cm."
+    ]
+  },
+  {
+    "question_number": "26",
+    "question": "An object O is kept in front of a converging lens of focal length 30 cm behind which there is a plane mirror at 15 cm from the lens. Choose the correct statements. (Object at 15cm from lens)",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) The final image is formed at 60 cm from the lens towards right of it.",
+      "(2) The final image is at 60 cm from lens towards left of it.",
+      "(3) The final image is real.",
+      "(4) The final image is virtual."
+    ],
+    "images":["GO2_images/arihant_60.png"]
+  },
+  {
+    "question_number": "27",
+    "question": "A convex lens forms an image of an object on a screen. The height of the image is 9 cm. The lens is now displaced until an image is again obtained on the screen. Then height of this image is 4 cm. The distance between the object and the screen is 90 cm.",
+    "year": null,
+    "question_type": "Multiple Correct Answers Type",
+    "options": [
+      "(1) The distance between the two positions of the lens is 30 cm.",
+      "(2) The distance of the object from the lens in its first position is 36 cm.",
+      "(3) The height of the object is 6 cm.",
+      "(4) The focal length of the lens is 21.6 cm."
+    ]
+  }
+  
+  
+]

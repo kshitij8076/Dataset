@@ -1,0 +1,184 @@
+[
+  {
+    "question_number": 41.1,
+    "Questions": "How fast must an object be moving if its corresponding value of γ is to be 1.0 percent larger than γ is when the object is at rest? Give your answer to two significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Use the definition γ = 1 / √(1 - (v/c)²) to find that at v = 0, γ = 1.0. Hence the new value of γ = 1.01(1.0), and so solving gives v = 0.14c = 4.2 × 10⁷ m/s."
+  },
+  {
+    "question_number": 41.2,
+    "Questions": "Compute the value of γ for a particle traveling at half the speed of light. Give your answer to three significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "γ = 1 / √(1 - (v/c)²) = 1 / √(0.500²) = 1.15."
+  },
+  {
+    "question_number": 41.3,
+    "Questions": "If 1.00 g of matter could be converted entirely into energy, what would be the value of the energy so produced, at 10.0 cents per kW·h?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We make use of ΔE₀ = (Δm)c² to find Energy gained = (mass lost)c² = (1.00 x 10⁻³ kg)(2.998 x 10⁸ m/s)² = 8.99 x 10¹³ J. Value of energy = (8.99 x 10¹³ J) (1 kW·h / 3.600 x 10⁶ J) = $2.50 x 10⁶."
+  },
+  {
+    "question_number": 41.4,
+    "Questions": "A 2.0 kg object is lifted from the floor to a tabletop 30 cm above the floor. By how much did the mass of the system consisting of the Earth and the object increase because of this increased PEg?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We use ΔE₀ = (Δm)c², with ΔE₀ = mgh. Therefore, Δm = ΔE₀ / c² = (2.0 kg)(9.81 m/s²)(0.30 m) / (2.998 x 10⁸ m/s)² = 6.5 x 10⁻¹⁷ kg."
+  },
+  {
+    "question_number": 41.5,
+    "Questions": "An electron is accelerated from rest through a potential difference of 1.5 MV and thereby acquires 1.5 MeV of energy. Find its final speed.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Using KE = γmc² and the fact that KE = APE we have KE = (1.5 x 10⁶ eV)(1.6 x 10⁻¹⁹ J/eV) = 2.4 x 10⁻¹³ J. Then (γm - m) = KE / c² = 2.4 x 10⁻¹³ J / (2.998 x 10⁸ m/s)² = 2.67 x 10⁻³⁰ kg. But m = 9.11 x 10⁻³¹ kg and so γm = KE / c² = 3.58 x 10⁻³⁰ kg."
+  },
+  {
+    "question_number": 41.6,
+    "Questions": "Determine the energy required to give an electron a speed 0.90c of that light, starting from rest.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "KE = (γm - m)c² = m c² [1 / √(1 - (v/c)²) - 1] = (9.11 x 10⁻³¹ kg)(2.998 x 10⁸ m/s)² [1 / √(1 - (0.90)²) - 1] = 1.06 x 10⁻¹³ J = 0.66 MeV."
+  },
+  {
+    "question_number": 41.7,
+    "Questions": "Show that KE = (γm - m)c² reduces to KE = ½mv² when v is very much smaller than c.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "KE = (γm - m)c² = m c² [1 / √(1 - (v/c)²) - 1]. Let b = -v²/c² and expand (1 + b)¹/² by the binomial theorem: (1 + b)¹/² = 1 + (-1/2)b + (-1/2)(-3/2)b² + ... = 1 + 1/2(v/c)² + 3/8(v/c)⁴ + .... Then KE = mc²[(1 + 1/2(v/c)²) - 1] = ½mv² + ..."
+  },
+  {
+    "question_number": 41.8,
+    "Questions": "An electron traveling at relativistic speed moves perpendicularly to a magnetic field of 0.20 T. Its path is circular, with a radius of 15 m. Find (a) the momentum, (b) the speed, and (c) the kinetic energy of the electron. Recall that, in nonrelativistic situations, the magnetic force qvB furnishes the centripetal force mv²/r. Thus, since p = mv it follows that ρ = qBr.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) p = (1.60 x 10⁻¹⁹ C)(0.20 T)(15 m) = 4.8 x 10⁻²⁰ kg·m/s. (b) v = (4.8 x 10⁻²⁰ kg·m/s) / (9.11 x 10⁻³¹ kg) = 5.27 x 10⁶ m/s. (c) KE = (γm - m)c² = mc²[1 / √(1 - (v/c)²) - 1] = 9.0 x 10⁸ eV."
+  },
+  {
+    "question_number": 41.9,
+    "Questions": "The Sun radiates energy equally in all directions. At the position of the Earth (r = 1.50 x 10¹¹ m), the Sun’s radiation is 1.4 kW/m². How much mass does the Sun lose per day because of the radiation?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The area of a spherical shell centered on the Sun and passing through the Earth is Area = 4πr² = 4π(1.50 x 10¹¹ m)² = 2.83 x 10²³ m². Energy/s = (area)(1400 W/m²) = 3.96 x 10²⁶ W. The energy radiated in one day (86 400 s) is Energy/day = (3.96 x 10²⁶ W)(86 400 s/day) = 3.42 x 10³¹ J/day. Δm = ΔE₀/c² = (3.42 x 10³¹ J/day) / (2.998 x 10⁸ m/s)² = 3.8 x 10¹⁴ kg."
+  },
+  {
+    "question_number": 41.10,
+    "Questions": "A beam of radioactive particles is measured as it shoots through the laboratory. It is found that, on the average, each particle “lives” for a time of 2.0 x 10⁻⁶ s; after that time, the particle changes to a new form. When at rest in the laboratory, the same particles “live” 0.75 x 10⁻⁶ s on average. How fast are the particles in the beam moving?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Using the concept of time dilation, we have Δt₀ = γΔt, so v = c√(1 - (Δt₀/Δt)²) = 0.927c."
+  },
+  {
+    "question_number": 41.11,
+    "Questions": "Two twins are 25.0 years old when one of them sets out on a journey through space at nearly constant speed. The twin in the spaceship measures time with an accurate watch. When he returns to Earth, he claims to be 31.0 years old, while the twin left on Earth knows that she is 43.0 years old. What was the speed of the spaceship?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The spaceship clock as seen by the space-twin reads the trip time to be Δtₛ, which is 6.0 years long. The Earth bound twin sees her brother age 6.0 years but her clocks tell her that a time Δtₘ = 18.0 years has actually passed. From which (v/c)² = 1 - 0.111 or v = 0.943c = 2.83 x 10⁸ m/s."
+  },
+  {
+    "question_number": 41.12,
+    "Questions": "Two cells that subdivide on Earth every 10.0 s start from the Earth on a journey to the Sun (1.50 x 10¹¹ m away) in a spacecraft moving at 0.850c. How many cells will exist when the spacecraft crashes into the Sun?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Δtₘ = x / v = (1.50 x 10¹¹ m) / (0.850)(2.998 x 10⁸ m/s) = 588 s. Since spacecraft clocks are moving with respect to the planet, they appear from Earth to run more slowly. Δtₛ = Δtₘ / γ = 588 s √(1 - (0.850)²) = 310 s. Hence the cells divide according to the spacecraft clock, a clock that is at rest relative to them. Therefore they divide 31 divisions in this time, since they divide each 10.0 s."
+  },
+  {
+    "question_number": 41.13,
+    "Questions": "A person in a spaceship holds a meterstick as she shoots past the Earth with a speed v parallel to the Earth’s surface. What does the person in the ship notice as the stick is rotated parallel to perpendicular to the ship’s motion?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The stick behaves normally; it does not change its length, because it has no translational motion relative to the observer in the spaceship. However, an observer on Earth would measure the stick to be (1 m)√(1 - (v/c)²) long when it is parallel to the ship’s motion, and 1 m long when it is perpendicular to the ship’s motion."
+  },
+  {
+    "question_number": 41.14,
+    "Questions": "A spacecraft moving at 0.95c travels from the Earth to the star Alpha Centauri, which is 4.5 light years away. How long will the trip take according to (a) Earth clocks and (b) spacecraft clocks? (c) How far is it from Earth to the star according to spacecraft occupants? (d) What do they compute their speed to be?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) Δtₛ = d / v = (4.5 x 10¹⁵ m) / (0.95c) = 1.5 x 10⁷ s = 473.0 days. (b) Δtₛ = 1 / √(1 - (0.95)²) = 2.8 x 10⁷ s. (c) dₛ = (4.3 x 10¹⁶ m) √(1 - (0.95)²) = 1.3 x 10¹⁶ m. (d) v = dₛ / Δtₛ = 1.34 x 10¹⁶ m / 4.7 x 10⁷ s = 2.8 x 10⁸ m/s."
+  },
+  {
+    "question_number": 41.15,
+    "Questions": "As a rocket ship sweeps past the Earth with speed v, it sends out a pulse of light ahead of it. How fast does the light pulse move according to people on the Earth?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Method 1: With speed v (by the second postulate of Special Relativity). Method 2: Here v₀ = v and v₀' = c. According to the velocity addition formula, the observed speed will be v₀ = (v₀ + v) / (1 + (v₀v/c²)) = c."
+  },
+  {
+    "question_number": 41.16,
+    "Questions": "At what speed must a particle move for γ to be 2.0?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2.6 × 10⁸ m/s"
+  },
+  {
+    "question_number": 41.17,
+    "Questions": "A particle is traveling at a speed v such that v/c = 0.99. Find γ for the particle.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 7.1"
+  },
+  {
+    "question_number": 41.18,
+    "Questions": "Compute the rest energy of an electron, i.e., the energy equivalent of its mass, 9.11 × 10⁻³¹ kg.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.512 MeV = 820 pJ"
+  },
+  {
+    "question_number": 41.19,
+    "Questions": "Determine the speed of an electron having a kinetic energy of 1.0 × 10⁶ eV (or equivalently 1.6 × 10⁻¹³ J).",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.6 × 10⁸ m/s"
+  },
+  {
+    "question_number": 41.20,
+    "Questions": "A proton (m = 1.67 × 10⁻²⁷ kg) is accelerated to a kinetic energy of 200 MeV. What is its speed at this energy?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.70 × 10⁸ m/s"
+  },
+  {
+    "question_number": 41.21,
+    "Questions": "Starting with the definition of linear momentum and the relation between mass and energy, prove that E² = p²c² + m²c⁴. Use this relation to show that the translational KE of a particle is √(p²c² + m²c⁴) - mc².",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Solution involves deriving the equation for the total energy of a particle using relativistic principles."
+  },
+  {
+    "question_number": 41.22,
+    "Questions": "A certain strain of bacteria doubles in number each 20 days. Two of these bacteria are placed on a spaceship and sent away from the Earth for 1000 Earth-days. During this time, the speed of the ship is 0.9950c. How many bacteria are aboard when the ship lands on the Earth?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 64"
+  },
+  {
+    "question_number": 41.23,
+    "Questions": "A certain light source sends out 2 × 10¹⁵ pulses each second. As a spaceship travels parallel to the Earth’s surface with a speed of 0.90c, it uses this source to send pulses to the Earth. The pulses are sent perpendicular to the path of the ship. How many pulses are recorded on Earth each second?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 8.7 × 10¹⁴ pulses/s"
+  },
+  {
+    "question_number": 41.24,
+    "Questions": "The insignia painted on the side of a spaceship is a circle with a line across it at 45° to the vertical. As the ship shoots past another ship in space, with a relative speed of 0.95c, the second ship observes the insignia. What angle does the observed line make to the vertical?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. tan θ = 0.31 and θ = 17°."
+  },
+  {
+    "question_number": 41.25,
+    "Questions": "As a spacecraft moving at 0.92c travels past an observer on Earth, the Earthbound observer and the occupants of the craft each start identical alarm clocks that are set to ring after 6.0 h have passed. According to the Earthling, what does the Earth clock read when the spacecraft clock rings?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 15 h"
+  },
+  {
+    "question_number": 41.26,
+    "Questions": "Find the speed and momentum of a proton (m = 1.67 × 10⁻²⁷ kg) that has been accelerated through a potential difference of 2000 MV. (We call this a 2 GeV proton). Give your answers to three significant figures.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.948c, 1.49 × 10⁻¹⁸ kg·m/s"
+  }
+]

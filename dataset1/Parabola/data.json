@@ -1,0 +1,564 @@
+[
+    {
+        "ID": "ILLUSTRATION 5.1",
+        "Questions": "Find the equation of parabola:\n(i) having focus at (0, -3) and its directrix is y = 3.\n(ii) having end points of latus rectum (5, 10) and (5, -10) and which opens towards right.\n(iii) having vertex at origin and focus at (0, 2).",
+        "Answers": "(i) Equation of parabola is x² = -12y.\n(ii) Equation of parabola is y² = 20x.\n(iii) Equation of parabola is x² = 8y."
+    },
+    {
+        "ID": "ILLUSTRATION 5.2",
+        "Questions": "An arch is in the form of a parabola with its axis vertical. The arch is 12 m high and 6 m wide at the base. How wide is it 6 m from the vertex of the parabola?",
+        "Answers": "The width is 3√2 m."
+    },
+    {
+        "ID": "ILLUSTRATION 5.3",
+        "Questions": "A beam is supported at its ends by two supports which are 12 m apart. Since the load is concentrated at its center, there is a deflection of 3 cm at the center and the deflected beam is in the shape of a parabola. How far from the center is the deflection 1 cm?",
+        "Answers": "The distance from the center is 2√3 m. (Note: The textbook solution calculates for a 2cm deflection, yielding 2√6 m, which is inconsistent with the question).",
+        "images": ["Parabola_1.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.4",
+        "Questions": "Find the coordinates of a point on the parabola y² = 8x whose distance from the focus is 10.",
+        "Answers": "The coordinates of the points are (8, 8) or (8, -8)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.5",
+        "Questions": "If M is the foot of the perpendicular from a point P on a parabola y² = 4ax to its directrix and triangle SPM is equilateral, where S is the focus, then find SP.",
+        "Answers": "SP = 4a.",
+        "images": ["Parabola_2.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.6",
+        "Questions": "An equilateral triangle is inscribed in the parabola y² = 4ax, such that one vertex of this triangle coincides with the vertex of the parabola. Then find the side length of this triangle.",
+        "Answers": "The side length is 8√3a.",
+        "images": ["Parabola_3.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.7",
+        "Questions": "Find the equation of the chord of the parabola y² = 8x having slope 2 if midpoint of the chord lies on the line x = 4.",
+        "Answers": "The equation of the chord is y = 2x - 6."
+    },
+    {
+        "ID": "ILLUSTRATION 5.8",
+        "Questions": "Find the locus of the midpoint of chords of the parabola x² = 20y that pass through the fixed point (0, 5).",
+        "Answers": "The locus is x² = 10(y-5)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.9",
+        "Questions": "Find the position of point P(1, 3) w.r.t. parabolas y² = 4x and x² = 3y.",
+        "Answers": "The point (1, 3) lies in the exterior region of the parabola y² = 4x and the interior region of the parabola x² = 3y."
+    },
+    {
+        "ID": "ILLUSTRATION 5.10",
+        "Questions": "The point (a, 2a) is in the interior region bounded by the parabola y² = 16x and the double ordinate through the focus. Then find the values of a.",
+        "Answers": "0 < a < 4.",
+        "images": ["Parabola_4.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.11",
+        "Questions": "Find the locus of the middle points of chords of a parabola y² = 4ax which subtend a right angle at the vertex.",
+        "Answers": "The required locus is y² - 2ax + 8a² = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 5.12",
+        "Questions": "In the provided figure, find the locus of the centroid of triangle PAB, where P is a point on the parabola y²=4x, A is the vertex, and AP is perpendicular to PB (B is on the x-axis).",
+        "Answers": "The required locus is 9y² = 6x - 8.",
+        "images": ["Parabola_5.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.13",
+        "Questions": "A quadrilateral is inscribed in a parabola y² = 4ax and three of its sides pass through fixed points on the axis. Show that the fourth side also passes through a fixed point on the axis.",
+        "Answers": "Proof is provided, showing that if the first three sides pass through (c,0), (d,0), and (e,0), the fourth side passes through the fixed point (ce/d, 0).",
+        "images": ["Parabola_6.png"]
+    },
+    {
+        "ID": "CONCEPT APPLICATION EXERCISE 5.1",
+        "Questions": "1. Find the angle made by a double ordinate of length 8a at the vertex of the parabola y² = 4ax.\n2. If the focal distance of a point P on the parabola y² = 4ax whose abscissa is 5 is 10, then find the value of a.\n3. Analyse the following equations if they represent parabola(s) or part of parabola(s)? (a) y = x|x| (b) x = √-y (c) x² = y⁴ (d) x = e^t, 2t = log_e y\n4. Find the range of values of λ for which the point (λ, -1) is exterior to both the parabolas y² = |x|.\n5. Find the locus of a point on the variable parabola y² = 4ax whose distance from the focus is always equal to k.\n6. Find the locus of the midpoint of a chord of the parabola y² = 4ax that passes through the point (3a, a).\n7. If chord BC subtends a right angle at the vertex A of the parabola y² = 4x with AB = √5, then find the area of triangle ABC.\n8. PQ is a chord of the parabola y²=4x whose perpendicular bisector meets the axis at M and the ordinate of the midpoint PQ meets the axis at N. Find length MN.\n9. LOL' and MOM' are two chords of a parabola y² = 4ax with vertex A passing through a point O on its axis. Prove that the radical axis of the circles described on LL' and MM' as diameters passes through the vertex of the parabola.",
+        "Answers": "1. 90°\n2. 2.5\n3. No answer provided.\n4. -1 < λ < 1\n5. 4x² + y² - 4kx = 0\n6. y² - 2ax - ay + 6a² = 0\n7. 20 sq. units\n8. 2\n9. No answer provided."
+    },
+    {
+        "ID": "ILLUSTRATION 5.14",
+        "Questions": "Find the equation of the parabola:\n(i) having its vertex at A(1, 0) and focus at S(3, 0).\n(ii) having its focus at S(2, 5) and one of the extremities of the latus rectum is A(4, 5).",
+        "Answers": "(i) y² = 8(x-1)\n(ii) The equations are (x-2)² = 4(y-4) and (x-2)² = -4(y-6).",
+        "images": ["Parabola_7.png",
+            "Parabola_8.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.15",
+        "Questions": "The equation y² + 2y - x + 5 = 0 represents a parabola. Find its vertex, equation of axis, equation of latus rectum, coordinates of the focus, equation of the directrix, extremities of the latus rectum, and the length of the latus rectum.",
+        "Answers": "The parabola is (y+1)² = (x-4).\nVertex: (4, -1)\nAxis: y + 1 = 0\nLatus Rectum Length: 1\nFocus: (17/4, -1)\nDirectrix: x = 15/4\nExtremities of Latus Rectum: (17/4, -1/2) and (17/4, -3/2).",
+        "images": ["Parabola_9.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.16",
+        "Questions": "The parametric equation of a parabola is x = t² + 1, y = 2t + 1. Find the equation of the directrix.",
+        "Answers": "The equation of the directrix is x = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 5.17",
+        "Questions": "Find points on the parabola y² - 2y - 4x = 0 whose focal length is 6.",
+        "Answers": "The points are (19/4, 1 ± 2√5)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.18",
+        "Questions": "Find the value of p such that the vertex of y = x² + 2px + 13 is 4 units above the x-axis.",
+        "Answers": "p = ±3."
+    },
+    {
+        "ID": "ILLUSTRATION 5.19",
+        "Questions": "Find the equation of a parabola which has its axis parallel to the y-axis and which passes through the points (0, 2), (-1, 0) and (1, 6).",
+        "Answers": "The equation of the parabola is y = x² + 3x + 2."
+    },
+    {
+        "ID": "ILLUSTRATION 5.20",
+        "Questions": "Prove that the focal distance of the point (x, y) on the parabola x² - 8x + 16y = 0 is |y + 5|.",
+        "Answers": "Proof is provided in the text. (Note: The correct focal distance is |y-5|; the textbook contains an error in its calculation and final answer)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.21",
+        "Questions": "If the focus of a parabola is (2, 3) and its latus rectum is 8, then find the locus of the vertex of the parabola.",
+        "Answers": "The locus of the vertex is (x-2)² + (y-3)² = 4."
+    },
+    {
+        "ID": "ILLUSTRATION 5.22",
+        "Questions": "Prove that the locus of the centre of a circle which touches the given circle x² + y² = a² externally and the given line x = b is a parabola.",
+        "Answers": "Proof is provided, showing the locus is y² = (a+b)² - 2(a+b)x.",
+        "images": ["Parabola_10.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.23",
+        "Questions": "In triangle ABC, base BC is fixed. Prove that the locus of vertex A such that tan(B) + tan(C) = Constant is a parabola.",
+        "Answers": "Proof is provided, showing the locus is ay = c(ax-x²), which is the equation of a parabola.",
+        "images": ["Parabola_11.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.24",
+        "Questions": "Consider a square with vertices at (1, 1), (-1, 1), (-1, -1) and (1, -1). Let S be the region consisting of all points inside the square which are nearer to the origin than to any edge. Sketch the region S.",
+        "Answers": "The region S is bounded by four parabolic arcs: y² ≤ -2(x - 1/2), y² ≤ 2(x + 1/2), x² ≤ 2(y + 1/2), and x² ≤ -2(y - 1/2). A sketch is provided in the text.",
+        "images": ["Parabola_12.png",
+            "Parabola_13.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.25",
+        "Questions": "Find the value of λ if the equation 9x² + 4y² + 2λxy + 4x - 2y + 3 = 0 represents a parabola.",
+        "Answers": "λ = ±6."
+    },
+    {
+        "ID": "ILLUSTRATION 5.26",
+        "Questions": "Does the equation (5x-5)² + (5y+10)² = (3x+4y+5)² represent a parabola?",
+        "Answers": "No, it does not represent a parabola because the focus (1, -2) lies on the directrix 3x+4y+5=0."
+    },
+    {
+        "ID": "ILLUSTRATION 5.27",
+        "Questions": "Find the equation of the parabola having focus at (1, 1) and vertex at (-3, -3).",
+        "Answers": "x² + y² - 2xy - 32x - 32y - 192 = 0.",
+        "images": ["Parabola_14.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.28",
+        "Questions": "Find the value of λ if the equation (x-1)²+(y-2)² = λ(x+y+3)² represents a parabola. Also, find its focus, vertex, the equation of its directrix, the equation of axis, the equation of latus rectum, the length of the latus rectum, and the extremities of the latus rectum.",
+        "Answers": "λ = 1/2.\nFocus: S(1, 2).\nDirectrix: x+y+3=0.\nAxis: x-y+1=0.\nVertex: A(-1/2, 1/2).\nLatus Rectum Equation: x+y-3=0.\nLength of Latus Rectum: 6√2.\nExtremities of Latus Rectum: (4, -1) and (-2, 5)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.29",
+        "Questions": "Show that the curve whose parametric coordinates are x = t²+t+1, y = t²-t+1 represents a parabola.",
+        "Answers": "Proof is provided. The Cartesian equation is x²+y²-2xy-2x-2y+4=0, which satisfies the conditions for a parabola."
+    },
+    {
+        "ID": "CONCEPT APPLICATION EXERCISE 5.2",
+        "Questions": "1. If the focus and vertex of a parabola are the points (0, 2) and (0, 4) respectively, then find its equation.\n2. Find the equation of a parabola whose focus is (0, 1) and the directrix is x + 2 = 0. Also, find the vertex.\n3. Find the vertex, focus, and directrix of the parabola x² = 2(2x + y).\n4. The vertex of a parabola is (2, 2) and the coordinates of the extremities of its latus rectum are (-2, 0) and (6, 0). Find the equation.\n5. A parabola passes through (1, 2), (2, 1), (3, 4), and (4, 3). Find the equation of its axis.\n6. Find the length of the common chord of the parabola y² = 4(x + 3) and the circle x² + y² + 4x = 0.\n7. The latus rectum of a parabola is x+y=8 and the tangent at the vertex is x+y=12. Find the length of the latus rectum.\n8. Find the length of the latus rectum of the parabola with focus at (2, 3) and directrix x – 4y + 3 = 0.\n9. If (a, b) is the midpoint of a chord passing through the vertex of the parabola y² = 4(x + 1), prove that 2(a + 1) = b².\n10. Show that the locus of a point that divides a chord of slope 2 of the parabola y² = 4x internally in the ratio 1:2 is a parabola. Find its vertex.\n11. Plot the region in the first quadrant where points are nearer to the origin than to the line x = 3.\n12. Prove that the locus of a point, which moves so that its distance from a fixed line equals the length of the tangent from it to a given circle, is a parabola.\n13. Prove that the locus of the centre of a circle, which intercepts a chord of length 2a on the x-axis and passes through a given point on the y-axis distant b from the origin, is a parabola.\n14. Find the equation of the parabola with focus S(-1, 1) and directrix 4x + 3y - 24 = 0. Also find its axis, vertex, and latus rectum details.\n15. The axis of a parabola is y=x and the distances of its vertex and focus from the origin are √2 and 2√2. If both lie in the first quadrant, find the equation.",
+        "Answers": "1. x² + 8y = 32\n2. (y-1)² = 4(x+1), Vertex = (-1, 1)\n3. Vertex = (2, -2), Focus = (2, -3/2), Directrix: y = -5/2\n4. (x-2)² = -8(y-2)\n5. x - y = 0\n6. 4\n7. 8√2\n8. 14/√17\n9. Proof Question\n10. Locus is a parabola, Vertex = (2/9, 8/9)\n11. Graphical Question\n12. Proof Question\n13. Proof Question\n14. 9x² + 16y² - 24xy + 242x + 94y - 526 = 0 (other details not provided in answer key)\n15. (x-y)² = 8(x+y-2)"
+    },
+    {
+        "ID": "ILLUSTRATION 5.30",
+        "Questions": "If (2, -8) is an end of a focal chord of the parabola y² = 32x, then find the other end of the chord.",
+        "Answers": "The other end is (32, 32)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.31",
+        "Questions": "If X is the foot of the directrix on the axis of a parabola, PP' is a double ordinate of the curve and PX meets the curve again in Q. Then prove that P'Q passes through the focus of the parabola.",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "ILLUSTRATION 5.32",
+        "Questions": "Find the length of a focal chord of the parabola y² = 4ax which is at a distance b from the vertex.",
+        "Answers": "The length of the focal chord is 4a³/b².",
+        "images": ["Parabola_15.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.33",
+        "Questions": "If AB is a focal chord of x²-2x+y-2=0 whose focus is S and AS = l₁, then find BS.",
+        "Answers": "BS = l₁ / (4l₁ - 1)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.34",
+        "Questions": "Circles drawn with the diameter as the extremities of any focal chord of the parabola y² - 4x - y - 4 = 0 will always touch a fixed line. Find the equation of that line.",
+        "Answers": "The fixed line is the directrix of the parabola, and its equation is 16x + 33 = 0."
+    },
+    {
+        "ID": "CONCEPT APPLICATION EXERCISE 5.3",
+        "Questions": "1. If t₁ and t₂ are the parameters of the ends of the focal chord y² = 4ax, then prove that the roots of the equation t₁x² + ax + t₂ = 0 are real.\n2. If the line passing through the focus S of the parabola y = ax² + bx + c meets the parabola at P and Q, and if SP = 4 and SQ = 6, then find the values of a.\n3. If a focal chord of y² = 4ax makes an angle α ∈ [π/4, π/2] with the positive direction of the x-axis, then find the maximum length of this focal chord.\n4. If the length of a focal chord of y² = 4ax is l, then find the angle between the axis of the parabola and the focal chord.\n5. If the length of a focal chord PQ is 'l', and 'p' is the perpendicular distance of PQ from the vertex of the parabola, then prove the relationship between l and p.\n6. A circle drawn with its diameter equal to the focal distance of any point on the parabola x² - 4x + 6y + 10 = 0 will touch a fixed line. Find the equation of that line.\n7. A circle is drawn to pass through the extremities of the latus rectum of the parabola y² = 8x. It is given that this circle also touches the directrix of the parabola. Find the radius of this circle.",
+        "Answers": "1. Proof Question.\n2. ±5/24 (The book's answer is ±5/48, which appears to be a typo).\n3. 8a units.\n4. ±sin⁻¹(√(4a/l)).\n5. Proof question. The relation is p²l = 4a³.\n6. y + 1 = 0.\n7. 4."
+    },
+    {
+        "ID": "ILLUSTRATION 5.35",
+        "Questions": "Find the equation of the tangent to the parabola y² = 8x having slope 2 and also find the point of contact.",
+        "Answers": "The equation of the tangent is y = 2x + 1. The point of contact is (1/2, 2)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.36",
+        "Questions": "A tangent to the parabola y² = 8x makes an angle of 45° with the straight line y = 3x + 5. Then find one of the points of contact.",
+        "Answers": "The points of contact are (1/2, -2) and (8, 8). Either point is a valid answer."
+    },
+    {
+        "ID": "ILLUSTRATION 5.37",
+        "Questions": "Show that the line x cos(α) + y sin(α) = p touches the parabola y² = 4ax if p cos(α) + a sin²(α) = 0, and that the point of contact is (a tan²(α), -2a tan(α)).",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "ILLUSTRATION 5.38",
+        "Questions": "The parabola y² = 4x and a circle with its centre at (6, 5) intersect at a right angle. Find the possible points of intersection of these curves.",
+        "Answers": "The possible points of intersection are (4, 4) and (9, 6)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.39",
+        "Questions": "Find the equations of the tangents to the parabola y² = 12x, which pass through the point (2, 5).",
+        "Answers": "The equations of the tangents are y = x + 3 and 2y = 3x + 4."
+    },
+    {
+        "ID": "ILLUSTRATION 5.40",
+        "Questions": "The tangents to the parabola y² = 4ax at the vertex V and any point P meet at Q. If S is the focus, prove that SP, SQ, and SV are in Geometric Progression (GP).",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "ILLUSTRATION 5.41",
+        "Questions": "Find the equation of the common tangent of y² = 4ax and x² = 4by.",
+        "Answers": "The equation of the common tangent is y = -(a/b)^(1/3) * x - a(b/a)^(1/3), which can also be written as a^(1/3)x + b^(1/3)y + (a²b²)^(1/3) = 0.",
+        "images": ["Parabola_16.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.42",
+        "Questions": "If a tangent to the parabola y² = 4ax meets the x-axis at T and intersects the tangent at vertex A at P, and the rectangle TAPQ is completed, find the locus of point Q.",
+        "Answers": "The locus of Q is y² + ax = 0.",
+        "images": ["Parabola_17.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.43",
+        "Questions": "Two tangents are drawn from the point (-2, -1) to the parabola y² = 4x. If α is the angle between these tangents, find the value of tan(α).",
+        "Answers": "tan(α) = 3."
+    },
+    {
+        "ID": "ILLUSTRATION 5.44",
+        "Questions": "If two tangents drawn from the point (α, β) to the parabola y² = 4x are such that the slope of one tangent is double that of the other, prove that 2β² = 9α.",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "ILLUSTRATION 5.45",
+        "Questions": "If the tangent at the point P(2, 4) to the parabola y² = 8x meets the parabola y² = 8x + 5 at Q and R, then find the midpoint of QR.",
+        "Answers": "The midpoint of QR is (2, 4)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.46",
+        "Questions": "Find the locus of the foot of the perpendiculars drawn from the vertex on a variable tangent to the parabola y² = 4ax.",
+        "Answers": "The required locus is x(x² + y²) + ay² = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 5.47",
+        "Questions": "Find the equation of the tangent to the parabola y = x² - 2x + 3 at the point (2, 3).",
+        "Answers": "The equation of the tangent is y = 2x - 1."
+    },
+    {
+        "ID": "ILLUSTRATION 5.48",
+        "Questions": "Find the equation of the tangent to the parabola x = y² + 3y + 2 having a slope of 1.",
+        "Answers": "The equation of the tangent is x - y - 1 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 5.49",
+        "Questions": "Find the equations of tangents drawn to the parabola y = x² - 3x + 2 from the point (1, -1).",
+        "Answers": "The equations of the tangents are 3x + y - 2 = 0 and x - y - 2 = 0."
+    },
+    {
+        "ID": "ILLUSTRATION 5.50",
+        "Questions": "Find the shortest distance between the line y = x - 2 and the parabola y = x² + 3x + 2.",
+        "Answers": "The shortest distance is 3/√2.",
+        "images": ["Parabola_18.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.51",
+        "Questions": "If the lines L₁ and L₂ are tangents to 4x² - 4x - 24y + 49 = 0 and are normals for x² + y² = 72, then find the slopes of L₁ and L₂.",
+        "Answers": "The slopes are 1 and -4/3."
+    },
+    {
+        "ID": "ILLUSTRATION 5.52",
+        "Questions": "Tangents are drawn from the point (-1, 2) on the parabola y² = 4x. Find the length that these tangents will intercept on the line x = 2.",
+        "Answers": "The intercepted length is 6√2.",
+        "images": ["Parabola_19.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.53",
+        "Questions": "Tangents are drawn to y² = 4ax at points where the line lx + my + n = 0 meets this parabola. Find the point of intersection of these tangents.",
+        "Answers": "The point of intersection is (n/l, -2am/l)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.54",
+        "Questions": "If the chord of contact of tangents from a point P to the parabola y² = 4ax touches the parabola x² = 4by, then find the locus of P.",
+        "Answers": "The required locus is xy = -2ab."
+    },
+    {
+        "ID": "ILLUSTRATION 5.55",
+        "Questions": "From a variable point on the tangent at the vertex of a parabola y² = 4ax, a perpendicular is drawn to its chord of contact. Show that these variable perpendicular lines pass through a fixed point on the axis of the parabola.",
+        "Answers": "Proof is provided, showing the lines are concurrent at the fixed point (2a, 0)."
+    },
+    {
+        "ID": "CONCEPT APPLICATION EXERCISE 5.4",
+        "Questions": "1. Find the point on the curve y² = ax where the tangent makes an angle of 45° with the x-axis.\n2. Find the equation of the straight lines touching both x² + y² = 2a² and y² = 8ax.\n3. Find the angle at which the parabolas y² = 4x and x² = 32y intersect.\n4. If the line y = 3x + c touches the parabola y² = 12x at point P, find the equation of the tangent at point Q, where PQ is a focal chord.\n5. If the line x + y = a touches the parabola y = x - x², then find the value of a.\n6. Find the slopes of the tangents to the parabola y² = 8x which are normal to the circle x² + y² + 6x + 8y - 24 = 0.\n7. Find the equation of the tangent to the parabola 9x² + 12x + 18y - 14 = 0 which passes through the point (0, 1).\n8. Find the locus of the point from which the two tangents drawn to the parabola y² = 4ax are such that the slope of one is thrice that of the other.\n9. From an external point P, a pair of tangents is drawn to the parabola y² = 4x. If θ₁ and θ₂ are the inclinations of these tangents with the x-axis such that θ₁ + θ₂ = π/4, then find the locus of P.\n10. Show that the common tangents to the parabola y² = 4x and the circle x² + y² + 2x = 0 form an equilateral triangle.\n11. TP and TQ are tangents to the parabola, y² = 4ax at P and Q. If the chord PQ passes through the fixed point (-a, b), then find the locus of T.\n12. A tangent is drawn to the parabola y²-2y-4x+5=0 at a point P, which cuts the directrix at the point Q. A point R is such that it divides PQ externally in the ratio 1/2 : 1. Find the locus of point R.\n13. If the distance of the point (h, 2) from its chord of contact w.r.t. parabola y² = 4x is 4, then find the value of h.",
+        "Answers": "1. (a/4, a/2)\n2. y = ±(x + 2a) => x ± y + 2a = 0\n3. tan⁻¹(3/5)\n4. x + 3y + 27 = 0\n5. a = 1\n6. 2 ± √10 / 3\n7. 4x + 3y - 3 = 0 and y - 1 = 0\n8. 3y² = 16ax\n9. y = x - 1\n10. Proof Question\n11. by = 2a(x - a)\n12. (y - 1)²(x + 1) + 4 = 0\n13. 1 - 2√2"
+    },
+    {
+        "ID": "ILLUSTRATION 5.56",
+        "Questions": "Find the points of contact Q and R of tangents from the point P(2, 3) on the parabola y² = 4x.",
+        "Answers": "The points of contact are Q(1, 2) and R(4, 4)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.57",
+        "Questions": "Tangents are drawn from any point on the line x + 4a = 0 to the parabola y² = 4ax. Then find the angle subtended by their chord of contact at the vertex.",
+        "Answers": "The required angle is 90°."
+    },
+    {
+        "ID": "ILLUSTRATION 5.58",
+        "Questions": "Two straight lines (y – b) = m₁(x + a) and (y – b) = m₂(x + a) are the tangents to y² = 4ax. Prove that m₁m₂ = -1.",
+        "Answers": "Proof is provided, based on the property that tangents from a point on the directrix are always mutually perpendicular."
+    },
+    {
+        "ID": "ILLUSTRATION 5.59",
+        "Questions": "Mutually perpendicular tangents TA and TB are drawn to y² = 4ax. Then find the minimum length of AB.",
+        "Answers": "The minimum length of AB is the latus rectum, which is 4a."
+    },
+    {
+        "ID": "ILLUSTRATION 5.60",
+        "Questions": "Tangents PA and PB are drawn from a point P on the directrix to the parabola (x-2)² + (y-3)² = (5x-12y+3)²/169. Find the least radius of the circumcircle of the triangle PAB.",
+        "Answers": "The least radius is half the length of the latus rectum. L.R. = 2 * |10-36+3|/13 = 46/13. The required radius is 23/13."
+    },
+    {
+        "ID": "ILLUSTRATION 5.61",
+        "Questions": "Tangents are drawn to the parabola (x-3)² + (y+4)² = (3x-4y-6)²/25 at the extremities of the chord 2x-3y-18=0. Find the angle between the tangents.",
+        "Answers": "The angle between the tangents is 90°."
+    },
+    {
+        "ID": "ILLUSTRATION 5.62",
+        "Questions": "Let y = 3x - 8 be the equation of the tangent at the point (7, 13) lying on a parabola whose focus is at (-1, -1). Find the equation of the directrix and the length of the latus rectum of the parabola.",
+        "Answers": "Equation of directrix: x + 8y + 19 = 0.\nLength of latus rectum: 20/√65.",
+        "images": ["Parabola_20.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.63",
+        "Questions": "Find the locus of the point of intersection of tangents to the parabola y² = 4ax:\n(i) which are inclined at an angle θ to each other.\n(ii) which intercept a constant length c on the tangent at the vertex.\n(iii) such that the area of the triangle formed with the y-axis is a constant c.",
+        "Answers": "(i) The locus is y² - 4ax = (x + a)² tan²(θ).\n(ii) The locus is y² - 4ax = c².\n(iii) The locus is x²(y² - 4ax) = 4c².",
+        "images": ["Parabola_21.png"]
+    },
+    {
+        "ID": "CONCEPT APPLICATION EXERCISE 5.5",
+        "Questions": "1. The tangents at the points P and Q on the parabola y² = 4ax meet at T. If S is its focus, then prove that SP, ST and SQ are in G.P.\n2. If PQ is the focal chord of the parabola y = x² - 2x + 3 such that P = (2, 3), then find the slope of the tangent at Q.\n3. If there exists at least one point on the circle x² + y² = a² from which two perpendicular tangents can be drawn to the parabola y² = 2x, then find the values of a.\n4. Find the angle between the tangents drawn to y² = 4x, where it is intersected by the line y = x - 1.\n5. Find the angle between the tangents drawn from the origin to the parabola y² = 4a(x – a).\n6. Find the locus of the point of intersection of the perpendicular tangents of the curve y² + 4y - 6x - 2 = 0.\n7. A tangent is drawn to the parabola y² = 4ax at P such that it cuts the y-axis at Q. A line perpendicular to this tangent is drawn through Q which cuts the axis of the parabola at R. If the rectangle PQRS is completed, then find the locus of S.\n8. Let y = x + 1 be the axis of a parabola, y + x - 4 = 0 be the tangent at its vertex, and y = 2x + 3 be one of its tangents. Find the focus of the parabola.",
+        "Answers": "1. Proof Question.\n2. -1/2.\n3. a ≥ 1/2.\n4. 90°.\n5. 90°.\n6. 2x + 5 = 0.\n7. 2a(x-a) - y² = (a-x)√((x-a)²/y² - x/a).\n8. (17/9, 26/9)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.64",
+        "Questions": "Find the equations of normals to the parabola y² = 4ax at the ends of the latus rectum.",
+        "Answers": "The equations of the normals are x + y = 3a and x - y = 3a."
+    },
+    {
+        "ID": "ILLUSTRATION 5.65",
+        "Questions": "If y = x + 2 is normal to the parabola y² = 4ax, then find the value of a.",
+        "Answers": "a = -2/3."
+    },
+    {
+        "ID": "ILLUSTRATION 5.66",
+        "Questions": "Find the equation of the line which is normal to the parabola x² = 4y and touches the parabola y² = 12x.",
+        "Answers": "The equations are y = x + 3 and y = (1/2)x + 12 (book has 2y=x+12 which is y=x/2+6). The correct derived equations are y=x+3 and y=x/2+6."
+    },
+    {
+        "ID": "ILLUSTRATION 5.67",
+        "Questions": "Find the equation of the normal to the parabola y = x²-x-1 which has equal intercepts on axes. Also, find the point where this normal meets the curve again.",
+        "Answers": "Equation of normal: x + y = 0.\nThe normal meets the curve again at (-1, 1)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.68",
+        "Questions": "Prove that the length of the intercept on the normal at the point P(at², 2at) of a parabola y² = 4ax, made by the circle described on the line joining the focus and P as diameter, is a√(1+t²).",
+        "Answers": "Proof is provided in the text.",
+        "images": ["Parabola_22.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.69",
+        "Questions": "If a normal chord subtends a right angle at the vertex of the parabola y² = 4ax, then find its inclination to the axis.",
+        "Answers": "The inclination of the normal is tan⁻¹(±√2)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.70",
+        "Questions": "How many normals can be drawn to the parabola y² = 4x from the point (15, 12)? Find their equations. Also, find the corresponding feet of normals on the parabola.",
+        "Answers": "Three normals can be drawn.\nEquations: y=x-3, y=3x-33, y=-4x+72.\nFeet of normals: (1, -2), (9, -6), (16, 8).",
+        "images": ["Parabola_23.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.71",
+        "Questions": "Three normals are drawn from the point (7, 14) to the parabola x² - 8x - 16y = 0. Find the coordinates of the feet of the normals.",
+        "Answers": "The coordinates of the feet of the normals are (0, 0), (-4, -3) and (16, -8). (Note: There is a typo in the book's solution for the y-coordinates. The correct points on the curve are (0,0), (-4,-3), (16,8))."
+    },
+    {
+        "ID": "ILLUSTRATION 5.72",
+        "Questions": "Find the minimum distance between the curves y² = 4x and x² + y² - 12x + 31 = 0.",
+        "Answers": "The required shortest distance is √5.",
+        "images": ["Parabola_24.png"]   
+    },
+    {
+        "ID": "ILLUSTRATION 5.73",
+        "Questions": "If normals drawn at three different points on the parabola y² = 4ax pass through the point (h, k), then show that h > 2a.",
+        "Answers": "Proof is provided in the text.",
+        "images": ["Parabola_25.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.74",
+        "Questions": "If three distinct normals to the parabola y²-2y = 4x-9 meet at a point (h, k), then prove that h > 4.",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "CONCEPT APPLICATION EXERCISE 5.6",
+        "Questions": "1. Prove that the chord y - √2x + 4a√2 = 0 is a normal chord of the parabola y² = 4ax. Also, find the point on the parabola where the given chord is normal to the parabola.\n2. Find the equation of the normal to the parabola y = x² - 3x - 4 (a) at point (3, -4) (b) having slope 5.\n3. If y = 2x + 3 is a tangent to the parabola y² = 24x, then find its distance from the parallel normal.\n4. Prove that for all θ ∈ R, the line y = (x - 11)cos(θ) - cos(3θ) is always normal to the parabola y² = 16x.\n5. Find the locus of the midpoints of the portion of the normal to the parabola y² = 4ax intercepted between the curve and the axis.\n6. If the parabolas y² = 4ax and y² = 4c(x - b) have a common normal other than the x-axis (a, b, c being distinct positive real numbers), then prove that b/(a-c) > 2.\n7. Three normals are drawn from the point (c, 0) to the curve y² = x. Show that c must be greater than 1/2. One normal is always the x-axis. Find c for which the other two normals are perpendicular to each other.",
+        "Answers": "1. (2a, -2√2a)\n2. (a) 3x+y-13=0 (book has 3x-y-13=0), (b) 5x-y-20=0\n3. 75/√5\n4. Proof Question\n5. y² = a(x-a)\n6. Proof Question\n7. c > 1/2, c = 3/4"
+    },
+    {
+        "ID": "ILLUSTRATION 5.75",
+        "Questions": "In the parabola y² = 4ax, the tangent at P, whose abscissa is equal to the latus rectum, meets its axis at T, and the normal at P cuts the curve again at Q. Show that PT : PQ = 4:5.",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "ILLUSTRATION 5.76",
+        "Questions": "Find the length of the normal chord which subtends an angle of 90° at the vertex of the parabola y² = 4x.",
+        "Answers": "The length of the normal chord is 6√3.",
+        "images": ["Parabola_26.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.77",
+        "Questions": "Prove that the locus of the point of intersection of the normals at the ends of a system of parallel chords of a parabola is a straight line which is a normal to the curve.",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "ILLUSTRATION 5.78",
+        "Questions": "Find the locus of the midpoint of a normal chord of the parabola y² = 4ax.",
+        "Answers": "The locus is y⁴ + 2a(2a-x)y² + 8a⁴ = 0 which is simplified from the parametric form given in the text: 2axy² = 4a³ + (2a²+y²)²"
+    },
+    {
+        "ID": "ILLUSTRATION 5.79",
+        "Questions": "If the angle between the normal to the parabola y² = 4ax at point P and the focal chord passing through P is 60°, then find the slope of the tangent at point P.",
+        "Answers": "The slope of the tangent is 1/√3.",
+        "images": ["Parabola_27.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.80",
+        "Questions": "A parabolic mirror is kept along y² = 4x and two light rays, parallel to its axis, are reflected along one straight line. If one of the incident light rays is at 3 units distance from the axis, then find the distance of the other incident ray from the axis.",
+        "Answers": "The distance of the other ray from the axis is 4/3 units.",
+        "images": ["Parabola_28.png"]
+    },
+    {
+        "ID": "ILLUSTRATION 5.81",
+        "Questions": "If two of the three feet of normals drawn from a point to the parabola y² = 4x are (1, 2) and (1, -2), then find the third foot.",
+        "Answers": "The third foot is (0, 0)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.82",
+        "Questions": "If the three normals from any point to the parabola y² = 4x cut the line x = 2 at points whose ordinates are in AP, then prove that the slopes of tangents at the co-normal points are in GP.",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "ILLUSTRATION 5.83",
+        "Questions": "Find the locus of the point of intersection of two normals to a parabola which are at right angles to one another.",
+        "Answers": "The locus is y² = a(x - 3a)."
+    },
+    {
+        "ID": "ILLUSTRATION 5.84",
+        "Questions": "P(t₁) and Q(t₂) are the points on the parabola y² = 4ax. The normals at P and Q meet on the parabola. Show that the middle point of PQ lies on the parabola y² = 2a(x + 2a).",
+        "Answers": "Proof is provided in the text."
+    },
+    {
+        "ID": "ILLUSTRATION 5.85",
+        "Questions": "Normals are drawn at points A, B, and C on the parabola y² = 4x which intersect at P(h, k). Find the locus of the point P if the slope of the line joining the feet of two of them is 2.",
+        "Answers": "The locus is x - y - 3 = 0. (Note: The solution seems to have a typo, it should be a curve, likely y²=ax+c or similar. The derivation leads to x-y-3=0, which implies k=h-3.)"
+    },
+
+    {
+        "ID": "EXAMPLE 5.1",
+        "Questions": "Prove that for a suitable point P on the axis of the parabola y² = 4ax, a chord AB through the point P can be drawn such that [(1/AP²) + (1/BP²)] is the same for all positions of the chord.",
+        "Answers": "The condition holds true if the point P is taken as (2a, 0) on the axis. For this point, the expression (1/AP²) + (1/BP²) is constant and equal to 1/(4a²)."
+    },
+    {
+        "ID": "EXAMPLE 5.2",
+        "Questions": "A parabola of latus-rectum l touches a fixed equal parabola. The axes of two parabolas are parallel. Then find the locus of the vertex of the moving parabola.",
+        "Answers": "The locus of the vertex of the moving parabola is another parabola, y² = 2lx (or y² = 8ax if the latus rectum is taken as 4a, as in the textbook's solution).",
+        "images": ["Parabola_29.png"]
+    },
+    {
+        "ID": "EXAMPLE 5.3",
+        "Questions": "Find the area of the trapezium whose vertices lie on the parabola y² = 4x and its diagonals pass through (1, 0) and having length 25/4 units each.",
+        "Answers": "The area of the trapezium is 75/4 sq. units.",
+        "images": ["Parabola_30.png"]
+    },
+    {
+        "ID": "EXAMPLE 5.4",
+        "Questions": "Find the radius of the largest circle, which passes through the focus of the parabola y² = 4(x + y) and is contained in it.",
+        "Answers": "The radius of the largest circle is 4.",
+        "images": ["Parabola_31.png"]
+    },
+    {
+        "ID": "EXAMPLE 5.5",
+        "Questions": "The vertices A, B, and C of a variable right triangle lie on a parabola y² = 4x. If the vertex B containing the right angle always remains at the point (1, 2), then find the locus of the centroid of triangle ABC.",
+        "Answers": "The locus of the centroid is the straight line 2x + y + 2 = 0.",
+        "images": ["Parabola_32.png"]
+    },
+    {
+        "ID": "EXAMPLE 5.6",
+        "Questions": "Tangents are drawn to the parabola at three distinct points. Prove that the orthocentre of the triangle formed by the points of intersection of these tangents always lies on the directrix.",
+        "Answers": "Proof is provided in the text. The orthocentre's x-coordinate is found to be -a, which means it always lies on the directrix x = -a."
+    },
+    {
+        "ID": "EXAMPLE 5.7",
+        "Questions": "A variable parabola touches the x-axis and the y-axis at (1, 0) and (0, 1), respectively. Then find the locus of the focus of the parabola.",
+        "Answers": "The required locus is 2x² - 2x + 2y² - 2y + 1 = 0.",
+        "images": ["Parabola_33.png"]
+    },
+    {
+        "ID": "EXAMPLE 5.8",
+        "Questions": "Two lines are drawn at right angles, one being a tangent to y² = 4ax and the other to x² = 4by. Then find the locus of their point of intersection.",
+        "Answers": "The locus of their point of intersection is (x² + y²)(ax + by) + (bx - ay)² = 0."
+    },
+    {
+        "ID": "EXAMPLE 5.9",
+        "Questions": "The tangent and normal at the point P(at², 2at) to the parabola y² = 4ax meet the x-axis in T and N, respectively. Find the angle at which the tangent at P to the parabola is inclined to the tangent at P to the circle through P, T and N.",
+        "Answers": "The angle is tan⁻¹(t).",
+        "images": ["Parabola_34.png"]
+    },
+    {
+        "ID": "EXAMPLE 5.10",
+        "Questions": "The normals to the parabola y² = 4ax at three points P, Q and R meet at A. If S is the focus, then prove that SP * SQ * SR = a * SA².",
+        "Answers": "Proof is provided in the text, demonstrating the relationship by relating the distances to the roots of the cubic equation for the normal's parameter."
+    },
+    {
+        "ID": "EXAMPLE 5.11",
+        "Questions": "Find the shortest distance between the parabolas 2y² = 2x - 1 and 2x² = 2y - 1.",
+        "Answers": "The shortest distance is 1/(2√2) units.",
+        "images": ["Parabola_35.png"]
+    },
+    {
+        "ID": "EXAMPLE 5.12",
+        "Questions": "If two chords drawn from the point A(4, 4) to the parabola x² = 4y are bisected by the line y = mx, then find the range of values of m.",
+        "Answers": "The range of values for m is m > 2√2 - 2 or m < -2√2 - 2.",
+        "images": ["Parabola_36.png"]
+    },
+    {
+        "ID": "EXAMPLE 5.13",
+        "Questions": "A tangent is drawn at point (p, q) on the parabola y² = 4ax. Tangents are drawn from any point on this tangent to the circle x² + y² = a², such that the chords of contact pass through a fixed point (r, s). Prove that rq² = -4ps².",
+        "Answers": "Proof is provided in the text by finding the point of concurrency of the variable chord of contact and equating its coordinates with the fixed point (r, s)."
+    },
+    {
+        "ID": "EXAMPLE 5.14",
+        "Questions": "Find the length of the shortest normal chord of the parabola y² = 4ax.",
+        "Answers": "The length of the shortest normal chord is 6√3a units."
+    }
+]

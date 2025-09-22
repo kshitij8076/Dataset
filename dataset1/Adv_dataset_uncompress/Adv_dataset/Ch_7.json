@@ -1,0 +1,586 @@
+{
+  "section-1": [
+    {
+      "question_number": 1,
+      "question": "It is possible to put an artificial satellite into orbit in such a way that it will always remain directly over New Delhi.",
+      "year": 1984,
+      "question_type": "True / False",
+      "options": [
+        "(a) True",
+        "(b) False"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "Assertion: An astronaut in an orbiting space station above the earth experiences weightlessness.\nReason: An object moving around the earth under the influence of earth's gravitational force is in a state of 'free-fall'.",
+      "year": 2008,
+      "question_type": "Assertion and Reason",
+      "options": [
+        "(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion",
+        "(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion",
+        "(c) If Assertion is true; Reason is false",
+        "(d) If Assertion is false; Reason is true"
+      ]
+    },
+    {
+      "question_number": 9,
+      "question": "If the radius of the earth were to shrink by one per cent, its mass remaining the same, the acceleration due to gravity on the earth’s surface would",
+      "year": 1981,
+      "question_type": "mcq",
+      "options": [
+        "(a) decrease",
+        "(b) remain unchanged",
+        "(c) increase",
+        "(d) be zero"
+      ]
+    },
+    {
+      "question_number": 10,
+      "question": "If g is the acceleration due to gravity on the earth’s surface, the gain in the potential energy of an object of mass m raised from the surface of the earth to a height equal to the radius R of the Earth, is",
+      "year": 1983,
+      "question_type": "mcq",
+      "options": [
+        "(a) 1/2 mgR",
+        "(b) 2 mgR",
+        "(c) mgR",
+        "(d) 1/4 mgR"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "If the distance between the earth and the sun were half its present value, the number of days in a year would have been",
+      "year": 1996,
+      "question_type": "mcq",
+      "options": [
+        "(a) 64.5",
+        "(b) 129",
+        "(c) 182.5",
+        "(d) 730"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "A satellite S is moving in an elliptical orbit around the earth. The mass of the satellite is very small compared to the mass of the earth.",
+      "year": 1998,
+      "question_type": "mcq",
+      "options": [
+        "(a) the acceleration of S is always directed towards the centre of the earth",
+        "(b) the angular momentum of S about the centre of the earth changes in direction, but its magnitude remains constant",
+        "(c) the total mechanical energy of S varies periodically with time",
+        "(d) the linear momentum of S remains constant in magnitude"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "A simple pendulum has a time period T₁ when on the earth’s surface and T₂ when taken to a height R above the earth’s surface, where R is the radius of the earth. The value of T₂/T₁ is",
+      "year": 2001,
+      "question_type": "mcq",
+      "options": [
+        "(a) 1",
+        "(b) √2",
+        "(c) 2",
+        "(d) 4"
+      ]
+    },
+    {
+      "question_number": 14,
+      "question": "A geostationary satellite orbits around the earth in a circular orbit of radius 36,000 km. Then, the time period of a spy satellite orbiting a few hundred km above the earth’s surface (Rₑ = 6400 km) will approximately be",
+      "year": 2002,
+      "question_type": "mcq",
+      "options": [
+        "(a) 1/2 h",
+        "(b) 1 h",
+        "(c) 2 h",
+        "(d) 4 h"
+      ]
+    },
+    {
+      "question_number": 15,
+      "question": "A double star system consists of two stars A and B which have time periods Tₐ and Tᵦ. Radius Rₐ and Rᵦ and mass Mₐ and Mᵦ. Choose the correct option.",
+      "year": 2006,
+      "question_type": "mcq",
+      "options": [
+        "(a) If Tₐ > Tᵦ then Rₐ > Rᵦ; If Tₐ < Tᵦ then Mₐ > Mᵦ",
+        "(b) Tₐ > Tᵦ then Rₐ > Rᵦ; If Tₐ < Tᵦ then Mₐ < Mᵦ",
+        "(c) Tₐ > Tᵦ then Rₐ > Rᵦ; If Tₐ < Tᵦ then Mₐ = Mᵦ",
+        "(d) Tₐ > Tᵦ then Rₐ < Rᵦ; If Tₐ < Tᵦ then Mₐ = Mᵦ"
+      ]
+    },
+    {
+      "question_number": 16,
+      "question": "A spherically symmetric gravitational system of particles has a mass density ρ = ρ₀ for r ≤ R where ρ₀ is a constant. A test mass can undergo circular motion under the influence of the gravitational field of particles. Its speed v as a function of distance r from the centre of the system is represented by",
+      "year": 2008,
+      "question_type": "mcq",
+      "options": [
+        "(a) v ∝ √r",
+        "(b) v ∝ 1/r",
+        "(c) v ∝ 1/√r",
+        "(d) v ∝ r"
+      ]
+    },
+    {
+      "question_number": 17,
+      "question": "What is the minimum energy required to launch a satellite of mass m from the surface of a planet of mass M and radius R in a circular orbit at an altitude of 2R?",
+      "year": 2013,
+      "question_type": "mcq",
+      "options": [
+        "(a) 5GMm / 6R",
+        "(b) 2GMm / 3R",
+        "(c) GMm / 2R",
+        "(d) GMm / 3R"
+      ]
+    },
+    {
+      "question_number": 18,
+      "question": "A planet of radius R = 1 x 10⁶ (radius of earth) has the same mass density as earth. Scientists dig a well of depth h on it and lower a wire of the same length and of linear mass density 10⁻³ kg m⁻¹ into it. If the wire is not touching anywhere, the force applied at the top of the wire by a person holding it in place is (take the radius of earth = 6 x 10⁶ m and the acceleration due to gravity of earth is 10 m/s²)",
+      "year": 2014,
+      "question_type": "mcq",
+      "options": [
+        "(a) 96 N",
+        "(b) 108 N",
+        "(c) 120 N",
+        "(d) 150 N"
+      ]
+    },
+    {
+      "question_number": 19,
+      "question": "From a solid sphere of mass M and radius R, a spherical portion of radius (R / 2) is removed as shown in the figure. Taking gravitational potential V = 0 at r = ∞, the potential at the centre of the cavity thus formed is (G = gravitational constant)",
+      "year": 2015,
+      "question_type": "mcq",
+      "options": [
+        "(a) −GM / R",
+        "(b) −2GM / R",
+        "(c) −2GM / 3R",
+        "(d) −GM / 3R"
+      ],
+      "images":["arihant_images_ch7/arihant_1.png"]
+    },
+    {
+      "question_number": 20,
+      "question": "The variation of acceleration due to gravity g with distance d from the centre of the Earth is best represented by (R = Earth’s radius)",
+      "year": 2017,
+      "question_type": "mcq",
+      "options": [
+        "(a) g ∝ 1 / R²",
+        "(b) g ∝ 1 / R",
+        "(c) g ∝ 1 / R³",
+        "(d) g ∝ 1 / R²"
+      ]
+    },
+    {
+      "question_number": 21,
+      "question": "A particle is moving with a uniform speed in a circular orbit of radius R in a central force inversely proportional to the nth power of R. If the period of rotation of the particle is T, then",
+      "year": 2018,
+      "question_type": "mcq",
+      "options": [
+        "(a) T ∝ Rⁿ / 2",
+        "(b) T ∝ R³/2",
+        "(c) T ∝ R²",
+        "(d) T ∝ R² / 2"
+      ]
+    },
+    {
+      "question_number": 22,
+      "question": "The ratio of the weights of a body on the earth’s surface, to that on the surface of a planet is 9 : 4. The mass of the planet is 1/9th of that of the earth. If R is the radius of the earth, what is the radius of this planet? (Take, the planets to have the same mass density)",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) R / 3",
+        "(b) R / 4",
+        "(c) R / 9",
+        "(d) R / 2"
+      ]
+    },
+    {
+      "question_number": 23,
+      "question": "The value of acceleration due to gravity at earth’s surface is 9.8 m/s². The altitude above its surface at which the acceleration due to gravity decreases to 4.9 m/s², is close to (Take, radius of earth = 6.4 x 10⁶ m)",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) 9.0 x 10⁶ m",
+        "(b) 2.6 x 10⁶ m",
+        "(c) 6.4 x 10⁶ m",
+        "(d) 1.6 x 10⁶ m"
+      ]
+    },
+    {
+      "question_number": 24,
+      "question": "A spaceship orbits around a planet at a height of 20 km from its surface. Assuming that only gravitational field of the planet acts on the spaceship, what will be the number of complete revolutions made by the spaceship in 24 hours around the planet?",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) 11",
+        "(b) 17",
+        "(c) 13",
+        "(d) 9"
+      ]
+    },
+    {
+      "question_number": 25,
+      "question": "A solid sphere of mass M and radius R is surrounded by a uniform concentric spherical shell of thickness 2a and 2M. The gravitational field at distance 3a from the centre will be",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) GM / 9a²",
+        "(b) 2GM / 9a²",
+        "(c) GM / 3a²",
+        "(d) 2GM / 3a²"
+      ]
+    },
+    {
+      "question_number": 26,
+      "question": "A rocket has to be launched from earth in such a way that it never returns. If E is the minimum energy delivery by the rocket launcher, what should be the minimum energy that the launcher should have, if the same rocket is to be launched from the surface of the moon? Assume that the density of the earth and the moon are equal and that the earth’s volume is 64 times the volume of the moon.",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) E / 64",
+        "(b) E / 16",
+        "(c) E / 32",
+        "(d) E / 4"
+      ]
+    },
+    {
+      "question_number": 27,
+      "question": "A test particle is moving in a circular orbit in the gravitational field produced by mass density ρ(r) = K / r². Identify the correct relation between the radius R of the particle’s orbit and its period T",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) T^2/R³ is constant",
+        "(b) T/R² is constant",
+        "(c) TR is constant",
+        "(d) T is constant"
+      ]
+    },
+    {
+      "question_number": 28,
+      "question": "Two satellites A and B have masses m and 2m respectively. A is in a circular orbit of radius R and B is in a circular orbit of radius 2R around the earth. The ratio of their kinetic energies, Tₐ / Tᵦ is",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) 1/2",
+        "(b) 2",
+        "(c) √1/2",
+        "(d) 1"
+      ]
+    },
+    
+    {
+       "question_number": 29,
+        "question": "A satellite is revolving in a circular orbit at a height h from the earth surface such that h << R, where R is the radius of the earth. Assuming that the effect of earth’s atmosphere can be neglected the minimum increase in the speed required so that the satellite could escape from the gravitational field of earth is",
+        "year": 2019,
+        "question_type": "mcq",
+        "options": [
+            "(a) √gR / 2",
+            "(b) √gR",
+            "(c) √2gR",
+            "(d) √gR (√2 - 1)"
+        ]
+    },
+    {
+      "question_number": 31,
+      "question": "The energy required to take a satellite to a height H above earth surface (where radius of earth = 6.4 x 10⁶ km) is E₁ and kinetic energy required for the satellite to be in a circular orbit at this height is E₂. The value of H for which E₁ and E₂ are equal is",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) 3.2 x 10^3 km",
+        "(b) 1.28 x 10^4 km",
+        "(c) 6.4 x 10^3 km",
+        "(d) 1.6 x 10^3 km"
+      ]
+    },
+    {
+      "question_number": 32,
+      "question": "If the angular momentum of a planet of mass m, moving around sun in a circular orbit is L about the centre of the sun , its aerial velocity is",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) 4L / m",
+        "(b) 2L / m",
+        "(c) L / 2m",
+        "(d) L / m"
+      ]
+    },
+    {
+      "question_number": 33,
+      "question": "Four identical particles of mass M are located at the corners of a square of side a. What should be their speed, if each of them revolves under the influence of other’s gravitational field in a circular orbit circumscribing the square ?",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) 1.35√GM / a",
+        "(b) 1.16√GM / a",
+        "(c) 1.21√GM / a",
+        "(d) 1.41√GM / a"
+      ],
+      "images":["arihant_images_ch7/arihant_2.png"]
+    },
+    {
+      "question_number": 34,
+      "question": "The mass and the diameter of a planet are three times the respective values for the earth. The period of oscillation of a simple pendulum on the earth is 2 s. The period of oscillation of the same pendulum on the planet would be",
+      "year": 2020,
+      "question_type": "mcq",
+      "options": [
+        "(a) 2/√3 s",
+        "(b) 3/2 s",
+        "(c) 2√3 s",
+        "(d) √3/2 s"
+      ]
+    },
+    {
+      "question_number": 35,
+      "question": "A satellite of mass M is in a circular orbit of radius R about the centre of the earth. A meteorite of the same mass falling towards the earth collides with the satellite completely inelastically. The speeds of the satellite and the meteorite are the same just before the collision. The subsequent motion of the combined body will be",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) in the same circular orbit of radius R",
+        "(b) in an elliptical orbit",
+        "(c) such that it escapes to infinity",
+        "(d) in a circular orbit of a different radius"
+      ]
+    },
+    {
+      "question_number": 36,
+      "question": "A straight rod of length L extends from x = a to x = L + a. The gravitational force it exerts on a point mass m at x = 0, if the mass per unit length of the rod is A + Bx², is given by",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) Gm [ A (1 / (a + L) - 1 / a) ] - BL",
+        "(b) Gm [ A (1 / (a + L) - 1 / a) ] + BL",
+        "(c) Gm [ A (1 / a - 1 / (a + L)) ] + BL",
+        "(d) Gm [ A (1 / a - 1 / (a + L)) ] - BL"
+      ]
+    },
+    {
+      "question_number": 37,
+      "question": "The magnitudes of the gravitational field at distance r₁ and r₂ from the centre of a uniform sphere of radius R and mass M are F₁ and F₂, respectively. Then",
+      "year": 1994,
+      "question_type": "mcq",
+      "options": [
+        "(a) F₁ / F₂ = r₁ / r₂ if r₁ < R and r₂ < R",
+        "(b) F₁ / F₂ = r₂² / r₁² if r₁ > R and r₂ > R",
+        "(c) F₁ / F₂ = r₁³ / r₂³ if r₁ < R and r₂ < R",
+        "(d) F₁ / F₂ = r₁² / r₂² if r₁ < R and r₂ < R"
+      ]
+    }
+
+  ],
+  "section-2": [
+    {
+      "question_number": 1,
+      "question": "Imagine a light planet revolving around a very massive star in a circular orbit of radius R with a period of revolution T. If the gravitational force of attraction between the planet and the star is proportional to R^-5/2, then",
+      "year": 1989,
+      "question_type": "mcq",
+      "options": [
+        "(a) T² is proportional to R²",
+        "(b) T² is proportional to R^7/2",
+        "(c) T² is proportional to R^3/2",
+        "(d) T² is proportional to R^3.75"
+      ]
+    },
+    {
+      "question_number": 2,
+      "question": "A thin uniform annular disc (see figure) of mass M has outer radius 4R and inner radius 3R. The work required to take a unit mass from point P on its axis to infinity is",
+      "year": 2010,
+      "question_type": "mcq",
+      "options": [
+        "(a) 2GM / 7R (4√2 - 5)",
+        "(b) -2GM / 7R (4√2 - 5)",
+        "(c) GM / 4R",
+        "(d) 2GM / 5R (√2 - 1)"
+      ],
+      "images":["arihant_images_ch7/arihant_3.png"]
+    },
+     {
+      "question_number": 3,
+      "question": "Four particles, each of mass M and equidistant from each other, move along a circle of radius R under the action of their mutual gravitational attraction, the speed of each particle is",
+      "year": 2014,
+      "question_type": "mcq",
+      "options": [
+        "(a) √GM / R",
+        "(b) √2√2 GM / R",
+        "(c) √GM / R (1 + 2√2)",
+        "(d) 1/2√GM / R (1 + 2√2)"
+      ]
+    },
+    {
+      "question_number": 4,
+      "question": "A satellite is revolving in a circular orbit at a height h from the earth's surface (radius of earth is R and h << R). The minimum increase in its orbital velocity required so that the satellite could escape from the earth’s gravitational field, is close to (Neglect the effect of atmosphere)",
+      "year": 2016,
+      "question_type": "mcq",
+      "options": [
+        "(a) √2gR",
+        "(b) √gR",
+        "(c) √gR / 2",
+        "(d) √gR (√2 - 1)"
+      ]
+    },
+    {
+      "question_number": 5,
+      "question": "A rocket is launched normal to the surface of the Earth, away from the Sun, along the line joining the Sun and the Earth. The Sun is 3 × 10^5 times heavier than the Earth and is at a distance 2.5 × 10^4 times larger than the radius of Earth. The escape velocity from Earth's gravitational field is ve = 11.2 km/s. The minimum initial velocity (vs) required for the rocket to be able to leave the Sun-Earth system is closest to (Ignore the rotation and revolution of the Earth and the presence of any other planet)",
+      "year": 2017,
+      "question_type": "mcq",
+      "options": [
+        "(a) vs = 72 km/s",
+        "(b) vs = 22 km/s",
+        "(c) vs = 42 km/s",
+        "(d) vs = 62 km/s"
+      ]
+    },
+    {
+      "question_number": 6,
+      "question": "Two stars of masses 3×10^31 kg each and at distance 2×10^11 m rotate in a plane about their common centre of mass O. A meteorite passes through O moving perpendicular to the star’s rotation plane. In order to escape from the gravitational field of this double star, the minimum speed that meteorite should have at O is (Take, gravitational constant, G = 6.67×10^-11 N·m²·kg⁻²)",
+      "year": 2019,
+      "question_type": "mcq",
+      "options": [
+        "(a) 2.8 × 10^5 m/s",
+        "(b) 3.8 × 10^4 m/s",
+        "(c) 2.4 × 10^4 m/s",
+        "(d) 1.4 × 10^5 m/s"
+      ]
+    },
+    {
+      "question_number": 7,
+      "question": "A satellite is moving in a low nearly circular orbit around the earth. Its radius is roughly equal to that of the earth’s radius Re. By firing rockets attached to it, its speed is instantaneously increased in the direction of its motion, so that it becomes √3/2 times larger. Due to this, the farthest distance from the centre of the earth that the satellite reaches is R. Value of R is:",
+      "year": 2020,
+      "question_type": "mcq",
+      "options": [
+        "(a) 4Re",
+        "(b) 2.5Re",
+        "(c) 3Re",
+        "(d) 2Re"
+      ]
+    },
+    {
+        "question_number": 8,
+        "question": "A solid sphere of uniform density and radius 4 units is located with its centre at the origin O of coordinates. Two spheres of equal radii 1 unit, with their centres at A(-2, 0, 0) and B(2, 0, 0), respectively, are taken out of the solid leaving behind spherical cavities as shown in figure. Then, (a) the gravitational field due to this object at the origin is zero (b) the gravitational field at the point B (2, 0, 0) is zero (c) the gravitational potential is the same at all points of circle x² + y² = 36 (d) the gravitational potential is the same at all points on the circle x² + z² = 4",
+        "year": 1993,
+        "question_type": "One or more correct option",
+        "options": [
+            "(a) the gravitational field due to this object at the origin is zero",
+            "(b) the gravitational field at the point B (2, 0, 0) is zero",
+            "(c) the gravitational potential is the same at all points of circle x² + z² = 36",
+            "(d) the gravitational potential is the same at all points on the circle x² + z² = 4"
+        ],
+        "images":["arihant_images_ch7/arihant_4.png"]
+    },
+    {
+        "question_number": 9,
+        "question": "Two spherical planets P and Q have the same uniform density ρ, masses Mp and Mq, and surface areas A and 4A, respectively. A spherical planet R also has uniform density ρ and its mass is (Mp + Mq). The escape velocities from the planets P, Q and R, are vp, vq and vR, respectively. Then,",
+        "year": 2012,
+        "question_type": "One correct option",
+        "options": [
+            "(a) vQ > vR > vP",
+            "(b) vR > vQ > vP",
+            "(c) vR / vP = 3",
+            "(d) vP / vQ = 1/2"
+        ]
+    },
+    {
+      "question_number": 10,
+      "question": "Two bodies, each of mass M, are kept fixed with a separation 2L. A particle of mass m is projected from the mid-point of the line joining their centres, perpendicular to the line. The gravitational constant is G. The correct statement(s) is/are",
+      "year": 2013,
+      "question_type": "mcq",
+      "options": [
+        "(a) The minimum initial velocity of the mass m to escape the gravitational field of the two bodies is 4√(GM/L)",
+        "(b) The minimum initial velocity of the mass m to escape the gravitational field of the two bodies is 2√(GM/L)",
+        "(c) The minimum initial velocity of the mass m to escape the gravitational field of the two bodies is √(2GM/L)",
+        "(d) The energy of the mass m remains constant"
+      ]
+    },
+    {
+      "question_number": 11,
+      "question": "A spherical body of radius R consists of a fluid of constant density and is in equilibrium under its own gravity. If P(r) is the pressure at r (r < R), then the correct options is/are",
+      "year": 2015,
+      "question_type": "mcq",
+      "options": [
+        "(a) P(r = 0) = 0",
+        "(b) P(r = 3R/4) = 63/80 * P",
+        "(c) P(r = 3R/5) = 16/21 * P",
+        "(d) P(r = 2R/5) = 20/27 * P"
+      ]
+    },
+    {
+      "question_number": 12,
+      "question": "A planet of mass M has two natural satellites with masses m1 and m2. The radii of their circular orbits are R1 and R2, respectively. Ignore the gravitational force between the satellites. Define v1, L1, K1, and T1 to be respectively, the orbital speed, angular momentum, kinetic energy and time period of revolution of satellite 1; and v2, L2, K2, T2 to be the corresponding quantities of satellite 2. Given, m1 / m2 = 2 and R1 / R2 = 1/4, match the ratios in column-I to the numbers in column-II.",
+      "year": 2018,
+      "question_type": "Match the Columns",
+      "columns": {
+        "Column-I": [
+          "v1 / v2",
+          "L1 / L2",
+          "K1 / K2",
+          "T1 / T2"
+        ],
+        "Column-II": [
+          "1/8",
+          "1",
+          "2",
+          "8"
+        ]
+      },
+      "options": [
+        "(a) A → r; B → q; C → p; D → s",
+        "(b) A → r; B → q; C → s; D → p",
+        "(c) A → q; B → r; C → p; D → s",
+        "(d) A → q; B → r; C → s; D → p"
+      ]
+    },
+    {
+      "question_number": 13,
+      "question": "Gravitational acceleration on the surface of a planet is √6/11 * g, where g is the gravitational acceleration on the surface of the earth. The average mass density of the planet is 1/3 times that of the earth. If the escape speed on the surface of the earth is taken to be 11 km/s, the escape speed on the surface of the planet in km/s will be",
+      "year": 2010,
+      "question_type": "Integer Answer Type",
+      "options": []
+    },
+    {
+      "question_number": 14,
+      "question": "A bullet is fired vertically upwards with velocity v from the surface of a spherical planet. When it reaches its maximum height, its acceleration due to the planet’s gravity is 1/4 of its value at the surface of the planet. If the escape velocity from the planet is v_sec = √N, then the value of N is (ignore energy loss due to atmosphere)",
+      "year": 2015,
+      "question_type": "Integer Answer Type",
+      "options": []
+    },
+    {
+      "question_number": 15,
+      "question": "A large spherical mass M is fixed at one position and two identical masses m are kept on a line passing through the centre of M. The point masses are connected by a rigid massless rod of length l and this assembly is free to move along the line connecting them.",
+      "year": 2015,
+      "question_type": "Integer Answer Type",
+      "options": [],
+      "images":["arihant_images_ch7/arihant_5.png"]
+    },
+    {
+      "question_number": 16,
+      "question": "Two satellites S1 and S2 revolve round a planet in coplanar circular orbits in the same sense. Their periods of revolution are 1h and 8h, respectively. The radius of the orbit of S1 is 104 km when S2 is closest to S1. Find the angular speed of S1 as compared to S2.",
+      "year": 1986,
+      "question_type": "Analytical & Descriptive Question",
+      "options": []
+    },
+    {
+      "question_number": 17,
+      "question": "Three particles, each of mass m, are situated at the vertices of an equilateral triangle of side length a. The only forces acting on the particles are their mutual gravitational forces. It is desired that each particle moves in a circle while maintaining the original mutual separation a. Find the initial velocity that should be given to each particle and also the time period of the circular motion.",
+      "year": 1988,
+      "question_type": "Analytical & Descriptive Question",
+      "options": []
+    },
+    {
+      "question_number": 18,
+      "question": "An artificial satellite is moving in a circular orbit around the Earth with a speed equal to half the magnitude of escape velocity from the Earth. (a) Determine the height of the satellite above the earth's surface. (b) If the satellite is stopped suddenly in its orbit and allowed to fall freely onto the Earth, find the speed with which it hits the surface of the Earth.",
+      "year": 1990,
+      "question_type": "Analytical & Descriptive Question",
+      "options": []
+    },
+    {
+      "question_number": 19,
+      "question": "Distance between the centres of two stars is 10a. The masses of these stars are M and 16M and their radii a and 2a respectively. A body of mass m is fired straight from the surface of the larger star towards the surface of the smaller star. What should be its minimum initial speed to reach the surface of the smaller star? Obtain the expression in terms of G, M and a.",
+      "year": 1996,
+      "question_type": "Analytical & Descriptive Question",
+      "options": []
+    },
+    {
+      "question_number": 20,
+      "question": "There is a crater of depth R/100 on the surface of the moon (radius R). A projectile is fired vertically upward from the crater with velocity, which is equal to the escape velocity v from the surface of the moon. Find the maximum height attained by the projectile.",
+      "year": 2003,
+      "question_type": "Analytical & Descriptive Question",
+      "options": []
+    }
+
+  ]
+}

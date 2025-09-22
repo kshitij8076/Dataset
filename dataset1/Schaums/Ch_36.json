@@ -1,0 +1,170 @@
+[
+  {
+    "question_number": 36.1,
+    "Questions": "Two plane mirrors make an angle of 30° with each other. Locate graphically four images of a luminous point A placed between the two mirrors. (See Fig. 36-3.) From A draw normals AA' and AB' to mirrors OY and OX, respectively, making AL = LA' and AM = MB. Then A' and B' are images of A.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_100.png",
+    "solution": null
+  },
+  {
+    "question_number": 36.2,
+    "Questions": "A boy is 1.50 m tall and can just see his image in a vertical plane mirror 3.0 m away. His eyes are 1.40 m from the floor level. Determine the vertical dimension and elevation of the shortest mirror in which he could see his full image.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_101.png",
+    "solution": "The shortest mirror is 75 cm high and 70 cm in elevation."
+  },
+  {
+    "question_number": 36.3,
+    "Questions": "As shown in Fig. 36-5, a light ray IO is incident on a small plane mirror. The mirror reflects this ray upon a straight scale SC which is 1 m distant and parallel to the undeflected mirror MM. When the mirror turns through an angle of 8.0° and assumes the position M'M', across what distance on the scale will the spot of light move?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_102.png",
+    "solution": "The spot will move 29 cm."
+  },
+  {
+    "question_number": 36.4,
+    "Questions": "The concave spherical mirror shown in Fig. 36-6 has a radius of curvature 4 m. An object OO', 5 cm high, is placed 3 m in front of the mirror. By (a) construction and (b) computation, determine the position and height of the image II'.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_103.png",
+    "solution": "(a) The image is real, inverted, magnified, and at a greater distance from the mirror than the object. The image is 6 m from the mirror, and 6 cm high."
+  },
+  {
+    "question_number": 36.5,
+    "Questions": "An object OO' is 25 cm from a concave spherical mirror of radius 80 cm (Fig. 36-7). Determine the position and relative size of its image II' (a) by construction and (b) by use of the mirror equation.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_104.png",
+    "solution": "(a) The image is real, inverted, and smaller. It is located 6 m from the mirror and 0.10 m high. (b) The position is 6 m and the height is 0.10 m."
+  },
+  {
+    "question_number": 36.6,
+    "Questions": "As shown in Fig. 36-8, an object 6 cm high is located 30 cm in front of a convex spherical mirror of radius 40 cm. Determine the position and height of its image, (a) by construction and (b) by use of the mirror equation.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_105.png",
+    "solution": "(a) The image is virtual, erect, and magnified, and is located 67 cm behind the mirror. (b) The image is 2.7 times magnified."
+  },
+  {
+    "question_number": 36.7,
+    "Questions": "Where should an object be placed, with reference to a concave spherical mirror of radius 180 cm, to form a real image having half its linear dimensions?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The object should be placed 0.27 m from the mirror."
+  },
+  {
+    "question_number": 36.8,
+    "Questions": "How far must a girl stand in front of a concave spherical mirror of radius 120 cm to see an erect image of her face four times its natural size?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The object should be placed 45 cm from the mirror."
+  },
+  {
+    "question_number": 36.9,
+    "Questions": "What kind of spherical mirror must be used, and what must be its radius, in order to give an erect image one-fifth as large as an object placed 15 cm in front of it?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "A convex mirror with a radius of 7.5 cm must be used."
+  },
+  {
+    "question_number": 36.10,
+    "Questions": "The diameter of the Sun subtends an angle of approximately 32 minutes (32') at any point on the Earth. Determine the position and diameter of the solar image formed by a concave spherical mirror of radius 400 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_106.png",
+    "solution": "The solar image diameter is 1.9 cm and the image is located at the principal focus 200 cm from the mirror."
+  },
+  {
+    "question_number": 36.11,
+    "Questions": "A dental technician uses a small mirror that gives a magnification of 4.0 when it is held 0.60 cm from a tooth. What is the radius of curvature of the mirror?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The radius of curvature of the mirror is 1.6 cm."
+  },
+  {
+    "question_number": 36.12,
+    "Questions": "If you wish to take a photo of yourself as you stand 3 m in front of a plane mirror, for what distance should you focus the camera you are holding?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "6 m"
+  },
+  {
+    "question_number": 36.13,
+    "Questions": "Two plane mirrors make an angle of 90° with each other. A point-like luminous object is placed between them. How many images are formed?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "3"
+  },
+  {
+    "question_number": 36.14,
+    "Questions": "Two plane mirrors are parallel to each other and spaced 20 cm apart. A luminous point is placed between them and 5.0 cm from one mirror. Determine the distance from each mirror of the three nearest images in each.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.0, 35, 45 cm; 15, 25, 55 cm"
+  },
+  {
+    "question_number": 36.15,
+    "Questions": "Two plane mirrors make an angle of 90° with each other. A beam of light is directed at one of the mirrors, reflects off it and the second mirror, and leaves the mirrors. What is the angle between the incident beam and the reflected beam?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "180°"
+  },
+  {
+    "question_number": 36.16,
+    "Questions": "A ray of light makes an angle of 25° with the normal to a plane mirror. If the mirror is turned through 6.0°, making the angle of incidence 31°, through what angle is the reflected ray rotated?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "12°"
+  },
+  {
+    "question_number": 36.17,
+    "Questions": "Describe the image of a candle flame located 40 cm from a concave spherical mirror of radius 64 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Real, inverted, 0.16 m in front of mirror, magnified 4 times"
+  },
+  {
+    "question_number": 36.18,
+    "Questions": "Describe the image of an object positioned 20 cm from a concave spherical mirror of radius 60 cm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Virtual, erect, 60 cm behind mirror, magnified 3 times"
+  },
+  {
+    "question_number": 36.19,
+    "Questions": "How far should an object be from a concave spherical mirror of radius 36 cm to form a real image one-ninth its size?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.18 m"
+  },
+  {
+    "question_number": 36.20,
+    "Questions": "An object 7.0 cm high is placed 15 cm from a convex spherical mirror of radius 45 cm. Describe its image.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Virtual, erect, 9.0 cm behind mirror, 4.2 cm high"
+  },
+  {
+    "question_number": 36.21,
+    "Questions": "What is the focal length of a convex spherical mirror which produces an image one-sixth the size of an object located 12 cm from the mirror?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "-2.4 cm"
+  },
+  {
+    "question_number": 36.22,
+    "Questions": "It is desired to cast the image of a lamp, magnified 5 times, upon a wall 12 m distant from the lamp. What kind of spherical mirror is required, and what is its position?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Concave, radius 5.0 m, 3.0 m from lamp"
+  },
+  {
+    "question_number": 36.23,
+    "Questions": "Compute the position and diameter of the image of the Moon in a polished sphere of diameter 20 cm. The diameter of the Moon is 3500 km, and its distance from the Earth is 384000 km, approximately.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "5.0 cm inside sphere, 0.46 mm"
+  }
+]

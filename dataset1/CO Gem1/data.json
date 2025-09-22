@@ -1,0 +1,668 @@
+{
+    "Questions": "Find the equation of line passing through point (2, 3) which is (i) parallel to the x-axis (ii) parallel to the y-axis",
+    "Answers": "(i) y = 3 (ii) x = 2"
+  }
+  
+  {
+    "Questions": "Find the equation of line passing through point (2, -5) which is (i) parallel to the line 3x + 2y + 4 = 0 (ii) perpendicular to the line 3x + 2y - 4 = 0",
+    "Answers": "(i) 3x + 2y + 4 = 0 (ii) 2x - 3y - 19 = 0"
+  }
+  
+  {
+    "Questions": "Find the equation of the perpendicular bisector of the line segment joining the points A(2, 3) and B(6,-5).",
+    "Answers": "x - 2y - 6 = 0"
+  }
+ 
+  {
+    "Questions": "Find the locus of a point P which moves such that its distance from the line y = √3x - 7 is the same as its distance from (2√3,-1).",
+    "Answers": "x + √3y = √3"
+  }
+  
+  {
+    "Questions": "Consider a triangle with vertices A(1, 2), B(3, 1), and C(-3, 0). Find (i) the equation of altitude through vertex A. (ii) the equation of median through vertex A. (iii) the equation of internal angle bisector of ∠A.",
+    "Answers": "(i) 6x + y - 8 = 0 (ii) 3x - 2y + 1 = 0 (iii) x - 1 = 0",
+    "images": ["CO_Gem1_1.png"],
+    "images": ["CO_Gem1_2.png"],
+    "images": ["CO_Gem1_3.png"]
+  }
+  
+  {
+    "Questions": "Find the coordinates of the foot of the perpendicular drawn from the point P(1, -2) on the line y = 2x + 1. Also, find the image of P in the line.",
+    "Answers": "Foot: M(-1, -1). Image: Q(-3, 0).",
+    "images": ["CO_Gem2_4.png"],
+  }
+ 
+  {
+    "Questions": "If the line x/a + y/b = 1 moves in such a way that 1/a² + 1/b² = 1/c², where c is a constant, then prove that the foot of perpendicular from the origin upon the straight line describes the curve x² + y² = c².",
+    "Answers": "Hence, equation of locus of P is x² + y² = c²."
+  }
+ 
+  {
+    "Questions": "In what ratio does the line joining the points (2, 3) and (4, 1) divide the segment joining the points (1, 2) and (4, 3)?",
+    "Answers": "1 : 1"
+  }
+ 
+  {
+    "Questions": "ABCD is a square whose vertices are A(0, 0), B(2, 0), C(2, 2), and D(0, 2). The square is rotated in the XY-plane through an angle 30° in the anticlockwise sense about an axis passing though A perpendicular to the XY-plane. Find the equation of the diagonal BD of this rotated square.",
+    "Answers": "(2 - √3)x + y = 2√3 - 2",
+    "images": ["CO_Gem3_5.png"]
+  }
+
+  {
+    "Questions": "In a triangle ABC, side AB has the equation 2x + 3y = 29 and side AC has the equation x + 2y = 16. If the midpoint of BC is (5, 6), then find the equation of BC.",
+    "Answers": "x + y = 11",
+    "images": ["CO_Gem4_6.png"]
+  }
+ 
+  {
+    "Questions": "Two consecutive sides of a parallelogram are 4x + 5y = 0 and 7x + 2y = 0. If the equation of one diagonal is 11x + 7y = 9, find the equation of the other diagonal.",
+    "Answers": "y - x = 0",
+    "images": ["CO_Gem5_7.png"]
+  }
+
+  {
+    "Questions": "If one of the sides of a square is 3x - 4y - 12 = 0 and the center is (0, 0), then find the equations of the diagonals of the square.",
+    "Answers": "7x - y = 0 and x + 7y = 0"
+  }
+  
+  {
+    "Questions": "A vertex of an equilateral triangle is (2, 3) and the equation of the opposite side is x + y = 2. Find the equation of the other sides of the triangle.",
+    "Answers": "y − 3 = (2 + √3)(x – 2) and y − 3 = (2 - √3)(x – 2)",
+    "images": ["CO_Gem6_8.png"]
+  }
+
+  {
+    "Questions": "A line 4x + y = 1 through the point A(2, -7) meets the line BC whose equation is 3x – 4y + 1 = 0 at the point B. Find the equation of the line AC, so that AB = AC.",
+    "Answers": "52x + 89y + 519 = 0",
+    "images": ["CO_Gem7_9.png"]
+  }
+  
+  {
+    "Questions": "A ray of light is sent along the line x - 2y - 3 = 0. Upon reaching the line 3x - 2y - 5 = 0, the ray is reflected from it. Find the equation of the line containing the reflected ray.",
+    "Answers": "29x - 2y - 31 = 0",
+    "images": ["CO_Gem8_10.png"]
+  }
+  
+  {
+    "Questions": "Find the equation of the line which intersects the y-axis at a distance of 2 units above the origin and makes an angle of 30° with the positive direction of the x-axis.",
+    "Answers": "x - √3y + 2√3 = 0"
+  }
+  
+  {
+    "Questions": "Find the equation of a straight line cutting off an intercept -1 from the y-axis and being equally inclined to the axes.",
+    "Answers": "y = x - 1 and y = -x - 1",
+    "images": ["CO_Gem9_11.png"]
+  }
+ 
+  {
+    "Questions": "Find the equation of a line that has y-intercept 4 and is perpendicular to the line joining (2, -3) and (4, 2).",
+    "Answers": "2x + 5y - 20 = 0"
+  }
+  
+  {
+    "Questions": "Find the equation of the line passing through the point (2, 2) and cutting off intercepts on the axes whose sum is 9.",
+    "Answers": "x + 2y - 6 = 0 and 2x + y - 6 = 0"
+  }
+  
+  {
+    "Questions": "Find the equation of the straight line that (i) makes equal intercepts on the axes and passes through the point (2, 3). (ii) passes through the point (-5, 4) and is such that the portion intercepted between the axes is divided by the point in the ratio 1 : 2.",
+    "Answers": "(i) x + y = 5 (ii) 8x - 5y + 60 = 0"
+  }
+  .
+  {
+    "Questions": "Line segment AB of fixed length c slides between coordinate axes such that its ends A and B lie on the axes. If O is origin and rectangle OAPB is completed, then show that the locus of the foot of the perpendicular drawn from P to AB is x^(2/3) + y^(2/3) = c^(2/3).",
+    "Answers": "x^(2/3) + y^(2/3) = c^(2/3)",
+    "images": ["CO_Gem10_12.png"]
+  }
+  .
+  {
+    "Questions": "Reduce the line 2x – 3y + 5 = 0, in slope-intercept, intercept and normal forms. Also, find the distance of the line from origin and inclination of normal to the line with x-axis.",
+    "Answers": "Slope-intercept: y = (2/3)x + 5/3. Intercept: x/(-5/2) + y/(5/3) = 1. Normal: (-2/√13)x + (3/√13)y = 5/√13. Distance from origin: p = 5/√13. Inclination of normal: α such that cos α = -2/√13, sin α = 3/√13."
+  }
+  .
+  {
+    "Questions": "Find the equation of the line which is at a perpendicular distance of 5 units from the origin and the angle made by the perpendicular with the positive x-axis is 30°.",
+    "Answers": "√3x + y = 10",
+    "images": ["CO_Gem11_13.png"]
+  }
+  .
+  {
+    "Questions": "Find the equation of the right bisector of the line segment joining the points (3, 4) and (-1, 2).",
+    "Answers": "2x + y = 5"
+  }
+  .
+  {
+    "Questions": "If the coordinates of the points A, B, C, and D are (a, b), (a', b'), (-a, b), and (a', -b'), respectively, then find the equation of the line bisecting the line segments AB and CD.",
+    "Answers": "2ay - 2b'x = ab - a'b'"
+  }
+  .
+  {
+    "Questions": "If the coordinates of the vertices of triangle ABC are (-1, 6), (-3, -9), and (5, -8), respectively, then find the equation of the median through C.",
+    "Answers": "13x + 14y + 47 = 0"
+  }
+  .
+  {
+    "Questions": "Find the equation of the line perpendicular to the line x/a - y/b = 1 and passing through a point at which it cuts the x-axis.",
+    "Answers": "x/b + y/a = a/b"
+  }
+  .
+  {
+    "Questions": "If the middle points of the sides BC, CA, and AB of triangle ABC are (1, 3), (5, 7), and (-5, 7), respectively, then find the equation of the side AB.",
+    "Answers": "x - y + 12 = 0"
+  }
+  .
+  {
+    "Questions": "Find the equations of the lines which pass through the origin and are inclined at an angle tan⁻¹m to the line y = mx + c.",
+    "Answers": "y = 0, y = (2mx)/(1-m²)"
+  }
+  .
+  {
+    "Questions": "If (-2, 6) is the image of the point (4, 2) with respect to line L = 0, then find the equation of line L.",
+    "Answers": "3x - 2y + 5 = 0"
+  }
+  .
+  {
+    "Questions": "Find the area bounded by the curves x + 2|y| = 1 and x = 0.",
+    "Answers": "1/2"
+  }
+  .
+  {
+    "Questions": "Find the equation of the straight line passing through the intersection of the lines x - 2y = 1 and x + 3y = 2 and parallel to 3x + 4y = 0.",
+    "Answers": "3x + 4y - 5 = 0"
+  }
+  .
+  {
+    "Questions": "If the foot of the perpendicular from the origin to a straight line is at (3, -4), then find the equation of the line.",
+    "Answers": "3x - 4y = 25"
+  }
+  .
+  {
+    "Questions": "A straight line through the point (2, 2) intersects the lines √3x + y = 0 and √3x - y = 0 at the points A and B, respectively. Then find the equation of the line AB so that triangle OAB is equilateral.",
+    "Answers": "y - 2 = 0"
+  }
+  .
+  {
+    "Questions": "Find the equation of the straight line passing through the point (4, 3) and making intercepts on the coordinate axes whose sum is -1.",
+    "Answers": "x/(-2) + y/1 = 1 and x/2 + y/(-3) = 1"
+  }
+  .
+  {
+    "Questions": "A straight line through the point A(3, 4) is such that its intercept between the axis is bisected at A. Find its equation.",
+    "Answers": "4x + 3y = 24"
+  }
+  .
+  {
+    "Questions": "A straight line L is perpendicular to the line 5x - y = 1. The area of the triangle formed by line L and the coordinate axes is 5. Find the equation of line L.",
+    "Answers": "x + 5y ± 5√2 = 0"
+  }
+  .
+  {
+    "Questions": "A line L₁ = 3y - 2x - 6 = 0 is rotated about its point of intersection with the y-axis in the clockwise direction to make it L₂ such that the area formed by L₁, L₂, the x-axis, and line x = 5 is 49/3 sq. units if its point of intersection with x = 5 lies below the x-axis. Find the equation of L₂.",
+    "Answers": "x + y = 2"
+  }
+  .
+  {
+    "Questions": "The diagonals AC and BD of a rhombus intersect at (5, 6). If A = (3, 2), then find the equation of diagonal BD.",
+    "Answers": "2y + x - 17 = 0"
+  }
+  .
+  {
+    "Questions": "Find the equation of the straight line which passes through the origin and makes angle 60° with the line x + √3 y + 3√3 = 0.",
+    "Answers": "x = 0, x - √3 y = 0"
+  }
+  .
+  {
+    "Questions": "A line intersects the straight lines 5x - y - 4 = 0 and 3x - 4y - 4 = 0 at A and B, respectively. If a point P(1, 5) on the line AB is such that AP : PB = 2 : 1 (internally), find point A.",
+    "Answers": "(75/17, 307/17)"
+  }
+  .
+  {
+    "Questions": "Two fixed points A and B are taken on the coordinates axes such that OA = a and OB = b. Two variable points A' and B' are taken on the same axes such that OA' + OB' = OA + OB. Find the locus of the point of intersection of AB' and A'B.",
+    "Answers": "x/aa' + y/bb' = 0"
+  }
+  .
+  {
+    "Questions": "Find the direction in which a straight line must be drawn through the point (-1, 2) so that its point of intersection with the line x + y = 4 may be at a distance of 3 units from this point.",
+    "Answers": "Parallel to the x-axis"
+  }
+  .
+  {
+    "Questions": "A straight line is drawn through the point P(2, 3) and is inclined at an angle of 30° with the x-axis. Find the coordinates of two points on it at a distance of 4 units from P.",
+    "Answers": "(2 + 2√3, 5), (2 - 2√3, 1)"
+  }
+  .
+  {
+    "Questions": "The line joining two points A(2, 0) and B(3, 1) is rotated about A in anticlockwise direction through an angle of 15°. Find the equation of the line in the new position. If B goes to C in the new position, then what will be the coordinates of C?",
+    "Answers": "Equation of AC: y = √3(x-2). Coordinates of C: (2 + 1/√2, √3/√2)",
+    "images": ["CO_Gem1_14.png"]
+  }
+  .
+  {
+    "Questions": "A line through point A(1, 3) and parallel to the line x - y + 1 = 0 meets the line 2x – 3y + 9 = 0 at point P. Find distance AP without finding point P.",
+    "Answers": "r = 2√2",
+    "images": ["CO_Gem2_15.png"]
+  }
+  .
+  {
+    "Questions": "Two adjacent vertices of a square are (1, 2) and (-2, 6). Find the other vertices.",
+    "Answers": "D(5, 5) and C(2, 9) OR D'(-3, -1) and C'(-6, 3)",
+    "images": ["CO_Gem1_16.png"]
+  }
+  .
+  {
+    "Questions": "A line through the variable point A (k + 1, 2k) meets the lines 7x+y-16=0, 5x-y-8=0 and x-5y+8=0, at B, C and D, respectively. Prove that AC, AB and AD are in H.P.",
+    "Answers": "AC, AB and AD are in H.P."
+  }
+  .
+  {
+    "Questions": "Two particles start from the point (2, -1); one moves 2 units along the line x + y = 1 and the other moves 5 units along the line x - 2y = 4. If the particles move upward w.r.t. coordinate axes, then find their new positions.",
+    "Answers": "(2-√2, -1+√2) and (2+2√5, -1+√5)"
+  }
+  .
+  {
+    "Questions": "The centre of a square is at the origin and one vertex is A(2, 1). Find the coordinates of other vertices of the square.",
+    "Answers": "(-1, 2), (-2, -1), (1, -2)"
+  }
+  .
+  {
+    "Questions": "The straight line passing through P(x₁, y₁) and making an angle α with x-axis intersects Ax + By + C = 0 in Q. Find the length PQ.",
+    "Answers": "|Ax₁ + By₁ + C| / |A cos α + B sin α|"
+  }
+  .
+  {
+    "Questions": "The centroid of an equilateral triangle is (0, 0). If two vertices of the triangle lie on x + y = 2√2, then find all the possible vertices of triangle.",
+    "Answers": "(-2√2, -2√2), (√2-√6, √2+√6), (√2+√6, √2-√6)"
+  }
+  .
+  {
+    "Questions": "If p is the length of the perpendicular from the origin to the line x/a + y/b = 1, then prove that 1/p² = 1/a² + 1/b².",
+    "Answers": "1/p² = 1/a² + 1/b²"
+  }
+  .
+  {
+    "Questions": "Find the coordinates of a point on x + y + 3 = 0, whose distance from x + 2y + 2 = 0 is √5.",
+    "Answers": "(1, -4) and (-9, 6)"
+  }
+  .
+  {
+    "Questions": "Find the least and the greatest values of distance of the point (cos θ, sin θ), θ ∈ R, from the line 3x – 4y + 10 = 0.",
+    "Answers": "Least distance = 1, Greatest distance = 3"
+  }
+  .
+  {
+    "Questions": "Prove that the product of the lengths of the perpendiculars drawn from the points (√(a²-b²), 0) and (-√(a²-b²), 0) to the line (x/a)cosθ + (y/b)sinθ = 1 is b².",
+    "Answers": "Product = b²"
+  }
+  .
+  {
+    "Questions": "Find the least value of (x – 1)² + (y – 2)² under the condition 3x + 4y - 2 = 0.",
+    "Answers": "9/25"
+  }
+  .
+  {
+    "Questions": "ABC is an equilateral triangle with A(0, 0) and B(a, 0), (a > 0). L, M, and N are the foot of the perpendiculars drawn from a point P to the sides AB, BC, and CA, respectively. If P lies inside the triangle and satisfies the condition PL² = PM · PN, then find the locus of P.",
+    "Answers": "x² + y² - ax + (a/√3)y = 0",
+    "images": ["CO_Gem4_17.png"]
+  }
+  .
+  {
+    "Questions": "Line L has intercepts a and b on the coordinate axes. When the axes are rotated through a given angle keeping the origin fixed, the same line L has intercepts p and q. Prove that 1/a² + 1/b² = 1/p² + 1/q².",
+    "Answers": "1/a² + 1/b² = 1/p² + 1/q²",
+    "images": ["CO_Gem1_18.png"]
+  }
+  .
+  {
+    "Questions": "Two sides of a square lie on the lines x + y = 1 and x + y + 2 = 0. What is its area?",
+    "Answers": "9/2 sq. units",
+    "images": ["CO_Gem1_19.png"]
+  }
+  .
+  {
+    "Questions": "Find the equation of the line which is equidistant from parallel lines 9x + 6y - 7 = 0 and 3x + 2y + 6 = 0.",
+    "Answers": "18x + 12y + 11 = 0"
+  }
+  .
+  {
+    "Questions": "If one side of the square is 2x - y + 6 = 0 and one of the vertices is (2, 1), then find the other sides of the square.",
+    "Answers": "AD: 2x - y - 3 = 0; AB: x + 2y - 4 = 0; CD (or C'D'): x + 2y - 13 = 0 or x + 2y + 5 = 0",
+    "images": ["CO_Gem1_20.png"]
+  }
+  .
+  {
+    "Questions": "Prove that the area of the parallelogram contained by the lines 4y - 3x - a = 0, 3y - 4x + a = 0, 4y - 3x - 3a = 0, and 3y - 4x + 2a = 0 is (2/7)a².",
+    "Answers": "Area = (2/7)a²",
+    "images": ["CO_Gem1_21.png"]
+  }
+  .
+  {
+    "Questions": "Find the equations of straight lines passing through (-2, -7) and having an intercept of length 3 between the straight lines 4x + 3y = 12 and 4x + 3y = 3.",
+    "Answers": "x + 2 = 0 and 7x + 24y + 182 = 0",
+    "images": ["CO_Gem1_22.png"]
+  }
+  .
+  {
+    "Questions": "A line L is drawn from P(4, 3) to meet the lines L₁ and L₂ given by 3x + 4y + 5 = 0 and 3x + 4y + 15 = 0 at points A and B, respectively. From A, a line perpendicular to L is drawn meeting the line L₂ at A₁. Similarly, from point B, a line perpendicular to L is drawn meeting the line L₁ at B₁. Thus, a parallelogram AA₁BB₁ is formed. Then find the equation of L so that the area of the parallelogram AA₁BB₁ is the least.",
+    "Answers": "x - 7y + 17 = 0 or 7x + y - 31 = 0",
+    "images": ["CO_Gem1_23.png"]
+  }
+  .
+  {
+    "Questions": "Find the points on the y-axis whose perpendicular distance from the line 4x - 3y - 12 = 0 is 3.",
+    "Answers": "(0, 1) and (0, -9)",
+    "images": ["CO_Gem1_24.png"]
+  }
+  .
+  {
+    "Questions": "If p and p' are the distances of the origin from the lines x sec α + y cosec α = k and x cos α - y sin α = k cos 2α, then prove that 4p² + p'² = k².",
+    "Answers": "4p² + p'² = k²"
+  }
+  .
+  {
+    "Questions": "Prove that the lengths of the perpendiculars from the points (m², 2m), (mm', m + m'), and (m'², 2m') to the line x + y + 1 = 0 are in GP.",
+    "Answers": "Lengths are in GP."
+  }
+  .
+  {
+    "Questions": "Find the ratio in which the line 3x + 4y + 2 = 0 divides the distance between 3x + 4y + 5 = 0 and 3x + 4y - 5 = 0.",
+    "Answers": "3 : 7"
+  }
+  .
+  {
+    "Questions": "Find the incentre of a triangle formed by the lines x cos(π/9) + y sin(π/9) = π, x cos(8π/9) + y sin(8π/9) = π, and x cos(13π/9) + y sin(13π/9) = π.",
+    "Answers": "(0, 0)"
+  }
+  .
+  {
+    "Questions": "Find the equations of lines parallel to 3x - 4y - 5 = 0 at a unit distance from it.",
+    "Answers": "3x - 4y - 10 = 0 or 3x - 4y = 0"
+  }
+  .
+  {
+    "Questions": "Find the equation of a straight line passing through the point (-5, 4) and which cuts off an intercept of √2 units between the lines x + y + 1 = 0 and x + y - 1 = 0.",
+    "Answers": "x - y + 9 = 0"
+  }
+  .
+  {
+    "Questions": "Are the points (3, 4) and (2, -6) on the same or opposite sides of the line 3x - 4y = 8?",
+    "Answers": "Opposite sides"
+  }
+  .
+  {
+    "Questions": "Find the set of positive values of b for which the origin and the point (1, 1) lie on the same side of the straight line, a²x + aby + 1 = 0, ∀ a ∈ R.",
+    "Answers": "b ∈ (0, 2)"
+  }
+  .
+  {
+    "Questions": "If point (a², a + 1) lies in the angle between the line 3x - y + 1 = 0 and x + 2y - 5 = 0 containing the origin, then find the values of a.",
+    "Answers": "a ∈ (-3, 0) ∪ (1/3, 1)"
+  }
+  .
+  {
+    "Questions": "If the point (a, a) is placed in between the lines |x + y| = 4, then find the values of a.",
+    "Answers": "-2 < a < 2",
+    "images": ["CO_Gem1_25.png"]
+  }
+  .
+  {
+    "Questions": "Find the values of a for which point (3a, a) lies inside the triangle formed by the lines y = x, the x-axis and line x + y = 4.",
+    "Answers": "0 < a < 1",
+    "images": ["CO_Gem1_26.png"]
+  }
+  .
+  {
+    "Questions": "Determine all the values of α for which the point (α, α²) lies inside the triangle formed by the lines 2x + 3y - 1 = 0, x + 2y - 3 = 0 and 5x - 6y - 1 = 0.",
+    "Answers": "α ∈ (-3/2, -1) ∪ (1/2, 1)",
+    "images": ["CO_Gem1_27.png"]
+
+  }
+  .
+  {
+    "Questions": "Sketch the region in which the points satisfying the following inequality lie. (i) 2x - 3y - 5 > 0 (ii) -3x + 4y + 7 > 0 (iii) x > 2 (iv) y > -3",
+    "Answers": "(i) Region not containing origin, below line 2x-3y-5=0. (ii) Region containing origin, above line -3x+4y+7=0. (iii) Region not containing origin, to the right of x=2. (iv) Region containing origin, above line y=-3.",
+    "images": ["CO_Gem1_28.png"],
+    "images": ["CO_Gem1_29.png"],
+    "images": ["CO_Gem1_30.png"],
+  }
+  .
+  {
+    "Questions": "Sketch the region in which the points satisfying the following inequalities lie. (i) |x + y| < 2 (ii) |2x - y| > 3 (iii) |x| > |y|",
+    "Answers": "(i) Region between lines x+y=2 and x+y=-2. (ii) Region outside the strip formed by 2x-y=3 and 2x-y=-3. (iii) Region between y=x and y=-x that contains the x-axis.",
+    "images": ["CO_Gem1_31.png"],
+    "images": ["CO_Gem1_32.png"],
+    "images": ["CO_Gem1_33.png"],
+    "images": ["CO_Gem1_34.png"],
+    "images": ["CO_Gem1_35.png"],
+  }
+  .
+  {
+    "Questions": "Find the values of b for which the point (2b + 3, b²) lies above the line 3x - 4y - a(a - 2) = 0 ∀ a ∈ R.",
+    "Answers": "b ∈ (-∞, -1) ∪ (5/2, ∞)",
+    "images": ["CO_Gem1_36.png"]
+  }
+  .
+  {
+    "Questions": "Plot the region of the points P(x, y) satisfying |x| + |y| < 1.",
+    "Answers": "Interior of the square with vertices (1,0), (0,1), (-1,0), (0,-1).",
+    "images": ["CO_Gem1_37.png"]
+  }
+  .
+  {
+    "Questions": "Plot the region of the points P(x, y) satisfying 2 > max. {|x|, |y|}.",
+    "Answers": "Interior of the square defined by -2 < x < 2 and -2 < y < 2.",
+    "images": ["CO_Gem1_38.png"]
+  }
+  .
+  {
+    "Questions": "How the lines 2x + 3y - 4 = 0 and 6x + 9y + 8 = 0 are positioned w.r.t. point (8, -9)?",
+    "Answers": "Both the lines lie on the same side of point (8, -9)."
+  }
+  .
+  {
+    "Questions": "How the following pairs of points are placed w.r.t. the line 3x - 8y - 7 = 0? (i) (-3,-4) and (1, 2) (ii) (-1,-1) and (3, 7)",
+    "Answers": "(i) points are on opposite sides of the line (ii) points are on same side of the line"
+  }
+  .
+  {
+    "Questions": "Find the range of α for which the points (α, 2 + α) and (3α/2, α²) lie on opposite sides of the line 2x + 3y = 6.",
+    "Answers": "α ∈ (-∞, -2) ∪ (0, 1)"
+  }
+  .
+  {
+    "Questions": "If the point P(α², α) lies in the region of acute angle between the lines 2y = x and 4y = x, then find the values of α.",
+    "Answers": "α ∈ (2, 4)"
+  }
+  .
+  {
+    "Questions": "If (α, 3α) is a variable point lying above the straight line 2x + y + 4 = 0 and below the line x + 4y – 8 = 0, then find the values of α.",
+    "Answers": "-4/5 < α < 8/13"
+  }
+  .
+  {
+    "Questions": "Find the values of α such that the variable point (α, tan α) lies inside the triangle whose sides are y = x + √3 - π/3, x + y + π/6 + 1 = 0 and x - π/2 = 0.",
+    "Answers": "-π/6 < α < π/3"
+  }
+  .
+  {
+    "Questions": "Find the area of the region in which points satisfy 3 ≤ |x| + |y| ≤ 5.",
+    "Answers": "32 sq. units"
+  }
+  .
+  {
+    "Questions": "Find the area of the region formed by the points satisfying |x| + |y| + |x - y| ≤ 2.",
+    "Answers": "3 sq. units"
+  }
+  .
+  {
+    "Questions": "If one of the vertices of a square is (3, 2) and one of the diagonals is along the line 3x + 4y + 8 = 0, then find the centre of the square and other vertices.",
+    "Answers": "Centre M(0, -2). Vertices: C(-3, -6), B(4/5, -13/5), D(-4/5, -7/5).",
+    "images": ["CO_Gem1_39.png"]
+  }
+  .
+  {
+    "Questions": "In ΔABC, vertex A is (1, 2). If the internal angle bisector of ∠B is 2x - y + 10 = 0 and the perpendicular bisector of AC is y = x, then find the equation of BC.",
+    "Answers": "5x + 9y - 19 = 0",
+    "images": ["CO_Gem1_40.png"]
+  }
+  .
+  {
+    "Questions": "Find the locus of image of the variable point (λ², 2λ) in the line mirror x - y + 1 = 0, where λ is a parameter.",
+    "Answers": "4(y - 1) = (x + 1)²"
+  }
+  .
+  {
+    "Questions": "Lines L₁ = ax + by + c = 0 and L₂ = lx + my + n = 0 intersect at point P and make an angle θ with each other. Find the equation of a line different from L₂ which passes through P and makes the same angle θ with L₁.",
+    "Answers": "2(al + mb)(ax + by + c) – (a² + b²)(lx + my + n) = 0",
+    "images": ["CO_Gem1_41.png"]
+  }
+  .
+  {
+    "Questions": "For the straight lines 4x + 3y - 6 = 0 and 5x + 12y + 9 = 0, find the equation of the: (i) bisector of the obtuse angle between them (ii) bisector of the acute angle between them (iii) bisector of the angle which contains (1, 2) (iv) bisector of the angle which contains (0, 0)",
+    "Answers": "(i) 9x - 7y - 41 = 0 (ii) 7x + 9y - 3 = 0 (iii) 9x - 7y - 41 = 0 (iv) 7x + 9y - 3 = 0"
+  }
+  .
+  {
+    "Questions": "The equation of bisector of two lines L₁ and L₂ are 2x - 16y - 5 = 0 and 64x + 8y + 35 = 0. If the line L₁ passes through (-11, 4), then identify the equation of acute angle bisector of L₁ and L₂.",
+    "Answers": "2x - 16y - 5 = 0",
+    "images": ["CO_Gem1_42.png"]
+  }
+  .
+  {
+    "Questions": "If x + y = 0 is the angle bisector of the angle containing the point (1, 0), for the lines 3x + 4y + b = 0 and 4x + 3y – b = 0, then find the values of b.",
+    "Answers": "b > 4 or b < -3"
+  }
+  .
+  {
+    "Questions": "Two equal sides of an isosceles triangle are 7x - y + 3 = 0 and x + y - 3 = 0. Its third side passes through the point (1, -10). Determine the equation of the third side.",
+    "Answers": "3x + y + 7 = 0 or x - 3y - 31 = 0",
+    "images": ["CO_Gem1_43.png"]
+  }
+  .
+  {
+    "Questions": "The vertices B and C of a triangle ABC lie on the lines 3y = 4x and y = 0, respectively. The side BC passes through the point (2/3, 2/3). If ABOC is a rhombus lying in first quadrant, O being the origin, then find the equation of the line BC.",
+    "Answers": "2x + y - 2 = 0",
+    "images": ["CO_Gem1_44.png"]
+  }
+  .
+  {
+    "Questions": "Two sides of a rhombus lying in the first quadrant are given by 3x – 4y = 0 and 12x – 5y = 0. If the length of the longer diagonal is 12, then find the equations of the other two sides of the rhombus.",
+    "Answers": "AB: 3x - 4y = -180/√130; BC: 12x - 5y = 468/√130 (Equations of lines AB and BC passing through B(84/√130, 108/√130) and parallel to OC and OA respectively)",
+    "images": ["CO_Gem1_45.png"]
+  }
+  .
+  {
+    "Questions": "The line ax + by = 1 passes through the point of intersection of y = x tan α + p sec α and y sin (30° - α) - x cos (30° – α) = p. If it is inclined at 30° with y = (tan α) x, then prove that a² + b² = 3/(4p²).",
+    "Answers": "a² + b² = 3/(4p²)"
+  }
+  .
+  {
+    "Questions": "Find the equation of the bisector of the obtuse angle between the lines 3x - 4y + 7 = 0 and 12x + 5y - 2 = 0.",
+    "Answers": "21x + 77y - 101 = 0"
+  }
+  .
+  {
+    "Questions": "The incident ray is along the line 3x – 4y - 3 = 0 and the reflected ray is along the line 24x + 7y + 5 = 0. Find the equation of mirrors.",
+    "Answers": "9x + 27y + 20 = 0 or 39x – 13y - 10 = 0"
+  }
+  .
+  {
+    "Questions": "If the two sides of rhombus are x + 2y + 2 = 0 and 2x + y - 3 = 0, then find the slope of the longer diagonal.",
+    "Answers": "-1"
+  }
+  .
+  {
+    "Questions": "In triangle ABC, the equation of the right bisectors of the sides AB and AC are x + y = 0 and y - x = 0, respectively. If A = (5, 7), then find the equation of side BC.",
+    "Answers": "5x - 7y = 0 (or 10x - 14y = 0)"
+  }
+  .
+  {
+    "Questions": "Show that the reflection of the line ax + by + c = 0 in the line x + y + 1 = 0 is the line bx + ay + (a + b − c) = 0, where a ≠ b.",
+    "Answers": "Reflection is bx + ay + (a + b − c) = 0."
+  }
+  .
+  {
+    "Questions": "Equations of two altitudes of equilateral triangle are √3x - y + 8 – 4√3 = 0 and -√3x - y + 12 + 4√3 = 0. Find the equation of the third altitude.",
+    "Answers": "y = 10"
+  }
+  .
+  {
+    "Questions": "The equations of the perpendicular bisectors of the sides AB and AC of triangle ABC are x - y + 5 = 0 and x + 2y = 0, respectively. If the point A is (1, -2), then find the equation of the line BC.",
+    "Answers": "14x + 23y - 40 = 0"
+  }
+  .
+  {
+    "Questions": "Two sides of a rhombus ABCD are parallel to the lines y = x + 2 and y = 7x + 3. If the diagonals of the rhombus intersect at the point (1, 2) and the vertex A is on the y-axis, then find the possible coordinates of A.",
+    "Answers": "(0, 0) or (0, 5/2)"
+  }
+  .
+  {
+    "Questions": "Find the value of λ, if the lines 3x – 4y - 13 = 0, 8x - 11y - 33, and 2x - 3y + λ = 0 are concurrent.",
+    "Answers": "λ = -7"
+  }
+  .
+  {
+    "Questions": "If the lines a₁x + b₁y + 1 = 0, a₂x + b₂y + 1 = 0, and a₃x + b₃y + 1 = 0 are concurrent, then show that the points (a₁, b₁), (a₂, b₂), and (a₃, b₃) are collinear.",
+    "Answers": "Points (a₁, b₁), (a₂, b₂), and (a₃, b₃) are collinear."
+  }
+  .
+  {
+    "Questions": "Show that the straight lines x(a + 2b) + y(a + 3b) = a + b for different values of a and b pass through a fixed point. Find that point.",
+    "Answers": "Fixed point (2, -1)"
+  }
+  .
+  {
+    "Questions": "Let ax + by + c = 0 be a variable straight line, where a, b and c are 1st, 3rd and 7th terms of an increasing A.P., respectively. Then prove that the variable straight line always passes through a fixed point and find that point.",
+    "Answers": "Fixed point (2, -3)"
+  }
+  .
+  {
+    "Questions": "Prove that all the lines having sum of the intercepts on the axes equal to half of the product of the intercepts pass through a fixed point. Also, find that fixed point.",
+    "Answers": "Fixed point (2, 2)"
+  }
+  .
+  {
+    "Questions": "Find the straight line passing through the point of intersection of lines 2x + 3y + 5 = 0 and 5x – 2y – 16 = 0 and through the point (-1, 3) using the concept of family of lines.",
+    "Answers": "2x + y - 1 = 0"
+  }
+  .
+  {
+    "Questions": "Consider a family of straight lines (x + y) + λ(2x - y + 1) = 0. Find the equation of the straight line belonging to this family that is farthest from (1, -3).",
+    "Answers": "6x - 15y + 7 = 0",
+    "images": ["CO_Gem1_46.png"]
+  }
+  .
+  {
+    "Questions": "Let the sides of a parallelogram be U = a, U = b, V = a' and V = b', where U = lx + my + n, V = l'x + m'y + n'. Show that the equation of the diagonal through the point of intersection of U = a, V = a' and U = b, V = b' is given by | U V 1 | / | a a' 1 | / | b b' 1 | = 0.",
+    "Answers": "Equation of diagonal: (U-a)(a'-b') - (V-a')(a-b) = 0 or equivalently the determinant form mentioned.",
+    "images": ["CO_Gem1_47.png"]
+  }
+  .
+  {
+    "Questions": "Find the values of non-negative real numbers h₁, h₂, h₃, k₁, k₂, k₃ such that algebraic sum of the perpendiculars drawn from points (2, k₁), (3, k₂), (7, k₃), (h₁, 4), (h₂, 5), (h₃, −3) on a variable line passing through (2, 1) is zero.",
+    "Answers": "h₁ = h₂ = h₃ = 0 and k₁ = k₂ = k₃ = 0"
+  }
+  .
+  {
+    "Questions": "If a and b are two arbitrary constants, then prove that the straight line (a - 2b)x + (a + 3b)y + 3a + 4b = 0 will pass through a fixed point. Find that point.",
+    "Answers": "(-1, -2)"
+  }
+  .
+  {
+    "Questions": "If a, b, c are in harmonic progression, then the straight line (x/a) + (y/b) + (1/c) = 0 always passes through a fixed point. Find that point.",
+    "Answers": "(1, -2)"
+  }
+  .
+  {
+    "Questions": "If the algebraic sum of the distances of a variable line from the points (2, 0), (0, 2), and (-2, -2) is zero, then prove that the line passes through the fixed point. Find that point.",
+    "Answers": "(0, 0)"
+  }
+  .
+  {
+    "Questions": "Consider the family of lines 5x + 3y - 2 + λ₁(3x − y − 4) = 0 and x - y + 1 + λ₂(2x - y - 2) = 0. Find the equation of a straight line that belongs to both the families.",
+    "Answers": "5x - 2y - 7 = 0"
+  }
+  
+  {
+    "Questions": "If the straight lines x + y - 2 = 0, 2x - y + 1 = 0, and ax + by - c = 0 are concurrent, then at which point the family of lines 2ax + 3by + c = 0 (a, b, c are nonzero) is concurrent?",
+    "Answers": "(-1/6, -5/9)"
+  }
+  

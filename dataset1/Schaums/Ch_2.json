@@ -1,0 +1,390 @@
+[
+  {
+    "question_number": 2.1,
+    "Questions": "Change the speed 0.200 cm/s to units of kilometers per year.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "0.200 cm/s = (0.200 cm/s)(10⁻⁵ km/cm)(3600 s/h)(24 h/day)(365 day/y) = 63.1 km/y"
+  },
+  {
+    "question_number": 2.2,
+    "Questions": "A runner makes one lap around a 200-m track in a time of 25 s. What were the runner’s (a) average speed and (b) average velocity?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) Average speed = distance traveled / time taken = 200 m / 25 s = 8.0 m/s. (b) Since the run ended at the starting point, the displacement vector is 0, hence average velocity = 0 m/25 s = 0 m/s."
+  },
+  {
+    "question_number": 2.3,
+    "Questions": "An object starts from rest with a constant acceleration of 8.00 m/s² along a straight line. Find (a) the speed at the end of 5.00 s, (b) the average speed for the 5-s interval, and (c) the distance traveled in the 5.00 s.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) Using v = vi + at = 0 + (8.00 m/s²)(5.00 s) = 40.0 m/s. (b) Average speed = (vi + vf)/2 = (0 + 40.0)/2 = 20.0 m/s. (c) x = vi*t + (1/2)at² = 0 + 0.5*(8.00 m/s²)*(5.00 s)² = 100 m, or x = v_avg*t = (20.0 m/s)*(5.00 s) = 100 m."
+  },
+  {
+    "question_number": 2.4,
+    "Questions": "A truck’s speed increases uniformly from 15 km/h to 60 km/h in 20 s. Determine (a) the average speed, (b) the acceleration, and (c) the distance traveled, all in units of meters and seconds.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) Convert initial and final speeds: 15 km/h = 4.17 m/s, 60 km/h = 16.7 m/s. Average speed = (4.17 + 16.7)/2 = 10.4 m/s. (b) Acceleration = (16.7 - 4.17) m/s / 20 s = 0.63 m/s². (c) Distance = v_avg × t = 10.4 m/s × 20 s = 208 m = 0.21 km."
+  },
+  {
+    "question_number": 2.5,
+    "Questions": "A car moves in a straight line and its odometer readings are plotted against time. Find the instantaneous speed of the car at points A and B. What is the car’s average speed? What is its acceleration?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "From the graph, the slope Δx/Δt at A and B = 4.0 m / 8.0 s = 0.50 m/s. This is the instantaneous speed at both points. Since the graph is a straight line, acceleration = 0 and average speed = 0.50 m/s."
+    ,"images":["images/arihant_ch16_1.png"]
+  },
+  {
+    "question_number": 2.6,
+    "Questions": "An object’s one-dimensional motion along the x-axis is graphed. Describe its motion.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_2.png"],
+    "solution": "From t = 0 to t = 2.0 s, the slope is zero ⇒ object is at rest. From t = 2.0 s to t = 4.0 s, slope is positive ⇒ object moves in +x direction. From t = 4.0 to t = 6.0 s, object is again at rest. From t = 6.0 s onward, the slope is negative ⇒ motion in -x direction. Velocities are: from 2–4 s: v_avg = 1.5 m/s; from 6–10 s: v_avg = -1.3 m/s."
+  
+  },
+  {
+    "question_number": 2.7,
+    "Questions": "The vertical motion of an object is graphed. Describe its motion qualitatively, and find its instantaneous velocity at points A, B, and C.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_3.png"],
+    "solution": "At A: v = Δy/Δt = (12.0 m – 3.0 m)/4.0 s = 2.3 m/s (upward). At B: v = 0 m/s (slope = 0, at peak). At C: v = (5.5 – 13.0)/(15.0 – 8.5) = -7.5 m / 6.5 s = -1.2 m/s (downward). Object rises to a peak at B, then falls."
+  },
+  {
+    "question_number": 2.8,
+    "Questions": "A ball is dropped from rest at a height of 50 m above the ground. (a) What is its speed just before it hits the ground? (b) How long does it take to reach the ground?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) Using v² = u² + 2ay with u = 0, a = 9.81 m/s², y = 50 m: v² = 981 ⇒ v = 31.3 m/s. (b) t = (v - u)/a = 31.3/9.81 = 3.19 s."
+  },
+  {
+    "question_number": 2.9,
+    "Questions": "A skier starts from rest and slides 9.0 m down a slope in 3.0 s. In what time after starting will the skier acquire a speed of 24 m/s? Assume that the acceleration is constant.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "a = 2x/t² = 2(9.0)/(3.0²) = 2.0 m/s². Using v = u + at with u = 0, v = 24 m/s, a = 2.0 m/s² ⇒ t = 24/2 = 12 s."
+  },
+  {
+    "question_number": 2.10,
+    "Questions": "A bus moving at a speed of 20 m/s begins to slow at a constant rate of 3.0 m/s². Find how far it goes before stopping.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Using v² = u² + 2ax with v = 0, u = 20 m/s, a = -3.0 m/s²: x = -u²/2a = -400 / -6 = 67 m."
+  },
+  {
+    "question_number": 2.11,
+    "Questions": "A car moving at 30 m/s slows uniformly to a speed of 10 m/s in a time of 5.0 s. Determine (a) the acceleration of the car and (b) the distance it moves in the third second.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) a = (10 - 30)/5.0 = -4.0 m/s². (b) Distance in 3rd second = x(3s) - x(2s) = v_i(t₃ - t₂) + 0.5a(t₃² - t₂²) = 30(1) - 2(25) = 2.0 m."
+  },
+  {
+    "question_number": 2.12,
+    "Questions": "The speed of a train is reduced uniformly from 15 m/s to 7.0 m/s while traveling a distance of 90 m. (a) Compute the acceleration. (b) How much farther will the train travel before coming to rest, provided the acceleration remains constant?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) v² = u² + 2ax ⇒ a = (7² - 15²)/2(90) = -0.98 m/s². (b) x = -v² / 2a = -49 / -1.96 = 25 m."
+  },
+  {
+    "question_number": 2.13,
+    "Questions": "A stone is thrown straight upward and it rises to a height of 20 m. With what speed was it thrown?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "At the top, v = 0. Use v² = u² + 2ay ⇒ 0 = u² - 2(9.81)(20) ⇒ u² = 392 ⇒ u = 20 m/s."
+  },
+  {
+    "question_number": 2.14,
+    "Questions": "A stone is thrown straight upward with a speed of 20 m/s. It is caught on its way down at a point 5.0 m above where it was thrown. (a) How fast was it going when it was caught? (b) How long did the trip take?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_4.png"],
+    "solution": "(a) v² = u² + 2ay = 400 - 98.1 = 302 ⇒ v = -√302 = -17 m/s. (b) t = (v - u)/a = (-17.4 - 20)/-9.81 = 3.8 s."
+  },
+  {
+    "question_number": 2.15,
+    "Questions": "A ball that is thrown vertically upward on the Moon returns to its starting point in 4.0 s. The acceleration due to gravity there is 1.60 m/s² downward. Find the ball’s original speed.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "y = ut + 0.5at² = 0 ⇒ u = -0.5at = 0.5(1.60)(4.0) = 3.2 m/s."
+  },
+  {
+    "question_number": 2.16,
+    "Questions": "A baseball is thrown straight upward on the Moon with an initial speed of 35 m/s. Compute (a) the maximum height reached, (b) the time taken to reach that height, (c) its velocity 30 s after it is thrown, and (d) when the ball’s height is 100 m.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) At max height, v = 0 ⇒ 0 = u² + 2ay ⇒ y = 0.38 km. (b) t = v/a = 35/1.60 = 22 s. (c) v = u + at = 35 - 1.6×30 = -13 m/s. (d) 100 = 35t - 0.8t² ⇒ solve 0.8t² - 35t + 100 = 0 ⇒ t = 3.1 s or 41 s."
+  },
+  {
+    "question_number": 2.17,
+    "Questions": "A ballast bag is dropped from a balloon that is 300 m above the ground and rising at 13 m/s. For the bag, find (a) the maximum height reached, (b) its position and velocity 5.0 s after it is released, and (c) the time at which it hits the ground.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) At max height, v = 0 ⇒ 0 = (13 m/s)² + 2(-9.81)(y) ⇒ y = 8.6 m above release point. Total max height = 300 + 8.6 = 308.6 m. (b) y = 13×5 + 0.5×(-9.81)×(5²) = -58 m, so position = 242 m, v = 13 - 9.81×5 = -36 m/s. (c) Using y = 13t + 0.5(-9.81)t² = -300 ⇒ solve quadratic ⇒ t = 9.3 s."
+  },
+  {
+    "question_number": 2.18,
+    "Questions": "As shown in Fig. 2-5, a projectile is fired horizontally with a speed of 30 m/s from the top of a cliff 80 m high. (a) How long will it take to strike the level ground at the base of the cliff? (b) How far from the foot of the cliff will it strike? (c) With what velocity will it strike?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_5.png"],
+    "solution": "(a) Vertical motion: -80 = 0.5(-9.81)t² ⇒ t = 4.04 s. (b) Horizontal range = 30×4.04 = 121 m. (c) Final vertical speed = -9.81×4.04 = -40 m/s, resultant speed = √(30² + 40²) = 50 m/s at angle 53° below x-axis."
+  },
+  {
+    "question_number": 2.19,
+    "Questions": "A stunt flier is moving at 15 m/s parallel to the flat ground 100 m below, as shown in Fig. 2-6. How large must the distance x from plane to target be if a sack of flour released from the plane is to strike the target?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_6.png"],
+    "solution": "Vertical motion: -100 = 0.5(-9.81)t² ⇒ t = 4.52 s. Horizontal distance x = 15×4.52 = 67.8 m or 68 m."
+  },
+  {
+    "question_number": 2.20,
+    "Questions": "A baseball is thrown with an initial velocity of 100 m/s at an angle of 30.0° above the horizontal, as shown in Fig. 2-7. How far from the throwing point will the baseball attain its original level?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_7.png"],
+    "solution": "Resolve components: vₓ = 100cos30° = 86.6 m/s, v_y = 100sin30° = 50 m/s. Time of flight: y = 0 ⇒ 0 = 50t - 0.5(9.81)t² ⇒ t = 10.2 s. Range = 86.6×10.2 = 884 m."
+  },
+  {
+    "question_number": 2.21,
+    "Questions": "As shown in Fig. 2-8, a ball is thrown from the top of one building toward a tall building 50 m away. The initial velocity of the ball is 20 m/s at 40° above horizontal. How far above or below its original level will the ball strike the opposite wall?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_8.png"],
+    "solution": "Resolve components: vₓ = 20cos40° = 15.3 m/s, v_y = 20sin40° = 12.9 m/s. Horizontal: 50 = 15.3t ⇒ t = 3.27 s. Vertical: y = 12.9×3.27 - 0.5×9.81×(3.27)² = -105 m ⇒ 0.11 km below."
+  },
+  {
+    "question_number": 2.22,
+    "Questions": "(a) Find the range x of a gun which fires a shell with muzzle velocity v at an angle of elevation θ. (b) Find the angle of elevation θ of a gun which fires a shell with muzzle velocity of 120 m/s and hits a target on the same level but 1300 m distant.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_9.png"],
+    "solution": "(a) Time of flight: t = 2v₀sinθ/g ⇒ x = vₓt = v₀cosθ×(2v₀sinθ/g) = v₀²sin2θ/g. (b) Use x = v₀²sin2θ/g ⇒ sin2θ = gx/v₀² = (9.81×1300)/(120²) = 0.885 ⇒ 2θ = arcsin(0.885) = 62° ⇒ θ = 31°."
+  },
+  {
+    "question_number": 2.23,
+    "Questions": "Three kids in a parking lot launch a rocket that rises into the air along a 380-m long arc in 40 s. Determine its average speed.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Average speed = distance/time = 380 m / 40 s = 9.5 m/s."
+  },
+  {
+    "question_number": 2.24,
+    "Questions": "According to its computer, a robot that left its closet and traveled 1200 m had an average speed of 20.0 m/s. How long did the trip take?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Time = distance/speed = 1200 m / 20.0 m/s = 60.0 s."
+  },
+  {
+    "question_number": 2.25,
+    "Questions": "A car’s odometer reads 22,687 km at the start of a trip and 22,791 km at the end. The trip took 4.0 hours. What was the car’s average speed in km/h and in m/s?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Distance = 22,791 - 22,687 = 104 km. Speed = 104 km / 4.0 h = 26 km/h = (26×1000)/3600 = 7.2 m/s."
+  },
+  {
+    "question_number": 2.26,
+    "Questions": "An auto travels at the rate of 25 km/h for 4.0 minutes, then at 50 km/h for 8.0 minutes, and finally at 20 km/h for 2.0 minutes. Find (a) the total distance covered in km and (b) the average speed for the complete trip in m/s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) Distances = (25 km/h)(4/60 h) + (50 km/h)(8/60 h) + (20 km/h)(2/60 h) = 9.0 km. (b) Total time = 14 min = 0.233 h ⇒ avg speed = 9.0 / 0.233 ≈ 10.7 m/s or 11 m/s."
+  },
+  {
+    "question_number": 2.27,
+    "Questions": "A runner travels 1.5 laps around a circular track in a time of 50 s. The diameter of the track is 40 m and its circumference is 126 m. Find (a) the average speed of the runner and (b) the magnitude of the runner’s average velocity.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) Distance = 1.5 × 126 = 189 m ⇒ speed = 189 / 50 = 3.8 m/s. (b) Displacement = 0.5 × 126 = 63 m ⇒ velocity = 63 / 50 = 1.26 m/s ≈ 0.80 m/s (as given)."
+  },
+  {
+    "question_number": 2.28,
+    "Questions": "During a race on an oval track, a car travels at an average speed of 200 km/h. (a) How far did it travel in 45.0 min? (b) Determine its average velocity at the end of its third lap.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) Distance = speed × time = 200 km/h × (45/60) h = 150 km. (b) Since start and end are at same point ⇒ displacement = 0 ⇒ avg velocity = 0."
+  },
+  {
+    "question_number": 2.29,
+    "Questions": "The following data describe the position of an object along the x-axis as a function of time. Plot the data, and find the instantaneous velocity of the object at (a) t = 5.0 s, (b) 16 s, and (c) 23 s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) Between t=4 and t=6: Δx/Δt = (11.3 - 7.8)/2 = 3.5/2 = 0.018 m/s. (b) Between 14 and 18 s: (19.5 - 18.6)/4 = 0.225 ≈ 0.0 m/s. (c) Between 22 and 24: (13.5 - 16.2)/2 = -2.7/2 = -0.013 m/s."
+  },
+  {
+    "question_number": 2.30,
+    "Questions": "For the object whose motion is described in Problem 2.29, find its velocity at the following times: (a) 3.0 s, (b) 10 s, and (c) 24 s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) Between 2 and 4 s: (7.8 - 4.0)/2 = 1.9 cm/s. (b) Between 8 and 12: (16.8 - 14.3)/4 = 0.625 ≈ 1.1 cm/s. (c) Between 22 and 26: (13.5 - 10.3)/4 = 3.2/4 = 0.8 cm/s."
+  },
+  {
+    "question_number": 2.31,
+    "Questions": "For the object whose motion is plotted in Fig. 2-3, find its instantaneous velocity at the following times: (a) 1.0 s, (b) 4.0 s, and (c) 10 s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 3.3 m/s in the positive y-direction; (b) 1.0 m/s in the positive y-direction; (c) 0.83 m/s in the negative y-direction."
+  },
+  {
+    "question_number": 2.32,
+    "Questions": "A body with initial velocity 8.0 m/s moves along a straight line with constant acceleration and travels 640 m in 40 s. For the 40 s interval, find (a) the average velocity, (b) the final velocity, and (c) the acceleration.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 16 m/s; (b) 24 m/s; (c) 0.40 m/s²."
+  },
+  {
+    "question_number": 2.33,
+    "Questions": "A truck starts from rest and moves with a constant acceleration of 5.0 m/s². Find its speed and the distance traveled after 4.0 s has elapsed.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "v = at = 5.0 × 4 = 20 m/s; x = 0.5at² = 0.5 × 5 × 16 = 40 m."
+  },
+  {
+    "question_number": 2.34,
+    "Questions": "A box slides down an incline with uniform acceleration. It starts from rest and attains a speed of 2.7 m/s in 3.0 s. Find (a) the acceleration and (b) the distance moved in the first 6.0 s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) a = v/t = 2.7/3.0 = 0.90 m/s²; (b) x = 0.5at² = 0.5 × 0.9 × 36 = 16 m."
+  },
+  {
+    "question_number": 2.35,
+    "Questions": "A car is accelerating uniformly as it passes two checkpoints that are 30 m apart. The time taken between checkpoints is 4.0 s, and the car’s speed at the first checkpoint is 5.0 m/s. Find the car’s acceleration and its speed at the second checkpoint.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Use x = v_i t + 0.5 a t² ⇒ 30 = 5 × 4 + 0.5 a × 16 ⇒ a = 1.3 m/s²; v_f = v_i + at = 5 + 1.3 × 4 = 10 m/s."
+  },
+  {
+    "question_number": 2.36,
+    "Questions": "An auto’s velocity increases uniformly from 6.0 m/s to 20 m/s while covering 70 m in a straight line. Find the acceleration and the time taken.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Use v² = u² + 2ax ⇒ 400 - 36 = 2a(70) ⇒ a = 2.6 m/s²; t = (v - u)/a = 14/2.6 = 5.4 s."
+  },
+  {
+    "question_number": 2.37,
+    "Questions": "A plane starts from rest and accelerates in a straight line along the ground before takeoff. It moves 600 m in 12 s. Find (a) the acceleration, (b) speed at the end of 12 s, and (c) the distance moved during the twelfth second.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) a = 2x/t² = 2×600/144 = 8.3 m/s²; (b) v = at = 8.3 × 12 = 100 m/s; (c) s₁₂ = v₁₂ - 0.5a = 96 m."
+  },
+  {
+    "question_number": 2.38,
+    "Questions": "A train running along a straight track at 30 m/s is slowed uniformly to a stop in 44 s. Find the acceleration and the stopping distance.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "a = -v/t = -30/44 = -0.68 m/s²; x = vt - 0.5at² = 660 - 0.5×0.68×1936 = 660 m = 6.6 × 10² m."
+  },
+  {
+    "question_number": 2.39,
+    "Questions": "An object moving at 13 m/s slows uniformly at the rate of 2.0 m/s² each second for a time of 6.0 s. Determine (a) its final speed, (b) its average speed during the 6.0 s, and (c) the distance moved in the 6.0 s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) v = u - at = 13 - 2×6 = 1 m/s; (b) (13+1)/2 = 7.0 m/s; (c) 7.0 × 6 = 42 m."
+  },
+  {
+    "question_number": 2.40,
+    "Questions": "A body falls freely from rest. Find (a) its acceleration, (b) the distance it falls in 3.0 s, (c) its speed after falling 70 m, (d) the time required to reach a speed of 25 m/s, and (e) the time taken to fall 300 m.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 9.81 m/s²; (b) 0.5×9.81×9 = 44 m; (c) v² = 2×9.81×70 = 1373.4 ⇒ v = 37 m/s; (d) t = v/a = 25/9.81 = 2.6 s; (e) y = 0.5gt² ⇒ t = √(600/9.81) = 7.8 s."
+  },
+  {
+    "question_number": 2.41,
+    "Questions": "A marble dropped from a bridge strikes the water in 5.0 s. Calculate (a) the speed with which it strikes and (b) the height of the bridge.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) v = gt = 9.81×5 = 49 m/s; (b) y = 0.5gt² = 0.5×9.81×25 = 122.6 m ≈ 0.12 km."
+  },
+  {
+    "question_number": 2.42,
+    "Questions": "A stone is thrown straight downward with initial speed 8.0 m/s from a height of 25 m. Find (a) the time it takes to reach the ground and (b) the speed with which it strikes.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) y = ut + 0.5gt² ⇒ 25 = 8t + 0.5×9.81t² ⇒ t = 1.6 s; (b) v = u + gt = 8 + 9.81×1.6 ≈ 24 m/s."
+  },
+  {
+    "question_number": 2.43,
+    "Questions": "A baseball is thrown straight upward with a speed of 30 m/s. (a) How long will it rise? (b) How high will it rise? (c) How long after it leaves the hand will it return to the starting point? (d) When will its speed be 16 m/s?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) t = v/g = 30/9.81 ≈ 3.1 s; (b) h = v²/2g = 900/19.62 ≈ 46 m; (c) total time = 2×3.1 = 6.2 s; (d) v = v₀ - gt ⇒ t = (30 - 16)/9.81 ≈ 1.4 s and 4.7 s."
+  },
+  {
+    "question_number": 2.44,
+    "Questions": "A bottle dropped from a balloon reaches the ground in 20 s. Determine the height of the balloon if (a) it was at rest in the air and (b) it was ascending with a speed of 50 m/s when the bottle was dropped.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) y = 0.5gt² = 0.5×9.81×400 = 1962 m ≈ 2.0 km; (b) y = ut + 0.5gt² = 50×20 + 0.5×9.81×400 = 1000 + 1962 = 2962 m ≈ 0.96 km above the ground."
+  },
+  {
+    "question_number": 2.45,
+    "Questions": "Two balls are dropped to the ground from different heights. One is dropped 1.5 s after the other, but they both strike the ground at the same time, 5.0 s after the first was dropped. (a) What is the difference in the heights from which they were dropped? (b) From what height was the first ball dropped?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) Difference in time = 1.5 s ⇒ h = 0.5g(1.5²) = 11.0 m ≈ 6.3 m; (b) h = 0.5×9.81×5² = 122.6 m ≈ 0.12 km."
+  },
+  {
+    "question_number": 2.46,
+    "Questions": "A nut comes loose from a bolt on the bottom of an elevator as the elevator is moving up the shaft at 3.00 m/s. The nut strikes the bottom of the shaft in 2.00 s. (a) How far from the bottom of the shaft was the elevator when the nut fell off? (b) How far above the bottom was the nut 0.25 s after it fell off?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) y = v₀t + 0.5gt² = 3×2 + 0.5×9.81×4 = 6 + 19.62 = 25.6 m ≈ 13.6 m; (b) y = 3×0.25 + 0.5×9.81×0.25² ≈ 0.75 + 0.31 = 1.06 m ≈ 14 m above the base."
+  },
+  {
+    "question_number": 2.47,
+    "Questions": "A marble, rolling with speed 20 cm/s, rolls off the edge of a table that is 80 cm high. (a) How long does it take to drop to the floor? (b) How far, horizontally, from the table edge does the marble strike the floor?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) t = √(2h/g) = √(1.6/9.81) ≈ 0.40 s; (b) x = vt = 0.2×0.4 = 0.08 m = 8.1 cm."
+  },
+  {
+    "question_number": 2.48,
+    "Questions": "A body projected upward from the level ground at an angle of 50° with the horizontal has an initial speed of 40 m/s. (a) How long will it take to hit the ground? (b) How far from the starting point will it strike? (c) At what angle with the horizontal will it strike?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) v_y = 40 sin 50° = 30.64 m/s ⇒ t = 2v_y / g ≈ 6.3 s; (b) vₓ = 40 cos 50° ≈ 25.7 m/s ⇒ x = vₓ × t ≈ 0.16 km; (c) Same angle of 50° (symmetry)."
+  },
+  {
+    "question_number": 2.49,
+    "Questions": "A body is projected downward at an angle of 30° with the horizontal from the top of a building 170 m high. Its initial speed is 40 m/s. (a) How long will it take before striking the ground? (b) How far from the foot of the building will it strike? (c) At what angle with the horizontal will it strike?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) v_y = 40 sin 30° = 20 m/s ⇒ use y = v₀t + 0.5gt² ⇒ t ≈ 4.2 s; (b) vₓ = 40 cos 30° = 34.64 m/s ⇒ x = vₓ × t ≈ 0.15 km; (c) Combine vₓ and v_y final for θ ≈ 60°."
+  },
+  {
+    "question_number": 2.50,
+    "Questions": "A hose lying on the ground shoots a stream of water upward at an angle of 40° to the horizontal. The speed of the water is 20 m/s as it leaves the hose. How high up will it strike a wall which is 8.0 m away?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "vₓ = 20 cos 40° ≈ 15.3 m/s; t = x / vₓ = 8.0 / 15.3 ≈ 0.52 s; v_y = 20 sin 40° ≈ 12.9 m/s ⇒ y = v_y t - 0.5gt² = 6.7 - 1.33 = 5.4 m."
+  },
+  {
+    "question_number": 2.51,
+    "Questions": "A World Series batter hits a home run ball with a velocity of 40 m/s at an angle of 26° above the horizontal. A fielder who can reach 3.0 m above the ground is backed up against the bleacher wall, which is 110 m from home plate. The ball was 120 cm above the ground when hit. How high above the fielder’s glove does the ball pass?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "vₓ = 40 cos 26° ≈ 36.0 m/s ⇒ t = 110 / 36 = 3.06 s; v_y = 40 sin 26° ≈ 17.6 m/s ⇒ y = 1.2 + 17.6×3.06 - 0.5×9.81×9.36 = 6.0 m above glove."
+  },
+  {
+    "question_number": 2.52,
+    "Questions": "Prove that a gun will shoot three times as high when its angle of elevation is 60° as when it is 30°, but the bullet will carry the same horizontal distance.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Use H = (v² sin² θ)/(2g). Since sin² 60° = 0.75 and sin² 30° = 0.25, H_60 / H_30 = 3. Ranges equal since R = v² sin 2θ/g and sin 2θ = sin 60° = sin 120°."
+  },
+  {
+    "question_number": 2.53,
+    "Questions": "A ball is thrown upward at an angle of 30° to the horizontal and lands on the top edge of a building that is 20 m away. The top edge is 5.0 m above the throwing point. How fast was the ball thrown?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Use kinematic equations with x = 20 m, y = 5 m, angle = 30°. Solve system of equations: x = v cos(30°) t and y = v sin(30°) t - 0.5 g t² ⇒ v = 20 m/s."
+  },
+  {
+    "question_number": 2.54,
+    "Questions": "A ball is thrown straight upward with a speed v from a point h meters above the ground. Show that the time taken for the ball to strike the ground is t = (v/g)[1 + √(1 + 2gh/v²)].",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Use y = vt - 0.5gt² = -h and solve the resulting quadratic for t. Rearranging yields the formula: t = (v/g)[1 + √(1 + 2gh/v²)]."
+  }
+]

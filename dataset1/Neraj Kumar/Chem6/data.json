@@ -1,0 +1,1222 @@
+[
+{
+    "ID": "I.1",
+    "Questions": "The reaction which proceeds towards completion in the forward direction is\n(a) Fe₂O₃ + 6HCl ⇌ 2FeCl₃ + 3H₂O\n(b) SnCl₄ + Hg₂Cl₂ ⇌ SnCl₂ + 2HgCl₂\n(c) NH₃ + H₂O + NaCl ⇌ NH₄Cl + NaOH\n(d) 2CuI + I₂ + 4K⁺ ⇌ 2Cu²⁺ + 4KI",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.2",
+    "Questions": "The concentration of a pure solid or liquid phase is not included in the expression of equilibrium constant because\n(a) solid and liquid concentrations are independent of their quantities.\n(b) solid and liquids react slowly.\n(c) solid and liquids at equilibrium do not interact with gaseous phase.\n(d) the molecules of solids and liquids cannot migrate to the gaseous phase.",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.3",
+    "Questions": "For the reversible reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) at 500°C, the value of Kp is 1.44 × 10⁻⁵ when partial pressure is measured in atmospheres. The corresponding value of Kc, with concentration in mole litre⁻¹, is\n(a) 1.44×10⁻⁵ / (0.082×500)⁻²\n(b) 1.44×10⁻⁵ / (8.314×773)⁻²\n(c) 1.44×10⁻⁵ / (0.082×773)²\n(d) 1.44×10⁻⁵ / (0.082×773)⁻²",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.4",
+    "Questions": "When two reactants, A and B are mixed to give products C and D, the reaction quotient Q, at the initial stages of the reaction\n(a) is zero\n(b) decreases with time\n(c) is independent of time\n(d) increases with time",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.5",
+    "Questions": "At constant temperature, the equilibrium constant (Kp) for the decomposition reaction: N₂O₄ ⇌ 2NO₂ is expressed by Kp = (4x²P)/(1-x²), where P = total pressure at equilibrium, x = extent of decomposition. Which one of the following statements is true?\n(a) Kp increases with increase of P.\n(b) Kp increases with increase of x.\n(c) Kp increases with decrease of x.\n(d) Kp remains constant with change in P and x.",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.6",
+    "Questions": "For the reaction: CaCO₃(s) ⇌ CaO(s) + CO₂(g), Kp is\n(a) Pco₂\n(b) Pco₂ / PCaCO₃\n(c) [CaO][CO₂] / [CaCO₃]\n(d) PCaCO₃ / (PCaO * PCO₂)",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.7",
+    "Questions": "XeF₆ + H₂O ⇌ XeOF₄ + 2HF; equilibrium constant = K₁.\nXeO₄ + XeF₆ ⇌ XeOF₄ + XeO₃F₂; equilibrium constant = K₂.\nThen equilibrium constant for the following reaction will be:\nXeO₄ + 2HF ⇌ XeO₃F₂ + H₂O\n(a) K₁/K₂\n(b) K₁+ K₂\n(c) K₂/K₁\n(d) K₂-K₁",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.8",
+    "Questions": "Kp for formation of ethane from hydrogen and ethylene is 5.5 × 10¹⁸ atm⁻¹ and Kp for formation of ethylene from hydrogen and acetylene is 5 × 10²⁶ atm⁻¹ at 323 K. What is Kp for the reaction between hydrogen and acetylene to form ethane at 323 K?\n(a) 2.75 × 10⁴⁵ atm⁻²\n(b) 1.1 x 10⁸\n(c) 9.09 × 10⁻⁹\n(d) 3.63 ×10⁻⁴⁶ atm²",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.9",
+    "Questions": "For a reversible reaction: A + B ⇌ C, if the concentrations of the reactants are doubled at a definite temperature, then equilibrium constant will\n(a) be doubled\n(b) be halved\n(c) be one fourth\n(d) remain same",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.10",
+    "Questions": "Kp/Kc for reaction: CO(g) + 1/2 O₂(g) ⇌ CO₂(g) is\n(a) 1/√RT\n(b) √RT\n(c) 1/RT\n(d) 1",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.11",
+    "Questions": "The equilibrium constant for the reaction: N₂(g) + O₂(g) ⇌ 2NO(g) is K₁ and the equilibrium constant for the reaction: NO(g) ⇌ 1/2 N₂(g) + 1/2 O₂(g) is K₂, both at the same temperature. K₁ and K₂ are related as\n(a) K₁ = (1/K₂)²\n(b) K₁ = K₂²\n(c) K₂ = (1/K₁)²\n(d) K₂ = K₁²",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.12",
+    "Questions": "Equilibrium constants for some reactions are given. In which of the following case does the reaction go farthest to completion?\n(a) K = 10²\n(b) K = 10⁻²\n(c) K = 10\n(d) K=1",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.13",
+    "Questions": "For a reversible reaction, the rate constants for the forward and backward reactions are 0.16 and 4 × 10⁻⁴, respectively. What is the value of equilibrium constant of the reaction?\n(a) 0.25 × 10⁶\n(b) 2.5 × 10⁵\n(c) 4×10⁻⁶\n(d) 4 × 10⁴",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.14",
+    "Questions": "The following reaction has an equilibrium constant Kc equal to 3.07 × 10⁻⁴ at 24°C\n2NOBr(g) ⇌ 2NO(g) + Br₂(s)\nThe correct set of concentrations at which the rate of forward reaction is greater than that of backward reaction is\n(a) [NOBr] = 0.06 M, [NO] = 0.015 M, [Br₂] = 0.01 M\n(b) [NOBr] = 0.15 M, [NO] = 0.015 M, [Br₂] = 0.014 M\n(c) [NOBr] = 0.18 M, [NO] = 0.012 M, [Br₂] = 0.02 M\n(d) [NOBr] = 0.045 M, [NO] = 0.0105 M, [Br₂] = 0.01 M",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.15",
+    "Questions": "NO₂ is involved in the formation of smog and acid rain. It is formed importantly as: NO(g) + O₃(g) ⇌ NO₂(g) + O₂(g); Kc = 6.0 × 10³⁴\nThe air over a metropolitan city contained 1.0 × 10⁻⁸ M-NO, 1.0 × 10⁻⁶ M-O₃, 2.5 × 10⁻⁴ M-NO₂, and 8.2 × 10⁻³ M-O₂. These data suggest that\n(a) more of NO and O₃ tend to be formed\n(b) more of NO₂ and O₂ tend to be formed\n(c) more of NO₂ and O₃ tend to be formed\n(d) no tendency to change because the reaction is at equilibrium",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.16",
+    "Questions": "For the reaction: I₂(g) ⇌ 2I(g), Kc = 1.0 ×10⁻² mol lit⁻¹. What volume of the vessel should be taken so that at equilibrium 1 mole of I₂ and 0.5 mole of 'I' are present at equilibrium?\n(a) 25 l\n(b) 0.04 l\n(c) 0.25 l\n(d) 5 l",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.17",
+    "Questions": "The equilibrium constant for the reaction: 3C₂H₂ ⇌ C₆H₆ is 4.0 at T K. If the equilibrium concentration of C₂H₂ is 0.5 M, then the concentration of C₆H₆ at equilibrium is\n(a) 0.5 M\n(b) 1.5 M\n(c) 5 × 10⁻² M\n(d) 0.25 M",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.18",
+    "Questions": "The equilibrium mixture for the reaction: 2H₂S(g) ⇌ 2H₂(g) + S₂(g) has 1 mole H₂S, 0.20 mole H₂ and 0.80 mole of S₂ in a 2 L vessel. Kc for the reaction is\n(a) 0.16 M\n(b) 0.008 M\n(c) 0.016 M\n(d) 0.032 M",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.19",
+    "Questions": "A gaseous mixture contains 0.30 moles CO, 0.10 moles H₂, and 0.03 moles H₂O vapour and an unknown amount of CH₄ per litre. This mixture is at equilibrium at 1200 Κ.\nCO(g) + 3H₂(g) ⇌ CH₄(g) + H₂O(g); Kc = 3.9\nWhat is the concentration of CH₄ in this mixture? The equilibrium constant Kc equals 3.92.\n(a) 0.39 M\n(b) 0.039 M\n(c) 0.78 M\n(d) 0.078 M",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.20",
+    "Questions": "For the reaction: 2NOCl(g) ⇌ 2NO(g) + Cl₂(g), ΔH° = 18 kcal and ΔS° = 30 cal/K at 300 K. The equilibrium constant, Kp° of the reaction at 300 K is\n(a) e¹⁵\n(b) e⁻¹⁵\n(c) e⁻¹⁸\n(d) e⁻¹²",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.21",
+    "Questions": "For the gas phase reaction: 2NO(g) ⇌ N₂(g) + O₂(g); ∆H = −43.5 kcal. Which one of the following is true for the reaction: N₂(g) + O₂(g) ⇌ 2NO(g)?\n(a) K is independent of T\n(b) K decreases as T decreases\n(c) K increases as T decreases\n(d) K varies with addition of NO",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.22",
+    "Questions": "The equilibrium constant for the reaction: N₂(g) + O₂(g) ⇌ 2NO(g) is 4.0 × 10⁻⁴ at 2000 K. In the presence of a catalyst, the equilibrium is attained 10 times faster. Therefore, the equilibrium constant in presence of the catalyst at 2000 K is\n(a) 4×10⁻³\n(b) 4 × 10⁻⁵\n(c) 4×10⁻⁴\n(d) Unpredictable",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.23",
+    "Questions": "What is the approximate value of log Kp for the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) at 25°C. The standard enthalpy of formation of NH₃(g) is -40.0 kJ/mol and standard entropies of N₂(g), H₂(g) and NH₃(g) are 191, 130 and 192 JK⁻¹ mol⁻¹, respectively.\n(a) 0.04\n(b) 7.05\n(c) 8.6\n(d) 3.73",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.24",
+    "Questions": "If K₁ and K₂ are the equilibrium constants for a reversible reaction at T₁ K and T₂ K temperature, respectively (T₁ < T₂) and the reaction takes place with neither heat evolution nor absorption, then\n(a) K₁ > K₂ at high temperature\n(b) K₁ < K₂ at high temperature\n(c) K₁ = K₂ only at high temperature\n(d) K₁ = K₂ at any temperature",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.25",
+    "Questions": "From the following data:\n(i) H₂(g) + CO₂(g) ⇌ H₂O(g) + CO(g); K₂₀₀₀ K = 4.4\n(ii) 2H₂O(g) ⇌ 2H₂(g) + O₂(g); K₂₀₀₀ K = 5.31 × 10⁻¹⁰\n(iii) 2CO(g) + O₂(g) ⇌ 2CO₂(g); K₁₀₀₀ K = 2.24 × 10²²\nShow whether the reaction (iii) is exothermic or endothermic or thermal?\n(a) Exothermic\n(b) Endothermic\n(c) Thermal\n(d) Cannot say",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.26",
+    "Questions": "In the decomposition equilibrium of a certain metallic carbonate, the partial pressure of CO₂ becomes a hundred fold when the temperature increased from 400 K to 500 K. What is the mean value of ΔΗ° for the given range of temperature?\n(a) 18.4 kcal/mol\n(b) 13.84 kcal/mol\n(c) 14.83 kcal/mol\n(d) 10.83 kcal/mol",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.27",
+    "Questions": "The equilibrium constants for the reaction: A₂ ⇌ 2A at 500 K and 1000 K are 1 × 10⁻¹⁰ and 1 × 10⁻⁵, respectively. The reaction is\n(a) Exothermic\n(b) Very slow\n(c) Very fast\n(d) Endothermic",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.28",
+    "Questions": "The activation energies for the forward and reverse elementary reactions in the system: A ⇌ B, are 10.303 and 8.000 kcal, respectively, at 500 K. Assuming the pre-exponential factor to be the same for both the forward and reverse steps, the equilibrium constant of the reaction at 500 K is\n(a) 1.00\n(b) 10.0\n(c) 100\n(d) 0.1",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.29",
+    "Questions": "ΔG° for the reaction: X + Y ⇌ C is -4.606 kcal at 1000 K. The equilibrium constant for the reverse mode of the reaction is\n(a) 100\n(b) 10\n(c) 0.01\n(d) 0.1",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.30",
+    "Questions": "For a gaseous equilibrium: 2A(g) ⇌ 2B(g) + C(g), Kp has a value 1.8 at 700 K. The value of Kp for the equilibrium: 2B(g) + C(g) ⇌ 2A(g) at that temperature is about\n(a) 0.031\n(b) 32\n(c) 57.4\n(d) 103.3",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.31",
+    "Questions": "Amounts of 0.8 mol of PCl₅ and 0.2 mole of PCl₃ are mixed in a 1 l flask. At equilibrium, 0.4 mole of PCl₃ is present. The equilibrium constant for the reaction, PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) will be\n(a) 0.05 mol l⁻¹\n(b) 0.13 mol l⁻¹\n(c) 0.013 mol l⁻¹\n(d) 0.60 mol l⁻¹",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.32",
+    "Questions": "One mole of pure PCl₅ is placed in an evacuated container and maintained at 250°C. The equilibrium is established at total pressure of 2 atm. What is the partial pressure of chlorine at equilibrium? PCl₅(g) ⇌ PCl₃(g) + Cl₂(g); Kp = 1.6 atm\n(a) 0.4 atm\n(b) 0.67 atm\n(c) 0.80 atm\n(d) 0.64 atm",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.33",
+    "Questions": "For the reaction: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g), if initial moles of PCl₅ is ‘x', a is the degree of dissociation and P is total pressure at equilibrium, then P_PCl₃ * P⁻¹ is equal to\n(a) x/(1+x)\n(b) a/(a+x)\n(c) a/(1+a)\n(d) a/(x+ax)",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.34",
+    "Questions": "In a 5.76 l vessel, 0.5 moles of H₂ gas and 0.5 moles of I₂ vapours are allowed to react to form HI(g) at 447°C, then total pressure of gases at equilibrium would be (R = 0.08 l-atm/K-mol)\n(a) 20 atm\n(b) 10 atm\n(c) 5 atm\n(d) 1 atm",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.35",
+    "Questions": "In a closed tube, HI(g) is heated at 440°C up to establishment of equilibrium. If it dissociates into H₂(g) and I₂(g) up to 22%, the dissociation constant is\n(a) 0.282\n(b) 0.0796\n(c) 0.0199\n(d) 1.99",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.36",
+    "Questions": "For the reaction: H₂(g) + I₂(g) ⇌ 2HI(g), the value of equilibrium constant is 9.0. The degree of dissociation of HI will be\n(a) 0.5\n(b) 0.33\n(c) 0.4\n(d) 0.67",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.37",
+    "Questions": "At 444°C, HI is 30% dissociated. If initially 3 moles of HI are taken, the number of moles of HI at equilibrium is\n(a) 0.9\n(b) 2.1\n(c) 0.45\n(d) 1.8",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.38",
+    "Questions": "One mole of N₂O₄ (g) at 300 K is kept in a closed container under one atm. It is heated to 600 K when 20% by mass of N₂O₄(g) decomposes to NO₂(g). The resultant pressure is\n(a) 1.2 atm\n(b) 2.4 atm\n(c) 2.0 atm\n(d) 1.0 atm",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.39",
+    "Questions": "For the reaction: N₂O₄(g) ⇌ 2NO₂(g), the relation between the degree of dissociation, α, of N₂O₄(g) at pressure, P, with its equilibrium constant Kp is\n(a) α = √((K_p/P) / (4+K_p/P))\n(b) α = Kp / (4+Kp)\n(c) α = [ (K_p/P) / (4+K_p/P) ]¹/²\n(d) α = [ Kp / (4+Kp) ]¹/²",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.40",
+    "Questions": "At total pressure P₁ atm and P₂ atm, N₂O₄ is dissociated to an extent of 33.33% and 50.00%, respectively. The ratio of pressures P₁ and P₂ is\n(a) 3:8\n(b) 2:1\n(c) 8:3\n(d) 1:2",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.41",
+    "Questions": "At 0°C and 1 atm pressure, 1 L of N₂O₄ decomposes to NO₂ according to the equation N₂O₄(g) ⇌ 2NO₂ (g). To what extent has the decomposition proceeded when the original volume is 25% less than that of existing volume?\n(a) 0.67\n(b) 0.33\n(c) 0.25\n(d) 0.75",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.42",
+    "Questions": "Forty per cent of a mixture of 0.2 mol of N₂ and 0.6 mol of H₂ react to give NH₃ according to the equation: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) at constant temperature and pressure. Then, the ratio of the final volume to the initial volumes of gases is\n(a) 4:5\n(b) 5:4\n(c) 7:10\n(d) 8:5",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.43",
+    "Questions": "An amount of 4 moles of NH₃ gas is introduced with a previously evacuated 1 L container in which it is partially dissociated at high temperature as 2NH₃(g) ⇌ N₂(g) + 3H₂(g). At equilibrium, 2 mole of NH₃(g) remained. The value of Kc for the reaction is\n(a) 1.5M²\n(b) 0.75M²\n(c) 0.44M²\n(d) 2.25M²",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.44",
+    "Questions": "In a closed container maintained at 1 atm pressure and 25°C, 2 moles of SO₂(g) and 1 mole of O₂(g) were allowed to react to form SO₃(g) under the influence of a catalyst. 2SO₂(g) + O₂(g) ⇌ 2SO₃(g). At equilibrium, it was found that 50% of SO₂(g) was converted to SO₃(g). The partial pressure of O₂(g) at equilibrium will be\n(a) 0.17 atm\n(b) 0.5 atm\n(c) 0.33 atm\n(d) 0.20 atm",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.45",
+    "Questions": "One mole of ethanol is treated with one mole of ethanoic acid at 25°C. One-fourth of the acid changes into ester at equilibrium. The equilibrium constant for the reaction will be\n(a) 1/9\n(b) 4/9\n(c) 9\n(d) 9/4",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.46",
+    "Questions": "One mole each of A and B and 3 moles each of C and D are placed in 1 L flask. If equilibrium constant is 2.25 for the reaction: A + B ⇌ C + D, equilibrium concentrations of A and C will be in the ratio\n(a) 2:3\n(b) 3:2\n(c) 1:2\n(d) 2:1",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.47",
+    "Questions": "For the reaction: XY₂(g) ⇌XY(g)+Y(g), the reaction is started with initial pressure of XY₂, 600 mm Hg. The total pressure for gases at equilibrium is 800 mm Hg. Assuming volume and temperature of the system remains constant, the value of Kp is\n(a) 100 atm\n(b) 100 mm Hg\n(c) 0.01 atm\n(d) 400 mm Hg",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.48",
+    "Questions": "For the reaction: A + B ⇌ C + D, the initial concentration of A and B is equal, but the equilibrium concentration of C is twice that of equilibrium concentration of A. The equilibrium constant is\n(a) 4\n(b) 9\n(c) 1/4\n(d) 1/9",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.49",
+    "Questions": "I₂ + I⁻ ⇌ I₃⁻. This reaction is set up in aqueous medium. We start with 1 mol of I₂ and 0.5 mol of I⁻ in 1L flask. After equilibrium is reached, excess of AgNO₃ gave 0.25 mol of yellow precipitate. Equilibrium constant is\n(a) 1.33\n(b) 2.66\n(c) 0.375\n(d) 0.75",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.50",
+    "Questions": "The equilibrium constant for the mutarotation, α-D-glucose ⇌ β-D-glucose is 1.8. What per cent of the α-form remains under equilibrium?\n(a) 35.7\n(b) 64.3\n(c) 55.6\n(d) 44.4",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.51",
+    "Questions": "For the reaction: 2NOBr(g) ⇌ 2NO(g) + Br₂(g), the ratio Kp/P, where P is the total pressure of gases at equilibrium and P_Br₂ = P/9 at a certain temperature, is\n(a) 1/9\n(b) 1/81\n(c) 1/27\n(d) 1/3",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.52",
+    "Questions": "The progress of the reaction A ⇌ nB, with time is represented by the graph given below. The value of n is\n[Graph showing concentration vs time. Curve A starts at 0.5 and decreases to 0.3. Curve B starts at 0.1 and increases to 0.5.]\n(a) 1\n(b) 2\n(c) 3\n(d) 4",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.53",
+    "Questions": "Kp for the reaction: N₂O₄(g) ⇌ 2NO₂ is 640 mm at 775 K. The percentage dissociation of N₂O₄ at equilibrium pressure of 160 mm is\n(a) 100/√2\n(b) 50\n(c) 50/√2\n(d) 10√2",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.54",
+    "Questions": "At 127°C and 1 atm pressure, PCl₅(g) is partially dissociated into PCl₃(g) and Cl₂(g) as: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). The density of the equilibrium mixture is 3.5 g/L. Percentage dissociation of PCl₅ is (R = 0.08 L-atm/K-mol, P = 31, Cl = 35.5)\n(a) 46.28\n(b) 86.16\n(c) 15.86\n(d) 53.72",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.55",
+    "Questions": "At T K, a compound AB₂(g) dissociates according to the reaction: 2AB₂(g) ⇌ 2AB(g) + B₂(g), with a degree of dissociation 'x' which is small compared with unity. The expression for 'x' in terms of the equilibrium constant, Kp and the total pressure, P, is\n(a) Kp/P\n(b) (Kp)¹/³\n(c) (2Kp/P)¹/³\n(d) (Kp/P)¹/³",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.56",
+    "Questions": "A quantity of 25 g sample of BaO₂ is heated to 954 K in a closed and rigid evacuated vessel of 8.21 L capacity. What percentage of peroxide is converted into oxide? 2BaO₂ (s) ⇌ 2BaO(s) + O₂ (g); Kp = 0.5 atm\n(a) 20%\n(b) 50%\n(c) 75%\n(d) 80%",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.57",
+    "Questions": "For the reaction: NH₂COONH₄(s) ⇌ 2NH₃(g) + CO₂(g), Kp = 3.2 × 10⁻⁵ atm³. The total pressure of the gaseous products when sufficient amount of reactant is allowed to achieve equilibrium, is\n(a) 0.02 atm\n(b) 0.04 atm\n(c) 0.06 atm\n(d) 0.095 atm",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.58",
+    "Questions": "At a certain temperature, Kp for the dissociation of solid CaCO₃ is 4.5 × 10⁻² atm and for the reaction C(s) + CO₂(g) ⇌ 2CO(g), the Kp value is 2.0 atm. The pressure of carbon monoxide at this temperature, when solid carbon, CaO and CaCO₃ are mixed together and allowed to attain equilibrium, is\n(a) 0.09 atm\n(b) 0.30 atm\n(c) 2.1 atm\n(d) 0.47 atm",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.59",
+    "Questions": "The value of Kp for the equilibrium: NH₄HS(s) ⇌ NH₃(g) + H₂S(g) at a certain temperature and total 2 atm pressure at equilibrium will be\n(a) 0.25 atm²\n(b) 1.0 atm²\n(c) 4.0 atm²\n(d) 1.0 atm",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.60",
+    "Questions": "Iron fillings and water were placed in a 5L vessel and sealed. The tank was heated to 1000°C. Upon analysis, the tank was found to contain 1.2 g of H₂(g) and 54.0 g of H₂O(g). If the reaction is represented as: 3Fe(s) + 4H₂O(g) ⇌ Fe₃O₄(s) + 4H₂(g), the value of equilibrium constant is\n(a) 0.2\n(b) 0.04\n(c) 0.008\n(d) 0.0016",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.61",
+    "Questions": "At 1000°C and a pressure of 16 atm, the equilibrium constant of the reaction: CO₂(g) + C(s) ⇌ 2CO(g) is such that for every nine moles of CO, there is one mole of CO₂. For what pressure of the mixture, is the ratio CO:CO₂ = 4:1? The temperature remains 1000°C.\n(a) 40.5 atm\n(b) 81 atm\n(c) 33.75 atm\n(d) 6.7 atm",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.62",
+    "Questions": "At a certain temperature, Kp for the reaction: 2CO(g) ⇌ CO₂(g) + C(graphite) is 0.1 atm⁻¹. What is the ratio of partial pressures of CO and CO₂ at equilibrium, taking the total pressure to be 1.1 atm?\n(a) 9:1\n(b) 10:1\n(c) 1:10\n(d) 1:9",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.63",
+    "Questions": "For the equilibrium: LiCl·3NH₃(s) ⇌ LiCl·NH₃(s) + 2NH₃(g); Kp = 9 atm² at 27°C. A 8.21 L vessel contains 0.1 mole of LiCl.NH₃(s). How many moles of NH₃(g) should be added to the flask at this temperature to derive the backward reaction for completion?\n(a) 0.8\n(b) 1.0\n(c) 1.2\n(d) 1.1",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.64",
+    "Questions": "The reaction, ZnO(s) + CO(g) ⇌ Zn(g) + CO₂(g), has an equilibrium constant of 1 atm at 1500 K. The equilibrium partial pressure of zinc vapour in a reaction vessel if an equimolar mixture of CO and CO₂ is brought into contact with solid ZnO at 1500 K and the equilibrium is achieved at 1 atm, is\n(a) 0.68 atm\n(b) 0.76 atm\n(c) 0.24 atm\n(d) 0.5 atm",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.65",
+    "Questions": "If 0.3 moles of hydrogen gas and 2.0 moles of sulphur solid are heated to 87°C in a 2.0 L vessel, what will be the partial pressure of H₂S gas at equilibrium? (Given: R = 0.08 l-atm/K-mol)\nH₂(g) + S(s) ⇌ H₂S(g); Kc = 0.08\n(a) 0.32 atm\n(b) 0.43 atm\n(c) 0.62 atm\n(d) 0.48 atm",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.66",
+    "Questions": "Consider the following equilibrium in a closed container: N₂O₄(g) ⇌ 2NO₂(g). At a fixed temperature, the volume of the reaction container is halved. For this change, which of the following statement holds true regarding the equilibrium constant (Kp) and degree of dissociation (α)?\n(a) neither Kp nor α changes\n(b) both Kp and α changes\n(c) Kp changes, but α does not change\n(d) Kp does not change, but α changes",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.67",
+    "Questions": "Which of the following hypothetical reactions is favoured by increase of temperature as well as pressure?\n(a) A(s)+2B(g) ⇌ C(g) + D(g); ∆H = +ve\n(b) A(s) + 2B(g) ⇌ 2C(g) + D(g); ΔH = +ve\n(c) 2A(g) + B(g) ⇌ 2C(g) + D(s); ΔH = +ve\n(d) 2A(s) + 2B(g) ⇌ 2C(g) + 2D(g); ΔH = -ve",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.68",
+    "Questions": "In the system AB(s) ⇌ A(g) + B(g), doubling the quantity of AB(s) would\n(a) increase the amount of A to double its value\n(b) increase the amount of B to double its value\n(c) increase the amounts of both A and B to some extent\n(d) cause no changes in the amounts of A and B",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.69",
+    "Questions": "In a system: A(s) ⇌ 2B(g) + 3C(g), if the concentration of C at equilibrium is increased by a factor of 2, it will cause the equilibrium concentration of B to decrease by\n(a) two times the original value\n(b) one half of its original value\n(c) 2√2 times its original value\n(d) 8 times its original value",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.70",
+    "Questions": "The reaction: MgCO₃(s) ⇌ MgO(s) + CO₂(g) is in progress. If number of moles of MgO in the vessel is doubled at an instance\n(a) the reaction quotient, Q is halved\n(b) the reaction quotient, Q is doubled\n(c) the moles of CO₂ present at equilibrium is halved\n(d) the partial pressure of CO₂ in the vessel remains unchanged",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.71",
+    "Questions": "When pressure is applied to the equilibrium system: Ice ⇌ water, which of the following phenomenon will happen?\n(a) more ice will be formed\n(b) ice will sublime\n(c) more water will be formed\n(d) equilibrium will not disturb",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.72",
+    "Questions": "The equilibrium: SOCl₂(g) ⇌ SO₂(g) + Cl₂(g) is attained at 25°C in a closed container and helium gas is introduced. Which of the following statements is correct?\n(a) concentration of SO₂ is increased\n(b) more Cl₂ is formed\n(c) concentrations of all change\n(d) concentrations will not change",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.73",
+    "Questions": "When calcium acetate is dissolved in water, heat is evolved. If the temperature is raised, the solubility of calcium acetate\n(a) increases\n(b) decreases\n(c) is not affected\n(d) first increases and then decreases",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.74",
+    "Questions": "The Haber's process for the manufacture of ammonia is usually carried out at about 500°C. If a temperature of about 250°C was used instead of 500°C,\n(a) no ammonia would be formed at all\n(b) the percentage of ammonia in the equilibrium mixture would be too low\n(c) a catalyst would be of no use at all at this temperature\n(d) the percentage of ammonia in the equilibrium mixture would be too high",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.75",
+    "Questions": "Densities of diamond and graphite are 3.5 and 2.4 g/ml, respectively. The increase in pressure (at the constant temperature) at the equilibrium in C (diamond) ⇌ C (graphite) will\n(a) favour the forward reaction\n(b) favour the backward reaction\n(c) have no effect\n(d) increases the equilibrium constant",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.76",
+    "Questions": "In a flask, colourless N₂O₄ is in equilibrium with brown coloured NO₂. At equilibrium, when the flask is heated at 100°C the brown colour deepens and on cooling it becomes less coloured. The change in enthalpy, ΔH, for the system is\n(a) negative\n(b) positive\n(c) zero\n(d) undefined",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.77",
+    "Questions": "For the chemical reaction: 3X(g) + Y(g) ⇌ X₃Y(g), the amount of X₃Y at equilibrium is affected by\n(a) temperature and pressure\n(b) temperature only\n(c) pressure only\n(d) temperature, pressure and catalyst",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.78",
+    "Questions": "What will the change on increasing the pressure at equilibrium: water ⇌ water vapour?\n(a) The boiling point of water will increase.\n(b) The boiling point of water will decrease.\n(c) The boiling point of water will not change.\n(d) Boiling point is not related with pressure.",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.79",
+    "Questions": "In equilibrium: SCN⁻(aq) + Fe³⁺(aq) ⇌ [Fe(SCN)²⁺](aq) (colourless yellow deep red). If thiocyanate ions are added in equilibrium mixture\n(a) The solution becomes colourless.\n(b) The yellow colour of solution deepens.\n(c) The red colour of the solution deepens.\n(d) Concentration of [Fe(SCN)]²⁺ ion will decrease.",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.80",
+    "Questions": "An aqueous solution of volume 500 ml, when the reaction: 2Ag⁺(aq) + Cu(s) ⇌ Cu²⁺(aq) + 2Ag(s), reached equilibrium, the concentration of Cu²⁺ ions was x M. To this solution, 500 ml of water is added. At the new equilibrium, the concentration of Cu²⁺ ions would be\n(a) 2x M\n(b) x M\n(c) between x and 0.5x M\n(d) less than 0.5x M",
+    "Answers": "(d)"
+},
+{
+    "ID": "I.81",
+    "Questions": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). In the above reaction, the partial pressure of PCl₃, Cl₂ and PCl₅ are 0.3, 0.2 and 0.6 atm, respectively. If partial pressure of PCl₃ and Cl₂ was increased twice at the new equilibrium, what will be the new partial pressure of PCl₅ (in atm)?\n(a) 0.3\n(b) 1.2\n(c) 2.4\n(d) 0.15",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.82",
+    "Questions": "In the equilibrium mixture: H₂(g) + I₂(g) ⇌ 2HI(g), the mole ratio of gases are √2: √2:10, respectively. What would be the effect on the mole ratio on adding 5 mole of He gas at constant pressure?\n(a) No change\n(b) The new molar ratio becomes 1:1:5\n(c) The new molar ratio becomes 2:2:5\n(d) The new molar ratio becomes 2:2:5√2",
+    "Answers": "(a)"
+},
+{
+    "ID": "I.83",
+    "Questions": "One mole of He (g, colourless) is added to the equilibrium mixture containing N₂O₄ (g, colourless) and NO₂ (g, red-brown) present in a cylinder piston arrangement maintained at constant pressure and temperature. It will result\n(a) no change in colour of the equilibrium mixture.\n(b) lightening the colour of the equilibrium mixture.\n(c) darkening the colour of the equilibrium mixture.\n(d) no effect on the equilibrium composition.",
+    "Answers": "(b)"
+},
+{
+    "ID": "I.84",
+    "Questions": "Consider the formation of SO₃ according to the reaction: 2SO₂(g) + O₂(g) ⇌ 2SO₃(g); ΔH = -198 kJ. Which of the following may change the value of equilibrium constant of the above reaction?\n(a) Adding He gas to reaction vessel\n(b) Adding more of O₂ to the reaction vessel\n(c) Increasing the temperature\n(d) Doubling the volume of reaction vessel",
+    "Answers": "(c)"
+},
+{
+    "ID": "I.85",
+    "Questions": "For the given chemical equation: 2X(g) + Y(g) ⇌ 2Z(g) + 8 kcal, which combination of pressure and temperature gives the highest yield of 'Z' at equilibrium?\n(a) 1000 atm and 500°C\n(b) 500 atm and 500°C\n(c) 500 atm and 100°C\n(d) 1000 atm and 100°C",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.1",
+    "Questions": "The approach to the following equilibrium was observed kinetically from both directions: PtCl₄²⁻ + H₂O ⇌ Pt(H₂O)Cl₃⁻ + Cl⁻. At 25°C, it was found that\n-d[PtCl₄²⁻]/dt = (3.9 × 10⁻⁵ s⁻¹) [PtCl₄²⁻] - (2.1×10⁻³ L mol⁻¹s⁻¹) [Pt(H₂O)Cl₃⁻][Cl⁻]\nThe value of K_eq (equilibrium constant) for the complexation of the fourth Cl⁻ by Pt (II) is\n(a) 53.8 mol L⁻¹\n(b) 0.018 mol L⁻¹\n(c) 53.8 L mol⁻¹\n(d) 0.018 L mol⁻¹",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.2",
+    "Questions": "The complexation of Fe²⁺ with the chelating agent dipyridyl has been studied kinetically in both the forward and reverse directions. Fe²⁺ + 3 dipy ⇌ [Fe(dipy)₃]²⁺. For this reaction, the rates of forward and reverse reactions are (1.45 × 10¹³ M⁻³s⁻¹) [Fe²⁺][dipy]³ and (1.22 × 10⁻⁴ s⁻¹) [Fe(dipy)₃²⁺], at 25°C. What is the stability constant of the complex?\n(a) 1.77 × 10⁸\n(b) 8.4 × 10⁻¹⁸\n(c) 1.18 × 10¹⁷\n(d) 5.65 x 10⁻¹⁰",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.3",
+    "Questions": "The rate constant for the forward reaction: A(g) ⇌ 2B(g) is 1.5 × 10⁻³ s⁻¹ at 300 K. If 10⁻⁵ moles of 'A' and 100 moles of 'B' are present in a 10 litre vessel at equilibrium, then the rate constant of the backward reaction at this temperature is\n(a) 1.5 × 10³ M⁻¹s⁻¹\n(b) 1.5 × 10⁻¹ M⁻¹s⁻¹\n(c) 1.5 × 10⁻¹¹ M⁻¹s⁻¹\n(d) 1.5 × 10⁻¹² M⁻¹s⁻¹",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.4",
+    "Questions": "CuSO₄·5H₂O(s) ⇌ CuSO₄·3H₂O(s) + 2H₂O(g), Kp for this equilibrium is 1.0 × 10⁻⁴ atm² at 25°C. What is the maximum pressure of water vapour (moisture) in the atmosphere, below which the pentahydrate is efflorescent?\n(a) 7.60 mm\n(b) 0.01 mm\n(c) 0.076 mm\n(d) 760 mm",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.5",
+    "Questions": "Ammonia at a pressure of 10 atm and CO₂ at a pressure of 20 atm are introduced into an evacuated chamber. If Kp for the reaction: NH₂COONH₄(s) ⇌ 2NH₃(g) + CO₂ (g) is 2020 atm³, the total pressure after a long time is\n(a) less than 30 atm\n(b) more than 30 atm\n(c) equal to 30 atm\n(d) unpredictable",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.6",
+    "Questions": "Kp for the process: CuSO₄·5H₂O(s) ⇌ CuSO₄·3H₂O(s) + 2H₂O(g) is 1.21 × 10⁻⁴ atm² at certain temperature. If aqueous tension at that temperature is 40 torr, then at what relative humidity of air will CuSO₄·5H₂O effloresces?\n(a) above 40.8%\n(b) below 40.8%\n(c) above 20.9%\n(d) below 20.9%",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.7",
+    "Questions": "Kp for the reaction: H₂(g) + I₂(s) ⇌ 2HI(g) is 6.4 × 10⁻⁴ atm. On close observation, it is found that the partial pressure of iodine present in vapour state is 1.6 × 10⁻⁴ atm, at the same temperature. The Kp for the reaction: H₂(g) + I₂(g) ⇌ 2HI(g) is\n(a) 0.25\n(b) 4\n(c) 1.024 × 10⁻⁷\n(d) 9.76 × 10⁶",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.8",
+    "Questions": "For the reaction: H₂(g) + I₂(g) ⇌ 2HI(g). The rate law expression is:\n(a) -1/2 d[HI]/dt = K₁[HI]² - K₋₁[H₂][I₂]\n(b) -1/2 d[HI]/dt = (K₁[HI]²) / (K₋₁[H₂][I₂])\n(c) -1/2 d[HI]/dt = K₁[H₂][I₂] – K₋₁[HI]²\n(d) -1/2 d[HI]/dt = K₁K₋₁[H₂][I₂]",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.9",
+    "Questions": "At 200°C, PCl₅ dissociates as follows: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). It was found that the equilibrium vapours are 62 times as heavy as hydrogen. The percentage dissociation of PCl₅ at 200°C is\n(a) 34.1%\n(b) 70.3%\n(c) 40.5%\n(d) 68.1%",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.10",
+    "Questions": "Under what pressure must an equimolar mixture of Cl₂ and PCl₃ be place at 250°C in order to obtain 75% conversion of PCl₃ into PCl₅? Given: PCl₃(g) + Cl₂(g) ⇌ PCl₅(g); Kp = 2 atm⁻¹\n(a) 12 atm\n(b) 6 atm\n(c) 15 atm\n(d) 30 atm",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.11",
+    "Questions": "In the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + Heat. One mole of N₂ reacts with three moles of H₂. If at equilibrium 'x' moles of N₂ combined, then the value of 'x' in terms of Kp and the total pressure of gases at equilibrium, P, is\n(a) (3P√3.Kp)/8\n(b) (8P)/(3√3.Kp)\n(c) (3√3.Kp)/(8P)\n(d) (8Kp)/(P√3)",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.12",
+    "Questions": "For the reaction: X₂(g) + Y₂(g) ⇌ 2XY(g), 2 moles of 'X₂' was taken in a 2 L vessel and 3 moles of 'Y₂' was taken in a 3 L vessel. Both vessels were then connected. At equilibrium, concentration of 'XY' is 0.7 M. Equilibrium concentrations of 'X₂' and 'Y₂' would be\n(a) 0.65 M, 0.65 M\n(b) 0.30 M, 0.30 M\n(c) 0.25 M, 1.25 M\n(d) 0.05 M, 0.25 M",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.13",
+    "Questions": "The equilibrium constant for the reaction: N₂(g) + O₂(g) ⇌ 2NO(g) is 0.09 at 3500 K. The fraction of equimolar mixture of N₂ and O₂ converted into NO is\n(a) 0.13\n(b) 0.23\n(c) 0.30\n(d) 0.357",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.14",
+    "Questions": "At a certain temperature, the equilibrium constant of the reaction: N₂(g) + O₂(g) ⇌ 2NO(g) is 0.0004. Assuming air to be a mixture of four volumes of nitrogen with one volume of oxygen, the percentage of nitric oxide, by volume, in the gas produced by allowing air to reach equilibrium at this temperature, is\n(a) 3.0%\n(b) 0.8%\n(c) 0.04%\n(d) 8.0%",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.15",
+    "Questions": "When a mixture of N₂ and H₂ in the volume ratio of 1:5 is allowed to react at 700 K and 10³ atm pressure, 0.4 mole fraction of NH₃ is formed at equilibrium. The Kp for the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n(a) 2.6 × 10⁻⁴ atm⁻²\n(b) 2.6 × 10⁻⁴ atm⁻²\n(c) 2.6 × 10⁻³ atm⁻²\n(d) 5.1 x 10⁻³ atm⁻²",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.16",
+    "Questions": "An amount of 16 moles H₂ and 4 moles of N₂ is confined in a vessel of volume one litre. The vessel is heated to a constant temperature until the equilibrium is established. At equilibrium, the pressure was found to be 9/10th of the initial pressure. The value of K_c for the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g), is\n(a) 8100\n(b) 6.07 × 10⁻⁴\n(c) 1647.75\n(d) 8.99 × 10⁻⁵",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.17",
+    "Questions": "An amount of 3 moles of N₂ and some H₂ is introduced into an evacuated vessel. The reaction starts at t = 0 and equilibrium is attained at t = t₁. The amount of ammonia at t = 2t₁ is found to be 34 g. It is observed that w(N₂)/w(H₂) = 14/3 at t = t₁/2 and t = t₁. The only correct statement is\n(a) w(N₂) + w(H₂) + w(NH₃) = 118 g at t = t₁\n(b) w(N₂) + w(H₂) + w(NH₃) = 102 g at t = 2t₁\n(c) w(N₂) + w(H₂) + w(NH₃) = 50 g at t = t₁/3\n(d) w(N₂) + w(H₂) + w(NH₃) cannot be predicted",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.18",
+    "Questions": "Starting with 2 moles SO₂ and 1 mol of O₂ in 1 L flask, the equilibrium mixture required 0.4 moles of MnO₄⁻ for complete reaction in acidic medium. K_c for the reaction: 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) is\n(a) 2\n(b) 0.5\n(c) 0.25\n(d) 4",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.19",
+    "Questions": "A quantity of 60 g CH₃COOH and 46 g CH₃CH₂OH reacts in 5 L flask to form 44 g CH₃COOC₂H₅ at equilibrium. On taking 120 g CH₃COOH and 46 g CH₃CH₂OH, CH₃COOC₂H₅ formed at equilibrium is\n(a) 44 g\n(b) 29.33 g\n(c) 66 g\n(d) 58.67 g",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.20",
+    "Questions": "Two moles of an equimolar mixture of two alcohols R₁-OH and R₂-OH are esterified with one mole of acetic acid. If only 80% of the acid is consumed till equilibrium and the quantities of ester formed under equilibrium are in the ratio 3:2. What is the value of equilibrium constant for the esterification of R₁-OH?\n(a) 0.48\n(b) 2.2\n(c) 0.32\n(d) 0.75",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.21",
+    "Questions": "For the reaction: 2NO(g) + Cl₂(g) ⇌ 2NOCl(g), NO and Cl₂ are initially taken in mole ratio of 2:1. The total pressure at equilibrium is found to be 1 atm. If the moles of NOCl are one-fourth of that of Cl₂ at equilibrium, Kp for the reaction is\n(a) 13/36\n(b) 13/256\n(c) 13/512\n(d) 13/128",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.22",
+    "Questions": "When S in the form of S₈ is heated at 900 K, the initial pressure of 1 atm falls by 30% at equilibrium. This is because of conversion of some S₈(g) to S₂(g). The Kp of the reaction is\n(a) 0.011 atm⁷\n(b) 2.96 atm⁷\n(c) 1.71 atm⁷\n(d) 204.8 atm⁷",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.23",
+    "Questions": "The Deacon reaction is the oxidation of HCl by O₂: HCl(g) + 1/4 O₂(g)⇌ 1/2 Cl₂(g) + 1/2 H₂O(g). At a pressure of 730 mm and with an initial mixture containing 8% HCl and 92% O₂, the degree of decomposition of the HCl is 0.08. What is the equilibrium partial pressure of oxygen?\n(a) 671.6 mm\n(b) 659.92 mm\n(c) 537.28 mm\n(d) 670.43 mm",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.24",
+    "Questions": "The equilibrium constant for the reaction: H₃BO₃ + glycerin ⇌ (H₃BO₃ + glycerin complex) is 0.90. How much glycerin should be added to 1 L of 0.10 M-H₃BO₃ solution, so that 60% of the H₃BO₃ is converted to boric acid-glycerin complex?\n(a) Infinite\n(b) 1.73 M\n(c) 0.10 M\n(d) 2.27 M",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.25",
+    "Questions": "The process: 2A(g) ⇌ A₂(g) has Kp = 8 × 10⁸ atm⁻¹. If 'A' atoms are taken at 1 atm pressure, what should be the equilibrium pressure of 'A'?\n(a) 0\n(b) 2.5 × 10⁻⁵ atm\n(c) 4 × 10⁻⁴ atm\n(d) 1.25 × 10⁵ atm",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.26",
+    "Questions": "When CO₂(g) is dissolved in water, the following equilibrium is established: CO₂(aq) + 2H₂O(l) ⇌ H₃O⁺(aq) + HCO₃⁻(aq) for which the equilibrium constant is 3.8 × 10⁻⁷. If the pH of solution is 6.0, what would be the ratio of concentration of HCO₃⁻(aq) to CO₂(aq)?\n(a) 3.8 × 10⁻¹³\n(b) 6.0\n(c) 0.38\n(d) 13.4",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.27",
+    "Questions": "For the equilibrium: A(g) ⇌ nB(g), the equilibrium constant, Kp, is related with the degree of dissociation, α, and the total pressure of gases at equilibrium, P, as\n(a) (nα)ⁿ . Pⁿ⁻¹ / ( (1-α).[1+(n-1)α]ⁿ⁻¹ )\n(b) (nα)ⁿ⁻¹ . Pⁿ⁻¹ / ( (1-α).[1+(n-1)α]ⁿ⁻¹ )\n(c) αⁿ⁻¹ . Pⁿ⁻¹ / ( (1-α).[1+(n-1)α] )\n(d) nα . Pⁿ⁻¹ / ( (1-α)ⁿ⁻¹.[1+(n-1)α] )",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.28",
+    "Questions": "Reaction: A(g) + B(g) ⇌ C(g) + D(g), occurs in a single step. The rate constant of forward reaction is 2.0 × 10⁻³ mol⁻¹ L s⁻¹. When the reaction is started with equimolar amounts of A and B, it is found that the concentration of A is twice that of C at equilibrium. The rate constant of the backward reaction is\n(a) 5.0 × 10⁻⁴ mol⁻¹ L s⁻¹\n(b) 8.0 × 10⁻³ mol⁻¹ L s⁻¹\n(c) 1.25 × 10⁻² mol⁻¹ L s⁻¹\n(d) 2.0 × 10⁻³ mol⁻¹ L s⁻¹",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.29",
+    "Questions": "Find the concentration of manomeric dichloroacetic acid in a CCl₄ solution which contains 0.0129 g of the acid in 100 ml of solution. The dissociation constant of the dimeric acid is 5.0 × 10⁻⁴. Assume that the acids are unionized in CCl₄ solution.\n(a) 5.0 × 10⁻⁴ M\n(b) 2.5 × 10⁻⁴ M\n(c) 1.0 × 10⁻³ M\n(d) 2.5 × 10⁻³ M",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.30",
+    "Questions": "In an evacuated rigid vessel of volume V litre, one mole of solid ammonium carbonate, NH₂CONH₄, is taken and the vessel is heated to T K. The equilibrium total pressure of gases is found to be P atm. The percentage dissociation of solid into NH₃(g) and CO₂(g) is\n(a) (100RT)/(3PV) %\n(b) RT/(3PV) %\n(c) (100RT)/(PV) %\n(d) (300RT)/(PV) %",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.31",
+    "Questions": "For the equilibrium: SrCl₂·6H₂O(s) ⇌ SrCl₂·2H₂O(s) + 4H₂O(g), Kp = 8.1 × 10⁻⁷ atm⁴ at 27°C. If 1.642L of air saturated with water vapour at 27°C is exposed to a large quantity of SrCl₂·2H₂O(s), what mass of water vapour will be absorbed? Saturated vapour pressure of water at 27°C = 30.4 torr.\n(a) 12 mg\n(b) 6.67 mg\n(c) 9 mg\n(d) 48 mg",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.32",
+    "Questions": "Two systems PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) and COCl₂(g) ⇌ CO(g) + Cl₂(g) are simultaneously in equilibrium in a vessel at constant volume. If some CO is introduced into the vessel, then at the new equilibrium, the moles of\n(a) PCl₅ increase\n(b) PCl₅ remain unchanged\n(c) PCl₅ decrease\n(d) Cl₂ increase",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.33",
+    "Questions": "In the system, LaCl₃(s) + H₂O(g) + heat ⇌ LaClO(s) + 2HCl(g), equilibrium is established. More water vapour is added to disturb the equilibrium. If the pressure of water vapour at new equilibrium is double of that at initial equilibrium, the factor by which pressure of HCl is changed is\n(a) 2 times\n(b) √2 times\n(c) 1/√2 times\n(d) 4 times",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.34",
+    "Questions": "Indicate the correct answer out of the following for the reaction: NH₄Cl + H₂O ⇌ NH₄OH + HCl\n(a) The reaction is retarded by the addition of KOH\n(b) The reaction is favoured by the addition of NH₄OH\n(c) The reaction is retarded by the addition of hydrogen ion\n(d) The reaction is favoured by the addition of hydrogen ion",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.35",
+    "Questions": "The two equilibria, AB ⇌ A⁺ + B⁻ and AB + B⁻ ⇌ AB₂, are simultaneously maintained in a solution with equilibrium constants K₁ and K₂, respectively. The ratio of A⁺ to AB₂ in the solution is\n(a) Directly proportional to the concentration of B⁻\n(b) Inversely proportional to the concentration of B⁻\n(c) Directly proportional to the square of the concentration of B⁻\n(d) Inversely proportional to the square of the concentration of B⁻",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.36",
+    "Questions": "Solid NH₄HS dissociates into NH₃ and H₂S at a certain temperature, the equilibrium pressure is P atm. If now, NH₃ is pumped into the system so that its partial pressure becomes P atm, what will be the partial pressure (in atm) of H₂S?\n(a) 0.5 P\n(b) 0.25 P\n(c) 0.33 P\n(d) 0.67 P",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.37",
+    "Questions": "In a closed rigid vessel, the following equilibrium partial pressures are measured: N₂ = 100 mm, H₂ = 400 mm and NH₃ = 1000 mm. Now, nitrogen is removed from the vessel until the pressure of hydrogen at equilibrium is equal to 700 mm. The new equilibrium partial pressure of N₂ is\n(a) 11.94 mm\n(b) 200 mm\n(c) 18.66 mm\n(d) 43.78 mm",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.38",
+    "Questions": "Suppose the gas phase isomerization reactions: A ⇌ B, A ⇌ C and B ⇌ C achieve equilibrium simultaneously, at a fixed temperature. The equilibrium mole fraction of 'A' in terms of equilibrium constants, K₁, K₂, and K₃ (respectively), is\n(a) K₁/(K₁+K₂+K₃)\n(b) 1/(1+K₁+K₂)\n(c) 1/(K₁+K₂+K₃)\n(d) 1/(K₁+K₂)",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.39",
+    "Questions": "Methanol, CH₃OH can be prepared from CO and H₂ as CO(g) + 2H₂(g) ⇌ CH₃OH(g); Kp = 6.23 × 10⁻³ at 500 K. What total pressure is required to convert 25% of CO to CH₃OH at 500 K, if CO and H₂ comes from the reaction: CH₄(g) + H₂O(g) → CO(g) + 3H₂(g)\n(a) 20.48 bar\n(b) 21 bar\n(c) 10.24 bar\n(d) 5.12 bar",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.40",
+    "Questions": "An amount of 1 mole each of A and D is introduced in 1L container. Simultaneously the following two equilibria are established: A ⇌ B + C; K_c₁ = 10⁶ M² and B + D ⇌ A; K_c₂ = 10⁻⁶ M⁻¹. The equilibrium concentration of A will be\n(a) 10⁻⁶ M\n(b) 10⁻³ M\n(c) 10⁻¹² M\n(d) 10⁻⁴ M",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.41",
+    "Questions": "For a reversible reaction: A ⇌(K₁ forward, K₂ reverse) B, the initial molar concentration of A and B are a M and b M, respectively. If x M of A is reacted till the achievement of equilibrium, then x is\n(a) (K₁a - K₂b)/(K₁ + K₂)\n(b) (K₁a - K₂b)/(K₁ - K₂)\n(c) (K₁a - K₂b)/(K₁K₂)\n(d) (K₁a + K₂b)/(K₁ + K₂)",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.42",
+    "Questions": "For the given reaction: 2A(s) + B(g) ⇌ C(g) + 2D(s) + E(s), the extent of reaction of B was found to be 20% at 300 K and 24% at 500 K. The rate of backward reaction\n(a) increases with increase in pressure and temperature\n(b) increases with increase in pressure and decrease in temperature\n(c) depends on temperature only and decreases with increases in temperature\n(d) depends on temperature only and increases with increase in temperature",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.43",
+    "Questions": "Steam decomposes at high temperature according to the equation: 2H₂O(g) ⇌ 2H₂(g) + O₂(g); ΔH° = 240 kJ/mole and ΔS° = 50 JK⁻¹/mole. The temperature at which the equilibrium constant (K_p°) becomes 1.0, is\n(a) 4.8 K\n(b) 4800 K\n(c) 480 K\n(d) Impossible",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.44",
+    "Questions": "ΔG° for the formation of HI(g) from its gaseous elements is – 2.303 kcal/mol at 500 K. When the partial pressure of HI is 10 atm and of I₂(g) is 0.001 atm, what must be the partial pressure of hydrogen be at this temperature to reduce the magnitude of ΔG for the reaction to zero?\n(a) 1000 atm\n(b) 10000 atm\n(c) 100 atm\n(d) 31.63 atm",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.45",
+    "Questions": "When α-D-glucose is dissolved in water, it undergoes a partial conversion to β-D-glucose. This conversion, called mutarotation, stops when 64.0% of the glucose is in the β-form. Assuming that equilibrium has been attained, what is ΔG° for the reaction: α-D-glucose ⇌ β-D-glucose, at this experimental temperature?\n(a) -RT log₁₀(1.6)\n(b) -RT log₁₀(1.78)\n(c) - RT log(1.78)\n(d) - RT log(1.6)",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.46",
+    "Questions": "At chemical equilibrium, a reaction is\n(a) spontaneous in forward direction\n(b) spontaneous in backward direction\n(c) spontaneous in both direction\n(d) spontaneous in neither direction",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.47",
+    "Questions": "Rate of disappearance of the reactant 'A' in the reversible reaction: A ⇌ B, at two temperatures is given as\n-d[A]/dt = (2.0×10⁻³ s⁻¹) [A] – (5.0×10⁻⁴ s⁻¹) [B] (at 27°C)\n-d[A]/dt = (8.0×10⁻² s⁻¹) [A]-(4.0×10⁻³s⁻¹) [B] (at 127°C)\nThe enthalpy of reaction in the given temperature range is\n(a) (2.303×8.314×300×400/100) log(50) J/mol\n(b) (2.303×8.314×300×400/100) log(5) J/mol\n(c) -(2.303×8.314×300×400/100) log(50) J/mol\n(d) -(2.303×8.314×300×400/100) log(5) J/mol",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.48",
+    "Questions": "A certain gas 'A' polymerizes to a very small extent at a given temperature as: nA(g) ⇌ Aₙ(g). The reaction is started with one mole of 'A' in a container of capacity V. Which of the following is correct value of PV/RT at equilibrium?\n(a) 1 - (n-1).K_c / Vⁿ⁻¹\n(b) 1 / ( (n-1).K_c / Vⁿ⁻¹ )\n(c) 1 - (n.K_c / Vⁿ⁻¹)\n(d) 1 - (n.K_c / Vⁿ)",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.49",
+    "Questions": "PCl₅ (molecular mass = M) dissociates into PCl₃ and Cl₂ as: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g). If the total pressure of the system at equilibrium is P and the density is 'd' at temperature, T K. The degree of dissociation of PCl₅ may be represented as\n(a) PM/(dRT)\n(b) PM/(dRT) - 1\n(c) dRT/(PM) - 1\n(d) dRT/(PM)",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.50",
+    "Questions": "A 250 ml flask and 100 ml flask are separated by a stopcock. At 350 K, the nitric oxide in the larger flask exerts a pressure of 0.4 atm, and the smaller one contains oxygen at 0.8 atm. The gases are mixed by opening the stopcock. The reactions occurring are: 2NO + O₂ → 2NO₂ ⇌ N₂O₄. The first reaction is complete while the second one is at equilibrium. Assuming all the gases to behave ideally, calculate the Kp for the second reaction if the total pressure is 0.3 atm.\n(a) 3.5 atm⁻¹\n(b) 0.87 atm⁻¹\n(c) 0.07 atm⁻¹\n(d) 7.0 atm⁻¹",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.51",
+    "Questions": "If 'a' is the fraction of ammonia present by volume in an equilibrium mixture made from one volume of N₂ and three volumes of H₂ and P is the total pressure, then\n(a) a/(1-a) * α P\n(b) a/((1-a)²) * α P\n(c) a²/((1+a)²) * α P\n(d) a/(1+a) * α P",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.52",
+    "Questions": "At 525 K, PCl₅(g) is 80% dissociated at a pressure of 1 atm. Now, sufficient quantity of an inert gas at constant pressure is introduced into the above reaction mixture to produce inert gas partial pressure of 0.9 atm. What is the percentage dissociation of PCl₅(g) when equilibrium is re-established?\n(a) 97.3%\n(b) 80%\n(c) 65.6%\n(d) 4.7%",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.53",
+    "Questions": "For the reaction: CuSO₄.3H₂O(s) ⇌ CuSO₄.H₂O(s) + 2H₂O(g); ∆H = 3360 cal. The dissociation pressure is 7 × 10⁻³ atm at 27°C. What will be the dissociation pressure at 127°C? (ln2 = 0.7)\n(a) 9.8 × 10⁻³ atm\n(b) 1.4 × 10⁻² atm\n(c) 1.4 × 10⁻³ atm\n(d) 9.8 × 10⁻² atm",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.54",
+    "Questions": "Carbon monoxide in water gas, reacts with steam according to the reaction: CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g); Keq = 0.3333. If two volumes of water gas (containing 1:1 of CO and H₂) are mixed with five volumes of steam, then the volume ratio of the four gases present at equilibrium is\n(a) 1:1:1:1\n(b) 1:3:1:1\n(c) 1:15:1:5\n(d) 1:9:1:3",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.A.55",
+    "Questions": "If for the equilibria: NH₂COONH₄(s) ⇌ λN₂ + H₂ + CO + O₂, the value of Kp at 800 K is 27 × 2³/² and the equilibrium pressure is 22 atm. The value of λ is\n(a) 21\n(b) 22\n(c) 11\n(d) 12",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.56",
+    "Questions": "Solid ammonium carbamate dissociates as: NH₂COONH₄(s) ⇌ 2NH₃(g) +CO₂(g). In a closed vessel solid ammonium carbamate is in equilibrium with its dissociation products. At equilibrium ammonia is added such that the partial pressure of NH₃ at new equilibrium now equals the original total pressure. The ratio of total pressure at new equilibrium to that of original total pressure is\n(a) 1:1\n(b) 27:31\n(c) 31:27\n(d) 3:4",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.57",
+    "Questions": "The value of equilibrium constant for the following reaction at 300 K and constant pressure: A(g) + B(g) ⇌ C(g) + D(g) + E(g); ΔE° = – 30 kcal and ΔS° = 100 cal/K\n(a) e\n(b) 1/e\n(c) e²\n(d) 1/e²",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.A.58",
+    "Questions": "ΔG° are 30.426 kJ/mol for trans-1,2-dichloroethene and 22.112 kJ/mol for cis-1,2-dichloroethene, at 27°C. The molar ratio of trans and cis isomers at equilibrium at 27°C, is [ln28 = 3.33]\n(a) 10:3\n(b) 3:10\n(c) 28:1\n(d) 1:28",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.A.59",
+    "Questions": "The equilibrium constant for the reaction: CO(g) + H₂O(g) ⇌ CO₂(g) + H₂(g) is 3.0 at 500 K. In a 2.0 l vessel, 60 g of water gas [equimolar mixture of CO(g) and H₂(g)] and 90 g steam is initially taken. What is the equilibrium concentration of H₂(g)?\n(a) 1.75 M\n(b) 3.5 M\n(c) 1.5 M\n(d) 0.75 M",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.A.60",
+    "Questions": "The equilibrium: NH₄HS(s) ⇌ NH₃(g) + H₂S(g) is achieved at the equilibrium pressure of 'X' bar at T K. The value of ΔG° for the reaction is\n(a) -RT lnX\n(b) -2RT lnX\n(c) -2RT (lnX – ln2)\n(d) -2RT ln(2X)",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.B.1",
+    "Questions": "When NH₄HS(s) is vaporized in an empty vessel and maintained at 20°C, the equilibrium is established: NH₄HS(s) ⇌ NH₃(g) + H₂S(g) and the total pressure of gases at equilibrium is 0.4 atm. When NH₄HS(s) is vaporized in the presence of NH₃(g) in the same vessel at 20°C, the partial pressure of NH₃(g) at equilibrium is 0.5 atm. Which of the following is/are correct statement(s)?\n(a) At second equilibrium, the final partial pressure of H₂S(g) is 0.08 atm.\n(b) In second experiment, the initial pressure of NH₃(g) was 0.42 atm.\n(c) In presence of NH₃(g), the extent of dissociation of NH₄HS(s) decreased.\n(d) At second equilibrium, the mole-fraction of H₂S(g) is 0.5.",
+    "Answers": "(a), (b), (c)"
+},
+{
+    "ID": "II.B.2",
+    "Questions": "Which of the following reaction(s) have Kp = Kc?\n(a) H₂(g) + I₂(g) ⇌ 2HI(g)\n(b) N₂(g) + O₂(g) ⇌ 2NO(g)\n(c) 2NO(g) + Cl₂(g) ⇌ 2NOCl(g)\n(d) 2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+    "Answers": "(a), (b)"
+},
+{
+    "ID": "II.B.3",
+    "Questions": "For dissociation of a gas N₂O₅ as: N₂O₅(g) ⇌ 2NO₂(g) + 1/2 O₂(g). The reaction is performed at constant temperature and volume. If D is the vapour density of equilibrium mixture, P₀ is initial pressure of N₂O₅(g) and M is molecular mass of N₂O₅, then the correct information(s) at the equilibrium is/are\n(a) The total pressure of gases at equilibrium is P₀M / 2D\n(b) The degree of dissociation of N₂O₅(g) is (M-2D) / 3D\n(c) The partial pressure of N₂O₅(g) at equilibrium is (5D-M)P₀ / 3D\n(d) The partial pressure of O₂(g) at equilibrium is (M-2D)P₀ / 3D",
+    "Answers": "(a), (b), (c)"
+},
+{
+    "ID": "II.B.4",
+    "Questions": "Which of the following is/are correct statement(s)?\n(a) The dissociation of CaCO₃ is suppressed at high pressure.\n(b) The apparent molecular mass of PCl₅ shows lower value on dissociation.\n(c) Low pressure is favourable for melting of ice.\n(d) Combination of hydrogen atoms to form hydrogen molecule is favourable at high temperature.",
+    "Answers": "(a), (b)"
+},
+{
+    "ID": "II.B.5",
+    "Questions": "What is/are true about equilibrium state?\n(a) Catalyst has no effect on equilibrium state.\n(b) Equilibrium constant is independent of initial concentration of reaction.\n(c) The reaction ceases at equilibrium.\n(d) Equilibrium constant is independent of pressure.",
+    "Answers": "(a), (b), (d)"
+},
+{
+    "ID": "II.B.6",
+    "Questions": "A chemical system is in equilibrium. Addition of a catalyst would result in\n(a) increase in the rate of forward reaction.\n(b) increase in the rate of reverse reaction.\n(c) a new reaction pathway to reaction.\n(d) increase the amount of heat evolved.",
+    "Answers": "(a), (b), (c)"
+},
+{
+    "ID": "II.B.7",
+    "Questions": "A cylinder fitted with a movable piston contains liquid water in equilibrium with water vapour at 25°C. Which operation results in a decrease in the equilibrium vapour pressure?\n(a) moving the piston downward a short distance\n(b) removing a small amount of vapour\n(c) removing a small amount of the liquid water\n(d) dissolving salt in the water",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.B.8",
+    "Questions": "Condition suitable for forming atomic chlorine from molecular chlorine is\n(a) Low temperature\n(b) Low pressure\n(c) High temperature\n(d) High pressure",
+    "Answers": "(b), (c)"
+},
+{
+    "ID": "II.B.9",
+    "Questions": "The position of equilibrium will shift in the given direction by the addition of inert gas at constant pressure in the following case(s):\n(a) N₂(g) + 3F₂(g) ⇌ 2NF₃(g); forward direction\n(b) COCl₂(g) ⇌ CO(g) + Cl₂(g); forward direction\n(c) CO(g) + 2H₂(g) ⇌ CH₃OH(g); backward direction\n(d) 2C(s) + O₂(g) ⇌ 2CO(g); backward direction",
+    "Answers": "(b), (c)"
+},
+{
+    "ID": "II.B.10",
+    "Questions": "Two gases A and B, one being the dimer of the other, are at equilibrium. Decreases of pressure at constant temperature or increases of temperature at constant pressure favours the formation of more of B. The reaction could not be represented by\n(a) 2A ⇌ B + q calories\n(b) 2A ⇌ B - q calories\n(c) 2B ⇌ A - q calories\n(d) 2B ⇌ A + q calories",
+    "Answers": "(a), (b), (d)"
+},
+{
+    "ID": "II.B.11",
+    "Questions": "The equilibrium constant for some reactions are given below against each of the reaction:\n(i) 2N₂ + 5O₂ ⇌ 2N₂O₅; K = 5 × 10⁻²⁷\n(ii) N₂ + O₂ ⇌ 2NO; K = 2 × 10⁻¹⁵\n(iii) N₂ + 2O₂⇌ 2NO₂; K = 1.5 × 10⁻²⁹\nWhich of the following statement is correct?\n(a) The least stable oxide is NO₂\n(b) The most stable oxide is NO\n(c) The stability order is N₂O₅ > NO₂ > NO\n(d) The stability order is NO₂ > NO > N₂O₅",
+    "Answers": "(a), (b)"
+},
+{
+    "ID": "II.B.12",
+    "Questions": "For the gaseous reaction: CO + H₂O ⇌ CO₂ + H₂, the following thermodynamical data are given\nΔH°₃₀₀ K = - 41.0 kJ mol⁻¹; ΔS°₃₀₀ K = -0.04 kJ K⁻¹ mol⁻¹\nΔH°₁₂₀₀ K = - 33.0 kJ mol⁻¹; ΔS°₁₂₀₀ K = -0.03 kJ K⁻¹ mol⁻¹\nAssuming partial pressure of each component is 1 bar, the direction of spontaneous reaction is/are\n(a) Forward at 300 K\n(b) Forward at 1200 K\n(c) Backward at 300 K\n(d) Backward at 1200 K",
+    "Answers": "(a), (d)"
+},
+{
+    "ID": "II.B.13",
+    "Questions": "Van't Hoff equations show the effect of temperature on equilibrium constants K_c and K_p. K_p and K_c varies with temperature according to the relations\n(a) log(K_P₂/K_P₁) = (ΔH/2.303R) * (T₂-T₁)/(T₁T₂)\n(b) log(K_P₂/K_P₁) = (ΔH/2.303R) * (T₁-T₂)/(T₁T₂)\n(c) log(K_C₂/K_C₁) = (ΔU/2.303R) * (T₂-T₁)/(T₁T₂)\n(d) log(K_C₂/K_C₁) = (ΔU/2.303R) * (T₁-T₂)/(T₁T₂)",
+    "Answers": "(b), (c)"
+},
+{
+    "ID": "II.B.14",
+    "Questions": "For a chemical reaction at the state of equilibrium, which of the following statement(s) is/are correct?\n(a) None of the variables like temperature, pressure or volume appear to change.\n(b) Reaction system has maximum stability with minimum energy content.\n(c) Addition of catalyst disturbs the point of equilibrium.\n(d) Addition of inert gas at equilibrium for constant volume system will move the equilibrium in the direction, where more number of moles of gases is present.",
+    "Answers": "(a), (b)"
+},
+{
+    "ID": "II.B.15",
+    "Questions": "Solubility of a solute in a solvent (say, water) is dependent on temperature as given by S = A.e⁻∆H/RT, where ΔH is heat of reaction: solute + H₂O ⇌ solution. For a given solution, variation of log S with temperature is shown graphically. The solute should be [Graph of log S vs 1/T with a positive slope]\n(a) CuSO₄.5H₂O\n(b) NaCl\n(c) Sucrose\n(d) CaO",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.B.16",
+    "Questions": "At chemical equilibrium, the\n(a) enthalpy of system is minimum.\n(b) entropy of system is maximum.\n(c) free energy of system is minimum.\n(d) free energy of system is zero.",
+    "Answers": "(a), (b), (c)"
+},
+{
+    "ID": "II.B.17",
+    "Questions": "At -10°C, the solid compound Cl₂(H₂O)₈ is in equilibrium with gaseous chlorine, water vapour and ice. The partial pressure of the two gases in equilibrium with a mixture of Cl₂(H₂O)₈ and ice are 0.20 atm for Cl₂ and 0.001 atm for water vapour. The processes may be represented as:\n(i) Cl₂(H₂O)₈(s) ⇌ Cl₂(g) + 8H₂O(g); K_P₁\n(ii) Cl₂(H₂O)₈(s) ⇌ Cl₂(g) + 8H₂O(s); K_P₂\nIdentify the correct statement among the following regarding the processes.\n(a) The value of K_P₁ is 2.0 × 10⁻²⁵ atm⁹.\n(b) The value of K_P₂ is 0.2 atm.\n(c) The vapour pressure of ice is 0.001 atm at 263 K.\n(d) Process (i) must be exothermic.",
+    "Answers": "(a), (b), (c)"
+},
+{
+    "ID": "II.B.18",
+    "Questions": "In an evacuated vessel of capacity 112 L, 4 moles of Ar(g) and 5 moles of PCl₅(g), were introduced and temperature is maintained at 273°C. At equilibrium, the total pressure of the mixture was found to be 4.8 atm.\n(a) The degree of dissociation of PCl₅(g) into PCl₃(g) and Cl₂(g) is 0.6.\n(b) Kp for the reaction: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) is 2.7 atm.\n(c) At equilibrium, the total moles of gases are 12.\n(d) On removing Ar(g) from the equilibrium mixture at constant pressure and temperature, the extent of dissociation of PCl₅ will increase.",
+    "Answers": "(a), (b), (c)"
+},
+{
+    "ID": "II.B.19",
+    "Questions": "In a vessel of 1.0 L capacity, O₂(g) at 0.25 atm pressure and HCl(g) at 1.0 atm pressure are allowed to react in presence of liquid water at 57°C. 4HCl(g) + O₂(g) ⇌ 2Cl₂(g) + 2H₂O(g); Kp = 5.0 × 10¹² atm⁻¹. The volume occupied by liquid water is negligible but it is sufficient at achieve equilibrium with water vapour. The vapour pressure of water at 57°C is 0.4 atm. Select the correct statement(s) regarding the equilibrium mixture.\n(a) The partial pressure of water vapour at any stage of reaction is 0.4 atm.\n(b) The partial pressure of Cl₂(g) at equilibrium is 0.5 atm.\n(c) The partial pressure of O₂(g) at equilibrium is 5.0 × 10⁻¹⁴ atm.\n(d) The partial pressure of HCl(g) at equilibrium is 2.0 × 10⁻⁴ atm.",
+    "Answers": "(a), (b), (c), (d)"
+},
+{
+    "ID": "II.B.20",
+    "Questions": "In the following equilibrium: N₂O₄(g) ⇌ 2NO₂(g), when 5 moles of each is taken and the temperature is kept at 298 K, the total pressure was found to be 20 bar. Given: ΔG°[N₂O₄(g)] = 100 kJ/mol; ΔG°[NO₂(g)] = 50 kJ/mol.\n(a) Kp for the reaction is 1.0 bar.\n(b) ΔG° for the reaction is zero at 298 K.\n(c) Under the given condition, the reaction is mainly occurring in backward direction.\n(d) The mixture taken is at equilibrium.",
+    "Answers": "(a), (b)"
+},
+{
+    "ID": "II.B.21",
+    "Questions": "A gaseous substance AB₂(g) converts to AB(g) in the presence of solid A as: AB₂(g) + A(s) ⇌ 2AB(g). The initial pressure and equilibrium pressure are 0.7 and 0.95 bar, respectively. Now, the equilibrium mixture is expanded reversibly and isothermally till the gas pressure falls to 0.4 bar. Then, which of the following statements is correct?\n(a) The volume per cent of AB(g) at final equilibrium is nearly 27%.\n(b) The volume per cent of AB₂(g) at final equilibrium is nearly 32.5%.\n(c) Kp for the equilibrium is 5/9.\n(d) The ratio of equilibrium pressure of AB₂(g) at initial and final equilibrium is more than 2 but less than 3.",
+    "Answers": "(b), (c)"
+},
+{
+    "ID": "II.B.22",
+    "Questions": "An amount of 1 mole of PCl₃(g) and 1 mole of PCl₅(g) is taken in a vessel of 10 L capacity maintained at 400 K. At equilibrium, the moles of Cl₂ is found to be 0.004.\n(a) K_c for the reaction: PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) is 0.0004 M.\n(b) Kp for the reaction: PCl₃(g) + Cl₂(g) ⇌ PCl₅(g) is 0.0004 × (0.082 × 400) atm.\n(c) If PCl₃(g) is added to the equilibrium mixture, ΔG at the new equilibrium becomes greater than the ΔG at old equilibrium.\n(d) After equilibrium is achieved, moles of PCl₃ are doubled and moles of Cl₂ are halved simultaneously, then the partial pressure of PCl₅ remains unchanged.",
+    "Answers": "(a), (d)"
+},
+{
+    "ID": "II.B.23",
+    "Questions": "A reaction at 300 K with ΔG° = -1743 J consists of 3 moles of A(g), 6 moles of B(g) and 3 moles of C(g). If A, B and C are in equilibrium in 1L container, then the reaction may be (ln 2 = 0.7, R = 8.3 J/K-mol)\n(a) A + B ⇌ C\n(b) A ⇌ B + 2C\n(c) 2A ⇌ B + C\n(d) A + B ⇌ 2C",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.B.24",
+    "Questions": "The equilibrium between gaseous isomers A, B and C can be represented as: A(g) ⇌ B(g); K₁ = ?; B(g) ⇌ C(g); K₂ = 0.4; C(g) ⇌ A(g); K₃ = 0.6. If one mole of A is taken in a closed vessel of volume 1L, then\n(a) [A] + [B] + [C] = 1 M at any moment of reaction.\n(b) Concentration of C is 1.2 M at equilibrium.\n(c) The value of K₁ is 1/0.24.\n(d) Isomer A is thermodynamically least stable.",
+    "Answers": "(a), (c), (d)"
+},
+{
+    "ID": "II.B.25",
+    "Questions": "Consider the equilibrium: HgO(s) + 4I⁻(aq) + H₂O(l) ⇌ HgI₄²⁻(aq) + 2OH⁻(aq), which changes will decrease the equilibrium concentration of HgI₄²⁻(aq)?\n(a) Addition of 0.1 M-HI(aq)\n(b) Addition of HgO(s)\n(c) Addition of H₂O(l)\n(d) Addition of KOH(aq)",
+    "Answers": "(c), (d)"
+},
+{
+    "ID": "II.C.I.1",
+    "Questions": "Equilibrium constants are given for the following reactions at 27°C.\nSrCl₂·6H₂O(s) ⇌ SrCl₂·2H₂O(s) + 4H₂O (g); Kp = 2.56 × 10⁻¹⁰ atm⁴\nNa₂HPO₄·12H₂O(s) ⇌ Na₂HPO₄·7H₂O(s) + 5H₂O (g); Kp = 2.43 × 10⁻¹³ atm⁵\nNa₂SO₄·10H₂O(s) ⇌ Na₂SO₄ (s) + 10 H₂O(g); Kp = 1.024 × 10⁻²⁷ atm¹⁰\nThe vapour pressure of water at 27°C is 0.04 atm.\nWhich is the most effective drying agent at 27°C?\n(a) SrCl₂·2H₂O\n(b) Na₂HPO₄·7H₂O\n(c) Na₂SO₄\n(d) All, equally",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.C.I.2",
+    "Questions": "At what relative humidity will Na₂SO₄.10H₂O(s) be efflorescent when exposed to the air at 27°C?\n(a) below 50%\n(b) above 50%\n(c) above 5%\n(d) below 5%",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.C.I.3",
+    "Questions": "At what relative humidity will Na₂HPO₄·7H₂O(s) deliquescent when exposed to the air at 27°C?\n(a) below 75%\n(b) above 75%\n(c) above 7.5%\n(d) below 7.5%",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.C.II.4",
+    "Questions": "An amount of 0.20 moles of CO taken in a 2.463 L flask is maintained at 750 K along with a catalyst so that the following reaction can take place: CO(g) + 2H₂(g) ⇌ CH₃OH(g). Hydrogen is introduced until the total pressure of the system is 7.5 atm at equilibrium and 0.1 mole of methanol is formed.\nFor the reaction, Kp is\n(a) 0.16 atm⁻²\n(b) 6.25 atm⁻²\n(c) 0.04 atm⁻²\n(d) 1.56 atm⁻²",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.C.II.5",
+    "Questions": "For the reaction, K_c is [Given: (2.463)² = 6.07]\n(a) 6.07 M⁻²\n(b) 607 M⁻²\n(c) 151.75 M⁻²\n(d) 2428 M⁻²",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.C.II.6",
+    "Questions": "What is the final pressure if the same amount of CO and H₂ as before used, but with no catalyst so that the reaction does not take place?\n(a) 18.75 atm\n(b) 10.0 atm\n(c) 15.0 atm\n(d) 12.5 atm",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.C.III.7",
+    "Questions": "In the esterification reaction: C₂H₅OH(l) + CH₃COOH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l), an equimolar mixture of alcohol and acid taken initially, yields under equilibrium, the ester with mole fraction = 0.333. The equilibrium constant is\n(a) 10\n(b) 4\n(c) 100\n(d) 16",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.C.III.8",
+    "Questions": "What fraction of the alcohol would be esterified if the initial mole fraction of the alcohol is 0.333? [Given: √12 = 3.45]\n(a) 0.15\n(b) 0.85\n(c) 0.28\n(d) 0.72",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.C.III.9",
+    "Questions": "If in this esterification, initially equal moles of alcohol and acid are taken. At equilibrium, unreacted alcohol and acid, on treatment of sodium, produced H₂ which occupied 44.8 L at 0°C and 1 atm. The percentage esterification of acid and alcohol is\n(a) 25%\n(b) 33.3%\n(c) 50%\n(d) 66.7%",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.C.IV.10",
+    "Questions": "At 444°C, HI undergoes dissociation to the extent of 22.22% at equilibrium. What is the equilibrium constant of the reaction: 2HI(g) ⇌ H₂(g)+I₂(g), at 444°C?\n(a) 50\n(b) 0.02\n(c) 0.143\n(d) 3.14",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.C.IV.11",
+    "Questions": "What is the percentage dissociation of HI at 444°C, if the experiment is started with one mole of HI(g) and one mole of I₂(g)?\n(a) less than 22.22%\n(b) more than 22.22%\n(c) equal to 22.22%\n(d) nothing can be said",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.C.IV.12",
+    "Questions": "What is the percentage dissociation of HI at 444°C, if the experiment is started with one mole of HI(g) and 1 mole of He(g)?\n(a) less than 22.22%\n(b) more than 22.22%\n(c) equal to 22.22%\n(d) nothing can be said",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.C.V.13",
+    "Questions": "Le Chatelier performed an experiment in science academy. He introduced excess of solid NH₄HS into a closed 5.0 L vessel containing NH₃ gas at a partial pressure of P mm and at temperature 300 K. Due to it, dissociation of the solid takes place and at equilibrium, he measured the partial pressure of NH₃ gas equal to 625 mm and the total pressure of gases equal to 725 mm. The value of P is\n(a) 725\n(b) 625\n(c) 525\n(d) 100",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.C.V.14",
+    "Questions": "Kp for the reaction: NH₃(g) + H₂S(g) ⇌ NH₄HS(s), is\n(a) 6.25 × 10⁻⁴ atm⁻²\n(b) 1.6×10³ atm⁻²\n(c) 1.6 × 10⁻³ atm⁻²\n(d) 4.53 × 10⁻⁵ atm⁻²",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.C.V.15",
+    "Questions": "What would have been the partial pressure of NH₃, if excess solid NH₄HS had been taken in an evacuated vessel of the same volume at the same temperature?\n(a) 1000 mm\n(b) 750 mm\n(c) 500 mm\n(d) 250 mm",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.C.V.16",
+    "Questions": "The minimum mass of NH₄HS(s) needed to establish equilibrium in the same evacuated vessel at the same temperature is\n(a) (250 × 5) / (0.0821 × 300) g\n(b) (250 × 5 × 51) / (0.0821 × 300) g\n(c) (250 × 5 × 51) / (0.0821 × 300 × 760) g\n(d) (250 × 5) / (0.0821 × 300 × 760) g",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.C.VI.17",
+    "Questions": "For the system: A(g) + B(g) ⇌ C(g) + D(g), ΔH for the forward reaction is -24.942 kJ/mol. The activation energies of forward and backward reactions are in the ratio 2:3. Assume that the pre-exponential factor is the same for the forward and backward reactions. What is the equilibrium constant for the reaction at 27°C?\n(a) e⁵\n(b) e⁻⁴\n(c) e¹⁰\n(d) e⁻¹⁰",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.C.VI.18",
+    "Questions": "What is the ratio of rate constant of backward to forward direction?\n(a) e⁵\n(b) e⁻⁴\n(c) e¹⁰\n(d) e⁻¹⁰",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.C.VI.19",
+    "Questions": "Identify the correct statement?\n(a) The rate constant of forward reaction is e⁻³⁰.\n(b) The rate constant of forward reaction is e⁻³⁰.\n(c) The rate constant of backward reaction is e⁻³⁰.\n(d) The rate constant of backward reaction is e⁻³⁰.",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.C.VII.20",
+    "Questions": "The degree of dissociation of NH₃ in a vessel V₁ (initially evacuated) at TK at an equilibrium pressure of 50 atm is same as that of SO₃ (g) at a total equilibrium pressure equal to Kp for 2SO₃(g) ⇌ 2SO₂(g) + O₂(g). A vessel V₂ (capacity 100 L and maintained at T K) initially contains equimolar mixture of NH₃, N₂, H₂ and Ne. The total mass of the mixture containing four gases is 0.134 kg. At equilibrium, N₂ was found to be 52.24%, by mass. (Ne = 20). The degree of dissociation of NH₃ at TK, in the vessel of volume V₁, is\n(a) 0.33\n(b) 0.50\n(c) 0.67\n(d) 0.75",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.C.VII.21",
+    "Questions": "Kp for the reaction: 2NH₃(g) ⇌ N₂(g) + 3H₂(g) at T K is\n(a) 2700 atm²\n(b) 2500 atm²\n(c) 3.7 × 10⁻³ atm²\n(d) 4.0 × 10⁻⁴ atm²",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.C.VII.22",
+    "Questions": "The total pressure of gases at equilibrium in the vessel V₂ is\n(a) √((2700×8)/2.5) atm\n(b) √((2700×8)/(2.5×7)) atm\n(c) √((2700×81)/(2.5×(3.5)³)) atm\n(d) √((2700×81)/(3.5×(2.5)³)) atm",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.C.VIII.23",
+    "Questions": "In a vessel, the equilibria: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) and N₂(g) + 2H₂(g) ⇌ N₂H₄(g) are achieved simultaneously. Initially the vessel contains N₂ and H₂ in molar ratio of 9:13. The equilibrium pressure is 7P₀ in which due to ammonia, the pressure is P₀ and due to hydrogen, pressure is 2P₀. The value of Kp for the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) is\n(a) 20 P₀⁻²\n(b) 20 P₀² / 3\n(c) 1 / (20 P₀²)\n(d) 3 / (20 P₀²)",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.C.VIII.24",
+    "Questions": "The value of Kp for the reaction: N₂(g) + 2H₂(g) ⇌ N₂H₄(g) is\n(a) 20 P₀⁻²\n(b) P₀² / 3\n(c) 1 / (20 P₀²)\n(d) 3 / (20 P₀²)",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.D.1",
+    "Questions": "Statement I: For the reaction: A(g) ⇌ B(g), equilibrium moles of A and B are, respectively, 'a' and 'b' in 1 l container. If 5 moles of A and 3 moles of B are added, then reaction must move in forward direction.\nStatement II: Even if the amount of reactant added to a system at equilibrium is more than amount of product added at the same time, the equilibrium can shift in any direction.",
+    "Answers": "(d)"
+},
+{
+    "ID": "II.D.2",
+    "Questions": "Statement I: Total number of moles in a closed system at new equilibrium is less than the old equilibrium if some amount of a substance is removed from the system (reaction: A(g) ⇌ B(g))\nStatement II: The number of moles of the substance which is removed, is partially compensated as the system reaches to the new equilibrium.",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.D.3",
+    "Questions": "Statement I: A net reaction can occur only if a system is not at equilibrium.\nStatement II: All reactions occur to reach a state of equilibrium.",
+    "Answers": "(b)"
+},
+{
+    "ID": "II.D.4",
+    "Questions": "Statement I: A catalyst does not influence the value of equilibrium constant.\nStatement II: Catalyst influence the rates of both forward and backward reactions by the same factor.",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.D.5",
+    "Questions": "Statement I: Le Chatelier's principle predicts that an increase in temperature favours an endothermic process.\nStatement II: An endothermic process is one that absorbs heat and hence tends to minimize the temperature increase.",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.D.6",
+    "Questions": "Statement I: For a gaseous reversible reaction, Kp can be equal to or less than or even greater than the value of K_c.\nStatement II: The relation between Kp and K_c depends on the change in the number of moles of gaseous reactants and products as well as temperature.",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.D.7",
+    "Questions": "Statement I: The system N₂O₄(g) ⇌ 2NO₂(g) is said to be at equilibrium when the intensity of brown colour does not change with time.\nStatement II: N₂O₄(g) is colourless while NO₂(g) is coloured.",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.D.8",
+    "Questions": "Statement I: On cooling in a freezing mixture, colour of the following mixture turns to pink from deep blue for the reaction: Co(H₂O)₆²⁺(aq.)+4Cl⁻(aq.)⇌ CoCl₄²⁻(aq.)+ 6H₂O(l) (Blue to Pink)\nStatement II: The reaction is endo-thermic.",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.D.9",
+    "Questions": "Statement I: NaCl solution can be purified by passing excess of hydrogen chloride gas through NaCl solution.\nStatement II: Increase in chloride ion concentration in the solution results precipitation of NaCl.",
+    "Answers": "(a)"
+},
+{
+    "ID": "II.D.10",
+    "Questions": "Statement I: Decrease in volume of the system at constant temperature at equilibrium results increase in molar concentration of all the gaseous components involved in the reaction: A(g) + B(s) ⇌ 3C(g).\nStatement II: Decrease in volume of the system at constant temperature at equilibrium results increase in moles of A(g) and decrease in moles of C(g) but no change in the moles of B(s) in the reaction: A(g) + B(s) ⇌ 3C(g).",
+    "Answers": "(c)"
+},
+{
+    "ID": "II.E.1",
+    "Questions": "Match the following\nColumn I\n(A) Q = K_eq\n(B) Q < K_eq\n(C) Q > K_eq\n(D) K_eq >>> 1\nColumn II\n(P) Reaction is near to completion\n(Q) Reaction is not at equilibrium\n(R) Reaction is fast in forward direction\n(S) Reaction at equilibrium",
+    "Answers": "A → S; B → Q, R; C → Q; D → P"
+},
+{
+    "ID": "II.E.2",
+    "Questions": "Match the following\nColumn I\n(A) H₂(g) + I₂(g) ⇌ 2HI(g)\n(B) N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n(C) PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)\n(D) NH₄HS(s) ⇌ NH₃(g) + H₂S(g)\nColumn II\n(P) Kp = K_c (RT)\n(Q) Kp = K_c (RT)²\n(R) Kp = K_c (RT)⁻²\n(S) Kp = K_c",
+    "Answers": "A → S; B → R; C → P; D → Q"
+},
+{
+    "ID": "II.E.3",
+    "Questions": "Match Column I with Column II\nColumn I\n(A) H₂(g) + I₂(g) ⇌ 2HI(g)\n(B) CaCO₃(s) ⇌ CaO(s) + CO₂(g)\n(C) N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n(D) PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)\nColumn II\n(P) Unaffected by inert gas addition\n(Q) Forward shift by rise in pressure and backward shift by inert gas addition\n(R) Unaffected by increase in pressure\n(S) Backward shift by rise in pressure and forward shift by inert gas addition",
+    "Answers": "A → P, R; B → S; C → Q; D → S"
+},
+{
+    "ID": "II.E.4",
+    "Questions": "Match Column I with Column II\nColumn I\n(A) 2NH₃(g) ⇌ N₂(g) + 3H₂(g)\n(B) 2HI(g) ⇌ H₂(g) + I₂(g)\n(C) 2(CH₃COOH)(g) ⇌ (CH₃COOH)₂(g)\nColumn II\n(P) Extent of reaction will not increase with increase in pressure\n(Q) Concentration of product will increase with increase in temperature\n(R) Increase in volume will increase moles of reactant\n(S) Introduction of inert gas at constant pressure will shift the equilibrium in the product side.",
+    "Answers": "A → P, Q, S; B → P, Q; C → R"
+},
+{
+    "ID": "II.E.5",
+    "Questions": "Match Column I with Column II\nColumn I\n(A) 2NH₃(g) ⇌ N₂(g) + 3H₂(g)\n(B) PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)\n(C) 2HI(g) ⇌ H₂(g) + I₂(g)\n(D) NH₄HS(s) ⇌ NH₃(g) + H₂S(g)\nColumn II\n(P) Introduction of hydrogen gas at constant volume shift equilibrium back\n(Q) α increases on increasing temperature\n(R) On adding inert gas at constant volume, equilibrium state does not change\n(S) On increasing the pressure, concentration of all reactants increases\n(T) α is independent of equilibrium pressure",
+    "Answers": "A → P, Q, R, S; B → Q, R, S; C → P, Q, R, S, T; D → Q, R, S"
+},
+{
+    "ID": "II.E.6",
+    "Questions": "For an endothermic reaction: 4A(g) + B₂(g) ⇌ 2A₂B(g)\nMatch Column I (Graphs) with Column II (Changes).\nColumn I\n(A) [Graph showing smooth change to new equilibrium]\n(B) [Another graph with smooth changes]\n(C) [Graph with a sharp spike in one component]\n(D) [Graph with a sharp drop in all components]\nColumn II\n(P) Increase in temperature\n(Q) Increase in pressure\n(R) Addition of A₂B at equilibrium\n(S) Addition of inert gas at constant pressure\n(T) Increase in volume",
+    "Answers": "A → S, T; B → R; C → Q; D → P"
+},
+{
+    "ID": "II.E.7",
+    "Questions": "Match the following\nColumn I\n(A) PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)\n(B) 2NO₂(g)⇌ N₂O₄(g)\n(C) H₂(g) + I₂(g) ⇌ 2HI(g)\n(D) N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\nColumn II\n(P) Kp > K_c at 300 K\n(Q) Kp < K_c at 300 K\n(R) P is increased, reaction moves to right side\n(S) Inert gas added at constant volume, equilibrium will not be affected\n(T) Inert gas added at constant pressure, equilibrium will shift right",
+    "Answers": "A → P, S, T; B → Q, R, S; C → S; D → Q, R, S"
+},
+{
+    "ID": "II.E.8",
+    "Questions": "Match the following for the reaction: 2A(g) ⇌ 3B(g) + C(s); ∆H = -ve\nColumn I\n(A) Increase in total pressure at equilibrium\n(B) Increase in volume at equilibrium\n(C) Addition of He(g) at constant pressure\n(D) Increase in temperature at constant volume\nColumn II\n(P) Increase in moles of A\n(Q) Increase in moles of B\n(R) Increase in moles of C\n(S) Increase in molar concentration of A\n(T) Increase in molar concentration of B",
+    "Answers": "A → P, S, T; B → Q, R; C → Q, R; D → Q, R, T"
+},
+{
+    "ID": "II.E.9",
+    "Questions": "For the reaction: CaCO₃(s) ⇌ CaO(s) + CO₂(g); Kp = 2.463 atm at 900 K. The reaction is performed in a rigid vessel of 15.0 L capacity maintained at 900 K, starting with the following amounts of CaCO₃(s) (given in Column I). Match the correct information given in Column II for the amount given in Column I.\nColumn I\n(A) 100 g\n(B) 50 g\n(C) 25 g\nColumn II\n(P) 50% dissociation of CaCO₃\n(Q) 100% dissociation of CaCO₃\n(R) Addition of small amount of CO₂(g) may result shift of equilibrium in backward direction\n(S) Addition of 10 g of CaCO₃(s) may result increase in moles of CO₂(g)",
+    "Answers": "A → P, R; B → Q, R; C → Q, S"
+},
+{
+    "ID": "II.E.10",
+    "Questions": "Match the following\nColumn I (Reactions)\n(A) A(aq) ⇌ 2B(aq) + H₂O(l)\n(B) 3A(aq) ⇌ 2B(aq)\n(C) 2A(aq) + H₂O(l) ⇌ B(aq)\n(D) 2A(aq) ⇌ 3B(aq)\nColumn II (Effect on addition of water)\n(P) Moles of 'A' increases\n(Q) Moles of 'B' increases\n(R) Molar concentration of 'A' decreases\n(S) Molar concentration of 'B' decreases",
+    "Answers": "A → Q, R, S; B → P, R, S; C → P, R, S; D → Q, R, S"
+},
+{
+    "ID": "II.F.S.1",
+    "Questions": "The per cent dissociation of H₂S(g) if 0.1 mole of H₂S is kept in 0.4 L vessel at 1000 K for the reaction: 2H₂S(g) ⇌ 2H₂(g) + S₂(g); K_c = 1.0 × 10⁻⁶.",
+    "Answers": "2"
+},
+{
+    "ID": "II.F.S.2",
+    "Questions": "COF₂(g) passed over catalyst at 1000°C comes to equilibrium: 2COF₂(g) ⇌ CO₂(g) + CF₄(g). Analysis of the equilibrium mixture (after quick cooling to freeze the equilibrium) shows that 500 ml of the equilibrium mixture (STP) contains 300 ml (STP) of (COF₂ + CO₂) taking the total pressure to be 10 atm. The value of K_p for the reaction is",
+    "Answers": "4"
+},
+{
+    "ID": "II.F.S.3",
+    "Questions": "The dissociation constant of PCl₅ is 5 atm at 200°C. What pressure (in atm) will be developed when 2.085 g of this substance is vaporized at 200°C in 448 ml vessel originally full of chlorine gas at 0°C and 1 atm pressure?",
+    "Answers": "7"
+},
+{
+    "ID": "II.F.S.4",
+    "Questions": "A mixture of equimolar quantities of ethyl alcohol and acetic acid is prepared. Immediately after mixing, 10 ml of mixture was neutralized by 10 ml of N-NaOH. When the mixture reaches the equilibrium, 10 ml requires 5 ml of N-NaOH for neutralization. What is the equilibrium constant for the formation of ester?",
+    "Answers": "1"
+},
+{
+    "ID": "II.F.S.5",
+    "Questions": "The degree of dissociation of HI at a particular temperature of 0.8. Calculate the volume (in litre) of 1.6 M-N₂S₂O₃ solution required to neutralize the iodine present in an equilibrium mixture of a reaction when 2 moles each of H₂ and I₂ are heated in a closed vessel of 2 l capacity.",
+    "Answers": "2"
+},
+{
+    "ID": "II.F.S.6",
+    "Questions": "It was found that when 1.0 mole of dichloroacetic acid and 4.0 moles of amylene were heated together at 363 K to equilibrium state, 0.5 moles of ester were formed and the total volume of the mixture was 700 ml. In another experiment, 1.0 mole of the acid was heated at the same temperature with some moles of amylene and the equilibrium mixture now occupied a volume of 480 ml. If the amount of ester at equilibrium is 0.6 mole in the second experiment, how many moles of amylene was taken initially? Amylene is one of the pentene.",
+    "Answers": "4"
+},
+{
+    "ID": "II.F.S.7",
+    "Questions": "The minimum mass (in g) of CaCO₃ required to establish the equilibrium: CaCO₃(s)⇌ CaO(s) + CO₂(g), K_c = 0.05 M at a certain temperature in a 1.0 L container is",
+    "Answers": "5"
+},
+{
+    "ID": "II.F.S.8",
+    "Questions": "To 500 ml of 0.9 M-AgNO₃ solution was added 500 ml of 1.0M-Fe²⁺ solution and the reaction is allowed to achieve equilibrium at 25°C. Ag⁺ (aq) + Fe²⁺ (aq) ⇌ Fe³⁺ (aq) + Ag (s). For 30 ml of the solution, 25 ml of 0.06 M-KMnO₄ was required for oxidation of Fe²⁺ present. The equilibrium constant (in M⁻¹) for the reaction at 25°C is",
+    "Answers": "5"
+},
+{
+    "ID": "II.F.S.9",
+    "Questions": "A vessel of 2.5 L was filled with 0.01 mole of Sb₂S₃ and 0.01 mole of H₂ to attain equilibrium at 440°C as: Sb₂S₃(s) + 3H₂(g) ⇌ 2Sb(s) + 3H₂S(g). After equilibrium, the H₂S formed was analysed by dissolving it in water and treating with excess of Pb²⁺ to give 1.19 g of PbS as precipitate. The value of K_c of the reaction at 440°C is (Pb = 206)",
+    "Answers": "1"
+},
+{
+    "ID": "II.F.S.10",
+    "Questions": "At 25°C, 560 g of deuterium oxide, D₂O (d= 1.10 g/ml) and 504 g H₂O (d=0.997 g/ml) are mixed. The volumes are additive. Fifty per cent of the H₂O reacts to form HDO. The value of K at 25°C for the reaction: H₂O + D₂O ⇌ 2HDO is",
+    "Answers": "4"
+},
+{
+    "ID": "II.F.S.11",
+    "Questions": "Following equilibria are established on mixing two gases A₂ and C: 3A₂(g) ⇌ A₆(g); Kp = 1.6 atm⁻² and A₂(g) + C(g) ⇌ A₂C(g); Kp = 'x' atm⁻¹. When A₂(g) and C(g) are mixed in 2:1 molar ratio, the total pressure of gases at equilibrium is found to be 1.4 atm and partial pressure of A₆(g), 0.2 atm. The value of '4x' is",
+    "Answers": "6"
+},
+{
+    "ID": "II.F.S.12",
+    "Questions": "A 8.28 g sample of IBr(g) is placed in a container of capacity 164.2 ml and heated to 500 K. The equilibrium pressure of Br₂(g) in the system is 4.0 atm. The value of Kp for the reaction: 2IBr(g) ⇌ I₂(g) + Br₂(g) is (Given: Atomic masses: I = 127, Br = 80)",
+    "Answers": "4"
+},
+{
+    "ID": "II.F.S.13",
+    "Questions": "When 1.0 mole of H₂(g) and 3.0 moles of I₂ vapours are allowed to react, 'x' moles of HI(g) is formed at equilibrium. Addition of a further 2.0 moles of H₂(g) gave an additional 'x' moles of HI(g) at new equilibrium. The value of equilibrium constant for the reaction: H₂(g) + I₂(g) ⇌ 2HI(g) is",
+    "Answers": "4"
+},
+{
+    "ID": "II.F.S.14",
+    "Questions": "When N₂O₅(g) is heated to 600 K, it dissociates as: N₂O₅(g) ⇌ N₂O₃(g) + O₂(g); Kc = 2.5 M. Simultaneously, N₂O₃(g) decomposes as: N₂O₃(g) ⇌ N₂O(g) + O₂(g). When initially 4.0 moles of N₂O₅(g) is taken in a 2.01 flask and allowed to attain equilibrium, the equilibrium concentration of O₂(g) is found to be 2.5 M. The equilibrium concentration of N₂O(g) (in M) is",
+    "Answers": "1"
+},
+{
+    "ID": "II.F.S.15",
+    "Questions": "The entire system is at equilibrium at 300 K. The volume of each chamber is 82.1 L. The total pressure in left chamber is 4 atm and in right chamber, 2 atm. NH₃(g) and H₂S(g) are obtained only from the dissociation of NH₄HS(s). The value of Kp (in atm²) for the reaction: NH₄HS(s) ⇌ NH₃(g) + H₂S(g), is\n[Diagram showing two chambers separated by a Fixed SPM, which allows only He(g) to cross it. Left chamber has NH₄HS(s), NH₃(g), H₂S(g), He(g) at equilibrium. Right chamber has He(g).]",
+    "Answers": "1"
+},
+{
+    "ID": "II.F.F.1",
+    "Questions": "The equilibrium: p-xyloquinone + methylene white ⇌ p-xylohydroquinone + methylene blue, may be studied conveniently by observing the difference in colour between methylene blue and methylene white. One millimole of methylene blue was added to 1.00 l of solution that was 0.24 M in p-xylohydroquinone and 0.012 M in p-xyloquinone. It was then found that 4.0% of the added methylene blue was reduced to methylene white. What is the equilibrium constant for the above reaction? The equation is balanced with 1 molecule of each of the four substances.",
+    "Answers": "0480"
+},
+{
+    "ID": "II.F.F.2",
+    "Questions": "The theoretically computed equilibrium constant for the polymerization of formaldehyde to glucose in aqueous solution is 6.4 × 10¹⁹ M⁻⁵. If 1 M solution of glucose were taken, what would be the equilibrium concentration of formaldehyde, in milligram per litre?",
+    "Answers": "0015"
+},
+{
+    "ID": "II.F.F.3",
+    "Questions": "A container of capacity V L contains an equilibrium mixture that consists of 2 moles each of PCl₅, PCl₃ and Cl₂ (all as gases). The pressure is 30.3975 kPa and temperature is T K. A certain amount ('x' mole) of Cl₂(g) is now introduced keeping the pressure and temperature constant, until the equilibrium volume becomes 2V L. The value of '90x' is",
+    "Answers": "0600"
+},
+{
+    "ID": "II.F.F.4",
+    "Questions": "The standard reaction enthalpy of the reaction: Zn(s) + H₂O(g) ⇌ ZnO(s) + H₂(g) is + 223 kJ/mol and the standard reaction Gibb's functions is +33 kJ mol⁻¹ at 1520 K. Assuming that both ∆H and ∆S remain constant, estimate the minimum temperature (in Kelvin) above which the equilibrium constant becomes greater than one.",
+    "Answers": "1784"
+},
+{
+    "ID": "II.F.F.5",
+    "Questions": "The diamonds are formed from graphite under very high pressure. Given that the densities of graphite and diamond are, respectively, 2.4 and 3.6 g/cm³ and are independent of pressure. ∆G° values for graphite and diamond are zero and 3.0 kJ/mol, respectively. If the equilibrium pressure at which graphite is converted into diamond at 25°C is P bar, then the value of 0.01P is",
+    "Answers": "0180"
+},
+{
+    "ID": "II.F.F.6",
+    "Questions": "For the equilibrium: NiO(s) + CO(g) ⇌ Ni(s) + CO₂(g), ∆G°(cal/mol⁻¹) = − 5320 - 5.6T (K). The temperature (in Kelvin) at which the gaseous mixture at equilibrium contains 400 ppm of CO, by mole, is [ln10 = 2.3, ln2 = 0.7]",
+    "Answers": "0532"
+},
+{
+    "ID": "II.F.F.7",
+    "Questions": "Assume that the decomposition of HNO₃ can be represented as 4HNO₃(g) ⇌ 4NO₂(g) + 2H₂O(g) + O₂(g) and that at a given temperature of 400 K and pressure of 30 atm, the reaction approaches equilibrium. At equilibrium, the partial pressure of HNO₃(g) is 2 atm. The value of Kc (in M³) for the reaction at 400 K is",
+    "Answers": "0032"
+},
+{
+    "ID": "II.F.F.8",
+    "Questions": "Gaseous nitrosyl chloride (NOCl) and N₂ are taken in a flask, sealed and heated to some temperature where the total pressure would have been 1.0 bar had not the following equilibrium been established: 2NOCl(g) ⇌ 2NO(g) + Cl₂(g). But the actual pressure was found to be 1.2 bar. Now, into the equilibrium mixture, some Cl₂ gas was introduced at constant volume and temperature so that the total pressure would have been 8.3 bar had no further reaction occurred but the actual pressure was found to be 8.2 bar. The equilibrium constant, Kp (in bar), for the decomposition reaction under the given experimental condition is (Answer by multiplying the Kp value with 10)",
+    "Answers": "0032"
+},
+{
+    "ID": "II.F.F.9",
+    "Questions": "Three ideal gases A, B and D were taken in a vessel of constant volume in molar ratio of 1:2:3, respectively, causing the reaction: A(g) + 2B(g) ⇌ C(g). After a long time, when the equilibrium is established, the total pressure was 5/6th of the initial total pressure. At this point, the volume was reduced to half and a catalyst was added starting the reaction: 2C(g) + D(g) ⇌ 2F(g). If at the second equilibrium, moles of A and C are equal and the ratio of equilibrium total pressure at second equilibrium to the equilibrium total pressure at the first equilibrium is 'x:100', then the value of 'x' is",
+    "Answers": "0170"
+},
+{
+    "ID": "II.F.F.10",
+    "Questions": "An amount of 0.2 mole of each A₂(g) and B₂(g) is introduced in a sealed flask and heated to 2000 K where following equilibrium is established: A₂(g) + B₂(g) ⇌ 2 AB(g). At equilibrium, moles of AB is 0.3. At this stage, 0.1 mole of C₂(g) is added and a new equilibrium is also established as: A₂(g) + C₂(g) ⇌ 2 AC (g). At the new equilibrium, the moles of AB becomes 0.24. What is the equilibrium constant for the second reaction?",
+    "Answers": "0018"
+},
+{
+    "ID": "II.F.F.11",
+    "Questions": "At 27°C, the rate of forward reaction at time, t, is e¹ times greater than that of reverse reaction for the reaction: A + B ⇌ P. The magnitude of free energy change involved at that time (in cal) is",
+    "Answers": "2400"
+},
+{
+    "ID": "II.F.F.12",
+    "Questions": "An amount of 5.0 moles of 'A', 'B' and 'D' is added to a 1.0 L container. A(g) + B(g) ⇌ C(g); Kc = 2 × 10¹⁰ M⁻¹ and A(g) + D(g) ⇌ E(g); K = 10¹⁰ M⁻¹. If at equilibrium, the moles of 'B' is 'x', then the value of '150x' is",
+    "Answers": "0250"
+},
+{
+    "ID": "II.F.F.13",
+    "Questions": "For the reaction: Br₂(l) + Cl₂(g) ⇌ 2BrCl(g); Kp = 1 atm. In a closed container of volume 164 L, initially 10 moles of Cl₂(g) are present at 27°C. What minimum mass (in g) of Br₂(l) must be introduced into this container so that above equilibrium is maintained at a total pressure of 2.25 atm. Vapour pressure of Br₂(l) at 27°C is 0.25 atm. Assume that volume occupied by the liquid is negligible. (R = 0.082 L-atm/K-mol, Atomic mass of Br = 80)",
+    "Answers": "0800"
+},
+{
+    "ID": "II.F.F.14",
+    "Questions": "In a 10.0 L container, an equilibrium was established between SO₃, SO₂, and O₂ gases, by starting with SO₃ only. The density of equilibrium mixture was found to be 16 g/litre at a temperature of 900/0.0821 K. If the degree of dissociation of SO₃ is 40%, then the value of Kp (in atm) for the reaction: 2SO₃(g) ⇌ 2SO₂(g) + O₂(g), is",
+    "Answers": "0016"
+},
+{
+    "ID": "II.F.F.15",
+    "Questions": "Equimolar mixture of two gases A₂ and B₂ is taken in a rigid vessel at constant temperature 300 K. The gases achieve equilibrium as: A₂(g) ⇌ 2A(g), Kp = x atm; B₂(g) ⇌ 2B(g), Kp = y atm; A₂(g) + B₂(g) ⇌ 2AB(g), Kp = 2. If the initial pressure in the container was 2 atm and the final pressure at equilibrium is 2.75 atm in which the partial pressure of AB(g) is 0.5 atm, the value of y:x is",
+    "Answers": "0008"
+}
+]

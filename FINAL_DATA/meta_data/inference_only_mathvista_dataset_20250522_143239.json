@@ -1,0 +1,9002 @@
+[
+  {
+    "id": "1",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "2",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "3",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "4",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "5",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "6",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "7",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "8",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "9",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "10",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "11",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "12",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "13",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "14",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "15",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "16",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "17",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "18",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "19",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "20",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "21",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "22",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "23",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "24",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "25",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "26",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "27",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "28",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "29",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "30",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "31",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "32",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "33",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "34",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "35",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "36",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "37",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "38",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "39",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "40",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "41",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "42",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "43",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "44",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "45",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "46",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "47",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "48",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "49",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "50",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "51",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "52",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "53",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "54",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "55",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "56",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "57",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "58",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "59",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "60",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "61",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "62",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "63",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "64",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "65",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "66",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "67",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "68",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "69",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "70",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "71",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "72",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "73",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "74",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "75",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "76",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "77",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "78",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "79",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "80",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "81",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "82",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "83",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "84",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "85",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "86",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "87",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "88",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "89",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "90",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "91",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "92",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "93",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "94",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "95",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "96",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "97",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "98",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "99",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "100",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "101",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "102",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "103",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "104",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "105",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "106",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "107",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "108",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "109",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "110",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "111",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "112",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "113",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "114",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "115",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "116",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "117",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "118",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "119",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "120",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "121",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "122",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "123",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "124",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "125",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "126",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "127",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "128",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "129",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "130",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "131",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "132",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "133",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "134",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "135",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "136",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "137",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "138",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "139",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "140",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "141",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "142",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "143",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "144",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "145",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "146",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "147",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "148",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "149",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "150",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "151",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "152",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "153",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "154",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "155",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "156",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "157",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "158",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "159",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "160",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "161",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "162",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "163",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "164",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "165",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "166",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "167",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "168",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "169",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "170",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "171",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "172",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "173",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "174",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "175",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "176",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "177",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "178",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "179",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "180",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "181",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "182",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "183",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "184",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "185",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "186",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "187",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "188",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "189",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "190",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "191",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "192",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "193",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "194",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "195",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "196",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "197",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "198",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "199",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "200",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "201",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "202",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "203",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "204",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "205",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "206",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "207",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "208",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "209",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "210",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "211",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "212",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "213",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "214",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "215",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "216",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "217",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "218",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "219",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "220",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "221",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "222",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "223",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "224",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "225",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "226",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "227",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "228",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "229",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "230",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "231",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "232",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "233",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "234",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "235",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "236",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "237",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "238",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "239",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "240",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "241",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "242",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "243",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "244",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "245",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "246",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Thermodynamics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "247",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "248",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "249",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "250",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "251",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "252",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "253",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "254",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "255",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "256",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "257",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "258",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "259",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "260",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "261",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "262",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "263",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "264",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "265",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "266",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "267",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "268",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "269",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "270",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "271",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "272",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "273",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "274",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "275",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "276",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "277",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "278",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "279",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "280",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "281",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "282",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "283",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "284",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "285",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "286",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "287",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "288",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "289",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "290",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "291",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "292",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "293",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "294",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "295",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "296",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "297",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "298",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "299",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "300",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "301",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "302",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "303",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "304",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "305",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "306",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "307",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "308",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "309",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "310",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "311",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "312",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "313",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "314",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "315",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "316",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "317",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "318",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "319",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "320",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "321",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "322",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "323",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "324",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "325",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "326",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "327",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "328",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "329",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "330",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "331",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "332",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "333",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "334",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "335",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "336",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "337",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "338",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "339",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "340",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "341",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "342",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "343",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "344",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "345",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "346",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "347",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "348",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "349",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "350",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "351",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "352",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "353",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Differential Equations",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "354",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "355",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "356",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "357",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "358",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "359",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "360",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "361",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "362",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "363",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "364",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "365",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "366",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "367",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "368",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "369",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "370",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "371",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "372",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "373",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "374",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "375",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "376",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "377",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "378",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "379",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "380",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "381",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "382",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "383",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "384",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "385",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "386",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "387",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "388",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "389",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "390",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "391",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "392",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "393",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "394",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "395",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "396",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "397",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "398",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "399",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "400",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "401",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "402",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "403",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "404",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "405",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "406",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "407",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "408",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "409",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "410",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "411",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "412",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "413",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "414",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "415",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "416",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "417",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "418",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "419",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "420",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "421",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "422",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "423",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "424",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "425",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "426",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "427",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "428",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "429",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "430",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "431",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "432",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "433",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "434",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "435",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "436",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "437",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "438",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "439",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "440",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "441",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "442",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "443",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "444",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "445",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "446",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "447",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "448",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "449",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "450",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "451",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "452",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "453",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "454",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "455",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "456",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "457",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "458",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "459",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "460",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "461",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "462",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "463",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "464",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "465",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "466",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "467",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "468",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "469",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "470",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "471",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "472",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "473",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "474",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "475",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "476",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "477",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "478",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "479",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "480",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "481",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "482",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "483",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "484",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "485",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "486",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "487",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "488",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "489",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "490",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "491",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "492",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "493",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "494",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "495",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "496",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "497",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "498",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "499",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "500",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "501",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "502",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "503",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "504",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "505",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "506",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "507",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "508",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "509",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "510",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "511",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "512",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "513",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "514",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "515",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "516",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "517",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "518",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "519",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "520",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "521",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "522",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "523",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "524",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "525",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "526",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "527",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "528",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "529",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "530",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "531",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "532",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "533",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "534",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "535",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "536",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "537",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "538",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "539",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "540",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Fraction",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "541",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "542",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "543",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "544",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "545",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "546",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "547",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "548",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "549",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "550",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "551",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "552",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "553",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "554",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "555",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "556",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "557",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "558",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "559",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "560",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "561",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "562",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "563",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "564",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "565",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "566",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "567",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "568",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "569",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "570",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "571",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "572",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "573",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "574",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "575",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "576",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "577",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Linear Algebra",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "578",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "579",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "580",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "581",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "582",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "583",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "584",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "585",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "586",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "587",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "588",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "589",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "590",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "591",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "592",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "593",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "594",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "595",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "596",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "597",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "598",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "599",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "600",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "601",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "602",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "603",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "604",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "605",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "606",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "607",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "608",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "609",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "610",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "611",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "612",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "613",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "614",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "615",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "616",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "617",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "618",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "619",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "620",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "621",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "622",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "623",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "624",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "625",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "626",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "627",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "628",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "629",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "630",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "631",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "632",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "633",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "634",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "635",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "636",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "637",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "638",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "639",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "640",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "641",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "642",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "643",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "644",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "645",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "646",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "647",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "648",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "649",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "650",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "651",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "652",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "653",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "654",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "655",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "656",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "657",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "658",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "659",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "660",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "661",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "662",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "663",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "664",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "665",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "666",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "667",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "668",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "669",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "670",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "671",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "672",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "673",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "674",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "675",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "676",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "677",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "678",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "679",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "680",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "681",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "682",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "683",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "684",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "685",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "686",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "687",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "688",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "689",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "690",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "691",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "692",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "693",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "694",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "695",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "696",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "697",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "698",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "699",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "700",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "701",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "702",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "703",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "704",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "705",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "706",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "707",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "708",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Optics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "709",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "710",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "711",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "712",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "713",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "714",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "715",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "716",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "717",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "718",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Probability",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "719",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "720",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "721",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "722",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "723",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "724",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "725",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "726",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "727",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "728",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "729",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "730",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "731",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "732",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "733",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "734",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "735",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "736",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "737",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "738",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "739",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "740",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "741",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "742",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "743",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "744",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "745",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "746",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "747",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "748",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "749",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "750",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "751",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "752",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "753",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "754",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "755",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "756",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "757",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "758",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "759",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "760",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "761",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "762",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "763",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "764",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "765",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "766",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "767",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "768",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "769",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "770",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "771",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "772",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "773",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "774",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "775",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "776",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "777",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "778",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "779",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "780",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "781",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "782",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "783",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "784",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "785",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "786",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "787",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "788",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "789",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "790",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "791",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Electromagnetism",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "792",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "793",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "794",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "795",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "796",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "797",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "798",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "799",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "800",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "801",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "802",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "803",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "804",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "805",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "806",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "807",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "808",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "809",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "810",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "811",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "812",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "813",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "814",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "815",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "816",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "817",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "818",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "819",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "820",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Trigonometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "821",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "822",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "823",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "824",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "825",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "826",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "827",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "828",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "829",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "830",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "831",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "832",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "833",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "834",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "835",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "836",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "837",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "838",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "839",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "840",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "841",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "842",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "843",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "844",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "845",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "846",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "847",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "848",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "849",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "850",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "851",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "852",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "853",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "854",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "855",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "856",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "857",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "858",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "859",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "860",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "861",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "862",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "863",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "864",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "865",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "866",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "867",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "868",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "869",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "870",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "871",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "872",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "873",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "874",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "875",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "876",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "877",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "878",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "879",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "880",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "881",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "882",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "883",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "884",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "885",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "886",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "887",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "888",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "889",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "890",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "891",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "892",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "893",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "894",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "895",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "896",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "897",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "898",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "899",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "900",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "901",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "902",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "903",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "904",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "905",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "906",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "907",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "908",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "909",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "910",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "911",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "912",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "913",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "914",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "915",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "916",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "917",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "918",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "919",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "920",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "921",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "922",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "923",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "924",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "925",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "926",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "927",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "928",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "929",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "930",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "931",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "932",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "933",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "934",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "935",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "936",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "937",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "938",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "939",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "940",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "941",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "942",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "943",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "944",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "945",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "946",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "947",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "948",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "949",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "950",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "951",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "952",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "953",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "954",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "955",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "956",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "957",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "958",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "959",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "960",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "961",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "962",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "963",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "964",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "965",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "966",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "967",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "968",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "969",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "970",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "971",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "972",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "973",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "974",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "975",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "976",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "977",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "978",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "979",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "980",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Number Theory",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "981",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "982",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "983",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "984",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "985",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Statistics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "986",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "987",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Calculus",
+      "difficulty": "Level 4"
+    }
+  },
+  {
+    "id": "988",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "989",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "990",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Geometry",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "991",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "992",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "993",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "994",
+    "inference": {
+      "subject": "EXT",
+      "type": "MCQ",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "995",
+    "inference": {
+      "subject": "MATHS",
+      "type": "Numerical",
+      "subfield": "Algebra",
+      "difficulty": "Level 2"
+    }
+  },
+  {
+    "id": "996",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "997",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "MCQ",
+      "subfield": "Mechanics",
+      "difficulty": "Level 1"
+    }
+  },
+  {
+    "id": "998",
+    "inference": {
+      "subject": "MATHS",
+      "type": "MCQ",
+      "subfield": "Geometry",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "999",
+    "inference": {
+      "subject": "PHYSICS",
+      "type": "Numerical",
+      "subfield": "Mechanics",
+      "difficulty": "Level 3"
+    }
+  },
+  {
+    "id": "1000",
+    "inference": {
+      "subject": "EXT",
+      "type": "Numerical",
+      "subfield": "EXT",
+      "difficulty": "Level 1"
+    }
+  }
+]

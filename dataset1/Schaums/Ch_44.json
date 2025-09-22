@@ -1,0 +1,79 @@
+[
+  {
+    "question_number": 44.1,
+    "Questions": "Estimate the energy required to tear an n = 1 (i.e., inner-shell) electron from a gold atom (Z = 79).",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Because an electron in the innermost shell of the atom is not much influenced by distant electrons in outer shells, we can consider it to be the only electron present. Then its energy is given approximately by an appropriately modified version of the energy formula of Chapter 43 that takes into consideration the charge (Ze) of the nucleus. With n = 1, that formula, Eₙ = -13.6(Z²/n²) eV, gives E₁ = -13.6(79)² / 1² = -84900 eV = 84.9 keV. To tear the electron loose (i.e., remove it to the Eₓ = 0 level), we must give it an energy of about 84.9 keV."
+  },
+  {
+    "question_number": 44.2,
+    "Questions": "What are the quantum numbers for the electrons in the lithium atom (Z = 3) when the atom is in its ground state?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The Pauli Exclusion Principle tells us that the lithium atom’s three electrons can take on the following quantum numbers: Electron 1: n = 1, ℓ = 0, mₗ = 0, mₛ = ±1/2, Electron 2: n = 1, ℓ = 0, mₗ = 0, mₛ = -1/2, Electron 3: n = 2, ℓ = 0, mₗ = 0, mₛ = ±1/2. Notice that, when n = 1, ℓ must be zero and mₗ must be zero (why?). Then there are only two mₛ possibilities, and the third electron has to go into the n = 2 level. Since it is in the second Bohr orbit, it is more easily removed from the atom than an n = 1 electron. That is why lithium ionizes easily to Li⁺."
+  },
+  {
+    "question_number": 44.3,
+    "Questions": "Why is sodium (Z = 11) the next univalent atom after lithium?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Sodium has a single electron in the n = 3 shell. To see why this is necessarily so, notice that the Pauli Exclusion Principle allows only two electrons in the n = 1 shell. The next eight electrons can fit in the n = 2 shell, as follows: n = 2, ℓ = 0, mₗ = 0, mₛ = ±1/2; n = 2, ℓ = 1, mₗ = -1, mₛ = ±1/2; n = 2, ℓ = 1, mₗ = 0, mₛ = ±1/2; n = 2, ℓ = 1, mₗ = +1, mₛ = ±1/2. The next electrons go in the n = 3 shell."
+  },
+  {
+    "question_number": 44.4,
+    "Questions": "(a) Estimate the wavelength of the photon emitted as an electron falls from the n = 2 shell to the n = 1 shell in the gold atom (Z = 79). (b) About how much energy must bombarding electrons have to excite gold to emit this emission line?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "As noted in Problem 44.1, to a first approximation the energies of the innermost electrons of a large-Z atom are given by Eₙ = -13.6Z²/n² eV. Thus, we have ΔE₂,₁ = 13.6(79)²(1/1² - 1/2²) = 63 700 eV. This corresponds to a photon with λ = (1240 nm)(1 eV / 63 700 eV) = 0.0195 nm. It is clear from this result that inner-shell transitions in high-Z atoms give rise to the emission of X-rays."
+  },
+  {
+    "question_number": 44.5,
+    "Questions": "Suppose electrons had no spin, so that the spin quantum number did not exist. If the Exclusion Principle still applied to the remaining quantum numbers, what would be the first three univalent atoms?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The electrons would take on the following quantum numbers: Electron 1: n = 1, ℓ = 0, mₗ = 0 (univalent); Electron 2: n = 2, ℓ = 0, mₗ = 0 (univalent); Electron 3: n = 2, ℓ = 1, mₗ = 0 (univalent). Each electron marked 'univalent' is the first electron in a new shell. Since an electron is easily removed if it is the outermost electron in the atom, atoms with that number of electrons are univalent. They are the atoms with Z = 1 (hydrogen), Z = 2 (helium), and Z = 6 (carbon). Can you show that Z = 15 (phosphorus) would also be univalent?"
+  },
+  {
+    "question_number": 44.6,
+    "Questions": "Electrons in an atom that have the same value for ℓ but different values for mₗ and mₛ are said to be in the same subshell. How many electrons exist in the ℓ = 3 subshell?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Because mₛ is restricted to the values ±1/2, and mₗ = ±1, ±2, ±3, and mₛ = ±1/2 only, the possibilities for ℓ = 3 are (mₛ, mₗ) = (0, ±1), (1, ±1), (−1, ±1), (2, ±1), (−2, ±1), (3, ±1) which gives 14 possibilities. Therefore, 14 electrons can exist in this subshell."
+  },
+  {
+    "question_number": 44.7,
+    "Questions": "An electron beam in an X-ray tube is accelerated through 40 kV and is incident on a tungsten target. What is the shortest wavelength emitted by the tube?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "When an electron in the beam is stopped by the target, the photons emitted have an upper limit for their energy, namely, the energy of the incident electron. In this case, that energy is 40 keV. The corresponding photon has a wavelength given by λ = (1240 nm)(1.00 eV / 40 000 eV) = 0.031 nm."
+  },
+  {
+    "question_number": 44.8,
+    "Questions": "If there were no mₗ quantum number, what would be the first four univalent atoms?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. H, Li, N, Al"
+  },
+  {
+    "question_number": 44.9,
+    "Questions": "Helium has a closed (completely filled) outer shell and is nonreactive because the atom does not easily lose an electron. Show why neon (Z = 10) is the next nonreactive element.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. Neon has a closed shell, and thus, it does not easily lose an electron. After it, the next nonreactive element is Neon."
+  },
+  {
+    "question_number": 44.10,
+    "Questions": "It is desired to eject an electron from the n = 1 shell of a uranium atom (Z = 92) by means of the atomic photoelectric effect. Approximately what is the longest-wavelength photon capable of doing this?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.0108 nm"
+  },
+  {
+    "question_number": 44.11,
+    "Questions": "Show that the maximum number of electrons that can exist in the ℓth subshell is 2(2ℓ + 1).",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The maximum number of electrons that can exist in the ℓth subshell is given by 2(2ℓ + 1)."
+  }
+]

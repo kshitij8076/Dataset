@@ -1,0 +1,170 @@
+[
+  {
+    "question_number": 37.1,
+    "Questions": "The speed of light in water is (3/4)c. What is the effect, on the frequency and wavelength of light, of passing from vacuum (or air, to good approximation) into water? Compute the refractive index of water.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The same number of wave peaks leave the air each second as enter into the water. Hence the frequency is the same in the two materials. But because wavelength = (speed)/(frequency), the wavelength in water is three-fourths that in air. The refractive index of water is 1.33."
+  },
+  {
+    "question_number": 37.2,
+    "Questions": "A glass plate is 0.60 cm thick and has a refractive index of 1.55. How long does it take for a pulse of light incident normally to pass through the plate?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "t = 0.0060 m / (2.998 × 10^8 m/s / 1.55) = 3.1 × 10^-11 s."
+  },
+  {
+    "question_number": 37.3,
+    "Questions": "As shown in Fig. 37-4, a ray of light in air strikes a glass plate (n = 1.50) at an incidence angle of 50°. Determine the angles of the reflected and transmitted rays.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_107.png",
+    "solution": "The law of reflection applies to the reflected ray. Therefore, the angle of reflection is 50°. For the refracted ray, n1 sin θ1 = n2 sin θ2 becomes sin θ2 = (1.0) sin 50° / 1.5 = 0.51, and θ2 ≈ 31°."
+  },
+  {
+    "question_number": 37.4,
+    "Questions": "The refractive index of diamond is 2.42. What is the critical angle for light passing from diamond to air?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Using n1 sin θc = n2 sin 90°, we get sin θc = 1 / 2.42 = 0.413, hence θc ≈ 24.4°."
+  },
+  {
+    "question_number": 37.5,
+    "Questions": "What is the critical angle for light passing from glass (n = 1.54) to water (n = 1.33)?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "n1 sin θc = n2 sin 90° gives sin θc = (1.33 / 1.54) = 0.864, hence θc ≈ 59.7°."
+  },
+  {
+    "question_number": 37.6,
+    "Questions": "A layer of oil (n = 1.45) floats on water (n = 1.33). A ray of light shines onto the oil with an incidence angle of 40.0°. Find the angle the ray makes in the water.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_108.png",
+    "solution": "At the oil-water interface, Snell's Law gives n1 sin 40° = n2 sin θoil, and at the oil-water interface, we have n2 sin θoil = nwater sin θwater. Solving, θwater = 28.9°."
+  },
+  {
+    "question_number": 37.7,
+    "Questions": "As shown in Fig. 37-6, a small luminous body, at the bottom of a pool of water (n = 4/3) 2.00 m deep, emits rays upward in all directions. A circular area of light is formed at the surface of the water. Determine the radius R of the circle of light.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_109.png",
+    "solution": "The circular area is formed by rays refracted into the air. The angle θc must be the critical angle, because total internal reflection occurs when the angle of incidence in the water is greater than the critical angle. Hence, θc ≈ 48.6°, and R = (2.00 m) tan 48.6° = 2.26 m."
+  },
+  {
+    "question_number": 37.8,
+    "Questions": "What is the minimum value of the refractive index for a 45.0° prism which is used to turn a beam of light by total internal reflection through a right angle?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_110.png",
+    "solution": "The ray enters the prism without deviation, since it strikes side AB normally. The critical angle of the prism must be smaller than 45.0° for the ray to be totally reflected at side AC. Solving, n2 = 1 / sin 45.0° = 1.41."
+  },
+  {
+    "question_number": 37.9,
+    "Questions": "The glass prism shown in Fig. 37-8 has an index of refraction of 1.55. Find the angle of deviation D for the case shown.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_111.png",
+    "solution": "No deflection occurs at the entering surface, because the incidence angle is zero. At the second surface, θ1 = 30°, and from Snell’s Law, we get D = 50.8° - 30° = 21°."
+  },
+  {
+    "question_number": 37.10,
+    "Questions": "As shown in Fig. 37-9, an object is at a depth d beneath the surface of a transparent material of refractive index n. As viewed from a point almost directly above, how deep does the object appear to be?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_112.png",
+    "solution": "The apparent depth is only a fraction 1/n of the actual depth d."
+  },
+  {
+    "question_number": 37.11,
+    "Questions": "A glass plate 4.00 mm thick is viewed from above through a microscope. The microscope must be lowered 2.58 mm as the operator shifts from viewing the top surface to viewing the bottom surface through the glass. What is the index of refraction of the glass?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We found in Problem 37.10 that the apparent depth of the plate will be 1/n as large as its actual depth. Hence, n = 1.55 for the glass."
+  },
+  {
+    "question_number": 37.12,
+    "Questions": "As shown in Fig. 37-10, a ray enters the flat end of a long rectangular block of glass that has a refractive index of n2. Show that all entering rays can be totally internally reflected only if n2 > 1.414.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_113.png",
+    "solution": "The larger θ1 is, the smaller θ2 will be. Therefore the ray is most likely to escape if θ1 = 90°. For the ray to just escape, θ4 = 90°. Thus, n2 sin θ2 = n1 sin θ4, becomes n2 = 1 / sin 45° = 1.414."
+  },
+  {
+    "question_number": 37.13,
+    "Questions": "The speed of light in a certain glass is 1.91 x 10^8 m/s. What is the refractive index of the glass?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.57"
+  },
+  {
+    "question_number": 37.14,
+    "Questions": "What is the frequency of light which has a wavelength in air of 546 nm? What is its frequency in water (n = 1.33)? Its speed in water? Its wavelength in water?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "549 THz, 549 THz, 2.25 x 10^8 m/s, 411 nm"
+  },
+  {
+    "question_number": 37.15,
+    "Questions": "A beam of light strikes the surface of water at an incidence angle of 60°. Determine the directions of the reflected and refracted rays. For water, n = 1.33.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "60° reflected into air, 41° refracted into water"
+  },
+  {
+    "question_number": 37.16,
+    "Questions": "The critical angle for light passing from rock salt into air is 40.5°. Calculate the index of refraction of rock salt.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "1.54"
+  },
+  {
+    "question_number": 37.17,
+    "Questions": "What is the critical angle when light passes from glass (n = 1.50) into air?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "41.8°"
+  },
+  {
+    "question_number": 37.18,
+    "Questions": "The absolute indices of refraction of diamond and crown glass are 5/2 and 3/2 respectively. Compute (a) the refractive index of diamond relative to crown glass and (b) the critical angle between diamond and crown glass.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "a) 5/3, b) 37°"
+  },
+  {
+    "question_number": 37.19,
+    "Questions": "A pool of water (n = 4/3) is 60 cm deep. Find its apparent depth when viewed vertically through air.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "45 cm"
+  },
+  {
+    "question_number": 37.20,
+    "Questions": "In a vessel, a layer of benzene (n = 1.50) 6 cm deep floats on water (n = 1.33) 4 cm deep. Determine the apparent distance of the bottom of the vessel below the upper surface of the benzene when viewed vertically through air.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "7 cm"
+  },
+  {
+    "question_number": 37.21,
+    "Questions": "A mirror is made of plate glass (n = 3/2) 1.0 cm thick and silvered on the back. A man is 50.0 cm from the front face of the mirror. If he looks perpendicularly into it, at what distance behind the front face of the mirror will his image appear to be?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "51.3 cm"
+  },
+  {
+    "question_number": 37.22,
+    "Questions": "A straight rod is partially immersed in water (n = 1.33). Its submerged portion appears to be inclined 45° with the surface when viewed vertically through air. What is the actual inclination of the rod?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "53°"
+  },
+  {
+    "question_number": 37.23,
+    "Questions": "The index of refraction for a certain type of glass is 1.640 for blue light and 1.605 for red light. When a beam of white light (which contains all colors) enters a plate of this glass at an incidence angle of 40°, what is the angle between the blue and red parts of the reflected beam?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "0.53°"
+  }
+]

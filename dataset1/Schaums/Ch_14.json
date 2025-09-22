@@ -1,0 +1,259 @@
+[
+    {
+        "question_number": 14.1,
+        "Questions": "Oil flows through a pipe 8.0 cm in diameter, at an average speed of 4.0 m/s. What is the flow J in m³/s and m³/h?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "J = A * v = (0.040 m) * (4.0 m/s) = 0.020 m/s = (0.020 m³/s)(3600 s/h) = 72 m³/h"
+    },
+    {
+        "question_number": 14.2,
+        "Questions": "Exactly 250 mL of fluid flows out of a tube whose inner diameter is 7.0 mm in a time of 41 s. What is the average speed of the fluid in the tube?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "v = J/A = (250 x 10⁻⁶ m³)(41 s) / (π(0.0035 m)²) = 0.16 m/s"
+    },
+    {
+        "question_number": 14.3,
+        "Questions": "A 14 cm inner diameter (i.d.) water main furnishes water (through intermediate pipes) to a 1.00 cm i.d. faucet pipe. If the average speed in the faucet pipe is 3.0 cm/s, what will be the average speed it causes in the water main?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "v₂ = v₁(A₁/A₂) = (3.0 cm/s) * (π(1.0 cm)² / π(7.0 cm)²) = 0.015 cm/s"
+    },
+    {
+        "question_number": 14.4,
+        "Questions": "How much water will flow in 30.0 s through 200 m of capillary tube of 1.50 mm i.d., if the pressure differential across the tube is 5.00 cm of mercury? The viscosity of water is 0.801 cP and ρ for mercury is 13,600 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "J = (πr⁴(P₁ - P₂)) / (8ηL) = (π(0.75 x 10⁻³ m)⁴(6660 N/m²)) / (8(0.801 x 10⁻³ kg/m·s)(0.0500 m)) = 5.2 x 10⁻⁶ m³/s = 5.2 mL/s"
+    },
+    {
+        "question_number": 14.5,
+        "Questions": "An artery in a certain person has been reduced to half its original inside diameter by deposits on the inner artery wall. By what factor will the blood flow through the artery be reduced if the pressure differential across the artery has remained unchanged?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "From Poiseuille’s Law, J ∝ r⁴, Therefore, the blood flow will decrease by a factor of (1/2)⁴ = 1/16."
+    },
+    {
+        "question_number": 14.6,
+        "Questions": "Under the same pressure differential, compare the flow of water through a pipe to the flow of SAE No. 10 oil. For water, η = 0.801 cP; η for the oil is 200 cP.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "J_water / J_oil = 200 cP / 0.801 cP = 250, so the flow of water is 250 times as large as that of the oil under the same pressure differential."
+    },
+    {
+        "question_number": 14.7,
+        "Questions": "Calculate the power output of the heart if, in each heartbeat, it pumps 75 mL of blood at an average pressure of 100 mmHg. Assume 65 heartbeats per minute.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "P = (100 mmHg)(1.01 x 10⁶ Pa) * (65)(75 x 10⁻⁶ m³) / 60 s = 1.1 W"
+    },
+    {
+        "question_number": 14.8,
+        "images":["images/arihant_ch16_124.png"],
+        "Questions": "What volume of water will escape per minute from an open-top tank through an opening 3.0 cm in diameter that is 5.0 m below the water level in the tank? (See Fig. 14-1)",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Using Bernoulli’s equation, we get v₂ = √(2gh) = √(2(9.81 m/s²)(5.0 m)) = 9.9 m/s, and the flow rate is J = v₂A₂ = (9.9 m/s)(π(1.5 x 10⁻² m)²) = 0.42 m³/min."
+    },
+    {
+        "question_number": 14.9,
+        "images":["images/arihant_ch16_125.png"],
+        "Questions": "A water tank springs a leak at position 2 in Fig. 14-2, where the water pressure is 500 kPa. What is the velocity of escape of the water through the hole?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "v₂ = √(2(P₁ - P₂) / ρ) = √(2(5.00 x 10⁵ N/m²) / 1000 kg/m³) = 31.6 m/s"
+    },
+    {
+        "question_number": 14.10,
+        "Questions": "Water flows at the rate of 30 mL/s through an opening at the bottom of a tank in which the water is 4.0 m deep. Calculate the rate of escape of the water if an added pressure of 50 kPa is applied to the top of the water.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "J_after / J_before = (30 mL/s)(1.51) = 45 mL/s"
+    },
+    {
+        "question_number": "14.11",
+        "images":["images/arihant_ch16_126.png"],
+        "Questions": "How much work W is done by a pump in raising 5.00 m³ of water 20.0 m and forcing it into a main at a gauge pressure of 150 kPa?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "W = (5.00 m³)(1000 kg/m³)(9.81 m/s²)(20.0 m) + (1.50 x 10⁵ N/m²)(5.00 m) = 1.73 x 10⁶ J."
+    },
+    {
+        "question_number": "14.12",
+        "Questions": "A horizontal pipe has a constriction in it, as shown in Fig. 14-3. At point 1 the diameter is 6.0 cm, while at point 2 it is only 2.0 cm. At point 1, v₁ = 2.0 m/s and P₁ = 180 kPa. Calculate v₂ and P₂.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "We have two unknowns and need two equations. Using Bernoulli's equation with h₁ = h₂, we can solve for v₂ = 18 m/s and P₂ = 0.20 x 10⁶ N/m² (20 kPa)."
+    },
+    {
+        "question_number": "14.13",
+        "Questions": "What must be the gauge pressure in a large fire hose if the nozzle is to shoot water straight upward to a height of 30.0 m?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "P₁ - P₀ = ρgh = (1000 kg/m³)(9.81 m/s²)(30.0 m) = 294 kPa."
+    },
+    {
+        "question_number": "14.14",
+        "Questions": "At what rate does water flow from a 0.80 cm i.d. faucet if the water pressure is 200 kPa?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "We use Bernoulli's equation for points just inside and outside the faucet. Assuming v₂ ≈ v₁, we solve to obtain v₂ = 20 m/s. The flow rate is J = A₁v₁ = (20 m/s)(0.16 x 10⁻⁴ m²) = 1.0 x 10⁻³ m³/s."
+    },
+    {
+        "question_number": "14.15",
+        "images":["images/arihant_ch16_127.png"],
+        "Questions": "The pipe shown in Fig. 14-4 has a diameter of 16 cm at section 1 and 10 cm at section 2. At section 1 the pressure is 200 kPa. Point 2 is 6.0 m higher than point 1. When oil of density 800 kg/m³ flows at a rate of 0.030 m³/s, find the pressure at point 2 if viscous effects are negligible.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "We use Bernoulli’s equation and solve for P₂ = 1.5 x 10⁵ N/m² (1.5 kPa)."
+    },
+    {
+        "question_number": "14.16",
+        "images":["images/arihant_ch16_128.png"],
+        "Questions": "A venturi meter equipped with a differential mercury manometer is shown in Fig. 14-5. At the inlet, point 1, the diameter is 12 cm, while at the throat, point 2, the diameter is 6.0 cm. What is the flow of water through the meter if the mercury manometer reading is 22 cm? The density of water is 13.6 g/cm³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "From the manometer reading, we obtain P₁ - P₂ = 2.93 x 10⁴ N/m². Using Bernoulli's equation, we find the flow rate J = 0.022 m³/s."
+    },
+    {
+        "question_number": "14.17",
+        "Questions": "A wind tunnel is to be used with a 20 cm high model car to approximately reproduce the situation in which a 550 cm high car is moving at 15 m/s. What should the wind speed in the tunnel be? Is the flow likely to be turbulent?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "We use the Reynolds number for the same conditions and find that the wind speed should be 0.41 km/s and the flow will be turbulent since the Reynolds number is 5.9 x 10⁶."
+    },
+    {
+        "question_number": "14.18",
+        "Questions": "Oil flows through a 4.0 cm i.d. pipe at an average speed of 2.5 m/s. Find the flow in m³/s and cm³/s.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 3.1 x 10⁻³ m³/s = 3.1 x 10⁵ cm³/s."
+    },
+    {
+        "question_number": "14.19",
+        "Questions": "Compute the average speed of water in a pipe having an i.d. of 5.0 cm and delivering 2.5 m³ of water per hour.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 0.35 m/s."
+    },
+    {
+        "question_number": "14.20",
+        "Questions": "The speed of glycerin flowing in a 5.0 cm i.d. pipe is 0.54 m/s. Find the fluid's speed in a 3.0 cm i.d. pipe that connects with it, both pipes flowing full.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 1.3 m/s."
+    },
+    {
+        "question_number": "14.21",
+        "Questions": "How long will it take for 500 mL of water to flow through a 15 cm long, 3.0 mm i.d. pipe if the pressure differential across the pipe is 4.0 kPa? The viscosity of water is 0.80 cP.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 7.5 s."
+    },
+    {
+        "question_number": "14.22",
+        "Questions": "A molten plastic flows out of a tube that is 8.0 cm long at a rate of 13 cm³/min when the pressure differential between the two ends of the tube is 18 cm of mercury. Find the viscosity of the plastic. The i.d. of the tube is 1.30 mm. The density of mercury is 13.6 g/cm³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 0.097 kg/m·s = 97 cP."
+    },
+    {
+        "question_number": "14.23",
+        "Questions": "In a horizontal pipe system, a pipe (i.d. 4.0 mm) that is 20 cm long connects in line to a pipe (i.d. 5.0 mm) that is 30 cm long. When a viscous fluid is being pushed through the pipes at a steady rate, what is the ratio of the pressure difference across the 20-cm pipe to that across the 30-cm pipe?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 1.6."
+    },
+    {
+        "question_number": "14.24",
+        "Questions": "A hypodermic needle of length 3.0 cm and i.d. 0.45 mm is used to draw blood (η = 4.0 mPa·s). Assuming the pressure differential across the needle is 80 mmHg, how long does it take to draw 15 mL?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 17 s."
+    },
+    {
+        "question_number": "14.25",
+        "Questions": "In a blood transfusion, blood flows from a bottle at atmospheric pressure into a patient’s vein in which the pressure is 20 mmHg higher than atmospheric. The bottle is 95 cm higher than the vein, and the needle into the vein has a length of 30 cm and an i.d. of 0.45 mm. How much blood flows into the vein each minute? For blood, η = 0.0040 Pa·s and ρ = 1005 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 34 cm³."
+    },
+    {
+        "question_number": "14.26",
+        "Questions": "How much work does the piston in a hydraulic system do during one 2.0-cm stroke if the end area of the piston is 0.75 cm² and the pressure in the hydraulic fluid is 50 kPa?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 75 mJ."
+    },
+    {
+        "question_number": "14.27",
+        "Questions": "A large open tank of nonviscous liquid springs a leak 4.5 m below the top of the liquid. What is the theoretical velocity of outflow from the hole? If the area of the hole is 0.25 cm², how much liquid would escape in exactly 1 minute?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 94 m/s, 0.0411 m³."
+    },
+    {
+        "question_number": "14.28",
+        "Questions": "Calculate the theoretical velocity of efflux of water from an aperture that is 8.0 m below the surface of water in a large tank, if an added pressure of 140 kPa is applied to the surface of the water.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 21 m/s."
+    },
+    {
+        "question_number": "14.29",
+        "Questions": "What horsepower is required to force 8.0 m³ of water per minute into a water main at a pressure of 220 kPa?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 39 hp."
+    },
+    {
+        "question_number": "14.30",
+        "Questions": "A pump lifts water at the rate of 9.0 liters/s from a lake through a 5.0 cm i.d. pipe and discharges it into the air at a point 16 m above the level of the water in the lake. What are the theoretical (a) velocity of the water at the point of discharge and (b) power delivered by the pump?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. (a) 4.6 m/s; (b) 2.0 hp."
+    },
+    {
+        "question_number": "14.31",
+        "Questions": "Water flows steadily through a horizontal pipe of varying cross-section. At one place the pressure is 130 kPa and the speed is 6.0 m/s. Determine the pressure at another place in the same pipe where the speed is 9.0 m/s.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 90 kPa."
+    },
+    {
+        "question_number": "14.32",
+        "Questions": "Water flows steadily through a horizontal pipe of varying cross-section. At one place the pressure is 130 kPa and the speed is 6.0 m/s. Determine the pressure at another place in the same pipe where the speed is 9.0 m/s.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Ans. 90 kPa."
+    },
+    {
+    "question_number": 14.33,
+    "Questions": "A pipe of varying inner diameter carries water. At point 1 the diameter is 20 cm and the pressure is 130 kPa. At point 2, which is 4.0 m higher than point 1, the diameter is 30 cm. If the flow is 0.080 m³/s, what is the pressure at the second point?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 93 kPa"
+  },
+  {
+    "question_number": 14.34,
+    "Questions": "Fuel oil of density 820 kg/m³ flows through a venturi meter having a throat diameter of 4.0 cm and an entrance diameter of 8.0 cm. The pressure drop between entrance and throat is 16 cm of mercury. Find the flow. The density of mercury is 13,600 kg/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 9.3 × 10⁻³ m³/s"
+  },
+  {
+    "question_number": 14.35,
+    "Questions": "Find the maximum amount of water that can flow through a 3.0 cm i.d. pipe per minute without turbulence. Take the maximum Reynolds number for nonturbulent flow to be 2000. For water at 20°C, η = 1.0 × 10⁻³ Pa·s.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 0.0028 m³"
+  },
+  {
+    "question_number": 14.36,
+    "Questions": "How fast can a raindrop (r = 1.5 mm) fall through air if the flow around it is to be close to turbulent, i.e., for NR close to 10? For air, η = 1.8 × 10⁻⁵ Pa·s and ρ = 1.29 kg/m³.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 4.6 cm/s"
+  }
+]

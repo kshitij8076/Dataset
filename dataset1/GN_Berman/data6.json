@@ -1,0 +1,2508 @@
+[
+  {
+    "ID": "2500",
+    "Questions": "Find the area of the common part of the figures bounded by the curves ρ = 3 + cos 4φ and ρ = 2 — cos 4φ.",
+    "Answers": "9/4 π."
+  },
+  {
+    "ID": "2501",
+    "Questions": "Find the area of the piece of the figure bounded by the curve ρ = 2 + cos 2φ lying outside the curve ρ = 2 + sin φ.",
+    "Answers": "7/3."
+  },
+  {
+    "ID": "2502",
+    "Questions": "Find the area of the figure bounded by the curve ρ² = a² cos nφ (n is a positive integer).",
+    "Answers": "a²."
+  },
+  {
+    "ID": "2503",
+    "Questions": "Prove that the area of the figure bounded by any two radius vectors of the hyperbolic spiral ρφ = a and its arc is proportional to the difference between these radius vectors.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2504",
+    "Questions": "Prove that the area of the figure bounded by any two radius vectors of the logarithmic spiral ρ = ae^(mφ) and its arc is proportional to the difference between the squares of these radius vectors.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2505*",
+    "Questions": "Find the area of the figure lying between the exterior and interior parts of the curve ρ = a sin³(φ/3).",
+    "Answers": "5π + 18√3 / 32 a². To construct the curve, the variation of φ from 0 to 3π must be taken into account."
+  },
+  {
+    "ID": "2506",
+    "Questions": "Find the area of the figure bounded by the curve ρ = √1 - t², φ = arc sin t + √1 - t².",
+    "Answers": "4/3 π."
+  },
+  {
+    "ID": "2507",
+    "Questions": "Find the area of the figure bounded by the lemniscate of Bernoulli (x² + y²)² = a²(x² - y²).",
+    "Answers": "a²."
+  },
+  {
+    "ID": "2508",
+    "Questions": "Find the area of the part of the figure bounded by the lemniscate of Bernoulli (see problem 2507) lying inside the circle x² + y² = a²/2.",
+    "Answers": "a²(1 + π/6 - √3/2)."
+  },
+  {
+    "ID": "2509",
+    "Questions": "Find the area of figure bounded by the curve (x² + y²)² — a²x² - b²y² = 0 (\"pedal of ellipse\").",
+    "Answers": "π/2 (a² + b²)."
+  },
+  {
+    "ID": "2510",
+    "Questions": "Find the area of the figure bounded by the curve (x² + y²)³ = 4a²xy(x² — y²).",
+    "Answers": "a²."
+  },
+  {
+    "ID": "2511",
+    "Questions": "Find the area of the figure bounded by the curve x⁴ + y⁴ = x² + y².",
+    "Answers": "π√2."
+  },
+  {
+    "ID": "2512",
+    "Questions": "Find the area of the figure lying between the curve y = 1/(1 + x²) and its asymptote.",
+    "Answers": "π."
+  },
+  {
+    "ID": "2513",
+    "Questions": "Find the area of the figure lying between the curve y = xe^(-x²/2) and its asymptote.",
+    "Answers": "2."
+  },
+  {
+    "ID": "2514",
+    "Questions": "Find the area of the figure contained between the cissoid y² = x³/(2a-x) and its asymptote.",
+    "Answers": "3πa²."
+  },
+  {
+    "ID": "2515",
+    "Questions": "Find the area of the figure lying between the curve xy² = 8 — 4x and its asymptote.",
+    "Answers": "4π."
+  },
+  {
+    "ID": "2516*",
+    "Questions": "(1) Find the area of the figure bounded by the curve y = x²e⁻ˣ² and its asymptote.\n(2) Find the area of the figure bounded by the curve y² = x e⁻²ˣ.",
+    "Answers": "(1) √π/2; (2) √π. Use the fact that ∫₀^∞ e⁻ˣ² dx = √π/2 (Poisson's integral)."
+  },
+  {
+    "ID": "2517",
+    "Questions": "Find the area of the figure lying between the tractrix x = a(cos t + ln tan(t/2)), y = a sin t and the axis of abscissae.",
+    "Answers": "πa²/2."
+  },
+  {
+    "ID": "2518",
+    "Questions": "For the curve ρ = cos 2φ / cos φ, find the area of the loop and the area of the figure lying between the curve and its asymptote.",
+    "Answers": "2 - π/2 and 2 + π/2."
+  },
+  {
+    "ID": "2519",
+    "Questions": "Find the length of arc of the catenary y = a/2 (e^(x/a) + e^(-x/a)) (from x₁ = 0 to x₂ = b).",
+    "Answers": "a/2 (e^(b/a) - e^(-b/a))."
+  },
+  {
+    "ID": "2520",
+    "Questions": "Find the length of arc of the parabola y² = 2px from the vertex to its point M(x, y). (Take y as the independent variable.)",
+    "Answers": "y/p * √(y²/p² + p²) + p/2 * ln(y/p + √(y²/p² + 1))."
+  },
+  {
+    "ID": "2521",
+    "Questions": "Find the length of arc of the curve y = ln x (from x₁ = √3 to x₂ = √8).",
+    "Answers": "1 + 1/2 ln 3/2."
+  },
+  {
+    "ID": "2522",
+    "Questions": "Find the length of arc of the curve y = ln(1 — x²) (from x₁ = 0 to x₂ = 1/2).",
+    "Answers": "ln 3 - 1/2."
+  },
+  {
+    "ID": "2523",
+    "Questions": "Find the length of arc of the curve y = ln( (eˣ + 1)/(eˣ — 1) ) (from x₁ = a to x₂ = b).",
+    "Answers": "ln( (e^(2b) - 1)/(e^(2a) - 1) ) - (b - a)."
+  },
+  {
+    "ID": "2524",
+    "Questions": "Find the length of arc of the semi-cubical parabola y² = 2/3 (x — 1)³ lying inside the parabola y² = x/3.",
+    "Answers": "π/3."
+  },
+  {
+    "ID": "2525",
+    "Questions": "Find the length of arc of the semi-cubical parabola 5y³ = x² lying inside the circle x² + y² = 6.",
+    "Answers": "4√3."
+  },
+  {
+    "ID": "2526",
+    "Questions": "Find the length of the loop of the curve 9ay² = x(x — 3a)².",
+    "Answers": "4a√3."
+  },
+  {
+    "ID": "2527",
+    "Questions": "Find the perimeter of one of the curvilinear trapezia bounded by the axis of abscissae and the curves y = ln cos x and y = ln sin x.",
+    "Answers": "2(e² - 1)."
+  },
+  {
+    "ID": "2528",
+    "Questions": "Find the length of arc of the curve y = x²/4 — ln x / 2 lying between its lowest point and the vertex (the point of the curve of extremal curvature).",
+    "Answers": "1/2 + 1/4 ln 3."
+  },
+  {
+    "ID": "2529",
+    "Questions": "Find the length of the curve y = √x — x² + arc sin √x.",
+    "Answers": "2."
+  },
+  {
+    "ID": "2530",
+    "Questions": "Find the length of the curve (y — arc sin x)² = 1 — x².",
+    "Answers": "8."
+  },
+  {
+    "ID": "2531",
+    "Questions": "Find the point that divides the length of the first arc of the cycloid x = a(t — sin t), y = a(1 — cos t) in the ratio 1 : 3.",
+    "Answers": "At t = 2π/3, [x = a(2π/3 - √3/2), y = 3a/2]."
+  },
+  {
+    "ID": "2532",
+    "Questions": "Given the astroid x = R cos³ t, y = R sin³ t and the points A (R, 0), B (0, R) on it, find the point M on arc AB such that the length of arc AM amounts to a quarter of the length of arc AB.",
+    "Answers": "At t = π/6, (x = 3√3R/8, y = R/8)."
+  },
+  {
+    "ID": "2533*",
+    "Questions": "Find the length of the curve (x/a)^(2/3) + (y/b)^(2/3) = 1.",
+    "Answers": "4(a² + ab + b²)/(a + b)."
+  },
+  {
+    "ID": "2534",
+    "Questions": "Find the length of the curve x = a cos⁵ t, y = a sin⁵ t.",
+    "Answers": "5a[1 + 1/2√3 ln(2+√3)]."
+  },
+  {
+    "ID": "2535",
+    "Questions": "Find the length of arc of the tractrix x = a(cos t + ln tan(t/2)), y = a sin t from the point (0, a) to the point (x, y).",
+    "Answers": "a ln(a/y)."
+  },
+  {
+    "ID": "2536",
+    "Questions": "Find the length of arc of the involute of the circle x = R(cos t + t sin t), y = R(sin t — t cos t) (from t₁ = 0 to t₂ = π).",
+    "Answers": "π²R/2."
+  },
+  {
+    "ID": "2537",
+    "Questions": "Find the length of arc of the curve x = (t² — 2) sin t + 2t cos t, y = (2 — t²) cos t + 2t sin t (from t₁ = 0 to t₂ = π).",
+    "Answers": "π³/3."
+  },
+  {
+    "ID": "2538",
+    "Questions": "Find the length of the loop of the curve x = t², y = t — t³/3.",
+    "Answers": "4√3."
+  },
+  {
+    "ID": "2539",
+    "Questions": "Two circles of radii equal to b roll without slipping with the same angular velocity on the inside and outside of a circle of radius a. At the instant t = 0 they touch the point M of the fixed circle with their points M₁ and M₂. Show that the ratio of the paths traversed by points M₁ and M₂ after an arbitrary interval of time t is a constant equal to (a + b)/(a — b) (see problem 2493).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2540",
+    "Questions": "Show that the length of arc of the curve x = f''(t) cos t + f'(t) sin t, y = —f''(t) sin t + f'(t) cos t, corresponding to the interval (t₁, t₂) is equal to |[f(t) + f''(t)]| from t₁ to t₂.",
+    "Answers": "2(eᵗ - 1)."
+  },
+  {
+    "ID": "2541",
+    "Questions": "Apply the result of the previous problem to evaluating the length of arc of the curve x = eᵗ(cos t + sin t), y = eᵗ(cos t — sin t) (from t₁ = 0 to t₂ = t).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2542",
+    "Questions": "Show that the arcs of the curves x = f(t) - φ'(t), y = φ(t) + f'(t) and x = f(t) sin t — φ'(t) cos t, y = f'(t) cos t + φ'(t) sin t, corresponding to the same interval of variation of parameter t, have equal lengths.",
+    "Answers": "a(cos t - t sin t)³."
+  },
+  {
+    "ID": "2543",
+    "Questions": "Find the length of arc of the spiral of Archimedes ρ = aφ from the origin to the end of the first turn.",
+    "Answers": "πa√(1 + 4π²) + (a/2)ln(2π + √(1 + 4π²))."
+  },
+  {
+    "ID": "2544",
+    "Questions": "Show that the arc of the parabola y = x²/2p corresponding to the interval 0 ≤ x ≤ a has the same length as the arc of the spiral ρ = pφ corresponding to the interval 0 ≤ ρ ≤ a.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2545",
+    "Questions": "Find the length of arc of the hyperbolic spiral ρφ = 1, from φ₁ = 3/4 to φ₂ = 4/3.",
+    "Answers": "ln(3/2) + 5/12."
+  },
+  {
+    "ID": "2546",
+    "Questions": "Find the length of the cardioid ρ = a(1 + cos φ).",
+    "Answers": "8a."
+  },
+  {
+    "ID": "2547",
+    "Questions": "Find the length of the curve ρ = a sin³(φ/3) (see problem 2505).",
+    "Answers": "3πa/2."
+  },
+  {
+    "ID": "2548",
+    "Questions": "Show that the length of the curve ρ = a sinᵐ(φ/m) (m is an integer) is commensurate with a when m is even and commensurate with the circumference of a circle of radius a when m is odd.",
+    "Answers": "The projection of the solid on xOy is a circle."
+  },
+  {
+    "ID": "2549",
+    "Questions": "For what values of the exponent k (k ≠ 0) is the length of arc of the curve y = axᵏ expressed in elementary functions? (Take as basis Chebyshev's theorem on the conditions for integrability in a finite form of the differential binomial; see Course, sec. 102.)",
+    "Answers": "k must have the form 2N+1/2N or 2N/(2N-1), where N is an integer."
+  },
+  {
+    "ID": "2550",
+    "Questions": "Find the length of the curve given by the equation y = ∫(-π/2)^x √cos z dz.",
+    "Answers": "4."
+  },
+  {
+    "ID": "2551",
+    "Questions": "Find the length of arc of the curve x = ∫₁ᵗ (cos z)/z dz, y = ∫₁ᵗ (sin z)/z dz from the origin to the nearest point with vertical tangent.",
+    "Answers": "ln(π/2)."
+  },
+  {
+    "ID": "2552",
+    "Questions": "Show that the length of arc of the sine wave y = sin x corresponding to one period is equal to the length of the ellipse whose semi-axes are equal to √2 and 1.",
+    "Answers": "Prove that the length of the ellipse can be written in the form L = 4 ∫₀^(π/2) (√a² cos²t + b² sin²t + √a² sin²t + b² cos²t) dt, and use the theorem on estimating an integral."
+  },
+  {
+    "ID": "2553",
+    "Questions": "Show that the length of arc of the curtate or prolate cycloid x = mt — n sin t, y = m — n cos t (m and n are positive numbers) in the interval from t₁ = 0 to t₂ = 2π is equal to the length of the ellipse with semi-axes a = m + n, b = |m — n|.",
+    "Answers": "4/3 πab²; (2) 4/3 πa²b."
+  },
+  {
+    "ID": "2554*",
+    "Questions": "Show that the length of the ellipse with semi-axes a and b satisfies the inequality π(a + b) < L < π√2 × √a² + b² (Bernoulli's problem).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2555",
+    "Questions": "Find the volume of the solid, bounded by the surface which is formed by revolution of the parabola y² = 4x about its axis (paraboloid of revolution), and by the plane perpendicular to the axis and at a distance equal to unity from the vertex.",
+    "Answers": "2π."
+  },
+  {
+    "ID": "2556",
+    "Questions": "An ellipse with major axis equal to 2a and minor axis 2b revolves (1) about the major axis, (2) about the minor axis. Find the volumes of the ellipsoids of revolution thus obtained. Obtain the volume of a sphere as a particular case.",
+    "Answers": "(1) 4/3 πab²; (2) 4/3 πa²b."
+  },
+  {
+    "ID": "2557",
+    "Questions": "A symmetric parabolic segment of base a and height h revolves about the base. Find the volume of the solid of revolution thus obtained. (Cavalieri's \"lemon\".)",
+    "Answers": "8/15 πh²a."
+  },
+  {
+    "ID": "2558",
+    "Questions": "The figure bounded by the hyperbola x² — y² = a² and the straight line x = a + h(h > 0) revolves about the axis of abscissae. Find the volume of the solid of revolution.",
+    "Answers": "πh²(a + h/3)."
+  },
+  {
+    "ID": "2559",
+    "Questions": "The curvilinear trapezium bounded by the curve y = xeˣ and the straight lines x = 1 and y = 0 revolves about the axis of abscissae. Find the volume of the solid thus obtained.",
+    "Answers": "π/4(e² - 1)."
+  },
+  {
+    "ID": "2560",
+    "Questions": "The catenary y = (eˣ + e⁻ˣ)/2 revolves about the axis of abscissae. The surface thus obtained is called a catenoid. Find the volume of the solid bounded by the catenoid and two planes at distances of a and b units from the origin and perpendicular to the axis of abscissae.",
+    "Answers": "(π/4)[e²ᵇ - e⁻²ᵇ - e²ᵃ + e⁻²ᵃ + 2(b - a)]."
+  },
+  {
+    "ID": "2561",
+    "Questions": "The figure bounded by the arcs of parabolas y = x² and y² = x revolves about the axis of abscissae. Find the volume of the solid thus obtained.",
+    "Answers": "3π/10."
+  },
+  {
+    "ID": "2562",
+    "Questions": "Find the volume of the solid obtained by revolution about the axis of abscissae of the trapezium lying above Ox and bounded by the curve (x — 4)y² = x(x — 3).",
+    "Answers": "π²."
+  },
+  {
+    "ID": "2563",
+    "Questions": "Find the volume of the solid obtained by revolution of the curvilinear trapezium bounded by the curve y = arcsin x, and with base [0, 1], about the Ox axis.",
+    "Answers": "π(π/2 - 1)."
+  },
+  {
+    "ID": "2564",
+    "Questions": "Find the volume of the solid obtained by revolution of the figure, bounded by the parabola y = 2x — x² and the axis of abscissae, about the axis of ordinates.",
+    "Answers": "8π/3."
+  },
+  {
+    "ID": "2565",
+    "Questions": "Find the volume of the body which is obtained on revolution about the axis of ordinates of the curvilinear trapezium bounded by the arc of the sine wave y = sin x corresponding to a half period.",
+    "Answers": "2π²."
+  },
+  {
+    "ID": "2566",
+    "Questions": "The lemniscate (x² + y²)² = a²(x² — y²) revolves about the axis of abscissae. Find the volume of the solid of revolution thus formed.",
+    "Answers": "(πa³/4)[2ln(1+√2) - √2/3]."
+  },
+  {
+    "ID": "2567",
+    "Questions": "Find the volume of the solid formed by revolution about the axis of abscissae of the figure bounded by the curve: (1) x⁴ + y⁴ = a²x²; (2) x⁴ + y⁴ = a³x.",
+    "Answers": "(1) 2/3 πa³; (2) 16/15 πa³."
+  },
+  {
+    "ID": "2568",
+    "Questions": "One arc of the cycloid x = a(t — sin t), y = a(1 — cos t) revolves about its base. Find the volume of the solid bounded by the surface obtained.",
+    "Answers": "5π²a³."
+  },
+  {
+    "ID": "2569",
+    "Questions": "The figure, bounded by an arc of the cycloid (see previous problem) and its base, revolves about the perpendicular bisector of the base (the axis of symmetry). Find the volume of the solid thus obtained.",
+    "Answers": "πa³(3π²/2 - 8/3)."
+  },
+  {
+    "ID": "2570",
+    "Questions": "Find the volume of the solid obtained on revolution of the astroid x^(2/3) + y^(2/3) = a^(2/3) about its axis of symmetry.",
+    "Answers": "32/105 πa³."
+  },
+  {
+    "ID": "2571",
+    "Questions": "The figure bounded by the arc of the curve x = (c²/a) cos³t, y = (c²/b) sin³t (evolute of the ellipse), lying in the first quadrant, and by the coordinate axes, revolves about the axis of abscissae. Find the volume of the solid thus obtained.",
+    "Answers": "16πc⁶ / (105ab²)."
+  },
+  {
+    "ID": "2572",
+    "Questions": "Find the volume of the solid bounded by the surface of the infinite \"spindle\", formed by revolution of the curve y = 1 / (1 + x²) about its asymptote.",
+    "Answers": "π²/2."
+  },
+  {
+    "ID": "2573",
+    "Questions": "The curve y² = 2eˣe⁻²ˣ revolves about its asymptote. Find the volume of the solid bounded by the resulting surface.",
+    "Answers": "3√2π/8."
+  },
+  {
+    "ID": "2574*",
+    "Questions": "(1) The figure bounded by the curve y = e⁻ˣ² and its asymptote revolves about the axis of ordinates. Find the volume of the resulting solid.",
+    "Answers": "(1) π; (2) π(π/2). See hint on problem 2516."
+  },
+  {
+    "ID": "2575*",
+    "Questions": "Find the volume of the solid formed by revolution of the curve y = x²e⁻ˣ² about its asymptote.",
+    "Answers": "π³/2."
+  },
+  {
+    "ID": "2576*",
+    "Questions": "The figure bounded by the curve y = sin x / x and the axis of abscissae revolves about the axis of abscissae. Find the volume of the resulting solid.",
+    "Answers": "π². Use the fact that ∫₀^∞ (sin x)/x dx = π/2 (Dirichlet's integral)."
+  },
+  {
+    "ID": "2577*",
+    "Questions": "Find the volume of the solid bounded by the surface produced by revolution of the cissoid y² = x³ / (2a - x) (a > 0) about its asymptote.",
+    "Answers": "2π²a³."
+  },
+  {
+    "ID": "2578",
+    "Questions": "Find the volume of the solid whose boundary surface is obtained by revolution of the tractrix x = a(cos t + ln tan(t/2)), y = a sin t about its asymptote.",
+    "Answers": "2/3 πa³."
+  },
+  {
+    "ID": "2579*",
+    "Questions": "Find the volume of the solid bounded by the ellipsoid x²/a² + y²/b² + z²/c² = 1.",
+    "Answers": "4/3 πabc."
+  },
+  {
+    "ID": "2580",
+    "Questions": "(1) Find the volume of the solid bounded by the elliptic paraboloid z = x²/a² + y²/b² and the plane z = 1. \n(2) Find the volume of the solid bounded by the hyperboloid of one sheet x²/a² + y²/b² — z² = 1 and the planes z = —1 and z = 2.",
+    "Answers": "(1) πab/2; (2) 36π."
+  },
+  {
+    "ID": "2581",
+    "Questions": "Find the volumes of the solids bounded by the paraboloid z = x² + 2y² and by the ellipsoid x² + 2y² + z² = 6.",
+    "Answers": "v₁ = π√2(2√6 - 11/3), v₂ = π√2(2√6 + 11/3)."
+  },
+  {
+    "ID": "2582",
+    "Questions": "Find the volumes of the solids formed by intersection of the hyperboloid of two sheets x²/3 — y²/4 — z²/9 = 1 and the ellipsoid x²/6 + y²/4 + z²/9 = 1.",
+    "Answers": "v₁ = v₂ = 4π(√6 + √3 - 4), v₂ = 8π(4 - √3)."
+  },
+  {
+    "ID": "2583",
+    "Questions": "Find the volume of the solid bounded by the conical surface (z — 2)² = x²/3 + y²/2 and the plane z = 0.",
+    "Answers": "8√6/3."
+  },
+  {
+    "ID": "2584",
+    "Questions": "Find the volume of the solid bounded by the paraboloid 2z = x²/4 + y²/9 and the cone x²/4 + y²/9 = z².",
+    "Answers": "8π."
+  },
+  {
+    "ID": "2585*",
+    "Questions": "Find the volume of the solid cut out from a circular cylinder by a plane through a base diameter (' 'special ungula of cylinder\", Fig. 43). In particular, put R = 10 cm, H = 6 cm.",
+    "Answers": "2/3 R²H = 400 cm³. Take the axis of symmetry of the base as axis of abscissae."
+  ,"images":["Img2/Berman_43.png"]},
+  {
+    "ID": "2586",
+    "Questions": "A parabolic cylinder is cut by two planes, one of which is perpendicular to the generators. The resulting solid is illustrated in Fig. 44. The common base of the parabolic segments is a = 10 cm, the height of the parabolic segment lying in the base is H = 8 cm, and the height of the solid is h = 6 cm. Find the volume of the solid.",
+    "Answers": "4/15 abH = 128 cm³."
+  ,"images":["Img2/Berman_44.png"]},
+  {
+    "ID": "2587",
+    "Questions": "A cylinder, whose base is an ellipse, is cut by an inclined plane through the major axis of the ellipse. Find the volume of the resulting solid. The linear dimensions are given in Fig. 45.",
+    "Answers": "2/3 abH = 133 1/3 cm³."
+  ,"images":["Img2/Berman_45.png"]},
+  {
+    "ID": "2588*",
+    "Questions": "Symmetrical parabolic segments, of constant height H, are constructed on all the chords of a circle of radius R parallel to a single direction. The planes of the segments are perpendicular to the plane of the circle. Find the volume of the solid thus obtained.",
+    "Answers": "2/3 πR²H. The area of a symmetrical parabolic segment is equal to 2/3 ah, where a is the base of the segment, h the \"height\" (see Course, sec. 84)."
+  },
+  {
+    "ID": "2589*",
+    "Questions": "A right circular cone of radius R and height H is cut into two pieces by a plane through the centre of the base parallel to a generator (Fig. 46). Find the volumes of the two pieces. (The sections of a cone by planes parallel to a generator are parabolic segments.)",
+    "Answers": "R²H/6(π+4/3) and R²H/6(π-4/3). (See hint on problem 2588)."
+  ,"images":["Img2/Berman_46.png"]},
+  {
+    "ID": "2590",
+    "Questions": "The centre of a square moves along a diameter of a circle of radius a, the plane of the square remains perpendicular to the plane of the circle, whilst two opposite vertices of the square move round the circumference. Find the volume of the solid formed by this moving square.",
+    "Answers": "8/3 a³."
+  },
+  {
+    "ID": "2591",
+    "Questions": "A circle of variable radius moves in such a way that a point of its circumference remains on the axis of abscissae, whilst the centre moves along the circle x² + y² = r², and the plane of the circle is perpendicular to the axis of abscissae. Find the volume of the solid thus obtained.",
+    "Answers": "8/3 πr³."
+  },
+  {
+    "ID": "2592",
+    "Questions": "The axes of two equal cylinders intersect at right angles. Find the volume of the solid consisting of the common part of the cylinders (1/8 of the solid is illustrated in Fig. 47). (Consider the sections formed by planes parallel to the axes of the two cylinders.)",
+    "Answers": "16/3 R³."
+  ,"images":["Img2/Berman_47.png"]},
+  {
+    "ID": "2593",
+    "Questions": "Two circular cylinders have the same height H and a common upper base of radius R, whilst the lower bases touch (Fig. 48). Find the volume of the common part of the cylinders.",
+    "Answers": "4/3 R²H."
+  ,"images":["Img2/Berman_48.png"]},
+  {
+    "ID": "2594",
+    "Questions": "Find the area of the surface formed by revolution of the parabola y² = 4ax about the axis of abscissae from the vertex to the point with abscissa x = 3a.",
+    "Answers": "56/3 πa²."
+  },
+  {
+    "ID": "2595",
+    "Questions": "Find the area of the surface formed by revolution of the cubical parabola 3y — x³ = 0 about the axis of abscissae (from x₁ = 0 to x₂ = a).",
+    "Answers": "(π/9)[(1+a⁴)^(3/2) - 1]."
+  },
+  {
+    "ID": "2596",
+    "Questions": "Find the area of the catenoid — the surface formed by revolution of the catenary y = a/2 (e^(x/a) + e^(-x/a)) about the axis of abscissae (from x₁ = 0 to x₂ = 2).",
+    "Answers": "(πa²/4)(e^(4/a) - e^(-4/a) + 8/a)."
+  },
+  {
+    "ID": "2597",
+    "Questions": "When the ellipse x²/a² + y²/b² = 1 revolves about its major axis a surface is obtained which is called a prolate ellipsoid of revolution, whilst when it revolves about the minor axis the surface is an oblate ellipsoid of revolution. Find the surface areas of the prolate and oblate ellipsoids of revolution.",
+    "Answers": "2πb² + (2πab/ε)arcsinε and 2πa² + (πb²/ε)ln((1+ε)/(1-ε)), where ε is the eccentricity of the ellipse."
+  },
+  {
+    "ID": "2598",
+    "Questions": "Find the area of the spindle-shaped surface formed by revolution of one arc of the sine wave y = sin x about the axis of abscissae.",
+    "Answers": "2π[√2 + ln(1+√2)]."
+  },
+  {
+    "ID": "2599",
+    "Questions": "The arc of the tangent curve y = tan x from the point (0, 0) to the point (π/4, 1) revolves about the axis of abscissae. Find the area of the surface thus obtained.",
+    "Answers": "π[ (√5 - √2)/2 + ln( (√5 - 1)/(√2 - 1) ) ]."
+  },
+  {
+    "ID": "2600",
+    "Questions": "Find the area of the surface formed by revolution about the axis of abscissae of the loop of the curve 9ay² = x(3a — x)².",
+    "Answers": "3πa²."
+  },
+  {
+    "ID": "2601",
+    "Questions": "The arc of the circle x² + y² = a² lying in the first quadrant revolves about the chord subtending it. Find the area of the resulting surface.",
+    "Answers": "πa²√2(2 - π/2)."
+  },
+  {
+    "ID": "2602",
+    "Questions": "Find the area of the surface formed by revolution about the axis of abscissae of the arc of the curve x = eᵗ sin t, y = eᵗ cos t (from t₁ = 0 to t₂ = π/2).",
+    "Answers": "(2π√2/5)(e^π - 2)."
+  },
+  {
+    "ID": "2603",
+    "Questions": "Find the area of the surface formed by revolution of the astroid x = a cos³ t, y = a sin³ t about the axis of abscissae.",
+    "Answers": "12/5 πa²."
+  },
+  {
+    "ID": "2604",
+    "Questions": "An arc of the cycloid revolves about its axis of symmetry. Find the area of the surface thus obtained. (See problem 2568.)",
+    "Answers": "8πa²(π - 4/3)."
+  },
+  {
+    "ID": "2605",
+    "Questions": "Find the area of the surface formed by revolution about the polar axis of the cardioid ρ = a(1 + cos φ).",
+    "Answers": "32/5 πa²."
+  },
+  {
+    "ID": "2606",
+    "Questions": "The circle ρ = 2r sin φ revolves about the polar axis. Find the area of the surface thus formed.",
+    "Answers": "4π²r²."
+  },
+  {
+    "ID": "2607",
+    "Questions": "The lemniscate ρ² = a² cos 2φ revolves about the polar axis. Find the area of the resulting surface.",
+    "Answers": "2πa²(2 - √2)."
+  },
+  {
+    "ID": "2608",
+    "Questions": "The infinite arc of the curve y = e⁻ˣ, corresponding to positive values of x, revolves about the axis of abscissae. Find the area of the surface thus obtained.",
+    "Answers": "π[√2 + ln(1 + √2)]."
+  },
+  {
+    "ID": "2609",
+    "Questions": "The tractrix x = a(cos t + ln tan(t/2)), y = a sin t revolves about the axis of abscissae. Find the area of the resulting infinite surface.",
+    "Answers": "4πa²."
+  },
+  {
+    "ID": "2610",
+    "Questions": "Find the statical moment of a rectangle of base a and height h about its base.",
+    "Answers": "ah²/2."
+  },
+  {
+    "ID": "2611",
+    "Questions": "Find the statical moment of a right-angled isosceles triangle, whose adjacent sides are equal to a, with respect to each of its sides.",
+    "Answers": "a³/6, a³/6, a³√2/12."
+  },
+  {
+    "ID": "2612",
+    "Questions": "Prove that the following formula holds: ∫ₐᵇ (ax + b)f(x) dx = (aξ + b)∫ₐᵇ f(x) dx, where ξ is the abscissa of the centre of gravity of the curvilinear trapezium with base [a, b], bounded by the curve y = f(x). (Vereshchagin's rule.)",
+    "Answers": "The centre of gravity lies on the axis of symmetry of the segment at a distance 2/5 h from the base."
+  },
+  {
+    "ID": "2613",
+    "Questions": "Find the centre of gravity of the symmetrical parabolic segment with base equal to a and height h.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2614",
+    "Questions": "A rectangle of sides a and b is divided into two parts by the arc of the parabola whose vertex coincides with one corner of the rectangle and which passes through the opposite corner (Fig. 49). Find the centres of gravity of the two parts S₁ and S₂ of the rectangle.",
+    "Answers": "For S₁: ξ = 3/5 a, η = 3/8 b; for S₂: ξ = 3/10 a, η = 3/4 b."
+  ,"images":["Img2/Berman_49.png"]},
+  {
+    "ID": "2615",
+    "Questions": "Find the coordinates of the centre of gravity of the semi-circular arc y = √r² — x².",
+    "Answers": "ξ = 0, η = 2r/π."
+  },
+  {
+    "ID": "2616",
+    "Questions": "Find the coordinates of the centre of gravity of the semi-circular area bounded by the axis of abscissae and y = √r² — x².",
+    "Answers": "ξ = 0, η = 4r/3π."
+  },
+  {
+    "ID": "2617",
+    "Questions": "Find the centre of gravity of the circular arc of radius R subtending an angle α at the centre.",
+    "Answers": "The centre of gravity lies on the bisector of the central angle subtended by the arc, at a distance 2r sin(α/2)/α from the centre."
+  },
+  {
+    "ID": "2618",
+    "Questions": "Find the coordinates of the centre of gravity of the figure bounded by the coordinate axes and the parabola √x + √y = √a.",
+    "Answers": "ξ = a/5, η = a/5."
+  },
+  {
+    "ID": "2619",
+    "Questions": "Find the coordinates of the centre of gravity of the figure bounded by the coordinate axes and the arc of the ellipse x²/a² + y²/b² = 1, lying in the first quadrant, with respect to the axis of abscissae.",
+    "Answers": "ξ = 4a/3π, η = 4b/3π."
+  },
+  {
+    "ID": "2620",
+    "Questions": "Find the statical moment of the arc of the ellipse x²/a² + y²/b² = 1, lying in the first quadrant, with respect to the axis of abscissae.",
+    "Answers": "b² + (ab/2ε)arcsinε, where ε is the eccentricity of the ellipse."
+  },
+  {
+    "ID": "2621",
+    "Questions": "Find the coordinates of the centre of gravity of the figure bounded by the arc of the sine wave y = sin x and the segment of the axis of abscissae (from x₁ = 0 to x₂ = π).",
+    "Answers": "ξ = π/2, η = π/8."
+  },
+  {
+    "ID": "2622",
+    "Questions": "Find the statical moment of the figure bounded by the curves y = 2/(1 + x²) and y = x² with respect to the axis of abscissae.",
+    "Answers": "π + 2/5."
+  },
+  {
+    "ID": "2623",
+    "Questions": "The same for the curves y = sin x and y = 1/2 (one segment) with respect to the axis of abscissae.",
+    "Answers": "π/12 + √3/8."
+  },
+  {
+    "ID": "2624",
+    "Questions": "The same for the curves y = x² and y = √x with respect to the axis of abscissae.",
+    "Answers": "3/20."
+  },
+  {
+    "ID": "2625",
+    "Questions": "Find the coordinates of the centre of gravity of the figure bounded by the closed curve y² = ax³ — x⁴.",
+    "Answers": "ξ = 5/8 a, η = 0."
+  },
+  {
+    "ID": "2626",
+    "Questions": "Find the coordinates of the centre of gravity of the arc of the catenary y = a/2 (e^(x/a) + e^(-x/a)), lying between the points with abscissae x₁ = —a and x₂ = a.",
+    "Answers": "ξ = 0, η = a(e⁴ + 4e² - 1)/(4e(e² - 1))."
+  },
+  {
+    "ID": "2627",
+    "Questions": "Prove the theorem: the statical moment of an arbitrary arc of a parabola with respect to the parabola axis is proportional to the difference between the radii of curvature at the ends of the arc. The coefficient of proportionality is equal to p²/3, where p is the parameter of the parabola.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2628",
+    "Questions": "Find the coordinates of the centre of gravity of the first arc of the cycloid x = a(t — sin t), y = a(1 — cos t).",
+    "Answers": "ξ = πa, η = 4/3 a."
+  },
+  {
+    "ID": "2629",
+    "Questions": "Find the coordinates of the centre of gravity of the figure bounded by the first arc of the cycloid and the axis of abscissae.",
+    "Answers": "ξ = πa, η = 5/6 a."
+  },
+  {
+    "ID": "2630",
+    "Questions": "Find the coordinates of the centre of gravity of the arc of the astroid x = a cos³ t, y = a sin³ t, lying in the first quadrant.",
+    "Answers": "ξ = 2/5 a, η = 2/5 a."
+  },
+  {
+    "ID": "2631",
+    "Questions": "Find the coordinates of the centre of gravity of the figure bounded by the coordinate axes and the arc of the astroid (in the first quadrant).",
+    "Answers": "ξ = 256a/315π, η = 256a/315π."
+  },
+  {
+    "ID": "2632",
+    "Questions": "Prove that the abscissa and ordinate of the centre of gravity of the sector bounded by two radius vectors and the curve whose equation is given in polar coordinates ρ = ρ(φ), is given by x = (2/3) (∫(ρ³cosφ)dφ)/(∫(ρ²)dφ), y = (2/3) (∫(ρ³sinφ)dφ)/(∫(ρ²)dφ)",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2633",
+    "Questions": "Find the Cartesian coordinates of the centre of gravity of the sector bounded by one half turn of the spiral of Archimedes ρ = aφ (from φ₁ = 0 to φ₂ = π).",
+    "Answers": "ξ = 6a(4 - π²)/(3π³), η = 2a(π² - 6)/π³."
+  },
+  {
+    "ID": "2634",
+    "Questions": "Find the centre of gravity of the circular sector of radius R subtending an angle 2α at the centre.",
+    "Answers": "The centre of gravity lies on the axis of symmetry of the sector at a distance (2r sin α)/(3α) from the centre of the circle."
+  },
+  {
+    "ID": "2635",
+    "Questions": "Find the Cartesian coordinates of the centre of gravity of the figure bounded by the cardioid ρ = a(1 + cos φ).",
+    "Answers": "ξ = 5/6 a, η = 0."
+  },
+  {
+    "ID": "2636",
+    "Questions": "Find the Cartesian coordinates of the centre of gravity of the figure bounded by the right-hand loop of the lemniscate of Bernoulli",
+    "Answers": "ξ = √2/8 πa, η = 0."
+  },
+  {
+    "ID": "2637",
+    "Questions": "Prove that the Cartesian coordinates of the centre of gravity of the arc of the curve whose equation is given in polar coordinates as ρ = ρ(φ) is given by x = (∫(ρ cos φ √(ρ² + ρ'²))dφ)/(∫(√(ρ² + ρ'²))dφ), y = (∫(ρ sin φ √(ρ² + ρ'²))dφ)/(∫(√(ρ² + ρ'²))dφ)",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2638",
+    "Questions": "Find the Cartesian coordinates of the centre of gravity of the arc of the logarithmic spiral ρ = aeᵃᵠ (from φ₁ = π/2 to φ₂ = π).",
+    "Answers": "ξ = -a(2e²π + eπ)/(5(eπ - e^(π/2))), η = a(e²π - 2eπ)/(5(eπ - e^(π/2)))."
+  },
+  {
+    "ID": "2639",
+    "Questions": "Find the Cartesian coordinates of the centre of gravity of the arc of the cardioid ρ = a(1 + cos φ) (from φ₁ = 0 to φ₂ = π).",
+    "Answers": "ξ = 4/5 a, η = 4/5 a."
+  },
+  {
+    "ID": "2640",
+    "Questions": "At what distance from the geometrical centre is the centre of gravity of a solid hemisphere of radius R?",
+    "Answers": "3/8 R."
+  },
+  {
+    "ID": "2641",
+    "Questions": "Find the centre of gravity of the surface of a hemisphere.",
+    "Answers": "The centre of gravity is on the axis of symmetry at a distance R/2 from the centre."
+  },
+  {
+    "ID": "2642",
+    "Questions": "The base radius of a right circular cone is R, its height is H. Find the distance from the base of the centre of gravity of its lateral surface, of its total surface and of its volume.",
+    "Answers": "H/3, H(R+√(R²+H²))/(3(R+√(R²+H²))), H/4."
+  },
+  {
+    "ID": "2643",
+    "Questions": "How far from the base is the centre of gravity of the solid bounded by a paraboloid of revolution and a plane perpendicular to its axis? The height of the solid is h.",
+    "Answers": "h/3."
+  },
+  {
+    "ID": "2644",
+    "Questions": "Find the moment of inertia of the segment AB = l with respect to an axis lying in the same plane, given that the distance of end A of the segment from the axis is a units and the distance of end B from the axis is b units.",
+    "Answers": "1/3(a² + ab + b²)."
+  },
+  {
+    "ID": "2645",
+    "Questions": "Find the moment of inertia of the semi-circular arc of radius R with respect to the diameter.",
+    "Answers": "πR³/2 = M R²/2 (M is the mass of the semi-circular disc)."
+  },
+  {
+    "ID": "2646",
+    "Questions": "Find the moment of inertia of the arc of the curve y = eˣ (0 ≤ x ≤ 1/2) with respect to the axis of abscissae.",
+    "Answers": "√((1+e)³ - 2√2)/3."
+  },
+  {
+    "ID": "2647",
+    "Questions": "Find the moment of inertia with respect to both coordinate axes of an arc of the cycloid x = a(t — sin t), y = a(1 — cos t).",
+    "Answers": "I_x = 256/15 a³; I_y = 16a³(π² - 45/128)."
+  },
+  {
+    "ID": "2648",
+    "Questions": "Find the moment of inertia of a rectangle with sides a and b with respect to side a.",
+    "Answers": "ab³/3."
+  },
+  {
+    "ID": "2649",
+    "Questions": "Find the moment of inertia of a triangle of base a and height h with respect to:\n(1) the base;\n(2) a straight line parallel to the base through the vertex;\n(3) a straight line parallel to the base through the centre of gravity of the triangle.",
+    "Answers": "(1) bh³/12; (2) bh³/4; (3) bh³/36."
+  },
+  {
+    "ID": "2650",
+    "Questions": "Find the moment of inertia of a semi-circular area of radius R with respect to its diameter.",
+    "Answers": "πR⁴/8."
+  },
+  {
+    "ID": "2651",
+    "Questions": "Find the moment of inertia of a circular disc of radius R with respect to the centre.",
+    "Answers": "πR⁴/2."
+  },
+  {
+    "ID": "2652",
+    "Questions": "Find the moment of inertia of the ellipse with semi-axes a and b with respect to both its axes.",
+    "Answers": "πab³/4 and πba³/4."
+  },
+  {
+    "ID": "2653",
+    "Questions": "Find the moment of inertia of a cylinder of base radius R and height H with respect to its axis.",
+    "Answers": "1/2 πR⁴H."
+  },
+  {
+    "ID": "2654",
+    "Questions": "Find the moment of inertia of the cone of base radius R and height H with respect to its axis.",
+    "Answers": "1/10 πR⁴H."
+  },
+  {
+    "ID": "2655",
+    "Questions": "Find the moment of inertia of a sphere of radius R with respect to a diameter.",
+    "Answers": "8/15 πR⁵."
+  },
+  {
+    "ID": "2656",
+    "Questions": "An ellipse revolves about one of its axes. Find the moment of inertia of the resulting solid (ellipsoid of revolution) with respect to the axis of revolution.",
+    "Answers": "8/15 πab⁴, where 2a is the length of the axis about which the rotation takes place."
+  },
+  {
+    "ID": "2657",
+    "Questions": "Find the moment of inertia with respect to the axis of revolution of the paraboloid of revolution, the base radius of which is R, and the height H.",
+    "Answers": "1/6 πR⁴H."
+  },
+  {
+    "ID": "2658",
+    "Questions": "Find the moment of inertia with respect to Oz of the solid bounded by the hyperboloid of one sheet x²/2 + y²/2 — z² = 1 and the planes z = 0 and z = 1.",
+    "Answers": "56π/15."
+  },
+  {
+    "ID": "2659",
+    "Questions": "The curvilinear trapezium bounded by the curves y = eˣ, y = 0, x = 0 and x = 1, revolves (1) about Ox, (2) about Oy. Find the moment of inertia of the resulting solid with respect to the axis of revolution.",
+    "Answers": "(1) I_x = π(e⁴-1)/8; (2) I_y = 4π(3-e)."
+  },
+  {
+    "ID": "2660",
+    "Questions": "Find the moment of inertia of the lateral surface of a cylinder (base radius R, height H) with respect to its axis.",
+    "Answers": "MR², where M is the mass of the lateral surface of the cylinder."
+  },
+  {
+    "ID": "2661",
+    "Questions": "Find the moment of inertia of the lateral surface of a cone (base radius R, height H) with respect to its axis.",
+    "Answers": "1/2 MR²."
+  },
+  {
+    "ID": "2662",
+    "Questions": "Find the moment of inertia of the spherical surface of radius R with respect to a diameter.",
+    "Answers": "2/3 MR²."
+  },
+  {
+    "ID": "2663",
+    "Questions": "A regular hexagon of side a revolves about one of the sides. Find the volume of the solid thus obtained.",
+    "Answers": "9/2 πa³."
+  },
+  {
+    "ID": "2664",
+    "Questions": "An ellipse with axes AA₁ = 2a, BB₁ = 2b, revolves about a straight line parallel to axis AA₁ and at a distance 3b from it. Find the volume of the solid thus obtained.",
+    "Answers": "6π²ab²."
+  },
+  {
+    "ID": "2665",
+    "Questions": "An astroid revolves about an axis through two neighbouring cusps. Find the volume and surface of the body thus formed (see problem 2630).",
+    "Answers": "The volume is (3√2/8)π²a³, the surface area is 6√2πa²."
+  },
+  {
+    "ID": "2666",
+    "Questions": "The figure formed by the first arcs of the cycloids x = a(t — sin t), y = a(1 — cos t) and x = a(t — sin t), y = —a(1 — cos t), revolves about the axis of ordinates. Find the volume and surface of the solid thus obtained.",
+    "Answers": "The volume is 12π³a³, the surface area 32π²a²."
+  },
+  {
+    "ID": "2667",
+    "Questions": "A square revolves about an axis, lying in its plane and passing through one of its corners. For what position of the axis with respect to the square is the volume of the solid thus obtained a maximum? The same problem for a triangle.",
+    "Answers": "The axis of rotation must be perpendicular to the diagonal of the square; the axis of rotation must be perpendicular to the median."
+  },
+  {
+    "ID": "2668",
+    "Questions": "The speed of a body is given by v = √1 + t m/sec. Find the path traversed by the body during the first 10 sec. from the start of the motion.",
+    "Answers": "≈ 23.7 m."
+  },
+  {
+    "ID": "2669",
+    "Questions": "The speed dx/dt for a harmonic vibration along the axis of abscissae about the origin is given by dx/dt = (2π/T)cos((2πt/T) + φ₀) where t is time, T the period of vibration, φ₀ the initial phase). Find the position of the point at the instant t₂, if it is known that it was at the point x = x₁ at the instant t₁.",
+    "Answers": "x₂ = x₁ + [sin((2πt/T) + φ₀)] from t₁ to t₂."
+  },
+  {
+    "ID": "2670",
+    "Questions": "A rod AB of length l and mass M attracts a particle C of mass m which lies on the continuation of the rod at a distance a from its nearest end B. Find the force of interaction of the rod and particle. What material particle must be located at A in order for it to act on C with the same force as rod AB? How much work is done by the force of attraction when the particle, situated at a distance r₁ from the rod, approaches along the straight line forming the prolongation of the rod until its distance from the rod is r₂?",
+    "Answers": "kmM/(a(a+l)), a+l-√a(a+l) M, (kmM/l)ln(r₁(r₂+l))/(r₂(r₁+l))."
+  },
+  {
+    "ID": "2671",
+    "Questions": "With what force does a half-ring of radius r and mass M act on a material particle of mass m situated at its centre?",
+    "Answers": "2kmM/πr²."
+  },
+  {
+    "ID": "2672",
+    "Questions": "With what force does a wire ring of mass M and radius R act on a material particle C of mass m, located on the straight line through the centre of the ring perpendicular to its plane? The distance from the particle to the ring centre is equal to a. What work is done by the attraction force when the particle moves from infinity to the ring centre?",
+    "Answers": "kmMa/√(R² + a²)³, kmM/√R²."
+  },
+  {
+    "ID": "2673",
+    "Questions": "Using the result of the previous problem, find the force that a plane disc of radius R and mass M exerts on a material particle of mass m, which lies on its axis at a distance a from the centre.",
+    "Answers": "(2kmM/R²)(1 - a/√(a²+R²))."
+  },
+  {
+    "ID": "2674",
+    "Questions": "Using the result of the previous problem, find the force exerted on a material particle of mass m by an infinite plane on which mass is uniformly distributed with surface density σ. The distance from the particle to the plane is equal to a.",
+    "Answers": "2πkmσ."
+  },
+  {
+    "ID": "2675",
+    "Questions": "The base radii of the frustum of a right circular cone are equal to R and r, its height is h and density γ. What force does it exert on a material particle of mass m located at its vertex?",
+    "Answers": "2πkmyh(1 - h/√(h²+(R-r)²))."
+  },
+  {
+    "ID": "2676",
+    "Questions": "With what force does the material step-line y = |x| + 1 attract a material particle of mass m, located at the origin? (The linear density is equal to γ.)",
+    "Answers": "2kmγ."
+  },
+  {
+    "ID": "2677",
+    "Questions": "Prove that the material step-line y = a|x| + 1 (a ≠ 0) attracts a material particle, situated at the origin, with a force independent of a, i.e. independent of the angle between the sides of the step-line.",
+    "Answers": "Use the solution of problem 2673."
+  },
+  {
+    "ID": "2678*",
+    "Questions": "Two equal rods (each of length l and mass M) lie on the same straight line at a distance l from each other. Work out the force of mutual attraction.",
+    "Answers": "kM²/l² * ln(4/3). First calculate the force of interaction of element ds of the first rod with the second rod (use the result of problem 2670), then find the total force of interaction."
+  },
+  {
+    "ID": "2679",
+    "Questions": "A drop with initial mass M falls under the action of gravity and evaporates uniformly, losing mass m per second. What is the work done by gravity from the start of the motion to the complete evaporation of the drop? (The air resistance is neglected.)",
+    "Answers": "g²M²/6m² ergs (M and m in grams, g in cm/sec²)."
+  },
+  {
+    "ID": "2680",
+    "Questions": "How much work must be done in producing a conical heap of sand of base radius 1.2 m and height 1 m? The specific weight of sand is 2 g/cm³ (the sand is taken from the surface of the earth).",
+    "Answers": "≈ 754 kg."
+  },
+  {
+    "ID": "2681",
+    "Questions": "The dimensions of the pyramid of Cheops are roughly as follows: height 140 m, side of the (square) base 200 m. The specific weight of the stone of which it is made is approximately 2.5 g/cm³. Find the work done during its construction in overcoming the force of gravity.",
+    "Answers": "≈ 1.63 * 10¹¹ kg."
+  },
+  {
+    "ID": "2682",
+    "Questions": "Find the work required when pumping out the water from a cylindrical reservoir of height H = 5 m, having a circular base of radius R = 3 m.",
+    "Answers": "353,250 kg."
+  },
+  {
+    "ID": "2683",
+    "Questions": "Find the work that must be expended in pumping out liquid of specific weight d from a reservoir, having the shape of an inverted cone with vertex downwards, the height of which is H and base radius R. How is the result affected if the one has its vertex upwards?",
+    "Answers": "πdR²H²/12, πdR²H²/4. The work is obtained in kg in the answers to problems 2683-2686 if the distance is in metres, and the specific weight in kg/m³."
+  },
+  {
+    "ID": "2684",
+    "Questions": "Find the work that must be expended to pump out the water filling a hemispherical vessel of radius R = 0.6 m.",
+    "Answers": "πdR⁴/4 ≈ 101.8 kg."
+  },
+  {
+    "ID": "2685",
+    "Questions": "A boiler has the shape of a paraboloid of revolution (Fig. 50). The base radius R = 2 m, the depth of the boiler H = 4 m. It is filled with liquid of specific weight d = 0.8 g/cm³. Find the work which must be done to pump the liquid out of the boiler.",
+    "Answers": "πdR²H²/6 ≈ 26,800 kg."
+  ,"images":["Img2/Berman_50.png"]},
+  {
+    "ID": "2686",
+    "Questions": "Find the work which must be expended to pump out the water from a trough which has the following dimensions (Fig. 51): a = 0.75 m, b = 1.2 m, H = 1 m. The surface bounding the trough is a parabolic cylinder.",
+    "Answers": "4/15 dabH² = 240 kg."
+  ,"images":["Img2/Berman_51.png"]},
+  {
+    "ID": "2687",
+    "Questions": "A rod AB (Fig. 52) rotates in a horizontal plane about axis OO' with angular velocity ω = 10π rad/sec. The cross-section of the rod S = 4 cm², its length l = 20 cm, the density of the material of which it is made is γ = 7.8 g/cm³. Find the kinetic energy of the rod.",
+    "Answers": "SI³ω²γ/6 ≈ 4.1 x 10⁷ erg ≈ 0.418 kg."
+  ,"images":["Img2/Berman_52.png"]},
+  {
+    "ID": "2688",
+    "Questions": "A rectangular plate with sides a = 50 cm and b = 40 cm rotates with constant angular velocity ω, equal to 3π sec⁻¹, about the side a. Find the kinetic energy of the plate. The plate thickness d is equal to 0.3 cm, the density of its material is equal to 8 g/cm³.",
+    "Answers": "ab³dγω²/6 ≈ 1.16 kg."
+  },
+  {
+    "ID": "2689",
+    "Questions": "A triangular plate, whose base a = 40 cm and height h = 30 cm, rotates about its base with constant angular velocity ω = 5π sec⁻¹. Find the kinetic energy of the plate, if its thickness d = 0.2 cm, and the density of its material is 2.2 g/cm³.",
+    "Answers": "ah³dω²γ/24 ≈ 0.05 kg."
+  },
+  {
+    "ID": "2690",
+    "Questions": "A plate in the shape of a parabolic segment (Fig. 53) rotates about the parabola axis with constant angular velocity ω = 4π sec⁻¹. The base of the segment a = 20 cm, the height h = 30 cm, the thickness of the plate d = 0.3 cm, the density of the material γ = 7.8 g/cm³. Find the kinetic energy of the plate.",
+    "Answers": "ha⁵dω²γ/60 ≈ 0.015 kg."
+  ,"images":["Img2/Berman_53.png"]},
+  {
+    "ID": "2691",
+    "Questions": "A circular cylinder of base radius R and height H rotates about its axis with constant angular velocity ω. The density of the material of which the cylinder is made is equal to y. Find the kinetic energy of the cylinder.",
+    "Answers": "πR⁴Hω²γ/4 erg (R and H in cm, γ in g/cm³, ω in rad/sec)."
+  },
+  {
+    "ID": "2692",
+    "Questions": "A thin wire of mass M is bent to form a semi-circle of radius R and rotates about an axis passing through the ends of the semi-circle, performing n revolutions per minute. Find its kinetic energy. Work out the kinetic energy if the axis of rotation is the tangent at the mid-point of the semi-circle.",
+    "Answers": "MR²n²π²/3600 erg, MR²(3π-8)πn²/3600 erg (R in cm, M in g)."
+  },
+  {
+    "ID": "2693",
+    "Questions": "A plate of triangular shape is submerged vertically in water so that its base lies at the surface of the water. The plate base is a, its height h. (a) Find the force of the water pressure on each side of the plate. (b) How many times is the force increased if the plate is turned over so that the vertex is at the water surface and the base is parallel to the water surface?",
+    "Answers": "(a) ah²/6; (b) The pressure is doubled."
+  },
+  {
+    "ID": "2694",
+    "Questions": "A square plate is submerged vertically in water so that one corner lies at the water surface and a diagonal is parallel to the surface. The side of the square is a. What is the water pressure on each side of the plate?",
+    "Answers": "a³√2/2."
+  },
+  {
+    "ID": "2695",
+    "Questions": "Calculate the water pressure on a dam having the shape of an isosceles trapezoid, whose upper base a = 6.4 m, lower base b = 4.2 m, and height H = 3 m.",
+    "Answers": "22.2 m."
+  },
+  {
+    "ID": "2696",
+    "Questions": "A plate in the form of an ellipse is half submerged in liquid (vertically), so that one of its axes (of length 2b) lies at the surface of the liquid. How great is the fluid pressure on each of the sides of the plate if the length of the submerged semi-axis of the ellipse is equal to a, whilst the specific weight of the fluid is d?",
+    "Answers": "2/3 da²b."
+  },
+  {
+    "ID": "2697",
+    "Questions": "A rectangular plate with sides a and b (a > b) is submerged in fluid at an angle α to the fluid surface. The longer side is parallel to the surface and lies at a depth h. Calculate the fluid pressure on each of the plate sides, if the specific weight of the fluid is d.",
+    "Answers": "abd(h + b/2 sin α)."
+  },
+  {
+    "ID": "2698",
+    "Questions": "A rectangular vessel is filled with equal parts by volume of water and oil, the oil being twice as light as water. Show that the pressure on each wall of the vessel is diminished by a fifth if oil only is taken instead of the mixture. (Take into account the fact that all the oil is on top.)",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2699",
+    "Questions": "A wooden float of cylindrical shape, the base area of which S = 4000 cm², and height H = 50 cm, floats on water. The specific gravity of wood d = 0.8 g/cm³. (a) What work must be done in order to pull the float out of the water? (b) Find how much work must be expended to submerge the float completely.",
+    "Answers": "(a) d²H²S/2 = 32 kg; (b) 1/2 SH²(1 - d)² = 2 kg."
+  },
+  {
+    "ID": "2700",
+    "Questions": "A sphere of radius R with specific weight 1 is submerged in water so that it touches the surface. How much work must be done in order to pull the sphere from the water?",
+    "Answers": "4/3 πR⁴."
+  },
+  {
+    "ID": "2701",
+    "Questions": "There is an orifice at the bottom of a cylindrical vessel, the base area of which is 100 cm, and the height 30 cm. Find the area of the orifice if it is known that water filling the vessel flows out in the course of 2 min.",
+    "Answers": "≈ 0.206 cm²."
+  },
+  {
+    "ID": "2702",
+    "Questions": "Water fills a conical funnel of height H = 20 cm. The radius of the upper orifice R = 12 cm. The lower orifice, through which the water flows from the funnel, has radius r = 0.3 cm. (a) How long does it take the level of water in the funnel to fall by 5 cm? (b) When will the funnel be empty?",
+    "Answers": "(a) ≈ 33.2 sec; (b) ≈ 64.6 sec."
+  },
+  {
+    "ID": "2703",
+    "Questions": "A hole of area S = 0.2 cm² has formed in the bottom of a boiler, of hemispherical shape with radius R = 43 cm. If the boiler is filled with water, how long will it take the water to flow out?",
+    "Answers": "≈ 1 hour 6 min 53 sec."
+  },
+  {
+    "ID": "2704",
+    "Questions": "A boiler has the form of an elliptic cylinder with horizontal axis. The semi-axes of the elliptic section (perpendicular to the cylinder axis) are b (horizontal) and a (vertical); the cylinder generator is of length l (Fig. 54). The boiler is half filled with water. How long does it take the water to flow from the boiler through an orifice of area S at the bottom?",
+    "Answers": "(2bL√2a)/(3S√g) * (2√2 - 1)."
+  ,"images":["Img2/Berman_54.png"]},
+  {
+    "ID": "2705",
+    "Questions": "A rectangular vertical slit, of height h and width b, is made in the vertical wall of a prismatic vessel filled with water. The upper edge of the slit, parallel to the water surface, is at a distance H from the surface. What amount of water flows from the vessel in 1 sec, if the water level is assumed always to be maintained at the same height? Take the case H = 0 (problem of a spill-way).",
+    "Answers": "(2b√2g)/3 * [(H+h)^(3/2) - H^(3/2)]; for H = 0: (2b√2g h^(3/2))/3 = (2√2g S√h)/3, where S is the area of the slit."
+  },
+  {
+    "ID": "2706",
+    "Questions": "A vessel filled to the brim with water has the shape of a parallelepiped with base area 100 cm². There is a narrow slit in the side wall, of height 20 cm and width 0.1 cm (Fig. 55). How long does it take the water level in the vessel to fall by (a) 5 cm? (b) 10 cm? (c) 19 cm? (d) 20 cm? (The result of the previous problem should be used.)",
+    "Answers": "(a) ≈ 2.4 sec; (b) ≈ 6.3 sec; (c) ≈ 53 sec; (d) as t → ∞."
+  ,"images":["Img2/Berman_55.png"]},
+  {
+    "ID": "2707",
+    "Questions": "Atmospheric air is contained in a cylindrical vessel of base area 10 cm² and height 30 cm. What work must be expended in order to drive in a piston 20 cm, i.e. so that the piston is 10 cm from the cylinder bottom (Fig. 56)? Atmospheric pressure is 1.033 kg/cm². The process is carried out isothermically, i.e. at constant temperature. (To find the work in kgm, the pressure must be taken in kg/m² and the volume in m³.)",
+    "Answers": "≈ 3.4 kg."
+  ,"images":["Img2/Berman_56.png"]},
+  {
+    "ID": "2708",
+    "Questions": "Air at atmospheric pressure is contained in a cylindrical vessel of cross-section 100 cm². There is a piston in the vessel. Its initial distance from the vessel bottom is 0.1 m. The vessel is placed in a vacuum, as a result of which the air in it expands and pushes out the piston. (1) Find the work done by the air in the cylinder when it raises the piston a height (a) 0.2 m, (b) 0.5 m, (c) 1 m. (2) Can this work increase indefinitely on indefinite expansion of the gas? (The process is isothermal, as in the previous example.)",
+    "Answers": "1(a) ≈ 7.16 kg; (b) ≈ 16.6 kg; (c) ≈ 23.8 kg; (2) the work increases indefinitely on indefinite expansion of the gas."
+  },
+  {
+    "ID": "2709",
+    "Questions": "Atmospheric air is contained in a cylindrical vessel of volume v₀ = 0.1 m³ and is subjected to compression by rapidly driving in a piston (it is assumed here that the process is carried out without the influx or transmission of heat, i.e. adiabatically). What work must be expended to compress the air in the vessel to a volume v = 0.03 m³? (Atmospheric pressure is 1.033 kg/cm².) In the case of an adiabatic process the pressure and volume of the gas are connected by the relationship pv^γ = p₀v₀^γ (Poisson's equation). For diatomic gases (as also for air) γ ≈ 1.40.",
+    "Answers": "≈ 1600 kg."
+  },
+  {
+    "ID": "2710",
+    "Questions": "A body whose temperature is 25° is placed in a thermostat (the temperature of which is maintained at 0°). How long does it take the body to cool to 10°, if it has cooled to 20° after 20 min.?",
+    "Answers": "≈ 82 min."
+  },
+  {
+    "ID": "2711",
+    "Questions": "A body whose temperature is 30° reaches a temperature of 22.5° after being placed for 30 min in a thermostat whose temperature is 0°. What will the temperature of the body be 3 hours after the start of the experiment?",
+    "Answers": "Slightly more than 5°."
+  },
+  {
+    "ID": "2712",
+    "Questions": "An infinite straight line is uniformly charged with positive electricity (the linear density of electricity is σ). What force does this straight line exert on a unit charge located at a point A distant a from it? The dielectric constant of the medium is equal to unity (see Course, sec. 116).",
+    "Answers": "2σ/a."
+  },
+  {
+    "ID": "2713",
+    "Questions": "Two electric charges: e₁ = 20 electrostatic units and e₂ = 30 electrostatic units, are separated by a distance of 10 cm. The medium between them is air. Both charges are first held fixed, then charge e₂ is freed. Under the action of the force of repulsion, charge e₂ starts to move away from charge e₁. How much work is done by the repulsion force when the charge (a) moves away to a distance of 30 cm? (b) moves away to infinity?",
+    "Answers": "(a) 40 erg. (b) 60 erg."
+  },
+  {
+    "ID": "2714",
+    "Questions": "Two electric charges: e₁ = 100 electrostatic units and e₂ = 120 electrostatic units, are at a distance of 20 cm from each other. What will the distance be between the charges if we bring the second closer to the first whilst expending 1800 ergs of work? (Air is the separating medium.)",
+    "Answers": "5 cm."
+  },
+  {
+    "ID": "2715",
+    "Questions": "The voltage is v = 120 V at the terminals of an electrical circuit. Resistance is introduced into the circuit at a uniform rate of 0.1 ohm per sec. Furthermore, a constant resistance of r = 10 ohm is included in the circuit. How many Coulombs of electricity pass through the circuit during two minutes?",
+    "Answers": "≈ 946 coulombs."
+  },
+  {
+    "ID": "2716",
+    "Questions": "The voltage at the terminals of an electrical circuit, initially equal to 120 V, falls uniformly, decreasing by 0.01 V in a second. Simultaneously with this, resistance is introduced into the circuit, also at a uniform rate, viz. 0.1 ohm per sec. Moreover, constant resistance equal to 12 ohm is present in the circuit. How many Coulombs of electricity flow through the circuit during 3 min?",
+    "Answers": "≈ 1092 coulombs."
+  },
+  {
+    "ID": "2717",
+    "Questions": "When the temperature changes, the resistance of a metallic conductor varies (at normal temperatures) in accordance with the law R = R₀(1 + 0.004θ), where R₀ is the resistance at 0° C and θ is the temperature in centigrade. (This law holds for the majority of pure metals.) A conductor whose resistance at 0° C is equal to 10 ohm is uniformly heated from θ₁ = 20° to θ₂ = 200° in the course of 10 min. A current flows along it in this time at a voltage of 120 V. How many Coulombs of electricity flow through the conductor during this time?",
+    "Answers": "≈ 5110 coulombs."
+  },
+  {
+    "ID": "2718",
+    "Questions": "The law of variation of the voltage of ordinary alternating (urban) current, of 50 cycles per sec, is given by the formula: E = E₀ sin 100πt, where E₀ is the maximum voltage and t is time. Find the mean value of the square of the voltage during 1 period (0.02 sec). Show that, when the resistance is constant, alternating current produces as much heat during 1 cycle as a constant current having a voltage equal to √((E²)av). (In view of this, expression √((E²)av) is termed the effective voltage of the alternating current.)",
+    "Answers": "E₀²/2. The effective voltage of alternating current is equal to E₀/√2."
+  },
+  {
+    "ID": "2719",
+    "Questions": "The voltage of a sinusoidal electric current is given by E = E₀ sin((2π/T)t) whilst the current is given by I = I₀ sin((2πt/T) - φ₀), where E₀ and I₀ are constant quantities (the peak values of the voltage and current), T is the period, and φ₀ the phase difference. Find the work done by the current during the time from t₁ = 0 to t₂ = T and show that the peak value of this work will be obtained when the phase difference φ₀ is zero.",
+    "Answers": "(E₀I₀T/2)cos(φ₀)."
+  },
+  {
+    "ID": "2720",
+    "Questions": "Find the time required to heat 1 kg of water electrically from 20 to 100° C, if the voltage is 120 V, the spiral resistance is 14.4 ohm, the air temperature in the room is 20° C and it is known that 1 kg of water cools from 40° C to 30° C in 10 min. (By the Joule-Lenz law, Q = 0.24I²Rt, where Q is the amount of heat in small calories, I is the current in amperes, R is the resistance in ohms, and t is the time in seconds. In addition, use is made of Newton's law of cooling (see problem 2710).",
+    "Answers": "≈ 7 min 2 sec."
+  },
+  {
+    "ID": "2721",
+    "Questions": "Air filling a vessel of capacity 3 l., contains 20 per cent oxygen. The vessel has two pipes. Pure oxygen is now pumped into the vessel through one of them, whilst air passes out through the other, the amount of air leaving being the same as the amount of oxygen flowing in. How much oxygen will the vessel contain after 10 l. of gas have flowed through it? The concentration of oxygen is kept the same in the vessel at each instant with the aid of a mixer.",
+    "Answers": "≈ 2.915 l."
+  },
+  {
+    "ID": "2722",
+    "Questions": "Air contains a per cent (= 8 per cent) CO₂; it is filtered through a cylindrical vessel with an absorbent medium. A thin layer of the medium absorbs an amount of gas proportional to its concentration and the layer thickness. (a) If air that has passed through a layer H cm (= 10 cm) thick contains b per cent (= 2 per cent) CO₂, what thickness H₁ must the layer have for the air leaving the filter to contain only c per cent (= 1 per cent) carbon dioxide? (b) How much carbon dioxide (in per cent) remains in the air after passing through the filter if the thickness of the absorbent layer is 30 cm?",
+    "Answers": "(a) H₁ = H ln((a-c)/(a-b)) / (ln((a-b)/(a-c))) ≈ 15 cm. (b) 0.125 %."
+  },
+  {
+    "ID": "2723",
+    "Questions": "If half the initial quantity of light is absorbed on passing through a layer of water 3 m thick, what part of this quantity remains at a depth of 30 m? The quantity of light absorbed on passing through a thin layer of water is proportional to the layer thickness and the quantity of light incident on its surface.",
+    "Answers": "1/1024 of the original quantity."
+  },
+  {
+    "ID": "2724",
+    "Questions": "If an initial quantity of ferment equal to 1 g becomes 1.2 g after an hour, what will it be 5 hours after the start of the fermentation, if the rate of growth of the ferment is assumed proportional to the initial quantity?",
+    "Answers": "≈ 2.49 g."
+  },
+  {
+    "ID": "2725",
+    "Questions": "If the quantity of ferment present is 2 g two hours after the start of the fermentation, and is 3 g after 3 hours, what was the initial quantity of ferment? (See previous problem.)",
+    "Answers": "8/9 g."
+  },
+  {
+    "ID": "2726",
+    "Questions": "Two kilogrammes of salt are dissolved in 30 l. water. One kilogramme of salt passes into solution after 5 min. How long will it take 99 per cent of the initial quantity of salt to pass into solution? (The rate of solution is proportional to the amount of undissolved salt and the difference between the concentration of a saturated solution, which is equal to 1 kg per 3 l., and the concentration at the given instant.)",
+    "Answers": "≈ 37.3 min."
+  },
+  {
+    "ID": "2727*",
+    "Questions": "For each series of problems 2727-2736: (1) find the sum (Sₙ) of the first n terms of the series, (2) show directly from the definition that the series is convergent and (3) find the sum (S) of the series.\n1/(1.2) + 1/(2.3) + ... + 1/(n(n+1)) + ...",
+    "Answers": "Sₙ = 1 - 1/(n+1), S = 1. Write each term of the series as a sum of two terms."
+  },
+  {
+    "ID": "2728",
+    "Questions": "1/(1.3) + 1/(3.5) + ... + 1/((2n-1)(2n+1)) + ...",
+    "Answers": "Sₙ = 1/2(1 - 1/(2n+1)), S = 1/2."
+  },
+  {
+    "ID": "2729",
+    "Questions": "1/(1.4) + 1/(4.7) + ... + 1/((3n-2)(3n+1)) + ...",
+    "Answers": "Sₙ = 1/3(1 - 1/(3n+1)), S = 1/3."
+  },
+  {
+    "ID": "2730",
+    "Questions": "1/(1.4) + 1/(2.5) + ... + 1/(n(n+3)) + ...",
+    "Answers": "Sₙ = 1/3(1 + 1/2 + 1/3 - 1/(n+1) - 1/(n+2) - 1/(n+3)), S = 11/18."
+  },
+  {
+    "ID": "2731",
+    "Questions": "1/(1.7) + 1/(3.9) + ... + 1/((2n-1)(2n+5)) + ...",
+    "Answers": "Sₙ = 1/6(1 + 1/3 + 1/5 - 1/(2n+1) - 1/(2n+3) - 1/(2n+5)), S = 23/90."
+  },
+  {
+    "ID": "2732",
+    "Questions": "1/(1.2.3) + 1/(2.3.4) + ... + 1/(n(n+1)(n+2)) + ...",
+    "Answers": "Sₙ = 1/2[1/(1.2) - 1/((n+1)(n+2))], S = 1/4."
+  },
+  {
+    "ID": "2733",
+    "Questions": "5/6 + 13/36 + ... + (3ⁿ + 2ⁿ)/6ⁿ + ...",
+    "Answers": "Sₙ = 1 + 1/2 - 1/2ⁿ - 1/(3·2ⁿ), S = 3/2."
+  },
+  {
+    "ID": "2734",
+    "Questions": "3/4 + 5/36 + ... + (2n+1)/(n²(n+1)²) + ...",
+    "Answers": "Sₙ = 1 - 1/(n+1)², S = 1."
+  },
+  {
+    "ID": "2735",
+    "Questions": "1/9 + 2/225 + ... + 1/((2n-1)²(2n+1)²) + ...",
+    "Answers": "Sₙ = 1/8[1 - 1/(2n+1)²], S = 1/8."
+  },
+  {
+    "ID": "2736",
+    "Questions": "arc tan(1/2) + arc tan(1/8) + ... + arc tan(1/(2n²)) + ...",
+    "Answers": "Sₙ = arc tan(n/(n+1)), S = π/4."
+  },
+  {
+    "ID": "2737",
+    "Questions": "1/(1.2) + 1/(3.2³) + ... + 1/((2n-1).2²ⁿ⁻¹) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2738",
+    "Questions": "sin(π/2) + sin(π/4) + ... + sin(π/2ⁿ) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2739",
+    "Questions": "1 + (1+2)/2² + ... + (1+n)/n² + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2740",
+    "Questions": "1/(2.5) + 1/(3.6) + ... + 1/((n+1)(n+4)) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2741",
+    "Questions": "2/3 + 3/8 + ... + (n+1)/((n+2)n) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2742",
+    "Questions": "tan(π/4) + tan(π/8) + ... + tan(π/4n) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2743",
+    "Questions": "1/2 + 1/5 + ... + 1/(n²+1) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2744",
+    "Questions": "1/2 + 1/5 + ... + 1/(3n-1) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2745",
+    "Questions": "1/ln 2 + 1/ln 3 + ... + 1/ln(n+1) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2746",
+    "Questions": "Σ (from n=1 to ∞) 1/(n² - 4n + 5)",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2747",
+    "Questions": "Σ (from n=1 to ∞) (1+n²)/(1+n³)²",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2748",
+    "Questions": "Σ (from n=1 to ∞) 1/(√(n³ + 2n))",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2749",
+    "Questions": "Σ (from n=1 to ∞) ln n / ⁴√n⁵",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2750",
+    "Questions": "Σ (from n=1 to ∞) (√(n+1) - √(n-1))",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2751",
+    "Questions": "Σ (from n=1 to ∞) √(n/(n⁴+1))",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2752",
+    "Questions": "Σ (from n=1 to ∞) 1/n(√(n+1) - √(n-1))",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2753",
+    "Questions": "Σ (from n=1 to ∞) 1/n(√(n²+n+1) - √(n²-n-1))",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2754",
+    "Questions": "1/3! + 1/5! + ... + 1/((2n+1)!) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2755",
+    "Questions": "1/2 + 2/2² + ... + n/2ⁿ + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2756",
+    "Questions": "tan(π/4) + 2tan(π/8) + ... + n tan(π/2ⁿ⁺¹) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2757",
+    "Questions": "2/1 + (2.5)/(1.5) + ... + (2.5...(3n-1))/(1.5...(4n-3)) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2758",
+    "Questions": "1/3 + 4/9 + ... + n²/3ⁿ + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2759",
+    "Questions": "1/3 + (1.3)/(3.6) + ... + (1.3...(2n-1))/(3ⁿ.n!) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2760",
+    "Questions": "sin(π/2) + 4sin(π/4) + ... + n²sin(π/2ⁿ) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2761",
+    "Questions": "1/2! + 2/3! + ... + n/((n+1)!) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2762",
+    "Questions": "2/2 + (2.3)/(2.4) + ... + (n+1)!/(2ⁿ.n!) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2763",
+    "Questions": "1/ln 2 + 1/ln³ 3 + ... + 1/lnⁿ(n+1) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2764",
+    "Questions": "1/3 + (2/5)² + ... + (n/(2n+1))ⁿ + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2765",
+    "Questions": "arc sin 1 + arc sin²(1/2) + ... + arc sinⁿ(1/n) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2766",
+    "Questions": "2/3 + (3/2)⁴ + ... + ((n+1)/n)ⁿ² + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2767",
+    "Questions": "1/(2ln²2) + 2/(3ln²3) + ... + 1/((n+1)ln²(n+1)) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2768",
+    "Questions": "1/(2ln2) + 1/(3ln3) + ... + 1/(n ln n) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2769",
+    "Questions": "(1+1/1)² + (1+1/2)³ + ... + (1+1/n)ⁿ⁺¹ + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2770",
+    "Questions": "Σ (from n=2 to ∞) 1/(√n ln(n/(n-1)))",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2771",
+    "Questions": "1/(2√2) + 1/(3√3) + ... + 1/((n+1)√(n+1)) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2772",
+    "Questions": "1 + 2/3 + ... + n/(2n-1) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2773",
+    "Questions": "√2 + √3/2 + ... + √(n+1)/n + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2774",
+    "Questions": "1 + 4/(1.2) + ... + n²/n! + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2775",
+    "Questions": "5/8 + ... + (n²+1)/n³ + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2776",
+    "Questions": "2/1001 + 2/2001 + ... + n/(1000n+1) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2777",
+    "Questions": "1/(1+1²) + 2/(1+2²) + ... + n/(1+n²) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2778",
+    "Questions": "1/3 + 3/3² + ... + (2n-1)/3ⁿ + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2779",
+    "Questions": "arc tan 1 + arc tan²(1/2) + ... + arc tanⁿ(1/n) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2780",
+    "Questions": "2 + 4/16 + ... + 2ⁿ/n⁴ + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2781",
+    "Questions": "1/(1.3) + 1/(6.7) + ... + 1/((5n-4)(4n-1)) + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2782",
+    "Questions": "3/2 + 9/8 + ... + 3ⁿ/(n.2ⁿ) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2783",
+    "Questions": "1 + 1.2/2² + ... + n!/nⁿ + ...",
+    "Answers": "Convergent."
+  },
+  {
+    "ID": "2784*",
+    "Questions": "sin(π/2) + sin(π/4) + ... + sin(π/2n) + ...",
+    "Answers": "Divergent. Use the formula sin α + sin 2α + ... + sin kα = (sin(kα/2) sin((k+1)α/2)) / sin(α/2) or the inequality sin x > 2x/π if 0 < x < π/2."
+  },
+  {
+    "ID": "2785",
+    "Questions": "Prove each of the relationships of problems 2785-2789 with the aid of the series whose general term is the given function: lim (n→∞) aⁿ/n! = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2786",
+    "Questions": "lim (n→∞) (2n)!/aⁿ = 0 (a > 1).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2787",
+    "Questions": "lim (n→∞) nⁿ/(2n)! = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2788",
+    "Questions": "lim (n→∞) nⁿ/(n!)² = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2789",
+    "Questions": "lim (n→∞) (n!)ⁿ/nⁿ² = 0.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2790",
+    "Questions": "Examine the series of problems 2790-2799 for absolute convergence, non-absolute convergence, or divergence: 1 - 1/3 + ... + (-1)ⁿ⁺¹(1/(2n-1)) + ...",
+    "Answers": "Convergent, but not absolutely."
+  },
+  {
+    "ID": "2791",
+    "Questions": "1 - 1/3³ + ... + (-1)ⁿ⁺¹(1/(2n-1)³) + ...",
+    "Answers": "Absolutely convergent."
+  },
+  {
+    "ID": "2792",
+    "Questions": "1/ln 2 - 1/ln 3 + ... + (-1)ⁿ⁺¹(1/ln(n+1)) + ...",
+    "Answers": "Non-absolutely convergent."
+  },
+  {
+    "ID": "2793",
+    "Questions": "sin α/1 + sin 2α/4 + ... + sin nα/n² + ...",
+    "Answers": "Absolutely convergent."
+  },
+  {
+    "ID": "2794",
+    "Questions": "1/2 - 1/(2.2²) + ... + (-1)ⁿ⁺¹(1/(n.2ⁿ)) + ...",
+    "Answers": "Absolutely convergent."
+  },
+  {
+    "ID": "2795",
+    "Questions": "2 - 3/2 + ... + (-1)ⁿ⁺¹((n+1)/n) + ...",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2796",
+    "Questions": "-1 + 1/√2 - ... + (-1)ⁿ(1/√n) + ...",
+    "Answers": "Non-absolutely convergent."
+  },
+  {
+    "ID": "2797",
+    "Questions": "1/2 - 8/4 + ... + (-1)ⁿ⁺¹(n³/2ⁿ) + ...",
+    "Answers": "Absolutely convergent."
+  },
+  {
+    "ID": "2798",
+    "Questions": "Σ (from n=1 to ∞) ((-1)ⁿ)/(n-ln n)",
+    "Answers": "Non-absolutely convergent."
+  },
+  {
+    "ID": "2799",
+    "Questions": "Σ (from n=1 to ∞) (2ⁿn!)/nⁿ (-1)ⁿ⁺¹",
+    "Answers": "Divergent."
+  },
+  {
+    "ID": "2800",
+    "Questions": "Prove that, if the series Σ aₙ² and Σ bₙ² are convergent, the series Σ aₙbₙ is absolutely convergent.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2801",
+    "Questions": "Prove that, if the series Σ aₙ is absolutely convergent, the series Σ aₙ(n+1)/n is also absolutely convergent.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2802",
+    "Questions": "Find the domains of convergence of the series of problems 2802-2816: 1 + x + ... + xⁿ + ...",
+    "Answers": "-1 < x < 1."
+  },
+  {
+    "ID": "2803",
+    "Questions": "ln x + ln² x + ... + lnⁿ x + ...",
+    "Answers": "1/e < x < e."
+  },
+  {
+    "ID": "2804",
+    "Questions": "x + x⁴ + ... + x^(n²) + ...",
+    "Answers": "-1 < x < 1."
+  },
+  {
+    "ID": "2805",
+    "Questions": "x + x⁴/2² + ... + xⁿ²/n² + ...",
+    "Answers": "-1 ≤ x ≤ 1."
+  },
+  {
+    "ID": "2806",
+    "Questions": "x + x²/√2 + ... + xⁿ/√n + ...",
+    "Answers": "-1 ≤ x < 1."
+  },
+  {
+    "ID": "2807",
+    "Questions": "1/(1+x) + 1/(1+x²) + ... + 1/(1+xⁿ) + ...",
+    "Answers": "x < -1 and x > 1."
+  },
+  {
+    "ID": "2808",
+    "Questions": "2x + 6x² + ... + n(n+1)xⁿ + ...",
+    "Answers": "-1 < x < 1."
+  },
+  {
+    "ID": "2809",
+    "Questions": "x/2 + x²/(2+√2) + ... + xⁿ/(n+√n) + ...",
+    "Answers": "-1 ≤ x < 1."
+  },
+  {
+    "ID": "2810",
+    "Questions": "x/(1+x²) + x²/(1+x⁴) + ... + xⁿ/(1+x²ⁿ) + ...",
+    "Answers": "x ≠ ±1."
+  },
+  {
+    "ID": "2811",
+    "Questions": "sin(x/2) + sin(x/4) + ... + sin(x/2ⁿ) + ...",
+    "Answers": "For any x."
+  },
+  {
+    "ID": "2812",
+    "Questions": "x tan(x/2) + x² tan(x/4) + ... + xⁿ tan(x/2ⁿ) + ...",
+    "Answers": "-2 < x < 2."
+  },
+  {
+    "ID": "2813",
+    "Questions": "sin x + (sin 2x)/2² + ... + (sin nx)/n² + ...",
+    "Answers": "For any x."
+  },
+  {
+    "ID": "2814",
+    "Questions": "cos x/eˣ + cos 2x/e²ˣ + ... + cos nx/eⁿˣ + ...",
+    "Answers": "x > 0."
+  },
+  {
+    "ID": "2815",
+    "Questions": "e⁻ˣ + e⁻⁴ˣ + ... + e^(-n²x) + ...",
+    "Answers": "x > 0."
+  },
+  {
+    "ID": "2816",
+    "Questions": "x/eˣ + 2x/e²ˣ + ... + nx/eⁿˣ + ...",
+    "Answers": "x ≥ 0."
+  },
+  {
+    "ID": "2817",
+    "Questions": "Verify that the series of problems 2817-2820 are uniformly convergent throughout the Ox axis: 1 + (sin x)/1! + ... + (sin nx)/n! + ...",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2818",
+    "Questions": "Σ (from n=1 to ∞) 1/(n²[1+(nx)²])",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2819",
+    "Questions": "Σ (from n=1 to ∞) (sin nx)/2ⁿ",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2820",
+    "Questions": "Σ (from n=1 to ∞) e^(-n²x²)/n²",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2821",
+    "Questions": "Show that the series 1/(1+[φ(x)]²) + 1/(4+[φ(x)]²) + ... + 1/(n²+[φ(x)]²) + ... is uniformly convergent in any interval in which the function φ(x) is defined.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2822",
+    "Questions": "Show that the series 1/√1+x - 1/(2√1+2x) + ... + (-1)ⁿ⁻¹/(n√1+nx) + ... is uniformly convergent throughout the positive semi-axis (0 ≤ x < ∞). Given any non-negative x, how many terms of the series must be taken for the sum to be calculable to an accuracy of 0.001?",
+    "Answers": "11 terms."
+  },
+  {
+    "ID": "2823*",
+    "Questions": "Show that the series ln(1+x)/x + ln(1+2x)/2x² + ... + ln(1+nx)/nxⁿ + ... is uniformly convergent in any interval 1 + ω ≤ x < ∞, where ω is any positive number. Verify that, for any x of the interval (2 ≤ x ≤ 100), it is sufficient to take eight terms in order to obtain the sum of the series to an accuracy of 0.01.",
+    "Answers": "Use the inequality ln(1+α) ≤ α."
+  },
+  {
+    "ID": "2824",
+    "Questions": "Prove that the series Σ (from n=1 to ∞) xⁿ(1 — xⁿ) is non-uniformly convergent in the interval [0, 1]. (See Course, sec. 127).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2825",
+    "Questions": "The function f(x) is given by the series f(x) = Σ (from n=1 to ∞) (cos nx)/10ⁿ. Show that f(x) is defined and continuous for any x. Find f(0), f(π/2), and f(π/3). Verify that it is necessary to take three terms of the series in order to compute the approximate values of f(x) for any x to an accuracy of 0.001. Find to this accuracy f(1) and f(—0.2).",
+    "Answers": "f(0) = 1/9; f(π/2) = -1/101; f(π/3) = 44/1001; f(1) = 0.049; f(-0.2) = 0.108."
+  },
+  {
+    "ID": "2826",
+    "Questions": "The function f(x) is defined by the series f(x) = 1/(1+x²) + Σ (from n=1 to ∞) [1/(1+(x+nω)²) + 1/(1+(x-nω)²)] (ω>0). Show that f(x) is defined and continuous for any x. Establish that f(x) is a periodic function with period ω.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2827",
+    "Questions": "Show that the series x² + x⁴ + ... + x^(4n-2) + ... is uniformly convergent in any interval —1+ω ≤ x ≤ 1—ω, where ω is any positive number less than unity. By integrating this series, find the sum in the interval (—1, 1) of the series x³/3 + x⁷/7 + ... + x^(4n-1)/(4n-1) + ...",
+    "Answers": "1/4 ln((1+x)/(1-x)) + 1/2 arctan x."
+  },
+  {
+    "ID": "2828",
+    "Questions": "Find the sum of the series x + x⁵/5 + ... + x^(4n-3)/(4n-3) + ...",
+    "Answers": "1/4 ln((1+x)/(1-x)) - 1/2 arctan x."
+  },
+  {
+    "ID": "2829",
+    "Questions": "Find the sum of the series x²/1.2 - x³/2.3 + ... + (-1)ⁿ⁺¹(xⁿ⁺¹/(n(n+1))) + ...",
+    "Answers": "(x+1)ln(x+1) - x."
+  },
+  {
+    "ID": "2830",
+    "Questions": "The function f(x) is defined by the series f(x) = e⁻ˣ + 2e⁻²ˣ + ... + ne⁻ⁿˣ + ... Show that f(x) is continuous throughout the positive half of the Ox axis. Evaluate ∫(ln2 to ln3) f(x) dx.",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "2831",
+    "Questions": "Function f(x) is defined by the series f(x) = 1 + 2.3x + ... + n3ⁿ⁻¹xⁿ⁻¹ + ... Show that f(x) is continuous in the interval (—1/3, 1/3). Evaluate ∫(0 to 0.125) f(x) dx.",
+    "Answers": "0.2."
+  },
+  {
+    "ID": "2832*",
+    "Questions": "Function f(x) is defined by the series f(x) = 1/2 tan(x/2) + 1/4 tan(x/4) + ... + 1/2ⁿ tan(x/2ⁿ) + ... Evaluate ∫(π/6 to π/2) f(x) dx, having first established that f(x) is continuous in the interval of integration.",
+    "Answers": "ln(3/2). Use the relationship cos(x/2)cos(x/4)...cos(x/2ⁿ) = sin x / (2ⁿ sin(x/2ⁿ))."
+  },
+  {
+    "ID": "2833*",
+    "Questions": "Function f(x) is defined by the series f(x) = Σ (from n=1 to ∞) 1/(n⁴+x²). Show that f(x) is continuous throughout the real axis. Evaluate ∫(0 to ∞) f(x) dx.",
+    "Answers": "π³/12. Use the formula Σ(1/n²) = π²/6."
+  },
+  {
+    "ID": "2834",
+    "Questions": "Starting from the relationship ∫(0 to 1) xⁿ dx = 1/(n+1), find the sum of the series: (1) 1 - 1/4 + ... + (-1)ⁿ⁺¹/(3n-2) + ...; (2) 1 - 1/5 + ... + (-1)ⁿ⁺¹/(4n-3) + ...",
+    "Answers": "(1) 1/3(ln 2 + π/√3); (2) 1/2√2[ln(1+√2) + π/2]."
+  },
+  {
+    "ID": "2835",
+    "Questions": "Starting from the relationship ∫(0 to ∞) dx/xⁿ⁺¹ = 1/n2ⁿ, find the sum of the series 1/(1.2) + 1/(2.2²) + ... + 1/(n2ⁿ) + ...",
+    "Answers": "ln 2."
+  },
+  {
+    "ID": "2836",
+    "Questions": "Starting from the relationship ∫(0 to π/2) cos²ⁿ x dx = (π/2) * ( (2n-1)(2n-3)...3.1 ) / ( 2n(2n-2)...4.2 ), find the sum of the series 1/2 - (1.3)/(2.4) + ... + (-1)ⁿ⁺¹ (1.3...(2n-1))/(2.4...2n) + ...",
+    "Answers": "2-√2/2."
+  },
+  {
+    "ID": "2837",
+    "Questions": "Show that the series (sin 2πx)/2 + (sin 4πx)/4 + ... + (sin 2ⁿπx)/2ⁿ + ... is uniformly convergent throughout the real axis. Prove that this series cannot be differentiated term by term in any interval.",
+    "Answers": "The given series cannot be differentiated term by term in any interval. For, the general term in the series of derivatives has the form πcos(2ⁿπx). No matter how small the interval (α, β), and no matter where it lies on the real axis, a number of the form k/2ⁿ can always be found inside it, where k is an integer and N a sufficiently large positive integer. But the series of derivatives is divergent with x = k/2ⁿ, since its terms become equal to π for all n > N."
+  },
+  {
+    "ID": "2838",
+    "Questions": "Starting from the progression 1 + x + x² + ... = 1/(1-x) (|x|<1), sum the series 1 + 2x + 3x² + ... + nxⁿ⁻¹ + ... and the series 1 + 3x + ... + (n(n-1)/2)xⁿ⁻¹ + ... and show that the series 1 + 2x + ... + nxⁿ⁻¹ + ... is uniformly convergent in the interval [—ρ, ρ], where |ρ|<1.",
+    "Answers": "1/(1-x)² and 1/(1-x)³."
+  },
+  {
+    "ID": "2839",
+    "Questions": "Show that the equality 1/(1+x) + 2x/(1+x²) + ... + (2ⁿ⁻¹x^(2ⁿ⁻¹))/(1+x^(2ⁿ)) + ... = 1/(1-x) holds for —1 < x < 1.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2840",
+    "Questions": "Verify that the function y = f(x) defined by the series x + x²/2! + ... + xⁿ/(n-1)! + ... satisfies the relationship xy' = y(x+1).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2841",
+    "Questions": "Expand the function y = ln x in a Taylor series in the neighbourhood of the point x = 1 (with x₀ = 1) (see Course, sec. 130).",
+    "Answers": "(x-1) - (x-1)²/2 + ... + (-1)ⁿ⁺¹(x-1)ⁿ/n + ..."
+  },
+  {
+    "ID": "2842",
+    "Questions": "Expand the function y = ³√x³ in a Taylor series in the neighbourhood of the point x = 1.",
+    "Answers": "1 + 3/2(x-1) + (3/2)(1/2)/2! (x-1)² + (3/2)(1/2)(-1/2)/3! (x-1)³ + ... + (3/2)(1/2)...((5-2n)/2)/n! (x-1)ⁿ + ..."
+  },
+  {
+    "ID": "2843",
+    "Questions": "Expand the function y = 1/x in a Taylor series in the neighbourhood of the point x = 3.",
+    "Answers": "1/3 - (x-3)/9 + (x-3)²/27 - ... + (-1)ⁿ(x-3)ⁿ/3ⁿ⁺¹ + ..."
+  },
+  {
+    "ID": "2844",
+    "Questions": "Expand the function y = sin(πx/4) in a Taylor series in the neighbourhood of the point x = 2.",
+    "Answers": "1 - (π²/4²)(x-2)²/2! + ... + (-1)ⁿ⁺¹(π/4)^(2n-2) * (x-2)^(2n-2) / (2n-2)! + ..."
+  },
+  {
+    "ID": "2845",
+    "Questions": "Expand the functions of problems 2845-2849 in Taylor series in the neighbourhood of the point x = 0 (Maclaurin series): y = (eˣ + e⁻ˣ)/2",
+    "Answers": "1 + x²/2! + x⁴/4! + ... + x²ⁿ⁻²/(2n-2)! + ..."
+  },
+  {
+    "ID": "2846",
+    "Questions": "y = x²eˣ",
+    "Answers": "x² + x³/1! + x⁴/2! + ... + xⁿ⁺¹/(n-1)! + ..."
+  },
+  {
+    "ID": "2847",
+    "Questions": "y = cos(x+a)",
+    "Answers": "cos a[1 - x²/2! + x⁴/4! + ... + (-1)ⁿ⁺¹x²ⁿ⁻²/(2n-2)! + ...] - sin a[x - x³/3! + x⁵/5! + ... + (-1)ⁿ⁺¹x²ⁿ⁻¹/(2n-1)! + ...]"
+  },
+  {
+    "ID": "2848",
+    "Questions": "y = eˣ sin x",
+    "Answers": "x + x² + x³/3 - x⁵/30 - x⁶/90 - ..."
+  },
+  {
+    "ID": "2849",
+    "Questions": "y = cos x cosh x",
+    "Answers": "1 - (2x)⁴/(2.4!) + ... + (-1)ⁿ⁺¹(2x)⁴ⁿ⁻⁴/(2ⁿ⁻¹(2n)!) + ...]"
+  },
+  {
+    "ID": "2850",
+    "Questions": "Find the first five terms of the Taylor series of the functions of problems 2850-2854 in the neighbourhood of the point x = 0.\ny = ln(1+eˣ)",
+    "Answers": "ln 2 + x/2 + x²/8 - x⁴/192 + ..."
+  },
+  {
+    "ID": "2851",
+    "Questions": "y = e^(cos x)",
+    "Answers": "e(1 - x²/2 + x⁴/6 - ...)"
+  },
+  {
+    "ID": "2852",
+    "Questions": "y = cos² x",
+    "Answers": "1 - x² + x⁴/3 - 2x⁶/45 + ..."
+  },
+  {
+    "ID": "2853",
+    "Questions": "y = —ln cos x",
+    "Answers": "x²/2 + x⁴/12 + x⁶/45 + ..."
+  },
+  {
+    "ID": "2854",
+    "Questions": "y = (1+x)ˣ",
+    "Answers": "1 + x² - x³/2 + 5x⁴/6 + ..."
+  },
+  {
+    "ID": "2855",
+    "Questions": "By using the formulae for the Taylor expansions of functions eˣ, sin x, cos x, ln(1+x) and (1+x)ᵐ, expand the functions of problems 2855-2868 as Taylor series in the neighbourhood of the point x = 0: y = e²ˣ",
+    "Answers": "1 + 2x + (2x)²/2! + ... + (2x)ⁿ⁻¹/(n-1)! + ..."
+  },
+  {
+    "ID": "2856",
+    "Questions": "y = e^(-x²)",
+    "Answers": "1 - x² + x⁴/2! - ... + (-1)ⁿ⁺¹x²(ⁿ⁻¹)/(n-1)! + ..."
+  },
+  {
+    "ID": "2857",
+    "Questions": "y = { (eˣ-1)/x for x ≠ 0, 1 for x = 0 }",
+    "Answers": "1 + x/2! + x²/3! + ... + xⁿ⁻¹/n! + ..."
+  },
+  {
+    "ID": "2858",
+    "Questions": "y = { (eˣ³-e⁻ˣ³)/2x³ for x ≠ 0, 1 for x = 0 }",
+    "Answers": "1 + x⁶/3! + x¹²/5! + ... + x⁶(ⁿ⁻¹)/(2n-1)! + ..."
+  },
+  {
+    "ID": "2859",
+    "Questions": "y = sin(x/2)",
+    "Answers": "x/2 - x³/(2³.3!) + ... + (-1)ⁿ⁺¹x²ⁿ⁻¹/(2²ⁿ⁻¹(2n-1)!) + ..."
+  },
+  {
+    "ID": "2860",
+    "Questions": "y = cos² x",
+    "Answers": "1 - [x² - (2x)⁴/(2.4!) + ... + (-1)ⁿ⁺¹(2x)²ⁿ⁻²/(2²ⁿ⁻³(2n)!) + ...]"
+  },
+  {
+    "ID": "2861",
+    "Questions": "y = { (sin x)/x for x ≠ 0, 1 for x = 0 }",
+    "Answers": "1 - x²/3! + ... + (-1)ⁿ⁺¹x²(ⁿ⁻¹)/(2n-1)! + ..."
+  },
+  {
+    "ID": "2862",
+    "Questions": "y = (x-tan x)cos x",
+    "Answers": "-2x³/3! + 4x⁵/5! - ... + (-1)ⁿ(2nx^(2n+1))/(2n+1)! + ..."
+  },
+  {
+    "ID": "2863",
+    "Questions": "y = ln(10+x)",
+    "Answers": "ln 10 + [x/10 - x²/(2.10²) + ... + (-1)ⁿ⁺¹xⁿ/(n.10ⁿ) + ...]"
+  },
+  {
+    "ID": "2864",
+    "Questions": "y = x ln(1+x)",
+    "Answers": "x² - x³/2 + ... + (-1)ⁿ(xⁿ⁺¹)/n + ..."
+  },
+  {
+    "ID": "2865",
+    "Questions": "y = √1+x²",
+    "Answers": "1 + [x²/2 - x⁴/(2.4) + ... + (-1)ⁿ⁺¹(1.3...(2n-3)x²ⁿ)/(2.4...(2n-2)2n) + ...]"
+  },
+  {
+    "ID": "2866",
+    "Questions": "y = ³√(8-x³)",
+    "Answers": "2 - 2[1/3(x/2)³ - (1.4)/(3.6.2!)(x/2)⁶ + ... + (-1)ⁿ⁺¹(1.4...(3n-2))/(3ⁿ.n!)(x/2)³ⁿ + ...]"
+  },
+  {
+    "ID": "2867",
+    "Questions": "y = 1/√(1+x³)",
+    "Answers": "1 - [1/2 x³ - (1.4/3² 2!)x⁶ + ... + (-1)ⁿ⁺¹(1.4...(3n-2))/(3ⁿ.n!)x³ⁿ + ...]"
+  },
+  {
+    "ID": "2868",
+    "Questions": "y = x²/√(1-x²)",
+    "Answers": "x² + [1/2 x⁴ + (1.3/2.4)x⁶ + ... + (1.3...(2n-1))/(2.4...2n)x²ⁿ⁺² + ...]"
+  },
+  {
+    "ID": "2869",
+    "Questions": "Expand the function y = (1+x)/(1-x)³ in a Taylor series in the neighbourhood of the point x = 0. Use this expansion to find the sum of the series 1 + 4/2 + ... + n²/2ⁿ⁻¹ + ...",
+    "Answers": "1 + 2Σ(n=1 to ∞) n²xⁿ⁻¹. S = 12."
+  },
+  {
+    "ID": "2870",
+    "Questions": "By using the Taylor expansion of the function, find the values of: (1) the seventh derivative of the function y = x/(1+x²) at x=0, (2) the fifth derivative of the function y = x²√1+x at x=0, (3) the tenth derivative of the function y = x⁶eˣ at x=0, (4) the curvature of the curve y = x[√(1+x)⁴ - 1] at the origin.",
+    "Answers": "(1) -7!, (2) -7.5, (3) 10!/4!, (4) 8/3."
+  },
+  {
+    "ID": "2871",
+    "Questions": "In problems 2871-2877, use the Taylor expansions of the functions to evaluate the limits: lim (x→0) [x + ln(√(1+x²) - x)]/x³",
+    "Answers": "1/6."
+  },
+  {
+    "ID": "2872",
+    "Questions": "lim (x→0) [2(tan x — sin x) — x³]/x⁵",
+    "Answers": "1/4."
+  },
+  {
+    "ID": "2873",
+    "Questions": "lim (x→∞) [ln(1+x+x²) + ln(1-x+x²)]/(x(eˣ-1))",
+    "Answers": "2."
+  },
+  {
+    "ID": "2874",
+    "Questions": "lim (x→∞) [x - x²ln(1+1/x)]",
+    "Answers": "1/2."
+  },
+  {
+    "ID": "2875",
+    "Questions": "lim (x→0) (1/x² - cot²x)",
+    "Answers": "2/3."
+  },
+  {
+    "ID": "2876",
+    "Questions": "lim (x→0) (1/x³ - cot x/x²)",
+    "Answers": "1/3."
+  },
+  {
+    "ID": "2877",
+    "Questions": "lim (x→0) [(2+cos x)/(x³sinx) - 3/x⁴]",
+    "Answers": "-1/60."
+  },
+  {
+    "ID": "2878",
+    "Questions": "Find the intervals of convergence of the power series of problems 2878-2889: 10x + 100x² + ... + 10ⁿxⁿ + ...",
+    "Answers": "(-1/10, 1/10)."
+  },
+  {
+    "ID": "2879",
+    "Questions": "x - x³/3 + ... + (-1)ⁿ⁺¹xⁿ/n + ...",
+    "Answers": "(-1, 1]."
+  },
+  {
+    "ID": "2880",
+    "Questions": "x + x²/20 + ... + xⁿ/(n.10ⁿ⁻¹) + ...",
+    "Answers": "[-10, 10)."
+  },
+  {
+    "ID": "2881",
+    "Questions": "1 + x + ... + n!xⁿ + ...",
+    "Answers": "x=0."
+  },
+  {
+    "ID": "2882",
+    "Questions": "1 + 2x² + ... + 2ⁿ⁻¹x²(ⁿ⁻¹) + ...",
+    "Answers": "(-√2/2, √2/2)."
+  },
+  {
+    "ID": "2883",
+    "Questions": "x - x³/3.3! + ... + (-1)ⁿ⁺¹x²ⁿ⁻¹/((2n-1).3²ⁿ⁻¹) + ...",
+    "Answers": "[-√3, √3]."
+  },
+  {
+    "ID": "2884",
+    "Questions": "1 + 3x + ... + (n-1)3ⁿ⁻²xⁿ⁻¹ + ...",
+    "Answers": "The series converges for |x|<1/3."
+  },
+  {
+    "ID": "2885",
+    "Questions": "1.2x + 2.3x² + ... + n(n+1)xⁿ + ...",
+    "Answers": "The series converges for |x|<1."
+  },
+  {
+    "ID": "2886",
+    "Questions": "x + (2x)²/2! + ... + (nx)ⁿ/n! + ... (In studying the convergence at the right-hand end of the interval, use the fact that the factorials of large numbers can be approximately expressed in accordance with Stirling's formula: n! ≈ (n/e)ⁿ√(2πn)).",
+    "Answers": "(-1/e, 1/e]."
+  },
+  {
+    "ID": "2887",
+    "Questions": "x + 4x² + ... + (nx)ⁿ + ...",
+    "Answers": "x=0."
+  },
+  {
+    "ID": "2888",
+    "Questions": "(ln 2/2)x² + (ln 3/3)x³ + ... + (ln(n+1)/(n+1))xⁿ⁺¹ + ...",
+    "Answers": "[-1, 1)."
+  },
+  {
+    "ID": "2889",
+    "Questions": "2x + (9/4x)² + ... + [(n+1)/n]ⁿ²xⁿ + ...",
+    "Answers": "(-1/e, 1/e)."
+  },
+  {
+    "ID": "2890",
+    "Questions": "Expand the function y = ln(x + √1+x²) in a Taylor series in the neighbourhood of the point x = 0, starting from the relationship y' = 1/√(1+x²).",
+    "Answers": "x - (1.3/2.4.5)x⁵ + (1.3.5.7/(2.4.6.8.9))x⁹ - ... + (-1)ⁿ (1.3...(2n-1))/(2.4...2n(2n+1)) x²ⁿ⁺¹ + ...; (-1 ≤ x ≤ 1)."
+  },
+  {
+    "ID": "2891",
+    "Questions": "Expand the function y = ln(√((1+x)/(1-x))) in a Taylor series in the neighbourhood of the point x = 0, by starting from the relationship ∫₀ˣ dx/(1-x²). and find the interval of convergence of the series obtained.",
+    "Answers": "x + x³/3 + ... + x²ⁿ⁺¹/(2n+1) + ...; (-1 < x < 1)."
+  },
+  {
+    "ID": "2892",
+    "Questions": "Expand the function y = ln[(1+x)¹⁺ˣ] + ln[(1-x)¹⁻ˣ] in a Taylor series in the neighbourhood of the point x = 0 and find the interval of convergence of the series obtained.",
+    "Answers": "x²/1.2 + x⁴/2.3 + ... + x²ⁿ/(n(2n-1)) + ...; (-1 < x < 1)."
+  },
+  {
+    "ID": "2893",
+    "Questions": "Expand the function y = (1+x)e⁻ˣ — (1-x)eˣ in a Taylor series in the neighbourhood of the point x = 0 and find the interval of convergence of the series obtained. Use the expansion to find the sum of the series. 1/3! + 2/5! + ... + n/((2n+1)!) + ...",
+    "Answers": "-2[x³/3! + x⁵/5! + ... + x²ⁿ⁺¹/(2n+1)! + ...]. 1/(4e)."
+  },
+  {
+    "ID": "2894",
+    "Questions": "Find the approximate value of ³√e by taking three terms of the Taylor expansion of f(x) = eˣ, and estimate the error.",
+    "Answers": "1.39, error 0.01."
+  },
+  {
+    "ID": "2895",
+    "Questions": "Find the approximate value of sin 18° by taking three terms of the Taylor expansion of f(x) = sin x, and estimate the error.",
+    "Answers": "0.3090, error 0.0001."
+  },
+  {
+    "ID": "2896",
+    "Questions": "Find the approximate value of ³√10 by taking four terms of the Taylor expansion of the function f(x) = (1+x)ᵐ, and estimate the error.",
+    "Answers": "2.154, error 0.001."
+  },
+  {
+    "ID": "2897",
+    "Questions": "In problems 2897-2904, use the formulae for the Taylor expansions of the functions eˣ, sin x and cos x to find: e² to an accuracy of 0.001.",
+    "Answers": "7.389."
+  },
+  {
+    "ID": "2898",
+    "Questions": "√e to an accuracy of 0.001.",
+    "Answers": "1.649."
+  },
+  {
+    "ID": "2899",
+    "Questions": "1/e to an accuracy of 0.0001.",
+    "Answers": "0.3679."
+  },
+  {
+    "ID": "2900",
+    "Questions": "1/√e to an accuracy of 0.0001.",
+    "Answers": "0.7788."
+  },
+  
+  {
+    "ID": "2901",
+    "Questions": "sin 1° to an accuracy of 0.0001.",
+    "Answers": "0.0175."
+  },
+  {
+    "ID": "2902",
+    "Questions": "cos 1° to an accuracy of 0.001.",
+    "Answers": "1.000."
+  },
+  {
+    "ID": "2903",
+    "Questions": "sin 10° to an accuracy of 0.00001.",
+    "Answers": "0.17365."
+  },
+  {
+    "ID": "2904",
+    "Questions": "cos 10° to an accuracy of 0.0001.",
+    "Answers": "0.9848."
+  },
+  {
+    "ID": "2905",
+    "Questions": "In problems 2905-2911, use the formula for the Taylor expansion of the function (1 + x)ᵐ to find to an accuracy of 0.001: ³√30.",
+    "Answers": "3.107."
+  },
+  {
+    "ID": "2906",
+    "Questions": "³√70.",
+    "Answers": "4.121."
+  },
+  {
+    "ID": "2907",
+    "Questions": "³√500.",
+    "Answers": "7.937."
+  },
+  {
+    "ID": "2908",
+    "Questions": "³√1.015.",
+    "Answers": "1.005."
+  },
+  {
+    "ID": "2909",
+    "Questions": "⁵√250.",
+    "Answers": "3.017."
+  },
+  {
+    "ID": "2910",
+    "Questions": "³√129.",
+    "Answers": "5.053."
+  },
+  {
+    "ID": "2911",
+    "Questions": "¹⁰√1027.",
+    "Answers": "2.001."
+  },
+  {
+    "ID": "2912",
+    "Questions": "In problems 2912-2914, use the formula for the Taylor expansion of the function ln((1+x)/(1-x)) to find: ln 3 to an accuracy of 0.0001.",
+    "Answers": "1.0986."
+  },
+  {
+    "ID": "2913",
+    "Questions": "log e = 1/ln 10 to an accuracy of 0.000001.",
+    "Answers": "0.434294."
+  },
+  {
+    "ID": "2914",
+    "Questions": "log 5 to an accuracy of 0.0001.",
+    "Answers": "0.6990."
+  },
+  {
+    "ID": "2915",
+    "Questions": "Given the equation xy + eˣ = y, use the method of undetermined coefficients to find the expansion of function y in a Taylor series in powers of x. Solve the problem by finding the coefficients of the Taylor series by successive differentiation.",
+    "Answers": "1 + 2x + 5/2 x² + ..."
+  },
+  {
+    "ID": "2916",
+    "Questions": "Given the equation y = ln(1 + x) — xy, use the method of undetermined coefficients to find the expansion of function y in a Taylor series in powers of x. Solve the problem by finding the coefficients of the Taylor series by successive differentiation.",
+    "Answers": "x - 3/2 x² + 11/6 x³ + ..."
+  },
+  {
+    "ID": "2917",
+    "Questions": "Solve the equations of problems 2917-2919 with respect to y (find an explicit expression for y) with the aid of Taylor series by two methods: the method of undetermined coefficients and successive differentiation: y³ + xy = 1 (find three terms of the expansion).",
+    "Answers": "1 - 1/3 x + 1/81 x³ + ..."
+  },
+  {
+    "ID": "2918",
+    "Questions": "2 sin x + sin y = x — y (find two terms of the expansion).",
+    "Answers": "-x/2 + 5x³/32 + ..."
+  },
+  {
+    "ID": "2919",
+    "Questions": "eˣ — eʸ = xy (find three terms of the expansion).",
+    "Answers": "x - x²/2 + 2x³/3 + ..."
+  },
+  {
+    "ID": "2920",
+    "Questions": "Express the integrals of problems 2920-2929 in the form of a series by using the expansions of the integrands into series; indicate the domains of convergence of the series obtained. ∫ (sin x)/x dx",
+    "Answers": "C + x - x³/3.3! + ... + (-1)ⁿ⁺¹ x²ⁿ⁻¹/((2n-1)(2n-1)!) + ... (-∞ < x < ∞)."
+  },
+  {
+    "ID": "2921",
+    "Questions": "∫ (cos x)/x dx",
+    "Answers": "C + ln|x| - x²/2.2! + x⁴/4.4! - ... + (-1)ⁿ x²ⁿ/(2n.(2n)!) + ... (-∞ < x < 0 and 0 < x < ∞)."
+  },
+  {
+    "ID": "2922",
+    "Questions": "∫ (eˣ/x) dx",
+    "Answers": "C + ln|x| + x + x²/2.2! + ... + xⁿ/(n.n!) + ... (-∞ < x < 0 and 0 < x < ∞)."
+  },
+  {
+    "ID": "2923",
+    "Questions": "∫ (eˣ/x³) dx",
+    "Answers": "C - 1/(2x²) + 1/x + ln|x| + x/2 + x²/2.3! + ... + xⁿ/(n(n+1)!) + ... (-∞ < x < 0 and 0 < x < ∞)."
+  },
+  {
+    "ID": "2924",
+    "Questions": "∫₀ˣ e⁻ˣ² dx",
+    "Answers": "x - x³/3 + x⁵/5.2! - ... + (-1)ⁿ⁺¹ x²ⁿ⁻¹/((2n-1)(n-1)!) + ... (-∞ < x < ∞)."
+  },
+  {
+    "ID": "2925",
+    "Questions": "∫₀ˣ (arc tan x)/x dx",
+    "Answers": "x - x³/3² + x⁵/5² - ... + (-1)ⁿ⁺¹ x²ⁿ⁺¹/(2n+1)² + ... (-1 ≤ x ≤ 1)."
+  },
+  {
+    "ID": "2926",
+    "Questions": "∫₀ˣ dx/√(1-x⁴)",
+    "Answers": "x + x⁵/(2.5) + (1.3x⁹)/(2.4.9) + ... + (1.3...(2n-1)x⁴ⁿ⁺¹)/(2.4...2n(4n+1)) + ... (-1 ≤ x ≤ 1)."
+  },
+  {
+    "ID": "2927",
+    "Questions": "∫₀ˣ √1+x³ dx",
+    "Answers": "x + 1/2.x⁴/4 - (1.1)/(2.4.7)x⁷ + ... + (-1)ⁿ⁻¹(1.3...(2n-3)x³ⁿ⁺¹)/(2.4...2n(3n+1)) + ... (-1 ≤ x ≤ 1)."
+  },
+  {
+    "ID": "2928",
+    "Questions": "∫₀ˣ dx/(1-x⁹)",
+    "Answers": "x + x¹⁰/10 + x¹⁹/19 + ... + x⁹ⁿ⁻⁸/(9n-8) + ... (-1 ≤ x < 1)."
+  },
+  {
+    "ID": "2929",
+    "Questions": "∫₀ˣ (√1+x⁴-1)/x² dx",
+    "Answers": "1/2x - 1/8x³ + (1.3/2.4.5.3!)x⁵ - ... + (-1)ⁿ(1.3...(2n-5)/(2.4...2n)) * (x²ⁿ⁻³)/(2n-3) + ... (-1 < x < 1)."
+  },
+  {
+    "ID": "2930",
+    "Questions": "Obtain approximate values for the definite integrals of problems 2930-2934 by taking the indicated number of terms of the expansion of the integrand; indicate the error: ∫(π/6 to π/4) (cos x)/x dx (3 terms).",
+    "Answers": "0.3230, error 0.0001."
+  },
+  {
+    "ID": "2931",
+    "Questions": "∫(0 to 1/4) e⁻ˣ² dx (3 terms).",
+    "Answers": "0.24488, error 0.00001."
+  },
+  {
+    "ID": "2932",
+    "Questions": "∫(0 to 1/2) dx/√(1+x⁴) (2 terms).",
+    "Answers": "0.4971, error 0.0001."
+  },
+  {
+    "ID": "2933",
+    "Questions": "∫(0.1 to 1) eˣ/x dx (6 terms).",
+    "Answers": "3.518, error 0.001."
+  },
+  {
+    "ID": "2934",
+    "Questions": "∫(0 to 1/√3) x³ arc tan x dx (2 terms).",
+    "Answers": "0.012, error 0.001."
+  },
+  {
+    "ID": "2935",
+    "Questions": "Evaluate the integrals of problems 2935-2938 to an accuracy of 0.001: ∫(0.1 to 0.2) e⁻ˣ/x³ dx.",
+    "Answers": "32.831."
+  },
+  {
+    "ID": "2936",
+    "Questions": "∫(0 to 0.5) (arc tan x)/x dx.",
+    "Answers": "0.487."
+  },
+  {
+    "ID": "2937",
+    "Questions": "∫(0 to 0.8) x¹⁰ sin x dx.",
+    "Answers": "0.006."
+  },
+  {
+    "ID": "2938",
+    "Questions": "∫(0 to 0.5) dx/(1+x⁴).",
+    "Answers": "0.494."
+  },
+  {
+    "ID": "2939",
+    "Questions": "Show that the functions ∫₀ˣ e⁻ᵗ² dt and arc tan x — x³/10 differ by not more than 0.0000001 in the interval (—0.1, 0.1).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2940",
+    "Questions": "By taking into account the identity π/4 = 4 arc tan(1/5) — arc tan(1/239), evaluate π correct to 10 figures.",
+    "Answers": "3.141592654."
+  },
+  {
+    "ID": "2941",
+    "Questions": "Expand in a Taylor series the function y = e^(x²) ∫₀ˣ e⁻ᵗ² dt by using two methods: direct evaluation of the successive derivatives at x = 0 and cross-multiplication of the series.",
+    "Answers": "x + 2/3 x³ + 2²/ (1.3.5) x⁵ + ... + 2ⁿ⁻¹ (n-1)!/ (1.3...(2n-1)) x²ⁿ⁻¹ + ..."
+  },
+  {
+    "ID": "2942*",
+    "Questions": "Evaluate the integral ∫₀¹ xˣ dx.",
+    "Answers": "1 - 1/2² + 1/3³ - 1/4⁴ + ... + (-1)ⁿ⁺¹/nⁿ + ... Write xˣ in the form e^(x ln x), expand as a power series in x ln x, and integrate the expression of the form xⁿ lnⁿ x."
+  },
+  {
+    "ID": "2943",
+    "Questions": "Evaluate ∫₀^(0.5) e^(sin x) dx to an accuracy of 0.0001.",
+    "Answers": "0.6449."
+  },
+  {
+    "ID": "2944",
+    "Questions": "Evaluate ∫(0 to π/6) √cos x dx to an accuracy of 0.001.",
+    "Answers": "0.511."
+  },
+  {
+    "ID": "2945",
+    "Questions": "Evaluate the area bounded by the curve y² = x³ + 1, the axis of ordinates and the straight line x = 1/2 to an accuracy of 0.001.",
+    "Answers": "1.015."
+  },
+  {
+    "ID": "2946*",
+    "Questions": "Evaluate the area of the oval x⁴ + y⁴ = 1 to an accuracy of 0.01.",
+    "Answers": "3.71. Evaluation of the area with the aid of the formula S = 4 ∫₀¹ √1-x⁴ dx is inconvenient because the corresponding series is slowly convergent for x=1. One should evaluate the area of the sector bounded by the curve, the axis of ordinates and the bisector of the first quadrant. This yields a rapidly convergent series."
+  },
+  {
+    "ID": "2947",
+    "Questions": "Evaluate the length of arc of the curve 25y² = 4x⁵ from the cusp to the point of intersection with the parabola 5y = x² to an accuracy of 0.0001.",
+    "Answers": "0.2505."
+  },
+  {
+    "ID": "2948",
+    "Questions": "Evaluate the length of one half wave of the sine wave y = sin x to an accuracy of 0.001.",
+    "Answers": "3.821."
+  },
+  {
+    "ID": "2949",
+    "Questions": "The figure bounded by the curve y = arc tan x, the axis of abscissae and the straight line x = 1/2 revolves about the axis of abscissae. Find the volume of the solid of revolution to an accuracy of 0.001.",
+    "Answers": "0.119."
+  },
+  {
+    "ID": "2950",
+    "Questions": "The figure bounded by the curves y³ — x³ = 1, 4y + x³ = 0, the straight line y = 1/2 and the axis of ordinates, revolves about the axis of ordinates. Find the volume of the solid of revolution to an accuracy of 0.001.",
+    "Answers": "1.225."
+  },
+  {
+    "ID": "2951",
+    "Questions": "Find the coordinates of the centre of gravity of the arc of the hyperbola y = 1/x, bounded by the points with abscissae x₁ = 1/4 and x₂ = 1/2, to an accuracy of 0.001.",
+    "Answers": "(0.347; 2.996)."
+  },
+  {
+    "ID": "2952",
+    "Questions": "Find the coordinates of the centre of gravity of the curvilinear trapezium, bounded by the curve y = 1/ln x, the straight lines x = 1.5 and x = 2 and the axis of abscissae, to an accuracy of 0.01.",
+    "Answers": "(1.71; 0.94)."
+  },
+  {
+    "ID": "2953",
+    "Questions": "Express the volume z of a cone as a function of its generator x and height y.",
+    "Answers": "z = π/3(x²y - y³)."
+  },
+  {
+    "ID": "2954",
+    "Questions": "Express the area S of a triangle as a function of its three sides x, y, z.",
+    "Answers": "S = 1/4 √(x+y+z)(x+y-z)(x-y+z)(y+z-x)."
+  },
+  {
+    "ID": "2955",
+    "Questions": "Form a table of the values of function z = 2x — 3y + 1 by giving the independent variables integral values from 0 to 5.",
+    "Answers": "The table is provided in the answers section."
+  },
+  {
+    "ID": "2956",
+    "Questions": "Form a table of values of the function z = √x² + y², by giving the independent variables values spaced 0.1 apart from 0 to 1. Calculate the values of the function to an accuracy of 0.01.",
+    "Answers": "The table is provided in the answers section."
+  },
+  {
+    "ID": "2957",
+    "Questions": "Find the particular value of the function:\n(1) z = [arc tan(x+y)/arc tan(x-y)]² for x = (1+√3)/2, y = (1-√3)/2;\n(2) z = e^(sin(x+y)) for x = y = π/2;\n(3) z = y^(x²-1) + x^(y²-1) for x = 2, y = 2; x = 1, y = 2; x = 2, y = 1.",
+    "Answers": "(1) 9/16; (2) 1; (3) 16; 2; 2."
+  },
+  {
+    "ID": "2958",
+    "Questions": "Given the function F(x, y) = (φ(x)ψ(y) - ψ(x)φ(y)) / (φ(xy)ψ(xy)), find F(a, 1/a). In particular, put φ(u) = u³, ψ(u) = u² and work out F(a, 1/a).",
+    "Answers": "φ(a)ψ(1/a) - ψ(a)φ(1/a) / φ(1)ψ(1); a - 1/a."
+  },
+  {
+    "ID": "2959",
+    "Questions": "Given the function F(x, y) = yˣ — xʸ/2; if x and y have the same rate of change, which function increases the more rapidly for x = 3, y = 2: the function obtained from F with fixed y (x only varies), or that obtained with fixed x (y only varies)?",
+    "Answers": "The second function varies more rapidly."
+  },
+  {
+    "ID": "2960",
+    "Questions": "Given the function φ(x, y, z) = y² — (y cos z + z cos y)x + xy^(y+z)/(-z), let variables y and z preserve fixed values y₀ and z₀, where y₀ = 3z₀. What is the graph of the function v = φ(x, y₀, z₀)? Is φ(x, y, z): (1) a rational function of y? of z? (2) an integral function of x?",
+    "Answers": "A second-order parabola; (1) no, (2) no."
+  },
+  {
+    "ID": "2961*",
+    "Questions": "A function z = f(x, y), satisfying identically the relationship f(mx, my) = mᵏf(x, y) for any m, is called a homogeneous function of the kth degree. Show that the homogeneous function of the kth degree z = f(x, y) can always be written as z = xᵏF(y/x).",
+    "Answers": "Put m = 1/x."
+  },
+  {
+    "ID": "2962",
+    "Questions": "The homogeneity of a function of any number of independent variables is defined in the same way as for a function of two variables: for instance, f(x, y, z) is a homogeneous function of the kth degree if f(mx, my, mz) = mᵏf(x, y, z) for any m. The property f(x, y, z) = xᵏF(y/x, z/x) also holds. Prove this.",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2963",
+    "Questions": "Prove that the function z = F(x, y) = xy satisfies the functional equation F(ax + bu, cy + dv) = acF(x, y) + bcF(u, y) + adF(x, v) + bdF(u, v).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2964",
+    "Questions": "Prove that the function z = F(x, y) = ln x ln y satisfies the functional equation F(xy, uv) = F(x, u) + F(x, v) + F(y, u) + F(y, v) (x, y, u, v are positive).",
+    "Answers": "Solution not provided in the answers section."
+  },
+  {
+    "ID": "2965",
+    "Questions": "Find z as an explicit function of x and y from the equation x²/a² + y²/b² + z²/c² = 1. Is this function single-valued?",
+    "Answers": "The function is not single-valued."
+  },
+  {
+    "ID": "2966",
+    "Questions": "Given the function of a function z = uᵛ, where u = x + y, v = x — y, find the particular value of the function: (1) when x = 0, y = 1; (2) when x = 1, y = 1; (3) when x = 2, y = 3; (4) when x = 0, y = 0; (5) when x = —1, y = —1.",
+    "Answers": "(1) 1; (2) 1; (3) 1/5; (4) not defined; (5) 1."
+  },
+  {
+    "ID": "2967",
+    "Questions": "z = (u+v)/uv; u = wᵗ; v = w⁻ᵗ; w = √x+y; t = 2(x — y). Express z directly as a function of x and y. Is z a rational function of u and v? of w and t? of x and y?",
+    "Answers": "z = (x+y)^(x-y) + (x+y)^-(x-y), (x+y > 0); z is a rational function of u and v, but not of w, t, x and y."
+  },
+  {
+    "ID": "2968",
+    "Questions": "Given the function of a function z = uʷ + wᵘ⁺ᵛ, where u = x + y, v = x — y, w = xy, express z directly as a function of x and y.",
+    "Answers": "z = (x+y)ˣʸ + (xy)²ˣ."
+  },
+  {
+    "ID": "2969",
+    "Questions": "u = (ξ + η)² — ξ³ — η³; ξ = (eʷ + e⁻ʷ)/2; η = (eʷ - e⁻ʷ)/2; ω = ln(x² + y² + z²); φ = 2ln(x+y+z). Express u directly as a function of x, y and z. Is u an integral rational function of ξ and η? of ω and φ? of x, y, z?",
+    "Answers": "u = (x² + y² + z²)² - 1/4[(x²+y²+z²)³ + 3(x+y+z)⁴]; u is an integral rational function of ξ and η, x, y and z, but not of ω and φ."
+  },
+  {
+    "ID": "2970",
+    "Questions": "Write the function of a function z = (x²+y²)/(x²-y²) + (x²+y²-xy)/(x²+y²+xy) by means of a two-link chain of relationships.",
+    "Answers": "z = (u+v)/(u-v) + u; u = x² + y²; v = xy."
+  },
+  {
+    "ID": "2971",
+    "Questions": "Investigate by the method of sections the \"graph\" of the function z = 1/2 (x² — y²). What are the sections by the planes x = const? y = const? z = const?",
+    "Answers": "x = const gives a parabola, y = const a parabola, z = const ≠ 0 a hyperbola, z=0 a pair of straight lines."
+  },
+  {
+    "ID": "2972",
+    "Questions": "Investigate by the method of sections the \"graph\" of the function z = xy. What are the sections by the planes x = const? y = const? z = const?",
+    "Answers": "x = const, y = const are straight lines, z = const ≠ 0 is a hyperbola, z=0 is a pair of straight lines."
+  },
+  {
+    "ID": "2973",
+    "Questions": "Investigate by the method of sections the \"graph\" of the function z = y² — x³.",
+    "Answers": "x=const is a parabola, y=const is a cubical parabola, z=const≠0 is a curve of the third order, z=0 is a semicubical parabola."
+  },
+  {
+    "ID": "2974",
+    "Questions": "Investigate by the method of sections the \"graph\" of the function z³ = ax² + by² (a > 0, b > 0).",
+    "Answers": "z = const > 0 is an ellipse, x = const and y = const are curves of the third order (semicubical parabolas with x=0 and y=0)."
+  },
+  {
+    "ID": "2975",
+    "Questions": "A domain is bounded by the parallelogram with sides y = 0, y = 2, y = 1/2 x, y = 1/2 x — 1; the boundary itself is excluded. Give this domain by means of inequalities.",
+    "Answers": "0 < y < 2; -1 < y - 1/2 x < 0."
+  },
+  {
+    "ID": "2976",
+    "Questions": "A domain consists of the figure bounded by the parabolas y = x² and x = y² (including the boundary). Specify this domain by inequalities.",
+    "Answers": "x² ≤ y ≤ √x."
+  },
+  {
+    "ID": "2977",
+    "Questions": "Write with the aid of inequalities the open domain consisting of the equilateral triangle with a vertex at the origin and side a, one of the sides being in the direction of positive x.",
+    "Answers": "0 < y < x√3; y < (a-x)√3."
+  },
+  {
+    "ID": "2978",
+    "Questions": "A domain is bounded by an infinite circular cylinder of radius R (excluding the boundary) with axis parallel to Oz and passing through the point (a, b, c). Specify this domain with the aid of inequalities.",
+    "Answers": "(x - a)² + (y - b)² < R²; -∞ < z < ∞."
+  },
+  {
+    "ID": "2979",
+    "Questions": "Write with the aid of inequalities the domain bounded by the sphere of radius R with centre at the point (a, b, c) (the boundary included).",
+    "Answers": "(x-a)² + (y-b)² + (z-c)² ≤ R²."
+  },
+  {
+    "ID": "2980",
+    "Questions": "The vertices of a right-angled triangle lie inside a circle of radius R. The area S of the triangle is a function of its adjacent sides x and y: S = φ(x, y). (a) What is the domain of definition of function φ? (b) What is the domain of definiteness of the corresponding analytic expression?",
+    "Answers": "(a) x² + y² < 4R²; (b) -∞ < x < ∞; -∞ < y < ∞."
+  },
+  {
+    "ID": "2981",
+    "Questions": "A pyramid with a rectangular base, the vertex of which projects orthogonally into the point of intersection of the base diagonals, is inscribed in a sphere of radius R. The volume V of the pyramid is a function of sides x and y of its base. Is this function single-valued? Form the analytic expression for it. Find the domain of definition of the function and the domain of definiteness of the corresponding analytic expression.",
+    "Answers": "V = 1/6 xy(2R ± √4R² - x² - y²); the function is not single-valued. The domain of definition of the function is x² + y² ≤ 4R²; x > 0, y > 0. The domain of definiteness of the analytic expression is x² + y² ≤ 4R²."
+  },
+  {
+    "ID": "2982",
+    "Questions": "A square board consists of four square chequers, two black and two white, as shown in Fig. 57; the side of each of them is equal to unit length. We take the rectangle whose sides x and y are parallel to the sides of the board and one of the corners of which coincides with a black corner. The area of the black part of this rectangle will be a function of x and y. What is the domain of definition of this function? Express this function analytically.",
+    "Answers": "With 0 ≤ x ≤ 1, 0 ≤ y ≤ 1 S = xy; \nwith 0 ≤ x ≤ 1, 1 ≤ y S = x; \nwith 1 ≤ x, 0 ≤ y ≤ 1 S = y; \nwith 1 ≤ x ≤ 2; 1 ≤ y ≤ 2 S = xy — x — y + 2; \nwith 1 ≤ x ≤ 2; 2 ≤ y S = x; \nwith 2 ≤ x, 1 ≤ y ≤ 2 S = y; \nwith 2 ≤ x, 2 ≤ y S = 2. \nThe function is not defined for x < 0 and y < 0."
+  ,"images":["Img2/Berman_57.png"]},
+  {
+    "ID": "2983",
+    "Questions": "Find the domains of definition of the functions of problems 2983-3002: z = √1-x²/a²-y²/b².",
+    "Answers": "x²/a² + y²/b² ≤ 1."
+  },
+  {
+    "ID": "2984",
+    "Questions": "z = ln (y² - 4x + 8).",
+    "Answers": "y² > 4x - 8."
+  },
+  {
+    "ID": "2985",
+    "Questions": "z = 1/(R² - x² - y²).",
+    "Answers": "The whole of the plane except for points of the circle x²+y²=R²."
+  },
+  {
+    "ID": "2986",
+    "Questions": "z = √x + y + √x - y.",
+    "Answers": "The interior of the right-hand vertical angle between the bisectors of the first and fourth quadrants, including the bisectors themselves: x+y ≥ 0, x-y ≥ 0."
+  },
+  {
+    "ID": "2987",
+    "Questions": "z = 1/√x + y + 1/√x - y.",
+    "Answers": "The same as in problem 2986, but without the boundaries."
+  },
+  {
+    "ID": "2988",
+    "Questions": "z = arc sin(y/x).",
+    "Answers": "The interior of the right and left-hand angles formed by the straight lines y = x and y = -x, including these straight lines, but with their points of intersection: 1-x ≤ y ≤ 1+x (x > 0), 1+x ≤ y ≤ 1-x (x < 0) (the function is not defined for x = 0)."
+  },
+  {
+    "ID": "2989",
+    "Questions": "z = ln xy.",
+    "Answers": "The part of the plane lying inside the first and third quadrants (without the boundaries)."
+  },
+  {
+    "ID": "2990",
+    "Questions": "z = √x - √y.",
+    "Answers": "The closed domain lying between the positive semi-axis of abscissae and the parabola y = x² (including the boundary): x ≥ 0, y ≥ 0; x² ≥ y."
+  },
+  {
+    "ID": "2991",
+    "Questions": "z = arc sin( (x²+y²)/4 ) + arc sec(x²+y²).",
+    "Answers": "The ring, including its circumferences, between the circles x² + y² = 1 and x² + y² = 4."
+  },
+  {
+    "ID": "2992",
+    "Questions": "z = (√(4x-y²)) / ln(1-x²-y²).",
+    "Answers": "The part of the plane lying inside the parabola y² = 4x, between the parabola and the circle x² + y² = 1, including the arc of the parabola except for its vertex and excluding the arc of the circle."
+  },
+  {
+    "ID": "2993",
+    "Questions": "z = √((x²+2x+y²)/(x²-2x+y²)).",
+    "Answers": "The part of the plane lying outside the circles of unit radii with centres at the points (-1,0) and (1,0). Points of the circumference of the first circle belong to the domain, points of the second do not."
+  },
+  {
+    "ID": "2994",
+    "Questions": "z = xy + ln(R²/ (x²+y²) ) + √(x²+y²-R²).",
+    "Answers": "Only points of the circle x² + y² = R²."
+  },
+  {
+    "ID": "2995",
+    "Questions": "z = cot π(x + y).",
+    "Answers": "The whole of the plane except for the straight lines x+y=n (n is any integer, positive, negative or zero)."
+  },
+  {
+    "ID": "2996",
+    "Questions": "z = √sin π(x² + y²).",
+    "Answers": "The interior of the circle x² + y² = 1 and of the ring 2n ≤ x² + y² ≤ 2n + 1 (n is an integer), including the boundary."
+  },
+  {
+    "ID": "2997",
+    "Questions": "z = √x sin y.",
+    "Answers": "If x ≥ 0, then 2nπ ≤ y ≤ (2n + 1)π; if x < 0, then (2n+1)π ≤ y ≤ (2n+2)π; n is an integer."
+  },
+  {
+    "ID": "2998",
+    "Questions": "z = ln x — ln sin y.",
+    "Answers": "x > 0; 2nπ < y < 2(n+1)π (n is an integer)."
+  },
+  {
+    "ID": "2999",
+    "Questions": "z = ln[x ln(y-x)].",
+    "Answers": "The open domain shown in Fig. 83. { For x > 0, y > x + 1, for x < 0, x < y < x + 1.}"
+  },
+  {
+    "ID": "3000",
+    "Questions": "z = arc sin [2y(1 + x²) — 1].",
+    "Answers": "The part of the plane lying between the curve y = 1/(1+x²) and its asymptote, including the boundary."
+  }
+]

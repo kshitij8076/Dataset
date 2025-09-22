@@ -1,0 +1,1610 @@
+{
+  "quiz_title": "Current Electricity",
+  "problem_types": [
+    {
+      "type_name": "True / False",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 1,
+          "question_number": 1,
+          "type": "true_false",
+          "question_text": "Electrons in a conductor have no motion in the absence of a potential difference across it.",
+          "year": 1982
+        },
+        {
+          "id": 2,
+          "question_number": 2,
+          "type": "true_false",
+          "question_text": "The current-voltage graphs for a given metallic wire at two different temperatures T₁ and T₂ are shown in the figure. The temperature T₂ is greater than T₁.",
+          "image_present": true,
+          "year": 1985,
+          "images": ["arihant_images_ch13/arihant_ch13_1.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Assertion and Reason",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 3,
+          "question_number": 3,
+          "type": "assertion_reason",
+          "instructions": "Mark your answer as:\n(a) If Assertion is true, Reason is true; Reason is the correct explanation for Assertion.\n(b) If Assertion is true, Reason is true; Reason is not a correct explanation for Assertion.\n(c) If Assertion is true; Reason is false.\n(d) If Assertion is false; Reason is true.",
+          "assertion": "In a meter bridge experiment, null point for an unknown resistance is measured. Now, the unknown resistance is put inside an enclosure maintained at a higher temperature. The null point can be obtained at the same point as before by decreasing the value of the standard resistance.",
+          "reason": "Resistance of a metal increases with increase in temperature.",
+          "options": ["(a)", "(b)", "(c)", "(d)"],
+          "year": 2008
+        },
+        {
+          "id": 4,
+          "question_number": 4,
+          "type": "assertion_reason",
+          "instructions": "This question has Statement I and Statement II. Of the four choices given after the statements, choose the one that best describes the two statements.",
+          "assertion": "Higher the range, greater is the resistance of ammeter.",
+          "reason": "To increase the range of ammeter, additional shunt needs to be used across it.",
+          "year": 2013
+        }
+      ]
+    },
+    {
+      "type_name": "Fill in the Blank",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 5,
+          "question_number": 5,
+          "type": "fill_in_the_blank",
+          "question_text": "An electric bulb rated for 500 W at 100 V is used in a circuit having a 200 V supply. The resistance R that must be put in series with the bulb, so that the bulb delivers 500 W is ...... Ω.",
+          "year": 1987
+        },
+        {
+          "id": 6,
+          "question_number": 6,
+          "type": "fill_in_the_blank",
+          "question_text": "The equivalent resistance between points A and B of the circuit given below is ......",
+          "image_present": true,
+          "year": 1997,
+          "images": ["arihant_images_ch13/arihant_ch13_2.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 7,
+          "question_number": 7,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown in figure the heat produced in the 5 Ω resistor due to the current flowing through it is 10 cal/s. The heat generated in the 4 Ω resistor is",
+          "options": [
+            "1 cal/s",
+            "2 cal/s",
+            "3 cal/s",
+            "4 cal/s"
+          ],
+          "image_present": true,
+          "year": 1981,
+          "images": ["arihant_images_ch13/arihant_ch13_3.png"]
+        },
+        {
+          "id": 8,
+          "question_number": 8,
+          "type": "multiple_choice",
+          "question_text": "The current i in the circuit (see figure) is",
+          "options": [
+            "1/45 A",
+            "1/15 A",
+            "1/10 A",
+            "1/5 A"
+          ],
+          "image_present": true,
+          "year": 1983,
+          "images": ["arihant_images_ch13/arihant_ch13_4.png"]
+        },
+        {
+          "id": 9,
+          "question_number": 9,
+          "type": "multiple_choice",
+          "question_text": "A piece of copper and another of germanium are cooled from room temperature to 80 K. The resistance of",
+          "options": [
+            "each of them increases",
+            "each of them decreases",
+            "copper increases and germanium decreases",
+            "copper decreases and germanium increases"
+          ],
+          "year": 1988
+        },
+        {
+          "id": 10,
+          "question_number": 10,
+          "type": "multiple_choice",
+          "question_text": "Read the following statements carefully\nY: The resistivity of semiconductor decreases with increase of temperature.\nZ: In a conducting solid, the rate of collisions between free electrons and ions increase with increase of temperature.\nSelect the correct statement(s) from the following",
+          "options": [
+            "Y is true but Z is false",
+            "Y is false but Z is true",
+            "Both Y and Z are true",
+            "Y is true and Z is the correct reason for Y"
+          ],
+          "year": 1993
+        },
+        {
+          "id": 11,
+          "question_number": 11,
+          "type": "multiple_choice",
+          "question_text": "A battery of internal resistance 4 Ω is connected to the network of resistances as shown in figure. In order that the maximum power can be delivered to the network, the value of R in Ω should be",
+          "options": [
+            "4/9",
+            "2",
+            "8/3",
+            "18"
+          ],
+          "image_present": true,
+          "year": 1995,
+          "images": ["arihant_images_ch13/arihant_ch13_5.png"]
+        },
+        {
+          "id": 12,
+          "question_number": 12,
+          "type": "multiple_choice",
+          "question_text": "A steady current flows in a metallic conductor of non-uniform cross-section. The quantity/quantities constant along the length of the conductor is/are",
+          "options": [
+            "current, electric field and drift speed",
+            "drift speed only",
+            "current and drift speed",
+            "current only"
+          ],
+          "year": 1997
+        },
+        {
+          "id": 13,
+          "question_number": 13,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown in the figure, the current through",
+          "options": [
+            "the 3 Ω resistor is 0.50 A",
+            "the 3 Ω resistor is 0.25 A",
+            "the 4 Ω resistor is 0.50 A",
+            "the 4 Ω resistor is 0.25 A"
+          ],
+          "image_present": true,
+          "year": 1998,
+          "images": ["arihant_images_ch13/arihant_ch13_6.png"]
+        },
+        {
+          "id": 14,
+          "question_number": 14,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown P ≠ R, the reading of galvanometer is same with switch S open or closed. Then",
+          "options": [
+            "I_R = I_G",
+            "I_P = I_G",
+            "I_Q = I_G",
+            "I_Q = I_R"
+          ],
+          "image_present": true,
+          "year": 1999,
+          "images": ["arihant_images_ch13/arihant_ch13_7.png"]
+        },
+        {
+          "id": 15,
+          "question_number": 15,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, it is observed that the current I is independent of the value of the resistance R₆. Then, the resistance values must satisfy",
+          "options": [
+            "R₁R₂R₅ = R₃R₄R₆",
+            "1/R₅ + 1/R₆ = 1/(R₁ + R₂) + 1/(R₃ + R₄)",
+            "R₁R₄ = R₂R₃",
+            "R₁R₃ = R₂R₄"
+          ],
+          "image_present": true,
+          "year": 2001,
+          "images": ["arihant_images_ch13/arihant_ch13_8.png"]
+        },
+        {
+          "id": 16,
+          "question_number": 16,
+          "type": "multiple_choice",
+          "question_text": "A wire of length L and 3 identical cells of negligible internal resistances are connected in series. Due to the current, the temperature of the wire is raised by ΔT in a time t. A number N of similar cells is now connected in series with a wire of the same material and cross-section but of length 2L. The temperature of the wire is raised by the same amount ΔT in the same time. The value of N is",
+          "options": [
+            "4",
+            "6",
+            "8",
+            "9"
+          ],
+          "year": 2001
+        },
+        {
+          "id": 17,
+          "question_number": 17,
+          "type": "multiple_choice",
+          "question_text": "The effective resistance between points P and Q of the electrical circuit shown in the figure is",
+          "options": [
+            "2Rr / (R+r)",
+            "8R(R+r) / (3R+r)",
+            "2r + 4R",
+            "5R/2 + 2r"
+          ],
+          "image_present": true,
+          "year": 2002,
+          "images": ["arihant_images_ch13/arihant_ch13_9.png"]
+        },
+        {
+          "id": 18,
+          "question_number": 18,
+          "type": "multiple_choice",
+          "question_text": "A 100 W bulb B₁, and two 60 W bulbs B₂ and B₃, are connected to a 250 V source, as shown in the figure. Now W₁, W₂ and W₃ are the output powers of the bulbs B₁, B₂ and B₃ respectively. Then,",
+          "options": [
+            "W₁ > W₂ = W₃",
+            "W₁ > W₂ > W₃",
+            "W₁ < W₂ = W₃",
+            "W₁ < W₂ < W₃"
+          ],
+          "image_present": true,
+          "year": 2002,
+          "images": ["arihant_images_ch13/arihant_ch13_10.png"]
+        },
+        {
+          "id": 19,
+          "question_number": 19,
+          "type": "multiple_choice",
+          "question_text": "Three resistances of equal value are arranged in the different combinations shown below. Arrange them in increasing order of power dissipation",
+          "options": [
+            "III < II < IV < I",
+            "II < III < IV < I",
+            "I < IV < III < II",
+            "I < III < II < IV"
+          ],
+          "image_present": true,
+          "year": 2003,
+          "images": ["arihant_images_ch13/arihant_ch13_11.png"]
+        },
+        {
+          "id": 20,
+          "question_number": 20,
+          "type": "multiple_choice",
+          "question_text": "In the shown arrangement of the experiment of the meter bridge if AC corresponding to null deflection of galvanometer is x, what would be its value if the radius of the wire AB is doubled?",
+          "options": [
+            "x",
+            "x/4",
+            "4x",
+            "2x"
+          ],
+          "image_present": true,
+          "year": 2003,
+          "images": ["arihant_images_ch13/arihant_ch13_12.png"]
+        },
+        {
+          "id": 21,
+          "question_number": 21,
+          "type": "multiple_choice",
+          "question_text": "Six equal resistances are connected between points P, Q and R as shown in the figure. Then, the net resistance will be maximum between",
+          "options": [
+            "P and Q",
+            "Q and R",
+            "P and R",
+            "any two points"
+          ],
+          "image_present": true,
+          "year": 2004,
+          "images": ["arihant_images_ch13/arihant_ch13_13.png"]
+        },
+        {
+          "id": 22,
+          "question_number": 22,
+          "type": "multiple_choice",
+          "question_text": "A moving coil galvanometer of resistance 100 Ω is used as an ammeter using a resistance 0.1 Ω. The maximum deflection current in the galvanometer is 100μA. Find the current in the circuit, so that the ammeter shows maximum deflection.",
+          "options": [
+            "100.1 mA",
+            "1000.1 mA",
+            "10.01 mA",
+            "1.01 mA"
+          ],
+          "year": 2005
+        },
+        {
+          "id": 23,
+          "question_number": 23,
+          "type": "multiple_choice",
+          "question_text": "For the post office box arrangement to determine the value of unknown resistance, the unknown resistance should be connected between",
+          "options": [
+            "B and C",
+            "C and D",
+            "A and D",
+            "B₁ and C₁"
+          ],
+          "image_present": true,
+          "year": 2004,
+          "images": ["arihant_images_ch13/arihant_ch13_14.png"]
+        },
+        {
+          "id": 24,
+          "question_number": 24,
+          "type": "multiple_choice",
+          "question_text": "Find out the value of current through 2 Ω resistance for the given circuit.",
+          "options": [
+            "5 A",
+            "2 A",
+            "zero",
+            "4 A"
+          ],
+          "image_present": true,
+          "year": 2005,
+          "images": ["arihant_images_ch13/arihant_ch13_15.png"]
+        },
+        {
+          "id": 25,
+          "question_number": 25,
+          "type": "multiple_choice",
+          "question_text": "A rigid container with thermally insulated walls contains a coil of resistance 100 Ω, carrying current 1 A. Change in internal energy after 5 min will be",
+          "options": [
+            "zero",
+            "10 kJ",
+            "20 kJ",
+            "30 kJ"
+          ],
+          "year": 2005
+        },
+        {
+          "id": 26,
+          "question_number": 26,
+          "type": "multiple_choice",
+          "question_text": "Two bars of radius r and 2r are kept in contact as shown. An electric current I is passed through the bars. Which one of following is correct?",
+          "options": [
+            "Heat produced in bar BC is 4 times the heat produced in bar AB",
+            "Electric field in both halves is equal",
+            "Current density across AB is double that of across BC",
+            "Potential difference across AB is 4 times that of across BC"
+          ],
+          "image_present": true,
+          "year": 2006,
+          "images": ["arihant_images_ch13/arihant_ch13_16.png"]
+        },
+        {
+          "id": 27,
+          "question_number": 27,
+          "type": "multiple_choice",
+          "question_text": "A resistance of 2Ω is connected across one gap of a meter-bridge (the length of the wire is 100 cm) and an unknown resistance, greater than 2 Ω, is connected across the other gap. When these resistances are interchanged, the balance point shifts by 20 cm. Neglecting any corrections, the unknown resistance is",
+          "options": [
+            "3 Ω",
+            "4 Ω",
+            "5 Ω",
+            "6 Ω"
+          ],
+          "year": 2007
+        },
+        {
+          "id": 28,
+          "question_number": 28,
+          "type": "multiple_choice",
+          "question_text": "Figure shows three resistor configurations R₁, R₂ and R₃ connected to 3 V battery. If the power dissipated by the configuration R₁, R₂ and R₃ is P₁, P₂ and P₃, respectively, then",
+          "options": [
+            "P₁ > P₂ > P₃",
+            "P₁ > P₃ > P₂",
+            "P₂ > P₁ > P₃",
+            "P₃ > P₂ > P₁"
+          ],
+          "image_present": true,
+          "year": 2008,
+          "images": ["arihant_images_ch13/arihant_ch13_17.png"]
+        },
+        {
+          "id": 29,
+          "question_number": 29,
+          "type": "multiple_choice",
+          "question_text": "Consider a thin square sheet of side L and thickness t, made of a material of resistivity ρ. The resistance between two opposite faces, shown by the shaded areas in the figure is",
+          "options": [
+            "directly proportional to L",
+            "directly proportional to t",
+            "independent of L",
+            "independent of t"
+          ],
+          "image_present": true,
+          "year": 2010,
+          "images": ["arihant_images_ch13/arihant_ch13_18.png"]
+        },
+        {
+          "id": 30,
+          "question_number": 30,
+          "type": "multiple_choice",
+          "question_text": "To verify Ohm's law, a student is provided with a test resistor R_T, a high resistance R₁, a small resistance R₂, two identical galvanometers G₁ and G₂, and a variable voltage source V. The correct circuit to carry out the experiment is",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2010
+        },
+        {
+          "id": 31,
+          "question_number": 31,
+          "type": "multiple_choice",
+          "question_text": "Incandescent bulbs are designed by keeping in mind that the resistance of their filament increases with the increase in temperature. If at room temperature, 100 W, 60 W and 40 W bulbs have filament resistances R₁₀₀, R₆₀ and R₄₀, respectively, the relation between these resistances is",
+          "options": [
+            "1/R₁₀₀ = 1/R₄₀ + 1/R₆₀",
+            "R₁₀₀ = R₄₀ + R₆₀",
+            "R₁₀₀ > R₆₀ > R₄₀",
+            "1/R₁₀₀ > 1/R₆₀ > 1/R₄₀"
+          ],
+          "year": 2010
+        },
+        {
+          "id": 32,
+          "question_number": 32,
+          "type": "multiple_choice",
+          "question_text": "The supply voltage in a room is 120 V. The resistance of the lead wires is 6 Ω. A 60 W bulb is already switched on. What is the decrease of voltage across the bulb, when a 240 W heater is switched on in parallel to the bulb?",
+          "options": [
+            "zero",
+            "2.9 V",
+            "13.3 V",
+            "10.4 V"
+          ],
+          "year": 2013
+        },
+        {
+          "id": 33,
+          "question_number": 33,
+          "type": "multiple_choice",
+          "question_text": "During an experiment with a meter bridge, the galvanometer shows a null point when the jockey is pressed at 40.0 cm using a standard resistance of 90 Ω, as shown in the figure. The error in the scale used in the meter bridge is 1 mm. The unknown resistance is",
+          "options": [
+            "60 ± 0.15 Ω",
+            "135 ± 0.56 Ω",
+            "60 ± 0.25 Ω",
+            "135 ± 0.23 Ω"
+          ],
+          "image_present": true,
+          "year": 2014,
+          "images": ["arihant_images_ch13/arihant_ch13_19.png"]
+        },
+        {
+          "id": 34,
+          "question_number": 34,
+          "type": "multiple_choice",
+          "question_text": "In a large building, there are 15 bulbs of 40 W, 5 bulbs of 100 W, 5 fans of 80 W and 1 heater of 1 kW. The voltage of the electric mains is 220 V. The minimum capacity of the main fuse of the building will be",
+          "options": [
+            "8 A",
+            "10 A",
+            "12 A",
+            "14 A"
+          ],
+          "year": 2014
+        },
+        {
+          "id": 35,
+          "question_number": 35,
+          "type": "multiple_choice",
+          "question_text": "When 5V potential difference is applied across a wire of length 0.1m, the drift speed of electrons is 2.5 × 10⁻⁴ ms⁻¹. If the electron density in the wire is 8×10²⁸ m⁻³, the resistivity of the material is close to",
+          "options": [
+            "1.6 × 10⁻⁸ Ωm",
+            "1.6 × 10⁻⁷ Ωm",
+            "1.6 × 10⁻⁵ Ωm",
+            "1.6 × 10⁻⁶ Ωm"
+          ],
+          "year": 2015
+        },
+        {
+          "id": 36,
+          "question_number": 36,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown below, the current in the 1Ω resistor is",
+          "options": [
+            "1.3 A, from P to Q",
+            "0.13 A, from Q to P",
+            "0 A",
+            "0.13 A, from P to Q"
+          ],
+          "image_present": true,
+          "year": 2017,
+          "images": ["arihant_images_ch13/arihant_ch13_20.png"]
+        },
+        {
+          "id": 37,
+          "question_number": 37,
+          "type": "multiple_choice",
+          "question_text": "In the below circuit, the current in each resistance is",
+          "options": [
+            "0.25 A",
+            "0.5 A",
+            "0 A",
+            "1 A"
+          ],
+          "image_present": true,
+          "year": 2017,
+          "images": ["arihant_images_ch13/arihant_ch13_21.png"]
+        },
+        {
+          "id": 38,
+          "question_number": 38,
+          "type": "multiple_choice",
+          "question_text": "When a current of 5 mA is passed through a galvanometer having a coil of resistance 15 Ω, it shows full scale deflection. The value of the resistance to be put in series with the galvanometer to convert it into a voltmeter of range 0-10 V is",
+          "options": [
+            "2.045 × 10³ Ω",
+            "2.535 × 10³ Ω",
+            "4.005 × 10³ Ω",
+            "1.985 × 10³ Ω"
+          ],
+          "year": 2017
+        },
+        {
+          "id": 39,
+          "question_number": 39,
+          "type": "multiple_choice",
+          "question_text": "A carbon resistance has a following color code. What is the value of the resistance?",
+          "options": [
+            "5.3 MΩ ± 5%",
+            "64 kΩ ± 10%",
+            "6.4 MΩ ± 5%",
+            "530 kΩ ± 5%"
+          ],
+          "image_present": true,
+          "year": 2017,
+          "images": ["arihant_images_ch13/arihant_ch13_22.png"]
+        },
+        {
+          "id": 40,
+          "question_number": 40,
+          "type": "multiple_choice",
+          "question_text": "Which of the following statements is false?",
+          "options": [
+            "In a balanced Wheatstone bridge, if the cell and the galvanometer are exchanged, the null point is disturbed",
+            "A rheostat can be used as a potential divider",
+            "Kirchhoff's second law represents energy conservation",
+            "Wheatstone bridge is the most sensitive when all the four resistances are of the same order of magnitude"
+          ],
+          "year": 2017
+        },
+        {
+          "id": 41,
+          "question_number": 41,
+          "type": "multiple_choice",
+          "question_text": "On interchanging the resistances, the balance point of a meter bridge shifts to the left by 10 cm. The resistance of their series combination is 1 kΩ. How much was the resistance on the left slot before interchanging the resistances?",
+          "options": [
+            "990 Ω",
+            "910 Ω",
+            "900 Ω",
+            "550 Ω"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 42,
+          "question_number": 42,
+          "type": "multiple_choice",
+          "question_text": "In a potentiometer experiment, it is found that no current passes through the galvanometer when the terminals of the cell are connected across 52 cm of the potentiometer wire. If the cell is shunted by a resistance of 5 Ω, a balance is found when the cell is connected across 40 cm of the wire. Find the internal resistance of the cell.",
+          "options": [
+            "1 Ω",
+            "2 Ω",
+            "1.5 Ω",
+            "2.5 Ω"
+          ],
+          "year": 2018
+        },
+        {
+          "id": 43,
+          "question_number": 43,
+          "type": "multiple_choice",
+          "question_text": "A galvanometer having a coil resistance of 100 Ω gives a full scale deflection when a current of 1 mA is passed through it. The value of the resistance which can convert this galvanometer into ammeter giving a full scale deflection for a current of 10 A, is",
+          "options": [
+            "0.01 Ω",
+            "2 Ω",
+            "0.1 Ω",
+            "3 Ω"
+          ],
+          "year": 2016
+        },
+        {
+          "id": 44,
+          "question_number": 44,
+          "type": "multiple_choice",
+          "question_text": "Space between two concentric conducting spheres of radii a and b(b>a) is filled with a medium of resistivity ρ. The resistance between the two spheres will be",
+          "options": [
+            "(ρ/2π)(1/a - 1/b)",
+            "(ρ/4π)(1/a - 1/b)",
+            "(ρ/2π)(1/a + 1/b)",
+            "(ρ/4π)(1/a + 1/b)"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 45,
+          "question_number": 45,
+          "type": "multiple_choice",
+          "question_text": "In an experiment, the resistance of a material is plotted as a function of temperature (in some range). As shown in the figure, it is a straight line. One may conclude that",
+          "options": [
+            "R(T) = R₀e^(-T²/T₀²)",
+            "R(T) = R₀e^(T²/T₀²)",
+            "R(T) = R₀e^(-T₀²/T²)",
+            "R(T) = R₀/T²"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_23.png"]
+        },
+        {
+          "id": 46,
+          "question_number": 46,
+          "type": "multiple_choice",
+          "question_text": "A metal wire of resistance 3Ω is elongated to make a uniform wire of double its previous length. This new wire is now bent and the ends joined to make a circle. If two points on this circle make an angle 60° at the centre, the equivalent resistance between these two points will be",
+          "options": [
+            "7/2 Ω",
+            "5/2 Ω",
+            "12/5 Ω",
+            "5/3 Ω"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 47,
+          "question_number": 47,
+          "type": "multiple_choice",
+          "question_text": "In a conductor, if the number of conduction electrons per unit volume is 8.5×10²⁸ m⁻³ and mean free time is 25 fs (femto second), its approximate resistivity is (Take, mₑ = 9.1×10⁻³¹ kg)",
+          "options": [
+            "10⁻⁷ Ω-m",
+            "10⁻⁶ Ω-m",
+            "10⁻⁵ Ω-m",
+            "10⁻⁸ Ω-m"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 48,
+          "question_number": 48,
+          "type": "multiple_choice",
+          "question_text": "Determine the charge on the capacitor in the following circuit",
+          "options": [
+            "2 µC",
+            "200 µC",
+            "10 µC",
+            "60 µC"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_24.png"]
+        },
+        {
+          "id": 49,
+          "question_number": 49,
+          "type": "multiple_choice",
+          "question_text": "A wire of resistance R is bent to form a square ABCD as shown in the figure. The effective resistance between E and C is [E is mid-point of arm CD]",
+          "options": [
+            "7/64 R",
+            "3/4 R",
+            "R",
+            "1/16 R"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_25.png"]
+        },
+        {
+          "id": 50,
+          "question_number": 50,
+          "type": "multiple_choice",
+          "question_text": "A uniform metallic wire has a resistance of 18 Ω and is bent into an equilateral triangle. Then, the resistance between any two vertices of the triangle is",
+          "options": [
+            "12 Ω",
+            "8 Ω",
+            "2 Ω",
+            "4 Ω"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 51,
+          "question_number": 51,
+          "type": "multiple_choice",
+          "question_text": "A copper wire is stretched to make it 0.5% longer. The percentage change in its electrical resistance, if its volume remains unchanged is",
+          "options": [
+            "2.0%",
+            "1.0%",
+            "0.5%",
+            "2.5%"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 52,
+          "question_number": 52,
+          "type": "multiple_choice",
+          "question_text": "Mobility of electrons in a semiconductor is defined as the ratio of their drift velocity to the applied electric field. If for an n-type semiconductor, the density of electrons is 10¹⁹ m⁻³ and their mobility is 1.6 m²/(V-s), then the resistivity of the semiconductor (since, it is an n-type semiconductor contribution of holes is ignored) is close to",
+          "options": [
+            "2 Ω-m",
+            "0.2 Ω-m",
+            "0.4 Ω-m",
+            "4 Ω-m"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 53,
+          "question_number": 53,
+          "type": "multiple_choice",
+          "question_text": "Drift speed of electrons, when 1.5 A of current flows in a copper wire of cross-section 5 mm² is v. If the electron density in copper is 9×10²⁸ / m³, the value of v in mm/s is close to (Take, charge of electron to be = 1.6×10⁻¹⁹ C)",
+          "options": [
+            "0.02",
+            "0.2",
+            "2",
+            "3"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 54,
+          "question_number": 54,
+          "type": "multiple_choice",
+          "question_text": "In the figure shown, what is the current (in ampere) drawn from the battery? You are given: R₁=15Ω, R₂=10Ω, R₃=20Ω, R₄=5Ω, R₅=25Ω, R₆=30Ω, E=15V",
+          "options": [
+            "13/24",
+            "7/18",
+            "20/3",
+            "9/32"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_26.png"]
+        },
+        {
+          "id": 55,
+          "question_number": 55,
+          "type": "multiple_choice",
+          "question_text": "For the circuit shown with R₁ = 1.0Ω, R₂ = 2.0Ω, E₁ = 2V and E₂=E₃=4V, the potential difference between the points a and b is approximately (in volt)",
+          "options": [
+            "2.7",
+            "2.3",
+            "3.7",
+            "3.3"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_27.png"]
+        },
+        {
+          "id": 56,
+          "question_number": 56,
+          "type": "multiple_choice",
+          "question_text": "In the circuit shown, the potential difference between A and B is",
+          "options": [
+            "3 V",
+            "1 V",
+            "6 V",
+            "2 V"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_28.png"]
+        },
+        {
+          "id": 57,
+          "question_number": 57,
+          "type": "multiple_choice",
+          "question_text": "In a Wheatstone bridge (see figure), resistances P and Q are approximately equal. When R = 400Ω, the bridge is balanced. On interchanging P and Q, the value of R for balance is 405Ω. The value of X is close to",
+          "options": [
+            "404.5 Ω",
+            "401.5 Ω",
+            "402.5 Ω",
+            "403.5 Ω"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_29.png"]
+        },
+        {
+          "id": 58,
+          "question_number": 58,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit diagram, the currents I₁ = -0.3A, I₄ = 0.8A and I₅ = 0.4A, are flowing as shown. The currents I₂, I₃ and I₆ respectively, are",
+          "options": [
+            "1.1 A, -0.4 A, 0.4 A",
+            "1.1 A, 0.4 A, 0.4 A",
+            "0.4 A, 1.1 A, 0.4 A",
+            "-0.4 A, 0.4 A, 1.1 A"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_30.png"]
+        },
+        {
+          "id": 59,
+          "question_number": 59,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, the cells have zero internal resistance. The currents (in Ampere) passing through resistances R₁ and R₂ respectively are",
+          "options": [
+            "0.5, 0",
+            "1, 2",
+            "2, 2",
+            "0, 1"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_31.png"]
+        },
+        {
+          "id": 60,
+          "question_number": 60,
+          "type": "multiple_choice",
+          "question_text": "In the given circuit, the internal resistance of the 18 V cell is negligible. If R₁ = 400 Ω, R₃ = 100 Ω and R₄ = 500 Ω and the reading of an ideal voltmeter across R₄ is 5 V, then the value of R₂ will be",
+          "options": [
+            "550 Ω",
+            "230 Ω",
+            "300 Ω",
+            "450 Ω"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_32.png"]
+        },
+        {
+          "id": 61,
+          "question_number": 61,
+          "type": "multiple_choice",
+          "question_text": "When the switch S in the circuit shown is closed, then the value of current i will be",
+          "options": [
+            "4A",
+            "3A",
+            "2A",
+            "5A"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_33.png"]
+        },
+        {
+          "id": 62,
+          "question_number": 62,
+          "type": "multiple_choice",
+          "question_text": "One kilogram of water at 20°C is heated in an electric kettle whose heating element has a mean (temperature averaged) resistance of 20 Ω. The rms voltage in the mains is 200 V. Ignoring heat loss from the kettle, time taken for water to evaporate fully, is close to [Specific heat of water = 4200 J/(kg°C), Latent heat of water = 2260 kJ/kg]",
+          "options": [
+            "16 min",
+            "22 min",
+            "3 min",
+            "10 min"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 63,
+          "question_number": 63,
+          "type": "multiple_choice",
+          "question_text": "The resistive network shown below is connected to a DC source of 16 V. The power consumed by the network is 4 W. The value of R is",
+          "options": [
+            "6 Ω",
+            "8 Ω",
+            "1 Ω",
+            "16 Ω"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_34.png"]
+        },
+        {
+          "id": 64,
+          "question_number": 64,
+          "type": "multiple_choice",
+          "question_text": "A cell of internal resistance r drives current through an external resistance R. The power delivered by the cell to the external resistance will be maximum when",
+          "options": [
+            "R = 2r",
+            "R = r",
+            "R = 0.001 r",
+            "R = 1000 r"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 65,
+          "question_number": 65,
+          "type": "multiple_choice",
+          "question_text": "Two electric bulbs rated at 25 W, 220 V and 100 W, 220 V are connected in series across a 220 V voltage source. If the 25 W and 100 W bulbs draw powers P₁ and P₂ respectively, then",
+          "options": [
+            "P₁ = 16 W, P₂ = 4 W",
+            "P₁ = 4 W, P₂ = 16 W",
+            "P₁ = 9 W, P₂ = 16 W",
+            "P₁ = 16 W, P₂ = 9 W"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 66,
+          "question_number": 66,
+          "type": "multiple_choice",
+          "question_text": "Two equal resistances when connected in series to a battery consume electric power of 60 W. If these resistances are now connected in parallel combination to the same battery, the electric power consumed will be",
+          "options": [
+            "60 W",
+            "30 W",
+            "240 W",
+            "120 W"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 67,
+          "question_number": 67,
+          "type": "multiple_choice",
+          "question_text": "A current of 2 mA was passed through an unknown resistor which dissipated a power of 4.4 W. Dissipated power when an ideal power supply of 11 V is connected across it is",
+          "options": [
+            "11×10⁻⁴ W",
+            "11×10⁻⁵ W",
+            "11×10⁵ W",
+            "11×10⁻³ W"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 68,
+          "question_number": 68,
+          "type": "multiple_choice",
+          "question_text": "In a meter bridge experiment, the circuit diagram and the corresponding observation table are shown in figure\nObservation Table:\nS. No. | R (Ω) | l (cm)\n1. | 1000 | 60\n2. | 100 | 13\n3. | 10 | 1.5\n4. | 1 | 1.0\nWhich of the readings is inconsistent?",
+          "options": [
+            "3",
+            "2",
+            "1",
+            "4"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_35.png"]
+        },
+        {
+          "id": 69,
+          "question_number": 69,
+          "type": "multiple_choice",
+          "question_text": "A galvanometer whose resistance is 50 Ω, has 25 divisions in it. When a current of 4 × 10⁻⁴ A passes through it, its needle (pointer) deflects by one division. To use this galvanometer as a voltmeter of range 2.5 V, it should be connected to a resistance of",
+          "options": [
+            "250 Ω",
+            "6200 Ω",
+            "200 Ω",
+            "6250 Ω"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 70,
+          "question_number": 70,
+          "type": "multiple_choice",
+          "question_text": "An ideal battery of 4 V and resistance R are connected in series in the primary circuit of a potentiometer of length 1 m and resistance 5Ω. The value of R to give a potential difference of 5 mV across 10 cm of potentiometer wire is",
+          "options": [
+            "395 Ω",
+            "495 Ω",
+            "490 Ω",
+            "480 Ω"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 71,
+          "question_number": 71,
+          "type": "multiple_choice",
+          "question_text": "The galvanometer deflection, when key K₁ is closed but K₂ is open equals θ₀ (see figure). On closing K₂ also and adjusting R₂ to 5Ω, the deflection in galvanometer becomes θ₀/5. The resistance of the galvanometer is given by (neglect the internal resistance of battery):",
+          "options": [
+            "22 Ω",
+            "5 Ω",
+            "25 Ω",
+            "12 Ω"
+          ],
+          "image_present": true,
+          "year": 2019,"images": ["arihant_images_ch13/arihant_ch13_36.png"]
+        },
+        {
+          "id": 72,
+          "question_number": 72,
+          "type": "multiple_choice",
+          "question_text": "In the experimental set up of meter bridge shown in the figure, the null point is obtained at a distance of 40 cm from A. If a 10 Ω resistor is connected in series with R₁, the null point shifts by 10 cm. The resistance that should be connected in parallel with (R₁ + 10) Ω such that the null point shifts back to its initial position is",
+          "options": [
+            "60 Ω",
+            "20 Ω",
+            "30 Ω",
+            "40 Ω"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_37.png"]
+        },
+        {
+          "id": 73,
+          "question_number": 73,
+          "type": "multiple_choice",
+          "question_text": "A galvanometer having a resistance of 20 Ω and 30 divisions on both sides has figure of merit 0.005 ampere/division. The resistance that should be connected in series such that it can be used as a voltmeter upto 15 volt is",
+          "options": [
+            "100 Ω",
+            "125 Ω",
+            "120 Ω",
+            "80 Ω"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 74,
+          "question_number": 74,
+          "type": "multiple_choice",
+          "question_text": "The resistance of the meter bridge AB in given figure is 4 Ω. With a cell of emf ε = 0.5 V and rheostat resistance R_h = 2Ω. The null point is obtained at some point J. When the cell is replaced by another one of emf ε = ε₂, the same null point J is found for R_h = 6Ω. The emf ε₂ is",
+          "options": [
+            "0.6 V",
+            "0.3 V",
+            "0.5 V",
+            "0.4 V"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_38.png"]
+        },
+        {
+          "id": 75,
+          "question_number": 75,
+          "type": "multiple_choice",
+          "question_text": "A potentiometer wire AB having length L and resistance 12r is joined to a cell D of EMF ε and internal resistance r. A cell C having emf ε/2 and internal resistance 3r is connected. The length AJ at which the galvanometer as shown in figure shows no deflection is",
+          "options": [
+            "5/12 L",
+            "11/12 L",
+            "13/24 L",
+            "11/24 L"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_39.png"]
+        },
+        {
+          "id": 76,
+          "question_number": 76,
+          "type": "multiple_choice",
+          "question_text": "A 200 Ω resistor has a certain colour code. If one replaces the red colour by green in the code, the new resistance will be",
+          "options": [
+            "100 Ω",
+            "400 Ω",
+            "300 Ω",
+            "500 Ω"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 77,
+          "question_number": 77,
+          "type": "multiple_choice",
+          "question_text": "The Wheatstone bridge shown in figure here, gets balanced when the carbon resistor is used as R₁ has the color code (orange, red, brown). The resistors R₂ and R₄ are 80 Ω and 40 Ω, respectively. Assuming that the color code for the carbon resistors gives their accurate values, the color code for the carbon resistor used as R₃ would be",
+          "options": [
+            "brown, blue, black",
+            "brown, blue, brown",
+            "grey, black, brown",
+            "red, green, brown"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_40.png"]
+        },
+        {
+          "id": 78,
+          "question_number": 78,
+          "type": "multiple_choice",
+          "question_text": "The actual value of resistance R, shown in the figure is 30 Ω. This is measured in an experiment as shown using the standard formula R = V/I, where V and I are the readings of the voltmeter and ammeter, respectively. If the measured value of R is 5% less, then the internal resistance of the voltmeter is",
+          "options": [
+            "600 Ω",
+            "570 Ω",
+            "350 Ω",
+            "35 Ω"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_41.png"]
+        },
+        {
+          "id": 79,
+          "question_number": 79,
+          "type": "multiple_choice",
+          "question_text": "A 2 W carbon resistor is color coded with green, black, red and brown respectively. The maximum current which can be passed through this resistor is",
+          "options": [
+            "0.4 mA",
+            "63 mA",
+            "20 mA",
+            "100 mA"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 80,
+          "question_number": 80,
+          "type": "multiple_choice",
+          "question_text": "A resistance is shown in the figure. Its value and tolerance are given respectively by",
+          "options": [
+            "270 Ω, 5%",
+            "27 kΩ, 20%",
+            "27 kΩ, 10%",
+            "270 kΩ, 10%"
+          ],
+          "image_present": true,
+          "year": 2019,
+          "images": ["arihant_images_ch13/arihant_ch13_42.png"]
+        },
+        {
+          "id": 81,
+          "question_number": 81,
+          "type": "multiple_choice",
+          "question_text": "The resistance of a galvanometer is 50 ohm and the maximum current which can be passed through it is 0.002 A. What resistance must be connected to it in order to convert it into an ammeter of range 0-0.5 A?",
+          "options": [
+            "0.2 ohm",
+            "0.5 ohm",
+            "0.002 ohm",
+            "0.02 ohm"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 82,
+          "question_number": 82,
+          "type": "multiple_choice",
+          "question_text": "A moving coil galvanometer has resistance 50 Ω and it indicates full deflection at 4 mA current. A voltmeter is made using this galvanometer and a 5 kΩ resistance. The maximum voltage, that can be measured using this voltmeter, will be close to",
+          "options": [
+            "40 V",
+            "10 V",
+            "15 V",
+            "20 V"
+          ],
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 83,
+          "question_number": 83,
+          "type": "multiple_select",
+          "question_text": "A microammeter has a resistance of 100 Ω and full scale range of 50 μA. It can be used as a voltmeter or as a higher range ammeter provided a resistance is added to it. Pick the correct range and resistance combination(s)",
+          "options": [
+            "50 V range with 10 kΩ resistance in series",
+            "10 V range with 200 kΩ resistance in series",
+            "5 mA range with 1 Ω resistance in parallel",
+            "10 mA range with 1 Ω resistance in parallel"
+          ],
+          "year": 1991
+        },
+        {
+          "id": 84,
+          "question_number": 84,
+          "type": "multiple_select",
+          "question_text": "When a potential difference is applied across, the current passing through",
+          "options": [
+            "an insulator at 0 K is zero",
+            "a semiconductor at 0 K is zero",
+            "a metal at 0 K is finite",
+            "a p-n diode at 300 K is finite, if it is reverse biased"
+          ],
+          "year": 1999
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 85,
+          "question_number": 85,
+          "type": "integer_answer",
+          "question_text": "When two identical batteries of internal resistance 1Ω each are connected in series across a resistor R, the rate of heat produced in R is J₁. When the same batteries are connected in parallel across R, the rate is J₂. If J₁ = 2.25 J₂ then the value of R in Ω is",
+          "year": 2010
+        },
+        {
+          "id": 86,
+          "question_number": 86,
+          "type": "integer_answer",
+          "question_text": "In the following circuit, the current through the resistor R(=2Ω) is I amperes. The value of I is",
+          "image_present": true,
+          "year": 2015,
+          "images": ["arihant_images_ch13/arihant_ch13_43.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Questions",
+      "section": "SECTION-1",
+      "questions": [
+        {
+          "id": 87,
+          "question_number": 87,
+          "type": "descriptive",
+          "question_text": "If each of the resistances in the network shown in the figure is R, what is the resistance between the terminals A and B?",
+          "image_present": true,
+          "year": 1978,
+          "images": ["arihant_images_ch13/arihant_ch13_44.png"]
+        },
+        {
+          "id": 88,
+          "question_number": 88,
+          "type": "descriptive",
+          "question_text": "A copper wire is stretched to make it 0.1% longer. What is the percentage change in its resistance?",
+          "year": 1978
+        },
+        {
+          "id": 89,
+          "question_number": 89,
+          "type": "descriptive",
+          "question_text": "A 25 W and a 100 W bulb are joined in series and connected to the mains. Which bulb will glow brighter?",
+          "year": 1979
+        },
+        {
+          "id": 90,
+          "question_number": 90,
+          "type": "descriptive",
+          "question_text": "All resistances in the diagram are in ohm. Find the effective resistance between the points A and B.",
+          "image_present": true,
+          "year": 1980,
+          "images": ["arihant_images_ch13/arihant_ch13_45.png"]
+        },
+        {
+          "id": 91,
+          "question_number": 91,
+          "type": "descriptive",
+          "question_text": "An infinite ladder network of resistances is constructed with 1 Ω and 2 Ω resistances, as shown in figure. The 6 V battery between A and B has negligible internal resistance.\n(a) Show that the effective resistance between A and B is 2Ω.\n(b) What is the current that passes through the 2 Ω resistance nearest to the battery?",
+          "image_present": true,
+          "year": 1987,
+          "images": ["arihant_images_ch13/arihant_ch13_46.png"]
+        },
+        {
+          "id": 92,
+          "question_number": 92,
+          "type": "descriptive",
+          "question_text": "Show by diagram, how can we use a rheostat as the potential divider?",
+          "year": 2003
+        },
+        {
+          "id": 93,
+          "question_number": 93,
+          "type": "descriptive",
+          "question_text": "R₁, R₂, R₃ are different values of R. Further, A, B and C are the null points obtained corresponding to R₁, R₂ and R₃ respectively. For which resistor, the value of X will be the most accurate and why?",
+          "image_present": true,
+          "year": 2005,
+          "images": ["arihant_images_ch13/arihant_ch13_47.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 94,
+          "question_number": 1,
+          "type": "multiple_choice",
+          "question_text": "In an aluminium (Al) bar of square cross section, a square hole is drilled and is filled with iron (Fe) as shown in the figure. The electrical resistivities of Al and Fe are 2.7 × 10⁻⁸ Ωm and 1.0 × 10⁻⁷ Ωm, respectively. The electrical resistance between the two faces P and Q of the composite bar is",
+          "options": [
+            "2475/64 µΩ",
+            "1875/64 µΩ",
+            "1875/49 µΩ",
+            "2475/132 µΩ"
+          ],
+          "image_present": true,
+          "year": 2015,
+          "images": ["arihant_images_ch13/arihant_ch13_48.png"]
+        },
+        {
+          "id": 95,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "Two batteries with emf 12 V and 13 V are connected in parallel across a load resistor of 10 Ω. The internal resistances of the two batteries are 1Ω and 2Ω, respectively. The voltage across the load lies between",
+          "options": [
+            "11.7 V and 11.8 V",
+            "11.6 V and 11.7 V",
+            "11.5 V and 11.6 V",
+            "11.4 V and 11.5 V"
+          ],
+          "year": 2016
+        },
+        {
+          "id": 96,
+          "question_number": 3,
+          "type": "multiple_choice",
+          "question_text": "A moving coil galvanometer, having a resistance G, produces full scale deflection when a current I_g flows through it. This galvanometer can be converted into (i) an ammeter of range 0 to I₀ (I₀ > I_g) by connecting a shunt resistance R_A to it and (ii) into a voltmeter of range 0 to V (V = GI₀) by connecting a series resistance R_V to it. Then,",
+          "options": [
+            "R_A * R_V = G² * (I_g / (I₀ - I_g)) and R_A / R_V = (I_g / (I₀ - I_g))²",
+            "R_A * R_V = G² and R_A / R_V = (I_g / (I₀ - I_g))²",
+            "R_A * R_V = G² * (I_g / (I₀ - I_g)) and R_A / R_V = (I_g / (I₀ - I_g))",
+            "R_A * R_V = G² and R_A / R_V = (I_g / (I₀ - I_g))"
+          ],
+          "year": 2019
+        },
+        {
+          "id": 97,
+          "question_number": 4,
+          "type": "multiple_choice",
+          "question_text": "A galvanometer of resistance 100 Ω has 50 divisions on its scale and has sensitivity of 20µA/division. It is to be converted to a voltmeter with three ranges of 0-2 V, 0-10 V and 0-20 V. The appropriate circuit to do so is",
+          "options": [
+            "(a)",
+            "(b)",
+            "(c)",
+            "(d)"
+          ],
+          "image_present": true,
+          "year": 2019
+        },
+        {
+          "id": 98,
+          "question_number": 5,
+          "type": "multiple_choice",
+          "question_text": "A torch battery of length l is to be made up of a thin cylindrical bar of radius a and a concentric thin cylindrical shell of radius b is filled in between with an electrolyte of resistivity ρ (see figure). If the battery is connected to a resistance R, the maximum joule's heating in R will take place for",
+          "options": [
+            "R = (ρ/(2πl)) * ln(b/a)",
+            "R = (ρ/πl) * ln(b/a)",
+            "R = (ρ/πl) * (b-a)",
+            "R = (2ρ/πl) * ln(b/a)"
+          ],
+          "image_present": true,
+          "year": 2020,
+          "images": ["arihant_images_ch13/arihant_ch13_49.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 99,
+          "question_number": 6,
+          "type": "multiple_select",
+          "question_text": "For the circuit shown in the figure",
+          "options": [
+            "the current I through the battery is 7.5 mA",
+            "the potential difference across R_L is 18 V",
+            "ratio of powers dissipated in R₁ and R₂ is 3",
+            "if R₁ and R₂ are interchanged, magnitude of the power dissipated in R_L will decrease by a factor of 9"
+          ],
+          "image_present": true,
+          "year": 2009,
+          "images": ["arihant_images_ch13/arihant_ch13_50.png"]
+        },
+        {
+          "id": 100,
+          "question_number": 7,
+          "type": "multiple_select",
+          "question_text": "For the resistance network shown in the figure, choose the correct option(s).",
+          "options": [
+            "The current through PQ is zero",
+            "I₁ = 3 A",
+            "The potential at S is less than that at Q",
+            "I₂ = 2 A"
+          ],
+          "image_present": true,
+          "year": 2012,
+          "images": ["arihant_images_ch13/arihant_ch13_51.png"]
+        },
+        {
+          "id": 101,
+          "question_number": 8,
+          "type": "multiple_select",
+          "question_text": "In the circuit shown below, the key is pressed at time t = 0. Which of the following statement(s) is (are) true? (Note: Voltmeter is ideal)",
+          "options": [
+            "The voltmeter display -5 V as soon as the key is pressed and displays +5 V after a long time",
+            "The voltmeter will display 0 V at time t = ln(2) seconds",
+            "The current in the ammeter becomes 1/e of the initial value after 1 second",
+            "The current in the ammeter becomes zero after a long time"
+          ],
+          "image_present": true,
+          "year": 2016,
+          "images": ["arihant_images_ch13/arihant_ch13_52.png"]
+        }
+      ]
+    },
+    {
+      "type_name": "Passage Based Questions",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 102,
+          "type": "passage",
+          "passage_title": "Passage",
+          "passage_text": "Consider a simple RC circuit as shown in Figure 1.\nProcess 1: In the circuit, the switch S is closed at t = 0 and the capacitor is fully charged to voltage V₀ (i.e. charging continues for time T >> RC). In the process, some dissipation (E_D) occurs across the resistance R. The amount of energy finally stored in the fully charged capacitor is E_C.\nProcess 2: In a different process the voltage is first set to V₀/3 and maintained for a charging time T >> RC. Then, the voltage is raised to 2V₀/3 without discharging the capacitor and again maintained for a time T >> RC. The process is repeated one more time by raising the voltage to V₀ and the capacitor is charged to the same final voltage V₀ as in process 1.\nThese two processes are depicted in Figure 2.",
+          "image_present": true,
+          "images": ["arihant_images_ch13/arihant_ch13_53.png"],
+          "associated_questions": [
+            {
+              "id": 103,
+              "question_number": 9,
+              "type": "multiple_choice",
+              "question_text": "In process 1, the energy stored in the capacitor E_C and heat dissipated across resistance E_D are related by",
+              "options": [
+                "E_C = E_D ln(2)",
+                "E_C = E_D",
+                "E_C = 2E_D",
+                "E_C = 1/2 E_D"
+              ],
+              "year": 2017
+            },
+            {
+              "id": 104,
+              "question_number": 10,
+              "type": "multiple_choice",
+              "question_text": "In process 2, total energy dissipated across the resistance E_D is",
+              "options": [
+                "E_D = 1/3 (1/2 CV₀²)",
+                "E_D = 3 (1/2 CV₀²)",
+                "E_D = 3CV₀²",
+                "E_D = 1/2 CV₀²"
+              ],
+              "year": 2017
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_name": "Integer Answer Type",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 105,
+          "question_number": 11,
+          "type": "integer_answer",
+          "question_text": "Two batteries of different emfs and different internal resistances are connected as shown. The voltage across AB in volt is",
+          "image_present": true,
+          "year": 2011,
+          "images": ["arihant_images_ch13/arihant_ch13_54.png"]
+        },
+        {
+          "id": 106,
+          "question_number": 12,
+          "type": "integer_answer",
+          "question_text": "A galvanometer gives full scale deflection with 0.006 A current. By connecting it to a 4990 Ω resistance, it can be converted into a voltmeter of range 0-30 V. If connected to a (2n/249) Ω resistance, it becomes an ammeter of range 0-1.5 A. The value of n is",
+          "year": 2014
+        },
+        {
+          "id": 107,
+          "question_number": 13,
+          "type": "integer_answer",
+          "question_text": "A moving coil galvanometer has 50 turns and each turn has an area 2×10⁻⁴ m². The magnetic field produced by the magnet inside the galvanometer is 0.02 T. The torsional constant of the suspension wire is 10⁻⁴ N-m rad⁻¹. When a current flows through the galvanometer, a full scale deflection occurs, if the coil rotates by 0.2 rad. The resistance of the coil of the galvanometer is 50 Ω. This galvanometer is to be converted into an ammeter capable of measuring current in the range 0 – 1.0 A. For this purpose, a shunt resistance is to be added in parallel to the galvanometer. The value of this shunt resistance in ohms, is",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "type_name": "Analytical & Descriptive Questions",
+      "section": "SECTION-2",
+      "questions": [
+        {
+          "id": 108,
+          "question_number": 14,
+          "type": "descriptive",
+          "question_text": "A heater is designed to operate with a power of 1000 W in a 100 V line. It is connected in combination with a resistance of 10 Ω and a resistance R, to a 100 V mains as shown in the figure. What will be the value of R so that the heater operates with a power of 62.5 W?",
+          "image_present": true,
+          "year": 1978,
+          "images": ["arihant_images_ch13/arihant_ch13_55.png"]
+        },
+        {
+          "id": 109,
+          "question_number": 15,
+          "type": "descriptive",
+          "question_text": "A copper wire having cross-sectional area of 0.5 mm² and a length of 0.1 m is initially at 25°C and is thermally insulated from the surrounding. If a current of 1.0 A is set up in this wire, (a) find the time in which the wire will start melting. The change of resistance with the temperature of the wire may be neglected. (b) What will this time be, if the length of the wire is doubled? (Melting point of copper = 1075°C, Specific resistance of copper = 1.6×10⁻⁸ Ωm, Density of copper = 9×10³ kg/m³, Specific heat of copper = 9×10⁻² cal/kg°C)",
+          "year": 1979
+        },
+        {
+          "id": 110,
+          "question_number": 16,
+          "type": "descriptive",
+          "question_text": "In the circuit shown in figure E₁ = 3V, E₂ = 2V, E₃ = 1V and R = r₁ = r₂ = r₃ = 1Ω.\n(a) Find the potential difference between the points A and B and the currents through each branch.\n(b) If r₂ is short-circuited and the point A is connected to point B, find the currents through E₁, E₂, E₃ and the resistor R.",
+          "image_present": true,
+          "year": 1981,
+          "images": ["arihant_images_ch13/arihant_ch13_56.png"]
+        },
+        {
+          "id": 111,
+          "question_number": 17,
+          "type": "descriptive",
+          "question_text": "Two resistors, 400 Ω and 800 Ω are connected in series with a 6 V battery. It is desired to measure the current in the circuit. An ammeter of 10 Ω resistance is used for this purpose. What will be the reading in the ammeter? Similarly, if a voltmeter of 1000 Ω resistance is used to measure the potential difference across the 400 Ω resistor, what will be the reading in the voltmeter?",
+          "year": 1982
+        },
+        {
+          "id": 112,
+          "question_number": 18,
+          "type": "descriptive",
+          "question_text": "In the circuit shown in figure E, F, G and H are cells of emf 2, 1, 3 and 1 V respectively, and their internal resistances are 2, 1, 3 and 1 Ω respectively. Calculate\n(a) the potential difference between B and D and\n(b) the potential difference across the terminals of each cells G and H.",
+          "image_present": true,
+          "year": 1984,
+          "images": ["arihant_images_ch13/arihant_ch13_57.png"]
+        },
+        {
+          "id": 113,
+          "question_number": 19,
+          "type": "descriptive",
+          "question_text": "An electrical circuit is shown in figure. Calculate the potential difference across the resistor of 400 Ω as will be measured by the voltmeter V of resistance 400 Ω either by applying Kirchhoff's rules or otherwise.",
+          "image_present": true,
+          "year": 1996,
+          "images": ["arihant_images_ch13/arihant_ch13_58.png"]
+        },
+        {
+          "id": 114,
+          "question_number": 20,
+          "type": "descriptive",
+          "question_text": "Find the emf (V) and internal resistance (r) of a single battery which is equivalent to a parallel combination of two batteries of emfs V₁ and V₂ and internal resistances r₁ and r₂ respectively, with polarities as shown in figure.",
+          "image_present": true,
+          "year": 1997,
+          "images": ["arihant_images_ch13/arihant_ch13_59.png"]
+        },
+        {
+          "id": 115,
+          "question_number": 21,
+          "type": "descriptive",
+          "question_text": "A thin uniform wire AB of length 1 m, an unknown resistance X and a resistance of 12 Ω are connected by thick conducting strips, as shown in the figure. A battery and galvanometer (with a sliding jockey connected to it are also available). Connections are to be made to measure the unknown resistance X using the principle of Wheatstone bridge. Answer the following questions.\n(a) Are there positive and negative terminals on the galvanometer?\n(b) Copy the figure in your answer book and show the battery and the galvanometer (with jockey) connected at appropriate points.\n(c) After appropriate connections are made, it is found that no deflection takes place in the galvanometer when the sliding jockey touches the wire at a distance of 60 cm from A. Obtain the value of the resistance X.",
+          "image_present": true,
+          "year": 2002,
+          "images": ["arihant_images_ch13/arihant_ch13_60.png"]
+        },
+        {
+          "id": 116,
+          "question_number": 22,
+          "type": "descriptive",
+          "question_text": "Draw the circuit for experimental verification of Ohm's law using a source of variable DC voltage, a main resistance of 100 Ω, two galvanometers and two resistances of values 10⁶ Ω and 10⁻³ Ω respectively. Clearly show the positions of the voltmeter and the ammeter.",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Single Correct)",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 117,
+          "question_number": 1,
+          "type": "multiple_choice",
+          "question_text": "A meter bridge is set-up as shown in figure, to determine an unknown resistance X using a standard 10 Ω resistor. The galvanometer shows null point when tapping-key is at 52 cm mark. The end-corrections are 1 cm and 2 cm respectively for the ends A and B. The determined value of X is",
+          "options": [
+            "10.2 Ω",
+            "10.6 Ω",
+            "10.8 Ω",
+            "11.1 Ω"
+          ],
+          "image_present": true,
+          "year": 2011,
+          "images": ["arihant_images_ch13/arihant_ch13_61.png"]
+        },
+        {
+          "id": 118,
+          "question_number": 2,
+          "type": "multiple_choice",
+          "question_text": "A current of 5 A passes through a copper conductor (resistivity = 1.7×10⁻⁸ Ω-m) of radius of cross-section 5 mm. Find the mobility of the charges, if their drift velocity is 1.1 x 10⁻³ m/s.",
+          "options": [
+            "1.5 m²/V-s",
+            "1.3 m²/V-s",
+            "1.0 m²/V-s",
+            "1.8 m²/V-s"
+          ],
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "type_name": "Multiple Choice (Multiple Correct)",
+      "section": "SECTION-3",
+      "questions": [
+        {
+          "id": 119,
+          "question_number": 3,
+          "type": "multiple_select",
+          "question_text": "An incandescent bulb has a thin filament of tungsten that is heated to high temperature by passing an electric current. The hot filament emits black-body radiation. The filament is observed to break up at random locations after a sufficiently long time of operation due to non-uniform evaporation of tungsten from the filament. If the bulb is powered at constant voltage, which of the following statement(s) is (are) true?",
+          "options": [
+            "The temperature distribution over the filament is uniform.",
+            "The resistance over small sections of the filament decreases with time.",
+            "The filament emits more light at higher band of frequencies before it breaks up.",
+            "The filament consumes less electrical power towards the end of the life of the bulb."
+          ],
+          "year": 2016
+        },
+        {
+          "id": 120,
+          "question_number": 4,
+          "type": "multiple_select",
+          "question_text": "Consider two identical galvanometers and two identical resistors with resistance R. If the internal resistance of the galvanometers R_c < R/2, which of the following statement(s) about any one of the galvanometers is (are) true?",
+          "options": [
+            "The maximum voltage range is obtained when all the components are connected in series",
+            "The maximum voltage range is obtained when the two resistors and one galvanometer are connected in series, and the second galvanometer is connected in parallel to the first galvanometer",
+            "The maximum current range is obtained when all the components are connected in parallel",
+            "The maximum current range is obtained when the two galvanometers are connected in series, and the combination is connected in parallel with both the resistors"
+          ],
+          "year": 2016
+        }
+      ]
+    }
+  ]
+}

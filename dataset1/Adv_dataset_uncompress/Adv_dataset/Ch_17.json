@@ -1,0 +1,157 @@
+{
+  "section-1": [
+    {
+      "question_number": 36,
+      "question": "Two identical p-n junctions may be connected in series with a battery in three ways . The potential drops across the two p-n junctions are equal in",
+      "year": 1989,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) circuit-1 and circuit-2",
+        "(b) circuit-2 and circuit-3",
+        "(c) circuit-3 and circuit-1",
+        "(d) circuit-1 only"
+      ]
+    },
+    {
+      "question_number": 45,
+      "question": "The circuit shown in the figure contains two diodes each with a forward resistance of 50 Ω and with infinite backward resistance. If the battery voltage is 6 V, the current through the 100 Ω resistance (in ampere) is",
+      "year": 1997,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": []
+    },
+    {
+      "question_number": 55,
+      "question": "Binding energy per nucleon versus mass number curve for nuclei is shown in figure. W, X, Y and Z are four nuclei indicated on the curve. The process that would release energy is",
+      "year": 1999,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) Y → 2Z",
+        "(b) W → X + Z",
+        "(c) W → 2Y",
+        "(d) X → Y + Z"
+      ]
+    },
+    {
+      "question_number": 65,
+      "question": "The intensity of X-rays from a coolidge tube is plotted against wavelength λ as shown in the figure. The minimum wavelength found is λc and the wavelength of the Kα line is λk. As the accelerating voltage is increased",
+      "year": 2001,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) λk - λc increases",
+        "(b) λk - λc decreases",
+        "(c) λc increases",
+        "(d) λk decreases"
+      ]
+    },
+    {
+      "question_number": 74,
+      "question": "The figure shows the variation of photocurrent with anode potential for a photosensitive surface for three different radiations. Let Iₐ, Iᵦ and I𝒸 be the intensities and fₐ, fᵦ and f𝒸 be the frequencies for the curves a, b and c respectively. Then :",
+      "year": 2004,
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) fₐ = fᵦ and Iₐ < Iᵦ",
+        "(b) fₐ = f𝒸 and Iₐ = I𝒸",
+        "(c) fₐ = fᵦ and Iₐ = Iᵦ",
+        "(d) fᵦ = f𝒸 and Iᵦ = I𝒸"
+      ]
+    },
+    {
+      "question_number": 106,
+      "question": "Some energy levels of a molecule are shown in the figure. The ratio of the wavelengths r = λ₁ / λ₂ is given by",
+      "year": "2017 Main",
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) r = 2/3",
+        "(b) r = 3/4",
+        "(c) r = 1/3",
+        "(d) r = 4/3"
+      ]
+    },
+    {
+      "question_number": 113,
+      "question": "The reading of the ammeter for a silicon diode in the given circuit is",
+      "year": "2018 Main",
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 13.5 mA",
+        "(b) 0",
+        "(c) 15 mA",
+        "(d) 11.5 mA"
+      ]
+    },
+    {
+      "question_number": 124,
+      "question": "The stopping potential V₀ (in volt) as a function of frequency (v) for a sodium emitter, is shown in the figure. The work function of sodium, from the data plotted in the figure, will be (Take, Planck's constant (h) = 6.63 × 10⁻³⁴ J-s, electron charge, e = 1.6 × 10⁻¹⁹ C]",
+      "year": "2019 Main",
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1.82 eV",
+        "(b) 1.66 eV",
+        "(c) 1.95 eV",
+        "(d) 2.12 eV"
+      ]
+    },
+    {
+      "question_number": 144,
+      "question": "Figure shows a DC voltage regulator circuit, with a Zener diode of breakdown voltage = 6 V. If the unregulated input voltage varies between 10 V to 16 V, then what is the maximum Zener current?",
+      "year": "2019 Main",
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 2.5 mA",
+        "(b) 1.5 mA",
+        "(c) 7.5 mA",
+        "(d) 3.5 mA"
+      ]
+    },
+    {
+      "question_number": 145,
+      "question": "The transfer characteristic curve of a transistor, having input and output resistance 100 Ω and 100 kΩ respectively, is shown in the figure. The voltage and power gain, are respectively,",
+      "year": "2019 Main",
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 2.5 × 10⁴, 2.5 × 10⁶",
+        "(b) 5 × 10⁴, 5 × 10⁶",
+        "(c) 5 × 10⁴, 5 × 10⁵",
+        "(d) 5 × 10⁴, 2.5 × 10⁶"
+      ]
+    },
+    {
+      "question_number": 146,
+      "question": "The truth table for the circuit given in the figure is",
+      "year": "2019 Main",
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) \n A | B | Y\n--|---|--\n0 | 0 | 1\n0 | 1 | 1\n1 | 0 | 1\n1 | 1 | 1",
+        "(b) \n A | B | Y\n--|---|--\n0 | 0 | 1\n0 | 1 | 0\n1 | 0 | 0\n1 | 1 | 0",
+        "(c) \n A | B | Y\n--|---|--\n0 | 0 | 1\n0 | 1 | 1\n1 | 0 | 0\n1 | 1 | 0",
+        "(d) \n A | B | Y\n--|---|--\n0 | 0 | 0\n0 | 1 | 0\n1 | 0 | 1\n1 | 1 | 1"
+      ]
+    },
+    {
+      "question_number": 147,
+      "question": "The figure represents a voltage regulator circuit using a Zener diode. The breakdown voltage of the Zener diode is 6 V and the load resistance is $R_L = 4 k\\Omega$. The series resistance of the circuit is $R_i = 1 k\\Omega$. If the battery voltage $V_B$ varies from 8V to 16V, what are the minimum and maximum values of the current through Zener diode?",
+      "year": "2019 Main",
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) 1.5 mA, 8.5 mA",
+        "(b) 1 mA, 8.5 mA",
+        "(c) 0.5 mA, 8.5 mA",
+        "(d) 0.5 mA, 6 mA"
+      ]
+    },
+    {
+      "question_number": 149,
+      "question": "The logic gate equivalent to the given logic circuit is",
+      "year": "2019 Main",
+      "question_type": "Objective Questions I (Only one correct option)",
+      "options": [
+        "(a) NOR",
+        "(b) NAND",
+        "(c) OR",
+        "(d) AND"
+      ]
+    }
+    
+    
+  ]
+}

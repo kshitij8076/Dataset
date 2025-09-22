@@ -1,0 +1,472 @@
+[
+  {
+    "question_number": 3.1,
+    "Questions": "Find the weight on Earth of a body whose mass is (a) 3.00 kg, (b) 200 g.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_10.png"],
+    "solution": "(a) W = mg = 3.00 × 9.81 = 29.4 N; (b) W = 0.200 × 9.81 = 1.96 N."
+  },
+  {
+    "question_number": 3.2,
+    "Questions": "A 20.0 kg object that can move freely is subjected to a resultant force of 45.0 N in the –x-direction. Find the acceleration of the object.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "a = F/m = -45.0 / 20.0 = -2.25 m/s². The negative sign indicates acceleration is in the –x-direction."
+  },
+  {
+    "question_number": 3.3,
+    "Questions": "The object in Fig. 3-1(a) weighs 50 N and is supported by a cord. Find the tension in the cord.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "In equilibrium, net force is zero: T - W = 0 ⇒ T = 50 N. So, tension in the cord equals the weight."
+  },
+  {
+    "question_number": 3.4,
+    "Questions": "A 5.0 kg object is to be given an upward acceleration of 0.30 m/s² by a rope pulling straight upward on it. What must be the tension in the rope?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_11.png"],
+    "solution": "W = 5.0 × 9.81 = 49.1 N; T - W = ma ⇒ T = 49.1 + (5.0 × 0.30) = 51 N."
+  },
+  {
+    "question_number": 3.5,
+    "Questions": "A horizontal force of 140 N is needed to pull a 60.0 kg box across the horizontal floor at constant speed. What is the coefficient of friction between floor and box?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_12.png"],
+    "solution": "Normal force = W = 60.0 × 9.81 = 588.6 N; μ = F_friction / F_N = 140 / 588.6 = 0.238."
+  },
+  {
+    "question_number": 3.6,
+    "Questions": "The only force acting on a 5.0 kg object has components Fx = 20 N and Fy = 30 N. Find the acceleration of the object.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_13.png"],
+    "solution": "aₓ = 20 / 5 = 4.0 m/s²; a_y = 30 / 5 = 6.0 m/s²; resultant a = √(4² + 6²) = 7.2 m/s² at angle θ = arctan(6/4) = 56°."
+  },
+  {
+    "question_number": 3.7,
+    "Questions": "A 600 N object is to be given an acceleration of 0.70 m/s². How large an unbalanced force must act upon it?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Mass = W/g = 600 / 9.81 = 61 kg; F = ma = 61 × 0.70 = 43 N."
+  },
+  {
+    "question_number": 3.8,
+    "Questions": "A constant force acts on a 5.0 kg object and reduces its velocity from 7.0 m/s to 3.0 m/s in a time of 3.0 s. Find the force.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "a = (3.0 - 7.0)/3.0 = -1.33 m/s²; F = 5.0 × -1.33 = -6.7 N (retarding force)."
+  },
+  {
+    "question_number": 3.9,
+    "Questions": "A 400-g block with an initial speed of 80 cm/s slides along a horizontal tabletop against a friction force of 0.70 N. (a) How far will it slide before stopping? (b) What is the coefficient of friction between the block and the tabletop?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) a = F/m = 0.70/0.400 = -1.75 m/s²; x = v²/2a = (0.80)² / (2 × 1.75) = 0.18 m. (b) μ = F_friction / N = 0.70 / (0.40 × 9.81) = 0.18."
+  },
+  {
+    "question_number": 3.10,
+    "Questions": "A 600-kg car is moving on a level road at 30 m/s. (a) How large a retarding force is required to stop it in 70 m? (b) What is the minimum coefficient of friction between tires and roadway if this is to be possible?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "(a) a = -v²/2x = -900/140 = -6.43 m/s² ⇒ F = ma = 600 × -6.43 = -3860 N. (b) μ = F/N = 3860 / (600×9.81) = 0.66."
+  },
+  {
+    "question_number": 3.11,
+    "Questions": "An 8000-kg engine pulls a 40,000-kg train along a level track and gives it an acceleration a₁ = 1.20 m/s². What acceleration (a₂) would the engine give to a 16,000-kg train?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "a₂ = m₁/(m₂ + m₁) × a₁ = (8000 / (16000 + 8000)) × 1.20 = 2.40 m/s²."
+  },
+  {
+    "question_number": 3.12,
+    "Questions": "As shown in Fig. 3-5(a), an object of mass m is supported by a cord. Find the tension in the cord if the object is (a) at rest, (b) moving at constant velocity, (c) accelerating upward with a = 3g/2, and (d) accelerating downward at a = 0.75g.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_14.png"],
+    "solution": "(a) T = mg; (b) T = mg; (c) T = m(g + 3g/2) = 2.5mg; (d) T = m(g - 0.75g) = 0.25mg."
+  },
+  {
+    "question_number": 3.13,
+    "Questions": "As shown in Fig. 3-6, a 70-kg box is pushed with a force of 400 N, and experiences a kinetic friction force of 344 N. What is the box's acceleration?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_15.png"],
+    "solution": "Net force = 400 - 344 = 56 N; a = F/m = 56 / 70 = 0.80 m/s²."
+  },
+  {
+    "question_number": 3.14,
+    "Questions": "In Fig. 3-7, a 70-kg box is pushed by a 400-N force. The kinetic coefficient of friction is 0.50. Find the acceleration of the box.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Normal force = 70×9.81 = 687 N; F_friction = 0.5×687 = 344 N; Net force = 400 - 344 = 56 N; a = 56 / 70 = 0.80 m/s²."
+  },
+  {
+    "question_number": 3.15,
+    "Questions": "Suppose, as shown in Fig. 3-8, that a 70-kg box is pulled by a 400-N force at an angle of 30° to the horizontal. The coefficient of kinetic friction is 0.50. Find the acceleration of the box.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_16.png"],
+    "solution": "Normal force = mg - vertical component = 687 - 200 = 487 N ⇒ F_friction = 0.5×487 = 243 N; horizontal pull = 346 N; Net = 346 - 243 = 103 N ⇒ a = 103 / 70 = 1.5 m/s²."
+  },
+  
+  {
+    "question_number": 3.16,
+    "Questions": "Suppose, as shown in Fig. 3-8, that a 70-kg box is pulled by a 400-N force at an angle of 30° to the horizontal. The coefficient of kinetic friction is 0.50. Find the acceleration of the box.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_17.png"],
+    "solution": "Vertical force balance: F_N + 200 = mg = 687 N ⇒ F_N = 487 N. Friction force: F_f = μF_N = 0.5×487 = 243 N. Horizontal force: 346 N. Net force: 346 - 243 = 103 N ⇒ a = 103 / 70 = 1.5 m/s²."
+  },
+  {
+    "question_number": 3.17,
+    "Questions": "A car moving at 20 m/s along a horizontal road has its brakes suddenly applied and eventually comes to rest. What is the shortest distance in which it can be stopped if the friction coefficient between tires and road is 0.90?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "a = -μg = -0.90×9.81 = -8.8 m/s². Use v² = 2ax ⇒ x = v² / (2|a|) = 400 / 17.6 = 23 m."
+  },
+  {
+    "question_number": 3.18,
+    "Questions": "As shown in Fig. 3-9, a force of 400 N pushes on a 25-kg box. Starting from rest, the box achieves a velocity of 2.0 m/s in a time of 4.0 s. Find the coefficient of kinetic friction between box and floor.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_18.png"],
+    "solution": "a = v / t = 2.0 / 4.0 = 0.50 m/s². Use F = ma = 25×0.50 = 12.5 N. Net force: 275 - F_f = 12.5 ⇒ F_f = 245 N. Normal force: F_N = 551 N ⇒ μ = F_f / F_N = 245 / 551 = 0.44."
+  },
+  {
+    "question_number": 3.19,
+    "Questions": "A 200-N wagon is to be pulled up a 30° incline at constant speed. How large a force parallel to the incline is needed if friction effects are negligible?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_19.png"],
+    "solution": "At constant speed, net force is zero. Along the incline: F - W·sin(30°) = 0 ⇒ F = 0.50 × 200 = 100 N or 0.10 kN."
+  },
+  {
+    "question_number": 3.20,
+    "Questions": "A 20-kg box sits on an incline as shown in Fig. 3-11. The coefficient of kinetic friction between box and incline is 0.30. Find the acceleration of the box down the incline.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_20.png"],
+    "solution": "F_N = 0.87mg = 171 N; F_friction = 0.3 × 171 = 51 N. Down the incline: F_friction - 0.5mg = ma ⇒ 51 - 0.5×20×9.81 = 20a ⇒ a = -2.35 m/s² ≈ 2.4 m/s² downward."
+  },
+  {
+    "question_number": 3.21,
+    "Questions": "When a force of 500 N pushes on a 25-kg box as shown in Fig. 3-12, the acceleration of the box up the incline is 0.75 m/s². Find the coefficient of kinetic friction between box and incline.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_21.png"],
+    "solution": "F_x = 383 N, opposing forces include friction and weight component: 383 - F_f - (0.64)(25)(9.81) = 25×0.75 ⇒ F_f = 207 N. F_N = 321 + 0.77×25×9.81 = 510 N ⇒ μ_k = F_f / F_N = 207 / 510 = 0.41."
+  },
+  {
+    "question_number": 3.22,
+    "Questions": "Two blocks, of masses m₁ and m₂, are pushed by a force F as shown in Fig. 3-13. The coefficient of friction between each block and the table is 0.40. (a) What must be the value of F if the blocks are to have an acceleration of 200 cm/s²? (b) How large a force does m₁ then exert on m₂?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_22.png"],
+    "solution": "(a) F = 0.40g(m₁ + m₂) + (m₁ + m₂)aₓ = 3.14 + 1.60 = 4.7 N. (b) F_b = F_f2 + m₂a = 1.96 + 1.00 = 2.96 ≈ 3.0 N."
+  },
+  {
+    "question_number": 3.23,
+    "Questions": "A cord passes over an easily turned pulley with a 7.0-kg mass on one side and a 9.0-kg mass on the other. Find the acceleration of the masses and the tension in the cord.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_23.png"],
+    "solution": "Using Atwood's machine setup: a = (m₂ - m₁)g / (m₁ + m₂) = (2.0×9.81)/16 = 1.23 m/s²; Tension F_T = m₁(g + a) = 77 N."
+  },
+  {
+    "question_number": 3.24,
+    "Questions": "In Fig. 3-15, the coefficient of kinetic friction between block A and the table is 0.20. Also, mₐ = 25 kg, m_b = 15 kg. How far will block B drop in the first 3.0 s after the system is released?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_24.png"],
+    "solution": "Friction F_f = 0.20 × 245 = 49 N. Solving combined equations: a = 2.45 m/s². Then y = 0.5 × 2.45 × 3² = 11 m."
+  },
+  {
+    "question_number": 3.25,
+    "Questions": "How large a horizontal force in addition to F_T must pull on block A in Fig. 3-15 to give it an acceleration of 0.75 m/s² toward the left?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "Solving equations: F = 226 N or 0.23 kN. Retarding friction force must also be reversed."
+  },
+  {
+    "question_number": 3.26,
+    "Questions": "The coefficient of static friction between a box and the flatbed of a truck is 0.60. What is the maximum acceleration the truck can have along level ground if the box is not to slide?",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "a_s = μ_s × g = 0.60 × 9.81 = 5.9 m/s²."
+  },
+  {
+    "question_number": 3.27,
+    "Questions": "In Fig. 3-16, the two boxes have identical masses of 40 kg. Both experience a sliding friction force with μ_k = 0.15. Find the acceleration of the boxes and the tension in the tie cord.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_25.png"],
+    "solution": "F_fA = 0.15×mg = 59 N, F_fB = 0.15×0.87mg = 51 N. Solving system: a = 1.1 m/s²; Tension F_T = 0.10 kN."
+  },
+  {
+    "question_number": 3.28,
+    "Questions": "In the system shown in Fig. 3-17(a), force F accelerates block m₁ to the right. Find its acceleration in terms of F and the coefficient of friction μ_k at the contact surfaces.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_26.png"],
+    "solution": "Net acceleration a = [F - 2μ_km₂g - μ_k(m₁ + m₂)g] / (m₁ + m₂)."
+  },
+  {
+    "question_number": 3.29,
+    "Questions": "In the system of Fig. 3-18, friction and the mass of the pulley are both negligible. Find the acceleration of m₂ if m₁ = 300 g, m₂ = 500 g, and F = 1.50 N.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_27.png"],
+    "solution": "Using system dynamics: a = F / (4m₁ + m₂) = 1.50 / (1.20 + 0.50) = 0.882 m/s²."
+  },
+  {
+    "question_number": 3.30,
+    "Questions": "In Fig. 3-19, the weights of the objects are 200 N and 300 N. The pulleys are frictionless and massless. Pulley P₁ has a stationary axle, but pulley P₂ is free to move up and down. Find the tensions F_T1 and F_T2 and the acceleration of each body.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "images":["images/arihant_ch16_28.png"],
+    "solution": "m_A = 200/9.81, m_B = 300/9.81. Using a_A = a, a_B = a/2. Solve the system: F_T1 = 327 N, F_T2 = 164 N, a = 1.78 m/s²."
+  },
+  {
+    "question_number": 3.31,
+    "Questions": "Compute the mass of the Earth, assuming it to be a sphere of radius 6370 km. Give your answer to three significant figures.",
+    "year": null,
+    "question_type": "Solved Problem",
+    "solution": "M = (gR²)/G = (9.81×(6.37×10⁶)²) / (6.67×10⁻¹¹) = 5.97 × 10²⁴ kg."
+  },
+  {
+    "question_number": 3.32,
+    "Questions": "A rocket motor on a spacecraft exerts a constant force of 10 N for 7.80 s. The rocket causes the 100-kg craft to accelerate uniformly. Determine the net acceleration.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "a = F/m = 10/100 = 0.10 m/s²."
+  },
+  {
+    "question_number": 3.33,
+    "Questions": "A bullet leaves a standard 45-caliber pistol at a speed of 262 m/s. It takes 1 ms to traverse the barrel. Determine the average acceleration and average force on a 16.2-g bullet.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "a = v/t = 262/(1×10⁻³) = 2.62×10⁵ m/s²; F = ma = 0.0162×2.62×10⁵ = 4.24×10³ N ≈ 4.0×10³ N."
+  },
+  {
+    "question_number": 3.34,
+    "Questions": "A force acts on a 2-kg mass and gives it an acceleration of 3 m/s². What acceleration is produced by the same force on (a) 1 kg? (b) 4 kg? (c) How large is the force?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "F = ma = 2×3 = 6 N; (a) a = 6/1 = 6 m/s²; (b) a = 6/4 = 1.5 m/s²."
+  },
+  {
+    "question_number": 3.35,
+    "Questions": "An object has a mass of 300 g. (a) What is its weight on Earth? (b) What is its mass on the Moon? (c) What will be its acceleration on the Moon when a 0.500 N resultant force acts on it?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) W = 0.3×9.81 = 2.94 N; (b) Mass remains 0.3 kg; (c) a = F/m = 0.5 / 0.3 = 1.67 m/s²."
+  },
+  {
+    "question_number": 3.36,
+    "Questions": "A horizontal cable pulls a 200-kg cart. Tension is 500 N. (a) How long to reach 8.0 m/s? (b) How far will it have gone?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "a = F/m = 500/200 = 2.5 m/s²; (a) t = v/a = 8/2.5 = 3.2 s; (b) x = 0.5×2.5×3.2² = 13 m."
+  },
+  {
+    "question_number": 3.37,
+    "Questions": "A 900-kg car is going 20 m/s. Find the constant retarding force to stop it in a distance of 30 m.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Use v² = 2a×x ⇒ a = -v²/(2x) = -400/60 = -6.67 m/s²; F = ma = 900×6.67 = 6.0 kN."
+  },
+  {
+    "question_number": 3.38,
+    "Questions": "A 12.0-g bullet is accelerated from rest to 700 m/s in 20.0 cm. Find the accelerating force.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "a = v²/2x = 700² / (2×0.2) = 1.225×10⁶ m/s²; F = ma = 0.012×1.225×10⁶ = 14.7 kN."
+  },
+  {
+    "question_number": 3.39,
+    "Questions": "A 20-kg crate hangs on a long rope. Find its acceleration and direction when tension is (a) 250 N (b) 150 N (c) zero (d) 196 N.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) a = (T - mg)/m = (250 - 196)/20 = 2.7 m/s² up; (b) (150 - 196)/20 = -2.3 m/s² down; (c) -9.8 m/s² down; (d) a = 0."
+  },
+  {
+    "question_number": 3.40,
+    "Questions": "A 5.0-kg mass hangs from a cord. Find the tension if it accelerates (a) 1.5 m/s² up, (b) 1.5 m/s² down, (c) 9.8 m/s² down.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) T = 5(9.81 + 1.5) = 57 N; (b) T = 5(9.81 - 1.5) = 42 N; (c) T = 0 N."
+  },
+  {
+    "question_number": 3.41,
+    "Questions": "A 700-N man on a scale in an elevator. Scale reads the normal force. What does it read if elevator is accelerating at (a) 1.8 m/s² up (b) 1.8 m/s² down (c) 9.8 m/s² down?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "m = 700/9.81 ≈ 71.4 kg; (a) N = m(g+a) = 83 N; (b) N = m(g-a) = 57 kN; (c) N = 0."
+  },
+  {
+    "question_number": 3.42,
+    "Questions": "Using scale in 3.41, what does the scale read for 65.0-kg astronaut on Moon (g = 1.60 m/s²)?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "W = mg = 65.0×1.60 = 104 N."
+  },
+  {
+    "question_number": 3.43,
+    "Questions": "Massless pulley connects 4.0-kg and 12-kg objects. Find acceleration and tension.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "a = (12 - 4)g / (12 + 4) = 4.9 m/s²; T = m(g - a) = 4(9.81 - 4.9) = 59 N."
+  },
+  {
+    "question_number": 3.44,
+    "Questions": "Elevator starts with upward acceleration. It moves 2.0 m in first 0.60 s. A package is hung by a string. Find tension in string.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "a = 2x/t² = 2×2.0/0.36 = 11.1 m/s²; T = m(g + a) = 3.0×(9.81 + 1.2) = 63 N."
+  },
+  {
+    "question_number": 3.45,
+    "Questions": "A parachutist slows from 60 m/s to 40 m/s in 0.80 s. Find average retarding force if mass is 80 kg.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "a = Δv/t = -20 / 0.8 = -25 m/s²; F = ma = 80×(-25) = -2000 N; total force = 80×9.81 + 2000 = 3438 ≈ 3.4 kN."
+  },
+  
+  {
+    "question_number": 3.46,
+    "Questions": "A 300-g mass hangs at the end of a string. A second string hangs from the bottom of that mass and supports a 900-g mass. (a) Find the tension in each string when the masses are accelerating upward at 0.700 m/s². (b) Find the tension in each string when the acceleration is 0.700 m/s² downward.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) T₁ = 12.6 N, T₂ = 9.45 N; (b) T₁ = 10.9 N, T₂ = 8.19 N"
+  },
+  {
+    "question_number": 3.47,
+    "Questions": "A 20-kg wagon is pulled along the level ground by a rope inclined at 30° above the horizontal. A friction force of 30 N opposes the motion. How large is the pulling force if the wagon is moving with (a) constant speed and (b) an acceleration of 0.40 m/s²?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 35 N; (b) 44 N"
+  },
+  {
+    "question_number": 3.48,
+    "Questions": "A 12-kg box is released from the top of an incline that is 5.0 m long and makes an angle of 40° to the horizontal. A 60-N friction force impedes the motion of the box. (a) What will be the acceleration of the box and (b) how long will it take to reach the bottom of the incline?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 1.3 m/s²; (b) 2.8 s"
+  },
+  {
+    "question_number": 3.49,
+    "Questions": "For the situation outlined in Problem 3.48, what is the coefficient of friction between box and incline?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "0.67"
+  },
+  {
+    "question_number": 3.50,
+    "Questions": "An inclined plane makes an angle of 30° with the horizontal. Find the constant force, applied parallel to the plane, required to cause a 15-kg box to slide (a) up the plane with acceleration 1.2 m/s² and (b) down the incline with acceleration 1.2 m/s². Neglect friction forces.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 92 N; (b) 56 N"
+  },
+  {
+    "question_number": 3.51,
+    "Questions": "A horizontal force F is exerted on a 20-kg box to slide it up a 30° incline. The friction force retarding the motion is 80 N. How large must F be if the acceleration of the moving box is to be (a) zero and (b) 0.75 m/s²?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 0.21 kN; (b) 0.22 kN"
+  },
+  {
+    "question_number": 3.52,
+    "Questions": "An inclined plane making an angle of 25° with the horizontal has a pulley at its top. A 30-kg block on the plane is connected to a freely hanging 20-kg block by means of a cord passing over the pulley. Compute the distance the 20-kg block will fall in 2.0 s starting from rest. Neglect friction.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "2.9 m"
+  },
+  {
+    "question_number": 3.53,
+    "Questions": "Repeat Problem 3.52 if the coefficient of friction between block and plane is 0.20.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "0.74 m"
+  },
+  {
+    "question_number": 3.54,
+    "Questions": "A horizontal force of 200 N is required to cause a 15-kg block to slide up a 20° incline with an acceleration of 25 cm/s². Find (a) the friction force on the block and (b) the coefficient of friction.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 0.13 kN; (b) 0.65"
+  },
+  {
+    "question_number": 3.55,
+    "Questions": "Find the acceleration of the blocks in Fig. 3-20 if friction forces are negligible. What is the tension in the cord connecting them?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "images":["images/arihant_ch16_29.png"],
+    "solution": "3.3 m/s², 13 N"
+  },
+  {
+    "question_number": 3.56,
+    "Questions": "Repeat Problem 3.55 if the coefficient of kinetic friction between the blocks and the table is 0.30.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "0.39 m/s², 13 N"
+  },
+  {
+    "question_number": 3.57,
+    "Questions": "How large a force F is needed in Fig. 3-21 to pull out the 6.0-kg block with an acceleration of 1.50 m/s² if the coefficient of friction at its surfaces is 0.40?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "images":["images/arihant_ch16_30.png"],
+    "solution": "48 N"
+  },
+  {
+    "question_number": 3.58,
+    "Questions": "In Fig. 3-22, how large a force F is needed to give the blocks an acceleration of 3.0 m/s² if the coefficient of kinetic friction between blocks and table is 0.20? How large a force does the 1.50-kg block then exert on the 2.0-kg block?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "images":["images/arihant_ch16_31.png"],
+    "solution": "F = 22 N, F₁ = 15 N"
+  },
+  {
+    "question_number": 3.59,
+    "Questions": "A 37° incline is considered. (a) What is the smallest force needed to prevent 100-N weight from sliding down? (b) What is the force to keep it moving at constant speed up? (c) What if the pushing force is 94 N? What will be the acceleration? (d) If started from rest, how far does it move in 10 s?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 36 N; (b) 84 N; (c) 0.98 m/s² up; (d) 49 m"
+  },
+  {
+    "question_number": 3.60,
+    "Questions": "A 5.0-kg block rests on a 30° incline. The coefficient of static friction is 0.20. How large a horizontal force must push on the block if the block is to be on the verge of sliding (a) up and (b) down the incline?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 43 N; (b) 16.6 N"
+  },
+  {
+    "question_number": 3.61,
+    "Questions": "Three blocks (6.0 kg, 9.0 kg, 10 kg) connected as shown in Fig. 3-23. Coefficient of friction between table and 10-kg block is 0.20. Find (a) the system acceleration and (b) tension in cords on left and right.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "images":["images/arihant_ch16_32.png"],
+    "solution": "(a) 0.39 m/s²; (b) 61 N and 85 N"
+  },
+  {
+    "question_number": 3.62,
+    "Questions": "An object of 20 kg is taken 160 km above Earth (radius 6370 km). (a) What is its mass at this height? (b) How much does it weigh at this height?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 20 kg; (b) 0.19 kN"
+  },
+  {
+    "question_number": 3.63,
+    "Questions": "If an object weighs 200 N on Earth, what would it weigh on Mars? What would be its acceleration due to gravity on Mars if Mars' mass is 0.11 that of Earth and radius is 3440 km?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 75 N; (b) 3.7 m/s²"
+  }
+
+
+
+
+]

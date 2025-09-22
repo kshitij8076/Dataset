@@ -1,0 +1,889 @@
+{
+    "section-1": [
+        
+        {
+            "question_number": 5,
+            "question": "In the formula X = 3Y2Z2, X and Z have dimensions of capacitance and magnetic induction, respectively. What are the dimensions of Y in MKSQ system?",
+            "year": 1995,
+            "question_type": "mcq",
+            "options": [
+                "[M^-3L^-1T^4Q^4]",
+                "[M^-2L^2T^4Q^4]",
+                "[M^-2L^2T^2Q^4]",
+                "[M^-2L^2T^4Q^2]"
+            ]
+        },
+        {
+            "question_number": 6,
+            "question": "The dimensions of 1/2 * epsilon * E^2 (epsilon = permittivity of free space; E = electric field) is ..........",
+            "year": 2000,
+            "question_type": "mcq",
+            "options": [
+                "[M L T^-1]",
+                "[M L^2 T^-2]",
+                "[M L^-2 T^-2]",
+                "[M L^-1 T^-1]"
+            ]
+        },
+        {
+            "question_number": 7,
+            "question": "A quantity X is given by epsilon_0 * L * deltaV / deltaT, where epsilon_0 is the permittivity of free space, L is length, deltaV is a potential difference and deltaT is a time interval. The dimensional formula for X is the same as that of ..........",
+            "year": 2001,
+            "question_type": "mcq",
+            "options": [
+                "resistance",
+                "charge",
+                "voltage",
+                "current"
+            ]
+        },
+        {
+            "question_number": 8,
+            "question": "A cube has a side of length 1.2 x 10^-7 m. Calculate its volume.",
+            "year": 2003,
+            "question_type": "numerical",
+            "options": [
+                "1.7 x 10^-16 m^3",
+                "1.73 x 10^-16 m^3",
+                "1.70 x 10^-16 m^3",
+                "1.732 x 10^-16 m^3"
+            ]
+        },
+        {
+            "question_number": 9,
+            "question": "A wire has a mass (0.3 + 0.003) g, radius (0.5 + 0.005) mm, and length (6 ± 0.06) cm. The maximum percentage error in the measurement of its density is ..........",
+            "year": 2004,
+            "question_type": "mcq",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "question_number": 10,
+            "question": "In the relation, p = alpha * beta / Z^2, p is pressure, Z is distance, k is Boltzmann’s constant and theta is the temperature. The dimensional formula of beta will be ..........",
+            "year": 2004,
+            "question_type": "mcq",
+            "options": [
+                "[M L^2 T^-1]",
+                "[M L^2 T^1]",
+                "[M L^2 T^-2]",
+                "[M L^2 T^2]"
+            ]
+        },
+        {
+            "question_number": 11,
+            "question": "Which of the following sets have different dimensions?",
+            "year": 2005,
+            "question_type": "mcq",
+            "options": [
+                "Pressure, Young’s modulus, Stress",
+                "Emf, Potential difference, Electric potential",
+                "Heat, Work done, Energy",
+                "Dipole moment, Electric flux, Electric field"
+            ]
+        },
+        {
+            "question_number": 12,
+            "question": "The circular scale of a screw gauge has 50 divisions and pitch of 0.5 mm. Find the diameter of the sphere. Main scale reading is 2.",
+            "year": 2006,
+            "question_type": "mcq",
+            "options": [
+                "1.2 mm",
+                "1.25 mm",
+                "2.0 mm",
+                "2.25 mm"
+            ],
+            "images": ["arihant_images_ch1/arihant_1.png"]
+
+        },
+        {
+            "question_number": 13,
+            "question": "A vernier calipers has 1 mm marks on the main scale. It has 20 equal divisions on the vernier scale which match with 16 main scale divisions. For this vernier calipers, the least count is ..........",
+            "year": 2010,
+            "question_type": "mcq",
+            "options": [
+                "0.02 mm",
+                "0.05 mm",
+                "0.1 mm",
+                "0.2 mm"
+            ]
+        },
+        {
+            "question_number": 14,
+            "question": "In the determination of Young’s modulus using Searle’s method, a wire of length L = 2 m and diameter d = 0.5 mm is used. For a load M = 2.5 kg, an extension l = 0.25 mm in the length of the wire is observed. Quantities d and l are measured using a screw gauge and a micrometer, respectively. They have the same pitch of 0.5 mm. The number of divisions on their circular scale is 100. The contributions to the maximum probable error of the Y measurement is ..........",
+            "year": 2012,
+            "question_type": "mcq",
+            "options": [
+                "due to the errors in the measurements of d and l are the same",
+                "due to the error in the measurement of d is twice that due to the error in the measurement of l",
+                "due to the error in the measurement of l is twice that due to the error in the measurement of d",
+                "due to the error in the measurement of d is four times that due to the error in the measurement of l"
+            ]
+        },
+        {
+            "question_number": 15,
+            "question": "Let {eq} denote the dimensional formula of the permittivity of vacuum. If M = mass, L = length, T = Time and A = electric current, then ..........",
+            "year": 2013,
+            "question_type": "mcq",
+            "options": [
+                "[M^-1L^-3T^2A]",
+                "[M^-1L^-3T^4A^2]",
+                "[M^-2L^2T^1A^-2]",
+                "[M^-1L^-2T^2A]"
+            ]
+        },
+        {
+            "question_number": 16,
+            "question": "A student measured the length of a rod and wrote it as 3.50 cm. Which instrument did he use to measure it?",
+            "year": 2014,
+            "question_type": "mcq",
+            "options": [
+                "A meter scale",
+                "A vernier caliper where the 10 divisions in vernier scale matches with 9 divisions in main scale and main scale has 10 divisions in 1 cm",
+                "A screw gauge having 100 divisions in the circular scale and pitch as 1 mm",
+                "A screw gauge having 50 divisions in the circular scale and pitch as 1 mm"
+            ]
+        },
+        {
+            "question_number": 17,
+            "question": "The period of oscillation of a simple pendulum is T = 2π√(L/g). Measured value of L is 2.0m known to 1 mm accuracy and time for 100 oscillations of the pendulum is found to be 90 s using a wrist watch of 1s resolution. The accuracy in the determination of g is ..........",
+            "year": 2015,
+            "question_type": "mcq",
+            "options": [
+                "3%",
+                "5%",
+                "4%",
+                "2%"
+            ]
+        },
+        {
+            "question_number": 18,
+            "question": "A screw gauge with a pitch of 0.5 mm and a circular scale with 50 divisions is used to measure the thickness of a thin sheet of aluminium. Before starting the measurement, it is found that when the two jaws of the screw gauge are brought in contact, the 45th division coincides with the main scale line and that the zero of the main scale is barely visible. What is the thickness of the sheet, if the main scale reading is 0.5 mm and the 25th division coincides with the main scale line?",
+            "year": 2016,
+            "question_type": "mcq",
+            "options": [
+                "0.75 mm",
+                "0.80 mm",
+                "0.70 mm",
+                "0.50 mm"
+            ]
+        },
+        {
+            "question_number": 19,
+            "question": "A person measures the depth of a well by measuring the time interval between dropping a stone and receiving the sound of impact with the bottom of the well. The error in his measurement of time is Δt = 0.1 s and he measures the depth of the well to be L = 20m. Take the acceleration due to gravity g = 10ms^-2 and the velocity of sound is 300 ms^-1.",
+            "year": 2020,
+            "question_type": "numerical"
+        },
+        {
+            "question_number": 20,
+            "question": "Then the percentage error in the measurement, ΔL/L, is closest to ..........",
+            "year": 2017,
+            "question_type": "mcq",
+            "options": [
+                "1%",
+                "5%",
+                "3%",
+                "0.2%"
+            ]
+        },
+        {
+            "question_number": 21,
+            "question": "The density of a material in the shape of a cube is determined by measuring three sides of the cube and its mass. If the relative errors in measuring the mass and length are respectively 1.5% and 1%, the maximum error in determining the density is ..........",
+            "year": 2018,
+            "question_type": "mcq",
+            "options": [
+                "6%",
+                "2.5%",
+                "3.5%",
+                "4.5%"
+            ]
+        },
+        {
+            "question_number": 22,
+            "question": "The pitch and the number of divisions, on the circular scale for a given screw gauge are 0.5 mm and 100, respectively. When the screw gauge is fully tightened without any object, the zero of its circular scale lies 3 divisions below the reference line. The readings of the main scale and the circular scale for a thin sheet are 5.5 mm and 48 respectively, the thickness of this sheet is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "5.950 mm",
+                "5.725 mm",
+                "5.755 mm",
+                "5.740 mm"
+            ]
+        },
+        {
+            "question_number": 23,
+            "question": "Which of the following combinations has the dimension of electrical resistance (e.g. the permittivity of vacuum and μ0 is the permeability of vacuum)?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "μ0 / ε0",
+                "ε0 / μ0",
+                "ε0 / μ0",
+                "μ0 / ε0"
+            ]
+        },
+        {
+            "question_number": 24,
+            "question": "In the formula X = 5YZ^2, X and Z have dimensions of capacitance and magnetic field, respectively. What are the dimensions of Y in SI units?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "[M^-1L^-3T^2A^2]",
+                "[M^-2L^2T^4A^2]",
+                "[M^-1L^-2T^4A^2]",
+                "[M^-2L^-2T^2A^2]"
+            ]
+        },
+        {
+            "question_number": 25,
+            "question": "If surface tension (S), moment of inertia (I) and Planck’s constant (h) were to be taken as the fundamental units, the dimensional formula for linear momentum would be ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "S^1/2I^1/2h^-1",
+                "S^3/2I^1/2h^-1",
+                "S^1/2I^1/2h^1",
+                "S^1/2I^1/2h^-2"
+            ]
+        },
+        {
+            "question_number": 26,
+            "question": "Let L, r, c, and v represent inductance, resistance, capacitance and voltage, respectively. The dimension of L/r/c/v in SI units will be ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "[LT^2]",
+                "[LTA]",
+                "[AT^-1]",
+                "[LA^-2]"
+            ]
+        },
+        {
+            "question_number": 27,
+            "question": "If speed (v), acceleration (a) and force (F) are considered as fundamental units, the dimension of Young’s modulus will be ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "[V^4A^2F]",
+                "[V^2A^2F^2]",
+                "[V^2A^2F]",
+                "[V^A^2F]"
+            ]
+        },
+        {
+            "question_number": 28,
+            "question": "The force of interaction between two atoms is given by F = a exp(-x^2 / αkT), where x is the distance, k is the Boltzmann constant and T is temperature and α and β are two constants. The dimension of β is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "[M L T^-1]",
+                "[M L^2 T^-2]",
+                "[M L^2 T^-1]",
+                "[M L^2 T^2]"
+            ]
+        },
+        {
+            "question_number": 29,
+            "question": "The density of a material in SI units is 128 kg m^-3. In certain units in which the unit of length is 25 cm and the unit of mass is 50 g, the numerical value of density of the material is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "40",
+                "16",
+                "640",
+                "410"
+            ]
+        },
+        {
+            "question_number": 30,
+            "question": "In form of G (universal gravitational constant), h (Planck constant) and c (speed of light), the time period will be proportional to ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "[Gh^1/2 / c^3]",
+                "[h^2 / Gc]",
+                "[c^2 / Gh]",
+                "[Gh / c^2]"
+            ]
+        },
+        {
+            "question_number": 31,
+            "question": "The area of a square is 5.29 cm^2. The area of 7 such squares taking into account the significant figures is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "37.030 cm^2",
+                "37.0 cm^2",
+                "37 cm^2",
+                "37.3 cm^2"
+            ]
+        },
+        {
+            "question_number": 32,
+            "question": "In the density measurement of a cube, the mass and edge length are measured as (1000 ± 010) kg and (010 ± 001) m, respectively. The error in the measurement of density is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "0.01 kg/m^3",
+                "0.10 kg/m^3",
+                "0.07 kg/m^3",
+                "0.31 kg/m^3"
+            ]
+        },
+        {
+            "question_number": 33,
+            "question": "In a simple pendulum, experiment for determination of acceleration due to gravity (g), time taken for 20 oscillations is measured by using a watch of 1 second least count. The mean value of time taken comes out to be 30 s. The length of pendulum is measured by using a meter scale of least count 1 mm and the value obtained is 5.0 cm. The percentage error in the determination of g is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "3%",
+                "5%",
+                "4%",
+                "2%"
+            ]
+        },
+        {
+            "question_number": 34,
+            "question": "The diameter and height of a cylinder are measured by meter scale to be 12.64±0.1 cm and 34.2±0.1 cm, respectively. What will be the value of its volume in appropriate significant figures?",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "4300 ± 80 cm^3",
+                "4260 ± 80 cm^3",
+                "4264 ± 81 cm^3",
+                "4264 ± 81 cm^3"
+            ]
+        },
+        {
+            "question_number": 35,
+            "question": "The least count of the main scale of a screw gauge is 1 mm. The minimum number of divisions on its circular scale required to measure a 5 μm diameter of a wire is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "50",
+                "200",
+                "500",
+                "100"
+            ]
+        },
+        {
+            "question_number": 36,
+            "question": "Let |A1| = 3, |A2| = 5 and |A1 + A2| = 5. The value of (2A1 + 3A2) . (3A1 - 2A2) is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "-106.5",
+                "-112.5",
+                "99.5",
+                "118.5"
+            ]
+        },
+        {
+            "question_number": 37,
+            "question": "Two vectors A and B have equal magnitudes. The magnitude of (A + B) is times the magnitude of (A - B). The angle between A and B is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "sin((n^2 - 1) / n^2 + 1)",
+                "sin((n - 1) / n + 1)",
+                "cos((n^2 - 1) / n^2 + 1)",
+                "cos((n - 1) / n + 1)"
+            ]
+        },
+        {
+            "question_number": 38,
+            "question": "In the cube of side 'a' shown in the figure, the vector from the central point of the face ABOD to the central point of the face BEFO will be ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "1/2 (a - i)",
+                "1/2 (i - k)",
+                "1/2 (k - i)",
+                "1/2 (i - j)"
+            ],
+            "images": ["arihant_images_ch1/arihant_2.png"]
+        },
+        {
+            "question_number": 39,
+            "question": "Two forces P and Q of magnitude 2F and 3F, respectively are at an angle θ with each other. If the force Q is doubled, their resultant also gets doubled. Then, the angle θ is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "60°",
+                "120°",
+                "30°",
+                "90°"
+            ]
+        },
+        {
+            "question_number": 40,
+            "question": "Using screw gauge of pitch 0.1 cm and 50 divisions on its circular scale, the thickness of an object is measured. It should correctly be recorded as ..........",
+            "year": 2020,
+            "question_type": "mcq",
+            "options": [
+                "2.121 cm",
+                "2.124 cm",
+                "2.125 cm",
+                "2.123 cm"
+            ]
+        },
+        {
+            "question_number": 41,
+            "question": "L, C and R represent the physical quantities inductance, capacitance and resistance, respectively. The combinations which have the dimensions of frequency are ..........",
+            "year": 1984,
+            "question_type": "mcq",
+            "options": [
+                "1/RC",
+                "R/L",
+                "1/√(LC)",
+                "C/L"
+            ]
+        },
+        {
+            "question_number": 42,
+            "question": "The dimensions of the quantities in one (or more) of the following pairs are the same. Identify the pair(s).",
+            "year": 1986,
+            "question_type": "mcq",
+            "options": [
+                "Torque and work",
+                "Angular momentum and work",
+                "Energy and Young's modulus",
+                "Light year and wavelength"
+            ]
+        },
+        {
+            "question_number": 43,
+            "question": "The pairs of physical quantities that have the same dimensions is (are) ..........",
+            "year": 1995,
+            "question_type": "mcq",
+            "options": [
+                "Reynolds number and coefficient of friction",
+                "Curie and frequency of a light wave",
+                "Latent heat and gravitational potential",
+                "Planck’s constant and torque"
+            ]
+        },
+        {
+            "question_number": 44,
+            "question": "Let [ε₀] denote the dimensional formula of the permittivity of the vacuum and [μ₀] that of the permeability of the vacuum. If M = mass, L = length, T = time and I = electric current, then ..........",
+            "year": 1998,
+            "question_type": "mcq",
+            "options": [
+                "[M^-1L^-3T^2I]",
+                "[M^-1L^-3T^4I]",
+                "[M^-2L^2T^1I^-2]",
+                "[M^-1L^-2T^2I]"
+            ]
+        },
+        {
+            "question_number": 45,
+            "question": "The SI unit of the inductance, the henry can be written as ..........",
+            "year": 1998,
+            "question_type": "mcq",
+            "options": [
+                "weber/ampere",
+                "volt-second/ampere",
+                "joule/ampere^2",
+                "ohm-second"
+            ]
+        },
+        {
+            "question_number": 46,
+            "question": "A student uses a simple pendulum of exactly 1m length to determine g, the acceleration due to gravity. He uses a stop watch with the least count of 1s for this and records 40s for 20 oscillations. For this observation, which of the following statements is/are true?",
+            "year": 2010,
+            "question_type": "mcq",
+            "options": [
+                "Error ΔT in measuring T, the time period, is 0.05 s",
+                "Error ΔT in measuring T, the time period, is 1 s",
+                "Percentage error in the determination of g is 5%",
+                "Percentage error in the determination of g is 2.5%"
+            ]
+        },
+        {
+            "question_number": 47,
+            "question": "In terms of potential difference V, electric current I, permittivity ε₀, permeability μ₀ and speed of light c, the dimensionally correct equations is/are ..........",
+            "year": 2015,
+            "question_type": "mcq",
+            "options": [
+                "μ₀I² = ε₀c²",
+                "μ₀c = I/ε₀",
+                "μ₀c² = ε₀I",
+                "μ₀cI = ε₀"
+            ]
+        },
+        {
+            "question_number": 48,
+            "question": "Planck’s constant h, speed of light c and gravitational constant G are used to form a unit of length L and a unit of mass M. Then, the correct options are ..........",
+            "year": 2015,
+            "question_type": "mcq",
+            "options": [
+                "M ∝ √(G/c)",
+                "M ∝ √(G/h)",
+                "L ∝ √(G/c)",
+                "L ∝ √(h/G)"
+            ]
+        },
+        {
+            "question_number": 49,
+            "question": "The relation between [E] and [B] is ..........",
+            "year": 2018,
+            "question_type": "mcq",
+            "options": [
+                "[E] = [B] [L] [T]",
+                "[E] = [B] [L] [T]^-1",
+                "[E] = [B] [L] [T^2]",
+                "[E] = [B] [L^2] [T]"
+            ]
+        },
+        {
+            "question_number": 50,
+            "question": "The relation between [ε₀] and [μ₀] is ..........",
+            "year": 2019,
+            "question_type": "mcq",
+            "options": [
+                "[μ₀] = [ε₀] [L]^2 [T]^-2",
+                "[μ₀] = [ε₀] [L]^2 [T]^2",
+                "[μ₀] = [ε₀] [L] [T]^-1",
+                "[μ₀] = [ε₀] [L]^2 [T^2]"
+            ]
+        },
+        {
+            "question_number": 51,
+            "question": "Column 1 gives three physical quantities. Select the appropriate units for the choices given in Column II. Some of the physical quantities may have more than one choice.",
+            "year": 1990,
+            "question_type": "match the columns",
+            "columns": {
+                "Column I": ["Capacitance", "Inductance", "Magnetic induction"],
+                "Column II": ["Ohm-second", "Coulomb^-1", "Coulomb (volt)-1", "Newton (ampere metre)^-1", "volt-second (ampere)"]
+            }
+        },
+        {
+            "question_number": 52,
+            "question": "Match the physical quantities given in Column I with dimensions expressed in terms of mass (M), length (L), time (T), and charge (Q) given in Column II and write the correct answer against the matched quantity in a tabular form in your answer book.",
+            "year": 1993,
+            "question_type": "match the columns",
+            "columns": {
+                "Column I": ["Angular momentum", "Latent heat", "Torque", "Capacitance", "Inductance"],
+                "Column II": ["[M L^2 T^-1]", "[M L^2 T^-2 Q^-2]", "[M L^2 T^-1]", "[M L^-1 T^-2 Q^2]", "[L^2 T^-2]"]
+            }
+        },
+        {
+            "question_number": 53,
+            "question": "Some physical quantities are given in Column I and some possible SI units in which these quantities may be expressed are given in Column II. Match the physical quantities in Column I with the units in Column II.",
+            "year": 2007,
+            "question_type": "match the columns",
+            "columns": {
+                "Column I": [
+                    "GMₑMₑ",
+                    "3RT/M",
+                    "F² / q²B²",
+                    "GMₑ / Rₑ"
+                ],
+                "Column II": [
+                    "(volt) (coulomb)",
+                    "(kilogram) (metre)³ (second)⁻²",
+                    "(metre)² (second)⁻²",
+                    "(farad) (volt)² (kg)⁻¹"
+                ]
+            }
+        },
+        {
+            "question_number": 54,
+            "question": "Match Column I with Column II and select the correct answer using the codes given below the lists.",
+            "year": 2013,
+            "question_type": "match the columns",
+            "columns": {
+                "Column I": [
+                    "Boltzmann's constant",
+                    "Planck's constant",
+                    "Thermal conductivity"
+                ],
+                "Column II": [
+                    "[M L^2 T^-1]",
+                    "[M L T^-2]",
+                    "[M L^-1 T^-3 K^-1]"
+                ]
+            }
+        },
+        {
+            "question_number": 55,
+            "question": "To find the distance over which a signal can be seen clearly in foggy conditions, a railway engineer uses dimensional analysis and assumes that the distance depends on the mass density ρ of the fog, intensity (power/area) S of the light from the signal and its frequency f. The engineer finds that it is proportional to S^1/5. The value of n is ..........",
+            "year": 2014,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 56,
+            "question": "Two vectors A and B are defined as A = a î and B = a (cos α î + sin α ĵ), where a is a constant and ω = π/6 rad s⁻¹. If |A + B| = √(3)A - B at time t = t for the first time, the value of t, in seconds, is ..........",
+            "year": 2018,
+            "question_type": "analytical & descriptive"
+        },
+        {
+            "question_number": 57,
+            "question": "Give the MKS units for each of the following quantities:",
+            "year": 1980,
+            "question_type": "analytical & descriptive",
+            "sub_questions": [
+                {
+                    "sub_question": "(a) Young's modulus"
+                },
+                {
+                    "sub_question": "(b) Magnetic induction"
+                },
+                {
+                    "sub_question": "(c) Power of a lens"
+                }
+            ]
+        },
+        {
+            "question_number": 58,
+            "question": "A gas bubble, from an explosion under water, oscillates with a period T proportional to p^a d^b E^c, where p is the static pressure, d is the density of water and E is the total energy of the explosion. Find the values of a, b and c.",
+            "year": 1981,
+            "question_type": "analytical & descriptive"
+        },
+        {
+            "question_number": 59,
+            "question": "Write the dimensions of the following in terms of mass, time, length and charge:",
+            "year": 1982,
+            "question_type": "analytical & descriptive",
+            "sub_questions": [
+                {
+                    "sub_question": "(a) Magnetic flux"
+                },
+                {
+                    "sub_question": "(b) Rigidity modulus"
+                }
+            ]
+        },
+        {
+            "question_number": 60,
+            "question": "N divisions on the main scale of a vernier caliper coincide with (N + 1) divisions on the vernier scale. If each division on the main scale is of a units, determine the least count of the instrument.",
+            "year": 2003,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 61,
+            "question": "The edge of a cube is measured using a vernier caliper. 9 divisions of the main scale is equal to 10 divisions of the vernier scale and 1 main scale division is 1 mm. The main scale division reading is 10 and 1 division of vernier scale was found to be coinciding with the main scale. The mass of the cube is 2.736 g. Calculate the density in gm/cm³ up to correct significant figures.",
+            "year": 2005,
+            "question_type": "integer answer"
+        }
+
+
+    ],
+    "section-2": [
+        {
+            "question_number": 1,
+            "question": "A student performs an experiment to determine the Young’s modulus of a wire, exactly 2 m long, by Searle’s method. In a particular reading, the student measures the extension in the length of the wire to be 0.8 mm with an uncertainty of ±0.05 mm at a load of exactly 1.0 kg. The student also measures the diameter of the wire to be 0.4 mm with an uncertainty of ±0.01 mm. Take g = 9.8 m/s² (exact). The Young’s modulus obtained from the reading is close to ..........",
+            "year": 2007,
+            "question_type": "mcq",
+            "options": [
+                "(2.0 ± 0.3) × 10¹¹ N/m²",
+                "(2.0 ± 0.2) × 10¹¹ N/m²",
+                "(2.0 ± 0.1) × 10¹¹ N/m²",
+                "(2.0 ± 0.05) × 10¹¹ N/m²"
+            ]
+        },
+        {
+            "question_number": 2,
+            "question": "Students I, II, and III perform an experiment for measuring the acceleration due to gravity (g) using a simple pendulum. They use different lengths of the pendulum and/or record time for different number of oscillations. The observations are shown in the table. If E₁, E₂, and E₃ are the percentage errors in g, i.e., (Δg × 100) for students I, II, and III, respectively, which of the following is true?",
+            "year": 2008,
+            "question_type": "mcq",
+            "options": [
+                "(a) E₁ = 0 (b) E₂ is minimum (c) E₃ is maximum",
+                "(d) E₁ = E₂ = E₃"
+            ]
+        },
+        {
+            "question_number": 3,
+            "question": "The density of a solid ball is to be determined in an experiment. The diameter of the ball is measured with a screw gauge, whose pitch is 0.5 mm and there are 50 divisions on the circular scale. The reading on the main scale is 25 mm and that on the circular scale is 20 divisions. If the measured mass of the ball has a relative error of 2%, the relative percentage error in the density is ..........",
+            "year": 2011,
+            "question_type": "mcq",
+            "options": [
+                "0.9%",
+                "2.4%",
+                "3.1%",
+                "4.2%"
+            ]
+        },
+        {
+            "question_number": 4,
+            "question": "The diameter of a cylinder is measured using a vernier caliper with no zero error. It is found that the zero of the vernier scale lies between 5.10 cm and 5.15 cm of the main scale. The vernier scale has 50 divisions equivalent to 2.48 cm. The 24th division of the vernier scale exactly coincides with one of the main scale divisions. The diameter of the cylinder is ..........",
+            "year": 2013,
+            "question_type": "mcq",
+            "options": [
+                "5.112 cm",
+                "5.124 cm",
+                "5.136 cm",
+                "5.148 cm"
+            ]
+        },
+        {
+            "question_number": 5,
+            "question": "The current voltage relation of diode is given by I = (e^V/kT - 1)mA, where the applied voltage V is in volt and the temperature T is in kelvin. If a student makes an error measuring ±0.01 V while measuring the current of 5 mA at 300 K, what will be the error in the value of current in mA?",
+            "year": 2014,
+            "question_type": "mcq",
+            "options": [
+                "0.2 mA",
+                "0.02 mA",
+                "0.5 mA",
+                "0.05 mA"
+            ]
+        },
+        {
+            "question_number": 6,
+            "question": "There are two vernier calipers both of which have 1 cm divided into 10 equal divisions on the main scale. The vernier scale of one of the calipers (C₁) has 10 equal divisions that correspond to 9 main scale divisions. The vernier scale of the other caliper (C₂) has 10 equal divisions that correspond to 11 main scale divisions. The readings of the two calipers are shown in the figure. The measured values (in cm) by calipers C₁ and C₂ respectively are ..........",
+            "year": 2016,
+            "question_type": "mcq",
+            "options": [
+                "2.87 and 2.87",
+                "2.87 and 2.83",
+                "2.85 and 2.82",
+                "2.87 and 2.86"
+            ],
+            "images": ["arihant_images_ch1/arihant_3.png","arihant_images_ch1/arihant_4.png"]
+
+        },
+        {
+            "question_number": 7,
+            "question": "Consider an expanding sphere of instantaneous radius R whose total mass remains constant. The expansion is such that the instantaneous density ρ remains uniform throughout the volume. The rate of fractional change in density (dρ/ρ) is constant. The velocity v of any point of the surface of the expanding sphere is proportional to ..........",
+            "year": 2017,
+            "question_type": "mcq",
+            "options": [
+                "1/R",
+                "R³",
+                "R²",
+                "R"
+            ]
+        },
+        {
+            "question_number": 8,
+            "question": "Three vectors P, Q, and R are shown in the figure. Let S be any point on the vector R. The distance between the points P and S is |R|. The general relation among vectors P, Q, and S is ..........",
+            "year": 2017,
+            "question_type": "mcq",
+            "options": [
+                "S = (1 - b)P + bQ",
+                "S = (b - 1)P + bQ",
+                "S = (1 - b)P + bQ",
+                "S = (b - 1)P + bQ"
+            ],
+            "images": ["arihant_images_ch1/arihant_5.png"]
+        },
+        {
+            "question_number": 9,
+            "question": "Consider a vernier caliper in which each 1 cm on the main scale is divided into 8 equal divisions and a screw gauge with 100 divisions on its circular scale. In the vernier calipers, 5 divisions of the vernier scale coincide with 4 divisions on the main scale and in the screw gauge, one complete rotation of the circular scale moves it by two divisions on the linear scale. Then ..........",
+            "year": 2015,
+            "question_type": "mcq",
+            "options": [
+                "If the pitch of the screw gauge is twice the least count of the vernier caliper, the least count of the screw gauge is 0.01 mm",
+                "If the pitch of the screw gauge is twice the least count of the vernier caliper, the least count of the screw gauge is 0.005 mm",
+                "If the least count of the linear scale of the screw gauge is twice the least count of the Vernier calipers, the least count of the screw gauge is 0.01 mm",
+                "If the least count of the linear scale of the screw gauge is twice the least count of the vernier caliper, the least count of the screw gauge is 0.005 mm"
+            ]
+        },
+        {
+            "question_number": 10,
+            "question": "In an experiment to determine the acceleration due to gravity g, the formula used for the time period of a periodic motion is T = 2π√(L/g). The values of R and r are measured to be (60 ± 1) mm and (10 ± 1) mm, respectively. In five successive measurements, the time period is found to be 0.52 s, 0.56 s, 0.57 s, 0.54 s and 0.59 s. The least count of the watch used for the measurement of time period is 0.01 s. Which of the following statements is (are) true?",
+            "year": 2016,
+            "question_type": "mcq",
+            "options": [
+                "The error in the measurement of r is 10%",
+                "The error in the measurement of T is 3.57%",
+                "The error in the measurement of T is 2%",
+                "The error in the measurement of g is 11%"
+            ]
+        },
+        {
+            "question_number": 11,
+            "question": "A length-scale (L) depends on the permittivity (ε) of a dielectric material, Boltzmann's constant (k), the absolute temperature (T), the number per unit volume (n) of certain charged particles, and the charge (q) carried by each of the particles. Which of the following expression(s) for L is (are) dimensionally correct?",
+            "year": 2016,
+            "question_type": "mcq",
+            "options": [
+                "L = √(nq² / εkₐT)",
+                "L = √(εkₐT / nq²)",
+                "L = √(q² / εn²/₃ kₐT)",
+                "L = √(q² / εn¹/₃ kₐT)"
+            ]
+        },
+        {
+            "question_number": 19,
+            "question": "During Searle’s experiment, zero of the vernier scale lies between 3.20 × 10⁻² m and 3.25 × 10⁻² m of the main scale.",
+            "year": 2014,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 20,
+            "question": "The 20th division of the vernier scale exactly coincides with one of the main scale divisions. When an additional load of 2 kg is applied to the wire, the zero of the vernier scale still lies between 3.20 × 10⁻² m and 3.25 × 10⁻² m of the main scale but now the 4th division of vernier scale coincides with one of the main scale divisions. The length of the thin metallic wire is 2 m and its cross-sectional area is 8 × 10⁻⁷ m². The least count of the vernier scale is 1.0 × 10⁻⁶ m. The maximum percentage error in the Young’s modulus of the wire is ..........",
+            "year": 2014,
+            "question_type": "mcq"
+        },
+        {
+            "question_number": 21,
+            "question": "The energy of a system as a function of time t is given as E(t) = A² exp(-αt), where α = 0.2s⁻¹. The measurement of A has an error of 1.25%. If the error in the measurement of time is 1.50%, the percentage error in the value of E(t) at t = 5s is ..........",
+            "year": 2015,
+            "question_type": "mcq"
+        },
+        {
+            "question_number": 22,
+            "question": "The pitch of a screw gauge is 1 mm and there are 100 divisions on the circular scale. While measuring the diameter of a wire, the linear scale reads 1 mm and the 47th division on the circular scale coincides with the reference line. The length of the wire is 5.6 cm. Find the curved surface area (in cm²) of the wire in appropriate number of significant figures.",
+            "year": 2004,
+            "question_type": "integer answer"
+        },
+        {
+            "question_number": 23,
+            "question": "In a Searle’s experiment, the diameter of the wire as measured by a screw gauge of least count 0.001 cm is 0.050 cm. The length, measured by a scale of least count 0.1 cm, is 110.0 cm. When a weight of 50 N is suspended from the wire, the extension is measured to be 0.125 cm by a micrometer of least count 0.001 cm. Find the maximum error in the measurement of Young’s modulus of the material of the wire from these data.",
+            "year": 2004,
+            "question_type": "integer answer"
+        }
+
+
+    ],
+    "section-3": [
+        {
+            "question_number": 1,
+            "question": "Column I gives certain systems undergoing a process. Column II suggests changes in some of the parameters related to the system. Match the statements in Column I to the appropriate process (es) from Column II.",
+            "year": 2009,
+            "question_type": "match the columns",
+            "columns": {
+                "Column I": [
+                    "The energy of the system is increased",
+                    "Mechanical energy is provided to the system, which is converted into energy of random motion of its parts",
+                    "Internal energy of the system is converted into its mechanical energy",
+                    "Mass of the system is decreased"
+                ],
+                "Column II": [
+                    "System: A capacitor, initially uncharged. Process: It is connected to a battery.",
+                    "System: A gas in an adiabatic container fitted with an adiabatic piston. Process: The gas is compressed by pushing the piston.",
+                    "System: A gas in a rigid container. Process: The gas gets cooled due to colder atmosphere surrounding it.",
+                    "System: A heavy nucleus, initially at rest. Process: The nucleus fissions into two fragments of nearly equal masses and some neutrons are emitted.",
+                    "System: A resistive wire loop. Process: The loop is placed in a time varying magnetic field perpendicular to its plane."
+                ]
+            }
+        },
+        {
+            "question_number": 2,
+            "question": "Column II shows five systems in which two objects are labelled as X and Y. Also, in each case a point P is shown. Column I gives some statements about X and/or Y. Match these statements to the appropriate system(s) from Column II.",
+            "year": 2009,
+            "question_type": "match the columns",
+            "columns": {
+                "Column I": [
+                    "The force exerted by X on Y has a magnitude Mg.",
+                    "The gravitational potential energy of X is continuously increasing.",
+                    "Mechanical energy of the system X + Y is continuously decreasing.",
+                    "The torque of the weight of Y about point P is zero."
+                ],
+                "Column II": [
+                    "Block Y of mass M left on a fixed inclined plane X, slides on it with a constant velocity.",
+                    "Two ring magnets Y and Z, each of mass M are kept in frictionless vertical plastic stand so that they repel each other. Y rests on the base X and Z hangs in air in equilibrium. P is the topmost point of the stand on the common axis of the two rings. The whole system is in a lift that is going up with a constant velocity.",
+                    "A pulley Y of mass M is fixed to a table through a clamp X. A block of mass M hangs from a string that goes over the pulley and is fixed at point P of the table. The whole system is kept in a lift that is going down with a constant velocity.",
+                    "A sphere Y of mass M is put in a non-viscous liquid X kept in a container at rest. The sphere is released and it moves down in the liquid.",
+                    "A sphere Y of mass M is falling with its terminal velocity in a viscous liquid X kept in a container."
+                ]
+            },
+            "images": ["arihant_images_ch1/arihant_6.png","arihant_images_ch1/arihant_7.png","arihant_images_ch1/arihant_8.png","arihant_images_ch1/arihant_9.png"]
+        }
+    ]
+
+
+}

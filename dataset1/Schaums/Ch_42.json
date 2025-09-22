@@ -1,0 +1,235 @@
+[
+  {
+    "question_number": 42.1,
+    "Questions": "Show that the photons in a 1240 nm infrared light beam have energies of 1.00 eV.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "E = hc / λ = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (1240 x 10⁻⁹ m) = 1.602 x 10⁻¹⁹ J = 1.00 eV."
+  },
+  {
+    "question_number": 42.2,
+    "Questions": "Compute the energy of a photon of blue light of wavelength 450 nm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "E = hc / λ = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (450 x 10⁻⁹ m) = 4.42 x 10⁻¹⁹ J = 2.76 eV."
+  },
+  {
+    "question_number": 42.3,
+    "Questions": "To break a chemical bond in the molecules of human skin and thus cause sunburn, a photon energy of about 3.50 eV is required. To what wavelength does this correspond?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "λ = hc / E = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (3.50 eV)(1.602 x 10⁻¹⁹ J/eV) = 354 nm. Ultraviolet radiation causes sunburn."
+  },
+  {
+    "question_number": 42.4,
+    "Questions": "The work function of sodium metal is 2.3 eV. What is the longest-wavelength light that can cause photoelectron emission from sodium?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "At threshold, the photon energy just equals the energy required to tear the electron loose from the metal, namely the work function φ: φ = hc / λ. Hence, λ = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (2.3 eV)(1.602 x 10⁻¹⁹ J/eV) = 5.4 x 10⁻⁷ m."
+  },
+  {
+    "question_number": 42.5,
+    "Questions": "What potential difference must be applied to stop the fastest photoelectrons emitted by a nickel surface under the action of ultraviolet light of wavelength 200 nm? The work function of nickel is 5.01 eV.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "E = hc / λ = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (2000 x 10⁻¹⁰ m) = 9.95 x 10⁻¹⁹ J = 6.21 eV. Then, from the photoelectric equation, the energy of the fastest emitted electron is 6.21 eV - 5.01 eV = 1.20 eV. Hence, a negative retarding potential of 1.20 V is required. This is the stopping potential."
+  },
+  {
+    "question_number": 42.6,
+    "Questions": "Will photoelectrons be emitted by a copper surface, of work function 4.4 eV, when illuminated by visible light?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "As in Problem 42.4, the threshold wavelength λ = hc / φ = (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) / (4.4 eV)(1.602 x 10⁻¹⁹ J/eV) = 282 nm. Hence visible light (400 nm to 700 nm) cannot eject photoelectrons from copper."
+  },
+  {
+    "question_number": 42.7,
+    "Questions": "A beam (λ = 633 nm) from a typical laser designed for student use has an intensity of 3.0 mW. How many photons pass a given point in the beam each second?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The energy that is carried past the point each second is 0.0030 J/s. Because the energy per photon is hc / λ, which works out to be 3.14 x 10⁻¹⁹ J, the number of photons passing the point per second is 0.0030 J/s / 3.14 x 10⁻¹⁹ J/photon = 9.5 x 10¹⁵ photons/s."
+  },
+  {
+    "question_number": 42.8,
+    "Questions": "In a process called pair production, a photon is transformed into an electron and a positron. A positron has the same mass as the electron, but its charge is +e. To three significant figures, what is the minimum energy a photon can have if this process is to occur? What is the corresponding wavelength?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The photon must have the energy equivalent of the mass into which it transforms, which is mc² = (2)(9.11 x 10⁻³¹ kg)(2.998 x 10⁸ m/s)² = 1.64 x 10⁻¹³ J = 1.02 MeV. Then, because this energy must equal hc / λ, λ = hc / E = (1.64 x 10⁻¹³ J) / (6.63 x 10⁻³⁴ J·s)(2.998 x 10⁸ m/s) = 1.21 x 10⁻¹² m. This wavelength is in the very short X-ray region, the region of γ rays."
+  },
+  {
+    "question_number": 42.9,
+    "Questions": "What wavelength must electromagnetic radiation have if a photon in the beam is to have the same momentum as an electron moving with a speed of 2.00 x 10⁵ m/s?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The requirement is that (mv)electron = (h / λ)photon. From this, λ = h / mv = (6.63 x 10⁻³⁴ J·s) / (9.11 x 10⁻³¹ kg)(2.00 x 10⁵ m/s) = 3.64 nm. This wavelength is in the X-ray region."
+  },
+  {
+    "question_number": 42.10,
+    "Questions": "Suppose that a 3.64-nm photon moving in the +x-direction collides head-on with a 2 × 10⁵ m/s electron moving in the -x-direction. If the collision is perfectly elastic, find the conditions after collision.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "From the law of conservation of momentum, momentum before = momentum after, h / λ₀ = m₀v₀ = h / λ₁ = m₁v₁. But from Problem 42.9, h / λ₀ = mv₀ in this case. Hence, h / λ = mv. Also, for a perfectly elastic collision, KE before = KE after. Using the facts that h / λ₀ = mv₀ and h / λ₁ = mv₁, we find v₁ = v₀, and the electron moves in the +x-direction with its original speed. Because h / λ = mv, the photon also “rebounds,” and with its original wavelength."
+  },
+  {
+    "question_number": 42.11,
+    "Questions": "A photon (λ = 0.400 nm) strikes an electron at rest and rebounds at an angle of 150° to its original direction. Find the speed and wavelength of the photon after the collision.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The speed of a photon is always the speed of light in vacuum, c. To obtain the wavelength after collision, we use the equation for the Compton effect: λ₁ = λ₀ + h / (mc) (1 - cos θ). λ₁ = 4.00 x 10⁻¹⁰ m + (6.63 x 10⁻³⁴ J·s) / (9.11 x 10⁻³¹ kg)(2.998 x 10⁸ m/s)(1 - cos 150°) = 4.05 x 10⁻¹⁰ m."
+  },
+  {
+    "question_number": 42.12,
+    "Questions": "What is the de Broglie wavelength for a particle moving with speed 2.0 x 10⁶ m/s if the particle is (a) an electron, (b) a proton, and (c) a 0.20 kg ball?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We make use of the definition of the de Broglie wavelength: λ = h / mv. (a) λ = 6.63 x 10⁻³⁴ J·s / (9.11 x 10⁻³¹ kg)(2.0 x 10⁶ m/s) = 3.6 x 10⁻¹⁰ m for the electron. (b) λ = 6.63 x 10⁻³⁴ J·s / (1.67 x 10⁻²⁷ kg)(2.0 x 10⁶ m/s) = 7.9 x 10⁻¹⁷ m for the proton. (c) λ = 6.63 x 10⁻³⁴ J·s / (0.20 kg)(2.0 x 10⁶ m/s) = 1.7 x 10⁻³⁹ m for the 0.20-kg ball."
+  },
+  {
+    "question_number": 42.13,
+    "Questions": "An electron falls from rest through a potential difference of 100 V. What is its de Broglie wavelength?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The kinetic energy gained is eV, where e = 1.60 x 10⁻¹⁹ C. Thus, KE = eV = (1.60 x 10⁻¹⁹ C)(100 V) = 1.60 x 10⁻¹⁷ J. Then, from the de Broglie relation, λ = h / √(2mKE) = 6.63 x 10⁻³⁴ J·s / √(2)(9.11 x 10⁻³¹ kg)(1.60 x 10⁻¹⁷ J) = 1.22 x 10⁻¹⁰ m."
+  },
+  {
+    "question_number": 42.14,
+    "Questions": "What potential difference is required in an electron microscope to give electrons a wavelength of 0.500 Å?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "KE of electron = 1/2mv² = 1/2m(h/λ)² = h² / 2mλ². Substituting the known values gives the KE as Vq = KE, so V = KE / q = (9.66 x 10⁻¹⁷ J) / (1.60 x 10⁻¹⁹ C) = 600 V."
+  },
+  {
+    "question_number": 42.15,
+    "Questions": "What are the KE and wavelength of a thermal neutron?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "By definition, a thermal neutron is a free neutron in a neutron gas at about 20°C (293 K). From Chapter 17, the thermal energy of a gas molecule is 3kT/2, where k is Boltzmann’s constant (1.38 x 10⁻²³ J/K). Then KE = ½kT = 6.07 x 10⁻²¹ J. Using the de Broglie relation, λ = h / √(2mKE) = (6.63 x 10⁻³⁴ J·s) / √(2)(1.67 x 10⁻²⁷ kg)(6.07 x 10⁻²¹ J) = 0.147 nm."
+  },
+  {
+    "question_number": 42.16,
+    "Questions": "Find the pressure exerted on a surface by the photon beam of Problem 42.7 if the cross-sectional area of the beam is 3.0 mm². Assume perfect reflection at normal incidence.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Each photon has a momentum p = h / λ = (6.63 x 10⁻³⁴ J·s) / (633 x 10⁻¹⁰ m) = 1.05 x 10⁻²⁷ kg·m/s. When a photon reflects, it changes momentum from +p to -p, a total change of 2p. Since (from Problem 42.7) 9.5 x 10¹⁵ photons strike the surface each second, we have momentum change/s = (9.5 x 10¹⁵/s)(2)(1.05 x 10⁻²⁷ kg·m/s) = 2.0 x 10⁻¹¹ kg·m/s². From the impulse equation (F = ma), Pressure = F / A = (1.99 x 10⁻¹¹ kg·m/s²) / (3.0 x 10⁻⁶ m²) = 6.6 x 10⁻⁶ N/m²."
+  },
+  {
+    "question_number": 42.17,
+    "Questions": "A particle of mass m is confined to a narrow tube of length L. Find (a) the wavelengths of the de Broglie waves which will resonate in the tube, (b) the corresponding particle momenta, and (c) the corresponding energies. (d) Evaluate the energies for an electron in a tube with L = 0.50 m.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_130.png",
+    "solution": "(a) The de Broglie waves will resonate with a node at each end of the tube because the ends are impervious. A few of the possible resonance forms are shown in Fig. 42-1. They indicate that, for resonance, L = λ₁ / 2, λ₂ = 2λ₁ / 2, λ₃ = 3λ₁ / 2, … or λₙ = 2L / n for n = 1, 2, 3, .... (b) Because the de Broglie wavelengths are λₙ = h / pₙ, the resonance momenta are pₙ = nh / 2L for n = 1, 2, 3, .... (c) As shown in Problem 42.15, p² = (2m)(KE), and so (KE)ₙ = n²h² / 8L²m for n = 1, 2, 3, .... (d) With m = 9.1 x 10⁻³¹ kg and L = 5.0 x 10⁻¹⁰ m, substitution gives (KE)ₙ = 2.4 x 10⁻¹⁹ n² J = 1.5n² eV."
+  },
+  {
+    "question_number": 42.18,
+    "Questions": "A particle of mass m is confined to an orbit with radius R. For resonance of its de Broglie wave on this orbit, what energies can the particle have? Evaluate for an electron with R = 0.50 nm.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_131.png",
+    "solution": "To resonate on a circular orbit, a wave must circle back on itself in such a way that crest falls upon crest and trough falls upon trough. One resonance possibility (for an orbit circumference that is four wavelengths long) is shown in Fig. 42-2. In general, resonance occurs when the circumference is n wavelengths long, where n = 1, 2, 3, .... For such a de Broglie wave we have nλₙ = 2πR and pₙ = h / λₙ = nh / 2πR. Then (KE)ₙ = pₙ² / 2m = (nh / 2πR)² / 2m. Substituting the required values for m, one finds that the wavelength is 3.6 × 10⁻¹⁰ m for the electron, 2.0 × 10⁻¹³ m for the proton, and 1.7 × 10⁻³⁹ m for the 0.20-kg ball."
+  },
+  {
+    "question_number": 42.19,
+    "Questions": "Compute the energy of a photon of blue light (λ = 450 nm), in joules and in eV.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 4.41 x 10⁻¹⁹ J = 2.76 eV"
+  },
+  {
+    "question_number": 42.20,
+    "Questions": "What is the wavelength of light in which the photons have an energy of 600 eV?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2.07 nm"
+  },
+  {
+    "question_number": 42.21,
+    "Questions": "A certain sodium lamp radiates 20 W of yellow light (λ = 589 nm). How many photons of the yellow light are emitted from the lamp each second?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 5.9 x 10¹⁹ photons/sec"
+  },
+  {
+    "question_number": 42.22,
+    "Questions": "What is the work function of sodium metal if the photoelectric threshold wavelength is 680 nm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.82 eV"
+  },
+  {
+    "question_number": 42.23,
+    "Questions": "Determine the maximum KE of photoelectrons ejected from a potassium surface by ultraviolet radiation of wavelength 200 nm. What retarding potential difference is required to stop the emission of electrons? The photoelectric threshold wavelength for potassium is 440 nm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 3.38 eV, 3.38 V"
+  },
+  {
+    "question_number": 42.24,
+    "Questions": "With what speed will the fastest photoelectrons be emitted from a surface whose threshold wavelength is 600 nm, when the surface is illuminated with light of wavelength 400 nm?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 6 x 10⁶ m/s"
+  },
+  {
+    "question_number": 42.25,
+    "Questions": "Electrons with a maximum KE of 3.00 eV are ejected from a metal surface by ultraviolet radiation of wavelength 150 nm. Determine the work function of the metal, the threshold wavelength of the metal, and the retarding potential difference required to stop the emission of electrons.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 5.27 eV, 235 nm, 3.00 V"
+  },
+  {
+    "question_number": 42.26,
+    "Questions": "What are the speed and momentum of a 500-nm photon?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 2.998 x 10⁸ m/s, 133 x 10⁻²⁷ kg·m/s"
+  },
+  {
+    "question_number": 42.27,
+    "Questions": "An X-ray beam with a wavelength of exactly 5.00 x 10⁻¹⁴ m strikes a proton that is at rest (m = 1.67 x 10⁻²⁷ kg). If the X-rays are scattered through an angle of 110°, what is the wavelength of the scattered X-rays?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 5.18 x 10⁻¹⁴ m"
+  },
+  {
+    "question_number": 42.28,
+    "Questions": "An electron-positron pair, each with a kinetic energy of 220 keV, is produced by a photon. Find the energy and wavelength of the photon.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.46 MeV, 8.49 x 10⁻¹³ m"
+  },
+  {
+    "question_number": 42.29,
+    "Questions": "Show that the de Broglie wavelength of an electron accelerated from rest through a potential difference of V volts is 1.226/√V nm.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Solution involves derivation of the de Broglie wavelength using the energy equation."
+  },
+  {
+    "question_number": 42.30,
+    "Questions": "Compute the de Broglie wavelength of an electron that has been accelerated through a potential difference of 9.0 kV.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 1.3 x 10⁻¹¹ m"
+  },
+  {
+    "question_number": 42.31,
+    "Questions": "What is the de Broglie wavelength of an electron that has been accelerated through a potential difference of 1.0 MV? (You must use the relativistic mass and energy expressions at this high energy.)",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Ans. 3.64 x 10⁻¹² m"
+  },
+  {
+    "question_number": 42.32,
+    "Questions": "It is proposed to send a beam of electrons through a grid standing upright. The electrons have a speed of 4.0 x 10⁶ m/s. How many wavelengths of this electron beam fit into the grid if it has a length of 0.50 m?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "λ = h / mv = 6.63 x 10⁻³⁴ J·s / (9.11 x 10⁻³¹ kg)(4.0 x 10⁶ m/s) = 1.8 x 10⁻¹² m. The number of wavelengths = 0.50 m / 1.8 x 10⁻¹² m = 2.8 x 10¹²."
+  },
+  {
+    "question_number": 42.33,
+    "Questions": "What is the wavelength of the photon produced in a collision between an electron and a proton, where the electron strikes the proton at an angle of 25° to the straight-through direction?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "λ = h / (m_e v_e) = 2.0 x 10⁻¹⁸ m."
+  }
+]

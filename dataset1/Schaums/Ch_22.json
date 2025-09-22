@@ -1,0 +1,268 @@
+[
+  {
+    "question_number": 22.1,
+    "Questions": "Suppose that Fig. 22-1 represents a 50-Hz wave on a string. Take distance y₀ to be 3.0 mm, and distance AE to be 40 cm. Find the following for the wave: (a) amplitude, (b) wavelength, (c) speed.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) By definition, the amplitude is distance y₀ and is 3.0 mm.\n(b) The distance between adjacent crests is the wavelength, and so λ = 20 cm.\n(c) v = λf = (0.20 m)(50 s⁻¹) = 10 m/s."
+  },
+  {
+    "question_number": 22.2,
+    "Questions": "Measurements show that the wavelength of a sound wave in a certain material is 18.0 cm. The frequency of the wave is 1900 Hz. What is the speed of the sound wave?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "From λ = vT = v/f, which applies to all waves,\nv = λf = (0.180 m)(1900 s⁻¹) = 342 m/s."
+  },
+  {
+    "question_number": 22.3,
+    "Questions": "A horizontal cord 5.00 m long has a mass of 1.45 g. What must be the tension in the cord if the wavelength of a 120 Hz wave on it is to be 60.0 cm? How large a mass must be hung from its end (say, over a pulley) to give it this tension?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "We know that v = λf = (0.600 m)(120 s⁻¹) = 72.0 m/s. Further, since v = √(tension / mass per unit length), the tension in the cord balances the weight of the mass hung at its end. Therefore, Fr = mg or m = 1.50 N / 9.81 m/s² = 0.153 kg."
+  },
+  {
+    "question_number": 22.4,
+    "Questions": "A uniform flexible cable is 20 m long and has a mass of 5.0 kg. It hangs vertically under its own weight and is vibrated from its upper end with a frequency of 7.0 Hz. (a) Find the speed of a transverse wave on the cable at its midpoint. (b) What are the frequency and wavelength at the midpoint?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) We shall use v = √(tension / mass per unit length). The midpoint of the cable supports half its weight, so the tension there is, Fₓ = ½(5.0 kg)(9.81 m/s²) = 24.5 N. The mass per unit length = 0.25 kg/m, so v = √(24.5 N / 0.25 kg/m) = 9.9 m/s.\n(b) Because wave crests do not pile up along a string or cable, the frequency, 7.0 Hz, is the same at all points. To find the wavelength at the midpoint, we use the speed we found for that point, 9.9 m/s, yielding λ = v / f = 9.9 m/s / 7.0 Hz = 1.4 m."
+  },
+  {
+    "question_number": 22.5,
+    "Questions": "Suppose that Fig. 22-2 shows a metal string under a tension of 88.2 N. Its length is 50.0 cm and its mass is 0.500 g. (a) Compute v for transverse waves on the string. (b) Determine the frequencies of its fundamental, first overtone, and second overtone.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) v = √(tension / mass per unit length) = √[(88.2 N) / (5.00 × 10⁻⁴ kg / 0.500 m)] = 297 m/s.\n(b) The length of the segment is L / 2 and we use λ = v / f. For the fundamental: λ = 1.00 m and f = 297 m/s / 1.00 m = 297 Hz.\nFor the first overtone: λ = 0.500 m and f = 297 m/s / 0.500 m = 594 Hz.\nFor the second overtone: λ = 0.333 m and f = 297 m/s / 0.333 m = 891 Hz."
+  },
+  {
+    "question_number": 22.6,
+    "Questions": "A string 2.00 m long is driven by a 240-Hz vibrator at its end. The string resonates in four segments. What is the speed of transverse waves on the string?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "Since each segment is λ/2 long, we have λ = L / 2. Therefore, λ = 2.0 m / 2 = 1.0 m. Then, v = fλ = (240 s⁻¹)(1.0 m) = 240 m/s."
+  },
+  {
+    "question_number": 22.7,
+    "Questions": "A banjo string 30 cm long resonates in its fundamental to a frequency of 256 Hz. What is the tension in the string if 80 cm of the string have a mass of 0.75 g?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "First we shall find v and then the tension. We know that the string vibrates in one segment when f = 256 Hz. Therefore, from Fig. 22-2, λ = 0.30 m and v = fλ = (256 s⁻¹)(0.30 m) = 76.8 m/s.\nThe mass per unit length of the string is 0.75 × 10⁻³ kg / 0.80 m = 9.4 × 10⁻⁴ kg/m.\nThen, from v = √(tension / mass per unit length), Fₓ = (76.8 m/s)²(9.4 × 10⁻⁴ kg/m) = 24.5 N."
+  },
+  {
+    "question_number": 22.8,
+    "Questions": "A string vibrates in five segments to a frequency of 460 Hz. (a) What is its fundamental frequency? (b) What frequency will cause it to vibrate in three segments?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) If the string is n segments long, then from Fig. 22-2 we have λ(n/2) = L. But λ = v / f, so L = n(v / 2f). We are told that f₅ = 460 Hz, so solving for f₁ gives f₁ = (1)(v / 2L) = 92.0 Hz.\n(b) For three segments, f₃ = (3)(92 Hz) = 276 Hz."
+  },
+  {
+    "question_number": 22.9,
+    "Questions": "A string fastened at both ends resonates at 420 Hz and 490 Hz with no resonance frequencies in between. Find its fundamental resonance frequency.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "In general, fₙ = nƒ₁. We are told that f₅ = 420 Hz and f₁ = 490 Hz. Therefore, 420 Hz = nƒ₁ and 490 Hz = (n + 1)ƒ₁. We subtract the first equation from the second to obtain f₁ = 70.0 Hz."
+  },
+  {
+    "question_number": 22.10,
+    "Questions": "A violin string resonates in its fundamental at 196 Hz. Where along the string must you place your finger so its fundamental becomes 440 Hz?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "In the fundamental, L = λ/2. Since λ = v/f, we have f₁ = v / 2L. Originally, the string of length L₁ resonated to a frequency of 196 Hz, and so\n196 Hz = v / 2L₁\nWe want it to resonate to 440 Hz, so we have\n440 Hz = v / 2L₂.\nTo eliminate v from these two simultaneous equations and find L₂, we get\nL₂ / L₁ = 196 Hz / 440 Hz = 0.445.\nTherefore, the finger must shorten the string to 0.445 of its original length."
+  },
+  {
+    "question_number": 22.11,
+    "Questions": "A 60 cm long bar, clamped at its middle, is vibrated lengthwise by an alternating force at its end. Its fundamental resonance frequency is found to be 3.0 kHz. What is the speed of longitudinal waves in the bar?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_10.png",
+    "solution": "Because its ends are free, the bar must have antinodes there. The clamp point at its center must be a node. Therefore, the fundamental resonance is as shown in Fig. 22-3. Because the distance from node to antinode is always ½λ, we see that L = 2(½λ). Since L = 0.60 m, we find λ = 1.20 m.\nThen, from the basic relation (p. 214) v = λf, we have v = (1.20 m)(3.0 kHz) = 3.6 km/s."
+  },
+  {
+    "question_number": 22.12,
+    "Questions": "Compressional waves (sound waves) are sent down an air-filled tube 90 cm long and closed at one end. The tube resonates to several frequencies, the lowest of which is 95 Hz. Find the speed of sound waves in air.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_11.png",
+    "solution": "The tube and several of its resonance forms are shown in Fig. 22-4. Recall that the distance between a node and an adjacent antinode is λ/4. In our case, the top resonance form applies, since the segments are longest for it and its frequency is therefore lowest. For that form, L = λ/4, so λ = 4L = 4(0.90 m) = 3.6 m.\nUsing λ = vT = v/f gives v = (3.6 m)(95 s⁻¹) = 340 km/s."
+  },
+  {
+    "question_number": 22.13,
+    "Questions": "To what other frequencies will the tube described in Problem 22.12 resonate?",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "The first few resonances are shown in Fig. 22-4. We see that, at resonance, L = n(λₙ / 4), where n = 1, 3, 5, 7, ... is an odd integer, and λₙ is the resonance wavelength. But λₙ = v / fₙ, so L = v / 4fₙ.\nWe are told that f₁ = 95 Hz, so solving for the next few frequencies gives f₂ = 0.29 kHz, f₃ = 0.48 kHz, ..."
+  },
+  {
+    "question_number": 22.14,
+    "Questions": "A metal rod 40 cm long is dropped, end first, onto a wooden floor and rebounds into the air. Compressional waves of many frequencies are thereby set up in the bar. If the speed of compressional waves in the bar is 5500 m/s, to what lowest-frequency compressional wave will the bar resonate as it rebounds?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_12.png",
+    "solution": "Both ends of the bar will be free, and so antinodes will exist there. In the lowest resonance form (i.e., the one with the longest segments), only one node will exist on the bar, at its center, as shown in Fig. 22-5. We will then have\nL = 2(λ₁ / 4) or λ₁ = 2L = 2(0.40 m) = 0.80 m.\nThen, from λ = vT = v/f, f = v / λ = 5500 m/s / 0.80 m = 6875 Hz = 6.9 kHz."
+  },
+  {
+    "question_number": 22.15,
+    "Questions": "A rod 200 cm long is clamped 50 cm from one end, as shown in Fig. 22-6. It is set into longitudinal vibration by an electrical driving mechanism at one end. As the frequency of the driver is slowly increased from a very low value, the rod is first found to resonate at 3 kHz. What is the speed of sound (compressional waves) in the rod?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_13.png",
+    "solution": "The clamped point remains stationary, and so a node exists there. Since the ends of the rod are free, antinodes exist there. The lowest-frequency resonance occurs when the rod is vibrating in its longest possible segments. In Fig. 22-6 we show the mode of vibration that corresponds to this condition. Since a segment is the length from one node to the next, then the length from A to N in the figure is one-half segment. Therefore, the rod is two segments long. This resonance form satisfies our restrictions about positions of nodes and antinodes, as well as the condition that the bar vibrate in the longest segments possible. Since one segment is λ/2 long, L = 2(λ/2), or λ = L = 200 cm.\nThen, from λ = vT = v/f, v = λf = (2.00 m)(3 × 10³ s⁻¹) = 6 km/s."
+  },
+  {
+    "question_number": 22.16,
+    "Questions": "(a) Determine the shortest length of pipe closed at one end that will resonate in air to a sound source of frequency 160 Hz. Take the speed of sound in air to be 340 m/s. (b) Repeat for a pipe open at both ends.",
+    "year": null,
+    "question_type": "Problem",
+    "solution": "(a) Figure 22-4(a) applies in this case. The shortest pipe will be λ/4 long. Therefore, L = 1/4 λ = 1/4 (v / f) = 340 m/s / (4 × 160 Hz) = 0.531 m.\n(b) In this case, the pipe will have antinodes at both ends and a node at its center. Then, L = 2(1/4 λ) = 1/2 (v / f) = 340 m/s / (2 × 160 Hz) = 1.06 m."
+  },
+  {
+    "question_number": 22.17,
+    "Questions": "A pipe 90 cm long is open at both ends. How long must a second pipe, closed at one end, be if it is to have the same fundamental resonance frequency as the open pipe?",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_14.png",
+    "solution": "The two pipes and their fundamental resonances are shown in Fig. 22-7. As we see, Lₒ = 2λ / 4, Lₒ = λ / 4, from which Lₒ = 45 cm."
+  },
+  {
+    "question_number": 22.18,
+    "Questions": "A glass tube that is 70.0 cm long is open at both ends. Find the frequencies at which it will resonate to sound waves that have a speed of 340 m/s.",
+    "year": null,
+    "question_type": "Problem",
+    "images" : "images_1/Schaums_ch16_to_46_15.png",
+    "solution": "A pipe that is open at both ends must have an antinode at each end. It will therefore resonate as in Fig. 22-8. We see that the resonance wavelengths λₙ are given by L = n(λₙ / 2) or λₙ = 2L / n. For the fundamental frequency, fₙ = v / λₙ, where n is an integer. For n = 1, f₁ = 340 m/s / (2 × 0.700 m) = 243 Hz."
+  },
+  {
+    "question_number": 22.19,
+    "Questions": "The average person can hear sound waves ranging in frequency from about 20 Hz to 20 kHz. Determine the wavelengths at these limits, taking the speed of sound to be 340 m/s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 17 m, 1.7 cm."
+  },
+  {
+    "question_number": 22.20,
+    "Questions": "Radio station WJR in Detroit broadcasts at 760 kHz. The speed of radio waves is 3.00 × 10⁸ m/s. What is the wavelength of WJR's waves?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 395 m."
+  },
+  {
+    "question_number": 22.21,
+    "Questions": "Radar waves with 3.4 cm wavelength are sent out from a transmitter. Their speed is 3.00 × 10⁸ m/s. What is their frequency?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 8.8 × 10¹⁰ Hz = 8.8 GHz."
+  },
+  {
+    "question_number": 22.22,
+    "Questions": "When driven by a 120 Hz vibrator, a string has transverse waves of 31 cm wavelength traveling along it. (a) What is the speed of the waves on the string? (b) If the tension in the string is 1.20 N, what is the mass of 50 cm of the string?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "(a) 37 m/s; (b) 0.43 g."
+  },
+  {
+    "question_number": 22.23,
+    "Questions": "The wave shown in Fig. 22-9 is being sent out by a 60 cycle/s vibrator. Find the following for the wave: (a) amplitude, (b) frequency, (c) wavelength, (d) speed, (e) period.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "images" : "images_1/Schaums_ch16_to_46_16.png",
+    "solution": "(a) 3.0 mm; (b) 60 Hz; (c) 2.00 cm; (d) 1.2 m/s; (e) 0.017 s."
+  },
+  {
+    "question_number": 22.24,
+    "Questions": "A copper wire 2.4 mm in diameter is 3.0 m long and is used to suspend a 2.0 kg mass from a beam. If a transverse disturbance is sent along the wire by striking it lightly with a pencil, how fast will the disturbance travel? The density of copper is 8920 kg/m³.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 22 m/s."
+  },
+  {
+    "question_number": 22.25,
+    "Questions": "A string 180 cm long resonates in three segments to transverse waves sent down it by a 270 Hz vibrator. What is the speed of the waves on the string?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 324 m/s."
+  },
+  {
+    "question_number": 22.26,
+    "Questions": "A string resonates in three segments to a frequency of 265 Hz. What frequency must be used if it is to resonate in four segments?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 220 Hz."
+  },
+  {
+    "question_number": 22.27,
+    "Questions": "A flexible cable, 30 m long and weighing 70 N, is stretched between two poles by a force of 2.0 kN. If the cable is struck sideways at one end, how long will it take the transverse wave to travel to the other end and return?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 0.65 s."
+  },
+  {
+    "question_number": 22.28,
+    "Questions": "A wire under tension vibrates with a fundamental frequency of 256 Hz. What would be the fundamental frequency if the wire were half as long, twice as thick, and under one-fourth the tension?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 128 Hz."
+  },
+  {
+    "question_number": 22.29,
+    "Questions": "Steel and silver wires of the same diameter and same length are stretched with equal tension. Their densities are 7.80 g/cm³ and 10.6 g/cm³, respectively. What is the fundamental frequency of the silver wire if that of the steel is 200 Hz?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 172 Hz."
+  },
+  {
+    "question_number": 22.30,
+    "Questions": "A string has a mass of 3.0 gram and a length of 60 cm. What must be the tension so that when vibrating transversely its first overtone has frequency 200 Hz?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 72 N."
+  },
+  {
+    "question_number": 22.31,
+    "Questions": "(a) At what point should a stretched string be plucked to make its fundamental tone most prominent? At what point should it be plucked and then at what point touched (b) to make its first overtone most prominent and (c) to make its second overtone most prominent?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. (a) Center; (b) Plucked at 1/4 of its length from one end, then touched at center; (c) Plucked at 1/6 of its length from one end, then touched at 1/3 of its length from that end."
+  },
+  {
+    "question_number": 22.32,
+    "Questions": "What must be the length of an iron rod that has the fundamental frequency 320 Hz when clamped at its center? Assume longitudinal vibration at a speed of 5.00 km/s.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 7.81 m."
+  },
+  {
+    "question_number": 22.33,
+    "Questions": "A rod 120 cm long is clamped at the center and is stroked in such a way as to give its first overtone. Make a drawing showing the location of the nodes and antinodes, and determine at what other points the rod might be clamped and still emit the same tone.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 20.0 cm from either end."
+  },
+  {
+    "question_number": 22.34,
+    "Questions": "A metal bar 6.0 m long, clamped at its center and vibrating longitudinally in such a manner that it gives its first overtone, vibrates in unison with a tuning fork marked 1200 vibration/s. Compute the speed of sound in the metal.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 4.8 km/s."
+  },
+  {
+    "question_number": 22.35,
+    "Questions": "Determine the length of the shortest air column in a cylindrical jar that will strongly reinforce the sound of a tuning fork having a vibration rate of 512 Hz. Use v = 340 m/s for the speed of sound in air.",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 16.6 cm."
+  },
+  {
+    "question_number": 22.36,
+    "Questions": "A long, narrow pipe closed at one end does not resonate to a tuning fork having a frequency of 300 Hz until the length of the air column reaches 28 cm. (a) What is the speed of sound in air at the existing room temperature? (b) What is the next length of column that will resonate to the fork?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. (a) 0.34 km/s; (b) 84 cm."
+  },
+  {
+    "question_number": 22.37,
+    "Questions": "An organ pipe closed at one end is 61.0 cm long. What are the frequencies of the first three overtones if v for sound is 342 m/s?",
+    "year": null,
+    "question_type": "Supplementary Problem",
+    "solution": "Ans. 420 Hz, 700 Hz, 980 Hz."
+  }
+]

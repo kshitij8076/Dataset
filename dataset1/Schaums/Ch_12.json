@@ -1,0 +1,261 @@
+[
+    {
+        "question_number": 12.1,
+        "Questions": "Find the density and specific gravity of gasoline if 51 g occupies 75 cm³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density = 6.8 x 10² kg/m³, Specific gravity = 0.68."
+    },
+    {
+        "question_number": 12.2,
+        "Questions": "What volume does 300 g of mercury occupy? The density of mercury is 13,600 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume = 22.1 cm³."
+    },
+    {
+        "question_number": 12.3,
+        "Questions": "The specific gravity of cast iron is 7.20. Find its density and the mass of 60.0 cm³ of it.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of iron = 7200 kg/m³, Mass of 60.0 cm³ = 0.432 kg."
+    },
+    {
+        "question_number": 12.4,
+        "Questions": "The mass of a calibrated flask is 25.0 g when empty, 75.0 g when filled with water, and 88.0 g when filled with glycerin. Find the specific gravity of glycerin.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Specific gravity of glycerin = 1.26."
+    },
+    {
+        "question_number": 12.5,
+        "Questions": "A calibrated flask has a mass of 30.0 g when empty, 81.0 g when filled with water, and 68.0 g when filled with an oil. Find the density of the oil.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of oil = 745 kg/m³."
+    },
+    {
+        "question_number": 12.6,
+        "Questions": "A solid cube of aluminum is 2.00 cm on each edge. The density of aluminum is 2700 kg/m³. Find the mass of the cube.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Mass of cube = 21.6 g."
+    },
+    {
+        "question_number": 12.7,
+        "Questions": "What is the mass of one liter (1000 cm³) of cottonseed oil of density 926 kg/m³? How much does it weigh?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Mass = 0.926 kg, Weight = 9.08 N."
+    },
+    {
+        "question_number": 12.8,
+        "Questions": "An electrolytic tin-plating process gives a tin coating that is 7.50 x 10⁻⁵ cm thick. How large an area can be coated with 0.500 kg of tin? The density of tin is 7300 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Area = 91.3 m²."
+    },
+    {
+        "question_number": 12.9,
+        "Questions": "A thin sheet of gold foil has an area of 3.12 cm² and a mass of 6.50 mg. How thick is the sheet? The density of gold is 19,300 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Thickness = 1.08 μm."
+    },
+    {
+        "question_number": 12.10,
+        "Questions": "The mass of a liter of milk is 1.032 kg. The butterfat that it contains has a density of 865 kg/m³ when pure, and it constitutes exactly 4 percent of the milk by volume. What is the density of the fat-free skimmed milk?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density of skimmed milk = 1.04 x 10³ kg/m³."
+    },
+    {
+        "question_number": 12.11,
+        "Questions": "A metal wire 75.0 cm long and 0.130 cm in diameter stretches 0.0350 cm when a load of 8.00 kg is hung on its end. Find the stress, the strain, and the Young's modulus for the material of the wire.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Stress = 5.91 x 10⁷ Pa, Strain = 4.67 x 10⁻⁴, Young's Modulus = 127 GPa."
+    },
+    {
+        "question_number": 12.12,
+        "Questions": "A solid cylindrical steel column is 4.0 m long and 9.0 cm in diameter. What will be its decrease in length when carrying a load of 80,000 kg?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Decrease in length = 2.6 mm."
+    },
+    {
+        "question_number": 12.13,
+        "Questions": "Atmospheric pressure is about 1.01 x 10⁵ Pa. How large a force does the atmosphere exert on a 2.0 cm² area on the top of your head?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Force = 20 N."
+    },
+    {
+        "question_number": 12.14,
+        "Questions": "A 60-kg woman stands on a light, cubical box that is 5.0 cm on each edge. The box sits on the floor. What pressure does the box exert on the floor?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Pressure = 2.4 x 10⁴ N/m²."
+    },
+    {
+        "question_number": 12.15,
+        "Questions": "The bulk modulus of water is 2.1 GPa. Compute the volume contraction of 100 mL of water when subjected to a pressure of 1.5 MPa.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume contraction = -0.071 mL."
+    },
+    {
+        "question_number": 12.16,
+        "Questions": "A box-shaped piece of gelatin dessert has a top area of 15 cm² and a height of 3.0 cm. When a shearing force of 0.50 N is applied to the upper surface, the upper surface displaces 4.0 mm relative to the bottom surface. What are the shearing stress, the shearing strain, and the shear modulus for the gelatin?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Shearing stress = 0.33 kPa, Shearing strain = 0.13, Shear modulus = 2.5 kPa."
+    },
+    {
+        "question_number": 12.17,
+        "Questions": "A 15-kg ball of radius 4.0 cm is suspended from a point 2.94 m above the floor by an iron wire of unstretched length 2.85 m. The diameter of the wire is 0.090 cm, and its Young's modulus is 180 GPa. If the ball is set swinging so that its center passes through the lowest point at 5.0 m/s, by how much does the bottom of the ball clear the floor?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "The ball misses by 0.0031 m or 3.1 cm."
+    },
+    {
+        "question_number": 12.18,
+        "Questions": "A vertical wire 5.0 m long and of 0.008 cm² cross-sectional area has Y = 200 GPa. A 2.0-kg object is fastened to its end and stretches the wire elastically. If the object is now pulled down a little and released, the object undergoes vertical SHM. Find the period of its vibration.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Period of vibration = 0.047 s."
+    },
+    {
+        "question_number": 12.19,
+        "Questions": "Find the density and specific gravity of ethyl alcohol if 63.3 g occupies 80.0 mL.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density = 791 kg/m³, Specific gravity = 0.791."
+    },
+    {
+        "question_number": 12.20,
+        "Questions": "Determine the volume of 200 g of carbon tetrachloride, for which sp gr = 1.60.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume = 125 mL."
+    },
+    {
+        "question_number": 12.21,
+        "Questions": "The density of aluminum is 2.70 g/cm³. What volume does 2.00 kg occupy?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume = 740 cm³."
+    },
+    {
+        "question_number": 12.22,
+        "Questions": "Determine the mass of an aluminum cube that is 5.00 cm on each edge. The density of aluminum is 2700 kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Mass = 0.338 kg."
+    },
+    {
+        "question_number": 12.23,
+        "Questions": "A drum holds 200 kg of water or 132 kg of gasoline. Determine for the gasoline (a) its sp gr and (b) ρ in kg/m³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 0.660; (b) 660 kg/m³."
+    },
+    {
+        "question_number": 12.24,
+        "Questions": "Air has a density of 1.29 kg/m³ under standard conditions. What is the mass of air in a room with dimensions 10.0 m × 8.00 m × 3.00 m?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Mass = 310 kg."
+    },
+    {
+        "question_number": 12.25,
+        "Questions": "What is the density of the material in the nucleus of the hydrogen atom? The nucleus can be considered to be a sphere of radius 1.2 × 10⁻¹⁵ m, and its mass is 1.67 × 10⁻²⁷ kg. The volume of a sphere is (4/3)πr³.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Density = 2.3 × 10¹⁷ kg/m³."
+    },
+    {
+        "question_number": 12.26,
+        "Questions": "To determine the inner radius of a uniform capillary tube, the tube is filled with mercury. A column of mercury 2.375 cm long is found to have a mass of 0.24 g. What is the inner radius of the tube? The density of mercury is 13,600 kg/m³, and the volume of a right circular cylinder is πr²h.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Inner radius = 0.49 mm."
+    },
+    {
+        "question_number": 12.27,
+        "Questions": "Battery acid has sp gr = 1.285 and is 38.0 percent sulfuric acid by weight. What mass of sulfuric acid is contained in a liter of battery acid?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Mass of sulfuric acid = 488 g."
+    },
+    {
+        "question_number": 12.28,
+        "Questions": "A thin, semitransparent film of gold (ρ = 19,300 kg/m³) has an area of 14.5 cm² and a mass of 1.93 mg. (a) What is the volume of 1.93 mg of gold? (b) What is the thickness of the film in angstroms, where 1 Å = 10⁻¹⁰ m? (c) Gold atoms have a diameter of about 5 Å. How many atoms thick is the film?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) Volume = 1.00 x 10⁻⁷ m³, (b) Thickness = 69 Å, (c) 138 atoms thick."
+    },
+    {
+        "question_number": 12.29,
+        "Questions": "In an unhealthy, dusty cement mill, there were 2.6 x 10⁷ dust particles (of 2.0 μm diameter) per cubic meter of air. Assuming the particles to be spheres of 2.0 μm diameter, calculate the mass of dust (a) in a 20 m x 15 m x 8.00 m room and (b) inhaled in each average breath of 400-cm³ volume.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 78 g, (b) 13 μg."
+    },
+    {
+        "question_number": 12.30,
+        "Questions": "An iron rod 4.00 m long and 0.500 cm² in cross-section stretches 1.00 mm when a mass of 225 kg is hung from its lower end. Compute Young's modulus for the iron.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Young's Modulus = 176 GPa."
+    },
+    {
+        "question_number": 12.31,
+        "Questions": "A load of 50 kg is applied to the lower end of a steel rod 80 cm long and 0.60 cm in diameter. How much will the rod stretch? Y = 190 GPa for steel.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Stretch = 73 μm."
+    },
+    {
+        "question_number": 12.32,
+        "Questions": "A platform is suspended by four wires at its corners. The wires are 3.0 m long and have a diameter of 2.0 mm. Young's modulus for the material of the wires is 180 GPa. How far will the platform drop (due to elongation of the wires) if a 50-kg load is placed at the center of the platform?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Platform drop = 0.65 mm."
+    },
+    {
+        "question_number": 12.33,
+        "Questions": "Determine the fractional change in volume as the pressure of the atmosphere (1 x 10⁵ Pa) around a metal block is reduced to zero by placing the block in vacuum. The bulk modulus for the metal is 125 GPa.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Fractional change in volume = 8.0 x 10⁻⁷."
+    },
+    {
+        "question_number": 12.34,
+        "Questions": "Compute the volume change of a solid copper cube, 40 mm on each edge, when subjected to a pressure of 20 MPa. The bulk modulus for copper is 125 GPa.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume change = -10⁻⁹ m³."
+    },
+    {
+        "question_number": 12.35,
+        "Questions": "The compressibility of water is 5.0 x 10⁻¹⁰ m²/N. Find the decrease in volume of 100 mL of water when subjected to a pressure of 15 MPa.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Volume decrease = 0.75 mL."
+    },
+    {
+        "question_number": 12.36,
+        "Questions": "Two parallel and opposite forces, each 4000 N, are applied tangentially to the upper and lower faces of a cubical metal block 25 cm on a side. Find the angle of shear and the displacement of the upper surface relative to the lower surface. The shear modulus for the metal is 80 GPa.",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "Angle of shear = 80 x 10⁻⁶ rad, Displacement = 20 x 10⁻⁶ m."
+    },
+    {
+        "question_number": 12.37,
+        "Questions": "A 60-kg motor sits on four cylindrical rubber blocks. Each cylinder has a height of 3.0 cm and a cross-sectional area of 15 cm². The shear modulus for this rubber is 2.0 MPa. (a) If a sideways force of 300 N is applied to the motor, how far will it move sideways? (b) With what frequency will the motor vibrate back and forth sideways if disturbed?",
+        "year": null,
+        "question_type": "Problem",
+        "solution": "(a) 0.075 cm, (b) 13 Hz."
+    }
+]

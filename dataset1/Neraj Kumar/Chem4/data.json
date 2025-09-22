@@ -1,0 +1,1468 @@
+
+[
+  {
+    "ID": "P1_Q1",
+    "Questions": "1. A thermodynamic property is that physical quantity\n(a) which is used in thermochemistry.\n(b) which obeys all the laws of thermodynamics.\n(c) which is used to define a state of the system.\n(d) which is used in measuring thermal change.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P1_Q2",
+    "Questions": "2. Which of the following is not a thermodynamic property of a system?\n(a) H\n(b) P\n(c) E\n(d) w",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P1_Q3",
+    "Questions": "3. Which of the following is the best container for gas during isothermal process?\n(a) Glass vessel\n(b) Wood vessel\n(c) Copper vessel\n(d) Thermos flask",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P1_Q4",
+    "Questions": "4. The internal energy of an ideal gas increases during an isothermal process when the gas is\n(a) expanded by adding more molecules to it.\n(b) expanded by adding more heat to it.\n(c) expanded against zero pressure.\n(d) compressed by doing work on it",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P1_Q5",
+    "Questions": "5. Maximum work can a gas do, if it is allow to expand isothermally against\n(a) vacuum\n(b) high pressure of surrounding\n(c) low pressure of surrounding\n(d) atmospheric pressure",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P1_Q6",
+    "Questions": "6. The internal energy change when a system goes from state A to B is 40 kJ/mol. If the system goes from A to B by a reversible path and returns to state A by an irreversible path, what would be the net change in internal energy?\n(a) 40 kJ\n(b) >40 kJ\n(c) <40 kJ\n(d) Zero",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P1_Q7",
+    "Questions": "7. A system is said to be in thermodynamic equilibrium with surrounding if\n(a) it is only in thermal equilibrium with surrounding.\n(b) it is in both thermal and chemical equilibrium with surrounding.\n(c) it is in thermal, chemical as well as mechanical equilibrium with the surrounding.\n(d) it is in thermal and mechanical equilibrium, but not in chemical equilibrium with surrounding.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P2_Q8",
+    "Questions": "8. If a closed system has adiabatic boundaries, then at least one boundary must be\n(a) permeable\n(b) imaginary\n(c) movable\n(d) fixed",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P2_Q9",
+    "Questions": "9. Which of the following pair does show the extensive properties?\n(a) temperature and pressure\n(b) viscosity and surface tension\n(c) refractive index and specific heat\n(d) volume and heat capacity",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P2_Q10",
+    "Questions": "10. Which of the following statement is correct?\n(a) Heat is thermodynamic property of system.\n(b) Work is thermodynamic property of system.\n(c) Work done by a conservative force is path function.\n(d) Heat involved in chemical reaction is path independent physical quantity.",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P2_Q11",
+    "Questions": "11. Which of the following statement is incorrect?\n(a) Only a state function may be expressed as difference in its value at two states in any process.\n(b) A process cannot be defined on the basis of initial and final states of the system.\n(c) In a cyclic process, the internal energy of the system remains throughout constant.\n(d) During irreversible process, the equation PV = nRT is not applicable to ideal gas.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P2_Q12",
+    "Questions": "12. For an isothermal process, the essential condition is\n(a) ΔΤ = 0\n(b) ΔΗ = 0\n(c) ∆U= 0\n(d) dT=0",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P2_Q13",
+    "Questions": "13. Which of the following is correct?\n(a) An ideal gas always obeys the equation: PVγ = constant in adiabatic process.\n(b) An ideal gas always obeys the equation: PVx = constant in polytropic process.\n(c) In a polytropic process, the heat capacity of the system remains same throughout.\n(d) In all the cyclic process, w_net by the system is non-zero.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P2_Q14",
+    "Questions": "14. Which of following is incorrect about reversible process?\n(a) System remains always in thermodynamic equilibrium.\n(b) The process is extremely slow.\n(c) The process may be reversed at any stage only by making infinitesimally small change in opposite direction.\n(d) Reversible processes may be performed in finite time.",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P2_Q15",
+    "Questions": "15. The law of equipartition of energy is applicable to the system whose constituents are\n(a) in random motion\n(b) in orderly motion\n(c) moving with constant speed\n(d) in rest",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P2_Q16",
+    "Questions": "16. A system absorbs 20 kJ heat and does 10 kJ of work. The internal energy of the system\n(a) increases by 10 kJ\n(b) decreases by 10 kJ\n(c) increases by 30 kJ\n(d) decreases by 30 kJ",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P2_Q17",
+    "Questions": "17. The volume of a system becomes twice its original volume on the absorption of 300 cal of heat. The work done on the surrounding was found to be 200 cal. What is ΔU for the system?\n(a) 500 cal\n(b) 300 cal\n(c) 100 cal\n(d) -500 cal",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P3_Q18",
+    "Questions": "18. A system absorbs 100 kJ heat in the process shown in the figure. What is ΔU for the system?\nP\n2 bar\n1 bar\n\nV\n1 m³ 2 m³\n(a) -50 kJ\n(b) +50 kJ\n(c) +150 kJ\n(d) -150 kJ",
+    "Answers": "(a)",
+    "images": ["Chem4/Neraj_Kumar1.png"]
+  },
+  {
+    "ID": "P3_Q19",
+    "Questions": "19. In a given process on an ideal gas, dw = 0 and dq < 0. Then for the gas,\n(a) the temperature will decrease\n(b) the volume will increase\n(c) the pressure will remain constant\n(d) the temperature will increase",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P3_Q20",
+    "Questions": "20. Five moles of an ideal gas is expanded isothermally from 5 dm³ to 5 m³ at 300 K. Which of the following is incorrect about the gas?\n(a) No heat is absorbed or rejected by the gas.\n(b) There is no change in internal energy of the gas.\n(c) There is no change in enthalpy of the gas.\n(d) Pressure of the gas will decrease by 1000 times.",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P3_Q21",
+    "Questions": "21. One mole of an ideal gas at 300 K is expanded isothermally from an initial volume of 1 L to 10 L. The change in internal energy, ΔU, for the gas in this process is\n(a) 163.7 cal\n(b) zero\n(c) 1381.1 cal\n(d) 9 L-atm",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P3_Q22",
+    "Questions": "22. Five moles of an ideal gas expand isothermally and reversibly from an initial pressure of 100 atm to a final pressure of 1atm at 27°C. The work done by the gas is (ln100 = 4.6)\n(a) 2760 cal\n(b) 6000 cal\n(c) 0\n(d) 13,800 cal",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P3_Q23",
+    "Questions": "23. The work done in the isothermal reversible expansion of argon gas at 27°C from 4 L to 16 L was equal to 4200 cal. What is the amount of argon subjected to such an expansion? (Ar = 40, ln4 = 1.4)\n(a) 5.0 g\n(b) 20.0 g\n(c) 200.0 g\n(d) 48.1 g",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P3_Q24",
+    "Questions": "24. The minimum work which must be done to compress 16 g of oxygen isothermally, at 300 K from a pressure of 1.01325 × 10³ N/m² to 1.01325 × 10⁵ N/m² is (ln100 = 4.6, R = 8.3 J/K-mol)\n(a) 5727 J\n(b) 11.454 kJ\n(c) 123.255 kJ\n(d) 1232.55 J",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P3_Q25",
+    "Questions": "25. For a reversible process at T = 300 K, volume of the ideal gas is increased from 1 L to 10 L. If the process is isothermal, the ΔH of the process is\n(a) 11.47 kJ\n(b) 4.98 kJ\n(c) 0\n(d) -11.47 kJ",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P3_Q26",
+    "Questions": "26. The magnitude of work done by one mole of a van der Waals gas, during its isothermal reversible expansion from volume V₁ to V₂ at temperature T K, is\n(a) RT ln(V₂/V₁)\n(b) RT ln((V₂-b)/(V₁-b))\n(c) RT ln((V₂-b)/(V₁-b)) + a(1/V₂ - 1/V₁)\n(d) RT ln((V₂-b)/(V₁-b)) - a(1/V₂ - 1/V₁)",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P4_Q27",
+    "Questions": "27. An ideal gas undergoes isothermal expansion from (10 atm, 1 L) to (1 atm, 10 L) either by path-I (infinite stage expansion) or by path-II (first against 5 atm and then against 1 atm). The value of q_path-I / q_path-II is\n(a) 2.303 / 1.3\n(b) 1.3 / 2.303\n(c) 1.0 / (13 × 2.303)\n(d) 13 × 2.303",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P4_Q28",
+    "Questions": "28. An ideal gas is expanded irreversibly from 5 L to 10 L against a constant external pressure of 1 bar. The value of heat involved (q) in this isenthalpic process is\n(a) 0\n(b) +500 J\n(c) +5 J\n(d) -500 J",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P4_Q29",
+    "Questions": "29. The work done in an adiabatic change of fixed amount of an ideal gas depends on change in\n(a) volume\n(b) pressure\n(c) temperature\n(d) density",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P4_Q30",
+    "Questions": "30. In the reversible adiabatic expansion of an ideal monoatomic gas, the final volume is 8 times the initial volume. The ratio of final temperature to initial temperature is\n(a) 8:1\n(b) 1:4\n(c) 1:2\n(d) 4:1",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P4_Q31",
+    "Questions": "31. One mole of monoatomic ideal gas at T K is expanded from 1 L to 2 L adiabatically under a constant external pressure of 1 atm. The final temperature of the gas in Kelvin is\n(a) T\n(b) T / (2^(2/3))\n(c) T - 2 / (3 × 0.0821)\n(d) T + 3 / (2 × 0.0821)",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P4_Q32",
+    "Questions": "32. Two moles of an ideal gas (C_v,m = (3/2)R) was compressed adiabatically against constant pressure of 2 atm, which was initially at 350 K and 1 atm. The work done on the gas in this process is\n(a) 250R\n(b) 500R\n(c) 125R\n(d) 300R",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P4_Q33",
+    "Questions": "33. Two moles of an ideal gas (γ = 1.4) was allowed to expand reversibly and adiabatically from 1 L, 527°C to 32 L. The molar enthalpy change of the gas is\n(a) -4200R\n(b) -2100R\n(c) -1500R\n(d) -3000R",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P4_Q34",
+    "Questions": "34. Equal moles of He, H₂, CO₂, and SO₃ gases are expanded adiabatically and reversibly from the same initial state to the same final volume. The magnitude of work is maximum for (Assume ideal behaviour of gases and all the degree of freedoms are active.)\n(a) He\n(b) H₂\n(c) CO₂\n(d) SO₃",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P4_Q35",
+    "Questions": "35. An ideal monoatomic gas initially at 300 K expands adiabatically into vacuum to double its volume. The final temperature of gas is\n(a) 300 K\n(b) 300 × (0.5)²ᐟ³ K\n(c) 300 × (2)²ᐟ³ K\n(d) 600 K",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P4_Q36",
+    "Questions": "36. Temperature of one mole of an ideal gas is increased by one degree at constant pressure. Work done by the gas is\n(a) R\n(b) 2R\n(c) R/2\n(d) 3R",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P4_Q37",
+    "Questions": "37. What is the change in internal energy when a gas contracts from 325 ml to 125 ml at a constant pressure of 2 bar, while at the same time being cooled by removing 124 J heat?\n(a) -524 J\n(b) -84 J\n(c) -164 J\n(d) +84 J",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P5_Q38",
+    "Questions": "38. Two moles of an ideal gas [C_v,m (/JK⁻¹ mol⁻¹) = 20 + 0.01T(/K)] is heated at constant pressure from 27°C to 127°C. The amount of heat absorbed by the gas is\n(a) 1662.8 J\n(b) 4700 J\n(c) 6362.8 J\n(d) 3037.2 J",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P5_Q39",
+    "Questions": "39. A monoatomic gas expands isobarically. The percentage of heat supplied that increases the thermal energy and that involved in doing work for expansion is\n(a) 50:50\n(b) 60:40\n(c) 40:60\n(d) 75:25",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P5_Q40",
+    "Questions": "40. The maximum high temperature molar heat capacity at constant volume to be expected for acetylene which is a linear molecule is\n(a) 9 cal/deg-mole\n(b) 12 cal/deg-mole\n(c) 19 cal/deg-mole\n(d) 14 cal/deg-mole",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P5_Q41",
+    "Questions": "41. Molar heat capacity of water in equilibrium with ice at constant pressure is\n(a) zero\n(b) infinity\n(c) 40.45 kJ/K-mol\n(d) 75.48 J/K-mol",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P5_Q42",
+    "Questions": "42. For which of the following ideal gas, C_v,m is independent of temperature?\n(a) He\n(b) H₂\n(c) CO\n(d) SO₂",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P5_Q43",
+    "Questions": "43. If one mole of a monoatomic gas (γ = 5/3) is mixed with one mole of a diatomic gas (γ = 7/5), the value of γ for the mixture is\n(a) 1\n(b) 1.5\n(c) 2\n(d) 3.0",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P5_Q44",
+    "Questions": "44. When an ideal diatomic gas is a heated at a constant pressure, the fraction of heat energy supplied which increase the internal energy of the gas is\n(a) 2/5\n(b) 3/5\n(c) 5/7\n(d) 3/7",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P5_Q45",
+    "Questions": "45. A gas is heated at constant pressure. The fraction of heat absorbed used in doing work is\n(a) 1/γ\n(b) 1 - 1/γ\n(c) (γ-1)/γ\n(d) γ",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P5_Q46",
+    "Questions": "46. An ideal gas undergoes a process in which its pressure and volume are related as PVⁿ = constant, where n is a constant. The molar heat capacity for the gas in this process will be zero if\n(a) n = γ\n(b) n = γ - 1\n(c) n = γ + 1\n(d) n = 1 - γ",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P5_Q47",
+    "Questions": "47. An ideal gas (γ = 1.5) undergoes a change in state such that the magnitude of heat absorbed by the gas is equal to the magnitude of work done by the gas. The molar heat capacity of the gas in this process is\n(a) 2R\n(b) R\n(c) 3R\n(d) 1.5R",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P5_Q48",
+    "Questions": "48. A quantity of 70 calories of heat is required to raise the temperature of 2 mole of an ideal gas at constant pressure from 40°C to 50°C. The amount of heat required to raise the temperature of the same gas through the same range at constant volume is\n(a) 90 calorie\n(b) 70 calorie\n(c) 50 calorie\n(d) 30 calorie",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P5_Q49",
+    "Questions": "49. During an adiabatic process, the pressure of a gas is found to be proportional to cube of its absolute temperature. The Poisson's ratio of gas is\n(a) 3/2\n(b) 7/2\n(c) 5/3\n(d) 9/7",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P5_Q50",
+    "Questions": "50. A diatomic ideal gas initially at 273 K is given 100 cal heat due to which system did 210 J work. Molar heat capacity of the gas for the process is (1 cal = 4.2 J)\n(a) (3/2)R\n(b) (5/2)R\n(c) (5/4)R\n(d) 5R",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P6_Q51",
+    "Questions": "51. An ideal monoatomic gas undergoes a reversible process: P/V = constant, from (2 bar, 273 K) to 4 bar. The value of ΔU/w for this process is\n(a) +3.0\n(b) -3.0\n(c) -1.5\n(d) +1.5",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P6_Q52",
+    "Questions": "52. The work done by one mole of an ideal gas in the reversible process: PV³ = constant, from (1 atm, 300 K) to 2√2 atm is\n(a) 150R\n(b) 300R\n(c) 75R\n(d) 600R",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P6_Q53",
+    "Questions": "53. 2 moles of an ideal monoatomic gas undergoes reversible expansion from (4 L, 400 K) to 8 L such that TV² = constant. The change in enthalpy of the gas is\n(a) -1500R\n(b) -3000R\n(c) +1500R\n(d) +3000R",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P6_Q54",
+    "Questions": "54. Two moles of helium gas undergoes a cyclic process as shown in the figure. Assuming ideal behaviour of gas, the net work done by the gas in this cyclic process is\n[Image of a P-T graph showing a rectangular cycle A->B->C->D->A]\n(a) 0\n(b) 100R ln2\n(c) 100R ln4\n(d) 200R ln4",
+    "Answers": "(c)",
+    "images": ["Chem4/Neraj_Kumar2.png"]
+  },
+  {
+    "ID": "P6_Q55",
+    "Questions": "55. One mole of an ideal gas undergoes the following cyclic process:\n(i) Isochoric heating from (P₁, V₁, T₁) to double temperature.\n(ii) Isobaric expansion to double volume.\n(iii) Linear expansion (on P-V curve) to (P₁, 8V₁).\n(iv) Isobaric compression to initial state.\nIf T₁ = 300 K, the magnitude of net work done by the gas in the cyclic process is\n(a) 2400 cal\n(b) 1200 cal\n(c) 4800 cal\n(d) 3600 cal",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P6_Q56",
+    "Questions": "56. One mole of a non-ideal gas undergoes a change of state (2 atm, 3 L, 95 K) → (4 atm, 5 L, 245 K) with a change in internal energy, ΔU = 30.0 L-atm. The change in enthalpy (ΔH) of the process in L-atm is\n(a) 40.0\n(b) 42.3\n(c) 44.0\n(d) undefined, because pressure is not constant",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P6_Q57",
+    "Questions": "57. The normal boiling point of water is 100°C. At 100°C\n(a) the average kinetic energy of molecules in vapour is greater than that of liquid water.\n(b) the average potential energy of molecules in vapour is greater than that of liquid water.\n(c) the molar internal energy is same for vapour and liquid water.\n(d) water boils at any pressure.",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P6_Q58",
+    "Questions": "58. The latent heat of vaporization of a liquid at 500 K and 1 atm pressure is 10 kcal/mol. What will be the change in internal energy if 3 moles of the liquid changes to vapour state at the same temperature and pressure?\n(a) 27 kcal\n(b) 13 kcal\n(c) -27 kcal\n(d) -13 kcal",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P7_Q59",
+    "Questions": "59. A quantity of 1 g of water on evaporation at atmospheric pressure forms 1671 cm³ of steam. Heat of vaporization is 540 cal/g. The approximate increase in internal energy is\n(a) 250 cal\n(b) 500 cal\n(c) 1000 cal\n(d) 1500 cal",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P7_Q60",
+    "Questions": "60. At 500 kbar and T K, the densities of graphite and diamond are 2.0 and 3.0 g/cm³, respectively. The value of (ΔH – ΔU) for the conversion of 1 mole of graphite into diamond at 500 kbar and T K is\n(a) 100 kJ\n(b) -100 kJ\n(c) 1000 kJ\n(d) -1000 kJ",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P7_Q61",
+    "Questions": "61. The efficiency of the reversible heat engine is η_r and that of irreversible heat engine is η_i. Which of the following relation is correct?\n(a) η_r = η_i\n(b) η_r > η_i\n(c) η_r < η_i\n(d) η_i may be less than, greater than or equal to η_r, depending on the gas.",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P7_Q62",
+    "Questions": "62. For which of the following process, ΔS is negative?\n(a) H₂(g) → 2H(g)\n(b) N₂(g, 1 atm) → N₂(g, 8 atm)\n(c) 2SO₃(g) → 2SO₂(g) + O₂(g)\n(d) C(graphite) → C(diamond)",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P7_Q63",
+    "Questions": "63. ΔS will be highest for the reaction\n(a) Ca(s) + 1/2 O₂(g) → CaO(s)\n(b) CaCO₃(s) → CaO(s) + CO₂(g)\n(c) C(s) + O₂(g) → CO₂(g)\n(d) N₂(g) + O₂(g) → 2NO(g)",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P7_Q64",
+    "Questions": "64. Entropy decrease during\n(a) crystallization of sucrose from solution\n(b) rusting of iron\n(c) melting of ice\n(d) vaporization of camphor",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P7_Q65",
+    "Questions": "65. Change in entropy is negative for\n(a) Bromine (l) → Bromine (g)\n(b) C(s) + H₂O (g) → CO(g) + H₂(g)\n(c) N₂(g, 10 atm) → N₂ (g, 1 atm)\n(d) Fe (1 mol, 400 K) → Fe (1 mol, 300 K)",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P7_Q66",
+    "Questions": "66. When a substance is heated, its entropy increases. The increase will be maximum at\n(a) 0°C\n(b) the melting point\n(c) the boiling point\n(d) 100°C",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P7_Q67",
+    "Questions": "67. An isolated system comprises the liquid in equilibrium with vapours. At this stage, the molar entropy of the vapour is\n(a) less than that of liquid\n(b) more than that of liquid\n(c) equal to zero\n(d) equal to that of liquid",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P7_Q68",
+    "Questions": "68. According to second law of thermodynamics, heat is partly converted into useful work and part of it\n(a) becomes electrical energy\n(b) is always wasted\n(c) increases the weight of the body\n(d) becomes K.E.",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P8_Q69",
+    "Questions": "69. Choose the substance which has higher possible entropy (per mole) at a given temperature.\n(a) solid carbon dioxide\n(b) nitrogen gas at 1 atm\n(c) nitrogen gas at 0.01 atm\n(d) nitrogen gas at 0.00001 atm",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P8_Q70",
+    "Questions": "70. The change that does not increase entropy\n(a) evaporation of liquid\n(b) condensation\n(c) sublimation\n(d) melting of solid",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P8_Q71",
+    "Questions": "71. Ammonium chloride when dissolved in water leads to cooling sensation. The dissolution of NH₄Cl at constant temperature is accompanied by\n(a) increase in entropy\n(b) decrease in entropy\n(c) no change in entropy\n(d) no change in enthalpy",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P8_Q72",
+    "Questions": "72. When the value of entropy is greater, then the ability for work is\n(a) maximum\n(b) minimum\n(c) medium\n(d) none of these",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P8_Q73",
+    "Questions": "73. When one mole of an ideal gas is compressed to half of its initial volume and simultaneously heated to twice its temperature, the change in entropy is\n(a) C_v ln2\n(b) C_p ln2\n(c) R ln2\n(d) (C_v - R) ln2",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P8_Q74",
+    "Questions": "74. What is the entropy change when 3.6 g of liquid water is completely converted into vapours at 373 K? The molar heat of vaporization is 40.85 kJ/mol.\n(a) 218.9 J/K\n(b) 2.189 J/K\n(c) 21.89 J/K\n(d) 0.2189 J/K",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P8_Q75",
+    "Questions": "75. The entropy change in the fusion of one mole of a solid melting at 300 K (latent heat of fusion, 2930 J/mol) is\n(a) 9.77 J/K-mol\n(b) 10.73 J/K-mol\n(c) 2930 J/K-mol\n(d) 108.5 J/K-mol",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P8_Q76",
+    "Questions": "76. Oxygen gas weighing 64 g is expanded from 1 atm to 0.25 atm at 30°C. What is the entropy change, assuming the gas to be ideal? (ln 4 = 1.4, R = 8.3 J/K-mol)\n(a) 23.24 J/K\n(b) 34.86 J/K\n(c) 46.48 J/K\n(d) 11.62 J/K",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P8_Q77",
+    "Questions": "77. Two moles of an ideal monoatomic gas is heated from 27°C to 627°C, reversibly and isochorically. The entropy of gas\n(a) increases by 2R ln3\n(b) increases by 3R ln3\n(c) decreases by 2R ln3\n(d) decreases by 3R ln3",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P8_Q78",
+    "Questions": "78. One mole of an ideal monoatomic gas undergoes adiabatic free expansion from 2 to 20 dm³, 300 K. The value of ΔS for the gas is\n(a) 0\n(b) +R ln10\n(c) -Rln10\n(d) +1.5 R ln10",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P8_Q79",
+    "Questions": "79. The standard molar entropy of an ideal gas (γ = 4/3) is 2.5 cal/K-mol at 25°C and 1 bar. The standard molar entropy of the gas at 323°C and 1 bar is\n(a) undefined\n(b) R ln2\n(c) R ln4\n(d) R ln8",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P8_Q80",
+    "Questions": "80. Given the following entropy values (in J/K-mol) at 298 K and 1 atm H₂(g) = 130.6, Cl₂(g) = 223.0 and HCl(g) = 186.7. The entropy change (in J/K-mol) for the reaction: H₂(g) + Cl₂(g) → 2HCl(g), is\n(a) +540.3\n(b) +727.0\n(c) -166.9\n(d) +19.8",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P9_Q81",
+    "Questions": "81. The ΔG in the process of melting of ice at -15°C is\n(a) less than zero\n(b) greater than zero\n(c) equal to zero\n(d) none of these",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P9_Q82",
+    "Questions": "82. For a system in equilibrium, ΔG = 0 under conditions of constant\n(a) temperature and pressure\n(b) temperature and volume\n(c) pressure and volume\n(d) energy and volume",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P9_Q83",
+    "Questions": "83. One mole of ice is converted into water at 273 K and 1 atm. The entropies of H₂O (s) and H₂O (l) are 38.0 and 58.0 J/K-mol, respectively. The enthalpy change for the conversion is\n(a) 5460 kJ/mol\n(b) 5460 J/mol\n(c) -5460 J/mol\n(d) 20 J/mol",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P9_Q84",
+    "Questions": "84. The solubility of NaCl(s) in water at 298 K is about 6 moles per litre. Suppose you add 1 mole of NaCl(s) to a litre of water. For the reaction: NaCl(s) + H₂O → NaCl(aq)\n(a) ΔG > 0, ΔS > 0\n(b) ΔG < 0, ΔS > 0\n(c) ΔG > 0, ΔS < 0\n(d) ΔG < 0, ΔS < 0",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P9_Q85",
+    "Questions": "85. The values of ΔG are very important in metallurgy. The ΔG values for the following reactions at 1000 K are given as:\nS₂(s) + 2O₂(g) → 2SO₂(g); ΔG = -544 kJ\n2Zn(s) + S₂(s) → 2ZnS(s); ΔG = -293 kJ\n2Zn(s) + O₂(g) → 2ZnO(s); ΔG = -480 kJ\nThe ΔG for the reaction: 2ZnS(s) + 3O₂(g) → 2ZnO(s) + 2SO₂(g) will be\n(a) -357 kJ\n(b) -731 kJ\n(c) -773 kJ\n(d) -229 kJ",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P9_Q86",
+    "Questions": "86. The following reaction is at equilibrium at 298 K\n2NO (g, 0.00001 bar) + Cl₂ (g, 0.01 bar) ⇌ 2NOCl (g, 0.01 bar).\nΔG° for the reaction is\n(a) -45.65 kJ\n(b) -28.53 kJ\n(c) -22.82 kJ\n(d) -57.06 kJ",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P9_Q87",
+    "Questions": "87. What is the free energy change, ΔG, when 1.0 mole of water at 100°C and 1 atm pressure is converted in to steam at 100°C and 1 atm pressure?\n(a) 540 cal\n(b) -9800 cal\n(c) 9800 cal\n(d) 0 cal",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P9_Q88",
+    "Questions": "88. The enthalpy and entropy change for a chemical reaction are -2500 cal and +7.4 cal/K, respectively. The nature of reaction at 298 K is\n(a) Spontaneous\n(b) Reversible\n(c) Irreversible\n(d) Non-spontaneous",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P9_Q89",
+    "Questions": "89. A spontaneous reaction is impossible if\n(a) both ΔH and ΔS are negative\n(b) ΔH and ΔS are positive\n(c) ΔH is negative and ΔS is positive\n(d) ΔH is positive and ΔS is negative",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P9_Q90",
+    "Questions": "90. For a reversible reaction, if ΔG° = 0, the equilibrium constant of the reaction should be equal to\n(a) Zero\n(b) 1\n(c) 2\n(d) 10",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P11_SecA_Q1",
+    "Questions": "1. Which of the following gas possess the largest internal energy?\n(a) 2 moles of He gas occupying 1000 L at 300 K\n(b) 56 kg of nitrogen at 107 Pa and 300 K\n(c) 8 g of oxygen at 8 atm and 300 K\n(d) 1000 mole of argon occupying 40000 L at 900 K",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P11_SecA_Q2",
+    "Questions": "2. A gas expands in a piston cylinder device from V₁ to V₂, the process being described by PV = a + bV, where P is in Nm⁻², V is in m³ and a and b are constants. The work done in the process is\n(a) a logₑ(V₂/V₁) + b(V₂ - V₁)\n(b) -a logₑ(V₂/V₁) - b(V₂ - V₁)\n(c) -a logₑ(V₂/V₁) + b(V₂ - V₁)\n(d) a logₑ(V₂/V₁) + b(V₂ - V₁)",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P11_SecA_Q3",
+    "Questions": "3. An average human produces about 10 MJ of heat each day through metabolic activity. If a human body were an isolated system of mass 80 kg with the heat capacity of water, what temperature rise would the body experience? Heat capacity of water = 4.2 J/K-g.\n(a) 29.76°C\n(b) 2.976 K\n(c) 2.976 × 10⁴°C\n(d) 0.029°C",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P11_SecA_Q4",
+    "Questions": "4. The heat capacity of liquid water is 75.6 J/K-mol, while the enthalpy of fusion of ice is 6.0 kJ/mol. What is the smallest number of ice cubes at 0°C, each containing 9.0 g of water, needed to cool 500 g of liquid water from 20°C to 0°C?\n(a) 1\n(b) 7\n(c) 14\n(d) 21",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P11_SecA_Q5",
+    "Questions": "5. An insulated container of gas has two chambers separated by an insulating partition. One of the chambers has volume V₁ and contains an ideal gas at pressure P₁ and temperature T₁. The other chamber has volume V₂ and contains the same ideal gas at pressure P₂ and temperature T₂. If the partition is removed without doing any work on the gas, the final equilibrium temperature of the gas in the container will be\n(a) (T₁T₂(P₁V₁ + P₂V₂)) / (P₁V₁T₂ + P₂V₂T₁)\n(b) (P₁V₁T₁ + P₂V₂T₂) / (P₁V₁ + P₂V₂)\n(c) (P₁V₁T₂ + P₂V₂T₁) / (P₁V₁ + P₂V₂)\n(d) (T₁T₂(P₁V₁ + P₂V₂)) / (P₁V₁T₁ + P₂V₂T₂)",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P11_SecA_Q6",
+    "Questions": "6. The work involved (w) in an isothermal expansion of n moles of an ideal gas from an initial pressure of 'P' atm to final pressure of 1 atm in number of steps such that in every step the constant external pressure exactly 1 atm less than the initial pressure of gas is maintained, is given as\n(a) -nRT Σᵢ₌₁ⁱ⁼ᵖ⁻¹ (i / (P+1-i))\n(b) -nRT Σᵢ₌₁ⁱ⁼ᵖ (1 / (P+1-i))\n(c) -nRT Σᵢ₌₁ⁱ⁼ᵖ (i / (P+1-i))\n(d) -nRT Σᵢ₌₁ⁱ⁼ᵖ⁻¹ (1 / (P+1-i))",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P12_SecA_Q7",
+    "Questions": "7. An ideal gaseous sample at initial state (P₀, V₀, T₀) is allowed to expand to volume 2V₀ using two different processes. For the first process, the equation of process is 2PV² = K₁ and for the second process, the equation of the process is PV = K₂. Then\n(a) Magnitude of work done in the first process will be greater than that in the second process.\n(b) Magnitude of work done in the second process will be greater than that in the first process.\n(c) Work done in both the processes cannot be compared without knowing the relation between K₁ and K₂.\n(d) First process is impossible.",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P12_SecA_Q8",
+    "Questions": "8. If a triatomic non-linear gas is heated isothermally, what percentage of the heat energy is used to increase the internal energy?\n(a) zero\n(b) 60%\n(c) 50%\n(d) 100%",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P12_SecA_Q9",
+    "Questions": "9. A student is calculating the work done by 2 mole of an ideal gas in a reversible isothermal expansion shown in the figure. He by mistake calculated the area of the shaded area in the PV graph shown, as work and answered the magnitude of work equal to 49.26 L-atm. What is the correct magnitude of work done by the gas, in l-atm? (R = 0.0821 L-atm/K-mol)\n(a) 49.26\n(b) 98.52\n(c) 78.63\n(d) 34.14",
+    "Answers": "(d)",
+    "images": ["Chem4/Neraj_Kumar3.png"]
+  },
+  {
+    "ID": "P12_SecA_Q10",
+    "Questions": "10. In a certain polytropic process the volume of argon was increased 4 times. Simultaneously, the pressure decreased 8 times. The molar heat capacity of argon in this process, assuming the gas to be ideal, is\n(a) -4.2 J/K-mol\n(b) +4.2 J/K-mol\n(c) 12.47 J/K-mol\n(d) 20.78 J/K-mol",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P12_SecA_Q11",
+    "Questions": "11. The molar heat capacity at 25°C should be close to 27 J/K-mol for all of the given elements except\n(a) Pt\n(b) W\n(c) Ne\n(d) Sr",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P12_SecA_Q12",
+    "Questions": "12. The pressure and density of a diatomic gas (γ = 7/5) change from (P₁, d₁) to (P₂, d₂) adiabatically. If d₂/d₁ = 32, then what is the value of P₂/P₁?\n(a) 32\n(b) 64\n(c) 128\n(d) 256",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P12_SecA_Q13",
+    "Questions": "13. How many times a diatomic gas should be expanded adiabatically so as to reduce the RMS speed to half?\n(a) 8\n(b) 16\n(c) 32\n(d) 64",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P12_SecA_Q14",
+    "Questions": "14. Work done by a sample of an ideal gas in a process A is double the work done in another process B. The temperature rises through the same amount in the two processes. If C_A and C_B are the molar heat capacities for the two processes, then\n(a) C_A = C_B\n(b) C_A > C_B\n(c) C_A < C_B\n(d) both, undefined",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P12_SecA_Q15",
+    "Questions": "15. One mole of oxygen is heated from 0°C, at constant pressure, till its volume increased by 10%. The specific heat of oxygen, under these conditions, is 0.22 cal/g-K. The amount of heat required is\n(a) 32 × 0.22 × 27.3 × 4.2 J\n(b) 16 x 0.22 × 27.3 × 4.2 J\n(c) (32 × 0.22 × 27.3) / 4.2 J\n(d) (16 × 0.22 × 27.3) / 4.2 J",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P13_SecA_Q16",
+    "Questions": "16. Heat energy of 743 J is needed to raise the temperature of 5 moles of an ideal gas by 2 K at constant pressure. How much heat energy is needed to raise the temperature of the same mass of the gas by 2K at constant volume?\n(a) 826 J\n(b) 743 J\n(c) 660 J\n(d) 600 J",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P13_SecA_Q17",
+    "Questions": "17. When an ideal gas at pressure, P, temperature, T and volume, V, is isothermally compressed to V/n, its pressure becomes P_i. If the gas is compressed adiabatically to V/n, its pressure becomes P_a. The ratio of P_a/P_i is\n(a) 1\n(b) n\n(c) n^γ\n(d) n^(1-γ)",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P13_SecA_Q18",
+    "Questions": "18. If the ratio C_p/C_v = γ, the change in internal energy of the mass of a gas, when volume changes from V to 2V at constant pressure, P, is\n(a) R / (γ-1)\n(b) PV\n(c) PV / (γ-1)\n(d) γPV / (γ-1)",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P13_SecA_Q19",
+    "Questions": "19. A thermally insulated vessel containing a gas whose molar mass is equal to 40 and ratio of specific heats is 1.5, moves with a velocity 100 m/s. Find the gas temperature increment (in °C) resulting from the sudden stoppage of the vessel.\n(a) 12\n(b) 24\n(c) 36\n(d) 48",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P13_SecA_Q20",
+    "Questions": "20. With what minimum pressure must a given volume of an ideal gas (γ = 1.4), originally at 400 K and 100 kPa, be adiabatically compressed in order to raise its temperature up to 700 K?\n(a) 708.9 kPa\n(b) 362.5 kPa\n(c) 1450 kPa\n(d) 437.4 kPa",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P13_SecA_Q21",
+    "Questions": "21. Two rigid adiabatic vessels A (volume = 4 L) and B (volume = 6 L), which initially contains two gases at different temperatures, are connected by a pipe of negligible volume. The vessel A contains 2 moles of Ne gas (C_p,m = 5 cal/K-mol) at 300 K and vessel B contains 3 moles of SO₂ gas (C_p,m = 8 cal/K-mol) at 400 K. What is the final pressure (in atm) when the valve is opened and 12 kcal heat is supplied through it to the vessels?\n(a) 3.5\n(b) 7\n(c) 35\n(d) 70",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P13_SecA_Q22",
+    "Questions": "22. A container of volume 1 m³ is divided into two equal parts by a partition. One part has an ideal diatomic gas at 300 K and the other part has vacuum. The whole system is isolated from the surrounding. When the partition is removed, the gas expands to occupy the whole volume. Its temperature will be\n(a) 300 K\n(b) 227.5°C\n(c) 455 K\n(d) 455°C",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P13_SecA_Q23",
+    "Questions": "23. If all degree of freedom of a three dimensional N-atomic gaseous molecule is excited, then C_p/C_v ratio of gas should be\n(a) 1.33\n(b) 1 + 1 / (3N-3)\n(c) 1 + 1/N\n(d) 1 + 1 / (3N-2)",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P13_SecA_Q24",
+    "Questions": "24. One mole of an ideal gas undergoes a reversible process: T = T₀ + αV, where T₀ and α are constants. If its volume increases from V₁ to V₂, the amount of heat transferred to the gas is\n(a) C_p,m RT₀ ln(V₂/V₁)\n(b) αC_p,m (V₂ - V₁) / (RT₀) ln(V₂/V₁)\n(c) αC_p,m(V₂-V₁) + RT₀ ln(V₂/V₁)\n(d) RT₀ ln(V₂/V₁) - αC_p,m(V₂-V₁)",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P14_SecA_Q25",
+    "Questions": "25. The average degree of freedom per molecule for a gas is 6. The gas performs 25 J of work when it expands at constant pressure. What is the amount of heat absorbed by the gas?\n(a) 25 J\n(b) 50 J\n(c) 75 J\n(d) 100 J",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P14_SecA_Q26",
+    "Questions": "26. One mole of an ideal monoatomic gas is heated in a process PV⁵ᐟ² = constant. By what amount heat is absorbed in the process in 26°C rise in temperature?\n(a) 100 J\n(b) 180 J\n(c) 200 J\n(d) 208 J",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P14_SecA_Q27",
+    "Questions": "27. What is the heat capacity of the ideal monoatomic gas undergoing the process shown in the figure?\nP (atm)\n4\n45°\n2 V (in L)\n(a) 1.5R\n(b) 2.5R\n(c) 3.5R\n(d) 1.33R",
+    "Answers": "(c)",
+    "images": ["Chem4/Neraj_Kumar4.png"]
+  },
+  {
+    "ID": "P14_SecA_Q28",
+    "Questions": "28. A sample of ideal gas is compressed from initial volume of 2V₀ to V₀ using three different processes\n(1) reversible isothermal\n(2) reversible adiabatic\n(3) irreversible adiabatic under a constant external pressure.\nThen\n(a) final temperature of gas will be highest at the end of 2nd process.\n(b) magnitude of enthalpy change of sample will be highest in isothermal process.\n(c) final temperature of gas will be highest at the end of 3rd process.\n(d) final pressure of gas will be highest at the end of second process.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P14_SecA_Q29",
+    "Questions": "29. An ideal gas expands from volume V₁ to V₂. This may be achieved by any of the three processes: isobaric, isothermal and adiabatic. Which of the following statement is not true for ΔE?\n(a) ΔE is the least in the adiabatic expansion.\n(b) ΔE is the greatest in the adiabatic expansion.\n(c) ΔE is the greatest in the isobaric process.\n(d) ΔE in isothermal process lies in-between the value obtained under isobaric and adiabatic process.",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P14_SecA_Q30",
+    "Questions": "30. Inversion temperature is defined as the temperature above which a gas gets warm up and below which, the gas become cooler, when expanded adiabatically. Boyle temperature for a gas is 20°C. What will happen to the gas if it is adiabatically expanded at 50°C?\n(a) Heating\n(b) Cooling\n(c) Neither heating nor cooling\n(d) First cooling then heating",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P14_SecA_Q31",
+    "Questions": "31. An adiabatic cylinder fitted with an adiabatic piston at the right end of cylinder, is divided into two equal halves with a monoatomic gas on left side and diatomic gas on right side, using an impermeable movable adiabatic wall. If the piston is pushed slowly to compress the diatomic gas to 3/4th of its original volume. The ratio of new volume of monoatomic gas to its initial volume would be\n(a) (4/3)^(21/25)\n(b) (7/5)^(3/2)\n(c) (4/3)^(21/25)\n(d) 3/4",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P15_SecA_Q32",
+    "Questions": "32. If four identical samples of an ideal gas initially at same state (P₀, V₀, T₀) are allowed to expand to double their volumes by the following processes:\nProcess I: Isothermal reversible process\nProcess II: Reversible process P²V = constant\nProcess III: Reversible adiabatic process\nProcess IV: Irreversible adiabatic expansion against constant external pressure.\nIf the final states of gases are shown by different points in the graph represented, then match each point with the correct process:\n[Image of a P-V diagram with points 1,2,3,4 on a vertical line at V=2V₀]\n(a) I-1, II-2, III-3, IV-4\n(b) I-2, II-1, III-4, IV-3\n(c) I-4, II-3, III-2, IV-1\n(d) I-2, II-1, III-3, IV-4",
+    "Answers": "(b)",
+    "images": ["Chem4/Neraj_Kumar5.png"]
+  },
+  {
+    "ID": "P15_SecA_Q33",
+    "Questions": "33. For an ideal gas subjected to different processes as shown in the graphs, select the graph which will involve greatest amount of heat exchange if the initial and final temperatures are same in all?\n(a) [P vs V graph]\n(b) [P vs V² graph]\n(c) [P vs 1/V² graph]\n(d) [P vs 1/V³ graph]",
+    "Answers": "(a)",
+    "images": ["Chem4/Neraj_Kumar6.png", "Chem4/Neraj_Kumar7.png", "Chem4/Neraj_Kumar8.png", "Chem4/Neraj_Kumar9.png"]
+  },
+  {
+    "ID": "P15_SecA_Q34",
+    "Questions": "34. A thermodynamic process is shown in the following figure. The pressure and volumes corresponding to some points in the figure are: P_A = 3 × 10⁴ Pa, P_B = 8 × 10⁴ Pa, V_A = 2 × 10⁻³ m³, V_D = 5 × 10⁻³ m³. In the process AB, 600 J of heat is added to the system and in BC, 200 J of heat is added to the system. The change in internal energy of the system in the process AC would be\n[Image of a P-V diagram with process A->B->C]\n(a) 560 J\n(b) 800 J\n(c) 600 J\n(d) 640 J",
+    "Answers": "(a)",
+    "images": ["Chem4/Neraj_Kumar10.png"]
+  },
+  {
+    "ID": "P15_SecA_Q35",
+    "Questions": "35. Two moles of an ideal monoatomic gas undergoes a cyclic process ABCA as shown in the figure. What is the ratio of temperature at B and A?\n[Image of a P-V diagram for cyclic process ABCA]\n(a) 1:1\n(b) 3:2\n(c) 27:4\n(d) 9:2",
+    "Answers": "(c)",
+    "images": ["Chem4/Neraj_Kumar11.png"]
+  },
+  {
+    "ID": "P16_SecA_Q36",
+    "Questions": "36. One mole of a certain ideal gas is contained under a weightless piston of a vertical cylinder at a temperature T. The space over the piston opens into the atmosphere. What work has to be performed in order to increase isothermally the gas volume under the piston n times by slowly raising the piston? The friction of the piston against the cylinder walls is negligibly small.\n(a) RT(n-1- ln n)\n(b) RT(1-n + ln n)\n(c) RT In n\n(d) -RT In n",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P16_SecA_Q37",
+    "Questions": "37. A piston can freely move inside a horizontal cylinder closed from both ends. Initially, the piston separates the inside space of the cylinder into two equal parts each of volume V₀, in which an ideal gas is contained under the same pressure P₀ and at the same temperature. What work has to be performed in order to increase isothermally the volume of one part of gas η times compared to that of the other by slowly moving the piston?\n(a) P₀V₀ ln η\n(b) P₀V₀ ln((η+1)² / 4η)\n(c) P₀V₀ ln((η-1)² / 4η)\n(d) 2P₀V₀ ln η",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P16_SecA_Q38",
+    "Questions": "38. Three samples A, B and C of the same ideal gas (γ = 1.5) have equal volumes and temperatures. The volume of each sample is doubled, the process being isothermal for A, adiabatic for B and isobaric for C. If the final pressures are equal for the three samples, then the ratio of their initial pressures is\n(a) 1:1:1\n(b) 2:2:1\n(c) 2:2√2:1\n(d) 1:2√2:2",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P16_SecA_Q39",
+    "Questions": "39. A cylinder with thermally insulated walls contains an insulated partition which can slide freely. The partition divides the cylinder into two chambers containing equal moles of the same gas, the initial pressure, temperature and volume being P₀, T₀ and V₀, respectively. By means of heating coil, heat is supplied slowly to the gas in one chamber until its pressure becomes 27P₀/8. If the value of γ is 1.5, find the heat supplied to the gas in chamber A.\n(a) 5P₀V₀/4\n(b) 19P₀V₀/2\n(c) 15P₀V₀/2\n(d) 15P₀V₀/4",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P16_SecA_Q40",
+    "Questions": "40. A portion of helium gas in a vertical cylindrical container is in thermodynamic equilibrium with the surroundings. The gas is confined by a movable heavy piston. The piston is slowly elevated by a distance H from its equilibrium position and then kept in the elevated position long enough for the thermodynamic equilibrium to be re-established. After that, the container is insulated and then the piston is released. After the piston comes to rest, what is the new equilibrium position of the piston with respect to initial position?\n(a) The piston ends up 0.4H above its initial position\n(b) The piston ends up 0.6H above its initial position\n(c) The piston ends at its initial position\n(d) The piston ends up 0.4H below its initial position",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P16_SecA_Q41",
+    "Questions": "41. Three lawn chairs, one made up of aluminium (heat capacity = 0.90 J/K-g), one of iron (heat capacity = 0.45 J/K-g) and one of tin (heat capacity = 0.60 J/K-g) are painted of the same colour. On a sunny day which chair will be hotter to sit?\n(a) Iron chair\n(b) tin chair\n(c) aluminium chair\n(d) all, same",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P17_SecA_Q42",
+    "Questions": "42. One mole of a real gas is subjected to a process from (2 bar, 30 L, 300 K) to (2 bar, 40 L, 500 K). The molar heat capacity of gas at constant volume and constant pressure are 25 and 40 J/K-mol, respectively. What is the change in internal energy of the gas in this process?\n(a) 5000 J\n(b) 6000 J\n(c) 8000 J\n(d) 10,000 J",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P17_SecA_Q43",
+    "Questions": "43. A real gas is subjected to an adiabatic process from (2 bar, 40 L, 300 K) to (4 bar, 30 L, 300 K) against a constant pressure of 4 bar. The enthalpy change for the process is\n(a) zero\n(b) 6000 J\n(c) 8000 J\n(d) 10,000 J",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P17_SecA_Q44",
+    "Questions": "44. The equation of state for one mole of a gas is PV = RT + BP, where B is a constant, independent of temperature. The internal energy of fixed amount of gas is function of temperature only. If one mole of the above gas is isothermally expanded from 12 L to 22 L at a constant external pressure of 1 bar at 400 K, then the change in enthalpy of the gas is approximately (B = 2 L/mol)\n(a) 0\n(b) -3.32 J\n(c) -332 J\n(d) -166 J",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P17_SecA_Q45",
+    "Questions": "45. One mole of a real gas is subjected to heating at constant volume from (P₁, V₁, T₁) state to (P₂, V₁, T₂) state. Then it is subjected to irreversible adiabatic compression against constant external pressure of P₃ atm, till the system reaches final state (P₃, V₂, T₃). If the constant volume molar heat capacity of real gas is C_v, then the correct expression for ΔΗ from State 1 to State 3 is\n(a) C_v(T₃ – T₁) + (P₃V₁ – P₁V₁)\n(b) C_v(T₂ – T₁) + (P₃V₂ – P₁V₁)\n(c) C_v(T₂ – T₁) + (P₃V₁ – P₁V₁)\n(d) C_p(T₂ – T₁) + (P₃V₁ – P₁V₁)",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P17_SecA_Q46",
+    "Questions": "46. The efficiency of a Carnot cycle is 1/6. On decreasing the temperature of the sink by 65°C, the efficiency increases to 1/3. The temperature of source is\n(a) 117°C\n(b) 52°C\n(c) 390°C\n(d) 1755°C",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P17_SecA_Q47",
+    "Questions": "47. A Carnot engine operates between 327°C and 117°C. If it absorbs 120 cal heat per cycle from the source, the heat rejected per cycle to the sink is\n(a) 120 cal\n(b) 42 cal\n(c) 78 cal\n(d) 90 cal",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P17_SecA_Q48",
+    "Questions": "48. In which case will the efficiency of a Carnot cycle be higher: when the hot body temperature is increased by ΔT, or when the cold body temperature is decreased by the same magnitude?\n(a) same in both\n(b) on decreasing the temperature of cold body\n(c) on increasing the temperature of hot body\n(d) depends on the initial temperature of cold and hot bodies",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P17_SecA_Q49",
+    "Questions": "49. An ideal gas (γ = 1.40) is used in a Carnot cycle as a working substance. The efficiency of the cycle, if as a result of an adiabatic expansion the gas volume increases 2.75 times, is [(1.5)²⁵ = 2.75]\n(a) 100/3 %\n(b) 200/3 %\n(c) 50%\n(d) 25%",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P17_SecA_Q50",
+    "Questions": "50. What is the efficiency of a cycle consisting of two isochoric and two adiabatic lines, if the volume of the ideal gas changes 10 times within the cycle? The working substance is nitrogen. [(10)⁰.⁴ = 2.5]\n(a) 40%\n(b) 25%\n(c) 60%\n(d) 75%",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P18_SecA_Q51",
+    "Questions": "51. A reversible heat engine absorbs 40 kJ of heat at 500 K and performs 10 kJ of work rejecting the remaining amount to the sink at 300 K. The entropy change for the universe is\n(a) -80 J/K\n(b) 100 J/K\n(c) 20 J/K\n(d) 180 J/K",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P18_SecA_Q52",
+    "Questions": "52. Molar heat capacity of CD₂O (deuterated form of formaldehyde) vapour at constant pressure is 14 cal/K-mol. The entropy change associated with the cooling of 3.2 g of CD₂O vapour from 1000 K to 900 K at constant pressure is (assume ideal gas behaviour for CD₂O) [ln 0.9 = -0.1]\n(a) +0.14 cal/K\n(b) -0.14 cal/K\n(c) -1.4 cal/K\n(d) +1.4 cal/K",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P18_SecA_Q53",
+    "Questions": "53. An amount of 2 mole of CO was in the small cubical container of length, (l = a) at 57°C. The gas was taken out completely from the small container and put into large container (l = 2a) at the same temperature. What is the change in entropy, if it is assumed that the process is reversible and gas is behaving as an ideal gas?\n(a) 34.58 J/K\n(b) – 34.58 J/K\n(c) -11.53 J/K\n(d) +11.53 J/K",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P18_SecA_Q54",
+    "Questions": "54. The change in entropy accompanying the heating of one mole of helium gas (C_v,m = 3R/2), assumed ideal, from a temperature of 250 K to a temperature of 1000 K at constant pressure. (ln 2 = 0.7)\n(a) 4.2 cal/K\n(b) 7.0 cal/K\n(c) 2.1 cal/K\n(d) 3.5 cal/K",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P18_SecA_Q55",
+    "Questions": "55. The molar entropy of a constant volume sample of neon at 500 K if it is 46.2 cal/K-mol at 250 K, is (ln 2 = 0.7)\n(a) 2.1 cal/K-mol\n(b) 44.1 cal/K-mol\n(c) 48.3 cal/K-mol\n(d) 46.2 cal/K-mol",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P18_SecA_Q56",
+    "Questions": "56. A sample of perfect gas that initially occupies 15.0 L at 300 K and 1.0 bar is compressed isothermally. To what volume must the gas be compressed to reduce its entropy by 5.0 J/K? [ln 0.36 = -1.0, ln 2.7 = 1.0]\n(a) 5.4 L\n(b) 8.22 L\n(c) 40.5 L\n(d) 5.56 L",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P18_SecA_Q57",
+    "Questions": "57. A system undergoes a process in which the entropy change is +5.51 J/K. During the process, 1.50 kJ of heat is added to the system at 300 K. The correct information regarding the process is\n(a) the process is thermodynamically reversible.\n(b) the process is thermodynamically irreversible.\n(c) the process may or may not be thermodynamically reversible.\n(d) the process must be isobaric.",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P18_SecA_Q58",
+    "Questions": "58. Consider a reversible isentropic expansion of 1 mole of an ideal monoatomic gas from 27°C to 927°C. If the initial pressure of gas was 1 bar, the final pressure of gas becomes\n(a) 4 bar\n(b) 8 bar\n(c) 0.125 bar\n(d) 0.25 bar",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P18_SecA_Q59",
+    "Questions": "59. A quantity of 1.6 g helium gas is expanded adiabatically 3.0 times and then compressed isobarically to the initial volume. Assume ideal behaviour of gas and both the processes reversible. The entropy change of the gas in this process is (ln 3 = 1.1)\n(a) -1.1 cal/K\n(b) +1.1 cal/K\n(c) -2.2 cal/K\n(d) +2.2 cal/K",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P19_SecA_Q60",
+    "Questions": "60. The entropy change of 2.0 moles of an ideal gas whose adiabatic exponent γ = 1.50, if as a result of a certain process, the gas volume increased 2.0 times while the pressure dropped 4.0 times, is (ln 2 = 0.7)\n(a) -11.64 J/K\n(b) +11.64 J/K\n(c) -34.92 J/K\n(d) +34.92 J/K",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P19_SecA_Q61",
+    "Questions": "61. Each of the vessels 1 and 2 contain 1.2 moles of gaseous helium. The ratio of the vessels volumes is V₂/V₁ = 2.0, and the ratio of the absolute temperature of helium in them is T₂/T₁ = 2.0. Assuming the gas to be ideal, find the difference of gas entropies in these vessels, S₂ - S₁. (ln 2 = 0.7)\n(a) 0.84 cal/K\n(b) 4.2 cal/K\n(c) -0.84 cal/K\n(d) -4.2 cal/K",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P19_SecA_Q62",
+    "Questions": "62. One mole of an ideal gas with the adiabatic exponent 'γ' goes through a polytropic process as a result of which the absolute temperature of the gas increases τ-fold. The polytropic constant equals n. The entropy increment of the gas in this process is\n(a) (n-γ)R / ((n-1)(γ-1)) ln τ\n(b) (n-1)(γ-1) / ((n-γ)R) ln τ\n(c) (n-γ)R / (γ-1) ln τ\n(d) (n-γ)R / (n-1) ln τ",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P19_SecA_Q63",
+    "Questions": "63. The expansion process of 2.0 moles of argon proceeds so that the gas pressure increases in direct proportion to its volume. The entropy change of the gas in this process if its volume increases 2.0 times, is\n(a) +11.2 cal/K\n(b) -11.2 cal/K\n(c) +5.6 cal/K\n(d) -5.6 cal/K",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P19_SecA_Q64",
+    "Questions": "64. An ideal gas with the adiabatic exponent γ goes through a process: P = P₀ – αV, where P₀ and α are positive constants and V is the volume. At what volume will the gas entropy have the maximum value?\n(a) γP₀ / (α(γ-1))\n(b) γP₀ / (α(γ+1))\n(c) αP₀ / (γ+1)\n(d) αP₀ / (γ-1)",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P19_SecA_Q65",
+    "Questions": "65. One mole of an ideal gas undergoes a reversible process in which the entropy of the gas changes with absolute temperature T as: S = aT + C_v,m lnT, where a is a positive constant. If T = T₀ at V = V₀, the volume dependence of the gas on temperature in this process is\n(a) T = T₀ + ln V\n(b) T = T₀ + (R/a) ln(V/V₀)\n(c) T = T₀ + (R/a) ln(V/V₀)\n(d) V = V₀ + (R/a) ln(T/T₀)",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P19_SecA_Q66",
+    "Questions": "66. At very low temperature, the heat capacity of crystals is equal to C = aT³, where a is a constant. Find the entropy of a crystal as a function of temperature in this temperature interval.\n(a) S = aT³/3\n(b) S = aT³\n(c) S = aT²/2\n(d) S = aT/3",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P19_SecA_Q67",
+    "Questions": "67. The entropy change accompanying the transfer of 12,000 J of heat from a body A at 327°C to a body B at 127°C is\n(a) -10.0 J/K\n(b) +10.0 J/K\n(c) -57.8 J/K\n(d) +57.8 J/K",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P20_SecA_Q68",
+    "Questions": "68. A piece of alloy weighing 4 kg and at a temperature of 800 K is placed in 4 kg of water at 300 K. If the specific heat capacity of water is 1.0 cal/K-g and that of alloy is 4 cal/K-g, the ΔS_mix is (ln 2 = 0.7, ln 3 = 1.1, ln 7 = 1.95)\n(a) +3.33 kcal/K\n(b) -1.0 kcal/K\n(c) +1.0 kcal/K\n(d) +1.33 kcal/K",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P20_SecA_Q69",
+    "Questions": "69. Two blocks of copper metal are of same size (heat capacity = C) but at different temperatures T₁ and T₂. These blocks are brought together and allowed to attain thermal equilibrium. The entropy change of system is\n(a) C ln[((T₂ - T₁)² / 4T₁T₂) + 1]\n(b) C ln[(T₂ - T₁)² / 4T₁T₂]\n(c) C ln[((T₂ + T₁)² / 4T₁T₂) + 1]\n(d) C ln[((T₂ + T₁)² / 4T₁T₂)] - 1",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P20_SecA_Q70",
+    "Questions": "70. Assuming ideal gas behaviour, the ΔS for the isothermal mixing of 0.8 mole N₂ and 0.2 mole of O₂ is (ln 2 = 0.7, ln 10 = 2.3)\n(a) +0.96 cal/K\n(b) +0.32 cal/K\n(c) -0.96 cal/K\n(d) -0.32 cal/K",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P20_SecA_Q71",
+    "Questions": "71. If all the following gases are in monoatomic form, which has greater entropy?\n(a) H\n(b) N\n(c) O\n(d) Cl",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P20_SecA_Q72",
+    "Questions": "72. Which of the following would be expected to have the largest entropy per mole?\n(a) SO₂Cl₂(s)\n(b) SO₂Cl₂(l)\n(c) SO₂Cl₂(g)\n(d) SO₂(g)",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P20_SecA_Q73",
+    "Questions": "73. The enthalpy of formation steadily changes from -17.89 Kcal/mol to -49.82 Kcal/mol as we go from CH₄, C₂H₆ to C₈H₁₈. The value of ΔG however shows opposite trend, from -12.12 Kcal/mol for CH₄ to 4.14 Kcal/mol for C₈H₁₈. Why?\n(a) As the number of carbon atoms increases the number of possible isomers increases. This reverses the expected trend of ΔG values.\n(b) The increase in the number of C-C bonds in relation to the number of C-H bonds modifies the trend of ΔG values in relation to ΔH values.\n(c) In the formation of CnH2n+2 from n carbon atoms and (n + 1) hydrogen molecules there is a large decrease in entropy. This is reflected in the ΔG values.\n(d) No simple reason possible.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P20_SecA_Q74",
+    "Questions": "74. An amount of 5 mole H₂O(l) at 100°C and 1 atm is converted into H₂O(g) at 100°C and 5 atm. ΔG for the process is\n(a) zero\n(b) 1865 ln 5 cal\n(c) 3730 ln 5 cal\n(d) -3730 ln 5 cal",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P20_SecA_Q75",
+    "Questions": "75. Heat liberated by a given amount of an ideal gas undergoing reversible isothermal process is 1200 cal at 300 K. What is the Gibbs free energy change of the gas in this process?\n(a) zero\n(b) +1200 cal\n(c) -1200 cal\n(d) 4 cal",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P20_SecA_Q76",
+    "Questions": "76. A reaction at 300 K with ΔG° = -1743 kJ consist of 3 moles of A(g), 6 moles of B(g) and 3 moles of C(g). If A, B and C are in equilibrium in one liter vessel, then the reaction should be (ln 2 = 0.7, R = 8.3 J/K-mol)\n(a) A + B ⇌ C\n(b) A ⇌ B + 2C\n(c) 2A ⇌ B + C\n(d) A + B ⇌ 2C",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P21_SecA_Q77",
+    "Questions": "77. The vapour pressures of water and ice at -10°C are 0.28 and 0.26 Pa, respectively. What is the free energy change for the process?\nH₂O (l, -10°C, 0.28 Pa, 1 mole) → H₂O (s, -10°C, 0.26 Pa, 1 mole)\n(a) R × 263 × ln(14/13)\n(b) R × 263 × ln(13/14)\n(c) R × 10 × ln(13/14)\n(d) R × 10 × ln(14/13)",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P21_SecA_Q78",
+    "Questions": "78. A definite mass of a monoatomic ideal gas at 1 bar and 27°C expands against vacuum from 1.2 dm³ to 2.4 dm³. The change in free energy of the gas, ΔG, is (R = 0.08 bar-L/K-mol, ln 2 = 0.7)\n(a) 0\n(b) -64 bar-l\n(c) +84 J\n(d) -84 J",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P21_SecA_Q79",
+    "Questions": "79. For a reaction: A⇌B, carried out at 27°C, the ratio of equilibrium concentrations of product to reactant changes by a factor of e⁴ for every\n(a) 1.2 kcal rise in ΔG°\n(b) 1.2 kcal fall in ΔG°\n(c) 2.4 kcal rise in ΔG°\n(d) 2.4 kcal fall in ΔG°",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P21_SecA_Q80",
+    "Questions": "80. The vapour pressure of water is 0.04 atm at 27°C. The free energy change for the following process is\nH₂O (g, 0.04 atm, 27°C) → H₂O (l, 0.04 atm, 27°C)\n(a) 0\n(b) R × 300 × ln(1/25)\n(c) R × 300 × ln 25\n(d) 300R",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P21_SecB_Q1",
+    "Questions": "1. Which of the following physical quantities are independent from amount and path, both?\n(a) Internal energy\n(b) Temperature\n(c) Molar heat exchanged at constant volume\n(d) Molar heat exchanged at constant pressure",
+    "Answers": "(b), (c), (d)"
+  },
+  {
+    "ID": "P21_SecB_Q2",
+    "Questions": "2. Which of the following sets does show the intensive properties?\n(a) temperature and pressure\n(b) viscosity and surface tension\n(c) refractive index and specific heat\n(d) volume and heat capacity",
+    "Answers": "(a), (b), (c)"
+  },
+  {
+    "ID": "P21_SecB_Q3",
+    "Questions": "3. For an isolated system, the wall/boundary separating the system from surrounding must be\n(a) rigid\n(b) impermeable\n(c) adiabatic\n(d) diathermal",
+    "Answers": "(a), (b), (c)"
+  },
+  {
+    "ID": "P21_SecB_Q4",
+    "Questions": "4. An ideal gas is taken reversibly from state A (P, V) to the state B (0.5 P, 2 V) along a straight line in PV diagram. Which of the following statement(s) is/are correct regarding the process?\n(a) The work done by gas in the process A to B exceeds the work that would be done by it if the same change in state were performed isothermally.\n(b) In the T-V diagram, the path AB becomes a part of parabola.\n(c) In the P-T diagram, the path AB becomes a part of hyperbola.\n(d) On going from A to B, the temperature of the gas first increases to a maximum value and then decreases.",
+    "Answers": "(a), (b), (d)"
+  },
+  {
+    "ID": "P22_SecB_Q5",
+    "Questions": "5. ΔΕ must be zero for\n(a) cyclic process\n(b) isothermal ideal gas expansion\n(c) isothermal real gas expansion\n(d) isothermal change in physical state",
+    "Answers": "(a), (b)"
+  },
+  {
+    "ID": "P22_SecB_Q6",
+    "Questions": "6. Select the correct option(s):\n(a) Molar internal energy is an intensive property.\n(b) Ideal gases produce more work in an isothermal reversible expansion as compared to van der Waals gases, assuming (V >> nb).\n(c) Reversible process can be reversed at any point in the process by making infinitesimal change.\n(d) Less heat is absorbed by the gas in the reversible isothermal expansion as compared to irreversible isothermal expansion to the same final volume.",
+    "Answers": "(a), (b), (c)"
+  },
+  {
+    "ID": "P22_SecB_Q7",
+    "Questions": "7. Which of the following statement(s) is/are true?\n(a) C_v,m is independent of temperature for a perfect gas.\n(b) If neither heat nor matter can enter or leave a system, the system must be isolated.\n(c) ∮dF = 0, where F = U, H, G, S.\n(d) A process in which the final temperature equals to the initial temperature must be an isothermal process.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P22_SecB_Q8",
+    "Questions": "8. Which of the following statement(s) is/are incorrect?\n(a) ΔE = q + w for every thermodynamic system at rest in the absence of external field.\n(b) A thermodynamic process is specified by specifying the initial and final state of the system.\n(c) If neither heat nor matter can enter or leave a system, the system must be isolated.\n(d) For every cyclic process, the final state of the surroundings is the same as the initial state of surroundings.",
+    "Answers": "(a), (b), (c), (d)"
+  },
+  {
+    "ID": "P22_SecB_Q9",
+    "Questions": "9. Which of the following statement(s) is/are true for ideal gas?\n(a) (-w_rev) - (-w_irr) > 0 for isothermal expansion.\n(b) w_rev > w_irr for isothermal compression.\n(c) Heat rejected in isothermal process is greater in (n-1)th stage as compared to nth stage work.\n(d) Arrow shown in the graph below indicates the decreasing value of γ.",
+    "Answers": "(a), (b), (c)",
+    "Image": "Chem4/Neraj_Kumar12.png"
+  },
+  {
+    "ID": "P22_SecB_Q10",
+    "Questions": "10. An amount of 4 moles of an ideal monoatomic gas expands adiabatically and reversibly by which its temperature decreases from 47°C to 17°C. Which of the following is/are true?\n(a) q = 0\n(b) ΔΗ = 0\n(c) ΔΗ = -600 cal\n(d) ΔU = – 600 cal",
+    "Answers": "(a), (c)"
+  },
+  {
+    "ID": "P22_SecB_Q11",
+    "Questions": "11. Which of the following statement(s) is/are correct regarding ideal gas?\n(a) If all the gas molecules are assumed to be rigid spheres of negligible volume, the only possible molecular motion is translational.\n(b) In polyatomic molecules, the motion of each atom is independent to the motion of other atoms of the same molecule and the net motion of the molecule is the resultant of motion of all the constituent atoms.\n(c) Kinetic and potential energies are independent modes to describe the energy of a particle.\n(d) All polyatomic molecules have two rotational degrees of freedom.",
+    "Answers": "(a), (b), (c)"
+  },
+  {
+    "ID": "P23_SecB_Q12",
+    "Questions": "12. Two moles of an ideal gas (C_v,m = 1.5R) is subjected to the following changes in states:\nA (500 K, 5 bar) --Reversible Isothermal Expansion--> B --Isochoric Cooling--> C (250 K, 1 bar) --Single stage adiabatic compression--> D (3 bar)\nThe correct statement(s) is/are\n(a) The pressure at B is 2.0 bar.\n(b) The temperature at D is 450 K.\n(c) ΔH_CD = 1000R\n(d) ΔU_BC = 375R",
+    "Answers": "(a), (b), (c)"
+  },
+  {
+    "ID": "P23_SecB_Q13",
+    "Questions": "13. Which of the following is true for reversible adiabatic process involving an ideal gas?\n(a) Gas with higher γ has high magnitude of slope in a P (y-axis) v/s T (x-axis) curve.\n(b) Gas with higher γ has high magnitude of slope in a V (y-axis) v/s T (x-axis) curve.\n(c) Gas with higher γ has high magnitude of slope in a P (y-axis) v/s V (x-axis) curve.\n(d) Gas with higher γ has low magnitude of slope in a P (y-axis) v/s T (x-axis) curve.",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P23_SecB_Q14",
+    "Questions": "14. For a process to occur under adiabatic conditions, the essential condition(s) is/are\n(a) ΔT = 0\n(b) ΔP = 0\n(c) q = 0\n(d) ΔU = 0",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P23_SecB_Q15",
+    "Questions": "15. For a process to occur under isothermal conditions, the essential condition(s) is/are\n(a) ΔT=0\n(b) ΔP = 0\n(c) q = 0\n(d) ΔU= 0",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P23_SecB_Q16",
+    "Questions": "16. Assume ideal gas behaviour for all the gases considered and vibrational degrees of freedom to be active. Separate equimolar samples of Ne, O₂, SO₂ and CH₄ gases were subjected to a two-step process as mentioned. Initially all are at the same temperature and pressure.\nStep I: All undergo reversible adiabatic expansion to attain same final volume, which is double the original volume thereby causing the decrease in their temperature.\nStep II: After Step I, all are given appropriate amount of heat isochorically to restore the original temperature.\nWhich of the following is/are correct statement(s)?\n(a) Due to Step I only, the decrease in temperature will be maximum for Ne.\n(b) During Step II, heat given will be maximum for CH₄.\n(c) There will be no change in internal energy for any gas after both the steps of process are completed.\n(d) The P-V graph of CH₄ and SO₂ will be same for overall process.",
+    "Answers": "(a), (c)"
+  },
+  {
+    "ID": "P23_SecB_Q17",
+    "Questions": "17. Which of the following statement(s) is/are incorrect?\n(a) The specific heat capacity of substance is greater in the solid state than in liquid state.\n(b) The specific heat capacity of a substance is greater in gaseous state than in the liquid state.\n(c) The latent heat of vaporization of a substance is greater than that of fusion.\n(d) The internal energy of an ideal gas is a function of its temperature.",
+    "Answers": "(a), (b)"
+  },
+  {
+    "ID": "P23_SecB_Q18",
+    "Questions": "18. For which of the following gases, the difference in specific heats at constant pressure and at constant volume is equal to 0.04545 cal?\n(a) N₂\n(b) N₂O\n(c) CO\n(d) CO₂",
+    "Answers": "(b), (d)"
+  },
+  {
+    "ID": "P24_SecB_Q19",
+    "Questions": "19. A liquid is adiabatically compressed from state - I to state – II, suddenly by a single step, as shown in the figure then\n[Image of P-V diagram showing compression from (V₀, P₀) to (V₀/4, 2P₀)]\n(a) ΔH = 2γP₀V₀/(γ-1)\n(b) ΔU = 3P₀V₀/(γ-1)\n(c) ΔH = -P₀V₀\n(d) ΔU = -3P₀V₀",
+    "Answers": "(c), (d)",
+    "Image": "Chem4/Neraj_Kumar13.png"
+  },
+  {
+    "ID": "P24_SecB_Q20",
+    "Questions": "20. Which of the following statement(s) is/are incorrect?\n(a) For a closed system at rest with no fields, the sum of q + w has the same value for every process that goes from a given state 1 to a given state 2.\n(b) If a closed system at rest in the absence of external fields undergoes an adiabatic process that has w = 0, then the temperature of system must remain constant.\n(c) A change in state from state 1 to state 2 produces a greater increase in entropy of the system when carried out irreversible than when carried out reversibly.\n(d) The change in entropy of the system for an adiabatic process in a closed system must be zero.",
+    "Answers": "(b), (c), (d)"
+  },
+  {
+    "ID": "P24_SecB_Q21",
+    "Questions": "21. Which of the following statement(s) is/are incorrect?\n(a) Combustion of methane gas in an adiabatic rigid container will cause no change in temperature of the system.\n(b) It is possible to have both adiabatic reversible and adiabatic irreversible processes between two states.\n(c) For a reaction involving only ideal gases and occurring at constant temperature, there will not be any change in the internal energy of the system.\n(d) P-V work is always non-zero when there is some change in the volume of system.",
+    "Answers": "(a), (b), (c), (d)"
+  },
+  {
+    "ID": "P24_SecB_Q22",
+    "Questions": "22. Which of the following statement(s) is/are correct regarding reversible adiabatic and isothermal processes for an ideal gas, starting from the same initial state to the same final volume?\n(a) In expansion, more work is done by the gas in isothermal process.\n(b) In compression, more work is done on the gas in adiabatic process.\n(c) In expansion, the final temperature of gas will be higher in isothermal process.\n(d) In compression, the final temperature of gas will be higher in adiabatic process.",
+    "Answers": "(a), (b), (c), (d)"
+  },
+  {
+    "ID": "P24_SecB_Q23",
+    "Questions": "23. A heat engine is operating in between 500 K and 400 K. If the engine absorbs 100 J heat per cycle, then which of the following is impossible amount of heat rejected by the engine per cycle?\n(a) 75 J\n(b) 85 J\n(c) 90 J\n(d) 70 J",
+    "Answers": "(a), (d)"
+  },
+  {
+    "ID": "P24_SecB_Q24",
+    "Questions": "24. For the cyclic process given below, which of the following relations are correct?\n[Diagram of a cyclic process from state 1 to state 2 via Reversible path and back to state 1 via Irreversible path]\n(a) ΔS = S₂ - S₁ = ∫(δq_rev/T)\n(b) ΔS = S₁ - S₂ = ∫(δq_irr/T)\n(c) ΔS_cycle = 0 = ∫(δq_rev/T) + ∫(δq_irr/T)\n(d) ΔS_cycle = 0 > ∫(δq_rev/T) + ∫(δq_irr/T)",
+    "Answers": "(a), (d)",
+    "Image": "Chem4/Neraj_Kumar14.png"
+  },
+  {
+    "ID": "P25_SecB_Q25",
+    "Questions": "25. For which of the following process ΔS° is positive?\n(a) The dissolution of ammonium nitrate in water\n(b) The expansion of a sample of chlorine into a larger volume\n(c) The decomposition of mercuric oxide\n(d) The resting of iron",
+    "Answers": "(a), (b), (c)"
+  },
+  {
+    "ID": "P25_SecB_Q26",
+    "Questions": "26. Any process will be spontaneous at constant pressure and temperature when\n(a) ΔS_system = +ve\n(b) ΔS_univ = +ve\n(c) ΔG_sys = -ve\n(d) ΔG_univ = +ve",
+    "Answers": "(b), (c)"
+  },
+  {
+    "ID": "P25_SecB_Q27",
+    "Questions": "27. Which of the following statement(s) is/are incorrect?\n(a) Entropy is a measure of unavailable energy.\n(b) Decrease in free energy of the system represents the unavailable energy of the system.\n(c) Complete conversion of heat into work is not possible in a reversible isothermal expansion of ideal gas.\n(d) Complete conversion of heat into work is not possible in an irreversible isothermal expansion of ideal gas.",
+    "Answers": "(b), (c), (d)"
+  },
+  {
+    "ID": "P25_SecB_Q28",
+    "Questions": "28. Which of the following processes are expected to be spontaneous at low temperature and non-spontaneous at high temperature?\n(a) Dissociation of PCl₅(g) into PCl₃(g) and Cl₂(g)\n(b) Formation of H₂O(l) from H₂(g) and O₂(g)\n(c) Formation of H₂O(g) from H₂(g) and O₂(g)\n(d) Freezing of water",
+    "Answers": "(b), (c), (d)"
+  },
+  {
+    "ID": "P25_SecB_Q29",
+    "Questions": "29. The normal boiling point of a liquid is 350 K and ΔH_vap is 35 kJ/mol. Assume that ΔH_vap is independent from temperature and pressure. The correct statement(s) is/are\n(a) ΔS_vap > 100 J/K-mol at 350 K and 0.5 atm\n(b) ΔG_vap < 0 at 350 K and 0.5 atm\n(c) ΔS_vap > 100 J/K-mol at 350 K and 2.0 atm\n(d) ΔG_vap > 0 at 350 K and 2.0 atm",
+    "Answers": "(a), (b), (d)"
+  },
+  {
+    "ID": "P25_SecB_Q30",
+    "Questions": "30. Select the correct statement(s)\n(a) In a reversible process, ΔG is always zero in a closed system.\n(b) In a reversible process, ΔS_univ is always zero in a closed system.\n(c) In a reversible process, ΔS_sys is always zero in a closed system.\n(d) In a reversible process, ΔS_sys is always zero in an isolated system.",
+    "Answers": "(b), (d)"
+  },
+  {
+    "ID": "P25_CompI_Q1",
+    "Questions": "Comprehension I: An amount of 4 mole of hydrogen gas is taken in a vessel at STP and the vessel is sealed. Now the gas is cooled to -50°C.\n1. What is the change in internal energy of gas?\n(a) -600 J\n(b) -600 cal\n(c) -1000 cal\n(d) zero",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P25_CompI_Q2",
+    "Questions": "2. What is the change in enthalpy of gas?\n(a) -1400 J\n(b) -600 cal\n(c) -1000 cal\n(d) zero",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P25_CompI_Q3",
+    "Questions": "3. What is the magnitude of work done by the gas?\n(a) 600 J\n(b) 600 cal\n(c) 1000 cal\n(d) zero",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P26_CompII_Q4",
+    "Questions": "Comprehension II: An ideal gas (C_p/C_v = γ) is expanded so that the amount of heat transferred to the gas is equal to the decrease in its internal energy.\n4. What is the molar heat capacity of gas in this process?\n(a) C_v,m\n(b) -C_v,m\n(c) C_p,m\n(d) -C_p,m",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P26_CompII_Q5",
+    "Questions": "5. What is the relation between T and V of gas in this process?\n(a) TV^(2(γ-1)) = constant\n(b) TV^(γ-1) = constant\n(c) TV^((γ-1)/2) = constant\n(d) T²V^(γ-1) = constant",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P26_CompII_Q6",
+    "Questions": "6. What is the magnitude of work performed by one mole of the gas when its volume increases 8 times if the initial temperature of the gas is 300 K? C_v,m for the gas is 1.5R.\n(a) 900 cal\n(b) 450 cal\n(c) 1247.7 cal\n(d) 623.8 cal",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P26_CompIII_Q7",
+    "Questions": "Comprehension III: As a result of the isobaric heating by ΔT = 72 K, one mole of a certain ideal gas obtains an amount of heat Q = 1.60 kJ.\n7. The work performed by the gas is\n(a) 8.60 kJ\n(b) 0.60 kJ\n(c) 16.60 kJ\n(d) 4.60 kJ",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P26_CompIII_Q8",
+    "Questions": "8. The increment of its internal energy (in kJ) is\n(a) 1\n(b) 10\n(c) 2\n(d) 20",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P26_CompIII_Q9",
+    "Questions": "9. The value of γ for the gas is\n(a) 0.6\n(b) 0.16\n(c) 1.6\n(d) 2.2",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P26_CompIV_Q10",
+    "Questions": "Comprehension IV: An ideal gas whose adiabatic exponent equals γ is expanded according to the law P = αV, where α is a constant. The initial volume of the gas is equal to V₀. As a result of expansion, the volume increases 4 times.\n10. What is the in the increment of the internal energy of the gas?\n(a) 15αV₀²/(γ-1)\n(b) αV₀²/(γ-1)\n(c) 15αV₀²/2\n(d) 15α(γ+1)V₀²/(2(γ-1))",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P26_CompIV_Q11",
+    "Questions": "11. What is the magnitude of work performed by the gas?\n(a) 15αV₀²/(γ-1)\n(b) αV₀²/(γ-1)\n(c) 15αV₀²/2\n(d) 15α(γ+1)V₀²/(2(γ-1))",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P26_CompIV_Q12",
+    "Questions": "12. What is the molar heat capacity of the gas in the process?\n(a) R(γ+1)/(2(γ-1))\n(b) αV₀²/(γ-1)\n(c) R(γ-1)/(2(γ+1))\n(d) 15α(γ+1)V₀²/(2(γ-1))",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P27_CompV_Q13",
+    "Questions": "Comprehension V: One mole of an ideal gas whose adiabatic exponent equals γ undergoes a process in which the gas pressure relates to the temperature as p = aT^α, where a and α are constants.\n13. What is the magnitude of work performed by the gas if its temperature is increased by ΔT?\n(a) R(1-α)ΔT\n(b) RαΔT\n(c) RΔT/(1-α)\n(d) RΔT/α",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P27_CompV_Q14",
+    "Questions": "14. What is the molar heat capacity of the gas in the process?\n(a) R(1+α)/(γ-1)\n(b) Rα/(γ-1)\n(c) R/(γ-1) + R/(1-α)\n(d) R/(γ-1) + R/α",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P27_CompV_Q15",
+    "Questions": "15. At what value of α will the heat capacity be negative?\n(a) α < -1\n(b) α < 0\n(c) α > γ/(γ-1)\n(d) α < γ",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P27_CompVI_Q16",
+    "Questions": "Comprehension VI: An ideal gas with the adiabatic exponent γ undergoes a process in which its internal energy relates to the volume as U = aV^α, where a and α are constants.\n16. What is the magnitude of work performed by the gas to increase its internal energy by ΔU?\n(a) RΔU/(α(γ-1))\n(b) ΔU/(α(γ-1))\n(c) ΔU(γ-1)/α\n(d) ΔUα/(γ-1)",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P27_CompVI_Q17",
+    "Questions": "17. What amount of heat is to be transferred to this gas to increase its internal energy by ΔU?\n(a) ΔU(1 + (γ-1)/α)\n(b) ΔU(1 - (γ-1)/α)\n(c) ΔU(1 + α/(γ-1))\n(d) RΔU(1 + 1/α)",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P27_CompVI_Q18",
+    "Questions": "18. What is the molar heat capacity of the gas in this process?\n(a) R/(α(γ-1))\n(b) R/(α+γ-1)\n(c) R/(γ-1) + R/α\n(d) R/(γ-1) - R/α",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P27_CompVII_Q19",
+    "Questions": "Comprehension VII: The adiabatic compression of a mixture of 2 volumes of Hydrogen and 1 volume of oxygen from 320 ml to 10 ml caused explosion. The initial pressure and temperature of the gaseous mixture were 1 atm and 27°C.\n19. What is the pressure of the gaseous mixture at the moment of explosion?\n(a) 32 atm\n(b) 128 atm\n(c) 1/32 atm\n(d) 1/128 atm",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P27_CompVII_Q20",
+    "Questions": "20. What is the temperature of the gaseous mixture at the moment of explosion?\n(a) 1200 K\n(b) 300 K\n(c) 75 K\n(d) 3023.8 K",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P27_CompVII_Q21",
+    "Questions": "21. What is the magnitude of maximum work performed by the gaseous mixture before explosion?\n(a) 145.87 J\n(b) 243.12 J\n(c) 2400 J\n(d) 0",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P28_CompVIII_Q22",
+    "Questions": "Comprehension VIII: A cylindrical container of volume 44.8 L is containing equal number of moles of an ideal monoatomic gas in two sections A and B, separated by an adiabatic frictionless piston as shown in the figure. The initial temperature and pressure of gas in both section is 27.3 K and 1 atm. Now, gas in section A is slowly heated till the volume of section B becomes one-eighth of the initial volume.\n22. What will be the final pressure of gas in Section B?\n(a) 2 atm\n(b) 8 atm\n(c) 16 atm\n(d) 32 atm",
+    "Answers": "(d)",
+    "Image": ["Chem4/Neraj_Kumar15.png, Chem4/Neraj_Kumar16.png" ]
+  },
+  {
+    "ID": "P28_CompVIII_Q23",
+    "Questions": "23. What is the final temperature of gas in Section A?\n(a) 1638 K\n(b) 6988 K\n(c) 3274 K\n(d) 51 K",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P28_CompVIII_Q24",
+    "Questions": "24. The change in enthalpy of gas in Section A is\n(a) 48.3 kcal\n(b) 80.53 kcal\n(c) 4.83 kcal\n(d) 8.05 kcal",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P29_CompIX_Q25",
+    "Questions": "Comprehension IX: [Based on diagram on page 28 showing state changes of H₂O]\n25. ΔΗ (in J), when system is taken from State 1 to State 2, is\n(a) zero\n(b) 0.27\n(c) 27\n(d) 90",
+    "Answers": "(c)",
+    "Image": "Chem4/Neraj_Kumar17.png"
+  },
+  {
+    "ID": "P29_CompIX_Q26",
+    "Questions": "26. Total change in ΔU (in kJ) going from State 1 to State 3 is\n(a) 75.6\n(b) 1075.6\n(c) 1001\n(d) 74.6",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P29_CompIX_Q27",
+    "Questions": "27. Total change in enthalpy (in kJ) going from State 1 to State 3 is\n(a) 75.6\n(b) 1075.6\n(c) 1001\n(d) 74.6",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P29_CompIX_Q28",
+    "Questions": "28. What is the work done (in J) in going from State 1 to State 3?\n(a) zero\n(b) 74.6\n(c) 90\n(d) 31.5",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P29_CompX_Q29",
+    "Questions": "Comprehension X: One mole of a monoatomic ideal gas is used as a working substance in an engine working in the following reversible cycle: process AB = isobaric compression; process BC = adiabatic compression; process CD = isochoric heating; process DA = isothermal expansion. The ratio of maximum to minimum volume and temperature during the cycle is 8√2 and 4, respectively. The maximum temperature in the cycle is 800 K.\n29. The temperature of gas at state 'C' is\n(a) 800 K\n(b) 200 K\n(c) 400 K\n(d) 100 K",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P29_CompX_Q30",
+    "Questions": "30. The change in internal energy of gas in the process BC is\n(a) 2.49 kJ\n(b) -2.49 kJ\n(c) 4.16 kJ\n(d) -4.16 kJ",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P29_SecD_Q1",
+    "Questions": "Section D (Assertion – Reason)\n1. Statement I: The heat absorbed during the isothermal expansion of an ideal gas against vacuum is zero.\nStatement II: The volume occupied by the molecules of an ideal gas is negligible.",
+    "Answers": "(b)"
+  },
+  {
+    "ID": "P29_SecD_Q2",
+    "Questions": "2. Statement I: There is no change in enthalpy of an ideal gas during compression at constant temperature.\nStatement II: Enthalpy of an ideal gas is a function of temperature and pressure.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P29_SecD_Q3",
+    "Questions": "3. Statement I: The temperature of a non-ideal gas does not change in adiabatic free expansion.\nStatement II: In adiabatic free expansion of ideal as well non-ideal gas, q = w = ΔU = 0.",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P29_SecD_Q4",
+    "Questions": "4. Statement I: Due to adiabatic expansion, the temperature of an ideal gas always decreases.\nStatement II: For an adiabatic process, ΔU = w.",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P29_SecD_Q5",
+    "Questions": "5. Statement I: The magnitude of work done by an ideal gas in adiabatic reversible expansion from the same initial pressure and volume to the same final volume is less than that in isothermal reversible process.",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P30_SecD_Q6",
+    "Questions": "6. Statement I: The magnitude of work done by an ideal gas in reversible adiabatic expansion from the same initial volume to the same final pressure and volume is greater than that in reversible isothermal process.\nStatement II: If an ideal gas is expanded reversibly from the same initial volume to the same final pressure and volume, then the initial pressure is greater in adiabatic process than that in isothermal process.",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P30_SecD_Q7",
+    "Questions": "7. Statement I: The final temperature of an ideal gas in adiabatic expansion is less in reversible expansion than in irreversible expansion against a constant external pressure.\nStatement II: The magnitude of work done by an ideal gas in adiabatic expansion is more in reversible process than that in irreversible process.",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P30_SecD_Q8",
+    "Questions": "8. Statement I: The final temperature of an ideal gas in adiabatic expansion is less in reversible compression than in irreversible compression against a constant external pressure.\nStatement II: The magnitude of work done by an ideal gas in adiabatic compression is more in irreversible process than that in reversible process.",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P30_SecD_Q9",
+    "Questions": "9. Statement I: For the same mole of SO₂ and O₂ gases, more heat is needed for SO₂ gas than O₂ gas for the same increase in the temperature of the gas.\nStatement II: SO₂ gas, being triatomic, has higher heat capacity than the diatomic O₂ gas.",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P30_SecD_Q10",
+    "Questions": "10. Statement I: Decrease in free energy causes spontaneous reaction.\nStatement II: Spontaneous reactions are invariably exothermic.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P30_SecD_Q11",
+    "Questions": "11. Statement I: Many endothermic reactions that are not spontaneous at room temperature become spontaneous at high temperature.\nStatement II: Entropy of the system increases with increase in temperature.",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P30_SecD_Q12",
+    "Questions": "12. Statement I: An exothermic process, non-spontaneous at high temperature, may become spontaneous at low temperature.\nStatement II: With decrease in temperature, randomness (entropy) decreases.",
+    "Answers": "(a)"
+  },
+  {
+    "ID": "P30_SecD_Q13",
+    "Questions": "13. Statement I: A reaction which is spontaneous and accompanied by decrease of randomness must be exothermic.\nStatement II: All exothermic reactions are accompanied by decrease of randomness.",
+    "Answers": "(c)"
+  },
+  {
+    "ID": "P30_SecD_Q14",
+    "Questions": "14. Statement I: The endothermic reactions are favoured at lower temperatures and the exothermic reactions are favoured at higher temperatures.\nStatement II: When a system in equilibrium is disturbed by changing the temperature, it will tend to adjust itself so as to overcome the effect of change.",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P30_SecD_Q15",
+    "Questions": "15. Statement I: For an irreversible cyclic process in a closed system, ΔS_surr = 0.\nStatement II: Entropy is a state function.",
+    "Answers": "(d)"
+  },
+  {
+    "ID": "P31_SecE_Q1",
+    "Questions": "Section E (Column Match)\n1. Match the column\nColumn I (Process)\n(A) Isochoric\n(B) Isothermal\n(C) Isobaric\n(D) Adiabatic\nColumn II (Type of boundary possible)\n(P) Rigid\n(Q) Non-rigid\n(R) Impermeable\n(S) Diathermal\n(T) Insulated\n(U) Thermostatic",
+    "Answers": "A → P, R, S, T, U; B → P, Q, R, S, U; C → Q, R, S, T, U; D → P, Q, T"
+  },
+  {
+    "ID": "P31_SecE_Q2",
+    "Questions": "2. Match the column\nColumn I\n(A) Change in internal energy\n(B) Heat\n(C) Work done by a gas\n(D) Molar heat capacity at constant volume\nColumn II\n(P) Independent from the quantity of system\n(Q) Depends on the quantity of system\n(R) State function\n(S) Path function",
+    "Answers": "A → Q, R; B → Q, S; C → Q, S; D → P, R"
+  },
+  {
+    "ID": "P31_SecE_Q3",
+    "Questions": "3. Match the column\nColumn I (Ideal gas)\n(A) Reversible isothermal process\n(B) Reversible adiabatic process\n(C) Irreversible adiabatic process\n(D) Irreversible isothermal process\nColumn II (Related equations)\n(P) w = nRT ln(P₁/P₂)\n(Q) w = nC_v,m(T₂-T₁)\n(R) PVγ = nRT [This is likely a typo for PV=nRT or PVγ=const]\n(S) w = -∫P_ext dV",
+    "Answers": "A → P, R, S; B → Q, R, S; C → Q, R, S; D → R, S"
+  },
+  {
+    "ID": "P31_SecE_Q4",
+    "Questions": "4. Match the column: (Given process does not include chemical reaction and phase change)\nColumn I (Relation)\n(A) ΔH = ΔU + Δ(PV)\n(B) ΔH = nC_p,mΔT\n(C) q = ΔU\nColumn II (Applicable to)\n(P) Any matter undergoing any process.\n(Q) Isochoric process involving any substance.\n(R) Ideal gas, under any process.\n(S) Ideal gas under isothermal process.",
+    "Answers": "A → P, Q, R, S; B → R, S; C → Q"
+  },
+  {
+    "ID": "P31_SecE_Q5",
+    "Questions": "5. Match the column (assume C_v,m is independent of temperature)\nColumn I\n(A) dU = nC_v,mdT\n(B) dU = nC_v,mdT + n²a dV/V²\n(C) dU = n²a dV/V²\nColumn II\n(P) Ideal gas\n(Q) van der Waals gas\n(R) van der Waals gas in isothermal process\n(S) van der Waals gas in isochoric process",
+    "Answers": "A → P, S; B → Q, R, S; C → R"
+  },
+  {
+    "ID": "P31_SecE_Q6",
+    "Questions": "6. Match the process of Column I with entropy or enthalpy change in Column II\nColumn I\n(A) N₂(g) + O₂(g) → 2NO(g)\n(B) 2KI(aq) + HgI₂(aq) → K₂[HgI₄](aq)\n(C) PCl₅(g) → PCl₃(g) + Cl₂(g)\n(D) NH₃(g) + HCl(g) → NH₄Cl(s)\nColumn II\n(P) ΔS ≈ 0\n(Q) ΔS < 0\n(R) ΔH > 0\n(S) ΔH < 0",
+    "Answers": "A → P, R; B → Q, S; C → R; D → Q, S"
+  },
+  {
+    "ID": "P32_SecE_Q7",
+    "Questions": "7. Match Column I with Column II\nColumn I\n(A) Reversible isothermal expansion of an ideal gas\n(B) Reversible adiabatic expansion of an ideal gas\n(C) Adiabatic free expansion\nColumn II\n(P) ΔS_sys = ΔS_surr = ΔS_total = 0\n(Q) ΔH = ΔU = ΔS_total = 0\n(R) ΔS_total > 0\n(S) q = 0",
+    "Answers": "A → Q; B → P, S; C → R, S"
+  },
+  {
+    "ID": "P32_SecE_Q8",
+    "Questions": "8. Match Column I with Column II\nColumn I\n(A) For the process: A(l) → A(s), ΔH and ΔV may be\n(B) A₂(s) + B₂(g) → C₂(s) + D₂(s), ΔH and ΔG may be\n(C) A₂(g) → B(g) + C(g), E_a(forward) = 50 kJ/mol, E_a(backward) = 40 kJ/mol, ΔH and ΔG at very high temperature are\n(D) A(g) → B(g) ΔH and ΔG at very low temperature are\nColumn II\n(P) -ve, +ve\n(Q) +ve, -ve\n(R) +ve, +ve\n(S) -ve, -ve",
+    "Answers": "A → P, S; B → P, R, S; C → Q; D → R, S"
+  },
+  {
+    "ID": "P32_SecE_Q9",
+    "Questions": "9. Match Column I with Column II\nColumn I\n(A) Fusion at melting point\n(B) Vaporization at boiling point\n(C) Condensation at triple point\n(D) Melting at normal boiling point\nColumn II\n(P) ΔG = 0\n(Q) ΔG < 0\n(R) ΔS > 0\n(S) ΔH ≈ ΔU",
+    "Answers": "A → P, S, R; B → P, R; C → P; D → Q, R, S"
+  },
+  {
+    "ID": "P32_SecE_Q10",
+    "Questions": "10. Match Column I (graph) with the physical quantity in Column II (area shown in the graph represents the magnitude of)\nColumn I\n(A) [S vs T graph]\n(B) [T vs S graph]\n(C) [P vs V graph]\n(D) [V vs P graph]\nColumn II\n(P) q\n(Q) w\n(R) (ΔG)_T\n(S) (ΔG)_p",
+    "Answers": "A → S; B → P; C → Q; D → R"
+  },
+  {
+    "ID": "P33_SecF_Q1",
+    "Questions": "Section F (Subjective)\nSingle-digit Integer Type\n1. As 1 mole of liquid water is heated from 288 to 298 K, it expands slightly against the atmosphere. Given coefficient of cubic expansion of water is 0.0002/°C; density of water = 1.0 g cm⁻³ and external pressure = 1 bar. If the magnitude of work for this process is X J, then the value of X / (6×10⁻⁴) is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q2",
+    "Questions": "2. The final volume (in L) of one mole of an ideal gas initially at 27°C and 8.21 atm pressure, if it absorbs 420 cal of heat during a reversible isothermal expansion, is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q3",
+    "Questions": "3. A balloon containing air at 27°C and 1 bar initially is filled with air further, isothermally and reversibly till the pressure is 4 bar. If the initial diameter of the balloon is 1 m and the pressure at each stage is proportional to diameter of balloon, the magnitude of work done (in 10⁷ J) is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q4",
+    "Questions": "4. A quantity of 8 g oxygen gas is expanded isothermally at 27°C from 2 dm³ to 8 dm³ at a constant external pressure of 4 bar. If the magnitude of work done in this process is used in lifting body of mass 40 kg, the height (in meter) up to which the body can be lifted is (g = 10 ms⁻²)",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q5",
+    "Questions": "5. An amount Q of heat is added to a monoatomic ideal gas in a process in which the gas performs a work Q/2 on its surrounding. The molar heat capacity of gas (in cal/K-mol) for the process is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q6",
+    "Questions": "6. What amount of heat (in J) is to be transferred to nitrogen in the isobaric heating process for that gas to perform the work 2.0 J?",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q7",
+    "Questions": "7. Five moles of a certain ideal gas at a temperature 300 K was cooled isochorically so that the gas pressure reduced 2.0 times. Then, as a result of the isobaric process, the gas expanded till its temperature got back to the initial value. The total amount of heat absorbed (in Kcal) by the gas in this process is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q8",
+    "Questions": "8. Three moles of an ideal gas being initially at a temperature 273 K was isothermally expanded 5.0 times its initial volume and then isochorically heated so that the pressure in the final state became equal to that in the initial state. The total amount of heat transferred to the gas during the process equals 80 kJ. The value of C_v,m for this gas (in cal/K-mol) is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q9",
+    "Questions": "9. The number of degrees of freedom of molecules in a gas whose molar heat capacity is 29 J/mol-K in the process: PT = constant is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q10",
+    "Questions": "10. A quantity of 56 g of nitrogen gas is enclosed in a rigid vessel at a temperature 300 K. The amount of heat (in kcal) has to be transferred to the gas to increase the root mean square velocity of its molecules 2.0 times is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q11",
+    "Questions": "11. A gas consisting of rigid diatomic molecules was expanded in a polytropic process so that the rate of collisions of the molecules against the vessel's wall did not change. The molar heat capacity of the gas (in cal/K-mol) in this process is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q12",
+    "Questions": "12. The increase in Gibbs free energy (in kJ) of 13 g of ethanol (density = 0.78 g cm⁻³), when the pressure is increased isothermally from 1 bar to 3001 bar, is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P33_SecF_Q13",
+    "Questions": "13. At 298 K, the standard enthalpy of combustion of sucrose is –5737 kJ mol⁻¹ and the standard Gibb's energy of the reaction is -6333 kJ mol⁻¹. The additional (non-expansion) work (in kJ) that may be obtained by raising the temperature to 29°C is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P34_SecF_Q14",
+    "Questions": "14. The diamonds are formed from graphite under very high pressure. Calculate the equilibrium pressure (in 10⁵ bar) at which graphite is converted into diamond at 25°C. The densities of graphite and diamond are 2.4 and 3.6 g/cm³, respectively, and are independent of pressure. ΔG° for the conversion of graphite into diamond is 5.0 kJ/mol.",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P34_SecF_Q15",
+    "Questions": "15. The standard entropy change (in cal/K-mol) for the reaction: X ⇌ Y, if the value of ΔH° = 7.5 kcal/mol and K_c = e⁻¹⁰ at 300 K.",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P34_SecF_Q1_FourDigit",
+    "Questions": "Four-digit Integer Type\n1. One mole of a van der Waals gas expands reversibly and isothermally at 27°C from 2 L to 20 L. The magnitude of work done (in J) if a = 1.42 × 10¹² dynes cm⁴/mole and b = 30 ml/mole.",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P34_SecF_Q2_FourDigit",
+    "Questions": "2. One mole of a non-ideal gas undergoes a change of state from (2.0 atm, 3.0 L, 95 K) to (4.0 atm, 5.0 L, 245 K) with a change in internal energy, ΔU = 30.0 L-atm. The enthalpy change (ΔH) of the process in L-atm is",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P34_SecF_Q3_FourDigit",
+    "Questions": "3. The internal energy change in the conversion of 1 mole of the calcite form of CaCO₃ to the aragonite form is +0.21 kJ. The enthalpy change (in J) in the conversion at 2.7 bar is (The densities of the solids calcite and aragonite are 2.7 g cm⁻³ and 3.0 g cm⁻³, respectively.)",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P34_SecF_Q4_FourDigit",
+    "Questions": "4. A system undergoes a certain change in state by path I and the corresponding heat absorbed and work done are 10 kcal and 0 erg, respectively. For the same change in state by path II, the respective quantities are 11 kcal and 0.5 w_max, where w_max represents the work done if the changes were reversibly carried out. The magnitude of w_max in J, is (1 cal = 4.2 J)",
+    "Answers": "Answer not provided in key"
+  },
+  {
+    "ID": "P34_SecF_Q5_FourDigit",
+    "Questions": "5. The internal energy of a gas is given by U = 1.5 PV. It expands from 100 to 200 cm³ against a constant pressure of 1.0 × 10⁵ Pa. The heat absorbed (in J) by the gas in the process is",
+    "Answers": "Answer not provided in key"
+  },
+  
+    {
+    "ID": "P34_SecF_Q6_FourDigit",
+    "Questions": "6. The internal energy of a monoatomic ideal gas is 1.5 nRT. One mole of helium is kept in a cylinder of cross section 8.5 cm². The cylinder is closed by a light frictionless piston. The gas is heated slowly in a process during which a total of 42 J heat is given to the gas. If the temperature rises through 2°C, find the distance moved by the piston (in cm). Atmospheric pressure = 100 kPa.",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P34_SecF_Q7_FourDigit",
+    "Questions": "7. Only at extremely high pressure does ΔH – ΔU for condensed state reactions becomes significantly different than zero. Determine the pressure (in bar) at which ΔH – ΔU is equal to – 1.0 kJ for the reaction, C(graphite) → C(diamond). For graphite and diamond, densities are 2.25 and 3.51 g/ml, respectively.",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P34_SecF_Q8_FourDigit",
+    "Questions": "8. The melting point of a certain substance is 70°C, its normal boiling point is 450°C, its enthalpy of fusion is 30 cal/g, its enthalpy of vaporization is 45 cal/g, and its specific heat is 0.215 cal/g-K. The heat required (in cal) to convert 10 g of the substance from the solid state at 70°C to vapour at 450°C is",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P34_SecF_Q9_FourDigit",
+    "Questions": "9. When an electric current of 0.50 A from a 12 V supply is passed for 1805/6 sec through a resistance in thermal contact with water maintained at 1 atm and 373 K, it is found that 0.9 g of water is vaporized. The molar internal energy change (in kJ/mol) of water is (Take 8.314 × 373 = 3100)",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q10_FourDigit",
+    "Questions": "10. A volume of 100 ml of a liquid contained in an isolated container at a pressure of 1 bar. The pressure is steeply increases to 100 bar by which the volume of liquid is decreased by 1 ml. The change in enthalpy, ΔH, of the liquid is (Answer as 'abcd', where a = 1, if ΔH is +ve and a = 2, if ΔH is -ve, and 'bcd' is the magnitude of ΔH, in J)",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q11_FourDigit",
+    "Questions": "11. Pressure over 1000 ml of a liquid is gradually increased from 1 bar to 1001 bar under adiabatic conditions. If the final volume of the liquid is 990 ml and there is linear variation of volume with pressure, the value of ΔU of the process is (Answer as 'abcd', where a = 1, if ΔU is +ve and a = 2, if ΔU is -ve, and 'bcd' is the magnitude of ΔU, in J)",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q12_FourDigit",
+    "Questions": "12. One mole of an ideal gas (γ = 1.4) is expanded isothermally at 27°C till its volume is doubled. It is then adiabatically compressed to its original volume. The magnitude of total work done by the gas is",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q13_FourDigit",
+    "Questions": "13. Consider a classroom that is roughly 8.21m×10m×3m. Initially T=290K and P = 1atm. There are 50 people in the class, each losing energy to the room at the average rate of 166 W. Assume that the walls, ceiling, floor, and furniture are perfectly insulated and do not absorb any heat. Also assume that all the doors and windows are tightly closed to prevent any exchange of air from surrounding. How long (in sec) will the physical chemistry examination last if the professor (Mr Neeraj Kumar) has foolishly agreed to dismiss the class when the air temperature in the room reaches body temperature, 310 K? For air, C_p,m = 7R/2. (R = 0.0821 L-atm/K-mol = 8.3 J/K-mol)",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q14_FourDigit",
+    "Questions": "14. Three moles of an ideal gas (C_p,m = 2.5R) and 2 moles of another ideal gas (C_p,m = 3.5R) are taken in a vessel and compressed reversibly and adiabatically. In this process, the temperature of gaseous mixture increased from 300 K to 400 K. The increase in internal energy of gaseous mixture (in cal) is",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q15_FourDigit",
+    "Questions": "15. One mole of an ideal monoatomic gas initially at 1200 K and 64 atm is expanded to a final state at 300 K and 1 atm. To achieve the above change, a reversible path is constructed that involve an adiabatic expansion in the beginning followed by an isothermal expansion to the final state. The magnitude of net work done by the gas (in cal) is",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q16_FourDigit",
+    "Questions": "16. Calculate ΔS_univ (in J/K) for the chemical reaction: C(graphite) + 2H₂(g) → CH₄(g); ΔH°₃₀₀ = -75.0 kJ. The standard entropies of C (graphite), H₂(g) and CH₄(g) are 6.0, 130.6 and 186.2 J/K-mol, respectively.",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q17_FourDigit",
+    "Questions": "17. An athlete in the weight room lifts a 50 kg mass through a vertical distance of 2.0 m. The mass is allowed to fall through the 2.0 m distance while coupled to an electrical generator. The electrical generator produces an equal amount of electrical work, which is used to produce aluminium by Hall electrolytic process.\nAl₂O₃(solution) + 3C(graphite) → 2 Al(l) + 3CO(g); ΔG° = 600 kJ\nHow many times must the athlete lift the 50 kg mass to provide sufficient Gibbs energy to produce 27 g Al? (g = 10 m/s²)",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P35_SecF_Q18_FourDigit",
+    "Questions": "18. How much energy (in kJ) is available for sustaining muscular and nervous activity from the combustion of 1.0 mole of glucose molecules under standard conditions at 37°C (body temperature)? The standard entropy and enthalpy of reaction are +200 J/K-mol and -2808 kJ/mol, respectively.",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P36_SecF_Q19",
+    "Questions": "19. Select the conditions which represent the criteria for spontaneity of a process in a closed system, from the following given conditions:\nSerial Number | Conditions\n--- | ---\n1. | (dG)_P,T > 0\n2. | (ΔS)_universe > 0\n3. | (dU)_S,V > 0\n4. | (dH)_S,P < 0\n5. | (dS)_U,V < 0\n6. | (dS)_H,P > 0\n(Answer by adding the serial numbers of the correct conditions.)",
+    "Answers": "Answer not provided in key"
+    },
+    {
+    "ID": "P36_SecF_Q20",
+    "Questions": "20. Consider the following phase transitions:\n(i) H₂O (s, 1 atm, 273 K) → H₂O (l, 1 atm, 273 K)\n(ii) H₂O (s, 1 atm, 300 K) → H₂O (l, 1 atm, 300 K)\n(iii) H₂O (s, 1 atm, 200 K) → H₂O (l, 1 atm, 200 K)\n(iv) H₂O (s, 0.5 atm, 273 K) → H₂O (l, 0.5 atm, 273 K)\n(v) H₂O (s, 2 atm, 273 K) → H₂O (l, 2 atm, 273 K)\n(vi) C₆H₆ (l, 1 atm, 353 K) → C₆H₆ (g, 1 atm, 353 K)\n(vii) C₆H₆ (l, 1 atm, 400 K) → C₆H₆ (g, 1 atm, 400 K)\n(viii) C₆H₆ (l, 1 atm, 300 K) → C₆H₆ (g, 1 atm, 300 K)\n(ix) C₆H₆ (l, 2 atm, 323 K) → C₆H₆ (g, 2 atm, 323 K)\nThe normal freezing point of water is 273 K and the normal boiling point of benzene is 353 K.\nNow, a four-digit number 'abcd' is defined as:\nDigit 'a': number of phase transitions for which ΔS_total = 0\nDigit 'b': number of phase transitions for which ΔS_total > 0\nDigit 'c': number of phase transitions for which ΔS_total < 0\nDigit 'd': number of phase transitions for which ΔH > 0\nDetermine the number 'abcd'.",
+    "Answers": "Answer not provided in key"
+    }
+]
+  
